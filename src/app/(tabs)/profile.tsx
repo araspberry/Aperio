@@ -1,11 +1,12 @@
 // Profile — bookmarks, optional sign-in, and about.
 import React, { useCallback, useState } from "react";
-import { View, Text, ScrollView, Pressable, ActivityIndicator, Platform } from "react-native";
+import { View, Text, ScrollView, Pressable, ActivityIndicator, Platform, Alert } from "react-native";
 import { useFocusEffect, useRouter } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import * as AppleAuthentication from "expo-apple-authentication";
 import { Ionicons } from "@expo/vector-icons";
 import { useAuth } from "../../lib/auth";
+import { supabase } from "../../lib/supabase";
 import { fullSync } from "../../lib/sync";
 import { listBookmarks, type Bookmark } from "../../db/user";
 import { getBooks, type Book } from "../../db/content";
@@ -37,6 +38,30 @@ export default function ProfileScreen() {
     setSyncing(false);
   };
 
+  const deleteAccount = () => {
+    Alert.alert(
+      "Delete account?",
+      "This permanently removes your account and all synced data from our servers. Data saved on this device stays on your phone.",
+      [
+        { text: "Cancel", style: "cancel" },
+        {
+          text: "Delete account",
+          style: "destructive",
+          onPress: async () => {
+            try {
+              const { error } = await supabase.functions.invoke("delete-account");
+              if (error) throw error;
+              await signOut();
+              Alert.alert("Account deleted", "Your account and synced data have been removed.");
+            } catch {
+              Alert.alert("Couldn't delete account", "Check your connection and try again.");
+            }
+          },
+        },
+      ],
+    );
+  };
+
   return (
     <ScrollView style={{ flex: 1, backgroundColor: colors.parchment }} contentContainerStyle={{ padding: spacing.m, paddingBottom: spacing.xl }}>
       {/* Account */}
@@ -66,6 +91,9 @@ export default function ProfileScreen() {
                 <Text style={{ color: colors.inkMuted, fontWeight: "600" }}>Sign out</Text>
               </Pressable>
             </View>
+            <Pressable onPress={deleteAccount} style={{ marginTop: spacing.m, alignItems: "center" }}>
+              <Text style={{ color: colors.danger, fontSize: 14, fontWeight: "600" }}>Delete account</Text>
+            </Pressable>
           </>
         ) : (
           <>
