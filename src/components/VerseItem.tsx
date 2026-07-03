@@ -54,14 +54,14 @@ function VerseItemInner({ verse, text, isOT, selected, highlighted, wordTags, on
       suppressHighlighting
       style={{
         fontFamily: fonts.serif,
-        fontSize: 18,
-        lineHeight: 32,
-        color: colors.ink,
+        fontSize: 19,
+        lineHeight: 34,
+        color: colors.navy,
         backgroundColor: highlighted ? colors.highlight : selected ? colors.goldSoft : "transparent",
         borderRadius: 3,
       }}
     >
-      <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldDeep }}>
+      <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, color: colors.verseNum }}>
         {" "}{verse}{" "}
       </Text>
       {segments.map((s, i) =>

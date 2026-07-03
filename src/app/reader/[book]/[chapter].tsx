@@ -1,11 +1,11 @@
-// The reader — verse-by-verse with gold Strong's words, floating CLAVIS trigger,
-// verse action bar, and the Clavis study drawer.
+// The reader — verse-by-verse with gold Strong's words, the floating Clavis key,
+// and the Study Center drawer.
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { View, Text, ScrollView, Pressable } from "react-native";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
-import { Ionicons } from "@expo/vector-icons";
+import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 import {
   getBook,
   getBooks,
@@ -26,13 +26,15 @@ import { PassagePicker } from "../../../components/PassagePicker";
 import { colors, fonts, spacing } from "../../../theme";
 
 export default function ReaderScreen() {
-  const params = useLocalSearchParams<{ book: string; chapter: string }>();
+  const params = useLocalSearchParams<{ book: string; chapter: string; clavis?: string }>();
   const bookNum = parseInt(params.book ?? "1", 10) || 1;
   const chapterNum = parseInt(params.chapter ?? "1", 10) || 1;
   const db = useSQLiteContext();
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const drawerRef = useRef<ClavisDrawerHandle>(null);
+  const scrollRef = useRef<ScrollView>(null);
+  const autoOpened = useRef(false);
 
   const [book, setBook] = useState<Book | null>(null);
   const [books, setBooks] = useState<Book[]>([]);
@@ -64,9 +66,14 @@ export default function ReaderScreen() {
       setHighlighted(new Set(hls.map((h) => h.verse)));
       setChapterBookmarked(bms.some((m) => m.book_num === bookNum && m.chapter === chapterNum && m.verse == null));
       setSelected(null);
+      scrollRef.current?.scrollTo({ y: 0, animated: false });
       saveProgress(bookNum, chapterNum).catch(() => {});
+      if (params.clavis === "1" && !autoOpened.current) {
+        autoOpened.current = true;
+        setTimeout(() => drawerRef.current?.open(1), 450);
+      }
     } catch {}
-  }, [db, bookNum, chapterNum]);
+  }, [db, bookNum, chapterNum, params.clavis]);
 
   useEffect(() => {
     load();
@@ -109,7 +116,6 @@ export default function ReaderScreen() {
   }, [verses]);
 
   const isOT = bookNum <= 39;
-  const title = book ? `${book.name} ${chapterNum}` : "";
   const hasPrev = chapterNum > 1;
   const hasNext = !!book && chapterNum < book.chapters_count;
 
@@ -118,36 +124,56 @@ export default function ReaderScreen() {
       {/* Header */}
       <View
         style={{
-          paddingTop: insets.top + 6,
+          paddingTop: insets.top + 4,
           paddingBottom: 10,
           paddingHorizontal: spacing.m,
           flexDirection: "row",
           alignItems: "center",
-          justifyContent: "space-between",
           backgroundColor: colors.parchment,
           borderBottomWidth: 1,
           borderColor: colors.border,
         }}
       >
-        <Pressable onPress={() => router.back()} hitSlop={12} style={{ width: 60 }}>
-          <Ionicons name="chevron-back" size={24} color={colors.navyDeep} />
+        <Pressable onPress={() => router.back()} hitSlop={12} style={{ width: 64 }}>
+          <Ionicons name="arrow-back" size={22} color={colors.navy} />
         </Pressable>
-        <Pressable onPress={() => setPickerOpen(true)} hitSlop={8} style={{ flexDirection: "row", alignItems: "center", gap: 5 }}>
-          <Text style={{ fontFamily: fonts.display, fontSize: 19, color: colors.navyDeep }}>{title}</Text>
-          <Ionicons name="chevron-down" size={14} color={colors.goldDeep} />
+        <Pressable onPress={() => setPickerOpen(true)} hitSlop={8} style={{ flex: 1, alignItems: "center" }}>
+          <Text style={{ fontFamily: fonts.display, fontSize: 20, color: colors.navy }}>
+            {book?.name ?? ""} <Text style={{ color: colors.goldDeep }}>{chapterNum}</Text>{" "}
+            <Ionicons name="chevron-down" size={12} color={colors.inkMuted} />
+          </Text>
+          <Text style={{ fontFamily: fonts.sans, fontSize: 12, color: colors.inkMuted, marginTop: 1 }}>
+            Tap to change passage
+          </Text>
         </Pressable>
-        <View style={{ width: 60, alignItems: "flex-end" }}>
-          <Pressable onPress={() => onToggleBookmark(null)} hitSlop={12}>
-            <Ionicons
-              name={chapterBookmarked ? "bookmark" : "bookmark-outline"}
-              size={21}
-              color={chapterBookmarked ? colors.goldDeep : colors.navyDeep}
-            />
-          </Pressable>
+        <View style={{ width: 64, alignItems: "flex-end" }}>
+          <View
+            style={{
+              flexDirection: "row",
+              alignItems: "center",
+              gap: 3,
+              backgroundColor: colors.card,
+              borderWidth: 1,
+              borderColor: colors.border,
+              borderRadius: 18,
+              paddingHorizontal: 12,
+              paddingVertical: 7,
+            }}
+          >
+            <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.navy }}>NCT</Text>
+            <Ionicons name="chevron-down" size={10} color={colors.inkMuted} />
+          </View>
         </View>
       </View>
 
-      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: spacing.l, paddingBottom: 180 }}>
+      <ScrollView ref={scrollRef} style={{ flex: 1 }} contentContainerStyle={{ padding: spacing.l, paddingBottom: 160 }}>
+        <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, letterSpacing: 2.5, color: colors.inkMuted }}>
+          CHAPTER {chapterNum}
+        </Text>
+        <Text style={{ fontFamily: fonts.display, fontSize: 40, color: colors.navy, marginTop: 4, marginBottom: spacing.m }}>
+          {book?.name ?? ""}
+        </Text>
+
         {paragraphs.map((para, pi) => (
           <Text key={`${bookNum}-${chapterNum}-${pi}`} style={{ marginBottom: spacing.m }}>
             {para.map((v) => (
@@ -165,6 +191,32 @@ export default function ReaderScreen() {
             ))}
           </Text>
         ))}
+
+        {/* Chapter navigation */}
+        <View style={{ flexDirection: "row", gap: spacing.s, marginTop: spacing.l }}>
+          {hasPrev && (
+            <Pressable
+              onPress={() => router.setParams({ chapter: String(chapterNum - 1) })}
+              style={navCard}
+            >
+              <Text style={{ fontFamily: fonts.sans, fontSize: 12, color: colors.inkMuted }}>← Previous</Text>
+              <Text style={{ fontFamily: fonts.display, fontSize: 16, color: colors.navy, marginTop: 2 }}>
+                {book?.name} {chapterNum - 1}
+              </Text>
+            </Pressable>
+          )}
+          {hasNext && (
+            <Pressable
+              onPress={() => router.setParams({ chapter: String(chapterNum + 1) })}
+              style={[navCard, { alignItems: "flex-end" }]}
+            >
+              <Text style={{ fontFamily: fonts.sans, fontSize: 12, color: colors.inkMuted }}>Next →</Text>
+              <Text style={{ fontFamily: fonts.display, fontSize: 16, color: colors.navy, marginTop: 2 }}>
+                {book?.name} {chapterNum + 1}
+              </Text>
+            </Pressable>
+          )}
+        </View>
       </ScrollView>
 
       {/* Verse action bar */}
@@ -172,7 +224,7 @@ export default function ReaderScreen() {
         <View
           style={{
             position: "absolute",
-            bottom: insets.bottom + 88,
+            bottom: insets.bottom + 110,
             left: spacing.m,
             right: spacing.m,
             backgroundColor: colors.navyDeep,
@@ -194,60 +246,82 @@ export default function ReaderScreen() {
           />
           <ActionButton icon="bookmark-outline" label="Bookmark" onPress={() => onToggleBookmark(selected)} />
           <ActionButton
-            icon="sparkles"
-            label={`CLAVIS v.${selected}`}
+            icon="key"
+            label={`Clavis v.${selected}`}
             gold
-            onPress={() => {
-              drawerRef.current?.open(1, "commentary", selected);
-            }}
+            onPress={() => drawerRef.current?.open(1, "commentary", selected)}
           />
           <ActionButton icon="close" label="Close" onPress={() => setSelected(null)} />
         </View>
       )}
 
-      {/* Bottom bar: prev / CLAVIS / next */}
-      <View
+      {/* Floating Clavis key */}
+      <Pressable
+        onPress={() => drawerRef.current?.open(1)}
+        accessibilityLabel="Open Clavis Study Center"
         style={{
           position: "absolute",
-          bottom: insets.bottom + spacing.m,
-          left: spacing.m,
-          right: spacing.m,
-          flexDirection: "row",
-          gap: spacing.s,
+          right: spacing.l,
+          bottom: insets.bottom + 96,
+          width: 64,
+          height: 64,
+          borderRadius: 32,
+          backgroundColor: colors.card,
+          borderWidth: 1,
+          borderColor: colors.goldSoft,
+          alignItems: "center",
+          justifyContent: "center",
+          shadowColor: "#1B2A4A",
+          shadowOpacity: 0.22,
+          shadowRadius: 12,
+          shadowOffset: { width: 0, height: 5 },
+          elevation: 9,
         }}
       >
-        <NavButton icon="chevron-back" enabled={hasPrev} onPress={() => router.setParams({ chapter: String(chapterNum - 1) })} />
-        <Pressable
-          onPress={() => drawerRef.current?.open(1)}
+        <View
           style={{
-            flex: 1,
-            height: 52,
-            borderRadius: 26,
-            backgroundColor: colors.navyDeep,
+            width: 54,
+            height: 54,
+            borderRadius: 27,
+            borderWidth: 1,
+            borderColor: colors.border,
             alignItems: "center",
             justifyContent: "center",
-            flexDirection: "row",
-            gap: 8,
-            shadowColor: "#000",
-            shadowOpacity: 0.2,
-            shadowRadius: 8,
-            shadowOffset: { width: 0, height: 4 },
-            elevation: 6,
           }}
         >
-          <Ionicons name="sparkles" size={17} color={colors.gold} />
-          <Text style={{ color: colors.goldSoft, fontFamily: fonts.sansBold, fontSize: 14, letterSpacing: 2 }}>
-            CLAVIS
-          </Text>
-        </Pressable>
-        <NavButton icon="chevron-forward" enabled={hasNext} onPress={() => router.setParams({ chapter: String(chapterNum + 1) })} />
-      </View>
+          <MaterialCommunityIcons name="key-variant" size={26} color={colors.navy} />
+        </View>
+      </Pressable>
+
+      {/* Chapter bookmark toggle */}
+      <Pressable
+        onPress={() => onToggleBookmark(null)}
+        style={{
+          position: "absolute",
+          right: spacing.l + 76,
+          bottom: insets.bottom + 108,
+          width: 42,
+          height: 42,
+          borderRadius: 21,
+          backgroundColor: colors.card,
+          borderWidth: 1,
+          borderColor: colors.border,
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
+        <Ionicons
+          name={chapterBookmarked ? "bookmark" : "bookmark-outline"}
+          size={18}
+          color={chapterBookmarked ? colors.goldDeep : colors.navy}
+        />
+      </Pressable>
 
       <ClavisDrawer
         ref={drawerRef}
         bookNum={bookNum}
         chapter={chapterNum}
-        reference={title}
+        reference={`${book?.name ?? ""} ${chapterNum}`}
         commentary={commentary}
         verses={verses}
         onVersePick={(v) => setSelected(v)}
@@ -268,6 +342,15 @@ export default function ReaderScreen() {
   );
 }
 
+const navCard = {
+  flex: 1,
+  backgroundColor: colors.card,
+  borderRadius: 14,
+  borderWidth: 1,
+  borderColor: colors.border,
+  padding: spacing.m,
+} as const;
+
 function ActionButton({ icon, label, onPress, gold }: { icon: any; label: string; onPress: () => void; gold?: boolean }) {
   return (
     <Pressable onPress={onPress} style={{ alignItems: "center" }} hitSlop={8}>
@@ -275,27 +358,6 @@ function ActionButton({ icon, label, onPress, gold }: { icon: any; label: string
       <Text style={{ color: gold ? colors.gold : colors.goldSoft, fontFamily: fonts.sansMed, fontSize: 10.5, marginTop: 2 }}>
         {label}
       </Text>
-    </Pressable>
-  );
-}
-
-function NavButton({ icon, enabled, onPress }: { icon: any; enabled: boolean; onPress: () => void }) {
-  return (
-    <Pressable
-      disabled={!enabled}
-      onPress={onPress}
-      style={{
-        width: 52,
-        height: 52,
-        borderRadius: 26,
-        backgroundColor: enabled ? colors.card : colors.parchmentAlt,
-        borderWidth: 1,
-        borderColor: colors.border,
-        alignItems: "center",
-        justifyContent: "center",
-      }}
-    >
-      <Ionicons name={icon} size={22} color={enabled ? colors.navyDeep : colors.border} />
     </Pressable>
   );
 }

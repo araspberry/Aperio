@@ -4,19 +4,26 @@
 export const colors = {
   navyDeep: "#0D1A30",
   navy: "#1B2A4A",
+  navySheet: "#12213E", // Clavis Study Center drawer
   goldSoft: "#D4B87A",
   goldDeep: "#9A6E1A",
   gold: "#C4952A",
-  parchment: "#F5EDD8",
-  parchmentAlt: "#F5F0E6",
-  card: "#FDFAF2",
+  parchment: "#FAF8F1", // warm near-white app background (per screenshots)
+  parchmentAlt: "#F2EEE2",
+  card: "#FFFFFF",
+  cream: "#F5EDD8",
   ink: "#1D2438",
-  inkMuted: "#6D6A5E",
-  border: "#E4DBC2",
+  inkMuted: "#777161",
+  verseNum: "#A29B89",
+  border: "#E7E0CD",
   highlight: "#F1E3B4",
   danger: "#A93F3F",
   white: "#FFFFFF",
-  tabInactive: "#8E96AC",
+  blue: "#2563EB", // active tab tint (per screenshots)
+  blueSoft: "#E8EFFD",
+  tabInactive: "#8B8676",
+  gradientTop: "#2B50C4", // Scripture of the Day card
+  gradientBottom: "#0B1730",
 };
 
 // Loaded in the root layout via expo-font.

@@ -44,8 +44,8 @@ async function buildQuiz(db: SQLiteDatabase, books: Book[]): Promise<Question[]>
   };
   const questions: Question[] = [];
 
-  // 3 × "which book is this verse from?"
-  for (let i = 0; i < 3; i++) {
+  // 4 × "which book is this verse from?"
+  for (let i = 0; i < 4; i++) {
     const row = await db.getFirstAsync<{ book_num: number; text: string }>(
       `SELECT book_num, text FROM verses WHERE length(text) BETWEEN 80 AND 220
        LIMIT 1 OFFSET ${Math.floor(rand() * 25000)}`,
@@ -62,8 +62,8 @@ async function buildQuiz(db: SQLiteDatabase, books: Book[]): Promise<Question[]>
     });
   }
 
-  // 2 × "what does this word mean?" (Strong's)
-  for (let i = 0; i < 2; i++) {
+  // 3 × "what does this word mean?" (Strong's)
+  for (let i = 0; i < 3; i++) {
     const rows = await db.getAllAsync<{ lemma: string; translit: string; kjv_def: string; language: string }>(
       `SELECT lemma, translit, kjv_def, language FROM strongs
        WHERE length(kjv_def) BETWEEN 4 AND 40 AND kjv_def NOT LIKE '%,%'
