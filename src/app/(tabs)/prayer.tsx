@@ -14,8 +14,9 @@ import {
 import { useFocusEffect } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
-import { listPrayers, addPrayer, updatePrayer, deletePrayer, type Prayer } from "../../db/user";
+import { listPrayers, addPrayer, updatePrayer, deletePrayer, getStreak, recordActivity, type Prayer } from "../../db/user";
 import { fullSync } from "../../lib/sync";
+import { AnimatedFlame } from "../../components/AnimatedFlame";
 import { colors, spacing, fonts, type } from "../../theme";
 
 export default function PrayerScreen() {
@@ -24,10 +25,12 @@ export default function PrayerScreen() {
   const [editing, setEditing] = useState<Prayer | "new" | null>(null);
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
+  const [streak, setStreak] = useState(0);
 
   const load = useCallback(async () => {
     try {
       setPrayers(await listPrayers());
+      setStreak(await getStreak());
     } catch {}
   }, []);
 
@@ -49,6 +52,7 @@ export default function PrayerScreen() {
     try {
       if (editing === "new") await addPrayer(t, body.trim());
       else if (editing) await updatePrayer(editing.id, { title: t, body: body.trim() });
+      await recordActivity();
       setEditing(null);
       await load();
       fullSync().catch(() => {});
@@ -86,6 +90,11 @@ export default function PrayerScreen() {
         data={prayers}
         keyExtractor={(p) => p.id}
         contentContainerStyle={{ padding: spacing.m, paddingBottom: 120 + insets.bottom }}
+        ListHeaderComponent={
+          <View style={{ flexDirection: "row", justifyContent: "flex-end", marginBottom: spacing.s }}>
+            <AnimatedFlame streak={streak} />
+          </View>
+        }
         ListEmptyComponent={
           <View style={{ marginTop: spacing.xl, paddingHorizontal: spacing.m }}>
             <Text style={[type.body, { color: colors.inkMuted, textAlign: "center" }]}>

@@ -16,7 +16,44 @@ async function currentUserId(): Promise<string | null> {
 export async function fullSync(): Promise<void> {
   const userId = await currentUserId();
   if (!userId) return;
-  await Promise.allSettled([syncBookmarks(userId), syncHighlights(userId), syncPrayers(userId)]);
+  await Promise.allSettled([
+    syncBookmarks(userId),
+    syncHighlights(userId),
+    syncPrayers(userId),
+    syncNotes(userId),
+  ]);
+}
+
+async function syncNotes(userId: string): Promise<void> {
+  const db = await getUserDb();
+  const dirty = await db.getAllAsync<any>("SELECT * FROM notes WHERE dirty = 1");
+  for (const n of dirty) {
+    if (n.deleted) {
+      const { error } = await supabase.from("notes").delete().eq("id", n.id);
+      if (!error) await db.runAsync("DELETE FROM notes WHERE id = ?", [n.id]);
+      continue;
+    }
+    const { error } = await supabase.from("notes").upsert({
+      id: n.id,
+      user_id: userId,
+      book_num: n.book_num,
+      chapter: n.chapter,
+      verse: n.verse,
+      body: n.body,
+      created_at: n.created_at,
+      updated_at: n.updated_at,
+    });
+    if (!error) await db.runAsync("UPDATE notes SET dirty = 0 WHERE id = ?", [n.id]);
+  }
+  const { data: remote, error } = await supabase.from("notes").select("*");
+  if (error || !remote) return;
+  for (const r of remote) {
+    await db.runAsync(
+      `INSERT OR IGNORE INTO notes (id, book_num, chapter, verse, body, created_at, updated_at, deleted, dirty)
+       VALUES (?,?,?,?,?,?,?,0,0)`,
+      [r.id, r.book_num, r.chapter, r.verse, r.body, r.created_at, r.updated_at],
+    );
+  }
 }
 
 async function syncBookmarks(userId: string): Promise<void> {

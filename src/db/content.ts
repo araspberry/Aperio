@@ -120,6 +120,53 @@ export async function searchStrongs(db: SQLiteDatabase, query: string, limit = 4
   }
 }
 
+export interface CrossRef {
+  ref_book_num: number;
+  ref_chapter: number;
+  ref_verse_start: number | null;
+  ref_verse_end: number | null;
+  ref_label: string;
+  book_name: string;
+}
+
+export async function getCrossrefs(db: SQLiteDatabase, bookNum: number, chapter: number): Promise<CrossRef[]> {
+  return db.getAllAsync<CrossRef>(
+    `SELECT c.ref_book_num, c.ref_chapter, c.ref_verse_start, c.ref_verse_end, c.ref_label, b.name AS book_name
+     FROM crossrefs c JOIN books b ON b.book_num = c.ref_book_num
+     WHERE c.book_num = ? AND c.chapter = ? ORDER BY c.ref_label`,
+    [bookNum, chapter],
+  );
+}
+
+export async function getVersePreview(db: SQLiteDatabase, bookNum: number, chapter: number, verse: number | null): Promise<string> {
+  const row = verse
+    ? await db.getFirstAsync<{ text: string }>(
+        "SELECT text FROM verses WHERE book_num = ? AND chapter = ? AND verse = ?",
+        [bookNum, chapter, verse],
+      )
+    : await db.getFirstAsync<{ text: string }>(
+        "SELECT text FROM verses WHERE book_num = ? AND chapter = ? AND verse = 1",
+        [bookNum, chapter],
+      );
+  return row?.text ?? "";
+}
+
+let wordTagCache: Map<string, { h: string | null; g: string | null }> | null = null;
+
+/** Word → Strong's mapping used to render tappable gold words in the reader. */
+export async function getWordTags(db: SQLiteDatabase): Promise<Map<string, { h: string | null; g: string | null }>> {
+  if (wordTagCache) return wordTagCache;
+  const rows = await db.getAllAsync<{ word: string; strongs_h: string | null; strongs_g: string | null }>(
+    "SELECT word, strongs_h, strongs_g FROM word_tags",
+  );
+  wordTagCache = new Map(rows.map((r) => [r.word, { h: r.strongs_h, g: r.strongs_g }]));
+  return wordTagCache;
+}
+
+export async function getStrongsEntry(db: SQLiteDatabase, id: string): Promise<StrongsEntry | null> {
+  return db.getFirstAsync<StrongsEntry>("SELECT * FROM strongs WHERE id = ?", [id]);
+}
+
 /** Parse references like "John 3:16", "1 John 4", "Gen 1:1". Returns null if not a reference. */
 export function parseReference(
   books: Book[],

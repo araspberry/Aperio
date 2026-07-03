@@ -75,7 +75,7 @@ export default function SearchScreen() {
         ListHeaderComponent={
           refHit ? (
             <Pressable
-              onPress={() => router.push(`/read/${refHit.book.book_num}/${refHit.chapter}`)}
+              onPress={() => router.push(`/reader/${refHit.book.book_num}/${refHit.chapter}`)}
               style={{
                 backgroundColor: colors.navy,
                 borderRadius: 14,
@@ -107,9 +107,9 @@ export default function SearchScreen() {
         }
         renderItem={({ item }) => (
           <Pressable
-            onPress={() => router.push(`/read/${item.book_num}/${item.chapter}`)}
+            onPress={() => router.push(`/reader/${item.book_num}/${item.chapter}`)}
             style={({ pressed }) => ({
-              backgroundColor: pressed ? colors.parchmentDeep : colors.card,
+              backgroundColor: pressed ? colors.parchmentAlt : colors.card,
               borderRadius: 12,
               borderWidth: 1,
               borderColor: colors.border,

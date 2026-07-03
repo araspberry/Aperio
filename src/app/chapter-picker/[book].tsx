@@ -1,10 +1,10 @@
-// Chapter picker for a book.
+// Chapter picker — numbered grid.
 import React, { useEffect, useState } from "react";
 import { View, Text, FlatList, Pressable } from "react-native";
 import { useLocalSearchParams, useRouter, Stack } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
-import { getBook, type Book } from "../../../db/content";
-import { colors, spacing, fonts } from "../../../theme";
+import { getBook, type Book } from "../../db/content";
+import { colors, fonts, spacing } from "../../theme";
 
 export default function ChapterPicker() {
   const { book } = useLocalSearchParams<{ book: string }>();
@@ -24,13 +24,13 @@ export default function ChapterPicker() {
       <Stack.Screen options={{ title: b.name }} />
       <FlatList
         style={{ backgroundColor: colors.parchment }}
-        contentContainerStyle={{ padding: spacing.m }}
+        contentContainerStyle={{ padding: spacing.m, paddingBottom: 120 }}
         data={Array.from({ length: b.chapters_count }, (_, i) => i + 1)}
         numColumns={5}
         keyExtractor={(n) => String(n)}
         renderItem={({ item }) => (
           <Pressable
-            onPress={() => router.push(`/read/${bookNum}/${item}`)}
+            onPress={() => router.push(`/reader/${bookNum}/${item}`)}
             style={({ pressed }) => ({
               flex: 1,
               margin: 4,
@@ -44,7 +44,7 @@ export default function ChapterPicker() {
               justifyContent: "center",
             })}
           >
-            <Text style={{ fontFamily: fonts.serif, fontSize: 17, color: colors.ink }}>{item}</Text>
+            <Text style={{ fontFamily: fonts.serifSemi, fontSize: 16, color: colors.ink }}>{item}</Text>
           </Pressable>
         )}
       />

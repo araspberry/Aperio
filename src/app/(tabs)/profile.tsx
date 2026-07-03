@@ -150,9 +150,9 @@ export default function ProfileScreen() {
         bookmarks.map((m) => (
           <Pressable
             key={m.id}
-            onPress={() => router.push(`/read/${m.book_num}/${m.chapter}`)}
+            onPress={() => router.push(`/reader/${m.book_num}/${m.chapter}`)}
             style={({ pressed }) => ({
-              backgroundColor: pressed ? colors.parchmentDeep : colors.card,
+              backgroundColor: pressed ? colors.parchmentAlt : colors.card,
               borderRadius: 12,
               borderWidth: 1,
               borderColor: colors.border,

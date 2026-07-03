@@ -45,6 +45,25 @@ export function getUserDb(): Promise<SQLite.SQLiteDatabase> {
           chapter INTEGER NOT NULL,
           updated_at TEXT NOT NULL
         );
+        CREATE TABLE IF NOT EXISTS notes (
+          id TEXT PRIMARY KEY,
+          book_num INTEGER NOT NULL,
+          chapter INTEGER NOT NULL,
+          verse INTEGER,
+          body TEXT NOT NULL DEFAULT '',
+          created_at TEXT NOT NULL,
+          updated_at TEXT NOT NULL,
+          deleted INTEGER NOT NULL DEFAULT 0,
+          dirty INTEGER NOT NULL DEFAULT 1
+        );
+        CREATE TABLE IF NOT EXISTS activity (
+          day TEXT PRIMARY KEY
+        );
+        CREATE TABLE IF NOT EXISTS quiz_history (
+          day TEXT PRIMARY KEY,
+          score INTEGER NOT NULL,
+          total INTEGER NOT NULL
+        );
       `);
       return db;
     })();
@@ -172,6 +191,79 @@ export async function deletePrayer(id: string): Promise<void> {
   await db.runAsync("UPDATE prayers SET deleted = 1, updated_at = ?, dirty = 1 WHERE id = ?", [now(), id]);
 }
 
+// ---- Notes (Clavis "My Notes") ----
+export interface Note {
+  id: string;
+  book_num: number;
+  chapter: number;
+  verse: number | null;
+  body: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export async function listNotes(book_num: number, chapter: number): Promise<Note[]> {
+  const db = await getUserDb();
+  return db.getAllAsync<Note>(
+    "SELECT * FROM notes WHERE deleted = 0 AND book_num = ? AND chapter = ? ORDER BY created_at DESC",
+    [book_num, chapter],
+  );
+}
+
+export async function addNote(book_num: number, chapter: number, verse: number | null, body: string): Promise<void> {
+  const db = await getUserDb();
+  await db.runAsync(
+    "INSERT INTO notes (id, book_num, chapter, verse, body, created_at, updated_at, deleted, dirty) VALUES (?,?,?,?,?,?,?,0,1)",
+    [uuid(), book_num, chapter, verse, body, now(), now()],
+  );
+}
+
+export async function deleteNote(id: string): Promise<void> {
+  const db = await getUserDb();
+  await db.runAsync("UPDATE notes SET deleted = 1, updated_at = ?, dirty = 1 WHERE id = ?", [now(), id]);
+}
+
+// ---- Activity streak & daily quiz ----
+const today = () => new Date().toISOString().slice(0, 10);
+
+export async function recordActivity(): Promise<void> {
+  try {
+    const db = await getUserDb();
+    await db.runAsync("INSERT OR IGNORE INTO activity (day) VALUES (?)", [today()]);
+  } catch {}
+}
+
+export async function getStreak(): Promise<number> {
+  const db = await getUserDb();
+  const rows = await db.getAllAsync<{ day: string }>("SELECT day FROM activity ORDER BY day DESC LIMIT 400");
+  const days = new Set(rows.map((r) => r.day));
+  let streak = 0;
+  const d = new Date();
+  if (!days.has(d.toISOString().slice(0, 10))) d.setDate(d.getDate() - 1); // streak survives until today is missed
+  while (days.has(d.toISOString().slice(0, 10))) {
+    streak += 1;
+    d.setDate(d.getDate() - 1);
+  }
+  return streak;
+}
+
+export async function getTodayQuiz(): Promise<{ score: number; total: number } | null> {
+  const db = await getUserDb();
+  return db.getFirstAsync<{ score: number; total: number }>(
+    "SELECT score, total FROM quiz_history WHERE day = ?",
+    [today()],
+  );
+}
+
+export async function saveQuizResult(score: number, total: number): Promise<void> {
+  const db = await getUserDb();
+  await db.runAsync(
+    "INSERT INTO quiz_history (day, score, total) VALUES (?,?,?) ON CONFLICT(day) DO UPDATE SET score=excluded.score, total=excluded.total",
+    [today(), score, total],
+  );
+  await recordActivity();
+}
+
 // ---- Reading position ----
 export async function saveProgress(book_num: number, chapter: number): Promise<void> {
   const db = await getUserDb();
@@ -179,6 +271,7 @@ export async function saveProgress(book_num: number, chapter: number): Promise<v
     "INSERT INTO progress (k, book_num, chapter, updated_at) VALUES ('last',?,?,?) ON CONFLICT(k) DO UPDATE SET book_num=excluded.book_num, chapter=excluded.chapter, updated_at=excluded.updated_at",
     [book_num, chapter, now()],
   );
+  await recordActivity();
 }
 
 export async function getProgress(): Promise<{ book_num: number; chapter: number } | null> {
