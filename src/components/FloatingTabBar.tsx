@@ -1,9 +1,9 @@
-// Custom floating tab bar — navy pill with gold active state, per the UX schema.
+// Custom floating tab bar — dark navy pill with light icons (Jul 2026 redesign).
 import React from "react";
-import { View, Pressable, Text } from "react-native";
+import { View, Pressable } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
-import { Ionicons } from "@expo/vector-icons";
-import { colors, fonts } from "../theme";
+import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
+import { colors } from "../theme";
 
 const ICONS: Record<string, { active: keyof typeof Ionicons.glyphMap; idle: keyof typeof Ionicons.glyphMap }> = {
   index: { active: "home", idle: "home-outline" },
@@ -22,12 +22,10 @@ export function FloatingTabBar({ state, descriptors, navigation }: any) {
         left: 14,
         right: 14,
         bottom: Math.max(insets.bottom, 12),
-        backgroundColor: colors.white,
+        backgroundColor: colors.navyInk,
         borderRadius: 32,
-        borderWidth: 1,
-        borderColor: colors.border,
         flexDirection: "row",
-        paddingVertical: 8,
+        paddingVertical: 12,
         paddingHorizontal: 8,
         shadowColor: "#1B2A4A",
         shadowOpacity: 0.14,
@@ -54,22 +52,18 @@ export function FloatingTabBar({ state, descriptors, navigation }: any) {
             style={{
               flex: 1,
               alignItems: "center",
-              gap: 2,
-              paddingVertical: 7,
+              paddingVertical: 9,
               borderRadius: 22,
-              backgroundColor: focused ? colors.blueSoft : "transparent",
+              backgroundColor: focused ? "rgba(255,255,255,0.12)" : "transparent",
             }}
           >
-            <Ionicons name={focused ? icons.active : icons.idle} size={21} color={focused ? colors.blue : colors.ink} />
-            <Text
-              style={{
-                fontFamily: focused ? fonts.sansBold : fonts.sansMed,
-                fontSize: 10.5,
-                color: focused ? colors.blue : colors.ink,
-              }}
-            >
-              {label}
-            </Text>
+            {route.name === "read" ? (
+              <MaterialCommunityIcons name="book-cross" size={22} color={focused ? colors.white : "#94A0BC"} />
+            ) : route.name === "prayer" ? (
+              <MaterialCommunityIcons name="hands-pray" size={22} color={focused ? colors.white : "#94A0BC"} />
+            ) : (
+              <Ionicons name={focused ? icons.active : icons.idle} size={22} color={focused ? colors.white : "#94A0BC"} />
+            )}
           </Pressable>
         );
       })}

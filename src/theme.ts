@@ -22,6 +22,13 @@ export const colors = {
   blue: "#2563EB", // active tab tint (per screenshots)
   blueSoft: "#E8EFFD",
   tabInactive: "#8B8676",
+  // Redesign (Jul 2026 screenshots)
+  scriptureBlue: "#D9E3F2", // powder-blue Scripture of the Day card
+  slate: "#5D6D8E", // Prayer Journal banner
+  sage: "#ACC0A2", // Clavis Recommends — reading plan card
+  rose: "#C8ACA3", // Clavis Recommends — deep dive card
+  cardBorder: "#D8DEE9", // cool thin border on white cards
+  navyInk: "#122344", // headings / filled pills / tab bar
   gradientTop: "#2B50C4", // Scripture of the Day card
   gradientBottom: "#0B1730",
 };
