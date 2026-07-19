@@ -8,14 +8,14 @@ export const colors = {
   goldSoft: "#D4B87A",
   goldDeep: "#9A6E1A",
   gold: "#C4952A",
-  parchment: "#FAF8F1", // warm near-white app background (per screenshots)
-  parchmentAlt: "#F2EEE2",
+  parchment: "#F7F7F8", // very light soft gray app background
+  parchmentAlt: "#EFEFF1",
   card: "#FFFFFF",
   cream: "#F5EDD8",
   ink: "#1D2438",
   inkMuted: "#777161",
   verseNum: "#A29B89",
-  border: "#E7E0CD",
+  border: "#E2E6EE",
   highlight: "#F1E3B4",
   danger: "#A93F3F",
   white: "#FFFFFF",

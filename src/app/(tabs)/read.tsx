@@ -47,7 +47,7 @@ export default function ReadScreen() {
       style={{ flex: 1, backgroundColor: colors.parchment }}
       contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingHorizontal: spacing.l, paddingBottom: 130 }}
     >
-      <Text style={{ fontFamily: fonts.display, fontSize: 32, color: colors.navy }}>Read the Bible</Text>
+      <Text style={{ fontFamily: fonts.display, fontSize: 32, color: colors.navyInk }}>Read the Bible</Text>
       <Text style={{ fontFamily: fonts.sans, fontSize: 14.5, color: colors.inkMuted, marginTop: 6 }}>
         All 66 books · tap a chapter to begin.
       </Text>
@@ -59,7 +59,7 @@ export default function ReadScreen() {
           backgroundColor: colors.card,
           borderRadius: 16,
           borderWidth: 1,
-          borderColor: colors.border,
+          borderColor: colors.cardBorder,
           paddingHorizontal: spacing.m,
           marginTop: spacing.m,
         }}
@@ -87,11 +87,11 @@ export default function ReadScreen() {
                 alignItems: "baseline",
                 marginTop: spacing.l,
                 borderBottomWidth: 1,
-                borderColor: colors.border,
+                borderColor: colors.cardBorder,
                 paddingBottom: spacing.s,
               }}
             >
-              <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.navy }}>{t.name}</Text>
+              <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.navyInk }}>{t.name}</Text>
               <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, letterSpacing: 1.5, color: colors.goldDeep }}>
                 {tBooks.length} BOOKS
               </Text>
@@ -112,14 +112,14 @@ export default function ReadScreen() {
                         style={({ pressed }) => ({
                           width: "48.4%",
                           backgroundColor: pressed ? colors.parchmentAlt : colors.card,
-                          borderRadius: 14,
+                          borderRadius: 18,
                           borderWidth: 1,
-                          borderColor: colors.border,
+                          borderColor: colors.cardBorder,
                           paddingHorizontal: spacing.m,
                           paddingVertical: 14,
                         })}
                       >
-                        <Text style={{ fontFamily: fonts.display, fontSize: 19, color: colors.navy }} numberOfLines={1}>
+                        <Text style={{ fontFamily: fonts.display, fontSize: 19, color: colors.navyInk }} numberOfLines={1}>
                           {b.name}
                         </Text>
                         <Text style={{ fontFamily: fonts.sans, fontSize: 13, color: colors.inkMuted, marginTop: 3 }}>

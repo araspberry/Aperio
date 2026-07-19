@@ -50,7 +50,7 @@ export default function SearchScreen() {
             backgroundColor: colors.card,
             borderRadius: 14,
             borderWidth: 1,
-            borderColor: colors.border,
+            borderColor: colors.cardBorder,
             paddingHorizontal: spacing.m,
           }}
         >
@@ -77,7 +77,7 @@ export default function SearchScreen() {
             <Pressable
               onPress={() => router.push(`/reader/${refHit.book.book_num}/${refHit.chapter}`)}
               style={{
-                backgroundColor: colors.navy,
+                backgroundColor: colors.navyInk,
                 borderRadius: 14,
                 padding: spacing.m,
                 marginBottom: spacing.m,
@@ -110,9 +110,9 @@ export default function SearchScreen() {
             onPress={() => router.push(`/reader/${item.book_num}/${item.chapter}`)}
             style={({ pressed }) => ({
               backgroundColor: pressed ? colors.parchmentAlt : colors.card,
-              borderRadius: 12,
+              borderRadius: 16,
               borderWidth: 1,
-              borderColor: colors.border,
+              borderColor: colors.cardBorder,
               padding: spacing.m,
               marginBottom: spacing.s,
             })}

@@ -110,7 +110,7 @@ export default function PrayerScreen() {
               backgroundColor: colors.card,
               borderRadius: 14,
               borderWidth: 1,
-              borderColor: colors.border,
+              borderColor: colors.cardBorder,
               padding: spacing.m,
               marginBottom: spacing.s,
               opacity: item.answered ? 0.75 : 1,
@@ -157,7 +157,7 @@ export default function PrayerScreen() {
           width: 58,
           height: 58,
           borderRadius: 29,
-          backgroundColor: colors.navy,
+          backgroundColor: colors.navyInk,
           alignItems: "center",
           justifyContent: "center",
           shadowColor: "#000",
@@ -167,7 +167,7 @@ export default function PrayerScreen() {
           elevation: 8,
         }}
       >
-        <Ionicons name="add" size={30} color={colors.gold} />
+        <Ionicons name="add" size={30} color={colors.white} />
       </Pressable>
 
       <Modal visible={editing !== null} animationType="slide" presentationStyle="pageSheet" onRequestClose={() => setEditing(null)}>
@@ -194,7 +194,7 @@ export default function PrayerScreen() {
                 backgroundColor: colors.card,
                 borderRadius: 12,
                 borderWidth: 1,
-                borderColor: colors.border,
+                borderColor: colors.cardBorder,
                 padding: spacing.m,
                 fontSize: 17,
                 fontFamily: fonts.serif,
@@ -211,7 +211,7 @@ export default function PrayerScreen() {
                 backgroundColor: colors.card,
                 borderRadius: 12,
                 borderWidth: 1,
-                borderColor: colors.border,
+                borderColor: colors.cardBorder,
                 padding: spacing.m,
                 fontSize: 15,
                 color: colors.ink,

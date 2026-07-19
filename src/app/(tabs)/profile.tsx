@@ -65,7 +65,7 @@ export default function ProfileScreen() {
   return (
     <ScrollView style={{ flex: 1, backgroundColor: colors.parchment }} contentContainerStyle={{ padding: spacing.m, paddingBottom: spacing.xl }}>
       {/* Account */}
-      <View style={{ backgroundColor: colors.card, borderRadius: 16, borderWidth: 1, borderColor: colors.border, padding: spacing.m }}>
+      <View style={{ backgroundColor: colors.card, borderRadius: 22, borderWidth: 1, borderColor: colors.cardBorder, padding: spacing.m }}>
         {session ? (
           <>
             <Text style={type.h2}>Signed in</Text>
@@ -76,7 +76,7 @@ export default function ProfileScreen() {
             <View style={{ flexDirection: "row", gap: spacing.s, marginTop: spacing.m }}>
               <Pressable
                 onPress={manualSync}
-                style={{ flex: 1, backgroundColor: colors.navy, borderRadius: 12, paddingVertical: 12, alignItems: "center" }}
+                style={{ flex: 1, backgroundColor: colors.navyInk, borderRadius: 12, paddingVertical: 12, alignItems: "center" }}
               >
                 {syncing ? (
                   <ActivityIndicator color={colors.gold} />
@@ -86,7 +86,7 @@ export default function ProfileScreen() {
               </Pressable>
               <Pressable
                 onPress={signOut}
-                style={{ flex: 1, borderRadius: 12, paddingVertical: 12, alignItems: "center", borderWidth: 1, borderColor: colors.border }}
+                style={{ flex: 1, borderRadius: 12, paddingVertical: 12, alignItems: "center", borderWidth: 1, borderColor: colors.cardBorder }}
               >
                 <Text style={{ color: colors.inkMuted, fontWeight: "600" }}>Sign out</Text>
               </Pressable>
@@ -119,7 +119,7 @@ export default function ProfileScreen() {
                 marginTop: spacing.s,
                 borderRadius: 12,
                 borderWidth: 1,
-                borderColor: colors.border,
+                borderColor: colors.cardBorder,
                 backgroundColor: colors.white,
                 alignItems: "center",
                 justifyContent: "center",
@@ -155,7 +155,7 @@ export default function ProfileScreen() {
               backgroundColor: pressed ? colors.parchmentAlt : colors.card,
               borderRadius: 12,
               borderWidth: 1,
-              borderColor: colors.border,
+              borderColor: colors.cardBorder,
               padding: spacing.m,
               marginBottom: 6,
               flexDirection: "row",
@@ -174,7 +174,7 @@ export default function ProfileScreen() {
 
       {/* About */}
       <Text style={[type.h2, { marginTop: spacing.l, marginBottom: spacing.s }]}>About</Text>
-      <View style={{ backgroundColor: colors.card, borderRadius: 16, borderWidth: 1, borderColor: colors.border, padding: spacing.m }}>
+      <View style={{ backgroundColor: colors.card, borderRadius: 22, borderWidth: 1, borderColor: colors.cardBorder, padding: spacing.m }}>
         <Text style={type.body}>
           Aperio — Latin for "I open, I reveal." Scripture with commentary in three voices, the original
           languages at your fingertips, and a place to pray. Everything works offline.
