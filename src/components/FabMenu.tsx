@@ -193,7 +193,7 @@ export function FabMenu({ state, navigation }: any) {
           {open ? (
             <Ionicons name="close" size={26} color={colors.white} />
           ) : (
-            <Text style={{ fontFamily: fonts.display, fontSize: 26, color: colors.goldSoft, marginTop: -2 }}>A</Text>
+            <Ionicons name="chatbubble-ellipses" size={25} color={colors.white} />
           )}
         </Pressable>
       </View>
