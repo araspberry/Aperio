@@ -79,7 +79,7 @@ export default function HomeScreen() {
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: colors.parchment }}
-      contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingBottom: 130 }}
+      contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingBottom: 88 }}
     >
       <View style={{ paddingHorizontal: spacing.l }}>
         {/* Top bar */}
@@ -223,7 +223,7 @@ export default function HomeScreen() {
           <Pressable
             key={r.title}
             onPress={() => router.push(`/reader/${r.book}/1?clavis=1`)}
-            style={{ width: 220, borderRadius: 24, padding: spacing.l, backgroundColor: r.bg }}
+            style={{ width: 228, minHeight: 170, borderRadius: 24, padding: spacing.l, backgroundColor: r.bg }}
           >
             <View style={{ alignSelf: "flex-start", backgroundColor: colors.navyInk, borderRadius: 14, paddingHorizontal: 12, paddingVertical: 5 }}>
               <Text style={{ fontFamily: fonts.sansMed, fontSize: 10.5, letterSpacing: 1.5, color: colors.white }}>

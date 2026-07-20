@@ -58,7 +58,7 @@ export default function SettingsScreen() {
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: colors.parchment }}
-      contentContainerStyle={{ padding: spacing.m, paddingBottom: 130 }}
+      contentContainerStyle={{ padding: spacing.m, paddingBottom: 88 }}
     >
       <View style={{ ...card, paddingVertical: spacing.m }}>
         <Text style={{ fontFamily: fonts.display, fontSize: 20, color: colors.navyInk }}>Where the Word opens.</Text>

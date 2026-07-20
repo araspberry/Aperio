@@ -45,7 +45,7 @@ export default function ReadScreen() {
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: colors.parchment }}
-      contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingHorizontal: spacing.l, paddingBottom: 130 }}
+      contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingHorizontal: spacing.l, paddingBottom: 88 }}
     >
       <Text style={{ fontFamily: fonts.display, fontSize: 32, color: colors.navyInk }}>Read the Bible</Text>
       <Text style={{ fontFamily: fonts.sans, fontSize: 14.5, color: colors.inkMuted, marginTop: 6 }}>

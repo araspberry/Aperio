@@ -89,7 +89,7 @@ export default function PrayerScreen() {
       <FlatList
         data={prayers}
         keyExtractor={(p) => p.id}
-        contentContainerStyle={{ padding: spacing.m, paddingBottom: 120 + insets.bottom }}
+        contentContainerStyle={{ padding: spacing.m, paddingBottom: 88 + insets.bottom }}
         ListHeaderComponent={
           <View style={{ flexDirection: "row", justifyContent: "flex-end", marginBottom: spacing.s }}>
             <AnimatedFlame streak={streak} />
