@@ -1,12 +1,12 @@
 import React from "react";
 import { Tabs } from "expo-router";
-import { FloatingTabBar } from "../../components/FloatingTabBar";
+import { FabMenu } from "../../components/FabMenu";
 import { colors } from "../../theme";
 
 export default function TabsLayout() {
   return (
     <Tabs
-      tabBar={(props) => <FloatingTabBar {...props} />}
+      tabBar={(props) => <FabMenu {...props} />}
       screenOptions={{
         headerStyle: { backgroundColor: colors.parchment },
         headerTintColor: colors.navyDeep,
@@ -19,7 +19,8 @@ export default function TabsLayout() {
       <Tabs.Screen name="read" options={{ title: "Read", headerShown: false }} />
       <Tabs.Screen name="search" options={{ title: "Search" }} />
       <Tabs.Screen name="prayer" options={{ title: "Prayer" }} />
-      <Tabs.Screen name="profile" options={{ title: "Profile" }} />
+      <Tabs.Screen name="profile" options={{ title: "Account" }} />
+      <Tabs.Screen name="settings" options={{ title: "Settings" }} />
     </Tabs>
   );
 }

@@ -153,7 +153,7 @@ export default function PrayerScreen() {
         style={{
           position: "absolute",
           right: spacing.l,
-          bottom: insets.bottom + spacing.l,
+          bottom: insets.bottom + 100,
           width: 58,
           height: 58,
           borderRadius: 29,
