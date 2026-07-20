@@ -83,7 +83,7 @@ export function FabMenu({ state, navigation }: any) {
           right: 20,
           bottom: bottom + 76,
           width: 232,
-          backgroundColor: colors.navyInk,
+          backgroundColor: "#F7F8FA",
           borderRadius: 26,
           paddingVertical: 10,
           opacity: anim,
@@ -98,7 +98,7 @@ export function FabMenu({ state, navigation }: any) {
             fontFamily: fonts.sansMed,
             fontSize: 10.5,
             letterSpacing: 2.5,
-            color: "rgba(255,255,255,0.45)",
+            color: colors.inkMuted,
             paddingHorizontal: 18,
             paddingTop: 6,
             paddingBottom: 4,
@@ -122,7 +122,7 @@ export function FabMenu({ state, navigation }: any) {
                 paddingHorizontal: 10,
                 paddingVertical: 9,
                 borderRadius: 18,
-                backgroundColor: focused ? "rgba(255,255,255,0.12)" : "transparent",
+                backgroundColor: focused ? colors.scriptureBlue : "transparent",
               }}
             >
               <View
@@ -130,24 +130,24 @@ export function FabMenu({ state, navigation }: any) {
                   width: 34,
                   height: 34,
                   borderRadius: 17,
-                  backgroundColor: "rgba(255,255,255,0.10)",
+                  backgroundColor: focused ? "rgba(255,255,255,0.65)" : "#EAEDF3",
                   alignItems: "center",
                   justifyContent: "center",
                 }}
               >
-                <ItemIcon route={item.route} color={focused ? colors.goldSoft : "#C6CEDF"} />
+                <ItemIcon route={item.route} color={colors.navyInk} />
               </View>
               <Text
                 style={{
                   fontFamily: focused ? fonts.sansBold : fonts.sansMed,
                   fontSize: 15,
-                  color: focused ? colors.white : "rgba(255,255,255,0.88)",
+                  color: colors.navyInk,
                 }}
               >
                 {item.label}
               </Text>
               {focused && (
-                <View style={{ marginLeft: "auto", width: 6, height: 6, borderRadius: 3, backgroundColor: colors.goldSoft }} />
+                <View style={{ marginLeft: "auto", width: 6, height: 6, borderRadius: 3, backgroundColor: colors.goldDeep }} />
               )}
             </Pressable>
           );
@@ -190,11 +190,15 @@ export function FabMenu({ state, navigation }: any) {
             elevation: 10,
           })}
         >
-          {open ? (
-            <Ionicons name="close" size={26} color={colors.white} />
-          ) : (
-            <Ionicons name="chatbubble-ellipses" size={25} color={colors.white} />
-          )}
+          <Animated.View
+            style={{
+              transform: [
+                { rotate: anim.interpolate({ inputRange: [0, 1], outputRange: ["0deg", "45deg"] }) },
+              ],
+            }}
+          >
+            <Ionicons name="add" size={30} color={colors.white} />
+          </Animated.View>
         </Pressable>
       </View>
     </View>
