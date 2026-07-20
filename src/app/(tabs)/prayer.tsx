@@ -17,9 +17,11 @@ import { Ionicons } from "@expo/vector-icons";
 import { listPrayers, addPrayer, updatePrayer, deletePrayer, getStreak, recordActivity, type Prayer } from "../../db/user";
 import { fullSync } from "../../lib/sync";
 import { AnimatedFlame } from "../../components/AnimatedFlame";
-import { colors, spacing, fonts, type } from "../../theme";
+import { spacing, fonts } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 export default function PrayerScreen() {
+  const { colors, type } = useTheme();
   const insets = useSafeAreaInsets();
   const [prayers, setPrayers] = useState<Prayer[]>([]);
   const [editing, setEditing] = useState<Prayer | "new" | null>(null);

@@ -28,9 +28,45 @@ export const colors = {
   sage: "#ACC0A2", // Clavis Recommends — reading plan card
   rose: "#C8ACA3", // Clavis Recommends — deep dive card
   cardBorder: "#D8DEE9", // cool thin border on white cards
-  navyInk: "#122344", // headings / filled pills / tab bar
+  navyInk: "#122344", // brand navy fills (pills, launcher, badges)
+  heading: "#122344", // large headings / titles (flips light in dark mode)
+  chip: "#EEF1F6", // small icon chips / arrow circles
+  menuBg: "#F7F8FA", // launcher menu card
+  menuChip: "#EAEDF3", // menu item icon circle
+  menuChipActive: "rgba(255,255,255,0.65)",
   gradientTop: "#2B50C4", // Scripture of the Day card
   gradientBottom: "#0B1730",
+};
+
+export type Palette = typeof colors;
+
+// Dark counterpart — same keys, tuned for a deep navy night reading mode.
+export const darkColors: Palette = {
+  ...colors,
+  navy: "#2C3E66",
+  parchment: "#0F1524",
+  parchmentAlt: "#1A2233",
+  card: "#161E30",
+  ink: "#E7EAF3",
+  inkMuted: "#9AA3B8",
+  verseNum: "#6E7890",
+  border: "#28324A",
+  highlight: "#4A4020",
+  danger: "#E2726E",
+  blue: "#6FA4EF",
+  blueSoft: "#1E2C47",
+  goldDeep: "#D4A73F",
+  scriptureBlue: "#22304C",
+  slate: "#46557A",
+  sage: "#4F6049",
+  rose: "#6B5450",
+  cardBorder: "#2A3550",
+  navyInk: "#26375E",
+  heading: "#E9EEFA",
+  chip: "#263048",
+  menuBg: "#161E30",
+  menuChip: "#263048",
+  menuChipActive: "rgba(255,255,255,0.14)",
 };
 
 // Loaded in the root layout via expo-font.

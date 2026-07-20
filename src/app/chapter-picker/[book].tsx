@@ -4,9 +4,11 @@ import { View, Text, FlatList, Pressable } from "react-native";
 import { useLocalSearchParams, useRouter, Stack } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import { getBook, type Book } from "../../db/content";
-import { colors, fonts, spacing } from "../../theme";
+import { fonts, spacing } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 export default function ChapterPicker() {
+  const { colors } = useTheme();
   const { book } = useLocalSearchParams<{ book: string }>();
   const bookNum = parseInt(book ?? "1", 10) || 1;
   const db = useSQLiteContext();

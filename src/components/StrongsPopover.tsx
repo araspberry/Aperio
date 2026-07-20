@@ -3,7 +3,8 @@ import React from "react";
 import { View, Text, Modal, Pressable } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { type StrongsEntry } from "../db/content";
-import { colors, fonts, spacing } from "../theme";
+import { fonts, spacing } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 export function StrongsPopover({
   entry,
@@ -14,6 +15,7 @@ export function StrongsPopover({
   word: string;
   onClose: () => void;
 }) {
+  const { colors } = useTheme();
   const insets = useSafeAreaInsets();
   return (
     <Modal visible={!!entry} transparent animationType="slide" onRequestClose={onClose}>

@@ -1,7 +1,8 @@
 // A verse with tappable gold words (Strong's) and tap-to-select behavior.
 import React, { memo, useMemo } from "react";
 import { Text } from "react-native";
-import { colors, fonts } from "../theme";
+import { fonts } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 export interface WordTagMap {
   get(word: string): { h: string | null; g: string | null } | undefined;
@@ -21,6 +22,7 @@ interface Props {
 }
 
 function VerseItemInner({ verse, text, isOT, selected, highlighted, wordTags, onSelect, onWordPress }: Props) {
+  const { colors } = useTheme();
   // Split into word / non-word runs, marking up to MAX_GOLD words that
   // have a Strong's mapping (first occurrence only).
   const segments = useMemo(() => {

@@ -2,9 +2,11 @@
 import React from "react";
 import { View, Text, ScrollView, Pressable, Linking } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
-import { colors, fonts, spacing, type } from "../../theme";
+import { fonts, spacing } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 function Row({ icon, label, sub, onPress, last }: { icon: any; label: string; sub?: string; onPress: () => void; last?: boolean }) {
+  const { colors, type } = useTheme();
   return (
     <Pressable
       onPress={onPress}
@@ -22,7 +24,7 @@ function Row({ icon, label, sub, onPress, last }: { icon: any; label: string; su
           width: 36,
           height: 36,
           borderRadius: 18,
-          backgroundColor: "#EEF1F6",
+          backgroundColor: colors.chip,
           alignItems: "center",
           justifyContent: "center",
         }}
@@ -39,6 +41,7 @@ function Row({ icon, label, sub, onPress, last }: { icon: any; label: string; su
 }
 
 function SectionLabel({ children }: { children: string }) {
+  const { colors } = useTheme();
   return (
     <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2, color: colors.inkMuted, marginTop: spacing.l, marginBottom: spacing.s, marginLeft: 4 }}>
       {children}
@@ -46,22 +49,25 @@ function SectionLabel({ children }: { children: string }) {
   );
 }
 
-const card = {
+import type { Palette } from "../../theme";
+
+const card = (colors: Palette) => ({
   backgroundColor: colors.card,
   borderRadius: 22,
   borderWidth: 1,
   borderColor: colors.cardBorder,
   paddingHorizontal: spacing.m,
-} as const;
+} as const);
 
 export default function SettingsScreen() {
+  const { colors, type } = useTheme();
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: colors.parchment }}
       contentContainerStyle={{ padding: spacing.m, paddingBottom: 88 }}
     >
-      <View style={{ ...card, paddingVertical: spacing.m }}>
-        <Text style={{ fontFamily: fonts.display, fontSize: 20, color: colors.navyInk }}>Where the Word opens.</Text>
+      <View style={{ ...card(colors), paddingVertical: spacing.m }}>
+        <Text style={{ fontFamily: fonts.display, fontSize: 20, color: colors.heading }}>Where the Word opens.</Text>
         <Text style={[type.caption, { marginTop: 6, lineHeight: 18 }]}>
           Aperio is a quiet place to read, study, and pray — with Scripture and Clavis commentary
           stored on your device, so it works anywhere, even offline.
@@ -69,7 +75,7 @@ export default function SettingsScreen() {
       </View>
 
       <SectionLabel>SUPPORT</SectionLabel>
-      <View style={card}>
+      <View style={card(colors)}>
         <Row
           icon="mail-outline"
           label="Contact support"
@@ -91,7 +97,7 @@ export default function SettingsScreen() {
       </View>
 
       <SectionLabel>LEGAL</SectionLabel>
-      <View style={card}>
+      <View style={card(colors)}>
         <Row
           icon="document-text-outline"
           label="Terms of use"

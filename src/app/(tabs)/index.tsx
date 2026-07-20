@@ -9,33 +9,35 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 import { getBooks, getVersePreview, type Book } from "../../db/content";
 import { getProgress, getTodayQuiz } from "../../db/user";
 import { verseOfDayRef, greeting } from "../../lib/verse-of-day";
-import { colors, fonts, spacing } from "../../theme";
+import { fonts, spacing } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 const RECOMMENDS = [
   {
     badge: "21 DAYS",
     title: "The Gospel of John",
     blurb: "A 21-day journey through John, with Clavis unlocking every chapter.",
-    bg: colors.sage,
+    bg: "sage" as const,
     book: 43,
   },
   {
     badge: "28 CHAPTERS",
     title: "Romans — A Deep Dive",
     blurb: "Paul's theological masterpiece, verse by verse.",
-    bg: colors.rose,
+    bg: "rose" as const,
     book: 45,
   },
   {
     badge: "15 PSALMS",
     title: "Psalms of Comfort",
     blurb: "Songs for anxious seasons, read slowly with Clavis.",
-    bg: colors.scriptureBlue,
+    bg: "scriptureBlue" as const,
     book: 19,
   },
 ];
 
 export default function HomeScreen() {
+  const { colors, dark, toggle } = useTheme();
   const db = useSQLiteContext();
   const router = useRouter();
   const insets = useSafeAreaInsets();
@@ -84,16 +86,26 @@ export default function HomeScreen() {
       <View style={{ paddingHorizontal: spacing.l }}>
         {/* Top bar */}
         <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
-          <Text style={{ fontFamily: fonts.display, fontSize: 27, color: colors.navyInk }}>
+          <Text style={{ fontFamily: fonts.display, fontSize: 27, color: colors.heading }}>
             Ap<Text style={{ color: colors.gold }}>e</Text>rio
           </Text>
-          <Pressable onPress={() => router.push("/profile")} hitSlop={10}>
-            <Ionicons name="settings-outline" size={21} color={colors.inkMuted} />
-          </Pressable>
+          <View style={{ flexDirection: "row", alignItems: "center", gap: 20 }}>
+            {/* Bell — dormant for now; will carry a red dot for announcements */}
+            <View accessible accessibilityLabel="Notifications">
+              <Ionicons name="notifications-outline" size={21} color={colors.inkMuted} />
+              {/* Future: <View style={{ position: "absolute", top: -1, right: -1, width: 8, height: 8, borderRadius: 4, backgroundColor: "#D0453E" }} /> */}
+            </View>
+            <Pressable onPress={toggle} hitSlop={8} accessibilityLabel={dark ? "Switch to light mode" : "Switch to dark mode"}>
+              <Ionicons name={dark ? "sunny-outline" : "moon-outline"} size={21} color={colors.inkMuted} />
+            </Pressable>
+            <Pressable onPress={() => router.push("/settings")} hitSlop={8} accessibilityLabel="Settings">
+              <Ionicons name="settings-outline" size={21} color={colors.inkMuted} />
+            </Pressable>
+          </View>
         </View>
 
         {/* Greeting */}
-        <Text style={{ fontFamily: fonts.display, fontSize: 34, lineHeight: 44, color: colors.navyInk, marginTop: spacing.l }}>
+        <Text style={{ fontFamily: fonts.display, fontSize: 34, lineHeight: 44, color: colors.heading, marginTop: spacing.l }}>
           {greeting()}, friend.
         </Text>
 
@@ -101,7 +113,7 @@ export default function HomeScreen() {
         {votd && (
           <View style={{ marginTop: spacing.l, borderRadius: 24, padding: spacing.l, backgroundColor: colors.scriptureBlue }}>
             <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center" }}>
-              <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.navyInk }}>
+              <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.heading }}>
                 SCRIPTURE OF THE DAY
               </Text>
               <Pressable
@@ -116,14 +128,14 @@ export default function HomeScreen() {
                   paddingVertical: 6,
                 }}
               >
-                <Ionicons name="book-outline" size={13} color={colors.navyInk} />
-                <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, color: colors.navyInk }}>Read Story</Text>
+                <Ionicons name="book-outline" size={13} color={"#122344"} />
+                <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, color: "#122344" }}>Read Story</Text>
               </Pressable>
             </View>
-            <Text style={{ fontFamily: fonts.serifSemi, fontSize: 23, lineHeight: 36, color: colors.navyInk, marginTop: spacing.m }}>
+            <Text style={{ fontFamily: fonts.serifSemi, fontSize: 23, lineHeight: 36, color: colors.heading, marginTop: spacing.m }}>
               "{votd.text}"
             </Text>
-            <Text style={{ fontFamily: fonts.serifItalic, fontSize: 16, color: colors.navyInk, marginTop: spacing.m }}>
+            <Text style={{ fontFamily: fonts.serifItalic, fontSize: 16, color: colors.heading, marginTop: spacing.m }}>
               — {votd.ref}
             </Text>
             <View style={{ flexDirection: "row", gap: spacing.s, marginTop: spacing.l }}>
@@ -154,8 +166,8 @@ export default function HomeScreen() {
                   paddingVertical: 12,
                 }}
               >
-                <Ionicons name="share-social-outline" size={15} color={colors.navyInk} />
-                <Text style={{ fontFamily: fonts.sansMed, fontSize: 14, color: colors.navyInk }}>Share</Text>
+                <Ionicons name="share-social-outline" size={15} color={"#122344"} />
+                <Text style={{ fontFamily: fonts.sansMed, fontSize: 14, color: "#122344" }}>Share</Text>
               </Pressable>
             </View>
           </View>
@@ -169,23 +181,23 @@ export default function HomeScreen() {
                 ? router.push(`/reader/${progress.book_num}/${progress.chapter}`)
                 : router.push("/read")
             }
-            style={cardStyle}
+            style={cardStyle(colors)}
           >
-            <Ionicons name="bookmark" size={22} color={colors.navyInk} />
-            <Text style={cardTitle}>{continueBook ? "Continue Reading" : "Start Reading"}</Text>
-            <Text style={cardSub}>
+            <Ionicons name="bookmark" size={22} color={colors.heading} />
+            <Text style={cardTitle(colors)}>{continueBook ? "Continue Reading" : "Start Reading"}</Text>
+            <Text style={cardSub(colors)}>
               {continueBook && progress ? `${continueBook.name} ${progress.chapter}` : "Choose a book"}
             </Text>
-            <View style={arrowCircle}>
-              <Ionicons name="arrow-forward" size={15} color={colors.navyInk} />
+            <View style={arrowCircle(colors)}>
+              <Ionicons name="arrow-forward" size={15} color={colors.heading} />
             </View>
           </Pressable>
-          <Pressable onPress={() => router.push("/quiz")} style={cardStyle}>
-            <MaterialCommunityIcons name="medal-outline" size={23} color={colors.navyInk} />
-            <Text style={cardTitle}>Daily Quiz</Text>
-            <Text style={cardSub}>{quizDone ? "Done for today ✓" : "7 questions · today's passage"}</Text>
-            <View style={arrowCircle}>
-              <Ionicons name="arrow-forward" size={15} color={colors.navyInk} />
+          <Pressable onPress={() => router.push("/quiz")} style={cardStyle(colors)}>
+            <MaterialCommunityIcons name="medal-outline" size={23} color={colors.heading} />
+            <Text style={cardTitle(colors)}>Daily Quiz</Text>
+            <Text style={cardSub(colors)}>{quizDone ? "Done for today ✓" : "7 questions · today's passage"}</Text>
+            <View style={arrowCircle(colors)}>
+              <Ionicons name="arrow-forward" size={15} color={colors.heading} />
             </View>
           </Pressable>
         </View>
@@ -223,14 +235,14 @@ export default function HomeScreen() {
           <Pressable
             key={r.title}
             onPress={() => router.push(`/reader/${r.book}/1?clavis=1`)}
-            style={{ width: 228, minHeight: 170, borderRadius: 24, padding: spacing.l, backgroundColor: r.bg }}
+            style={{ width: 228, minHeight: 170, borderRadius: 24, padding: spacing.l, backgroundColor: colors[r.bg] }}
           >
             <View style={{ alignSelf: "flex-start", backgroundColor: colors.navyInk, borderRadius: 14, paddingHorizontal: 12, paddingVertical: 5 }}>
               <Text style={{ fontFamily: fonts.sansMed, fontSize: 10.5, letterSpacing: 1.5, color: colors.white }}>
                 {r.badge}
               </Text>
             </View>
-            <Text style={{ fontFamily: fonts.display, fontSize: 21, lineHeight: 27, color: colors.navyInk, marginTop: 12 }}>
+            <Text style={{ fontFamily: fonts.display, fontSize: 21, lineHeight: 27, color: colors.heading, marginTop: 12 }}>
               {r.title}
             </Text>
             <Text style={{ fontFamily: fonts.sans, fontSize: 13.5, lineHeight: 19, color: colors.ink, marginTop: 8 }}>
@@ -243,7 +255,9 @@ export default function HomeScreen() {
   );
 }
 
-const cardStyle = {
+import type { Palette } from "../../theme";
+
+const cardStyle = (colors: Palette) => ({
   flex: 1,
   backgroundColor: colors.card,
   borderRadius: 22,
@@ -251,30 +265,30 @@ const cardStyle = {
   borderColor: colors.cardBorder,
   padding: spacing.m,
   paddingBottom: 44,
-} as const;
+} as const);
 
-const cardTitle = {
+const cardTitle = (colors: Palette) => ({
   fontFamily: fonts.display,
   fontSize: 19,
-  color: colors.navyInk,
+  color: colors.heading,
   marginTop: 12,
-} as const;
+} as const);
 
-const cardSub = {
+const cardSub = (colors: Palette) => ({
   fontFamily: fonts.sans,
   fontSize: 13,
   color: colors.inkMuted,
   marginTop: 4,
-} as const;
+} as const);
 
-const arrowCircle = {
+const arrowCircle = (colors: Palette) => ({
   position: "absolute",
   right: 12,
   bottom: 12,
   width: 30,
   height: 30,
   borderRadius: 15,
-  backgroundColor: "#EEF1F6",
+  backgroundColor: colors.chip,
   alignItems: "center",
   justifyContent: "center",
-} as const;
+} as const);

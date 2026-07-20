@@ -1,15 +1,16 @@
 import React from "react";
 import { Tabs } from "expo-router";
 import { FabMenu } from "../../components/FabMenu";
-import { colors } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 export default function TabsLayout() {
+  const { colors } = useTheme();
   return (
     <Tabs
       tabBar={(props) => <FabMenu {...props} />}
       screenOptions={{
         headerStyle: { backgroundColor: colors.parchment },
-        headerTintColor: colors.navyDeep,
+        headerTintColor: colors.heading,
         headerShadowVisible: false,
         headerTitleStyle: { fontFamily: "PlayfairDisplay_700Bold", fontSize: 18 },
         sceneStyle: { backgroundColor: colors.parchment },

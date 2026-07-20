@@ -16,7 +16,8 @@ import {
 } from "../db/content";
 import { listNotes, addNote, deleteNote, type Note } from "../db/user";
 import { fullSync } from "../lib/sync";
-import { colors, fonts, spacing } from "../theme";
+import { fonts, spacing } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 export interface ClavisDrawerHandle {
   open: (snap?: number, tab?: TabKey, verse?: number) => void;
@@ -42,7 +43,7 @@ const TONES: { key: ToneKey; label: string; icon: React.ReactNode }[] = [
 
 // Sheet palette
 const S = {
-  bg: colors.navySheet,
+  bg: "#12213E",
   card: "#1B2C4E",
   border: "rgba(212,184,122,0.18)",
   text: "#EDE7D8",
@@ -50,6 +51,7 @@ const S = {
 };
 
 function CommentaryBody({ text }: { text: string }) {
+  const { colors } = useTheme();
   const blocks = text.split(/\n{2,}/).filter((b) => b.trim());
   return (
     <>
@@ -90,6 +92,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
   const db = useSQLiteContext();
   const sheetRef = useRef<BottomSheet>(null);
   const snapIndex = useRef(-1);
+  const { colors } = useTheme();
   const [tab, setTab] = useState<TabKey>("commentary");
   const [tone, setTone] = useState<ToneKey>("devotional");
   const [focusVerse, setFocusVerse] = useState<number | null>(null);

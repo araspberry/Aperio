@@ -2,9 +2,11 @@
 import React, { useEffect, useRef } from "react";
 import { View, Text, Animated, Easing } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
-import { colors, fonts } from "../theme";
+import { fonts } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 export function AnimatedFlame({ streak }: { streak: number }) {
+  const { colors } = useTheme();
   const scale = useRef(new Animated.Value(1)).current;
 
   useEffect(() => {

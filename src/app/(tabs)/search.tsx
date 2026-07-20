@@ -5,9 +5,11 @@ import { useRouter } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
 import { getBooks, searchVerses, parseReference, type Book, type SearchHit } from "../../db/content";
-import { colors, spacing, fonts, type } from "../../theme";
+import { spacing, fonts } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 export default function SearchScreen() {
+  const { colors, type } = useTheme();
   const db = useSQLiteContext();
   const router = useRouter();
   const [books, setBooks] = useState<Book[]>([]);

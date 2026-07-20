@@ -3,7 +3,8 @@ import React, { useState } from "react";
 import { View, Text, Modal, Pressable, FlatList } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { type Book } from "../db/content";
-import { colors, fonts, spacing, type } from "../theme";
+import { fonts, spacing } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 export function PassagePicker({
   books,
@@ -16,6 +17,7 @@ export function PassagePicker({
   onClose: () => void;
   onPick: (bookNum: number, chapter: number) => void;
 }) {
+  const { colors, type } = useTheme();
   const insets = useSafeAreaInsets();
   const [book, setBook] = useState<Book | null>(null);
 

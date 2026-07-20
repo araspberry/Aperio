@@ -4,7 +4,8 @@ import React, { useEffect, useRef, useState } from "react";
 import { View, Text, Pressable, Animated, Easing } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
-import { colors, fonts } from "../theme";
+import { fonts } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 const ITEMS: { route: string; label: string }[] = [
   { route: "index", label: "Home" },
@@ -36,6 +37,7 @@ function ItemIcon({ route, color }: { route: string; color: string }) {
 }
 
 export function FabMenu({ state, navigation }: any) {
+  const { colors } = useTheme();
   const insets = useSafeAreaInsets();
   const [open, setOpen] = useState(false);
 
@@ -83,7 +85,7 @@ export function FabMenu({ state, navigation }: any) {
           right: 20,
           bottom: bottom + 76,
           width: 232,
-          backgroundColor: "#F7F8FA",
+          backgroundColor: colors.menuBg,
           borderRadius: 26,
           paddingVertical: 10,
           opacity: anim,
@@ -130,18 +132,18 @@ export function FabMenu({ state, navigation }: any) {
                   width: 34,
                   height: 34,
                   borderRadius: 17,
-                  backgroundColor: focused ? "rgba(255,255,255,0.65)" : "#EAEDF3",
+                  backgroundColor: focused ? colors.menuChipActive : colors.menuChip,
                   alignItems: "center",
                   justifyContent: "center",
                 }}
               >
-                <ItemIcon route={item.route} color={colors.navyInk} />
+                <ItemIcon route={item.route} color={colors.heading} />
               </View>
               <Text
                 style={{
                   fontFamily: focused ? fonts.sansBold : fonts.sansMed,
                   fontSize: 15,
-                  color: colors.navyInk,
+                  color: colors.heading,
                 }}
               >
                 {item.label}

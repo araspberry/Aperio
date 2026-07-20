@@ -6,7 +6,8 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
 import { getBooks, type Book } from "../../db/content";
-import { colors, fonts, spacing } from "../../theme";
+import { fonts, spacing } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 const GROUPS: { testament: "OT" | "NT"; label: string; range: [number, number] }[] = [
   { testament: "OT", label: "Pentateuch", range: [1, 5] },
@@ -21,6 +22,7 @@ const GROUPS: { testament: "OT" | "NT"; label: string; range: [number, number] }
 ];
 
 export default function ReadScreen() {
+  const { colors } = useTheme();
   const db = useSQLiteContext();
   const router = useRouter();
   const insets = useSafeAreaInsets();
@@ -47,7 +49,7 @@ export default function ReadScreen() {
       style={{ flex: 1, backgroundColor: colors.parchment }}
       contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingHorizontal: spacing.l, paddingBottom: 88 }}
     >
-      <Text style={{ fontFamily: fonts.display, fontSize: 32, color: colors.navyInk }}>Read the Bible</Text>
+      <Text style={{ fontFamily: fonts.display, fontSize: 32, color: colors.heading }}>Read the Bible</Text>
       <Text style={{ fontFamily: fonts.sans, fontSize: 14.5, color: colors.inkMuted, marginTop: 6 }}>
         All 66 books · tap a chapter to begin.
       </Text>
@@ -91,7 +93,7 @@ export default function ReadScreen() {
                 paddingBottom: spacing.s,
               }}
             >
-              <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.navyInk }}>{t.name}</Text>
+              <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.heading }}>{t.name}</Text>
               <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, letterSpacing: 1.5, color: colors.goldDeep }}>
                 {tBooks.length} BOOKS
               </Text>
@@ -119,7 +121,7 @@ export default function ReadScreen() {
                           paddingVertical: 14,
                         })}
                       >
-                        <Text style={{ fontFamily: fonts.display, fontSize: 19, color: colors.navyInk }} numberOfLines={1}>
+                        <Text style={{ fontFamily: fonts.display, fontSize: 19, color: colors.heading }} numberOfLines={1}>
                           {b.name}
                         </Text>
                         <Text style={{ fontFamily: fonts.sans, fontSize: 13, color: colors.inkMuted, marginTop: 3 }}>

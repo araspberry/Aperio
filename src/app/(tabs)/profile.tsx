@@ -10,9 +10,11 @@ import { supabase } from "../../lib/supabase";
 import { fullSync } from "../../lib/sync";
 import { listBookmarks, type Bookmark } from "../../db/user";
 import { getBooks, type Book } from "../../db/content";
-import { colors, spacing, fonts, type } from "../../theme";
+import { spacing, fonts } from "../../theme";
+import { useTheme } from "../../lib/theme-context";
 
 export default function ProfileScreen() {
+  const { colors, type } = useTheme();
   const { session, loading, signInWithApple, signInWithGoogle, signOut } = useAuth();
   const db = useSQLiteContext();
   const router = useRouter();

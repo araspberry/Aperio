@@ -9,7 +9,8 @@ import { useSQLiteContext, type SQLiteDatabase } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
 import { getBooks, type Book } from "../db/content";
 import { saveQuizResult, getTodayQuiz } from "../db/user";
-import { colors, fonts, spacing } from "../theme";
+import { fonts, spacing } from "../theme";
+import { useTheme } from "../lib/theme-context";
 
 interface Question {
   prompt: string;
@@ -83,6 +84,7 @@ async function buildQuiz(db: SQLiteDatabase, books: Book[]): Promise<Question[]>
 }
 
 export default function QuizScreen() {
+  const { colors } = useTheme();
   const db = useSQLiteContext();
   const router = useRouter();
   const insets = useSafeAreaInsets();

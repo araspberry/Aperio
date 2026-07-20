@@ -16,6 +16,7 @@ import {
 } from "@expo-google-fonts/lora";
 import { Inter_400Regular, Inter_500Medium, Inter_700Bold } from "@expo-google-fonts/inter";
 import { AuthProvider } from "../lib/auth";
+import { ThemeProvider, useTheme } from "../lib/theme-context";
 import { colors, spacing } from "../theme";
 
 // Graceful error screen — reviewers (and users) see a friendly retry, never a crash.
@@ -46,6 +47,29 @@ function Loading() {
   );
 }
 
+function ThemedApp() {
+  const { colors: c, dark } = useTheme();
+  return (
+    <>
+      <StatusBar style={dark ? "light" : "dark"} />
+      <Stack
+        screenOptions={{
+          headerStyle: { backgroundColor: c.parchment },
+          headerTintColor: c.heading,
+          headerShadowVisible: false,
+          headerTitleStyle: { fontFamily: "PlayfairDisplay_700Bold", fontSize: 18 },
+          contentStyle: { backgroundColor: c.parchment },
+        }}
+      >
+        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack.Screen name="chapter-picker/[book]" options={{ headerBackTitle: "Read" }} />
+        <Stack.Screen name="reader/[book]/[chapter]" options={{ headerShown: false }} />
+        <Stack.Screen name="quiz" options={{ presentation: "fullScreenModal", headerShown: false }} />
+      </Stack>
+    </>
+  );
+}
+
 export default function RootLayout() {
   const [fontsLoaded] = useFonts({
     PlayfairDisplay_500Medium,
@@ -69,21 +93,9 @@ export default function RootLayout() {
           useSuspense
         >
           <AuthProvider>
-            <StatusBar style="dark" />
-            <Stack
-              screenOptions={{
-                headerStyle: { backgroundColor: colors.parchment },
-                headerTintColor: colors.navyDeep,
-                headerShadowVisible: false,
-                headerTitleStyle: { fontFamily: "PlayfairDisplay_700Bold", fontSize: 18 },
-                contentStyle: { backgroundColor: colors.parchment },
-              }}
-            >
-              <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-              <Stack.Screen name="chapter-picker/[book]" options={{ headerBackTitle: "Read" }} />
-              <Stack.Screen name="reader/[book]/[chapter]" options={{ headerShown: false }} />
-              <Stack.Screen name="quiz" options={{ presentation: "fullScreenModal", headerShown: false }} />
-            </Stack>
+            <ThemeProvider>
+              <ThemedApp />
+            </ThemeProvider>
           </AuthProvider>
         </SQLiteProvider>
       </Suspense>

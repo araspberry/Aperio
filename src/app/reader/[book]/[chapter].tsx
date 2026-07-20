@@ -23,9 +23,11 @@ import { ClavisDrawer, type ClavisDrawerHandle } from "../../../components/Clavi
 import { VerseItem } from "../../../components/VerseItem";
 import { StrongsPopover } from "../../../components/StrongsPopover";
 import { PassagePicker } from "../../../components/PassagePicker";
-import { colors, fonts, spacing } from "../../../theme";
+import { fonts, spacing } from "../../../theme";
+import { useTheme } from "../../../lib/theme-context";
 
 export default function ReaderScreen() {
+  const { colors } = useTheme();
   const params = useLocalSearchParams<{ book: string; chapter: string; clavis?: string }>();
   const bookNum = parseInt(params.book ?? "1", 10) || 1;
   const chapterNum = parseInt(params.chapter ?? "1", 10) || 1;
@@ -197,7 +199,7 @@ export default function ReaderScreen() {
           {hasPrev && (
             <Pressable
               onPress={() => router.setParams({ chapter: String(chapterNum - 1) })}
-              style={navCard}
+              style={navCard(colors)}
             >
               <Text style={{ fontFamily: fonts.sans, fontSize: 12, color: colors.inkMuted }}>← Previous</Text>
               <Text style={{ fontFamily: fonts.display, fontSize: 16, color: colors.navy, marginTop: 2 }}>
@@ -208,7 +210,7 @@ export default function ReaderScreen() {
           {hasNext && (
             <Pressable
               onPress={() => router.setParams({ chapter: String(chapterNum + 1) })}
-              style={[navCard, { alignItems: "flex-end" }]}
+              style={[navCard(colors), { alignItems: "flex-end" }]}
             >
               <Text style={{ fontFamily: fonts.sans, fontSize: 12, color: colors.inkMuted }}>Next →</Text>
               <Text style={{ fontFamily: fonts.display, fontSize: 16, color: colors.navy, marginTop: 2 }}>
@@ -342,16 +344,19 @@ export default function ReaderScreen() {
   );
 }
 
-const navCard = {
+import type { Palette } from "../../../theme";
+
+const navCard = (colors: Palette) => ({
   flex: 1,
   backgroundColor: colors.card,
   borderRadius: 14,
   borderWidth: 1,
   borderColor: colors.border,
   padding: spacing.m,
-} as const;
+} as const);
 
 function ActionButton({ icon, label, onPress, gold }: { icon: any; label: string; onPress: () => void; gold?: boolean }) {
+  const { colors } = useTheme();
   return (
     <Pressable onPress={onPress} style={{ alignItems: "center" }} hitSlop={8}>
       <Ionicons name={icon} size={19} color={gold ? colors.gold : colors.goldSoft} />
