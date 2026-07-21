@@ -93,9 +93,45 @@ export default function PrayerScreen() {
         keyExtractor={(p) => p.id}
         contentContainerStyle={{ padding: spacing.m, paddingBottom: 88 + insets.bottom }}
         ListHeaderComponent={
-          <View style={{ flexDirection: "row", justifyContent: "flex-end", marginBottom: spacing.s }}>
-            <AnimatedFlame streak={streak} />
-          </View>
+          <>
+            <View style={{ flexDirection: "row", justifyContent: "flex-end", marginBottom: spacing.s }}>
+              <AnimatedFlame streak={streak} />
+            </View>
+            <Pressable
+              onPress={() => openEditor("new")}
+              accessibilityLabel="Write a prayer"
+              style={({ pressed }) => ({
+                backgroundColor: colors.slate,
+                borderRadius: 20,
+                padding: spacing.l,
+                marginBottom: spacing.m,
+                opacity: pressed ? 0.92 : 1,
+              })}
+            >
+              <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: "rgba(255,255,255,0.72)" }}>
+                PRAYER JOURNAL
+              </Text>
+              <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.white, marginTop: 6 }}>
+                What's on your heart today?
+              </Text>
+              <View
+                style={{
+                  flexDirection: "row",
+                  alignItems: "center",
+                  gap: 7,
+                  alignSelf: "flex-start",
+                  backgroundColor: "rgba(255,255,255,0.16)",
+                  borderRadius: 16,
+                  paddingHorizontal: 14,
+                  paddingVertical: 8,
+                  marginTop: 14,
+                }}
+              >
+                <Ionicons name="pencil" size={13} color={colors.white} />
+                <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.white }}>Write a prayer</Text>
+              </View>
+            </Pressable>
+          </>
         }
         ListEmptyComponent={
           <View style={{ marginTop: spacing.xl, paddingHorizontal: spacing.m }}>
@@ -150,27 +186,6 @@ export default function PrayerScreen() {
           </Pressable>
         )}
       />
-      <Pressable
-        onPress={() => openEditor("new")}
-        style={{
-          position: "absolute",
-          right: spacing.l,
-          bottom: insets.bottom + 100,
-          width: 58,
-          height: 58,
-          borderRadius: 29,
-          backgroundColor: colors.navyInk,
-          alignItems: "center",
-          justifyContent: "center",
-          shadowColor: "#000",
-          shadowOpacity: 0.3,
-          shadowRadius: 10,
-          shadowOffset: { width: 0, height: 5 },
-          elevation: 8,
-        }}
-      >
-        <Ionicons name="add" size={30} color={colors.white} />
-      </Pressable>
 
       <Modal visible={editing !== null} animationType="slide" presentationStyle="pageSheet" onRequestClose={() => setEditing(null)}>
         <KeyboardAvoidingView

@@ -130,12 +130,16 @@ export interface CrossRef {
 }
 
 export async function getCrossrefs(db: SQLiteDatabase, bookNum: number, chapter: number): Promise<CrossRef[]> {
-  return db.getAllAsync<CrossRef>(
-    `SELECT c.ref_book_num, c.ref_chapter, c.ref_verse_start, c.ref_verse_end, c.ref_label, b.name AS book_name
-     FROM crossrefs c JOIN books b ON b.book_num = c.ref_book_num
-     WHERE c.book_num = ? AND c.chapter = ? ORDER BY c.ref_label`,
-    [bookNum, chapter],
-  );
+  try {
+    return await db.getAllAsync<CrossRef>(
+      `SELECT c.ref_book_num, c.ref_chapter, c.ref_verse_start, c.ref_verse_end, c.ref_label, b.name AS book_name
+       FROM crossrefs c JOIN books b ON b.book_num = c.ref_book_num
+       WHERE c.book_num = ? AND c.chapter = ? ORDER BY c.ref_label`,
+      [bookNum, chapter],
+    );
+  } catch {
+    return [];
+  }
 }
 
 export async function getVersePreview(db: SQLiteDatabase, bookNum: number, chapter: number, verse: number | null): Promise<string> {

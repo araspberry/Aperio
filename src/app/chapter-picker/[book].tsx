@@ -6,6 +6,7 @@ import { useSQLiteContext } from "expo-sqlite";
 import { getBook, type Book } from "../../db/content";
 import { fonts, spacing } from "../../theme";
 import { useTheme } from "../../lib/theme-context";
+import { FabMenu } from "../../components/FabMenu";
 
 export default function ChapterPicker() {
   const { colors } = useTheme();
@@ -50,6 +51,7 @@ export default function ChapterPicker() {
           </Pressable>
         )}
       />
+      <FabMenu />
     </>
   );
 }

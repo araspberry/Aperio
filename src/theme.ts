@@ -16,7 +16,7 @@ export const colors = {
   inkMuted: "#777161",
   verseNum: "#A29B89",
   border: "#E2E6EE",
-  highlight: "#F1E3B4",
+  highlight: "#FAF565", // neon-yellow verse highlight
   danger: "#A93F3F",
   white: "#FFFFFF",
   blue: "#2563EB", // active tab tint (per screenshots)
@@ -51,7 +51,7 @@ export const darkColors: Palette = {
   inkMuted: "#9AA3B8",
   verseNum: "#6E7890",
   border: "#28324A",
-  highlight: "#4A4020",
+  highlight: "#5F5A18",
   danger: "#E2726E",
   blue: "#6FA4EF",
   blueSoft: "#1E2C47",

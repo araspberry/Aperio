@@ -23,6 +23,7 @@ import { ClavisDrawer, type ClavisDrawerHandle } from "../../../components/Clavi
 import { VerseItem } from "../../../components/VerseItem";
 import { StrongsPopover } from "../../../components/StrongsPopover";
 import { PassagePicker } from "../../../components/PassagePicker";
+import { FabMenu } from "../../../components/FabMenu";
 import { fonts, spacing } from "../../../theme";
 import { useTheme } from "../../../lib/theme-context";
 
@@ -136,7 +137,7 @@ export default function ReaderScreen() {
           borderColor: colors.border,
         }}
       >
-        <Pressable onPress={() => router.back()} hitSlop={12} style={{ width: 64 }}>
+        <Pressable onPress={() => router.back()} hitSlop={12} style={{ width: 44 }}>
           <Ionicons name="arrow-back" size={22} color={colors.navy} />
         </Pressable>
         <Pressable onPress={() => setPickerOpen(true)} hitSlop={8} style={{ flex: 1, alignItems: "center" }}>
@@ -148,12 +149,16 @@ export default function ReaderScreen() {
             Tap to change passage
           </Text>
         </Pressable>
-        <View style={{ width: 64, alignItems: "flex-end" }}>
+        <View style={{ flexDirection: "row", alignItems: "center", gap: 8 }}>
+          <Pressable onPress={() => onToggleBookmark(null)} hitSlop={8} accessibilityLabel="Bookmark chapter">
+            <Ionicons
+              name={chapterBookmarked ? "bookmark" : "bookmark-outline"}
+              size={20}
+              color={chapterBookmarked ? colors.goldDeep : colors.navy}
+            />
+          </Pressable>
           <View
             style={{
-              flexDirection: "row",
-              alignItems: "center",
-              gap: 3,
               backgroundColor: colors.card,
               borderWidth: 1,
               borderColor: colors.border,
@@ -162,7 +167,9 @@ export default function ReaderScreen() {
               paddingVertical: 7,
             }}
           >
-            <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.navy }}>NCT</Text>
+            <Text numberOfLines={1} style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.navy }}>
+              NCT
+            </Text>
           </View>
         </View>
       </View>
@@ -256,67 +263,36 @@ export default function ReaderScreen() {
         </View>
       )}
 
-      {/* Floating Clavis key */}
+      {/* Study Center pill */}
       <Pressable
         onPress={() => drawerRef.current?.open(1)}
-        accessibilityLabel="Open Clavis Study Center"
-        style={{
+        accessibilityLabel="Open Study Center"
+        style={({ pressed }) => ({
           position: "absolute",
-          right: spacing.l,
-          bottom: insets.bottom + 96,
-          width: 64,
-          height: 64,
-          borderRadius: 32,
-          backgroundColor: colors.card,
-          borderWidth: 1,
-          borderColor: colors.goldSoft,
+          alignSelf: "center",
+          bottom: insets.bottom + 22,
+          flexDirection: "row",
           alignItems: "center",
-          justifyContent: "center",
-          shadowColor: "#1B2A4A",
-          shadowOpacity: 0.22,
+          gap: 8,
+          backgroundColor: colors.navyInk,
+          borderRadius: 26,
+          paddingHorizontal: 20,
+          paddingVertical: 13,
+          transform: [{ scale: pressed ? 0.96 : 1 }],
+          shadowColor: "#0D1A30",
+          shadowOpacity: 0.3,
           shadowRadius: 12,
           shadowOffset: { width: 0, height: 5 },
           elevation: 9,
-        }}
+        })}
       >
-        <View
-          style={{
-            width: 54,
-            height: 54,
-            borderRadius: 27,
-            borderWidth: 1,
-            borderColor: colors.border,
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        >
-          <MaterialCommunityIcons name="key-variant" size={26} color={colors.navy} />
-        </View>
+        <MaterialCommunityIcons name="key-variant" size={17} color={colors.goldSoft} />
+        <Text style={{ fontFamily: fonts.sansBold, fontSize: 14, color: colors.white, letterSpacing: 0.3 }}>
+          Study Center
+        </Text>
       </Pressable>
 
-      {/* Chapter bookmark toggle */}
-      <Pressable
-        onPress={() => onToggleBookmark(null)}
-        style={{
-          position: "absolute",
-          right: spacing.l + 76,
-          bottom: insets.bottom + 108,
-          width: 42,
-          height: 42,
-          borderRadius: 21,
-          backgroundColor: colors.card,
-          borderWidth: 1,
-          borderColor: colors.border,
-          alignItems: "center",
-          justifyContent: "center",
-        }}
-      >
-        <Ionicons
-          name={chapterBookmarked ? "bookmark" : "bookmark-outline"}
-          size={18}
-          color={chapterBookmarked ? colors.goldDeep : colors.navy}
-        />
-      </Pressable>
+      <FabMenu />
 
       <ClavisDrawer
         ref={drawerRef}

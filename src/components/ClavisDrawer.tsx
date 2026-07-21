@@ -1,5 +1,6 @@
-// The Clavis Study Center — dark navy bottom sheet with peek (22%) / split (55%) / full (92%).
-// Tabs: Commentary (Devotional/Scholarly/Prophetic) · Verses · Lexicon · Cross Refs · Notes.
+// The Clavis Study Center — soft light bottom sheet with peek (22%) / split (55%) / full (92%).
+// Study levels (Devotional/Scholarly/Prophetic) sit prominently above the commentary.
+// Tabs: Commentary · Verses · Lexicon · Cross Refs · Notes.
 import React, { forwardRef, useCallback, useEffect, useImperativeHandle, useRef, useState } from "react";
 import { View, Text, Pressable, TextInput, Alert } from "react-native";
 import BottomSheet, { BottomSheetScrollView } from "@gorhom/bottom-sheet";
@@ -16,7 +17,7 @@ import {
 } from "../db/content";
 import { listNotes, addNote, deleteNote, type Note } from "../db/user";
 import { fullSync } from "../lib/sync";
-import { fonts, spacing } from "../theme";
+import { fonts, spacing, type Palette } from "../theme";
 import { useTheme } from "../lib/theme-context";
 
 export interface ClavisDrawerHandle {
@@ -41,17 +42,18 @@ const TONES: { key: ToneKey; label: string; icon: React.ReactNode }[] = [
   { key: "prophetic", label: "PROPHETIC", icon: <Ionicons name="flame" size={16} /> },
 ];
 
-// Sheet palette
-const S = {
-  bg: "#12213E",
-  card: "#1B2C4E",
-  border: "rgba(212,184,122,0.18)",
-  text: "#EDE7D8",
-  muted: "#93A0BC",
-};
+// Sheet palette — follows the app theme (soft gray/white in light mode).
+const sheetPalette = (c: Palette) => ({
+  bg: c.menuBg,
+  card: c.card,
+  border: c.cardBorder,
+  text: c.ink,
+  muted: c.inkMuted,
+});
 
 function CommentaryBody({ text }: { text: string }) {
   const { colors } = useTheme();
+  const S = sheetPalette(colors);
   const blocks = text.split(/\n{2,}/).filter((b) => b.trim());
   return (
     <>
@@ -59,7 +61,7 @@ function CommentaryBody({ text }: { text: string }) {
         const trimmed = block.trim();
         if (/^#{1,3}\s/.test(trimmed)) {
           return (
-            <Text key={i} style={{ fontFamily: fonts.display, fontSize: 21, lineHeight: 28, color: colors.white, marginBottom: spacing.m }}>
+            <Text key={i} style={{ fontFamily: fonts.display, fontSize: 21, lineHeight: 28, color: colors.heading, marginBottom: spacing.m }}>
               {trimmed.replace(/^#{1,3}\s*/, "")}
             </Text>
           );
@@ -93,10 +95,12 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
   const sheetRef = useRef<BottomSheet>(null);
   const snapIndex = useRef(-1);
   const { colors } = useTheme();
+  const S = sheetPalette(colors);
   const [tab, setTab] = useState<TabKey>("commentary");
   const [tone, setTone] = useState<ToneKey>("devotional");
   const [focusVerse, setFocusVerse] = useState<number | null>(null);
   const [crossrefs, setCrossrefs] = useState<(CrossRef & { preview?: string })[]>([]);
+  const [refsLoaded, setRefsLoaded] = useState(false);
   const [lexQuery, setLexQuery] = useState("");
   const [lexHits, setLexHits] = useState<StrongsEntry[]>([]);
   const [notes, setNotes] = useState<Note[]>([]);
@@ -117,6 +121,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
 
   useEffect(() => {
     setCrossrefs([]);
+    setRefsLoaded(false);
     setFocusVerse(null);
     loadNotes();
     getCrossrefs(db, bookNum, chapter)
@@ -128,8 +133,9 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
           })),
         );
         setCrossrefs(withPreview);
+        setRefsLoaded(true);
       })
-      .catch(() => {});
+      .catch(() => setRefsLoaded(true));
   }, [db, bookNum, chapter, loadNotes]);
 
   const runLexSearch = async (q: string) => {
@@ -174,7 +180,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
       {/* Header */}
       <View style={{ paddingHorizontal: spacing.m }}>
         <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
-          <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.goldSoft }}>
+          <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.goldDeep }}>
             STUDY CENTER <Text style={{ color: S.muted, letterSpacing: 0 }}>· {reference}{focusVerse ? `:${focusVerse}` : ""}</Text>
           </Text>
           <View style={{ flexDirection: "row", gap: 18 }}>
@@ -191,7 +197,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
         </View>
 
         {/* Underline tabs */}
-        <View style={{ flexDirection: "row", marginTop: spacing.m, borderBottomWidth: 1, borderColor: "rgba(255,255,255,0.08)" }}>
+        <View style={{ flexDirection: "row", marginTop: spacing.m, borderBottomWidth: 1, borderColor: S.border }}>
           {TABS.map((t) => (
             <Pressable
               key={t.key}
@@ -200,10 +206,10 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 marginRight: 22,
                 paddingBottom: 10,
                 borderBottomWidth: 2,
-                borderColor: tab === t.key ? colors.gold : "transparent",
+                borderColor: tab === t.key ? colors.goldDeep : "transparent",
               }}
             >
-              <Text style={{ fontFamily: tab === t.key ? fonts.sansBold : fonts.sansMed, fontSize: 14, color: tab === t.key ? colors.goldSoft : S.muted }}>
+              <Text style={{ fontFamily: tab === t.key ? fonts.sansBold : fonts.sansMed, fontSize: 14, color: tab === t.key ? colors.heading : S.muted }}>
                 {t.label}
               </Text>
             </Pressable>
@@ -217,9 +223,45 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
       >
         {tab === "commentary" && (
           <>
-            <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.gold, marginBottom: spacing.s }}>
-              {tone.toUpperCase()}
-            </Text>
+            <View
+              style={{
+                flexDirection: "row",
+                backgroundColor: colors.chip,
+                borderRadius: 24,
+                padding: 4,
+                marginBottom: spacing.m,
+              }}
+            >
+              {TONES.map((t) => {
+                const active = tone === t.key;
+                return (
+                  <Pressable
+                    key={t.key}
+                    onPress={() => setTone(t.key)}
+                    style={{
+                      flex: 1,
+                      alignItems: "center",
+                      paddingVertical: 9,
+                      borderRadius: 20,
+                      backgroundColor: active ? colors.navyInk : "transparent",
+                      gap: 2,
+                    }}
+                  >
+                    {React.cloneElement(t.icon as any, { color: active ? colors.white : S.muted })}
+                    <Text
+                      style={{
+                        fontFamily: active ? fonts.sansBold : fonts.sansMed,
+                        fontSize: 10,
+                        letterSpacing: 1,
+                        color: active ? colors.white : S.muted,
+                      }}
+                    >
+                      {t.label}
+                    </Text>
+                  </Pressable>
+                );
+              })}
+            </View>
             {commentary ? (
               <CommentaryBody text={commentary[tone] || "Commentary for this chapter is on its way."} />
             ) : (
@@ -230,7 +272,41 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
           </>
         )}
 
-        {tab === "verses" &&
+        {tab === "verses" && focusVerse !== null ? (
+          <>
+            <Pressable onPress={() => setFocusVerse(null)} hitSlop={8} style={{ flexDirection: "row", alignItems: "center", gap: 5, marginBottom: spacing.s }}>
+              <Ionicons name="arrow-back" size={14} color={colors.goldDeep} />
+              <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.goldDeep }}>All verses</Text>
+            </Pressable>
+            <View
+              style={{
+                backgroundColor: colors.scriptureBlue,
+                borderRadius: 14,
+                padding: spacing.m,
+                borderLeftWidth: 3,
+                borderLeftColor: colors.goldDeep,
+                marginBottom: spacing.m,
+              }}
+            >
+              <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 1.5, color: colors.goldDeep, marginBottom: 4 }}>
+                {reference}:{focusVerse}
+              </Text>
+              <Text style={{ fontFamily: fonts.serif, fontSize: 17, lineHeight: 29, color: S.text }}>
+                {verses.find((v) => v.verse === focusVerse)?.text ?? ""}
+              </Text>
+            </View>
+            <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.goldDeep, marginBottom: spacing.s }}>
+              {tone.toUpperCase()} COMMENTARY · {reference}
+            </Text>
+            {commentary ? (
+              <CommentaryBody text={commentary[tone] || "Commentary for this chapter is on its way."} />
+            ) : (
+              <Text style={{ fontFamily: fonts.serif, fontSize: 16, color: S.muted }}>
+                Commentary for this chapter is on its way.
+              </Text>
+            )}
+          </>
+        ) : tab === "verses" ? (
           verses.map((v) => (
             <Pressable
               key={v.verse}
@@ -239,7 +315,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 onVersePick(v.verse);
               }}
               style={{
-                backgroundColor: focusVerse === v.verse ? "#2A3D66" : S.card,
+                backgroundColor: S.card,
                 borderRadius: 12,
                 borderWidth: 1,
                 borderColor: S.border,
@@ -247,12 +323,13 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 marginBottom: 6,
               }}
             >
-              <Text style={{ fontFamily: fonts.serif, fontSize: 15, lineHeight: 24, color: S.text }} numberOfLines={3}>
-                <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldSoft }}>{v.verse} </Text>
+              <Text style={{ fontFamily: fonts.serif, fontSize: 15, lineHeight: 24, color: S.text }} numberOfLines={2}>
+                <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldDeep }}>{v.verse} </Text>
                 {v.text}
               </Text>
             </Pressable>
-          ))}
+          ))
+        ) : null}
 
         {tab === "lexicon" && (
           <>
@@ -284,10 +361,10 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
               <View key={e.id} style={{ backgroundColor: S.card, borderRadius: 12, borderWidth: 1, borderColor: S.border, padding: 12, marginBottom: 6 }}>
                 <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "baseline" }}>
                   <View style={{ flexDirection: "row", alignItems: "baseline", gap: 8, flex: 1 }}>
-                    <Text style={{ fontFamily: fonts.display, fontSize: 18, color: colors.white }}>{e.lemma}</Text>
+                    <Text style={{ fontFamily: fonts.display, fontSize: 18, color: colors.heading }}>{e.lemma}</Text>
                     <Text style={{ fontFamily: fonts.serifItalic, fontSize: 13, color: S.muted }}>{e.translit}</Text>
                   </View>
-                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldSoft }}>{e.id}</Text>
+                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldDeep }}>{e.id}</Text>
                 </View>
                 <Text style={{ fontFamily: fonts.sans, fontSize: 13.5, lineHeight: 21, color: S.text, marginTop: 4 }}>
                   {e.definition || e.kjv_def}
@@ -301,7 +378,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
           <>
             {crossrefs.length === 0 && (
               <Text style={{ fontFamily: fonts.sans, fontSize: 13, color: S.muted, textAlign: "center", marginTop: spacing.m }}>
-                Loading connections…
+                {refsLoaded ? "No cross references for this chapter yet." : "Loading connections…"}
               </Text>
             )}
             {crossrefs.map((r) => (
@@ -309,7 +386,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 key={r.ref_label}
                 onPress={() => onNavigate(r.ref_book_num, r.ref_chapter)}
                 style={({ pressed }) => ({
-                  backgroundColor: pressed ? "#2A3D66" : S.card,
+                  backgroundColor: pressed ? colors.scriptureBlue : S.card,
                   borderRadius: 12,
                   borderWidth: 1,
                   borderColor: S.border,
@@ -318,7 +395,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 })}
               >
                 <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center" }}>
-                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.goldSoft }}>{r.ref_label}</Text>
+                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.goldDeep }}>{r.ref_label}</Text>
                   <Ionicons name="arrow-forward" size={13} color={S.muted} />
                 </View>
                 {!!r.preview && (
@@ -357,13 +434,13 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 onPress={saveNote}
                 disabled={!noteDraft.trim()}
                 style={{
-                  backgroundColor: noteDraft.trim() ? colors.gold : "#2A3D66",
+                  backgroundColor: noteDraft.trim() ? colors.goldDeep : colors.chip,
                   borderRadius: 12,
                   paddingHorizontal: 14,
                   justifyContent: "center",
                 }}
               >
-                <Ionicons name="arrow-up" size={18} color={noteDraft.trim() ? colors.navyDeep : S.muted} />
+                <Ionicons name="arrow-up" size={18} color={noteDraft.trim() ? colors.white : S.muted} />
               </Pressable>
             </View>
             {notes.length === 0 && (
@@ -391,7 +468,7 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
                 style={{ backgroundColor: S.card, borderRadius: 12, borderWidth: 1, borderColor: S.border, padding: 12, marginBottom: 6 }}
               >
                 {n.verse ? (
-                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldSoft, marginBottom: 3 }}>
+                  <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, color: colors.goldDeep, marginBottom: 3 }}>
                     v.{n.verse}
                   </Text>
                 ) : null}
@@ -405,46 +482,6 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
         )}
       </BottomSheetScrollView>
 
-      {/* Floating tone switcher (Commentary tab only) */}
-      {tab === "commentary" && (
-        <View
-          style={{
-            position: "absolute",
-            bottom: 26,
-            left: spacing.m,
-            right: spacing.m,
-            flexDirection: "row",
-            backgroundColor: "rgba(10,18,36,0.92)",
-            borderRadius: 26,
-            borderWidth: 1,
-            borderColor: "rgba(255,255,255,0.12)",
-            padding: 5,
-          }}
-        >
-          {TONES.map((t) => {
-            const active = tone === t.key;
-            return (
-              <Pressable
-                key={t.key}
-                onPress={() => setTone(t.key)}
-                style={{
-                  flex: 1,
-                  alignItems: "center",
-                  paddingVertical: 9,
-                  borderRadius: 21,
-                  backgroundColor: active ? "rgba(255,255,255,0.14)" : "transparent",
-                  gap: 2,
-                }}
-              >
-                {React.cloneElement(t.icon as any, { color: active ? colors.white : S.muted })}
-                <Text style={{ fontFamily: fonts.sansMed, fontSize: 10, letterSpacing: 1, color: active ? colors.white : S.muted }}>
-                  {t.label}
-                </Text>
-              </Pressable>
-            );
-          })}
-        </View>
-      )}
     </BottomSheet>
   );
 });

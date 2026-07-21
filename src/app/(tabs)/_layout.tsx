@@ -7,7 +7,7 @@ export default function TabsLayout() {
   const { colors } = useTheme();
   return (
     <Tabs
-      tabBar={(props) => <FabMenu {...props} />}
+      tabBar={() => <FabMenu />}
       screenOptions={{
         headerStyle: { backgroundColor: colors.parchment },
         headerTintColor: colors.heading,

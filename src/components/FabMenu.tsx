@@ -2,18 +2,19 @@
 // corner that opens a themed menu (replaces the floating tab bar).
 import React, { useEffect, useRef, useState } from "react";
 import { View, Text, Pressable, Animated, Easing } from "react-native";
+import { useRouter, usePathname } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 import { fonts } from "../theme";
 import { useTheme } from "../lib/theme-context";
 
-const ITEMS: { route: string; label: string }[] = [
-  { route: "index", label: "Home" },
-  { route: "read", label: "Read" },
-  { route: "search", label: "Search" },
-  { route: "prayer", label: "Prayer" },
-  { route: "profile", label: "Account" },
-  { route: "settings", label: "Settings" },
+const ITEMS: { route: string; path: string; label: string }[] = [
+  { route: "index", path: "/", label: "Home" },
+  { route: "read", path: "/read", label: "Read" },
+  { route: "search", path: "/search", label: "Search" },
+  { route: "prayer", path: "/prayer", label: "Prayer" },
+  { route: "profile", path: "/profile", label: "Account" },
+  { route: "settings", path: "/settings", label: "Settings" },
 ];
 
 function ItemIcon({ route, color }: { route: string; color: string }) {
@@ -36,8 +37,10 @@ function ItemIcon({ route, color }: { route: string; color: string }) {
   }
 }
 
-export function FabMenu({ state, navigation }: any) {
+export function FabMenu() {
   const { colors } = useTheme();
+  const router = useRouter();
+  const pathname = usePathname();
   const insets = useSafeAreaInsets();
   const [open, setOpen] = useState(false);
 
@@ -60,11 +63,15 @@ export function FabMenu({ state, navigation }: any) {
     Animated.spring(anim, { toValue: open ? 1 : 0, useNativeDriver: true, friction: 8, tension: 90 }).start();
   }, [open, anim]);
 
-  const activeRoute = state.routes[state.index]?.name;
+  // Highlight "Read" while inside the reader or chapter picker too.
+  const activeRoute =
+    pathname === "/" ? "index"
+    : pathname.startsWith("/reader") || pathname.startsWith("/chapter-picker") || pathname.startsWith("/read") ? "read"
+    : ITEMS.find((i) => pathname.startsWith(i.path) && i.path !== "/")?.route ?? "";
 
-  const go = (route: string) => {
+  const go = (item: (typeof ITEMS)[number]) => {
     setOpen(false);
-    if (route !== activeRoute) navigation.navigate(route);
+    if (item.route !== activeRoute || item.route === "read") router.push(item.path as any);
   };
 
   const bottom = Math.max(insets.bottom, 14) + 8;
@@ -115,7 +122,7 @@ export function FabMenu({ state, navigation }: any) {
               key={item.route}
               accessibilityRole="button"
               accessibilityState={focused ? { selected: true } : {}}
-              onPress={() => go(item.route)}
+              onPress={() => go(item)}
               style={{
                 flexDirection: "row",
                 alignItems: "center",

@@ -130,6 +130,7 @@ export default function QuizScreen() {
   const [done, setDone] = useState(false);
   const [alreadyDone, setAlreadyDone] = useState<{ score: number; total: number } | null>(null);
   const [passageRef, setPassageRef] = useState<string>("");
+  const [started, setStarted] = useState(false);
 
   useEffect(() => {
     (async () => {
@@ -167,57 +168,119 @@ export default function QuizScreen() {
   const q = questions[current];
 
   return (
-    <View style={{ flex: 1, backgroundColor: colors.navyDeep, paddingTop: insets.top }}>
+    <View style={{ flex: 1, backgroundColor: colors.parchment, paddingTop: insets.top }}>
       <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center", padding: spacing.m }}>
-        <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 2, color: colors.gold }}>
+        <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 2, color: colors.goldDeep }}>
           DAILY QUIZ{passageRef ? ` · ${passageRef.toUpperCase()}` : ""}
         </Text>
         <Pressable onPress={() => router.back()} hitSlop={12}>
-          <Ionicons name="close" size={24} color={colors.goldSoft} />
+          <Ionicons name="close" size={24} color={colors.heading} />
         </Pressable>
       </View>
 
       {alreadyDone ? (
         <Centered>
-          <Ionicons name="checkmark-circle" size={54} color={colors.gold} />
-          <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.white, marginTop: spacing.m, textAlign: "center" }}>
+          <Ionicons name="checkmark-circle" size={54} color={colors.goldDeep} />
+          <Text style={{ fontFamily: fonts.display, fontSize: 24, color: colors.heading, marginTop: spacing.m, textAlign: "center" }}>
             Already done today
           </Text>
-          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.goldSoft, marginTop: spacing.s }}>
+          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.inkMuted, marginTop: spacing.s }}>
             You scored {alreadyDone.score} / {alreadyDone.total}. Come back tomorrow!
           </Text>
         </Centered>
       ) : done ? (
         <Centered>
-          <Ionicons name="trophy" size={54} color={colors.gold} />
-          <Text style={{ fontFamily: fonts.display, fontSize: 26, color: colors.white, marginTop: spacing.m }}>
+          <Ionicons name="trophy" size={54} color={colors.goldDeep} />
+          <Text style={{ fontFamily: fonts.display, fontSize: 26, color: colors.heading, marginTop: spacing.m }}>
             {score} / {questions.length}
           </Text>
-          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.goldSoft, marginTop: spacing.s, textAlign: "center" }}>
+          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.inkMuted, marginTop: spacing.s, textAlign: "center" }}>
             {score === questions.length ? "Perfect — well done!" : score >= 3 ? "Solid work. Keep reading!" : "The Word rewards the diligent — read on!"}
           </Text>
           <Pressable
             onPress={() => router.back()}
-            style={{ marginTop: spacing.l, backgroundColor: colors.gold, borderRadius: 14, paddingHorizontal: spacing.xl, paddingVertical: 14 }}
+            style={{ marginTop: spacing.l, backgroundColor: colors.navyInk, borderRadius: 14, paddingHorizontal: spacing.xl, paddingVertical: 14 }}
           >
-            <Text style={{ fontFamily: fonts.sansBold, fontSize: 15, color: colors.navyDeep }}>Done</Text>
+            <Text style={{ fontFamily: fonts.sansBold, fontSize: 15, color: colors.white }}>Done</Text>
+          </Pressable>
+        </Centered>
+      ) : !started ? (
+        <Centered>
+          <View
+            style={{
+              width: 76,
+              height: 76,
+              borderRadius: 38,
+              backgroundColor: colors.scriptureBlue,
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Ionicons name="sparkles" size={32} color={colors.navy} />
+          </View>
+          <Text style={{ fontFamily: fonts.display, fontSize: 28, color: colors.heading, marginTop: spacing.l, textAlign: "center" }}>
+            Today's Quiz
+          </Text>
+          {passageRef ? (
+            <Text style={{ fontFamily: fonts.sansBold, fontSize: 14, color: colors.goldDeep, marginTop: 6 }}>
+              {passageRef}
+            </Text>
+          ) : null}
+          <Text
+            style={{
+              fontFamily: fonts.sans,
+              fontSize: 15,
+              lineHeight: 24,
+              color: colors.inkMuted,
+              marginTop: spacing.m,
+              textAlign: "center",
+              maxWidth: 300,
+            }}
+          >
+            Seven questions drawn from today's Scripture of the Day — fill in the missing words and spot the true
+            verses. A new quiz arrives each morning.
+          </Text>
+          <Pressable
+            onPress={() => setStarted(true)}
+            disabled={questions.length === 0}
+            style={({ pressed }) => ({
+              marginTop: spacing.l,
+              backgroundColor: colors.navyInk,
+              borderRadius: 16,
+              paddingHorizontal: 44,
+              paddingVertical: 15,
+              opacity: questions.length === 0 ? 0.5 : pressed ? 0.9 : 1,
+            })}
+          >
+            <Text style={{ fontFamily: fonts.sansBold, fontSize: 16, color: colors.white }}>
+              {questions.length === 0 ? "Preparing…" : "Start Quiz"}
+            </Text>
           </Pressable>
         </Centered>
       ) : !q ? (
         <Centered>
-          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.goldSoft }}>Preparing today's questions…</Text>
+          <Text style={{ fontFamily: fonts.sans, fontSize: 15, color: colors.inkMuted }}>Preparing today's questions…</Text>
         </Centered>
       ) : (
         <ScrollView contentContainerStyle={{ padding: spacing.l, paddingBottom: insets.bottom + spacing.xl }}>
-          <Text style={{ fontFamily: fonts.sans, fontSize: 13, color: colors.tabInactive }}>
+          <Text style={{ fontFamily: fonts.sans, fontSize: 13, color: colors.inkMuted }}>
             Question {current + 1} of {questions.length}
           </Text>
-          <Text style={{ fontFamily: fonts.display, fontSize: 22, lineHeight: 30, color: colors.white, marginTop: spacing.s }}>
+          <Text style={{ fontFamily: fonts.display, fontSize: 22, lineHeight: 30, color: colors.heading, marginTop: spacing.s }}>
             {q.prompt}
           </Text>
           {q.quote && (
-            <View style={{ backgroundColor: colors.navy, borderRadius: 14, padding: spacing.m, marginTop: spacing.m, borderLeftWidth: 3, borderLeftColor: colors.gold }}>
-              <Text style={{ fontFamily: fonts.serifItalic, fontSize: 16, lineHeight: 27, color: colors.parchment }}>
+            <View
+              style={{
+                backgroundColor: colors.scriptureBlue,
+                borderRadius: 14,
+                padding: spacing.m,
+                marginTop: spacing.m,
+                borderLeftWidth: 3,
+                borderLeftColor: colors.goldDeep,
+              }}
+            >
+              <Text style={{ fontFamily: fonts.serifItalic, fontSize: 16, lineHeight: 27, color: colors.ink }}>
                 “{q.quote}”
               </Text>
             </View>
@@ -227,14 +290,17 @@ export default function QuizScreen() {
               const isAnswer = i === q.answer;
               const isChosen = chosen === i;
               const bg =
-                chosen === null ? colors.navy : isAnswer ? "#2E5C3F" : isChosen ? "#6B3030" : colors.navy;
+                chosen === null ? colors.card : isAnswer ? "#E2F0DF" : isChosen ? "#F7E3E1" : colors.card;
+              const border =
+                chosen === null ? colors.cardBorder : isAnswer ? "#5C8A5A" : isChosen ? "#C2726B" : colors.cardBorder;
+              const txt = chosen !== null && (isAnswer || isChosen) ? "#1D2438" : colors.ink;
               return (
                 <Pressable
                   key={i}
                   onPress={() => choose(i)}
-                  style={{ backgroundColor: bg, borderRadius: 14, padding: spacing.m, borderWidth: 1, borderColor: chosen !== null && isAnswer ? colors.gold : "transparent" }}
+                  style={{ backgroundColor: bg, borderRadius: 14, padding: spacing.m, borderWidth: 1, borderColor: border }}
                 >
-                  <Text style={{ fontFamily: fonts.sansMed, fontSize: 15, color: colors.parchment }}>{opt}</Text>
+                  <Text style={{ fontFamily: fonts.sansMed, fontSize: 15, color: txt }}>{opt}</Text>
                 </Pressable>
               );
             })}
