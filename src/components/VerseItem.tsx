@@ -59,7 +59,7 @@ function VerseItemInner({ verse, text, isOT, selected, highlighted, wordTags, on
         fontSize: 19,
         lineHeight: 34,
         color: colors.navy,
-        backgroundColor: highlighted ? colors.highlight : selected ? colors.goldSoft : "transparent",
+        backgroundColor: highlighted || selected ? colors.highlight : "transparent",
         borderRadius: 3,
       }}
     >

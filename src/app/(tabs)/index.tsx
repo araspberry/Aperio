@@ -113,7 +113,7 @@ export default function HomeScreen() {
         {votd && (
           <View style={{ marginTop: spacing.l, borderRadius: 24, padding: spacing.l, backgroundColor: colors.scriptureBlue }}>
             <Pressable
-              onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}?clavis=1`)}
+              onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}`)}
               style={{
                 flexDirection: "row",
                 alignItems: "center",
@@ -132,15 +132,15 @@ export default function HomeScreen() {
             <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.heading }}>
               SCRIPTURE OF THE DAY
             </Text>
-            <Text style={{ fontFamily: fonts.serifSemi, fontSize: 23, lineHeight: 36, color: colors.heading, marginTop: spacing.m }}>
+            <Text style={{ fontFamily: fonts.serifSemi, fontSize: 17, lineHeight: 27, color: colors.heading, marginTop: spacing.s }}>
               "{votd.text}"
             </Text>
-            <Text style={{ fontFamily: fonts.serifItalic, fontSize: 16, color: colors.heading, marginTop: spacing.m }}>
+            <Text style={{ fontFamily: fonts.serifItalic, fontSize: 14, color: colors.heading, marginTop: spacing.s }}>
               — {votd.ref}
             </Text>
             <View style={{ flexDirection: "row", gap: spacing.s, marginTop: spacing.l }}>
               <Pressable
-                onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}?clavis=1`)}
+                onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}`)}
                 style={{
                   flexDirection: "row",
                   alignItems: "center",
@@ -234,7 +234,7 @@ export default function HomeScreen() {
         {RECOMMENDS.map((r) => (
           <Pressable
             key={r.title}
-            onPress={() => router.push(`/reader/${r.book}/1?clavis=1`)}
+            onPress={() => router.push(`/reader/${r.book}/1`)}
             style={{ width: 228, minHeight: 170, borderRadius: 24, padding: spacing.l, backgroundColor: colors[r.bg] }}
           >
             <View style={{ alignSelf: "flex-start", backgroundColor: colors.navyInk, borderRadius: 14, paddingHorizontal: 12, paddingVertical: 5 }}>
