@@ -2,6 +2,7 @@
 import React from "react";
 import { View, Text, ScrollView, Pressable, Linking } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
+import Constants from "expo-constants";
 import { fonts, spacing } from "../../theme";
 import { useTheme } from "../../lib/theme-context";
 
@@ -87,7 +88,7 @@ export default function SettingsScreen() {
           icon="star-outline"
           label="Rate Aperio"
           sub="Love the app? A review helps others find it."
-          onPress={() => Linking.openURL("https://apps.apple.com/app/id6781547905?action=write-review")}
+          onPress={() => Linking.openURL("https://apps.apple.com/app/id6763618868?action=write-review")}
         />
         <Row
           icon="globe-outline"
@@ -117,7 +118,7 @@ export default function SettingsScreen() {
         "Open my eyes, that I may behold wondrous things out of your law." — Psalm 119:18
       </Text>
       <Text style={{ textAlign: "center", fontFamily: fonts.sans, fontSize: 12, color: colors.verseNum, marginTop: 8 }}>
-        Aperio 1.0.0
+        Aperio {Constants.expoConfig?.version ?? "1.1.0"}
       </Text>
     </ScrollView>
   );
