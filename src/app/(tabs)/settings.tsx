@@ -70,7 +70,8 @@ export default function SettingsScreen() {
         <Text style={{ fontFamily: fonts.display, fontSize: 20, color: colors.heading }}>Where the Word opens.</Text>
         <Text style={[type.caption, { marginTop: 6, lineHeight: 18 }]}>
           Aperio is a quiet place to read, study, and pray — with Scripture and Clavis commentary
-          stored on your device, so it works anywhere, even offline.
+          stored on your device, so it works anywhere, even offline. Scripture is presented in the
+          New Clavis Translation (NCT), an original English rendering prepared for Aperio.
         </Text>
       </View>
 
