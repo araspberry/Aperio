@@ -7,7 +7,8 @@ import { useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext, type SQLiteDatabase } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
-import { getBooks, type Book } from "../db/content";
+import { getBooks, getChapter, type Book, type Verse } from "../db/content";
+import { verseOfDayRef } from "../lib/verse-of-day";
 import { saveQuizResult, getTodayQuiz } from "../db/user";
 import { fonts, spacing } from "../theme";
 import { useTheme } from "../lib/theme-context";
@@ -30,11 +31,13 @@ function mulberry32(seed: number) {
   };
 }
 
-async function buildQuiz(db: SQLiteDatabase, books: Book[]): Promise<Question[]> {
+async function buildQuiz(
+  db: SQLiteDatabase,
+  books: Book[],
+): Promise<{ questions: Question[]; passageRef: string }> {
   const day = new Date().toISOString().slice(0, 10);
   const seed = [...day].reduce((a, c) => a * 31 + c.charCodeAt(0), 7) >>> 0;
   const rand = mulberry32(seed);
-  const pick = <T,>(arr: T[]): T => arr[Math.floor(rand() * arr.length)];
   const shuffle = <T,>(arr: T[]): T[] => {
     const a = [...arr];
     for (let i = a.length - 1; i > 0; i--) {
@@ -43,44 +46,76 @@ async function buildQuiz(db: SQLiteDatabase, books: Book[]): Promise<Question[]>
     }
     return a;
   };
-  const questions: Question[] = [];
 
-  // 4 × "which book is this verse from?"
-  for (let i = 0; i < 4; i++) {
-    const row = await db.getFirstAsync<{ book_num: number; text: string }>(
-      `SELECT book_num, text FROM verses WHERE length(text) BETWEEN 80 AND 220
-       LIMIT 1 OFFSET ${Math.floor(rand() * 25000)}`,
-    );
-    if (!row) continue;
-    const correct = books.find((b) => b.book_num === row.book_num)!;
-    const wrong = shuffle(books.filter((b) => b.book_num !== row.book_num)).slice(0, 3);
-    const options = shuffle([correct, ...wrong]);
+  // Today's quiz always comes from the Scripture of the Day passage.
+  const votd = verseOfDayRef();
+  const book = books.find((b) => b.book_num === votd.book);
+  const verses = await getChapter(db, votd.book, votd.chapter);
+  const passageRef = book ? `${book.name} ${votd.chapter}` : "today's passage";
+  const questions: Question[] = [];
+  if (!book || verses.length === 0) return { questions, passageRef };
+
+  const clean = (w: string) => w.replace(/[^A-Za-z']/g, "");
+  const substantive = (v: Verse) => v.text.length >= 60 && v.text.length <= 300;
+  const filtered = verses.filter(substantive);
+  const pool = shuffle(filtered.length >= 7 ? filtered : verses);
+
+  // Word bank for distractors, drawn from the same chapter.
+  const wordBank = Array.from(
+    new Set(
+      verses
+        .flatMap((v) => v.text.split(/\s+/))
+        .map(clean)
+        .filter((w) => w.length >= 5),
+    ),
+  );
+
+  // 4 x fill-in-the-blank from today's chapter
+  for (const v of pool.slice(0, 4)) {
+    const words = v.text.split(/\s+/);
+    const idxs = words.map((w, i) => ({ w: clean(w), i })).filter((x) => x.w.length >= 5);
+    if (idxs.length === 0) continue;
+    const target = idxs[Math.floor(rand() * idxs.length)];
+    const answerWord = target.w;
+    const distractors = shuffle(
+      wordBank.filter((w) => w.toLowerCase() !== answerWord.toLowerCase()),
+    ).slice(0, 3);
+    if (distractors.length < 3) continue;
+    const blanked = words
+      .map((w, i) => (i === target.i ? w.replace(clean(w), "_____") : w))
+      .join(" ");
+    const options = shuffle([answerWord, ...distractors]);
     questions.push({
-      prompt: "Which book is this from?",
-      quote: row.text.length > 180 ? row.text.slice(0, 180) + "…" : row.text,
-      options: options.map((b) => b.name),
+      prompt: `Fill in the blank — ${book.name} ${votd.chapter}:${v.verse}`,
+      quote: blanked.length > 220 ? blanked.slice(0, 220) + "…" : blanked,
+      options,
+      answer: options.indexOf(answerWord),
+    });
+  }
+
+  // 3 x "which of these lines is from today's passage?"
+  const snippet = (t: string) => (t.length > 110 ? t.slice(0, 110) + "…" : t);
+  for (const v of pool.slice(4, 7)) {
+    const decoys: string[] = [];
+    for (let tries = 0; tries < 8 && decoys.length < 3; tries++) {
+      const row = await db.getFirstAsync<{ text: string }>(
+        `SELECT text FROM verses WHERE book_num != ? AND length(text) BETWEEN 80 AND 200
+         LIMIT 1 OFFSET ${Math.floor(rand() * 25000)}`,
+        [votd.book],
+      );
+      if (row && !decoys.includes(snippet(row.text))) decoys.push(snippet(row.text));
+    }
+    if (decoys.length < 3) continue;
+    const correct = snippet(v.text);
+    const options = shuffle([correct, ...decoys]);
+    questions.push({
+      prompt: `Which of these is from today's passage, ${book.name} ${votd.chapter}?`,
+      options,
       answer: options.indexOf(correct),
     });
   }
 
-  // 3 × "what does this word mean?" (Strong's)
-  for (let i = 0; i < 3; i++) {
-    const rows = await db.getAllAsync<{ lemma: string; translit: string; kjv_def: string; language: string }>(
-      `SELECT lemma, translit, kjv_def, language FROM strongs
-       WHERE length(kjv_def) BETWEEN 4 AND 40 AND kjv_def NOT LIKE '%,%'
-       LIMIT 4 OFFSET ${Math.floor(rand() * 4000)}`,
-    );
-    if (rows.length < 4) continue;
-    const answerIdx = Math.floor(rand() * 4);
-    const q = rows[answerIdx];
-    questions.push({
-      prompt: `The ${q.language} word “${q.translit}” (${q.lemma}) means…`,
-      options: rows.map((r) => r.kjv_def),
-      answer: answerIdx,
-    });
-  }
-
-  return shuffle(questions);
+  return { questions: shuffle(questions), passageRef };
 }
 
 export default function QuizScreen() {
@@ -94,6 +129,7 @@ export default function QuizScreen() {
   const [score, setScore] = useState(0);
   const [done, setDone] = useState(false);
   const [alreadyDone, setAlreadyDone] = useState<{ score: number; total: number } | null>(null);
+  const [passageRef, setPassageRef] = useState<string>("");
 
   useEffect(() => {
     (async () => {
@@ -104,7 +140,9 @@ export default function QuizScreen() {
           return;
         }
         const allBooks = await getBooks(db);
-        setQuestions(await buildQuiz(db, allBooks));
+        const built = await buildQuiz(db, allBooks);
+        setPassageRef(built.passageRef);
+        setQuestions(built.questions);
       } catch {}
     })();
   }, [db]);
@@ -132,7 +170,7 @@ export default function QuizScreen() {
     <View style={{ flex: 1, backgroundColor: colors.navyDeep, paddingTop: insets.top }}>
       <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center", padding: spacing.m }}>
         <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 2, color: colors.gold }}>
-          DAILY QUIZ
+          DAILY QUIZ{passageRef ? ` · ${passageRef.toUpperCase()}` : ""}
         </Text>
         <Pressable onPress={() => router.back()} hitSlop={12}>
           <Ionicons name="close" size={24} color={colors.goldSoft} />

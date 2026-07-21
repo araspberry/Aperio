@@ -156,10 +156,15 @@ let wordTagCache: Map<string, { h: string | null; g: string | null }> | null = n
 /** Word → Strong's mapping used to render tappable gold words in the reader. */
 export async function getWordTags(db: SQLiteDatabase): Promise<Map<string, { h: string | null; g: string | null }>> {
   if (wordTagCache) return wordTagCache;
-  const rows = await db.getAllAsync<{ word: string; strongs_h: string | null; strongs_g: string | null }>(
-    "SELECT word, strongs_h, strongs_g FROM word_tags",
-  );
-  wordTagCache = new Map(rows.map((r) => [r.word, { h: r.strongs_h, g: r.strongs_g }]));
+  try {
+    const rows = await db.getAllAsync<{ word: string; strongs_h: string | null; strongs_g: string | null }>(
+      "SELECT word, strongs_h, strongs_g FROM word_tags",
+    );
+    wordTagCache = new Map(rows.map((r) => [r.word, { h: r.strongs_h, g: r.strongs_g }]));
+  } catch {
+    // Table absent from this content build — readers still work, just without gold word links.
+    wordTagCache = new Map();
+  }
   return wordTagCache;
 }
 

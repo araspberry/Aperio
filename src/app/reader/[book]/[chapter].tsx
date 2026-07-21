@@ -163,7 +163,6 @@ export default function ReaderScreen() {
             }}
           >
             <Text style={{ fontFamily: fonts.sansBold, fontSize: 13, color: colors.navy }}>NCT</Text>
-            <Ionicons name="chevron-down" size={10} color={colors.inkMuted} />
           </View>
         </View>
       </View>
