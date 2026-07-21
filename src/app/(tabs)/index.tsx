@@ -112,26 +112,26 @@ export default function HomeScreen() {
         {/* Scripture of the day — powder-blue card */}
         {votd && (
           <View style={{ marginTop: spacing.l, borderRadius: 24, padding: spacing.l, backgroundColor: colors.scriptureBlue }}>
-            <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center" }}>
-              <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.heading }}>
-                SCRIPTURE OF THE DAY
-              </Text>
-              <Pressable
-                onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}?clavis=1`)}
-                style={{
-                  flexDirection: "row",
-                  alignItems: "center",
-                  gap: 6,
-                  backgroundColor: colors.white,
-                  borderRadius: 16,
-                  paddingHorizontal: 12,
-                  paddingVertical: 6,
-                }}
-              >
-                <Ionicons name="book-outline" size={13} color={"#122344"} />
-                <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, color: "#122344" }}>Read Story</Text>
-              </Pressable>
-            </View>
+            <Pressable
+              onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}?clavis=1`)}
+              style={{
+                flexDirection: "row",
+                alignItems: "center",
+                gap: 6,
+                alignSelf: "flex-start",
+                backgroundColor: colors.white,
+                borderRadius: 16,
+                paddingHorizontal: 12,
+                paddingVertical: 6,
+                marginBottom: spacing.s,
+              }}
+            >
+              <Ionicons name="book-outline" size={13} color={"#122344"} />
+              <Text style={{ fontFamily: fonts.sansMed, fontSize: 12, color: "#122344" }}>Read Story</Text>
+            </Pressable>
+            <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.heading }}>
+              SCRIPTURE OF THE DAY
+            </Text>
             <Text style={{ fontFamily: fonts.serifSemi, fontSize: 23, lineHeight: 36, color: colors.heading, marginTop: spacing.m }}>
               "{votd.text}"
             </Text>

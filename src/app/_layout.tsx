@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import React, { Suspense, useEffect } from "react";
 import { View, Text, ActivityIndicator, Pressable } from "react-native";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
@@ -15,6 +15,7 @@ import {
   Lora_600SemiBold,
 } from "@expo-google-fonts/lora";
 import { Inter_400Regular, Inter_500Medium, Inter_700Bold } from "@expo-google-fonts/inter";
+import { File, Paths } from "expo-file-system";
 import { AuthProvider } from "../lib/auth";
 import { ThemeProvider, useTheme } from "../lib/theme-context";
 import { colors, spacing } from "../theme";
@@ -82,13 +83,22 @@ export default function RootLayout() {
     Inter_700Bold,
   });
 
+  // One-time cleanup: remove the v1 content DB copy (superseded by aperio-content-v2.db,
+  // which carries the crossrefs table).
+  useEffect(() => {
+    try {
+      const old = new File(Paths.document, "SQLite/aperio-content.db");
+      if (old.exists) old.delete();
+    } catch {}
+  }, []);
+
   if (!fontsLoaded) return <Loading />;
 
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <Suspense fallback={<Loading />}>
         <SQLiteProvider
-          databaseName="aperio-content.db"
+          databaseName="aperio-content-v2.db"
           assetSource={{ assetId: require("../../assets/db/aperio.db") }}
           useSuspense
         >

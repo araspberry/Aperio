@@ -154,7 +154,7 @@ export default function ReaderScreen() {
             <Ionicons
               name={chapterBookmarked ? "bookmark" : "bookmark-outline"}
               size={20}
-              color={chapterBookmarked ? colors.goldDeep : colors.navy}
+              color={chapterBookmarked ? "#E02D2D" : colors.navy}
             />
           </Pressable>
           <View
