@@ -113,6 +113,30 @@
     flex: 1; border: none; background: transparent; padding: 19px 0;
     font-size: 1.08rem; font-family: inherit; color: #1D2438; outline: none;
   }
+  .impact {
+    display: none;
+    background: rgba(255,255,255,0.75);
+    border: 1.5px solid #D8DEE9;
+    border-radius: 16px;
+    padding: 18px 18px 8px;
+    margin-top: 18px;
+  }
+  .impact h3 {
+    font-size: 0.72rem; letter-spacing: 0.2em; color: #9A6E1A;
+    font-weight: 700; margin-bottom: 12px;
+  }
+  .impact-row { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 12px; }
+  .impact-dot {
+    width: 8px; height: 8px; border-radius: 4px; background: #C4952A;
+    margin-top: 7px; flex-shrink: 0;
+  }
+  .impact-row p { font-size: 0.95rem; color: #3A4358; line-height: 1.5; font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; }
+  .impact-verse {
+    display: none;
+    text-align: center; font-family: Georgia, serif; font-style: italic;
+    font-size: 0.95rem; color: #8891A3; margin-top: 16px; line-height: 1.6;
+  }
+  .cancel-note { font-weight: 600; color: #6C7689; }
   .give-cta {
     display: block; width: 100%; margin-top: auto;
     background: #122344; color: #fff; border: none; border-radius: 16px;
@@ -170,8 +194,15 @@
       <span>$</span>
       <input id="customAmt" type="number" min="1" step="1" inputmode="decimal" placeholder="Or enter another amount" oninput="custom(this.value)" />
     </div>
+    <div class="impact" id="impactCard">
+      <h3>YOUR MONTHLY GIFT SUSTAINS</h3>
+      <div class="impact-row"><div class="impact-dot"></div><p>The full Bible and commentary, free for everyone — no ads, no paywalls, ever</p></div>
+      <div class="impact-row"><div class="impact-dot"></div><p>New translations, study tools, and daily devotions in the works</p></div>
+      <div class="impact-row"><div class="impact-dot"></div><p>The Word reaching more hands, in more places, every month</p></div>
+    </div>
+    <p class="impact-verse" id="impactVerse">"Each of you should give what you have decided in your heart to give&hellip;<br/>for God loves a cheerful giver." &mdash; 2 Corinthians 9:7</p>
     <button class="give-cta" id="giveBtn" onclick="goStripe()">Give $25</button>
-    <p class="secure-note">🔒 Secure checkout by Stripe · Apple Pay, card, or Link<br/>Your gift keeps Aperio free — thank you.</p>
+    <p class="secure-note">🔒 Secure checkout by Stripe · Apple Pay, card, or Link<span class="cancel-note" id="cancelNote" style="display:none;"> · Cancel anytime</span><br/>Your gift keeps Aperio free — thank you.</p>
   </div>
 </div>
 
@@ -191,6 +222,9 @@
     document.getElementById('modeMonthly').classList.toggle('active', m === 'monthly');
     document.getElementById('perMonth').style.display = m === 'monthly' ? 'inline' : 'none';
     document.querySelector('.custom-row').style.display = m === 'monthly' ? 'none' : 'flex';
+    document.getElementById('impactCard').style.display = m === 'monthly' ? 'block' : 'none';
+    document.getElementById('impactVerse').style.display = m === 'monthly' ? 'block' : 'none';
+    document.getElementById('cancelNote').style.display = m === 'monthly' ? 'inline' : 'none';
     var presets = document.querySelectorAll('.preset');
     presets[4].style.display = m === 'monthly' ? 'none' : 'block';
     document.getElementById('presets').style.gridTemplateColumns = m === 'monthly' ? 'repeat(4, 1fr)' : 'repeat(5, 1fr)';
