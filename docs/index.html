@@ -52,10 +52,17 @@
   .faq dt { color: var(--cream); font-weight: 600; margin-top: 18px; }
   .faq dd { color: var(--muted); margin-top: 4px; }
   footer {
-    margin-top: 64px; padding-top: 24px; text-align: center;
-    border-top: 1px solid rgba(18,35,68,0.12);
-    font-size: 0.85rem; color: #98A1B3;
+    margin-top: 56px; padding-top: 26px; text-align: center;
+    border-top: 1px solid rgba(18,35,68,0.10);
   }
+  footer .foot-tag {
+    font-family: Georgia, "Times New Roman", serif; font-style: italic;
+    color: #98A1B3; font-size: 0.95rem; margin-bottom: 10px;
+  }
+  footer .foot-links { font-size: 0.85rem; margin-bottom: 8px; }
+  footer .foot-links a { color: #6C7689; font-weight: 600; text-decoration: none; }
+  footer .foot-links a:hover { color: #122344; }
+  footer .foot-copy { font-size: 0.8rem; color: #A6AEBE; margin-bottom: 0; }
   footer a { margin: 0 10px; }
 </style>
 </head>
@@ -94,12 +101,15 @@
   </div>
 
   <footer>
-    <p>
-      <a href="./privacy.html">Privacy Policy</a> ·
+    <p class="foot-tag">Where the Word opens.</p>
+    <p class="foot-links">
+      <a href="./index.html">Support</a> ·
+      <a href="./give.html">Give</a> ·
       <a href="./terms.html">Terms of Use</a> ·
+      <a href="./privacy.html">Privacy Policy</a> ·
       <a href="mailto:support@aperiobible.app">Contact</a>
     </p>
-    <p style="margin-top:10px">© 2026 Aperio · Alpharetta, Georgia, United States</p>
+    <p class="foot-copy">© 2026 Aperio</p>
   </footer>
 </div>
 </body>

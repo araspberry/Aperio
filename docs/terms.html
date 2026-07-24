@@ -34,9 +34,17 @@
   a { color: #122344; font-weight: 600; }
   strong { color: var(--cream); }
   footer {
-    margin-top: 56px; padding-top: 22px; text-align: center;
-    border-top: 1px solid rgba(18,35,68,0.10); font-size: 0.85rem; color: #98A1B3;
+    margin-top: 56px; padding-top: 26px; text-align: center;
+    border-top: 1px solid rgba(18,35,68,0.10);
   }
+  footer .foot-tag {
+    font-family: Georgia, "Times New Roman", serif; font-style: italic;
+    color: #98A1B3; font-size: 0.95rem; margin-bottom: 10px;
+  }
+  footer .foot-links { font-size: 0.85rem; margin-bottom: 8px; }
+  footer .foot-links a { color: #6C7689; font-weight: 600; text-decoration: none; }
+  footer .foot-links a:hover { color: #122344; }
+  footer .foot-copy { font-size: 0.8rem; color: #A6AEBE; margin-bottom: 0; }
 </style>
 </head>
 <body>
@@ -80,7 +88,15 @@
   Aperio / Katylst Agency, Alpharetta, Georgia, United States</p>
 
   <footer>
-    <p>Where the Word opens. · © 2026 Aperio · <a href="./privacy.html" style="color:#98A1B3;">Privacy Policy</a></p>
+    <p class="foot-tag">Where the Word opens.</p>
+    <p class="foot-links">
+      <a href="./index.html">Support</a> ·
+      <a href="./give.html">Give</a> ·
+      <a href="./terms.html">Terms of Use</a> ·
+      <a href="./privacy.html">Privacy Policy</a> ·
+      <a href="mailto:support@aperiobible.app">Contact</a>
+    </p>
+    <p class="foot-copy">© 2026 Aperio</p>
   </footer>
 </div>
 </body>
