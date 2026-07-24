@@ -52,11 +52,14 @@
   .fine { font-size: 0.85rem; color: var(--muted); }
   .fine a { color: var(--gold-soft); }
   .overlay {
-    display: none; position: fixed; inset: 0; z-index: 50;
+    position: fixed; inset: 0; z-index: 50;
     background: rgba(18,35,68,0.45);
-    align-items: flex-end; justify-content: center;
+    display: flex; align-items: flex-end; justify-content: center;
+    opacity: 0; visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s;
   }
-  .overlay.open { display: flex; }
+  .overlay.open { opacity: 1; visibility: visible; }
+  .overlay.open .sheet { transform: translateY(0); }
   .sheet {
     background: #FFFFFF; color: #1D2438;
     width: 100%; max-width: 480px;
@@ -64,12 +67,25 @@
     padding: 26px 22px calc(28px + env(safe-area-inset-bottom));
     box-shadow: 0 -12px 40px rgba(18,35,68,0.25);
     text-align: left;
+    transform: translateY(100%);
+    transition: transform 0.38s cubic-bezier(0.32, 0.72, 0.22, 1);
     font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
   }
   @media (min-width: 560px) {
     .overlay { align-items: center; }
     .sheet { border-radius: 26px; }
   }
+  .mode-toggle {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 4px;
+    background: #EEF1F6; border-radius: 14px; padding: 4px; margin: 14px 0 4px;
+  }
+  .mode-btn {
+    border: none; background: transparent; border-radius: 11px;
+    padding: 10px 0; font-size: 0.92rem; font-weight: 600; color: #5A6478;
+    cursor: pointer; font-family: inherit;
+  }
+  .mode-btn.active { background: #FFFFFF; color: #122344; box-shadow: 0 1px 4px rgba(18,35,68,0.12); }
+  .per-month { font-size: 1rem; color: #5A6478; font-family: -apple-system, sans-serif; font-weight: 600; }
   .sheet-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
   .sheet-title { font-size: 0.75rem; letter-spacing: 0.2em; color: #9A6E1A; font-weight: 700; }
   .sheet-x { background: #EEF1F6; border: none; width: 34px; height: 34px; border-radius: 17px; font-size: 1rem; color: #122344; cursor: pointer; }
@@ -127,7 +143,11 @@
       <div class="sheet-title">GIVE TO APERIO</div>
       <button class="sheet-x" onclick="closeGive()" aria-label="Close">✕</button>
     </div>
-    <div class="amount-display"><span>$</span><b id="amtShow">25</b></div>
+    <div class="mode-toggle">
+      <button class="mode-btn active" id="modeOnce" onclick="setMode('once')">One time</button>
+      <button class="mode-btn" id="modeMonthly" onclick="setMode('monthly')">Monthly ♥</button>
+    </div>
+    <div class="amount-display"><span>$</span><b id="amtShow">25</b><span class="per-month" id="perMonth" style="display:none;"> / month</span></div>
     <div class="presets" id="presets">
       <button class="preset" onclick="pick(5,this)">$5</button>
       <button class="preset" onclick="pick(10,this)">$10</button>
@@ -146,12 +166,33 @@
 
 <script>
   var amount = 25;
+  var mode = 'once';
+  // Monthly recurring links — Stripe subscription payment links per amount.
+  var MONTHLY_LINKS = {
+    5:  'REPLACE_5',
+    10: 'REPLACE_10',
+    25: 'REPLACE_25',
+    50: 'REPLACE_50'
+  };
+  function setMode(m) {
+    mode = m;
+    document.getElementById('modeOnce').classList.toggle('active', m === 'once');
+    document.getElementById('modeMonthly').classList.toggle('active', m === 'monthly');
+    document.getElementById('perMonth').style.display = m === 'monthly' ? 'inline' : 'none';
+    document.querySelector('.custom-row').style.display = m === 'monthly' ? 'none' : 'flex';
+    var presets = document.querySelectorAll('.preset');
+    presets[4].style.display = m === 'monthly' ? 'none' : 'block';
+    document.getElementById('presets').style.gridTemplateColumns = m === 'monthly' ? 'repeat(4, 1fr)' : 'repeat(5, 1fr)';
+    if (m === 'monthly' && !(amount in MONTHLY_LINKS)) { pick(25, presets[2]); return; }
+    setAmount(amount);
+  }
   function openGive(e) { e.preventDefault(); document.getElementById('giveOverlay').classList.add('open'); }
   function closeGive() { document.getElementById('giveOverlay').classList.remove('open'); }
   function setAmount(a) {
     amount = a;
     document.getElementById('amtShow').textContent = a > 0 ? a : '—';
-    document.getElementById('giveBtn').textContent = a > 0 ? 'Give $' + a : 'Enter an amount';
+    var label = a > 0 ? (mode === 'monthly' ? 'Give $' + a + ' monthly' : 'Give $' + a) : 'Enter an amount';
+    document.getElementById('giveBtn').textContent = label;
     document.getElementById('giveBtn').disabled = !(a > 0);
   }
   function pick(a, el) {
@@ -166,7 +207,13 @@
   }
   function goStripe() {
     if (!(amount > 0)) return;
-    window.location.href = 'https://buy.stripe.com/aFa3co4rm6em0fmfwe2B200?__prefilled_amount=' + (amount * 100);
+    if (mode === 'monthly') {
+      var link = MONTHLY_LINKS[amount];
+      if (!link || link.indexOf('REPLACE') === 0) { alert('Monthly giving is almost ready — please choose One time for now.'); return; }
+      window.location.href = link;
+    } else {
+      window.location.href = 'https://buy.stripe.com/aFa3co4rm6em0fmfwe2B200?__prefilled_amount=' + (amount * 100);
+    }
   }
 </script>
 </body>
