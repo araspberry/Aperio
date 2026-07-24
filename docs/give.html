@@ -22,8 +22,13 @@
   }
   .wrap { max-width: 640px; margin: 0 auto; padding: 64px 24px 80px; text-align: center; }
   .top a { color: var(--gold-soft); text-decoration: none; font-size: 0.9rem; }
-  h1 { font-size: 2.6rem; margin: 28px 0 12px; letter-spacing: 0.02em; }
-  .lede { color: var(--muted); font-size: 1.05rem; max-width: 520px; margin: 0 auto 40px; }
+  h1 {
+    font-size: clamp(1.45rem, 6.4vw, 2.5rem);
+    white-space: nowrap;
+    margin: 28px 0 12px; letter-spacing: 0.02em;
+  }
+  h1 .accent { color: var(--gold-soft); }
+  .lede { color: #6C7689; font-size: 1.02rem; max-width: 520px; margin: 0 auto 40px; }
   .card {
     background: #FFFFFF;
     border: 1px solid #D8DEE9;
@@ -36,7 +41,7 @@
     color: var(--gold-soft); margin-bottom: 14px;
     font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 600;
   }
-  .card p { color: var(--muted); margin-bottom: 22px; }
+  .card p { color: #6C7689; margin-bottom: 22px; }
   .btn {
     display: inline-block;
     background: #F7F7F8;
@@ -50,7 +55,7 @@
     text-decoration: none;
   }
   .btn:hover { background: #EEF1F6; }
-  .fine { font-size: 0.85rem; color: var(--muted); }
+  .fine { font-size: 0.84rem; color: #8891A3; }
   .fine a { color: var(--gold-soft); }
   .overlay {
     position: fixed; inset: 0; z-index: 50;
@@ -114,17 +119,17 @@
     padding: 16px; font-size: 1.05rem; font-weight: 700; cursor: pointer; font-family: inherit;
   }
   .give-cta:disabled { opacity: 0.5; }
-  .secure-note { text-align: center; font-size: 0.78rem; color: #5A6478; margin-top: 12px; }
+  .secure-note { text-align: center; font-size: 0.78rem; color: #8891A3; margin-top: 12px; }
   footer {
     margin-top: 48px; padding-top: 22px;
-    border-top: 1px solid rgba(18,35,68,0.12); font-size: 0.85rem; color: var(--muted);
+    border-top: 1px solid rgba(18,35,68,0.10); font-size: 0.84rem; color: #98A1B3;
   }
 </style>
 </head>
 <body>
 <div class="wrap">
   <p class="top"><a href="./index.html">← aperiobible.app</a></p>
-  <h1>Keep the Word open.</h1>
+  <h1>Keep the Word <span class="accent">open.</span></h1>
   <p class="lede">Aperio is free for everyone — the full Bible, commentary in three voices, the original languages, and a place to pray. No ads. No subscriptions. No selling your data. Generosity is the only reason that stays true.</p>
 
   <div class="card">
