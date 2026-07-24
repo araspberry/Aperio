@@ -1,6 +1,7 @@
 // Profile — bookmarks, optional sign-in, and about.
 import React, { useCallback, useState } from "react";
-import { View, Text, ScrollView, Pressable, ActivityIndicator, Platform, Alert } from "react-native";
+import { View, Text, ScrollView, Pressable, ActivityIndicator, Platform, Alert, Linking } from "react-native";
+import Constants from "expo-constants";
 import { useFocusEffect, useRouter } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import * as AppleAuthentication from "expo-apple-authentication";
@@ -174,6 +175,40 @@ export default function ProfileScreen() {
         ))
       )}
 
+      {/* Giving — quiet, no pressure */}
+      <Text style={[type.h2, { marginTop: spacing.l, marginBottom: spacing.s }]}>Support</Text>
+      <Pressable
+        onPress={() => Linking.openURL("https://aperiobible.app/give")}
+        style={({ pressed }) => ({
+          backgroundColor: colors.slate,
+          borderRadius: 22,
+          padding: spacing.m,
+          opacity: pressed ? 0.92 : 1,
+        })}
+      >
+        <View style={{ flexDirection: "row", alignItems: "center", gap: spacing.m }}>
+          <View
+            style={{
+              width: 44,
+              height: 44,
+              borderRadius: 22,
+              backgroundColor: "rgba(255,255,255,0.16)",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Ionicons name="heart" size={20} color="#FFFFFF" />
+          </View>
+          <View style={{ flex: 1 }}>
+            <Text style={{ fontFamily: fonts.display, fontSize: 19, color: "#FFFFFF" }}>Give to Aperio</Text>
+            <Text style={{ fontFamily: fonts.sans, fontSize: 13, lineHeight: 19, color: "rgba(255,255,255,0.85)", marginTop: 3 }}>
+              Aperio is free — no ads, no subscriptions. If it has blessed you, you can help it reach more people.
+            </Text>
+          </View>
+          <Ionicons name="arrow-forward" size={16} color="rgba(255,255,255,0.85)" />
+        </View>
+      </Pressable>
+
       {/* About */}
       <Text style={[type.h2, { marginTop: spacing.l, marginBottom: spacing.s }]}>About</Text>
       <View style={{ backgroundColor: colors.card, borderRadius: 22, borderWidth: 1, borderColor: colors.cardBorder, padding: spacing.m }}>
@@ -182,7 +217,7 @@ export default function ProfileScreen() {
           languages at your fingertips, and a place to pray. Everything works offline.
         </Text>
         <Text style={[type.caption, { marginTop: spacing.s }]}>
-          Strong's lexicon data is in the public domain. Version 1.0.0
+          Strong's lexicon data is in the public domain. Version {Constants.expoConfig?.version ?? "1.2.0"}
         </Text>
       </View>
     </ScrollView>

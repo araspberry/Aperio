@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Aperio — Give</title>
+<meta name="description" content="Support Aperio, the free Bible app with its own translation and commentary. No ads, no subscriptions — kept free by generosity." />
+<style>
+  :root {
+    --navy: #0d1b2e;
+    --cream: #f4ecdd;
+    --gold: #c9a24b;
+    --gold-soft: #dcbe7a;
+    --muted: rgba(244, 236, 221, 0.65);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: radial-gradient(circle at 70% 10%, #1b2f4d 0%, var(--navy) 55%);
+    color: var(--cream);
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.75;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 64px 24px 80px; text-align: center; }
+  .top a { color: var(--gold-soft); text-decoration: none; font-size: 0.9rem; }
+  h1 { font-size: 2.6rem; margin: 28px 0 12px; letter-spacing: 0.02em; }
+  .lede { color: var(--muted); font-size: 1.05rem; max-width: 520px; margin: 0 auto 40px; }
+  .card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(212,184,122,0.25);
+    border-radius: 20px;
+    padding: 36px 28px;
+    margin-bottom: 28px;
+  }
+  .card h2 {
+    font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--gold-soft); margin-bottom: 14px;
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 600;
+  }
+  .card p { color: var(--muted); margin-bottom: 22px; }
+  .btn {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--navy);
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.05rem;
+    padding: 15px 48px;
+    border-radius: 14px;
+    text-decoration: none;
+  }
+  .btn:hover { background: var(--gold-soft); }
+  .fine { font-size: 0.85rem; color: var(--muted); }
+  .fine a { color: var(--gold-soft); }
+  footer {
+    margin-top: 48px; padding-top: 22px;
+    border-top: 1px solid rgba(255,255,255,0.08); font-size: 0.85rem; color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="top"><a href="./index.html">← aperiobible.app</a></p>
+  <h1>Keep the Word open.</h1>
+  <p class="lede">Aperio is free for everyone — the full Bible, commentary in three voices, the original languages, and a place to pray. No ads. No subscriptions. No selling your data. Generosity is the only reason that stays true.</p>
+
+  <div class="card">
+    <h2>Give</h2>
+    <p>Every gift goes directly to keeping Aperio free and growing — new translations, new study tools, and the Word in more hands.</p>
+    <!-- TODO: replace href with your Stripe Payment Link (enable ACH/bank debit for the lowest fees) -->
+    <a class="btn" href="https://donate.stripe.com/REPLACE_ME">Give now</a>
+  </div>
+
+  <p class="fine">Prefer another way, or have a question? Write to <a href="mailto:support@aperiobible.app">support@aperiobible.app</a>.<br/>
+  Gifts support Aperio / Katylst Agency and are not tax-deductible.</p>
+
+  <footer>
+    <p>Where the Word opens. · © 2026 Aperio · <a href="./privacy.html" style="color:var(--gold-soft)">Privacy</a></p>
+  </footer>
+</div>
+</body>
+</html>

@@ -66,6 +66,7 @@ function ThemedApp() {
         <Stack.Screen name="chapter-picker/[book]" options={{ headerBackTitle: "Read" }} />
         <Stack.Screen name="reader/[book]/[chapter]" options={{ headerShown: false }} />
         <Stack.Screen name="quiz" options={{ presentation: "fullScreenModal", headerShown: false }} />
+        <Stack.Screen name="story" options={{ presentation: "fullScreenModal", headerShown: false, animation: "fade" }} />
       </Stack>
     </>
   );

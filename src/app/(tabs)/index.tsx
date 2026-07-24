@@ -1,7 +1,7 @@
 // Home — greeting, Scripture of the Day, Continue reading / Daily Quiz,
 // Prayer journal, Clavis Recommends. Light redesign per Jul 2026 screenshots.
 import React, { useCallback, useState } from "react";
-import { View, Text, ScrollView, Pressable, Share } from "react-native";
+import { View, Text, ScrollView, Pressable, Share, Modal, Alert } from "react-native";
 import { useRouter, useFocusEffect } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
@@ -9,6 +9,8 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 import { getBooks, getVersePreview, type Book } from "../../db/content";
 import { getProgress, getTodayQuiz } from "../../db/user";
 import { verseOfDayRef, greeting } from "../../lib/verse-of-day";
+import { WHATS_NEW, hasUnseenWhatsNew, markWhatsNewSeen } from "../../lib/whats-new";
+import { isDailySubscribed, subscribeDailyVerse, unsubscribeDailyVerse, refreshDailySchedule } from "../../lib/daily-verse";
 import { fonts, spacing } from "../../theme";
 import { useTheme } from "../../lib/theme-context";
 
@@ -16,7 +18,7 @@ const RECOMMENDS = [
   {
     badge: "21 DAYS",
     title: "The Gospel of John",
-    blurb: "A 21-day journey through John, with Clavis unlocking every chapter.",
+    blurb: "A 21-day journey through John, with commentary unlocking every chapter.",
     bg: "sage" as const,
     book: 43,
   },
@@ -30,7 +32,7 @@ const RECOMMENDS = [
   {
     badge: "15 PSALMS",
     title: "Psalms of Comfort",
-    blurb: "Songs for anxious seasons, read slowly with Clavis.",
+    blurb: "Songs for anxious seasons, read slowly with commentary.",
     bg: "scriptureBlue" as const,
     book: 19,
   },
@@ -45,6 +47,40 @@ export default function HomeScreen() {
   const [progress, setProgress] = useState<{ book_num: number; chapter: number } | null>(null);
   const [votd, setVotd] = useState<{ ref: string; text: string; book: number; chapter: number; theme: string } | null>(null);
   const [quizDone, setQuizDone] = useState(false);
+  const [whatsNewOpen, setWhatsNewOpen] = useState(false);
+  const [hasUnseen, setHasUnseen] = useState(false);
+  const [dailyOn, setDailyOn] = useState(false);
+
+  React.useEffect(() => {
+    hasUnseenWhatsNew().then(setHasUnseen).catch(() => {});
+    isDailySubscribed().then(setDailyOn).catch(() => {});
+    refreshDailySchedule(db).catch(() => {});
+  }, [db]);
+
+  const openWhatsNew = () => {
+    setWhatsNewOpen(true);
+    setHasUnseen(false);
+    markWhatsNewSeen().catch(() => {});
+  };
+
+  const toggleDaily = async () => {
+    try {
+      if (dailyOn) {
+        await unsubscribeDailyVerse();
+        setDailyOn(false);
+      } else {
+        const ok = await subscribeDailyVerse(db);
+        if (ok) {
+          setDailyOn(true);
+        } else {
+          Alert.alert(
+            "Notifications are off",
+            "To receive the daily verse, allow notifications for Aperio in Settings.",
+          );
+        }
+      }
+    } catch {}
+  };
 
   useFocusEffect(
     useCallback(() => {
@@ -79,6 +115,7 @@ export default function HomeScreen() {
   };
 
   return (
+    <>
     <ScrollView
       style={{ flex: 1, backgroundColor: colors.parchment }}
       contentContainerStyle={{ paddingTop: insets.top + spacing.m, paddingBottom: 88 }}
@@ -90,11 +127,12 @@ export default function HomeScreen() {
             Ap<Text style={{ color: colors.gold }}>e</Text>rio
           </Text>
           <View style={{ flexDirection: "row", alignItems: "center", gap: 20 }}>
-            {/* Bell — dormant for now; will carry a red dot for announcements */}
-            <View accessible accessibilityLabel="Notifications">
+            <Pressable onPress={openWhatsNew} hitSlop={8} accessibilityLabel="What's new">
               <Ionicons name="notifications-outline" size={21} color={colors.inkMuted} />
-              {/* Future: <View style={{ position: "absolute", top: -1, right: -1, width: 8, height: 8, borderRadius: 4, backgroundColor: "#D0453E" }} /> */}
-            </View>
+              {hasUnseen && (
+                <View style={{ position: "absolute", top: -1, right: -1, width: 8, height: 8, borderRadius: 4, backgroundColor: "#D0453E" }} />
+              )}
+            </Pressable>
             <Pressable onPress={toggle} hitSlop={8} accessibilityLabel={dark ? "Switch to light mode" : "Switch to dark mode"}>
               <Ionicons name={dark ? "sunny-outline" : "moon-outline"} size={21} color={colors.inkMuted} />
             </Pressable>
@@ -105,7 +143,7 @@ export default function HomeScreen() {
         </View>
 
         {/* Greeting */}
-        <Text style={{ fontFamily: fonts.display, fontSize: 34, lineHeight: 44, color: colors.heading, marginTop: spacing.l }}>
+        <Text style={{ fontFamily: fonts.display, fontSize: 26, lineHeight: 34, color: colors.heading, marginTop: spacing.l }}>
           {greeting()}, friend.
         </Text>
 
@@ -113,7 +151,7 @@ export default function HomeScreen() {
         {votd && (
           <View style={{ marginTop: spacing.l, borderRadius: 24, padding: spacing.l, backgroundColor: colors.scriptureBlue }}>
             <Pressable
-              onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}`)}
+              onPress={() => router.push("/story")}
               style={{
                 flexDirection: "row",
                 alignItems: "center",
@@ -140,7 +178,7 @@ export default function HomeScreen() {
             </Text>
             <View style={{ flexDirection: "row", gap: spacing.s, marginTop: spacing.l }}>
               <Pressable
-                onPress={() => router.push(`/reader/${votd.book}/${votd.chapter}`)}
+                onPress={() => router.push("/story")}
                 style={{
                   flexDirection: "row",
                   alignItems: "center",
@@ -170,6 +208,20 @@ export default function HomeScreen() {
                 <Text style={{ fontFamily: fonts.sansMed, fontSize: 14, color: "#122344" }}>Share</Text>
               </Pressable>
             </View>
+            <Pressable
+              onPress={toggleDaily}
+              hitSlop={6}
+              style={{ flexDirection: "row", alignItems: "center", gap: 6, marginTop: spacing.m }}
+            >
+              <Ionicons
+                name={dailyOn ? "notifications" : "notifications-outline"}
+                size={14}
+                color={dark ? colors.ink : colors.navy}
+              />
+              <Text style={{ fontFamily: fonts.sansMed, fontSize: 13, color: dark ? colors.ink : colors.navy }}>
+                {dailyOn ? "Daily verse is on — tap to turn off" : "Send me this daily"}
+              </Text>
+            </Pressable>
           </View>
         )}
 
@@ -205,7 +257,7 @@ export default function HomeScreen() {
         {/* Prayer journal — slate banner */}
         <Pressable
           onPress={() => router.push("/prayer")}
-          style={{ marginTop: spacing.s, borderRadius: 24, padding: spacing.l, backgroundColor: colors.slate }}
+          style={{ marginTop: spacing.m, borderRadius: 24, padding: spacing.l, backgroundColor: colors.slate }}
         >
           <View style={{ alignSelf: "flex-start", backgroundColor: colors.navyInk, borderRadius: 14, paddingHorizontal: 12, paddingVertical: 5 }}>
             <Text style={{ fontFamily: fonts.sansMed, fontSize: 10.5, letterSpacing: 2, color: colors.white }}>
@@ -222,7 +274,7 @@ export default function HomeScreen() {
 
         {/* Clavis recommends */}
         <Text style={{ fontFamily: fonts.sansMed, fontSize: 11, letterSpacing: 2.5, color: colors.inkMuted, marginTop: spacing.l }}>
-          CLAVIS RECOMMENDS
+          WE RECOMMEND
         </Text>
       </View>
 
@@ -252,6 +304,64 @@ export default function HomeScreen() {
         ))}
       </ScrollView>
     </ScrollView>
+
+      <Modal
+        visible={whatsNewOpen}
+        animationType="slide"
+        presentationStyle="pageSheet"
+        onRequestClose={() => setWhatsNewOpen(false)}
+      >
+        <View style={{ flex: 1, backgroundColor: colors.parchment, padding: spacing.l }}>
+          <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center" }}>
+            <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 2.5, color: colors.goldDeep }}>
+              WHAT'S NEW · {WHATS_NEW.version}
+            </Text>
+            <Pressable onPress={() => setWhatsNewOpen(false)} hitSlop={12}>
+              <Ionicons name="close" size={24} color={colors.heading} />
+            </Pressable>
+          </View>
+          <Text style={{ fontFamily: fonts.display, fontSize: 28, color: colors.heading, marginTop: spacing.m }}>
+            Fresh from the workshop
+          </Text>
+          <ScrollView style={{ marginTop: spacing.m }} showsVerticalScrollIndicator={false}>
+            {WHATS_NEW.items.map((item) => (
+              <View
+                key={item.title}
+                style={{
+                  flexDirection: "row",
+                  gap: spacing.m,
+                  backgroundColor: colors.card,
+                  borderRadius: 18,
+                  borderWidth: 1,
+                  borderColor: colors.cardBorder,
+                  padding: spacing.m,
+                  marginBottom: spacing.s,
+                }}
+              >
+                <View
+                  style={{
+                    width: 40,
+                    height: 40,
+                    borderRadius: 20,
+                    backgroundColor: colors.scriptureBlue,
+                    alignItems: "center",
+                    justifyContent: "center",
+                  }}
+                >
+                  <Ionicons name={item.icon as any} size={19} color={dark ? colors.ink : colors.navy} />
+                </View>
+                <View style={{ flex: 1 }}>
+                  <Text style={{ fontFamily: fonts.serifSemi, fontSize: 16.5, color: colors.heading }}>{item.title}</Text>
+                  <Text style={{ fontFamily: fonts.sans, fontSize: 13.5, lineHeight: 20, color: colors.inkMuted, marginTop: 3 }}>
+                    {item.body}
+                  </Text>
+                </View>
+              </View>
+            ))}
+          </ScrollView>
+        </View>
+      </Modal>
+    </>
   );
 }
 
