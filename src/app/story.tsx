@@ -7,6 +7,7 @@ import { useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
+import Svg, { Path } from "react-native-svg";
 import { getBook, getChapter, getCommentary } from "../db/content";
 import { verseOfDayRef } from "../lib/verse-of-day";
 import { reflectionFor, prayerFor } from "../lib/story-content";
@@ -22,13 +23,55 @@ interface StoryData {
   devotion: string;
 }
 
-function firstParagraphs(commentary: string, max = 2): string {
+// Build a devotion of roughly 300-450 words from the chapter's devotional commentary.
+function devotionExcerpt(commentary: string): string {
   const blocks = commentary
     .split(/\n{2,}/)
     .map((b) => b.trim())
     .filter((b) => b && !/^#{1,3}\s/.test(b))
     .map((b) => b.replace(/\*\*([^*]+)\*\*/g, "$1").replace(/\*([^*]+)\*/g, "$1").replace(/\n/g, " "));
-  return blocks.slice(0, max).join("\n\n");
+  const out: string[] = [];
+  let words = 0;
+  for (const b of blocks) {
+    const w = b.split(/\s+/).length;
+    if (words >= 300 || (words > 0 && words + w > 450)) break;
+    out.push(b);
+    words += w;
+  }
+  return out.join("\n\n");
+}
+
+// Segmented progress ring — one arc per card, filling clockwise.
+function polar(cx: number, cy: number, r: number, deg: number) {
+  const rad = ((deg - 90) * Math.PI) / 180;
+  return { x: cx + r * Math.cos(rad), y: cy + r * Math.sin(rad) };
+}
+
+function ProgressRing({ total, index, color }: { total: number; index: number; color: string }) {
+  const size = 34;
+  const c = size / 2;
+  const r = 13;
+  const gap = 10; // degrees between segments
+  const seg = 360 / total;
+  const arcs = [];
+  for (let i = 0; i < total; i++) {
+    const start = i * seg + gap / 2;
+    const end = (i + 1) * seg - gap / 2;
+    const p1 = polar(c, c, r, start);
+    const p2 = polar(c, c, r, end);
+    arcs.push(
+      <Path
+        key={i}
+        d={`M ${p1.x} ${p1.y} A ${r} ${r} 0 0 1 ${p2.x} ${p2.y}`}
+        stroke={color}
+        strokeOpacity={i <= index ? 0.95 : 0.28}
+        strokeWidth={3}
+        strokeLinecap="round"
+        fill="none"
+      />,
+    );
+  }
+  return <Svg width={size} height={size}>{arcs}</Svg>;
 }
 
 export default function StoryScreen() {
@@ -57,7 +100,7 @@ export default function StoryScreen() {
           book: ref.book,
           chapter: ref.chapter,
           devotion: commentary?.devotional
-            ? firstParagraphs(commentary.devotional)
+            ? devotionExcerpt(commentary.devotional)
             : "Sit with today's verse slowly. Read it three times — once for your head, once for your heart, and once for your day.",
         });
       } catch {}
@@ -147,39 +190,36 @@ export default function StoryScreen() {
 
   return (
     <View style={{ flex: 1, backgroundColor: card.bg, paddingTop: insets.top }}>
-      {/* Progress bars */}
-      <View style={{ flexDirection: "row", gap: 5, paddingHorizontal: spacing.m, marginTop: 10 }}>
-        {cards.map((_, i) => (
-          <View
-            key={i}
-            style={{
-              flex: 1,
-              height: 3,
-              borderRadius: 2,
-              backgroundColor: i <= index ? card.fg : `${String(card.fg)}44`,
-              opacity: i <= index ? 0.95 : 0.35,
-            }}
-          />
-        ))}
-      </View>
-
-      {/* Header */}
+      {/* Header — progress ring + close */}
       <View
         style={{
           flexDirection: "row",
           justifyContent: "space-between",
           alignItems: "center",
           paddingHorizontal: spacing.m,
-          marginTop: 14,
+          marginTop: 8,
         }}
       >
-        <Text style={{ fontFamily: fonts.sansBold, fontSize: 11, letterSpacing: 2, color: card.fg, opacity: 0.85 }}>
-          {card.eyebrow}
-        </Text>
+        <ProgressRing total={cards.length} index={index} color={String(card.fg)} />
         <Pressable onPress={() => router.back()} hitSlop={12} accessibilityLabel="Close story">
-          <Ionicons name="close" size={24} color={card.fg} />
+          <Ionicons name="close" size={26} color={card.fg} />
         </Pressable>
       </View>
+
+      {/* Card title */}
+      <Text
+        style={{
+          fontFamily: fonts.sansBold,
+          fontSize: 15,
+          letterSpacing: 2.2,
+          color: card.fg,
+          opacity: 0.92,
+          paddingHorizontal: spacing.m,
+          marginTop: 22,
+        }}
+      >
+        {card.eyebrow}
+      </Text>
 
       {/* Card body */}
       <ScrollView
@@ -189,8 +229,8 @@ export default function StoryScreen() {
         <Text
           style={{
             fontFamily: card.serif ? fonts.serifSemi : fonts.sansMed,
-            fontSize: card.body.length > 420 ? 17 : 22,
-            lineHeight: card.body.length > 420 ? 28 : 34,
+            fontSize: card.body.length > 1200 ? 15.5 : card.body.length > 420 ? 17 : 22,
+            lineHeight: card.body.length > 1200 ? 26 : card.body.length > 420 ? 28 : 34,
             color: card.fg,
           }}
         >
@@ -236,9 +276,9 @@ export default function StoryScreen() {
       </ScrollView>
 
       {/* Tap zones */}
-      <View pointerEvents="box-none" style={{ position: "absolute", top: 110, left: 0, right: 0, bottom: card.share ? 220 : 0, flexDirection: "row" }}>
-        <Pressable style={{ width: "32%" }} onPress={goBack} accessibilityLabel="Previous card" />
-        <Pressable style={{ flex: 1 }} onPress={advance} accessibilityLabel="Next card" />
+      <View pointerEvents="box-none" style={{ position: "absolute", top: 130, left: 0, right: 0, bottom: card.share ? 220 : 0, flexDirection: "row", justifyContent: "space-between" }}>
+        <Pressable style={{ width: "24%" }} onPress={goBack} accessibilityLabel="Previous card" />
+        <Pressable style={{ width: "24%" }} onPress={advance} accessibilityLabel="Next card" />
       </View>
 
       {/* Hint on first card */}
@@ -254,7 +294,7 @@ export default function StoryScreen() {
             opacity: 0.6,
           }}
         >
-          Tap to continue
+          Tap the right edge to continue
         </Text>
       )}
     </View>
