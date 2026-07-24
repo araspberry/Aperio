@@ -8,6 +8,7 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
 import { Ionicons } from "@expo/vector-icons";
 import Svg, { Path } from "react-native-svg";
+import { LinearGradient } from "expo-linear-gradient";
 import { getBook, getChapter, getCommentary } from "../db/content";
 import { verseOfDayRef } from "../lib/verse-of-day";
 import { reflectionFor, prayerFor } from "../lib/story-content";
@@ -39,6 +40,17 @@ function devotionExcerpt(commentary: string): string {
     words += w;
   }
   return out.join("\n\n");
+}
+
+// Lighten/darken a hex color by pct (-1..1) for gradient stops.
+function shade(hex: string, pct: number): string {
+  const n = parseInt(hex.replace("#", ""), 16);
+  const mix = (c: number) =>
+    Math.max(0, Math.min(255, Math.round(pct > 0 ? c + (255 - c) * pct : c * (1 + pct))));
+  const r = mix((n >> 16) & 255);
+  const g = mix((n >> 8) & 255);
+  const b = mix(n & 255);
+  return `#${((r << 16) | (g << 8) | b).toString(16).padStart(6, "0")}`;
 }
 
 // Segmented progress ring — one arc per card, filling clockwise.
@@ -189,7 +201,12 @@ export default function StoryScreen() {
   };
 
   return (
-    <View style={{ flex: 1, backgroundColor: card.bg, paddingTop: insets.top }}>
+    <LinearGradient
+      colors={[shade(String(card.bg), 0.1), String(card.bg), shade(String(card.bg), -0.14)]}
+      start={{ x: 0.1, y: 0 }}
+      end={{ x: 0.9, y: 1 }}
+      style={{ flex: 1, paddingTop: insets.top }}
+    >
       {/* Header — progress ring + close */}
       <View
         style={{
@@ -297,6 +314,6 @@ export default function StoryScreen() {
           Tap the right edge to continue
         </Text>
       )}
-    </View>
+    </LinearGradient>
   );
 }
