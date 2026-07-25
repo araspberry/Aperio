@@ -60,94 +60,6 @@
   .btn:hover { background: #EEF1F6; }
   .fine { font-size: 0.84rem; color: #8891A3; }
   .fine a { color: var(--gold-soft); }
-  .overlay {
-    position: fixed; inset: 0; z-index: 50;
-    background: rgba(18,35,68,0.45);
-    display: flex; align-items: flex-end; justify-content: center;
-    opacity: 0; visibility: hidden;
-    transition: opacity 0.3s ease, visibility 0.3s;
-  }
-  .overlay.open { opacity: 1; visibility: visible; }
-  .overlay.open .sheet { transform: translateY(0); }
-  .sheet {
-    background: linear-gradient(168deg, #E3EBF6 0%, #FDFDFE 38%, #F5F7FA 100%);
-    color: #1D2438;
-    width: 100%; max-width: 480px;
-    height: 75vh;
-    display: flex; flex-direction: column;
-    overflow-y: auto;
-    border-radius: 26px 26px 0 0;
-    padding: 26px 22px calc(28px + env(safe-area-inset-bottom));
-    box-shadow: 0 -12px 40px rgba(18,35,68,0.25);
-    text-align: left;
-    transform: translateY(100%);
-    transition: transform 0.38s cubic-bezier(0.32, 0.72, 0.22, 1);
-    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
-  }
-  @media (min-width: 560px) {
-    .overlay { align-items: center; }
-    .sheet { border-radius: 26px; }
-  }
-  .mode-toggle {
-    display: grid; grid-template-columns: 1fr 1fr; gap: 4px;
-    background: #EEF1F6; border-radius: 14px; padding: 4px; margin: 14px 0 4px;
-  }
-  .mode-btn {
-    border: none; background: transparent; border-radius: 11px;
-    padding: 13px 0; font-size: 0.98rem; font-weight: 600; color: #5A6478;
-    cursor: pointer; font-family: inherit;
-  }
-  .mode-btn.active { background: #FFFFFF; color: #122344; box-shadow: 0 1px 4px rgba(18,35,68,0.12); }
-  .per-month { font-size: 1rem; color: #5A6478; font-family: -apple-system, sans-serif; font-weight: 600; }
-  .sheet-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
-  .sheet-title { font-size: 0.75rem; letter-spacing: 0.2em; color: #9A6E1A; font-weight: 700; }
-  .sheet-x { background: #EEF1F6; border: none; width: 34px; height: 34px; border-radius: 17px; font-size: 1rem; color: #122344; cursor: pointer; }
-  .amount-display { font-size: 3.2rem; font-weight: 700; color: #122344; margin: 10px 0 4px; font-family: Georgia, serif; }
-  .amount-display span { font-size: 1.6rem; vertical-align: 18px; color: #8891A3; }
-  .presets { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin: 16px 0; }
-  .preset {
-    border: 1.5px solid #D8DEE9; background: #F7F8FA; border-radius: 14px;
-    padding: 17px 0; font-size: 1.05rem; font-weight: 700; color: #122344; cursor: pointer;
-  }
-  .preset.active { background: #122344; color: #fff; border-color: #122344; }
-  .custom-row { display: flex; align-items: center; gap: 10px; border: 1.5px solid #D8DEE9; border-radius: 14px; padding: 0 16px; background: #F7F8FA; }
-  .custom-row span { color: #5A6478; font-weight: 700; font-size: 1.1rem; }
-  .custom-row input {
-    flex: 1; border: none; background: transparent; padding: 19px 0;
-    font-size: 1.08rem; font-family: inherit; color: #1D2438; outline: none;
-  }
-  .impact {
-    display: none;
-    background: rgba(255,255,255,0.75);
-    border: 1.5px solid #D8DEE9;
-    border-radius: 16px;
-    padding: 18px 18px 8px;
-    margin-top: 18px;
-  }
-  .impact h3 {
-    font-size: 0.72rem; letter-spacing: 0.2em; color: #4A5468;
-    font-weight: 700; margin-bottom: 12px;
-  }
-  .impact-row { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 12px; }
-  .impact-dot {
-    width: 8px; height: 8px; border-radius: 4px; background: #A6AEBE;
-    margin-top: 7px; flex-shrink: 0;
-  }
-  .impact-row p { font-size: 0.95rem; color: #3A4358; line-height: 1.5; font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; }
-  .impact-verse {
-    display: none;
-    text-align: center; font-family: Georgia, serif; font-style: italic;
-    font-size: 0.95rem; color: #8891A3; margin-top: 16px; margin-bottom: 24px; line-height: 1.6;
-  }
-  .cancel-note { font-weight: 600; color: #6C7689; }
-  .give-cta {
-    display: block; width: 100%; margin-top: auto;
-    background: #122344; color: #fff; border: none; border-radius: 16px;
-    padding: 21px; font-size: 1.18rem; font-weight: 700; cursor: pointer; font-family: inherit;
-    box-shadow: 0 6px 18px rgba(18,35,68,0.28);
-  }
-  .give-cta:disabled { opacity: 0.5; }
-  .secure-note { text-align: center; font-size: 0.78rem; color: #8891A3; margin-top: 12px; }
   footer {
     margin-top: 56px; padding-top: 26px; text-align: center;
     border-top: 1px solid rgba(18,35,68,0.10);
@@ -160,6 +72,284 @@
   footer .foot-links a { color: #6C7689; font-weight: 600; text-decoration: none; }
   footer .foot-links a:hover { color: #122344; }
   footer .foot-copy { font-size: 0.8rem; color: #A6AEBE; margin-bottom: 0; }
+
+  /* ============ GIVE SHEET — 2030 edition ============ */
+  .overlay {
+    position: fixed; inset: 0; z-index: 50;
+    background: rgba(13,24,48,0.38);
+    -webkit-backdrop-filter: blur(0px); backdrop-filter: blur(0px);
+    display: flex; align-items: flex-end; justify-content: center;
+    opacity: 0; visibility: hidden;
+    transition: opacity 0.55s ease, visibility 0.55s,
+                backdrop-filter 0.55s ease, -webkit-backdrop-filter 0.55s ease;
+  }
+  .overlay.open {
+    opacity: 1; visibility: visible;
+    -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  }
+  .overlay.open .sheet { transform: translateY(0); }
+  .sheet {
+    position: relative;
+    background: #F4F7FC;
+    color: #1D2438;
+    width: 100%; max-width: 480px;
+    height: 78vh;
+    border-radius: 28px 28px 0 0;
+    box-shadow: 0 -18px 60px rgba(18,35,68,0.30);
+    text-align: left;
+    transform: translateY(103%);
+    transition: transform 0.85s cubic-bezier(0.16, 1, 0.3, 1);
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    overflow: hidden;
+  }
+  @media (min-width: 560px) {
+    .overlay { align-items: center; }
+    .sheet { border-radius: 28px; }
+  }
+  /* Living gradient — two slow aurora layers drifting behind frosted glass */
+  .aurora { position: absolute; inset: -30%; pointer-events: none; filter: blur(46px); }
+  .aurora.a1 {
+    background:
+      radial-gradient(38% 34% at 24% 22%, rgba(168,197,238,0.85) 0%, rgba(168,197,238,0) 70%),
+      radial-gradient(42% 38% at 82% 30%, rgba(214,228,248,0.9) 0%, rgba(214,228,248,0) 70%),
+      radial-gradient(36% 32% at 68% 82%, rgba(197,214,240,0.8) 0%, rgba(197,214,240,0) 70%);
+    animation: drift1 22s ease-in-out infinite alternate;
+  }
+  .aurora.a2 {
+    background:
+      radial-gradient(30% 28% at 76% 68%, rgba(232,217,174,0.35) 0%, rgba(232,217,174,0) 70%),
+      radial-gradient(34% 30% at 18% 74%, rgba(207,224,212,0.45) 0%, rgba(207,224,212,0) 70%);
+    animation: drift2 30s ease-in-out infinite alternate;
+  }
+  @keyframes drift1 {
+    from { transform: translate(-4%, -3%) rotate(0deg) scale(1); }
+    to   { transform: translate(5%, 4%) rotate(8deg) scale(1.12); }
+  }
+  @keyframes drift2 {
+    from { transform: translate(4%, 3%) rotate(0deg) scale(1.08); }
+    to   { transform: translate(-5%, -4%) rotate(-10deg) scale(1); }
+  }
+  .sheet-scroll {
+    position: relative; z-index: 1;
+    height: 100%;
+    display: flex; flex-direction: column;
+    overflow-y: auto;
+    padding: 14px 22px calc(28px + env(safe-area-inset-bottom));
+  }
+  /* Never let overflowing content compress the controls (kept the monthly CTA full-size) */
+  .sheet-scroll > * { flex-shrink: 0; }
+  .grab { width: 44px; height: 5px; border-radius: 3px; background: rgba(18,35,68,0.18); margin: 0 auto 14px; flex-shrink: 0; touch-action: none; }
+  .grab-zone { padding: 10px 0 4px; margin: -14px 0 0; cursor: grab; touch-action: none; flex-shrink: 0; }
+  .sheet-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+  .sheet-title { font-size: 0.75rem; letter-spacing: 0.2em; color: #9A6E1A; font-weight: 700; }
+  .sheet-x {
+    background: rgba(255,255,255,0.65); border: 1px solid rgba(18,35,68,0.10);
+    width: 34px; height: 34px; border-radius: 17px; font-size: 1rem; color: #122344; cursor: pointer;
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  }
+  /* Staggered entrance */
+  .reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.5s ease, transform 0.6s cubic-bezier(0.16,1,0.3,1); }
+  .overlay.open .reveal { opacity: 1; transform: translateY(0); }
+  .overlay.open .r1 { transition-delay: 0.20s; }
+  .overlay.open .r2 { transition-delay: 0.28s; }
+  .overlay.open .r3 { transition-delay: 0.36s; }
+  .overlay.open .r4 { transition-delay: 0.44s; }
+  .overlay.open .r5 { transition-delay: 0.52s; }
+  .overlay.open .r6 { transition-delay: 0.60s; }
+
+  /* Toggle switch — one motion between two lives */
+  .switch-row {
+    display: flex; align-items: center; justify-content: center; gap: 14px;
+    margin: 10px 0 2px;
+  }
+  .switch-label {
+    font-size: 0.98rem; font-weight: 600; color: #98A1B3; cursor: pointer;
+    transition: color 0.35s ease;
+    -webkit-user-select: none; user-select: none;
+  }
+  .switch-label.on { color: #122344; font-weight: 700; }
+  .switch-label .heart { color: #E02D2D; font-weight: 400; }
+  .switch {
+    position: relative; width: 62px; height: 34px; border-radius: 17px; border: none; cursor: pointer;
+    background: #DFE6F0; box-shadow: inset 0 2px 5px rgba(18,35,68,0.14);
+    transition: background 0.45s ease, box-shadow 0.45s ease;
+    flex-shrink: 0;
+  }
+  .switch.on {
+    background: #122344;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.3), 0 0 18px rgba(18,35,68,0.35);
+  }
+  .switch .thumb {
+    position: absolute; top: 3px; left: 3px; width: 28px; height: 28px; border-radius: 14px;
+    background: #FFFFFF; box-shadow: 0 2px 6px rgba(18,35,68,0.28);
+    transition: transform 0.5s cubic-bezier(0.34, 1.4, 0.35, 1);
+  }
+  .switch.on .thumb { transform: translateX(28px); }
+
+  .amount-display {
+    font-size: 3.4rem; font-weight: 700; color: #122344; margin: 8px 0 0;
+    font-family: Georgia, serif; text-align: center; line-height: 1.2;
+    transition: transform 0.18s ease;
+  }
+  .amount-display.bump { transform: scale(1.045); }
+  .amount-display .cur { font-size: 1.6rem; vertical-align: 20px; color: #8891A3; }
+  .per-month { font-size: 1rem; color: #5A6478; font-family: -apple-system, sans-serif; font-weight: 600; }
+
+  /* Amount slider */
+  .slider-wrap { padding: 14px 6px 2px; }
+  input[type="range"].amt {
+    -webkit-appearance: none; appearance: none;
+    width: 100%; height: 34px; background: transparent; cursor: pointer; display: block;
+  }
+  input[type="range"].amt::-webkit-slider-runnable-track {
+    height: 8px; border-radius: 4px;
+    background: linear-gradient(90deg, #122344 0%, #2E4A8A var(--fill, 50%), rgba(18,35,68,0.12) var(--fill, 50%));
+  }
+  input[type="range"].amt::-webkit-slider-thumb {
+    -webkit-appearance: none; appearance: none;
+    width: 28px; height: 28px; border-radius: 14px; margin-top: -10px;
+    background: #FFFFFF; border: 2px solid #122344;
+    box-shadow: 0 3px 10px rgba(18,35,68,0.35), 0 0 0 6px rgba(18,35,68,0.06);
+  }
+  input[type="range"].amt::-moz-range-track {
+    height: 8px; border-radius: 4px; background: rgba(18,35,68,0.12);
+  }
+  input[type="range"].amt::-moz-range-progress {
+    height: 8px; border-radius: 4px; background: linear-gradient(90deg, #122344, #2E4A8A);
+  }
+  input[type="range"].amt::-moz-range-thumb {
+    width: 24px; height: 24px; border-radius: 12px;
+    background: #FFFFFF; border: 2px solid #122344;
+    box-shadow: 0 3px 10px rgba(18,35,68,0.35);
+  }
+  .ticks { display: flex; justify-content: space-between; padding: 0 12px; margin-top: -4px; }
+  .ticks i { width: 3px; height: 3px; border-radius: 2px; background: rgba(18,35,68,0.22); }
+
+  .chips { display: flex; gap: 8px; margin: 14px 0 0; }
+  .chip {
+    flex: 1;
+    border: 1.5px solid rgba(18,35,68,0.14); background: rgba(255,255,255,0.6);
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+    border-radius: 13px; padding: 12px 0; font-size: 0.98rem; font-weight: 700; color: #122344; cursor: pointer;
+    font-family: inherit;
+    transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease, transform 0.25s ease;
+  }
+  .chip.active { background: #122344; color: #fff; border-color: #122344; transform: translateY(-1px); }
+  .custom-row {
+    display: flex; align-items: center; gap: 10px;
+    border: 1.5px solid rgba(18,35,68,0.14); border-radius: 14px; padding: 0 16px;
+    background: rgba(255,255,255,0.6);
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+    margin-top: 12px;
+  }
+  .custom-row span { color: #5A6478; font-weight: 700; font-size: 1.1rem; }
+  .custom-row input {
+    flex: 1; border: none; background: transparent; padding: 22px 0;
+    font-size: 1.08rem; font-family: inherit; color: #1D2438; outline: none;
+  }
+  .impact {
+    display: none;
+    background: rgba(255,255,255,0.62);
+    -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+    border: 1.5px solid rgba(18,35,68,0.10);
+    border-radius: 16px;
+    padding: 18px 18px 8px;
+    margin-top: 16px;
+  }
+  .impact h3 {
+    font-size: 0.72rem; letter-spacing: 0.2em; color: #4A5468;
+    font-weight: 700; margin-bottom: 12px;
+  }
+  .bethany-row { display: flex; gap: 12px; align-items: flex-start; }
+  .bethany-pic { position: relative; flex-shrink: 0; }
+  .bethany-pic img {
+    width: 46px; height: 46px; border-radius: 23px; display: block;
+    border: 2px solid #FFFFFF; box-shadow: 0 3px 10px rgba(18,35,68,0.22);
+  }
+  .bethany-pic .presence {
+    position: absolute; right: 0; bottom: 1px; width: 12px; height: 12px; border-radius: 6px;
+    background: #3DBB6E; border: 2px solid #FFFFFF;
+  }
+  .bubble {
+    position: relative; flex: 1;
+    background: #FFFFFF;
+    border: 1.5px solid rgba(18,35,68,0.10);
+    border-radius: 4px 18px 18px 18px;
+    padding: 12px 15px 13px;
+    box-shadow: 0 4px 14px rgba(18,35,68,0.08);
+  }
+  .bubble-name { font-size: 0.78rem; font-weight: 700; color: #122344; margin-bottom: 6px; }
+  .bubble-name span { color: #98A1B3; font-weight: 600; }
+  /* One point at a time — repeating slider */
+  .bmsg-window { position: relative; overflow: hidden; height: 4.6em; font-size: 0.93rem; }
+  @media (min-width: 560px) { .bmsg-window { height: 3.15em; } }
+  .bmsg {
+    position: absolute; top: 0; left: 0; width: 100%;
+    font-size: 0.93rem; color: #3A4358; line-height: 1.5;
+    opacity: 0; transform: translateX(64px);
+    transition: transform 0.65s cubic-bezier(0.16,1,0.3,1), opacity 0.45s ease;
+  }
+  .bmsg.active { opacity: 1; transform: translateX(0); }
+  .bmsg.exit { opacity: 0; transform: translateX(-64px); }
+  .carousel-dots { display: flex; gap: 5px; margin-top: 9px; }
+  .carousel-dots i {
+    width: 5px; height: 5px; border-radius: 3px; background: #D3D9E4;
+    transition: background 0.3s ease, width 0.3s ease;
+  }
+  .carousel-dots i.on { background: #122344; width: 15px; }
+  .bubble-text.nocarousel .bmsg-window { height: auto; }
+  .bubble-text.nocarousel .bmsg { position: static; opacity: 1; transform: none; margin-bottom: 8px; }
+  .bubble-text.nocarousel .carousel-dots { display: none; }
+  .dots { display: none; padding: 6px 0 4px; }
+  .impact.typing .dots { display: flex; gap: 5px; }
+  .impact.typing .bubble-text { display: none; }
+  .dots i {
+    width: 7px; height: 7px; border-radius: 4px; background: #A6AEBE;
+    animation: dotbounce 1.1s ease-in-out infinite;
+  }
+  .dots i:nth-child(2) { animation-delay: 0.15s; }
+  .dots i:nth-child(3) { animation-delay: 0.3s; }
+  @keyframes dotbounce {
+    0%, 60%, 100% { transform: translateY(0); opacity: 0.5; }
+    30% { transform: translateY(-4px); opacity: 1; }
+  }
+  .impact-verse {
+    display: none;
+    text-align: center; font-family: Georgia, serif; font-style: italic;
+    font-size: clamp(0.64rem, 2.9vw, 0.9rem);
+    color: #8891A3; margin-top: 14px; margin-bottom: 4px; line-height: 1.7;
+  }
+  .impact-verse .vline { display: block; white-space: nowrap; }
+  .cancel-note { font-weight: 600; color: #6C7689; }
+  .give-cta {
+    position: relative; overflow: hidden;
+    display: block; width: 100%; margin-top: auto;
+    background: linear-gradient(180deg, #1A2F5A 0%, #122344 55%);
+    color: #fff; border: none; border-radius: 16px;
+    padding: 21px; font-size: 1.18rem; font-weight: 700; cursor: pointer; font-family: inherit;
+    box-shadow: 0 10px 28px rgba(18,35,68,0.35);
+    transition: box-shadow 0.4s ease, transform 0.2s ease;
+  }
+  .give-cta:active { transform: scale(0.985); }
+  .give-cta::after {
+    content: ""; position: absolute; top: 0; bottom: 0; left: -70%; width: 45%;
+    background: linear-gradient(105deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.16) 50%, rgba(255,255,255,0) 100%);
+    transform: skewX(-18deg);
+    animation: sheen 5.5s ease-in-out infinite;
+  }
+  @keyframes sheen {
+    0%, 68% { left: -70%; }
+    88%, 100% { left: 130%; }
+  }
+  .give-cta:disabled { opacity: 0.5; }
+  .give-cta:disabled::after { animation: none; }
+  .secure-note { text-align: center; font-size: 0.78rem; color: #8891A3; margin-top: 12px; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .aurora.a1, .aurora.a2, .give-cta::after { animation: none; }
+    .sheet { transition-duration: 0.3s; }
+    .reveal { transition: none; opacity: 1; transform: none; }
+  }
 </style>
 </head>
 <body>
@@ -171,7 +361,7 @@
   <div class="card">
     <h2>Give</h2>
     <p>Every gift goes directly to keeping Aperio free and growing — new translations, new study tools, and the Word in more hands.</p>
-    
+
     <a class="btn" href="#" onclick="openGive(event)">Give Now</a>
   </div>
 
@@ -192,36 +382,65 @@
 </div>
 
 <div class="overlay" id="giveOverlay" onclick="if(event.target===this)closeGive()">
-  <div class="sheet">
-    <div class="sheet-top">
-      <div class="sheet-title">GIVE TO APERIO</div>
-      <button class="sheet-x" onclick="closeGive()" aria-label="Close">✕</button>
+  <div class="sheet" id="giveSheet">
+    <div class="aurora a1"></div>
+    <div class="aurora a2"></div>
+    <div class="sheet-scroll">
+      <div class="grab-zone" id="grabZone"><div class="grab"></div></div>
+      <div class="sheet-top">
+        <div class="sheet-title">GIVE TO APERIO</div>
+        <button class="sheet-x" onclick="closeGive()" aria-label="Close">✕</button>
+      </div>
+
+      <div class="switch-row reveal r1">
+        <span class="switch-label on" id="lblOnce" onclick="setMode('once')">One time</span>
+        <button class="switch" id="modeSwitch" role="switch" aria-checked="false" aria-label="Give monthly" onclick="toggleMode()">
+          <span class="thumb"></span>
+        </button>
+        <span class="switch-label" id="lblMonthly" onclick="setMode('monthly')">Monthly <span class="heart">♥</span></span>
+      </div>
+
+      <div class="amount-display reveal r2" id="amtDisplay"><span class="cur">$</span><b id="amtShow">25</b><span class="per-month" id="perMonth" style="display:none;"> / month</span></div>
+
+      <div class="slider-wrap reveal r3">
+        <input type="range" class="amt" id="amtSlider" min="0" max="12" step="1" value="4"
+               aria-label="Gift amount" oninput="slide(this.value)" />
+        <div class="ticks" id="ticks"></div>
+      </div>
+
+      <div class="chips reveal r4" id="chips"></div>
+
+      <div class="custom-row reveal r5" id="customRow">
+        <span>$</span>
+        <input id="customAmt" type="number" min="1" step="1" inputmode="decimal" placeholder="Or enter another amount" oninput="custom(this.value)" />
+      </div>
+
+      <div class="impact reveal r5" id="impactCard">
+        <h3>YOUR MONTHLY GIFT SUSTAINS...</h3>
+        <div class="bethany-row">
+          <div class="bethany-pic">
+            <img src="data:image/jpeg;base64,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" alt="Bethany" />
+            <span class="presence"></span>
+          </div>
+          <div class="bubble">
+            <div class="bubble-name">Bethany <span>· just now</span></div>
+            <div class="dots"><i></i><i></i><i></i></div>
+            <div class="bubble-text" id="bubbleText">
+              <div class="bmsg-window">
+                <p class="bmsg active">The full Bible and commentary, free for everyone — no ads, no paywalls, ever.</p>
+                <p class="bmsg">New translations, study tools, and daily devotions in the works.</p>
+                <p class="bmsg">The Word reaching more hands, in more places, every month. 🤍</p>
+              </div>
+              <div class="carousel-dots" id="carouselDots"><i class="on"></i><i></i><i></i></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="impact-verse" id="impactVerse"><span class="vline">"Each of you should give what you have decided in your heart to give&hellip;</span><span class="vline">for God loves a cheerful giver." &mdash; 2 Corinthians 9:7</span></p>
+
+      <button class="give-cta reveal r6" id="giveBtn" onclick="goStripe()">Give $25</button>
+      <p class="secure-note reveal r6">🔒 Secure checkout by Stripe · Apple Pay, card, or Link<span class="cancel-note" id="cancelNote" style="display:none;"> · Cancel anytime</span><br/>Your gift keeps Aperio free — thank you.</p>
     </div>
-    <div class="mode-toggle">
-      <button class="mode-btn active" id="modeOnce" onclick="setMode('once')">One time</button>
-      <button class="mode-btn" id="modeMonthly" onclick="setMode('monthly')">Monthly ♥</button>
-    </div>
-    <div class="amount-display"><span>$</span><b id="amtShow">25</b><span class="per-month" id="perMonth" style="display:none;"> / month</span></div>
-    <div class="presets" id="presets">
-      <button class="preset" onclick="pick(5,this)">$5</button>
-      <button class="preset" onclick="pick(10,this)">$10</button>
-      <button class="preset active" onclick="pick(25,this)">$25</button>
-      <button class="preset" onclick="pick(50,this)">$50</button>
-      <button class="preset" onclick="pick(100,this)">$100</button>
-    </div>
-    <div class="custom-row">
-      <span>$</span>
-      <input id="customAmt" type="number" min="1" step="1" inputmode="decimal" placeholder="Or enter another amount" oninput="custom(this.value)" />
-    </div>
-    <div class="impact" id="impactCard">
-      <h3>YOUR MONTHLY GIFT SUSTAINS</h3>
-      <div class="impact-row"><div class="impact-dot"></div><p>The full Bible and commentary, free for everyone — no ads, no paywalls, ever</p></div>
-      <div class="impact-row"><div class="impact-dot"></div><p>New translations, study tools, and daily devotions in the works</p></div>
-      <div class="impact-row"><div class="impact-dot"></div><p>The Word reaching more hands, in more places, every month</p></div>
-    </div>
-    <p class="impact-verse" id="impactVerse">"Each of you should give what you have decided in your heart to give&hellip;<br/>for God loves a cheerful giver." &mdash; 2 Corinthians 9:7</p>
-    <button class="give-cta" id="giveBtn" onclick="goStripe()">Give $25</button>
-    <p class="secure-note">🔒 Secure checkout by Stripe · Apple Pay, card, or Link<span class="cancel-note" id="cancelNote" style="display:none;"> · Cancel anytime</span><br/>Your gift keeps Aperio free — thank you.</p>
   </div>
 </div>
 
@@ -235,39 +454,173 @@
     25: 'https://buy.stripe.com/7sY3co3nidGO8LSgAi2B203',
     50: 'https://buy.stripe.com/3cI9AM9LG7iq4vCesa2B204'
   };
-  function setMode(m) {
-    mode = m;
-    document.getElementById('modeOnce').classList.toggle('active', m === 'once');
-    document.getElementById('modeMonthly').classList.toggle('active', m === 'monthly');
-    document.getElementById('perMonth').style.display = m === 'monthly' ? 'inline' : 'none';
-    document.querySelector('.custom-row').style.display = m === 'monthly' ? 'none' : 'flex';
-    document.getElementById('impactCard').style.display = m === 'monthly' ? 'block' : 'none';
-    document.getElementById('impactVerse').style.display = m === 'monthly' ? 'block' : 'none';
-    document.getElementById('cancelNote').style.display = m === 'monthly' ? 'inline' : 'none';
-    var presets = document.querySelectorAll('.preset');
-    presets[4].style.display = m === 'monthly' ? 'none' : 'block';
-    document.getElementById('presets').style.gridTemplateColumns = m === 'monthly' ? 'repeat(4, 1fr)' : 'repeat(5, 1fr)';
-    if (m === 'monthly' && !(amount in MONTHLY_LINKS)) { pick(25, presets[2]); return; }
-    setAmount(amount);
+  var STOPS_ONCE = [5, 10, 15, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250];
+  var STOPS_MONTHLY = [5, 10, 25, 50];
+  var CHIPS_ONCE = [5, 10, 25, 50, 100];
+  var CHIPS_MONTHLY = [5, 10, 25, 50];
+
+  function stops() { return mode === 'monthly' ? STOPS_MONTHLY : STOPS_ONCE; }
+
+  function buildChips() {
+    var list = mode === 'monthly' ? CHIPS_MONTHLY : CHIPS_ONCE;
+    var el = document.getElementById('chips');
+    el.innerHTML = '';
+    list.forEach(function (a) {
+      var b = document.createElement('button');
+      b.className = 'chip' + (a === amount ? ' active' : '');
+      b.textContent = '$' + a;
+      b.onclick = function () { pick(a); };
+      el.appendChild(b);
+    });
   }
-  function openGive(e) { e.preventDefault(); document.getElementById('giveOverlay').classList.add('open'); }
-  function closeGive() { document.getElementById('giveOverlay').classList.remove('open'); }
-  function setAmount(a) {
+  function buildTicks() {
+    var el = document.getElementById('ticks');
+    el.innerHTML = '';
+    for (var i = 0; i < stops().length; i++) el.appendChild(document.createElement('i'));
+  }
+  function syncSlider() {
+    var s = document.getElementById('amtSlider');
+    var arr = stops();
+    s.max = arr.length - 1;
+    var idx = arr.indexOf(amount);
+    if (idx < 0) { // custom amount → park thumb at the nearest stop
+      var best = 0;
+      for (var i = 0; i < arr.length; i++) if (Math.abs(arr[i] - amount) < Math.abs(arr[best] - amount)) best = i;
+      idx = best;
+    }
+    s.value = idx;
+    var pct = arr.length > 1 ? (idx / (arr.length - 1)) * 100 : 0;
+    s.style.setProperty('--fill', pct + '%');
+  }
+  function bump() {
+    var d = document.getElementById('amtDisplay');
+    d.classList.remove('bump');
+    void d.offsetWidth;
+    d.classList.add('bump');
+  }
+  var animId = null;
+  function animateAmount(to) {
+    var showEl = document.getElementById('amtShow');
+    var from = parseInt(showEl.textContent, 10);
+    if (isNaN(from) || Math.abs(to - from) < 2 || matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      showEl.textContent = to;
+      return;
+    }
+    if (animId) cancelAnimationFrame(animId);
+    var t0 = null, dur = 320;
+    function step(t) {
+      if (!t0) t0 = t;
+      var p = Math.min((t - t0) / dur, 1);
+      var e = 1 - Math.pow(1 - p, 3); // easeOutCubic
+      showEl.textContent = Math.round(from + (to - from) * e);
+      if (p < 1) animId = requestAnimationFrame(step);
+      else { showEl.textContent = to; animId = null; }
+    }
+    animId = requestAnimationFrame(step);
+  }
+  function setAmount(a, opts) {
     amount = a;
-    document.getElementById('amtShow').textContent = a > 0 ? a : '—';
+    if (a > 0) animateAmount(a); else document.getElementById('amtShow').textContent = '—';
     var label = a > 0 ? (mode === 'monthly' ? 'Give $' + a + ' monthly' : 'Give $' + a) : 'Enter an amount';
     document.getElementById('giveBtn').textContent = label;
     document.getElementById('giveBtn').disabled = !(a > 0);
+    document.querySelectorAll('.chip').forEach(function (b) {
+      b.classList.toggle('active', b.textContent === '$' + a);
+    });
+    if (!(opts && opts.fromSlider)) syncSlider();
+    bump();
   }
-  function pick(a, el) {
-    document.querySelectorAll('.preset').forEach(function(b){ b.classList.remove('active'); });
-    el.classList.add('active');
+  function slide(idx) {
+    document.getElementById('customAmt').value = '';
+    var arr = stops();
+    var s = document.getElementById('amtSlider');
+    var pct = arr.length > 1 ? (idx / (arr.length - 1)) * 100 : 0;
+    s.style.setProperty('--fill', pct + '%');
+    setAmount(arr[idx], { fromSlider: true });
+  }
+  function pick(a) {
     document.getElementById('customAmt').value = '';
     setAmount(a);
   }
   function custom(v) {
-    document.querySelectorAll('.preset').forEach(function(b){ b.classList.remove('active'); });
     setAmount(Math.floor(Number(v)) || 0);
+  }
+  function toggleMode() { setMode(mode === 'once' ? 'monthly' : 'once'); }
+  var typingTimer = null, carouselTimer = null, carIdx = 0;
+  function startCarousel() {
+    stopCarousel();
+    var box = document.getElementById('bubbleText');
+    var msgs = box.querySelectorAll('.bmsg');
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      box.classList.add('nocarousel');
+      msgs.forEach(function (m) { m.classList.add('active'); m.classList.remove('exit'); });
+      return;
+    }
+    box.classList.remove('nocarousel');
+    carIdx = 0;
+    msgs.forEach(function (m, i) {
+      m.classList.remove('exit');
+      m.classList.toggle('active', i === 0);
+    });
+    syncDots();
+    carouselTimer = setInterval(advanceCarousel, 4000);
+  }
+  function stopCarousel() {
+    if (carouselTimer) { clearInterval(carouselTimer); carouselTimer = null; }
+  }
+  function advanceCarousel() {
+    var msgs = document.querySelectorAll('#bubbleText .bmsg');
+    var cur = msgs[carIdx];
+    cur.classList.remove('active');
+    cur.classList.add('exit');
+    carIdx = (carIdx + 1) % msgs.length;
+    var next = msgs[carIdx];
+    next.classList.remove('exit');
+    void next.offsetWidth; /* reflow so it re-enters from the right */
+    next.classList.add('active');
+    syncDots();
+  }
+  function syncDots() {
+    document.querySelectorAll('#carouselDots i').forEach(function (d, i) {
+      d.classList.toggle('on', i === carIdx);
+    });
+  }
+  function bethanyTypes() {
+    var card = document.getElementById('impactCard');
+    if (typingTimer) clearTimeout(typingTimer);
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) { card.classList.remove('typing'); startCarousel(); return; }
+    card.classList.add('typing');
+    typingTimer = setTimeout(function () {
+      card.classList.remove('typing');
+      typingTimer = null;
+      startCarousel();
+    }, 1000);
+  }
+  function setMode(m) {
+    if (m === mode) return;
+    mode = m;
+    var on = m === 'monthly';
+    if (on) bethanyTypes(); else stopCarousel();
+    document.getElementById('modeSwitch').classList.toggle('on', on);
+    document.getElementById('modeSwitch').setAttribute('aria-checked', on ? 'true' : 'false');
+    document.getElementById('lblOnce').classList.toggle('on', !on);
+    document.getElementById('lblMonthly').classList.toggle('on', on);
+    document.getElementById('perMonth').style.display = on ? 'inline' : 'none';
+    document.getElementById('customRow').style.display = on ? 'none' : 'flex';
+    document.getElementById('impactCard').style.display = on ? 'block' : 'none';
+    document.getElementById('impactVerse').style.display = on ? 'block' : 'none';
+    document.getElementById('cancelNote').style.display = on ? 'inline' : 'none';
+    document.getElementById('customAmt').value = '';
+    if (on && !(amount in MONTHLY_LINKS)) amount = 25;
+    buildChips(); buildTicks(); syncSlider();
+    setAmount(amount);
+  }
+  function openGive(e) { e.preventDefault(); document.getElementById('giveOverlay').classList.add('open'); }
+  function closeGive() {
+    document.getElementById('giveOverlay').classList.remove('open');
+    stopCarousel();
+    var sheet = document.getElementById('giveSheet');
+    sheet.style.transition = ''; sheet.style.transform = '';
   }
   function goStripe() {
     if (!(amount > 0)) return;
@@ -279,6 +632,34 @@
       window.location.href = 'https://buy.stripe.com/aFa3co4rm6em0fmfwe2B200?__prefilled_amount=' + (amount * 100);
     }
   }
+
+  /* Drag the grab handle to dismiss */
+  (function () {
+    var sheet = document.getElementById('giveSheet');
+    var zone = document.getElementById('grabZone');
+    var startY = null, dy = 0;
+    zone.addEventListener('pointerdown', function (e) {
+      startY = e.clientY; dy = 0;
+      sheet.style.transition = 'none';
+      zone.setPointerCapture(e.pointerId);
+    });
+    zone.addEventListener('pointermove', function (e) {
+      if (startY === null) return;
+      dy = Math.max(0, e.clientY - startY);
+      sheet.style.transform = 'translateY(' + dy + 'px)';
+    });
+    function release() {
+      if (startY === null) return;
+      startY = null;
+      sheet.style.transition = '';
+      if (dy > 110) { closeGive(); }
+      else { sheet.style.transform = ''; }
+    }
+    zone.addEventListener('pointerup', release);
+    zone.addEventListener('pointercancel', release);
+  })();
+
+  buildChips(); buildTicks(); syncSlider();
 </script>
 </body>
 </html>
