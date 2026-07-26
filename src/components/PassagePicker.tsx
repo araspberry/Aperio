@@ -56,6 +56,7 @@ export function PassagePicker({
         </View>
         {book ? (
           <FlatList
+            key="chapter-grid"
             data={Array.from({ length: book.chapters_count }, (_, i) => i + 1)}
             numColumns={5}
             keyExtractor={(n) => String(n)}
@@ -85,6 +86,7 @@ export function PassagePicker({
           />
         ) : (
           <FlatList
+            key="book-list"
             data={books}
             keyExtractor={(b) => String(b.book_num)}
             contentContainerStyle={{ padding: spacing.m, paddingBottom: insets.bottom + spacing.l }}
