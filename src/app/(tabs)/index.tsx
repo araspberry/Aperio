@@ -122,10 +122,7 @@ export default function HomeScreen() {
     >
       <View style={{ paddingHorizontal: spacing.l }}>
         {/* Top bar */}
-        <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
-          <Text style={{ fontFamily: fonts.display, fontSize: 27, color: colors.heading }}>
-            Ap<Text style={{ color: colors.gold }}>e</Text>rio
-          </Text>
+        <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "flex-end" }}>
           <View style={{ flexDirection: "row", alignItems: "center", gap: 20 }}>
             <Pressable onPress={openWhatsNew} hitSlop={8} accessibilityLabel="What's new">
               <Ionicons name="notifications-outline" size={21} color={colors.inkMuted} />
@@ -143,7 +140,7 @@ export default function HomeScreen() {
         </View>
 
         {/* Greeting */}
-        <Text style={{ fontFamily: fonts.display, fontSize: 26, lineHeight: 34, color: colors.heading, marginTop: spacing.l }}>
+        <Text style={{ fontFamily: fonts.display, fontSize: 26, lineHeight: 34, color: colors.heading, marginTop: spacing.s }}>
           {greeting()}, friend.
         </Text>
 
