@@ -177,8 +177,6 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
       backgroundStyle={{
         backgroundColor: S.bg,
         borderRadius: 26,
-        borderWidth: 1,
-        borderColor: colors.cardBorder,
       }}
       style={{
         shadowColor: "#0D1A30",

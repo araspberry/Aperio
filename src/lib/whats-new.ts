@@ -17,7 +17,7 @@ export const WHATS_NEW: { version: string; items: WhatsNewItem[] } = {
     {
       icon: "sparkles",
       title: "A new look",
-      body: "Aperio has a new logo — the flame of the Word inside the letter A.",
+      body: "Aperio has a new icon — a navy Bible crowned with the flame of the Word.",
     },
     {
       icon: "albums-outline",
