@@ -32,6 +32,7 @@ export const colors = {
   heading: "#122344", // large headings / titles (flips light in dark mode)
   chip: "#EEF1F6", // small icon chips / arrow circles
   menuBg: "#F7F8FA", // launcher menu card
+  sheetBg: "#E9EFF7", // Study Center sheet — blue-gray, distinct from the page
   menuChip: "#EAEDF3", // menu item icon circle
   menuChipActive: "rgba(255,255,255,0.65)",
   gradientTop: "#2B50C4", // Scripture of the Day card
@@ -65,6 +66,7 @@ export const darkColors: Palette = {
   heading: "#E9EEFA",
   chip: "#263048",
   menuBg: "#161E30",
+  sheetBg: "#1B2439",
   menuChip: "#263048",
   menuChipActive: "rgba(255,255,255,0.14)",
 };

@@ -44,7 +44,7 @@ const TONES: { key: ToneKey; label: string; icon: React.ReactNode }[] = [
 
 // Sheet palette — follows the app theme (soft gray/white in light mode).
 const sheetPalette = (c: Palette) => ({
-  bg: c.menuBg,
+  bg: c.sheetBg,
   card: c.card,
   border: c.cardBorder,
   text: c.ink,
@@ -174,8 +174,20 @@ export const ClavisDrawer = forwardRef<ClavisDrawerHandle, Props>(function Clavi
       snapPoints={["22%", "55%", "92%"]}
       enablePanDownToClose
       onChange={(i: number) => (snapIndex.current = i)}
-      backgroundStyle={{ backgroundColor: S.bg, borderRadius: 26 }}
-      handleIndicatorStyle={{ backgroundColor: S.muted, width: 40 }}
+      backgroundStyle={{
+        backgroundColor: S.bg,
+        borderRadius: 26,
+        borderWidth: 1,
+        borderColor: colors.cardBorder,
+      }}
+      style={{
+        shadowColor: "#0D1A30",
+        shadowOpacity: 0.22,
+        shadowRadius: 18,
+        shadowOffset: { width: 0, height: -6 },
+        elevation: 16,
+      }}
+      handleIndicatorStyle={{ backgroundColor: colors.goldDeep, width: 44, height: 4 }}
     >
       {/* Header */}
       <View style={{ paddingHorizontal: spacing.m }}>

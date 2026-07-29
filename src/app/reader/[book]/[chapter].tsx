@@ -1,7 +1,7 @@
 // The reader — verse-by-verse with gold Strong's words, the floating Clavis key,
 // and the Study Center drawer.
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { View, Text, ScrollView, Pressable } from "react-native";
+import { View, Text, ScrollView, Pressable, Animated, Easing } from "react-native";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useSQLiteContext } from "expo-sqlite";
@@ -36,6 +36,19 @@ export default function ReaderScreen() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const drawerRef = useRef<ClavisDrawerHandle>(null);
+
+  // Gentle breathing pulse on the Study Center pill — an invitation, not a shout.
+  const studyPulse = useRef(new Animated.Value(0)).current;
+  useEffect(() => {
+    const loop = Animated.loop(
+      Animated.sequence([
+        Animated.timing(studyPulse, { toValue: 1, duration: 1200, easing: Easing.inOut(Easing.quad), useNativeDriver: true }),
+        Animated.timing(studyPulse, { toValue: 0, duration: 1200, easing: Easing.inOut(Easing.quad), useNativeDriver: true }),
+      ]),
+    );
+    loop.start();
+    return () => loop.stop();
+  }, [studyPulse]);
   const scrollRef = useRef<ScrollView>(null);
   const autoOpened = useRef(false);
 
@@ -263,34 +276,40 @@ export default function ReaderScreen() {
         </View>
       )}
 
-      {/* Study Center pill */}
-      <Pressable
-        onPress={() => drawerRef.current?.open(1)}
-        accessibilityLabel="Open Study Center"
-        style={({ pressed }) => ({
+      {/* Study Center pill — breathing invitation */}
+      <Animated.View
+        style={{
           position: "absolute",
           alignSelf: "center",
           bottom: insets.bottom + 22,
-          flexDirection: "row",
-          alignItems: "center",
-          gap: 8,
-          backgroundColor: colors.navyInk,
-          borderRadius: 26,
-          paddingHorizontal: 20,
-          paddingVertical: 13,
-          transform: [{ scale: pressed ? 0.96 : 1 }],
-          shadowColor: "#0D1A30",
-          shadowOpacity: 0.3,
-          shadowRadius: 12,
-          shadowOffset: { width: 0, height: 5 },
-          elevation: 9,
-        })}
+          transform: [
+            { scale: studyPulse.interpolate({ inputRange: [0, 1], outputRange: [1, 1.05] }) },
+          ],
+        }}
       >
-        <MaterialCommunityIcons name="key-variant" size={17} color={colors.goldSoft} />
-        <Text style={{ fontFamily: fonts.sansBold, fontSize: 14, color: colors.white, letterSpacing: 0.3 }}>
-          Study Center
-        </Text>
-      </Pressable>
+        <Pressable
+          onPress={() => drawerRef.current?.open(1)}
+          accessibilityLabel="Open Study Center"
+          style={({ pressed }) => ({
+            backgroundColor: colors.parchment,
+            borderWidth: 1.5,
+            borderColor: colors.navyInk,
+            borderRadius: 26,
+            paddingHorizontal: 24,
+            paddingVertical: 13,
+            transform: [{ scale: pressed ? 0.95 : 1 }],
+            shadowColor: "#0D1A30",
+            shadowOpacity: 0.18,
+            shadowRadius: 10,
+            shadowOffset: { width: 0, height: 4 },
+            elevation: 8,
+          })}
+        >
+          <Text style={{ fontFamily: fonts.sansBold, fontSize: 14, color: colors.heading, letterSpacing: 0.4 }}>
+            Study Center
+          </Text>
+        </Pressable>
+      </Animated.View>
 
       <FabMenu />
 
