@@ -128,6 +128,28 @@
   .chbtn:hover { background: var(--blue); transform: scale(1.06); }
   .scrim { position: fixed; inset: 0; z-index: 35; background: rgba(18,35,68,.28); opacity: 0; pointer-events: none; transition: opacity .4s; }
   .scrim.on { opacity: 1; pointer-events: auto; }
+  /* ---------- Desktop: Study Center as a side panel ---------- */
+  main { transition: margin .45s cubic-bezier(.32,.72,.22,1); }
+  @media (min-width: 900px) {
+    .sheet {
+      top: 0; bottom: 0; left: auto; right: 0;
+      width: min(440px, 44vw); height: 100vh; max-height: none;
+      border-radius: 0; border-left: 1px solid var(--border);
+      box-shadow: -14px 0 34px rgba(13,26,48,.14);
+      transform: translateX(105%);
+    }
+    .sheet.open { transform: translateX(0); }
+    .sheet.full { height: 100vh; }
+    .handle, #sc-size { display: none; }
+    .scrim { display: none; }
+    .sheet-head { padding-top: 18px; }
+    body.sc-on main {
+      margin-right: calc(min(440px, 44vw) + 24px);
+      margin-left: max(2.5vw, calc((100vw - min(440px, 44vw) - 24px - 680px) / 2));
+    }
+    body.sc-on .sc-pill { display: none; }
+    .sc-pill { bottom: 30px; }
+  }
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
 </style>
 </head>
@@ -290,8 +312,8 @@ function lexSearch(q){
 
 /* Sheet open/close */
 var sheet = qs('sheet'), scrim = qs('scrim');
-function openSheet(){ sheet.classList.add('open'); scrim.classList.add('on'); }
-function closeSheet(){ sheet.classList.remove('open','full'); scrim.classList.remove('on'); qs('sc-size').textContent = '↑'; }
+function openSheet(){ sheet.classList.add('open'); scrim.classList.add('on'); document.body.classList.add('sc-on'); }
+function closeSheet(){ sheet.classList.remove('open','full'); scrim.classList.remove('on'); document.body.classList.remove('sc-on'); qs('sc-size').textContent = '↑'; }
 qs('sc-open').addEventListener('click', openSheet);
 qs('sc-close').addEventListener('click', closeSheet);
 scrim.addEventListener('click', closeSheet);
