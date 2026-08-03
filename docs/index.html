@@ -164,6 +164,42 @@
   .give-band h2 em { font-style: normal; color: var(--gold-deep); }
   .give-band p { color: #3A4358; max-width: 520px; margin: 10px auto 0; font-size: .95rem; }
 
+
+  /* ---------- Today cards ---------- */
+  .today-greet { font-family: var(--serif); font-size: clamp(1.5rem,3.4vw,2.1rem); color: var(--navy); font-weight: 700; }
+  .today-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 16px; margin-top: 26px; }
+  .sotd {
+    grid-column: 1 / -1; background: var(--blue); border-radius: 24px; padding: 30px;
+    position: relative; overflow: hidden;
+  }
+  .sotd .k2 { font-size: .7rem; letter-spacing: .22em; font-weight: 700; color: var(--navy); }
+  .sotd .vtxt { font-family: var(--serif); font-size: clamp(1.15rem, 2.4vw, 1.5rem); line-height: 1.75; color: var(--navy); margin-top: 14px; max-width: 780px; }
+  .sotd .vref { font-family: var(--serif); font-style: italic; color: var(--navy); margin-top: 12px; }
+  .sotd .row { display: flex; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
+  .sotd .b1 { background: var(--navy); color: #fff; border-radius: 22px; padding: 11px 20px; font-size: .88rem; font-weight: 700; transition: transform .25s; display: inline-block; }
+  .sotd .b1:hover { transform: translateY(-2px); }
+  .sotd .b2 { background: #fff; color: var(--navy); border-radius: 22px; padding: 11px 20px; font-size: .88rem; font-weight: 700; cursor: pointer; transition: transform .25s; border: none; font-family: var(--sans); }
+  .sotd .b2:hover { transform: translateY(-2px); }
+  .bigcard { background: var(--card); border: 1px solid var(--border); border-radius: 22px; padding: 26px; display: flex; flex-direction: column; transition: transform .35s, box-shadow .35s; }
+  .bigcard:hover { transform: translateY(-6px); box-shadow: 0 16px 34px rgba(18,35,68,.12); }
+  .bigcard .k2 { font-size: .68rem; letter-spacing: .22em; font-weight: 700; color: var(--gold-deep); }
+  .bigcard h3 { font-family: var(--serif); font-size: 1.25rem; color: var(--navy); margin-top: 10px; }
+  .dev-txt { font-family: var(--serif); font-size: .95rem; line-height: 1.8; color: var(--ink); margin-top: 12px; }
+  .dev-more { margin-top: 14px; font-size: .85rem; font-weight: 700; color: var(--gold-deep); }
+  .quiz-sub { font-size: .88rem; color: var(--muted); margin-top: 8px; line-height: 1.65; }
+  .quiz-go { margin-top: auto; padding-top: 18px; }
+  .quiz-go button, .qopt { font-family: var(--sans); cursor: pointer; }
+  .quiz-go button { background: var(--navy); color: #fff; border: none; border-radius: 14px; padding: 13px 30px; font-size: .95rem; font-weight: 700; transition: transform .25s; }
+  .quiz-go button:hover { transform: translateY(-2px); }
+  .qprompt { font-family: var(--serif); font-size: 1.02rem; color: var(--navy); line-height: 1.6; margin-top: 12px; font-weight: 700; }
+  .qquote { background: var(--blue); border-left: 3px solid var(--gold-deep); border-radius: 12px; padding: 12px 14px; margin-top: 12px; font-family: var(--serif); font-style: italic; font-size: .93rem; line-height: 1.7; color: var(--navy); }
+  .qopts { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
+  .qopt { text-align: left; background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 11px 14px; font-size: .88rem; color: var(--ink); transition: transform .2s; }
+  .qopt:hover { transform: translateX(4px); }
+  .qopt.right { background: #E2F0DF; border-color: #5C8A5A; }
+  .qopt.wrong { background: #F7E3E1; border-color: #C2726B; }
+  .qmeta { font-size: .78rem; color: var(--faint); margin-top: 12px; }
+
   footer { margin: 40px 6vw 0; padding: 26px 0 40px; text-align: center; border-top: 1px solid rgba(18,35,68,0.10); }
   footer .foot-tag { font-family: var(--serif); font-style: italic; color: var(--faint); font-size: 0.95rem; margin-bottom: 10px; }
   footer .foot-links { font-size: 0.85rem; margin-bottom: 8px; }
@@ -199,6 +235,38 @@
     <div class="fine">Free forever · iPhone · No account required</div>
   </div>
 </header>
+
+
+<section id="today">
+  <div class="reveal">
+    <div class="kicker">Today at Aperio</div>
+    <div class="today-greet" id="greet">Hello, friend.</div>
+  </div>
+  <div class="today-grid">
+    <div class="sotd reveal" id="sotd">
+      <div class="k2">SCRIPTURE OF THE DAY</div>
+      <div class="vtxt" id="sotd-txt">Loading today's verse…</div>
+      <div class="vref" id="sotd-ref"></div>
+      <div class="row">
+        <a class="b1" id="sotd-read" href="./read/">Read the chapter</a>
+        <button class="b2" id="sotd-share">⤴ Share</button>
+      </div>
+    </div>
+    <div class="bigcard reveal d1" id="devcard">
+      <div class="k2">TODAY'S DEVOTION</div>
+      <h3 id="dev-title">From today's chapter</h3>
+      <div class="dev-txt" id="dev-txt">Loading…</div>
+      <a class="dev-more" id="dev-more" href="./read/">Read the full chapter →</a>
+    </div>
+    <div class="bigcard reveal d2" id="quizcard">
+      <div class="k2">DAILY QUIZ</div>
+      <h3 id="quiz-title">Today's Quiz</h3>
+      <div class="quiz-sub" id="quiz-sub">Seven questions from today's passage — the same quiz, for everyone, new each morning.</div>
+      <div id="quiz-area"></div>
+      <div class="quiz-go" id="quiz-go"><button onclick="startQuiz()">Start Quiz</button></div>
+    </div>
+  </div>
+</section>
 
 <section id="vision">
   <div class="center reveal">
@@ -317,5 +385,126 @@
   }, { threshold: 0.6 });
   document.querySelectorAll('[data-count]').forEach(function(el){ cio.observe(el); });
 </script>
+
+<script>
+var ROT = [[43,3,16,"Love"],[19,23,1,"Provision"],[50,4,13,"Strength"],[24,29,11,"Hope"],[45,8,28,"Purpose"],[20,3,5,"Trust"],[23,40,31,"Renewal"],[19,46,1,"Refuge"],[40,11,28,"Rest"],[43,14,6,"Truth"],[19,119,105,"Guidance"],[45,12,2,"Transformation"],[48,5,22,"Fruitfulness"],[58,11,1,"Faith"],[40,6,33,"Provision"],[19,27,1,"Courage"],[23,41,10,"Courage"],[62,4,19,"Love"],[46,13,4,"Love"],[19,34,8,"Goodness"],[43,1,1,"The Word"],[45,5,8,"Grace"],[49,2,8,"Grace"],[19,139,14,"Identity"],[51,3,23,"Work"],[40,5,16,"Witness"],[66,21,4,"Comfort"],[23,53,5,"Healing"],[19,91,1,"Shelter"],[43,10,10,"Abundance"],[45,10,9,"Salvation"],[58,4,12,"The Word"],[59,1,5,"Wisdom"],[19,121,1,"Help"],[40,28,19,"Mission"],[43,15,5,"Abiding"],[47,5,17,"New Creation"],[50,1,6,"Assurance"],[19,37,4,"Delight"],[26,36,26,"Renewal"],[55,1,7,"Boldness"],[60,5,7,"Peace"],[43,16,33,"Overcoming"],[19,51,10,"Cleansing"],[42,6,31,"Kindness"],[40,22,37,"Love"],[49,6,10,"Strength"],[23,26,3,"Peace"],[19,118,24,"Joy"],[43,8,32,"Freedom"],[46,10,13,"Endurance"],[50,4,6,"Peace"],[62,1,9,"Forgiveness"],[20,16,9,"Guidance"],[24,33,3,"Prayer"],[45,15,13,"Hope"],[58,12,1,"Perseverance"],[19,100,4,"Thanksgiving"],[43,13,34,"Love"],[61,1,3,"Promise"],[40,7,7,"Prayer"],[19,19,1,"Glory"],[66,3,20,"Invitation"],[45,3,23,"Grace"],[51,2,6,"Rootedness"],[19,42,1,"Longing"],[43,11,25,"Resurrection"],[56,3,5,"Mercy"],[40,5,14,"Witness"],[30,5,24,"Justice"],[33,6,8,"Humility"],[35,3,17,"Joy"],[38,4,6,"The Spirit"]];
+function dayOfYear(){ var d = new Date(); return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - Date.UTC(d.getFullYear(),0,0)) / 864e5); }
+var V = ROT[dayOfYear() % ROT.length], CHD = null, DECOY = null;
+
+(function greet(){
+  var h = new Date().getHours(), g;
+  if (h < 5) g = 'Peace to you tonight'; else if (h < 12) g = 'Good morning';
+  else if (h < 17) g = 'Good afternoon'; else if (h < 21) g = 'Good evening'; else g = 'A quiet evening';
+  document.getElementById('greet').textContent = g + ', friend.';
+})();
+
+function stripCom(t){
+  var out = [], blocks = (t||'').split(/\n{2,}/);
+  for (var i=0;i<blocks.length;i++){
+    var b = blocks[i].trim();
+    if (!b || /^#{1,3}\s/.test(b)) continue;
+    out.push(b.replace(/\*\*([^*]+)\*\*/g,'$1').replace(/\*([^*]+)\*/g,'$1').replace(/\n/g,' '));
+    if (out.join(' ').split(' ').length > 120) break;
+  }
+  return out;
+}
+
+fetch('read/data/' + V[0] + '/' + V[1] + '.json').then(function(r){ return r.json(); }).then(function(d){
+  CHD = d;
+  var vt = ''; d.v.forEach(function(x){ if (x[0] === V[2]) vt = x[1]; });
+  var ref = d.name + ' ' + V[1] + ':' + V[2];
+  document.getElementById('sotd-txt').textContent = '\u201C' + vt.replace(/\s+/g,' ').trim() + '\u201D';
+  document.getElementById('sotd-ref').textContent = '\u2014 ' + ref + ' \u00B7 ' + V[3];
+  document.getElementById('sotd-read').href = './read/#' + V[0] + '.' + V[1];
+  document.getElementById('dev-more').href = './read/#' + V[0] + '.' + V[1];
+  document.getElementById('dev-title').textContent = d.name + ' ' + V[1];
+  var paras = stripCom(d.com.d);
+  document.getElementById('dev-txt').innerHTML = paras.slice(0,2).map(function(x){
+    var e = document.createElement('div'); e.textContent = x; return '<p style="margin-bottom:10px">' + e.innerHTML + '</p>';
+  }).join('');
+  document.getElementById('quiz-title').textContent = 'Today\u2019s Quiz \u00B7 ' + d.name + ' ' + V[1];
+  document.getElementById('sotd-share').onclick = function(){
+    var msg = '\u201C' + vt + '\u201D \u2014 ' + ref + '\n\nShared from Aperio \u00B7 aperiobible.app';
+    if (navigator.share) navigator.share({ text: msg });
+    else { navigator.clipboard.writeText(msg); this.textContent = 'Copied!'; }
+  };
+});
+
+/* ---------- Daily quiz (same date-seeded logic as the app) ---------- */
+function mulberry32(seed){ return function(){ seed |= 0; seed = (seed + 0x6d2b79f5) | 0; var t = Math.imul(seed ^ (seed >>> 15), 1 | seed); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+var QUIZ = null, QI = 0, QSCORE = 0;
+function buildQuiz(ch, decoy){
+  var day = new Date().toISOString().slice(0,10), seed = 7;
+  for (var i=0;i<day.length;i++) seed = (seed * 31 + day.charCodeAt(i)) >>> 0;
+  var rand = mulberry32(seed);
+  function shuffle(a){ a = a.slice(); for (var i=a.length-1;i>0;i--){ var j = Math.floor(rand()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+  function clean(w){ return w.replace(/[^A-Za-z']/g,''); }
+  var verses = ch.v.map(function(x){ return x[1].replace(/\s+/g,' ').trim(); });
+  var sub = verses.filter(function(t){ return t.length >= 60 && t.length <= 300; });
+  var pool = shuffle(sub.length >= 7 ? sub : verses);
+  var bank = []; verses.forEach(function(t){ t.split(' ').forEach(function(w){ w = clean(w); if (w.length >= 5 && bank.indexOf(w) === -1) bank.push(w); }); });
+  var qs = [];
+  pool.slice(0,4).forEach(function(t){
+    var words = t.split(' '), idxs = [];
+    words.forEach(function(w,i){ if (clean(w).length >= 5) idxs.push(i); });
+    if (!idxs.length) return;
+    var ti = idxs[Math.floor(rand()*idxs.length)], ans = clean(words[ti]);
+    var opts = [ans]; var b2 = shuffle(bank);
+    for (var i=0;i<b2.length && opts.length<4;i++) if (b2[i].toLowerCase() !== ans.toLowerCase()) opts.push(b2[i]);
+    var quote = words.map(function(w,i){ return i === ti ? '_____' : w; }).join(' ');
+    opts = shuffle(opts);
+    qs.push({ p: 'Complete the verse:', q: quote, o: opts, a: opts.indexOf(ans) });
+  });
+  var dsub = decoy.v.map(function(x){ return x[1].replace(/\s+/g,' ').trim(); }).filter(function(t){ return t.length >= 60 && t.length <= 300; });
+  var dpool = shuffle(dsub);
+  pool.slice(4,7).forEach(function(t, qi){
+    var snip = function(x){ return x.length > 110 ? x.slice(0, 107) + '\u2026' : x; };
+    var opts = [snip(t)];
+    for (var i = qi*3; i < qi*3+3 && i < dpool.length; i++) opts.push(snip(dpool[i]));
+    var correct = opts[0]; opts = shuffle(opts);
+    qs.push({ p: 'Which line is from ' + CHD.name + ' ' + V[1] + '?', q: null, o: opts, a: opts.indexOf(correct) });
+  });
+  return qs;
+}
+function startQuiz(){
+  var done = null;
+  try { done = JSON.parse(localStorage.getItem('aperio:webquiz')); } catch(e){}
+  var today = new Date().toISOString().slice(0,10);
+  if (done && done.d === today){ document.getElementById('quiz-area').innerHTML = '<div class="qprompt">Already done today \u2014 you scored ' + done.s + '/' + done.t + '. Come back tomorrow!</div>'; document.getElementById('quiz-go').style.display = 'none'; return; }
+  if (!CHD) return;
+  var decoyRef = ROT[(dayOfYear() + 11) % ROT.length];
+  fetch('read/data/' + decoyRef[0] + '/' + decoyRef[1] + '.json').then(function(r){ return r.json(); }).then(function(dd){
+    QUIZ = buildQuiz(CHD, dd); QI = 0; QSCORE = 0;
+    document.getElementById('quiz-go').style.display = 'none';
+    document.getElementById('quiz-sub').style.display = 'none';
+    renderQ();
+  });
+}
+function renderQ(){
+  var area = document.getElementById('quiz-area');
+  if (QI >= QUIZ.length){
+    var today = new Date().toISOString().slice(0,10);
+    try { localStorage.setItem('aperio:webquiz', JSON.stringify({ d: today, s: QSCORE, t: QUIZ.length })); } catch(e){}
+    var msg = QSCORE === QUIZ.length ? 'Perfect \u2014 well done!' : QSCORE >= 3 ? 'Solid work. Keep reading!' : 'The Word rewards the diligent \u2014 read on!';
+    area.innerHTML = '<div class="qprompt" style="font-size:1.4rem">\uD83C\uDFC6 ' + QSCORE + ' / ' + QUIZ.length + '</div><div class="quiz-sub" style="display:block">' + msg + '</div>';
+    return;
+  }
+  var q = QUIZ[QI], html = '<div class="qmeta">Question ' + (QI+1) + ' of ' + QUIZ.length + '</div><div class="qprompt">' + q.p + '</div>';
+  if (q.q){ var e = document.createElement('div'); e.textContent = q.q; html += '<div class="qquote">\u201C' + e.innerHTML + '\u201D</div>'; }
+  html += '<div class="qopts">' + q.o.map(function(o,i){
+    var e = document.createElement('div'); e.textContent = o;
+    return '<button class="qopt" data-i="' + i + '" onclick="answerQ(this,' + i + ')">' + e.innerHTML + '</button>';
+  }).join('') + '</div>';
+  area.innerHTML = html;
+}
+function answerQ(el, i){
+  var q = QUIZ[QI];
+  document.querySelectorAll('.qopt').forEach(function(b){ b.disabled = true; });
+  document.querySelectorAll('.qopt')[q.a].classList.add('right');
+  if (i === q.a) QSCORE++; else el.classList.add('wrong');
+  setTimeout(function(){ QI++; renderQ(); }, 950);
+}
+</script>
+
 </body>
 </html>
