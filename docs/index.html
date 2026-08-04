@@ -568,18 +568,30 @@ function stripCom(t, maxWords){
   return out;
 }
 
+var OPENB = null;
+function openBko(k){ OPENB = k; document.getElementById('bko-' + k).classList.add('open'); document.body.style.overflow = 'hidden'; }
+function closeBko(){ if (!OPENB) return; document.getElementById('bko-' + OPENB).classList.remove('open'); document.body.style.overflow = ''; OPENB = null; }
+document.addEventListener('keydown', function(e){ if (e.key === 'Escape') closeBko(); });
+
 fetch('read/data/' + V[0] + '/' + V[1] + '.json').then(function(r){ return r.json(); }).then(function(d){
   CHD = d;
   var vt = ''; d.v.forEach(function(x){ if (x[0] === V[2]) vt = x[1]; });
+  vt = vt.replace(/\s+/g,' ').trim();
   var ref = d.name + ' ' + V[1] + ':' + V[2];
+  var short = vt.length > 150 ? vt.slice(0, 147) + '\u2026' : vt;
+  document.getElementById('p-sotd-txt').textContent = '\u201C' + short + '\u201D';
+  document.getElementById('p-sotd-ref').textContent = '\u2014 ' + ref + ' \u00B7 ' + V[3];
+  document.getElementById('p-dev-title').textContent = d.name + ' ' + V[1];
+  document.getElementById('p-quiz-title').textContent = 'Today\u2019s Quiz \u00B7 ' + d.name + ' ' + V[1];
   document.getElementById('sotd-txt').textContent = '“' + vt.replace(/\s+/g,' ').trim() + '”';
   document.getElementById('sotd-ref').textContent = '— ' + ref + ' · ' + V[3];
   document.getElementById('sotd-read').href = './read/#' + V[0] + '.' + V[1];
   document.getElementById('dev-more').href = './read/#' + V[0] + '.' + V[1];
   document.getElementById('dev-title').textContent = d.name + ' ' + V[1];
-  var paras = stripCom(d.com.d);
-  document.getElementById('dev-txt').innerHTML = paras.slice(0,2).map(function(x){
-    var e = document.createElement('div'); e.textContent = x; return '<p style="margin-bottom:10px">' + e.innerHTML + '</p>';
+  var paras = stripCom(d.com.d, 420);
+  document.getElementById('p-dev-txt').textContent = paras[0] || '';
+  document.getElementById('dev-txt').innerHTML = paras.map(function(x){
+    var e = document.createElement('div'); e.textContent = x; return '<p>' + e.innerHTML + '</p>';
   }).join('');
   document.getElementById('quiz-title').textContent = 'Today’s Quiz · ' + d.name + ' ' + V[1];
   document.getElementById('sotd-share').onclick = function(){
