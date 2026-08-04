@@ -18,7 +18,15 @@
   a { color:inherit; text-decoration:none; }
   button { font-family:var(--sans); border:none; background:none; cursor:pointer; }
 
+  /* Reading progress */
+  .progress { position: fixed; top: 0; left: 0; height: 3px; width: 0%; z-index: 60;
+    background: linear-gradient(90deg, var(--gold-deep), var(--gold)); transition: width .15s linear; }
+
   /* Header */
+  header {
+    transition: transform .35s cubic-bezier(.22,.61,.36,1);
+  }
+  header.hide { transform: translateY(-110%); }
   header {
     position: sticky; top: 0; z-index: 30;
     display:flex; align-items:center; justify-content:space-between;
@@ -38,6 +46,16 @@
   /* Reader column */
   main { max-width: 680px; margin: 0 auto; padding: 26px 22px 170px; }
   .kick { font-size: 11px; letter-spacing: 2.5px; color: var(--faint); font-weight: 600; }
+  .chnum {
+    position: absolute; top: -30px; right: -8px; font-family: var(--serif); font-weight: 700;
+    font-size: clamp(9rem, 22vw, 15rem); line-height: 1; color: rgba(18,35,68,.045);
+    pointer-events: none; user-select: none; z-index: 0;
+  }
+  .chapter-head { position: relative; }
+  .verse.v1::first-letter {
+    font-family: var(--serif); font-size: 3.4em; font-weight: 700; color: var(--gold-deep);
+    float: left; line-height: .82; padding-right: 8px; padding-top: 4px;
+  }
   .bookname { font-family: var(--serif); font-weight: 700; font-size: clamp(2rem, 6vw, 2.6rem); color: var(--navy); margin: 4px 0 18px; }
   .verse { font-family: var(--serif); font-size: 1.15rem; line-height: 1.95; color: var(--ink); margin-bottom: 14px; }
   .verse sup { color: var(--gold); font-size: .62em; font-weight: 700; margin-right: 3px; }
@@ -155,7 +173,8 @@
 </head>
 <body>
 
-<header>
+<div class="progress" id="progress"></div>
+<header id="hdr">
   <div class="h-side"><a class="back" href="../index.html" aria-label="Back to aperiobible.app">←</a></div>
   <div class="h-mid" id="picker-open">
     <div class="h-title" id="h-title">Aperio <span class="num"></span></div>
@@ -226,10 +245,11 @@ function renderChapter(){
   qs('h-title').innerHTML = esc(CH.name) + ' <span class="num">' + CH.c + '</span> ▾';
   qs('sc-ref').textContent = '· ' + CH.name + ' ' + CH.c;
   var bk = bookOf(CH.b);
-  var html = '<div class="fade-in"><div class="kick">CHAPTER ' + CH.c + '</div>' +
-    '<div class="bookname">' + esc(CH.name) + '</div>';
-  CH.v.forEach(function(v){
-    html += '<p class="verse"><sup>' + v[0] + '</sup>' + esc(v[1]).replace(/\n/g,' ') + '</p>';
+  var html = '<div class="fade-in"><div class="chapter-head"><div class="chnum">' + CH.c + '</div>' +
+    '<div class="kick">CHAPTER ' + CH.c + '</div>' +
+    '<div class="bookname">' + esc(CH.name) + '</div></div>';
+  CH.v.forEach(function(v, i){
+    html += '<p class="verse' + (i === 0 ? ' v1' : '') + '"><sup>' + v[0] + '</sup>' + esc(v[1]).replace(/\n/g,' ') + '</p>';
   });
   html += '<div class="navrow">';
   if (CH.c > 1) html += '<div class="navcard" onclick="go(' + CH.b + ',' + (CH.c-1) + ')"><div class="s">← Previous</div><div class="b">' + esc(CH.name) + ' ' + (CH.c-1) + '</div></div>';
@@ -357,6 +377,19 @@ window.addEventListener('hashchange', function(){
   var s = loadState();
   if (CH && (CH.b !== s[0] || CH.c !== s[1])) go(s[0], s[1]);
 });
+
+/* reading progress + auto-hiding header */
+(function(){
+  var lastY = 0, hdr = document.getElementById('hdr'), bar = document.getElementById('progress');
+  window.addEventListener('scroll', function(){
+    var y = window.scrollY;
+    var max = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (max > 0 ? Math.min(100, y / max * 100) : 0) + '%';
+    if (y > 140 && y > lastY + 6) hdr.classList.add('hide');
+    else if (y < lastY - 6 || y < 140) hdr.classList.remove('hide');
+    lastY = y;
+  }, { passive: true });
+})();
 
 fetch('data/books.json').then(function(r){ return r.json(); }).then(function(d){
   BOOKS = d;

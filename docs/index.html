@@ -4,394 +4,457 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Aperio Bible — Where the Word opens</title>
-<meta name="description" content="The only Bible app with its own translation, built to be read alongside its own commentary. Free, offline, no ads — get closer to God, be encouraged, and discover who He has called you to be." />
+<meta name="description" content="Read the Bible online in the New Clavis Translation with commentary in three voices — or take it with you in the Aperio app. Free. No ads. Ever." />
 <style>
   :root {
-    --bg: #F7F7F8; --card: #FFFFFF; --border: #D8DEE9;
-    --navy: #122344; --ink: #1D2438; --muted: #6C7689; --faint: #98A1B3;
-    --gold: #C4952A; --gold-deep: #9A6E1A;
-    --blue: #D9E3F2; --sage: #ACC0A2; --rose: #C8ACA3; --slate: #5D6D8E;
+    --bg:#F7F7F8; --card:#FFFFFF; --border:#D8DEE9; --navy:#122344; --navy2:#1B2A4A;
+    --ink:#1D2438; --muted:#6C7689; --faint:#98A1B3; --gold:#C4952A; --gold-deep:#9A6E1A;
+    --blue:#D9E3F2; --sage:#ACC0A2; --rose:#C8ACA3; --slate:#5D6D8E; --leather:#7a4a1e;
     --serif: Georgia, "Times New Roman", serif;
     --sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
-  body { background: var(--bg); color: var(--ink); font-family: var(--sans); line-height: 1.7; overflow-x: hidden; }
-  a { text-decoration: none; color: inherit; }
-  img { display: block; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html { scroll-behavior:smooth; }
+  body { background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.7; overflow-x:hidden; }
+  a { text-decoration:none; color:inherit; } img { display:block; } button { font-family:var(--sans); cursor:pointer; }
 
-  /* ---------- Motion primitives ---------- */
-  .reveal { opacity: 0; transform: translateY(34px); transition: opacity .8s cubic-bezier(.22,.61,.36,1), transform .8s cubic-bezier(.22,.61,.36,1); }
-  .reveal.in { opacity: 1; transform: translateY(0); }
-  .d1 { transition-delay: .08s; } .d2 { transition-delay: .16s; } .d3 { transition-delay: .24s; }
-  .d4 { transition-delay: .32s; } .d5 { transition-delay: .4s; }
-  @keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
-  @keyframes drift { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(30px,-24px) scale(1.08); } }
-  @keyframes drift2 { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(-26px,20px) scale(1.05); } }
-  @keyframes shimmer { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
-  @media (prefers-reduced-motion: reduce) {
-    .reveal { opacity: 1; transform: none; transition: none; }
-    * { animation: none !important; }
-  }
+  /* ============ motion primitives ============ */
+  .rv { opacity:0; transform: translateY(38px); transition: opacity .9s cubic-bezier(.22,.61,.36,1), transform .9s cubic-bezier(.22,.61,.36,1); }
+  .rv.in { opacity:1; transform:none; }
+  .rv-s { opacity:0; transform: scale(.92); transition: opacity .9s, transform .9s cubic-bezier(.22,.61,.36,1); }
+  .rv-s.in { opacity:1; transform: scale(1); }
+  .d1{transition-delay:.09s}.d2{transition-delay:.18s}.d3{transition-delay:.27s}.d4{transition-delay:.36s}.d5{transition-delay:.45s}
+  [data-tilt] { transform-style: preserve-3d; will-change: transform; transition: box-shadow .3s; }
+  @keyframes floaty { 0%,100%{ transform: translateY(0) } 50%{ transform: translateY(-16px) } }
+  @keyframes drift { 0%,100%{ transform: translate(0,0) scale(1) } 50%{ transform: translate(34px,-26px) scale(1.07) } }
+  @keyframes drift2 { 0%,100%{ transform: translate(0,0) scale(1) } 50%{ transform: translate(-30px,22px) scale(1.05) } }
+  @keyframes sparkle { 0%,100%{ opacity:.15; transform: translateY(0) } 50%{ opacity:.8; transform: translateY(-22px) } }
+  @keyframes pageflutter { 0%,100%{ transform: rotateY(-24deg) rotateX(8deg) } 50%{ transform: rotateY(-19deg) rotateX(5deg) } }
+  @media (prefers-reduced-motion: reduce){ .rv,.rv-s{opacity:1;transform:none;transition:none} *{animation:none !important} }
 
-  /* ---------- Nav ---------- */
+  /* ============ nav ============ */
   nav {
-    position: sticky; top: 0; z-index: 50;
-    display: flex; justify-content: space-between; align-items: center;
-    padding: 14px 5vw;
-    background: rgba(247,247,248,0.82); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
-    border-bottom: 1px solid rgba(18,35,68,0.07);
+    position: fixed; top: 14px; left: 50%; transform: translateX(-50%); z-index: 90;
+    display:flex; align-items:center; gap: 4px;
+    background: rgba(255,255,255,.72); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(18,35,68,.08); border-radius: 999px; padding: 8px 10px 8px 20px;
+    box-shadow: 0 8px 30px rgba(18,35,68,.08);
   }
-  .brand { font-family: var(--serif); font-weight: 700; font-size: 1.35rem; color: var(--navy); }
-  .brand em { font-style: normal; color: var(--gold); }
-  .nav-links { display: flex; gap: 26px; align-items: center; font-size: .86rem; font-weight: 600; color: var(--muted); }
-  .nav-links a:hover { color: var(--navy); }
-  .pill-cta {
-    background: var(--navy); color: #fff; border-radius: 12px; padding: 9px 18px;
-    font-size: .85rem; font-weight: 700; transition: transform .25s, box-shadow .25s;
-  }
-  .pill-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(18,35,68,.25); }
-  @media (max-width: 640px) { .nav-links a:not(.pill-cta) { display: none; } }
+  .brand { font-family:var(--serif); font-weight:700; font-size:1.15rem; color:var(--navy); margin-right: 14px; }
+  .brand em { font-style:normal; color:var(--gold); }
+  .nl { font-size:.82rem; font-weight:600; color:var(--muted); padding: 7px 12px; border-radius: 999px; transition: color .2s, background .2s; }
+  .nl:hover { color:var(--navy); background: rgba(18,35,68,.05); }
+  .n-cta { background: var(--navy); color:#fff; border-radius:999px; padding: 9px 18px; font-size:.82rem; font-weight:700; margin-left: 6px; transition: transform .25s, box-shadow .25s; }
+  .n-cta:hover { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(18,35,68,.28); }
+  @media (max-width: 720px){ .nl { display:none; } }
 
-  /* ---------- Hero ---------- */
-  .hero { position: relative; text-align: center; padding: 84px 6vw 70px; }
-  .glow {
-    position: absolute; border-radius: 50%; filter: blur(70px); pointer-events: none; z-index: 0;
+  /* ============ hero ============ */
+  .hero { position:relative; min-height: 100vh; display:flex; align-items:center; justify-content:center; padding: 110px 6vw 60px; overflow:hidden; }
+  .glow { position:absolute; border-radius:50%; filter: blur(80px); pointer-events:none; }
+  .g1 { width:520px; height:520px; background: rgba(217,227,242,.95); top:-120px; left:-140px; animation: drift 12s ease-in-out infinite; }
+  .g2 { width:420px; height:420px; background: rgba(196,149,42,.14); bottom:-80px; right:-110px; animation: drift2 14s ease-in-out infinite; }
+  .g3 { width:340px; height:340px; background: rgba(172,192,162,.30); top:30%; right:18%; animation: drift 17s ease-in-out infinite; }
+  .spark { position:absolute; width:5px; height:5px; border-radius:50%; background: var(--gold); animation: sparkle 5s ease-in-out infinite; pointer-events:none; }
+  .hero-grid { position:relative; z-index:2; display:grid; grid-template-columns: 1.1fr .9fr; gap: 6vw; align-items:center; max-width: 1160px; width:100%; }
+  @media (max-width: 900px){ .hero-grid { grid-template-columns: 1fr; text-align:center; gap: 54px; } }
+  .kick { font-size:.72rem; letter-spacing:.28em; font-weight:700; color:var(--gold-deep); text-transform:uppercase; }
+  h1 { font-family:var(--serif); font-size: clamp(2.5rem, 5.6vw, 4.2rem); color:var(--navy); line-height:1.08; margin-top: 16px; }
+  h1 .w { display:inline-block; opacity:0; transform: translateY(30px) rotateX(35deg); animation: wUp .8s cubic-bezier(.22,.61,.36,1) forwards; }
+  h1 .w:nth-child(1){animation-delay:.15s} h1 .w:nth-child(2){animation-delay:.27s}
+  h1 .w:nth-child(3){animation-delay:.39s} h1 .w:nth-child(4){animation-delay:.51s}
+  @keyframes wUp { to { opacity:1; transform:none; } }
+  .lede { color:var(--muted); font-size:1.05rem; max-width: 480px; margin-top: 20px; }
+  @media (max-width:900px){ .lede { margin-left:auto; margin-right:auto; } }
+  .ctas { display:flex; gap:12px; margin-top: 30px; flex-wrap:wrap; }
+  @media (max-width:900px){ .ctas { justify-content:center; } }
+  .b-read {
+    display:inline-flex; align-items:center; gap:9px; background:var(--navy); color:#fff;
+    border-radius: 16px; padding: 15px 28px; font-weight:700; font-size:.98rem;
+    box-shadow: 0 12px 28px rgba(18,35,68,.28); transition: transform .3s, box-shadow .3s;
   }
-  .glow.g1 { width: 420px; height: 420px; background: rgba(217,227,242,.9); top: -60px; left: -120px; animation: drift 11s ease-in-out infinite; }
-  .glow.g2 { width: 360px; height: 360px; background: rgba(196,149,42,.16); top: 40px; right: -100px; animation: drift2 13s ease-in-out infinite; }
-  .glow.g3 { width: 300px; height: 300px; background: rgba(172,192,162,.35); bottom: -80px; left: 30%; animation: drift 15s ease-in-out infinite; }
-  .hero-inner { position: relative; z-index: 1; }
-  .app-icon {
-    width: 108px; height: 108px; border-radius: 24px; margin: 0 auto 26px;
-    box-shadow: 0 18px 44px rgba(50,30,8,.35), 0 4px 12px rgba(18,35,68,.18);
-    animation: floaty 5.5s ease-in-out infinite;
+  .b-read:hover { transform: translateY(-4px); box-shadow: 0 20px 44px rgba(18,35,68,.36); }
+  .b-app {
+    display:inline-flex; align-items:center; gap:8px; border:1.5px solid var(--navy); color:var(--navy);
+    background: rgba(255,255,255,.6); border-radius:16px; padding: 15px 24px; font-weight:700; font-size:.95rem;
+    transition: transform .3s, background .3s;
   }
-  h1 {
-    font-family: var(--serif); font-size: clamp(2.3rem, 6vw, 3.9rem);
-    color: var(--navy); line-height: 1.12; letter-spacing: .01em;
-  }
-  h1 .w { display: inline-block; opacity: 0; transform: translateY(26px); animation: wordUp .7s cubic-bezier(.22,.61,.36,1) forwards; }
-  h1 .w:nth-child(1){animation-delay:.15s} h1 .w:nth-child(2){animation-delay:.28s}
-  h1 .w:nth-child(3){animation-delay:.41s} h1 .w:nth-child(4){animation-delay:.54s}
-  @keyframes wordUp { to { opacity: 1; transform: translateY(0); } }
-  .hero p.lede { max-width: 560px; margin: 20px auto 0; color: var(--muted); font-size: 1.06rem; }
-  .hero .ctas { display: flex; gap: 14px; justify-content: center; margin-top: 30px; flex-wrap: wrap; }
-  .btn-store {
-    display: inline-flex; align-items: center; gap: 10px;
-    background: var(--navy); color: #fff; border-radius: 14px; padding: 14px 26px;
-    font-weight: 700; font-size: .98rem; transition: transform .25s, box-shadow .25s;
-  }
-  .btn-store:hover { transform: translateY(-3px); box-shadow: 0 14px 30px rgba(18,35,68,.3); }
-  .btn-ghost {
-    display: inline-flex; align-items: center; border: 1.5px solid var(--navy); color: var(--navy);
-    border-radius: 14px; padding: 14px 26px; font-weight: 700; font-size: .98rem; background: var(--bg);
-    transition: transform .25s, background .25s;
-  }
-  .btn-ghost:hover { transform: translateY(-3px); background: #EEF1F6; }
-  .hero .fine { font-size: .8rem; color: var(--faint); margin-top: 14px; }
+  .b-app:hover { transform: translateY(-4px); background:#fff; }
+  .fine { font-size:.78rem; color:var(--faint); margin-top: 16px; }
 
-  /* ---------- Sections ---------- */
-  section { padding: 70px 6vw; position: relative; }
-  .kicker { font-size: .74rem; letter-spacing: .24em; font-weight: 700; color: var(--gold-deep); text-transform: uppercase; }
-  h2.title { font-family: var(--serif); font-size: clamp(1.7rem, 3.6vw, 2.4rem); color: var(--navy); margin-top: 10px; line-height: 1.2; }
-  .sub { color: var(--muted); max-width: 560px; margin-top: 12px; }
-  .center { text-align: center; } .center .sub { margin-left: auto; margin-right: auto; }
-
-  /* Vision pillars */
-  .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin-top: 40px; }
-  .pillar {
-    border-radius: 22px; padding: 30px 26px; position: relative; overflow: hidden;
-    transition: transform .35s cubic-bezier(.22,.61,.36,1), box-shadow .35s;
+  /* --- the 3D book --- */
+  .scene { perspective: 1400px; display:flex; justify-content:center; }
+  .book {
+    position:relative; width: 220px; height: 312px; transform-style: preserve-3d;
+    transform: rotateY(-24deg) rotateX(8deg);
+    animation: pageflutter 7s ease-in-out infinite;
   }
-  .pillar:hover { transform: translateY(-8px); box-shadow: 0 20px 40px rgba(18,35,68,.14); }
-  .pillar .num { font-family: var(--serif); font-size: 2.4rem; color: rgba(18,35,68,.18); font-weight: 700; }
-  .pillar h3 { font-family: var(--serif); font-size: 1.3rem; color: var(--navy); margin-top: 6px; }
-  .pillar p { font-size: .92rem; color: #3A4358; margin-top: 8px; }
-  .p-blue { background: var(--blue); } .p-sage { background: var(--sage); } .p-rose { background: var(--rose); }
-
-  /* Feature cards */
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin-top: 40px; }
-  .card {
-    background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 24px;
-    transition: transform .35s cubic-bezier(.22,.61,.36,1), box-shadow .35s, border-color .35s;
+  .bookwrap { animation: floaty 6s ease-in-out infinite; filter: drop-shadow(0 40px 34px rgba(18,35,68,.30)); }
+  .face { position:absolute; backface-visibility:hidden; }
+  .cover {
+    width:220px; height:312px; border-radius: 8px 16px 16px 8px;
+    transform: translateZ(26px);
+    background: #14213f; overflow:hidden;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,.06);
   }
-  .card:hover { transform: translateY(-6px); box-shadow: 0 16px 34px rgba(18,35,68,.12); border-color: #C3CCDC; }
-  .card .ico {
-    width: 44px; height: 44px; border-radius: 12px; background: #EEF1F6;
-    display: flex; align-items: center; justify-content: center; font-size: 20px;
+  .cover img { width:100%; height:100%; object-fit: cover; opacity:.96; }
+  .backc { width:220px; height:312px; border-radius: 8px 16px 16px 8px; transform: translateZ(-26px) rotateY(180deg); background: linear-gradient(160deg, #16244a, #0d1830); }
+  .spine { width:52px; height:312px; transform: rotateY(-90deg) translateZ(26px); transform-origin: left; left:0; background: linear-gradient(90deg, #8a5423, #5d3919 70%, #4a2c10); border-radius: 6px 0 0 6px; }
+  .pages { width:50px; height:300px; top:6px; transform: rotateY(90deg) translateZ(194px); transform-origin: left; left:0;
+    background: repeating-linear-gradient(90deg, #f2ead6 0 3px, #e0d5ba 3px 4px); border-radius: 2px; }
+  .ptop { width:220px; height:50px; transform: rotateX(90deg) translateZ(31px); transform-origin: top; top:0;
+    background: repeating-linear-gradient(0deg, #f2ead6 0 3px, #e0d5ba 3px 4px); }
+  .orbit { position:absolute; font-size:.68rem; letter-spacing:.14em; font-weight:700; color:var(--navy);
+    background: rgba(255,255,255,.85); backdrop-filter: blur(8px); border:1px solid var(--border);
+    border-radius:999px; padding: 7px 13px; box-shadow: 0 8px 20px rgba(18,35,68,.12); white-space:nowrap; }
+  .o1 { top: 8%; right: -12%; animation: floaty 5s ease-in-out infinite; }
+  .o2 { bottom: 20%; left: -20%; animation: floaty 6.4s ease-in-out infinite reverse; }
+  .o3 { bottom: -4%; right: -6%; animation: floaty 5.7s ease-in-out infinite; }
+  @media (max-width:900px){ .o2 { left: -4%; } .o1 { right: -2%; } }
+  .scroll-cue { position:absolute; bottom: 26px; left:50%; transform:translateX(-50%); color:var(--faint); font-size:.72rem; letter-spacing:.22em; animation: floaty 3s ease-in-out infinite; z-index: 2; }
+
+  /* ============ sections ============ */
+  section { padding: 84px 6vw; position:relative; }
+  .wrap { max-width: 1160px; margin: 0 auto; }
+  h2.t { font-family:var(--serif); font-size: clamp(1.8rem,3.8vw,2.6rem); color:var(--navy); line-height:1.18; margin-top:10px; }
+  .sub { color:var(--muted); max-width:560px; margin-top:12px; }
+  .center{ text-align:center; } .center .sub{ margin-left:auto; margin-right:auto; }
+
+  /* today */
+  .greet { font-family:var(--serif); font-weight:700; font-size: clamp(1.6rem,3.4vw,2.2rem); color:var(--navy); }
+  .tg { display:grid; grid-template-columns: repeat(auto-fit,minmax(300px,1fr)); gap:18px; margin-top:30px; }
+  .sotd { grid-column: 1 / -1; background: linear-gradient(135deg, #DCE6F3, #D2DFF0 55%, #E2EAF6); border-radius: 26px; padding: 36px; position:relative; overflow:hidden; }
+  .sotd::after { content:""; position:absolute; width:300px; height:300px; border-radius:50%; background:rgba(255,255,255,.5); filter:blur(60px); top:-100px; right:-60px; }
+  .k2 { font-size:.68rem; letter-spacing:.24em; font-weight:700; color:var(--navy); position:relative; z-index:1; }
+  .vtxt { font-family:var(--serif); font-size: clamp(1.2rem,2.5vw,1.65rem); line-height:1.7; color:var(--navy); margin-top:16px; max-width: 820px; position:relative; z-index:1; }
+  .vref { font-family:var(--serif); font-style:italic; color:var(--navy2); margin-top:12px; position:relative; z-index:1; }
+  .srow { display:flex; gap:10px; margin-top:22px; flex-wrap:wrap; position:relative; z-index:1; }
+  .sb1 { background:var(--navy); color:#fff; border-radius:22px; padding: 12px 22px; font-size:.88rem; font-weight:700; display:inline-block; transition: transform .25s; }
+  .sb1:hover{ transform:translateY(-3px); }
+  .sb2 { background:#fff; color:var(--navy); border:none; border-radius:22px; padding: 12px 22px; font-size:.88rem; font-weight:700; transition: transform .25s; }
+  .sb2:hover{ transform:translateY(-3px); }
+  .bcard { background:var(--card); border:1px solid var(--border); border-radius: 24px; padding: 30px; display:flex; flex-direction:column; box-shadow: 0 2px 8px rgba(18,35,68,.04); }
+  .bcard .k2 { color: var(--gold-deep); }
+  .bcard h3 { font-family:var(--serif); font-size:1.3rem; color:var(--navy); margin-top:12px; }
+  .devtxt { font-family:var(--serif); font-size:.96rem; line-height:1.85; color:var(--ink); margin-top:12px; }
+  .more { margin-top:16px; font-size:.85rem; font-weight:700; color:var(--gold-deep); }
+  .qsub { font-size:.9rem; color:var(--muted); margin-top:10px; line-height:1.7; }
+  .qgo { margin-top:auto; padding-top:20px; }
+  .qgo button { background:var(--navy); color:#fff; border:none; border-radius:14px; padding: 13px 32px; font-size:.95rem; font-weight:700; transition: transform .25s; }
+  .qgo button:hover { transform:translateY(-2px); }
+  .qprompt { font-family:var(--serif); font-size:1.05rem; color:var(--navy); line-height:1.6; margin-top:12px; font-weight:700; }
+  .qquote { background:var(--blue); border-left:3px solid var(--gold-deep); border-radius:12px; padding:12px 14px; margin-top:12px; font-family:var(--serif); font-style:italic; font-size:.93rem; line-height:1.7; color:var(--navy); }
+  .qopts { display:flex; flex-direction:column; gap:8px; margin-top:14px; }
+  .qopt { text-align:left; background:var(--bg); border:1px solid var(--border); border-radius:12px; padding:11px 14px; font-size:.88rem; color:var(--ink); transition: transform .2s; }
+  .qopt:hover { transform:translateX(4px); }
+  .qopt.right { background:#E2F0DF; border-color:#5C8A5A; }
+  .qopt.wrong { background:#F7E3E1; border-color:#C2726B; }
+  .qmeta { font-size:.78rem; color:var(--faint); margin-top:12px; }
+
+  /* reader showcase */
+  .show { display:grid; grid-template-columns: .9fr 1.1fr; gap: 6vw; align-items:center; }
+  @media (max-width:900px){ .show { grid-template-columns:1fr; } }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:22px; }
+  .chip { font-size:.76rem; font-weight:700; color:var(--navy); background:#EEF1F6; border:1px solid var(--border); border-radius:999px; padding: 8px 14px; }
+  .mock { perspective: 1200px; }
+  .mock-in {
+    background:var(--card); border:1px solid var(--border); border-radius: 20px; overflow:hidden;
+    box-shadow: 0 30px 70px rgba(18,35,68,.18); transform: rotateY(-8deg) rotateX(4deg);
+    transition: transform .5s cubic-bezier(.22,.61,.36,1);
   }
-  .card h3 { font-family: var(--serif); font-size: 1.08rem; color: var(--navy); margin-top: 14px; }
-  .card p { font-size: .88rem; color: var(--muted); margin-top: 6px; }
+  .mock:hover .mock-in { transform: rotateY(0) rotateX(0); }
+  .m-head { display:flex; justify-content:space-between; align-items:center; padding: 12px 18px; border-bottom:1px solid #EDEAE2; font-size:.8rem; }
+  .m-title { font-family:var(--serif); font-weight:700; color:var(--navy); }
+  .m-title span{ color:var(--gold); }
+  .m-body { display:grid; grid-template-columns: 1.25fr .75fr; min-height: 300px; }
+  .m-text { padding: 20px 22px; font-family:var(--serif); font-size:.82rem; line-height: 1.95; color:var(--ink); }
+  .m-text sup { color: var(--gold); font-size:.6em; font-weight:700; margin-right:2px; }
+  .m-panel { background:#ECEDEF; border-left:1px solid var(--border); padding: 14px; }
+  .m-tones { display:flex; background:#E2E4E8; border-radius: 14px; padding:3px; margin-bottom:10px; }
+  .m-tone { flex:1; text-align:center; font-size:.5rem; letter-spacing:.08em; font-weight:700; color:var(--muted); padding:6px 0; border-radius:11px; }
+  .m-tone.on { background:var(--navy); color:#fff; }
+  .m-com { font-family:var(--serif); font-size:.68rem; line-height:1.75; color:var(--ink); }
+  .m-com b { display:block; font-size:.82rem; color:var(--navy); margin-bottom:5px; }
 
-  /* Story fan */
-  .story-wrap { background: var(--navy); border-radius: 30px; padding: 60px 6vw 70px; overflow: hidden; position: relative; }
-  .story-wrap .kicker { color: #D4B87A; }
-  .story-wrap h2.title { color: #fff; }
-  .story-wrap .sub { color: rgba(255,255,255,.75); }
-  .story-glow { position:absolute; width: 400px; height: 400px; border-radius: 50%; background: rgba(196,149,42,.18); filter: blur(80px); top: -100px; right: -80px; animation: shimmer 6s ease-in-out infinite; }
-  .fan { display: flex; gap: 14px; margin-top: 44px; justify-content: center; flex-wrap: wrap; }
-  .scard {
-    width: 150px; min-height: 200px; border-radius: 18px; padding: 16px 14px;
-    transition: transform .4s cubic-bezier(.22,.61,.36,1);
-    box-shadow: 0 12px 26px rgba(0,0,0,.28);
+  /* vision */
+  .pillars { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:18px; margin-top: 38px; }
+  .pillar { border-radius: 26px; padding: 34px 28px; position:relative; overflow:hidden; }
+  .pillar .big { font-family:var(--serif); font-size: 4.4rem; font-weight:700; position:absolute; top: -12px; right: 14px; color: rgba(18,35,68,.10); }
+  .pillar h3 { font-family:var(--serif); font-size:1.35rem; color:var(--navy); position:relative; }
+  .pillar p { font-size:.92rem; color:#33405C; margin-top:10px; position:relative; }
+  .p1{ background: var(--blue); } .p2{ background: var(--sage); } .p2 p{ color:#2E3B26; } .p3{ background: var(--rose); } .p3 p{ color:#4A342C; }
+
+  /* story fan */
+  .storywrap { background: radial-gradient(circle at 80% 0%, #1E3158, var(--navy) 55%); border-radius: 34px; padding: 70px 6vw 80px; overflow:hidden; position:relative; }
+  .storywrap .kick { color:#D4B87A; } .storywrap h2.t{ color:#fff; } .storywrap .sub{ color:rgba(255,255,255,.75); }
+  .fan { display:flex; gap:16px; margin-top: 48px; justify-content:center; flex-wrap:wrap; perspective: 900px; }
+  .scd { width:156px; min-height: 208px; border-radius: 18px; padding: 16px 14px; box-shadow: 0 16px 34px rgba(0,0,0,.32); transition: transform .45s cubic-bezier(.22,.61,.36,1); }
+  .scd:nth-child(odd){ transform: rotate(-4deg) translateY(8px); } .scd:nth-child(even){ transform: rotate(3deg); }
+  .scd:hover { transform: rotate(0) translateY(-14px) scale(1.05) rotateX(6deg); z-index:2; }
+  .scd .tg2 { font-size:.58rem; letter-spacing:.18em; font-weight:700; }
+  .scd .tx { font-family:var(--serif); font-size:.8rem; line-height:1.6; margin-top:10px; }
+  .c1{background:var(--blue);color:var(--navy)} .c2{background:#fff;color:var(--ink)} .c3{background:var(--sage);color:#26331F}
+  .c4{background:#1B2A4A;color:#fff;border:1px solid rgba(212,184,122,.35)} .c5{background:var(--slate);color:#fff}
+
+  /* stats + give */
+  .stats { display:grid; grid-template-columns: repeat(auto-fit,minmax(170px,1fr)); gap:14px; margin-top: 38px; }
+  .stat { background:var(--card); border:1px solid var(--border); border-radius: 20px; padding: 30px 18px; text-align:center; }
+  .stat .n { font-family:var(--serif); font-size:2.1rem; font-weight:700; color:var(--navy); }
+  .stat .l { font-size:.78rem; color:var(--muted); font-weight:600; margin-top:4px; }
+  .give {
+    background: linear-gradient(120deg, #D9E3F2, #E9EFF7 55%, #DCE6F3); background-size: 200% 200%;
+    animation: band 12s ease-in-out infinite; border-radius: 30px; padding: 54px 6vw; text-align:center;
   }
-  .scard:nth-child(odd) { transform: rotate(-3.5deg) translateY(6px); }
-  .scard:nth-child(even) { transform: rotate(2.5deg); }
-  .scard:hover { transform: rotate(0) translateY(-10px) scale(1.04); z-index: 2; }
-  .scard .tag { font-size: .58rem; letter-spacing: .18em; font-weight: 700; }
-  .scard .txt { font-family: var(--serif); font-size: .8rem; line-height: 1.55; margin-top: 10px; }
-  .sc1 { background: var(--blue); color: var(--navy); }
-  .sc2 { background: #fff; color: var(--ink); }
-  .sc3 { background: var(--sage); color: #26331F; }
-  .sc4 { background: #1B2A4A; color: #fff; border: 1px solid rgba(212,184,122,.35); }
-  .sc5 { background: var(--slate); color: #fff; }
+  @keyframes band { 0%,100%{background-position:0% 50%} 50%{background-position:100% 50%} }
+  .give h2 { font-family:var(--serif); font-size:clamp(1.6rem,3vw,2.1rem); color:var(--navy); }
+  .give h2 em { font-style:normal; color:var(--gold-deep); }
+  .give p { color:#3A4358; max-width: 520px; margin: 12px auto 0; font-size:.95rem; }
+  .give a { display:inline-block; margin-top: 24px; background:var(--bg); border:1.5px solid var(--navy); color:var(--navy); border-radius:16px; padding: 14px 40px; font-weight:700; transition: transform .25s; }
+  .give a:hover { transform: translateY(-3px); }
 
-  /* Stats */
-  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-top: 40px; }
-  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 26px 18px; text-align: center; }
-  .stat .n { font-family: var(--serif); font-size: 2rem; font-weight: 700; color: var(--navy); }
-  .stat .l { font-size: .78rem; color: var(--muted); font-weight: 600; margin-top: 4px; }
-
-  /* Giving band */
-  .give-band {
-    background: linear-gradient(120deg, #D9E3F2, #E9EFF7 55%, #DCE6F3);
-    background-size: 200% 200%; animation: bandshift 12s ease-in-out infinite;
-    border-radius: 26px; padding: 46px 6vw; text-align: center;
-  }
-  @keyframes bandshift { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
-  .give-band h2 { font-family: var(--serif); font-size: clamp(1.5rem,3vw,2rem); color: var(--navy); }
-  .give-band h2 em { font-style: normal; color: var(--gold-deep); }
-  .give-band p { color: #3A4358; max-width: 520px; margin: 10px auto 0; font-size: .95rem; }
-
-
-  /* ---------- Today cards ---------- */
-  .today-greet { font-family: var(--serif); font-size: clamp(1.5rem,3.4vw,2.1rem); color: var(--navy); font-weight: 700; }
-  .today-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 16px; margin-top: 26px; }
-  .sotd {
-    grid-column: 1 / -1; background: var(--blue); border-radius: 24px; padding: 30px;
-    position: relative; overflow: hidden;
-  }
-  .sotd .k2 { font-size: .7rem; letter-spacing: .22em; font-weight: 700; color: var(--navy); }
-  .sotd .vtxt { font-family: var(--serif); font-size: clamp(1.15rem, 2.4vw, 1.5rem); line-height: 1.75; color: var(--navy); margin-top: 14px; max-width: 780px; }
-  .sotd .vref { font-family: var(--serif); font-style: italic; color: var(--navy); margin-top: 12px; }
-  .sotd .row { display: flex; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
-  .sotd .b1 { background: var(--navy); color: #fff; border-radius: 22px; padding: 11px 20px; font-size: .88rem; font-weight: 700; transition: transform .25s; display: inline-block; }
-  .sotd .b1:hover { transform: translateY(-2px); }
-  .sotd .b2 { background: #fff; color: var(--navy); border-radius: 22px; padding: 11px 20px; font-size: .88rem; font-weight: 700; cursor: pointer; transition: transform .25s; border: none; font-family: var(--sans); }
-  .sotd .b2:hover { transform: translateY(-2px); }
-  .bigcard { background: var(--card); border: 1px solid var(--border); border-radius: 22px; padding: 26px; display: flex; flex-direction: column; transition: transform .35s, box-shadow .35s; }
-  .bigcard:hover { transform: translateY(-6px); box-shadow: 0 16px 34px rgba(18,35,68,.12); }
-  .bigcard .k2 { font-size: .68rem; letter-spacing: .22em; font-weight: 700; color: var(--gold-deep); }
-  .bigcard h3 { font-family: var(--serif); font-size: 1.25rem; color: var(--navy); margin-top: 10px; }
-  .dev-txt { font-family: var(--serif); font-size: .95rem; line-height: 1.8; color: var(--ink); margin-top: 12px; }
-  .dev-more { margin-top: 14px; font-size: .85rem; font-weight: 700; color: var(--gold-deep); }
-  .quiz-sub { font-size: .88rem; color: var(--muted); margin-top: 8px; line-height: 1.65; }
-  .quiz-go { margin-top: auto; padding-top: 18px; }
-  .quiz-go button, .qopt { font-family: var(--sans); cursor: pointer; }
-  .quiz-go button { background: var(--navy); color: #fff; border: none; border-radius: 14px; padding: 13px 30px; font-size: .95rem; font-weight: 700; transition: transform .25s; }
-  .quiz-go button:hover { transform: translateY(-2px); }
-  .qprompt { font-family: var(--serif); font-size: 1.02rem; color: var(--navy); line-height: 1.6; margin-top: 12px; font-weight: 700; }
-  .qquote { background: var(--blue); border-left: 3px solid var(--gold-deep); border-radius: 12px; padding: 12px 14px; margin-top: 12px; font-family: var(--serif); font-style: italic; font-size: .93rem; line-height: 1.7; color: var(--navy); }
-  .qopts { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
-  .qopt { text-align: left; background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 11px 14px; font-size: .88rem; color: var(--ink); transition: transform .2s; }
-  .qopt:hover { transform: translateX(4px); }
-  .qopt.right { background: #E2F0DF; border-color: #5C8A5A; }
-  .qopt.wrong { background: #F7E3E1; border-color: #C2726B; }
-  .qmeta { font-size: .78rem; color: var(--faint); margin-top: 12px; }
-
-  footer { margin: 40px 6vw 0; padding: 26px 0 40px; text-align: center; border-top: 1px solid rgba(18,35,68,0.10); }
-  footer .foot-tag { font-family: var(--serif); font-style: italic; color: var(--faint); font-size: 0.95rem; margin-bottom: 10px; }
-  footer .foot-links { font-size: 0.85rem; margin-bottom: 8px; }
-  footer .foot-links a { color: var(--muted); font-weight: 600; }
-  footer .foot-links a:hover { color: var(--navy); }
-  footer .foot-copy { font-size: 0.8rem; color: #A6AEBE; }
+  footer { margin: 46px 6vw 0; padding: 28px 0 44px; text-align:center; border-top:1px solid rgba(18,35,68,.10); }
+  footer .ft { font-family:var(--serif); font-style:italic; color:var(--faint); font-size:.95rem; margin-bottom:10px; }
+  footer .fl { font-size:.85rem; margin-bottom:8px; }
+  footer .fl a { color:var(--muted); font-weight:600; } footer .fl a:hover{ color:var(--navy); }
+  footer .fc { font-size:.8rem; color:#A6AEBE; }
 </style>
 </head>
 <body>
 
 <nav>
   <a class="brand" href="./index.html">Ap<em>e</em>rio</a>
-  <div class="nav-links">
-    <a href="./read/">Read</a>
-    <a href="#vision">Vision</a>
-    <a href="#features">Features</a>
-    <a href="./give.html">Give</a>
-    <a href="./support.html">Support</a>
-    <a class="pill-cta" href="https://apps.apple.com/app/id6763618868"> Download</a>
-  </div>
+  <a class="nl" href="./read/">Read</a>
+  <a class="nl" href="#today">Today</a>
+  <a class="nl" href="#vision">Vision</a>
+  <a class="nl" href="./give.html">Give</a>
+  <a class="n-cta" href="./read/">Open the Bible</a>
 </nav>
 
-<header class="hero">
+<header class="hero" id="hero">
   <div class="glow g1"></div><div class="glow g2"></div><div class="glow g3"></div>
-  <div class="hero-inner">
-    <img class="app-icon" src="./assets/app-icon.png" alt="Aperio Bible app icon" />
-    <h1><span class="w">Where</span> <span class="w">the</span> <span class="w">Word</span> <span class="w">opens.</span></h1>
-    <p class="lede">The only Bible app with its own translation — the New Clavis Translation — built to be read alongside its own commentary. Free. Offline. No ads, ever.</p>
-    <div class="ctas">
-      <a class="btn-store" href="https://apps.apple.com/app/id6763618868"> Download on the App Store</a>
-      <a class="btn-ghost" href="./read/">Read it online →</a>
+  <div class="hero-grid">
+    <div>
+      <div class="kick">Aperio Bible · Free Forever</div>
+      <h1><span class="w">Where</span> <span class="w">the</span> <span class="w">Word</span> <span class="w">opens.</span></h1>
+      <p class="lede">The only Bible with its own translation and its own commentary — read it right here in your browser, or carry it in your pocket. No account. No ads. Ever.</p>
+      <div class="ctas">
+        <a class="b-read" href="./read/">📖 Start reading — free</a>
+        <a class="b-app" href="https://apps.apple.com/app/id6763618868"> Get the app</a>
+      </div>
+      <div class="fine">31,080 verses · Commentary in three voices · Works offline in the app</div>
     </div>
-    <div class="fine">Free forever · iPhone · No account required</div>
-  </div>
-</header>
-
-
-<section id="today">
-  <div class="reveal">
-    <div class="kicker">Today at Aperio</div>
-    <div class="today-greet" id="greet">Hello, friend.</div>
-  </div>
-  <div class="today-grid">
-    <div class="sotd reveal" id="sotd">
-      <div class="k2">SCRIPTURE OF THE DAY</div>
-      <div class="vtxt" id="sotd-txt">Loading today's verse…</div>
-      <div class="vref" id="sotd-ref"></div>
-      <div class="row">
-        <a class="b1" id="sotd-read" href="./read/">Read the chapter</a>
-        <button class="b2" id="sotd-share">⤴ Share</button>
+    <div class="scene">
+      <div class="bookwrap">
+        <div class="book" id="book">
+          <div class="face backc"></div>
+          <div class="face pages"></div>
+          <div class="face ptop"></div>
+          <div class="face spine"></div>
+          <div class="face cover"><img src="./assets/app-icon.png" alt="Aperio Bible" /></div>
+          <div class="orbit o1">🗝️ STUDY CENTER</div>
+          <div class="orbit o2">✨ NEW CLAVIS TRANSLATION</div>
+          <div class="orbit o3">🌅 DAILY STORIES</div>
+        </div>
       </div>
     </div>
-    <div class="bigcard reveal d1" id="devcard">
-      <div class="k2">TODAY'S DEVOTION</div>
-      <h3 id="dev-title">From today's chapter</h3>
-      <div class="dev-txt" id="dev-txt">Loading…</div>
-      <a class="dev-more" id="dev-more" href="./read/">Read the full chapter →</a>
+  </div>
+  <div class="scroll-cue">SCROLL ↓</div>
+</header>
+
+<section id="today">
+  <div class="wrap">
+    <div class="rv">
+      <div class="kick">Today at Aperio</div>
+      <div class="greet" id="greet">Hello, friend.</div>
     </div>
-    <div class="bigcard reveal d2" id="quizcard">
-      <div class="k2">DAILY QUIZ</div>
-      <h3 id="quiz-title">Today's Quiz</h3>
-      <div class="quiz-sub" id="quiz-sub">Seven questions from today's passage — the same quiz, for everyone, new each morning.</div>
-      <div id="quiz-area"></div>
-      <div class="quiz-go" id="quiz-go"><button onclick="startQuiz()">Start Quiz</button></div>
+    <div class="tg">
+      <div class="sotd rv" data-tilt>
+        <div class="k2">SCRIPTURE OF THE DAY</div>
+        <div class="vtxt" id="sotd-txt">Loading today's verse…</div>
+        <div class="vref" id="sotd-ref"></div>
+        <div class="srow">
+          <a class="sb1" id="sotd-read" href="./read/">Read the chapter</a>
+          <button class="sb2" id="sotd-share">⤴ Share</button>
+        </div>
+      </div>
+      <div class="bcard rv d1" data-tilt>
+        <div class="k2">TODAY'S DEVOTION</div>
+        <h3 id="dev-title">From today's chapter</h3>
+        <div class="devtxt" id="dev-txt">Loading…</div>
+        <a class="more" id="dev-more" href="./read/">Read the full chapter →</a>
+      </div>
+      <div class="bcard rv d2" data-tilt>
+        <div class="k2">DAILY QUIZ</div>
+        <h3 id="quiz-title">Today's Quiz</h3>
+        <div class="qsub" id="quiz-sub">Seven questions from today's passage — the same quiz for everyone, new each morning.</div>
+        <div id="quiz-area"></div>
+        <div class="qgo" id="quiz-go"><button onclick="startQuiz()">Start Quiz</button></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap show">
+    <div class="rv">
+      <div class="kick">The online Bible</div>
+      <h2 class="t">Your Study Center,<br/>in every browser.</h2>
+      <p class="sub">The full New Clavis Translation with the same Study Center as the app — commentary in three voices beside the text, cross references that leap across Scripture, and the original languages one search away.</p>
+      <div class="chips">
+        <span class="chip">🙏 Devotional</span><span class="chip">🎓 Scholarly</span><span class="chip">🔥 Prophetic</span>
+        <span class="chip">🔗 Cross References</span><span class="chip">🏛️ Strong's Lexicon</span>
+      </div>
+      <div class="ctas"><a class="b-read" href="./read/">Open the reader</a></div>
+    </div>
+    <div class="mock rv-s d1">
+      <div class="mock-in">
+        <div class="m-head">
+          <span style="color:var(--navy)">←</span>
+          <span class="m-title">Proverbs <span>13</span> ▾</span>
+          <span style="background:#fff;border:1px solid #E3E0D8;border-radius:10px;padding:3px 8px;font-weight:700;font-size:.66rem;color:var(--navy)">NCT</span>
+        </div>
+        <div class="m-body">
+          <div class="m-text">
+            <sup>1</sup>A wise son receives his father's instruction, but a mocker refuses to listen to correction.
+            <sup>2</sup>From the fruit of his lips a man eats what is good…
+            <sup>3</sup>The one who guards his mouth protects his life…
+          </div>
+          <div class="m-panel">
+            <div class="m-tones"><div class="m-tone on">DEVOTIONAL</div><div class="m-tone">SCHOLARLY</div><div class="m-tone">PROPHETIC</div></div>
+            <div class="m-com"><b>Proverbs 13: The Fruit of Listening</b>Wisdom begins with a posture — the willingness to be taught. The wise son is not smarter; he is softer…</div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
 <section id="vision">
-  <div class="center reveal">
-    <div class="kicker">The vision</div>
-    <h2 class="title">A free biblical resource,<br/>with one purpose.</h2>
-    <p class="sub">Aperio exists to help people get closer to God, get encouraged, and grow curious about who He has called them to be.</p>
-  </div>
-  <div class="pillars">
-    <div class="pillar p-blue reveal d1">
-      <div class="num">01</div>
-      <h3>Get closer to God</h3>
-      <p>All 66 books, a Study Center with commentary in three voices, and the original languages one tap away — depth without the seminary degree.</p>
+  <div class="wrap">
+    <div class="center rv">
+      <div class="kick">The vision</div>
+      <h2 class="t">A free biblical resource, with one purpose.</h2>
+      <p class="sub">Aperio exists to help people get closer to God, get encouraged, and grow curious about who He has called them to be.</p>
     </div>
-    <div class="pillar p-sage reveal d2">
-      <div class="num">02</div>
-      <h3>Be encouraged</h3>
-      <p>A Scripture every morning, told as a story — verse, devotion, reflection, and prayer. A daily quiz. A prayer journal that remembers what God answered.</p>
+    <div class="pillars">
+      <div class="pillar p1 rv" data-tilt><div class="big">01</div><h3>Get closer to God</h3><p>All 66 books, commentary in three voices, and the original languages one tap away — depth without the seminary degree.</p></div>
+      <div class="pillar p2 rv d1" data-tilt><div class="big">02</div><h3>Be encouraged</h3><p>A Scripture every morning, told as a story — verse, devotion, reflection, and prayer. A daily quiz. A prayer journal that remembers what God answered.</p></div>
+      <div class="pillar p3 rv d2" data-tilt><div class="big">03</div><h3>Discover your calling</h3><p>Curiosity is holy. Cross references, word studies, and reading journeys built to make you ask, "Who has God called me to be?"</p></div>
     </div>
-    <div class="pillar p-rose reveal d3">
-      <div class="num">03</div>
-      <h3>Discover your calling</h3>
-      <p>Curiosity is holy. Cross references, word studies, and reading journeys built to make you lean in and ask, "Who has God called me to be?"</p>
-    </div>
-  </div>
-</section>
-
-<section id="features">
-  <div class="center reveal">
-    <div class="kicker">What's inside</div>
-    <h2 class="title">Everything you need. Nothing you don't.</h2>
-  </div>
-  <div class="grid">
-    <div class="card reveal"><div class="ico">📖</div><h3>Its own translation</h3><p>The New Clavis Translation — an original English rendering of all 66 books, made to be read with its commentary.</p></div>
-    <div class="card reveal d1"><div class="ico">🗝️</div><h3>The Study Center</h3><p>Commentary in three voices — Devotional, Scholarly, Prophetic — with cross references for every chapter.</p></div>
-    <div class="card reveal d2"><div class="ico">🏛️</div><h3>Original languages</h3><p>Tap any gold word for Strong's Hebrew and Greek — 14,197 lexicon entries, fully offline.</p></div>
-    <div class="card reveal d3"><div class="ico">🌅</div><h3>Scripture of the Day</h3><p>Each morning's verse, told as a story you can tap through — and delivered as a private daily notification.</p></div>
-    <div class="card reveal d4"><div class="ico">🙏</div><h3>Prayer journal</h3><p>A quiet place to bring requests, keep a streak, and mark the moment a prayer is answered.</p></div>
-    <div class="card reveal d5"><div class="ico">✈️</div><h3>Offline &amp; private</h3><p>The entire Bible, commentary, and lexicon live on your phone. No account needed. Your faith data is never sold.</p></div>
   </div>
 </section>
 
 <section>
-  <div class="story-wrap">
-    <div class="story-glow"></div>
-    <div class="center reveal">
-      <div class="kicker">The story experience</div>
-      <h2 class="title">Scripture, one card at a time.</h2>
-      <p class="sub" style="margin-left:auto;margin-right:auto;">Tap "Read Today's Story" and the day's verse unfolds — slowly, beautifully, the way the Word deserves.</p>
+  <div class="wrap storywrap">
+    <div class="center rv">
+      <div class="kick">The story experience</div>
+      <h2 class="t">Scripture, one card at a time.</h2>
+      <p class="sub" style="margin-left:auto;margin-right:auto;">In the app, each day's verse unfolds like a story — slowly, beautifully, the way the Word deserves.</p>
     </div>
     <div class="fan">
-      <div class="scard sc1 reveal"><div class="tag" style="color:#122344;">SCRIPTURE</div><div class="txt">"His divine power has already handed us everything we need for life and godliness…"</div></div>
-      <div class="scard sc2 reveal d1"><div class="tag" style="color:#9A6E1A;">DEVOTION</div><div class="txt">Those who belong to Christ possess everything necessary for a thriving spiritual life…</div></div>
-      <div class="scard sc3 reveal d2"><div class="tag" style="color:#26331F;">REFLECT</div><div class="txt">What would it look like to actually live this before the day ends?</div></div>
-      <div class="scard sc4 reveal d3"><div class="tag" style="color:#D4B87A;">PRAY</div><div class="txt">Father, plant Your Word deep in me today. Make it the shape of my life. Amen.</div></div>
-      <div class="scard sc5 reveal d4"><div class="tag" style="color:#fff;">SHARE</div><div class="txt">Send today's verse to someone who needs it — straight from the story.</div></div>
+      <div class="scd c1 rv"><div class="tg2" style="color:#122344">SCRIPTURE</div><div class="tx">"His divine power has already handed us everything we need for life and godliness…"</div></div>
+      <div class="scd c2 rv d1"><div class="tg2" style="color:#9A6E1A">DEVOTION</div><div class="tx">Those who belong to Christ possess everything necessary for a thriving spiritual life…</div></div>
+      <div class="scd c3 rv d2"><div class="tg2" style="color:#26331F">REFLECT</div><div class="tx">What would it look like to actually live this before the day ends?</div></div>
+      <div class="scd c4 rv d3"><div class="tg2" style="color:#D4B87A">PRAY</div><div class="tx">Father, plant Your Word deep in me today. Make it the shape of my life. Amen.</div></div>
+      <div class="scd c5 rv d4"><div class="tg2" style="color:#fff">SHARE</div><div class="tx">Send today's verse to someone who needs it — straight from the story.</div></div>
     </div>
   </div>
 </section>
 
 <section>
-  <div class="center reveal">
-    <div class="kicker">By the numbers</div>
-    <h2 class="title">The whole counsel of God, in your pocket.</h2>
-  </div>
-  <div class="stats">
-    <div class="stat reveal"><div class="n" data-count="66">0</div><div class="l">Books</div></div>
-    <div class="stat reveal d1"><div class="n" data-count="31080">0</div><div class="l">Verses, newly translated</div></div>
-    <div class="stat reveal d2"><div class="n" data-count="1189">0</div><div class="l">Chapters of commentary</div></div>
-    <div class="stat reveal d3"><div class="n" data-count="14197">0</div><div class="l">Lexicon entries</div></div>
+  <div class="wrap">
+    <div class="center rv">
+      <div class="kick">By the numbers</div>
+      <h2 class="t">The whole counsel of God, in your pocket.</h2>
+    </div>
+    <div class="stats">
+      <div class="stat rv" data-tilt><div class="n" data-count="66">0</div><div class="l">Books</div></div>
+      <div class="stat rv d1" data-tilt><div class="n" data-count="31080">0</div><div class="l">Verses, newly translated</div></div>
+      <div class="stat rv d2" data-tilt><div class="n" data-count="1189">0</div><div class="l">Chapters of commentary</div></div>
+      <div class="stat rv d3" data-tilt><div class="n" data-count="14197">0</div><div class="l">Lexicon entries</div></div>
+    </div>
   </div>
 </section>
 
 <section>
-  <div class="give-band reveal">
+  <div class="wrap give rv">
     <h2>Keep the Word <em>open.</em></h2>
     <p>No ads. No subscriptions. No selling your data. Aperio stays free for everyone through the generosity of people like you.</p>
-    <div class="ctas" style="display:flex;justify-content:center;margin-top:22px;">
-      <a class="btn-ghost" href="./give.html" style="background:#F7F7F8;">Give Now</a>
-    </div>
+    <a href="./give.html">Give Now</a>
   </div>
 </section>
 
 <footer>
-  <p class="foot-tag">Where the Word opens.</p>
-  <p class="foot-links">
+  <p class="ft">Where the Word opens.</p>
+  <p class="fl">
+    <a href="./read/">Read</a> ·
     <a href="./support.html">Support</a> ·
     <a href="./give.html">Give</a> ·
     <a href="./terms.html">Terms of Use</a> ·
     <a href="./privacy.html">Privacy Policy</a> ·
     <a href="mailto:support@aperiobible.app">Contact</a>
   </p>
-  <p class="foot-copy">© 2026 Aperio</p>
+  <p class="fc">© 2026 Aperio</p>
 </footer>
 
 <script>
-  // Scroll reveals
-  var io = new IntersectionObserver(function(entries){
-    entries.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
-  }, { threshold: 0.15 });
-  document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+/* reveals */
+var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} }); }, { threshold:.14 });
+document.querySelectorAll('.rv,.rv-s').forEach(function(el){ io.observe(el); });
 
-  // Count-up stats
-  var cio = new IntersectionObserver(function(entries){
-    entries.forEach(function(e){
-      if (!e.isIntersecting) return;
-      var el = e.target, target = parseInt(el.getAttribute('data-count'), 10), start = null;
-      function step(ts){
-        if (!start) start = ts;
-        var p = Math.min((ts - start) / 1400, 1);
-        el.textContent = Math.round(target * (1 - Math.pow(1 - p, 3))).toLocaleString();
-        if (p < 1) requestAnimationFrame(step);
-      }
-      requestAnimationFrame(step);
-      cio.unobserve(el);
+/* count-up */
+var cio = new IntersectionObserver(function(es){ es.forEach(function(e){
+  if(!e.isIntersecting) return; var el = e.target, t = +el.getAttribute('data-count'), s = null;
+  function step(ts){ if(!s) s = ts; var p = Math.min((ts-s)/1400,1); el.textContent = Math.round(t*(1-Math.pow(1-p,3))).toLocaleString(); if(p<1) requestAnimationFrame(step); }
+  requestAnimationFrame(step); cio.unobserve(el);
+}); }, { threshold:.6 });
+document.querySelectorAll('[data-count]').forEach(function(el){ cio.observe(el); });
+
+/* hero: pointer parallax on the 3D book + glows */
+var hero = document.getElementById('hero'), book = document.getElementById('book'), raf = null;
+if (matchMedia('(pointer:fine)').matches && !matchMedia('(prefers-reduced-motion: reduce)').matches){
+  hero.addEventListener('mousemove', function(ev){
+    if (raf) return;
+    raf = requestAnimationFrame(function(){
+      var r = hero.getBoundingClientRect();
+      var x = (ev.clientX - r.left)/r.width - .5, y = (ev.clientY - r.top)/r.height - .5;
+      book.style.animation = 'none';
+      book.style.transform = 'rotateY(' + (-24 + x*16) + 'deg) rotateX(' + (8 - y*12) + 'deg)';
+      raf = null;
     });
-  }, { threshold: 0.6 });
-  document.querySelectorAll('[data-count]').forEach(function(el){ cio.observe(el); });
-</script>
+  });
+  hero.addEventListener('mouseleave', function(){ book.style.animation = ''; book.style.transform = ''; });
+}
 
+/* gold sparks in hero */
+(function(){
+  for (var i=0;i<9;i++){
+    var s = document.createElement('div'); s.className = 'spark';
+    s.style.left = (8 + Math.random()*84) + '%';
+    s.style.top = (12 + Math.random()*70) + '%';
+    s.style.animationDelay = (Math.random()*5) + 's';
+    s.style.animationDuration = (4 + Math.random()*4) + 's';
+    hero.appendChild(s);
+  }
+})();
+
+/* tilt cards */
+if (matchMedia('(pointer:fine)').matches && !matchMedia('(prefers-reduced-motion: reduce)').matches){
+  document.querySelectorAll('[data-tilt]').forEach(function(el){
+    el.addEventListener('mousemove', function(ev){
+      var r = el.getBoundingClientRect();
+      var x = (ev.clientX - r.left)/r.width - .5, y = (ev.clientY - r.top)/r.height - .5;
+      el.style.transform = 'perspective(900px) rotateY(' + (x*5) + 'deg) rotateX(' + (-y*5) + 'deg) translateY(-4px)';
+    });
+    el.addEventListener('mouseleave', function(){ el.style.transform = ''; });
+  });
+}
+</script>
 <script>
 var ROT = [[43,3,16,"Love"],[19,23,1,"Provision"],[50,4,13,"Strength"],[24,29,11,"Hope"],[45,8,28,"Purpose"],[20,3,5,"Trust"],[23,40,31,"Renewal"],[19,46,1,"Refuge"],[40,11,28,"Rest"],[43,14,6,"Truth"],[19,119,105,"Guidance"],[45,12,2,"Transformation"],[48,5,22,"Fruitfulness"],[58,11,1,"Faith"],[40,6,33,"Provision"],[19,27,1,"Courage"],[23,41,10,"Courage"],[62,4,19,"Love"],[46,13,4,"Love"],[19,34,8,"Goodness"],[43,1,1,"The Word"],[45,5,8,"Grace"],[49,2,8,"Grace"],[19,139,14,"Identity"],[51,3,23,"Work"],[40,5,16,"Witness"],[66,21,4,"Comfort"],[23,53,5,"Healing"],[19,91,1,"Shelter"],[43,10,10,"Abundance"],[45,10,9,"Salvation"],[58,4,12,"The Word"],[59,1,5,"Wisdom"],[19,121,1,"Help"],[40,28,19,"Mission"],[43,15,5,"Abiding"],[47,5,17,"New Creation"],[50,1,6,"Assurance"],[19,37,4,"Delight"],[26,36,26,"Renewal"],[55,1,7,"Boldness"],[60,5,7,"Peace"],[43,16,33,"Overcoming"],[19,51,10,"Cleansing"],[42,6,31,"Kindness"],[40,22,37,"Love"],[49,6,10,"Strength"],[23,26,3,"Peace"],[19,118,24,"Joy"],[43,8,32,"Freedom"],[46,10,13,"Endurance"],[50,4,6,"Peace"],[62,1,9,"Forgiveness"],[20,16,9,"Guidance"],[24,33,3,"Prayer"],[45,15,13,"Hope"],[58,12,1,"Perseverance"],[19,100,4,"Thanksgiving"],[43,13,34,"Love"],[61,1,3,"Promise"],[40,7,7,"Prayer"],[19,19,1,"Glory"],[66,3,20,"Invitation"],[45,3,23,"Grace"],[51,2,6,"Rootedness"],[19,42,1,"Longing"],[43,11,25,"Resurrection"],[56,3,5,"Mercy"],[40,5,14,"Witness"],[30,5,24,"Justice"],[33,6,8,"Humility"],[35,3,17,"Joy"],[38,4,6,"The Spirit"]];
 function dayOfYear(){ var d = new Date(); return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - Date.UTC(d.getFullYear(),0,0)) / 864e5); }
-var V = ROT[dayOfYear() % ROT.length], CHD = null, DECOY = null;
+var V = ROT[dayOfYear() % ROT.length], CHD = null;
 
-(function greet(){
+(function(){
   var h = new Date().getHours(), g;
   if (h < 5) g = 'Peace to you tonight'; else if (h < 12) g = 'Good morning';
   else if (h < 17) g = 'Good afternoon'; else if (h < 21) g = 'Good evening'; else g = 'A quiet evening';
@@ -413,8 +476,8 @@ fetch('read/data/' + V[0] + '/' + V[1] + '.json').then(function(r){ return r.jso
   CHD = d;
   var vt = ''; d.v.forEach(function(x){ if (x[0] === V[2]) vt = x[1]; });
   var ref = d.name + ' ' + V[1] + ':' + V[2];
-  document.getElementById('sotd-txt').textContent = '\u201C' + vt.replace(/\s+/g,' ').trim() + '\u201D';
-  document.getElementById('sotd-ref').textContent = '\u2014 ' + ref + ' \u00B7 ' + V[3];
+  document.getElementById('sotd-txt').textContent = '“' + vt.replace(/\s+/g,' ').trim() + '”';
+  document.getElementById('sotd-ref').textContent = '— ' + ref + ' · ' + V[3];
   document.getElementById('sotd-read').href = './read/#' + V[0] + '.' + V[1];
   document.getElementById('dev-more').href = './read/#' + V[0] + '.' + V[1];
   document.getElementById('dev-title').textContent = d.name + ' ' + V[1];
@@ -422,15 +485,14 @@ fetch('read/data/' + V[0] + '/' + V[1] + '.json').then(function(r){ return r.jso
   document.getElementById('dev-txt').innerHTML = paras.slice(0,2).map(function(x){
     var e = document.createElement('div'); e.textContent = x; return '<p style="margin-bottom:10px">' + e.innerHTML + '</p>';
   }).join('');
-  document.getElementById('quiz-title').textContent = 'Today\u2019s Quiz \u00B7 ' + d.name + ' ' + V[1];
+  document.getElementById('quiz-title').textContent = 'Today’s Quiz · ' + d.name + ' ' + V[1];
   document.getElementById('sotd-share').onclick = function(){
-    var msg = '\u201C' + vt + '\u201D \u2014 ' + ref + '\n\nShared from Aperio \u00B7 aperiobible.app';
+    var msg = '“' + vt + '” — ' + ref + '\n\nShared from Aperio · aperiobible.app';
     if (navigator.share) navigator.share({ text: msg });
     else { navigator.clipboard.writeText(msg); this.textContent = 'Copied!'; }
   };
 });
 
-/* ---------- Daily quiz (same date-seeded logic as the app) ---------- */
 function mulberry32(seed){ return function(){ seed |= 0; seed = (seed + 0x6d2b79f5) | 0; var t = Math.imul(seed ^ (seed >>> 15), 1 | seed); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
 var QUIZ = null, QI = 0, QSCORE = 0;
 function buildQuiz(ch, decoy){
@@ -458,7 +520,7 @@ function buildQuiz(ch, decoy){
   var dsub = decoy.v.map(function(x){ return x[1].replace(/\s+/g,' ').trim(); }).filter(function(t){ return t.length >= 60 && t.length <= 300; });
   var dpool = shuffle(dsub);
   pool.slice(4,7).forEach(function(t, qi){
-    var snip = function(x){ return x.length > 110 ? x.slice(0, 107) + '\u2026' : x; };
+    var snip = function(x){ return x.length > 110 ? x.slice(0, 107) + '…' : x; };
     var opts = [snip(t)];
     for (var i = qi*3; i < qi*3+3 && i < dpool.length; i++) opts.push(snip(dpool[i]));
     var correct = opts[0]; opts = shuffle(opts);
@@ -470,7 +532,7 @@ function startQuiz(){
   var done = null;
   try { done = JSON.parse(localStorage.getItem('aperio:webquiz')); } catch(e){}
   var today = new Date().toISOString().slice(0,10);
-  if (done && done.d === today){ document.getElementById('quiz-area').innerHTML = '<div class="qprompt">Already done today \u2014 you scored ' + done.s + '/' + done.t + '. Come back tomorrow!</div>'; document.getElementById('quiz-go').style.display = 'none'; return; }
+  if (done && done.d === today){ document.getElementById('quiz-area').innerHTML = '<div class="qprompt">Already done today — you scored ' + done.s + '/' + done.t + '. Come back tomorrow!</div>'; document.getElementById('quiz-go').style.display = 'none'; return; }
   if (!CHD) return;
   var decoyRef = ROT[(dayOfYear() + 11) % ROT.length];
   fetch('read/data/' + decoyRef[0] + '/' + decoyRef[1] + '.json').then(function(r){ return r.json(); }).then(function(dd){
@@ -485,15 +547,15 @@ function renderQ(){
   if (QI >= QUIZ.length){
     var today = new Date().toISOString().slice(0,10);
     try { localStorage.setItem('aperio:webquiz', JSON.stringify({ d: today, s: QSCORE, t: QUIZ.length })); } catch(e){}
-    var msg = QSCORE === QUIZ.length ? 'Perfect \u2014 well done!' : QSCORE >= 3 ? 'Solid work. Keep reading!' : 'The Word rewards the diligent \u2014 read on!';
-    area.innerHTML = '<div class="qprompt" style="font-size:1.4rem">\uD83C\uDFC6 ' + QSCORE + ' / ' + QUIZ.length + '</div><div class="quiz-sub" style="display:block">' + msg + '</div>';
+    var msg = QSCORE === QUIZ.length ? 'Perfect — well done!' : QSCORE >= 3 ? 'Solid work. Keep reading!' : 'The Word rewards the diligent — read on!';
+    area.innerHTML = '<div class="qprompt" style="font-size:1.4rem">🏆 ' + QSCORE + ' / ' + QUIZ.length + '</div><div class="qsub" style="display:block">' + msg + '</div>';
     return;
   }
   var q = QUIZ[QI], html = '<div class="qmeta">Question ' + (QI+1) + ' of ' + QUIZ.length + '</div><div class="qprompt">' + q.p + '</div>';
-  if (q.q){ var e = document.createElement('div'); e.textContent = q.q; html += '<div class="qquote">\u201C' + e.innerHTML + '\u201D</div>'; }
+  if (q.q){ var e = document.createElement('div'); e.textContent = q.q; html += '<div class="qquote">“' + e.innerHTML + '”</div>'; }
   html += '<div class="qopts">' + q.o.map(function(o,i){
     var e = document.createElement('div'); e.textContent = o;
-    return '<button class="qopt" data-i="' + i + '" onclick="answerQ(this,' + i + ')">' + e.innerHTML + '</button>';
+    return '<button class="qopt" onclick="answerQ(this,' + i + ')">' + e.innerHTML + '</button>';
   }).join('') + '</div>';
   area.innerHTML = html;
 }
@@ -505,6 +567,5 @@ function answerQ(el, i){
   setTimeout(function(){ QI++; renderQ(); }, 950);
 }
 </script>
-
 </body>
 </html>
