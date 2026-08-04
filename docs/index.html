@@ -16,6 +16,7 @@
   * { margin:0; padding:0; box-sizing:border-box; }
   html { scroll-behavior:smooth; }
   body { background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.7; overflow-x:hidden; }
+  #bgfx { position: fixed; inset: 0; z-index: -1; width: 100%; height: 100%; }
   a { text-decoration:none; color:inherit; } img { display:block; } button { font-family:var(--sans); cursor:pointer; }
 
   /* ============ motion primitives ============ */
@@ -283,6 +284,7 @@
 </style>
 </head>
 <body>
+<canvas id="bgfx"></canvas>
 
 <nav>
   <a class="brand" href="./index.html">Ap<em>e</em>rio</a>
@@ -294,7 +296,6 @@
 </nav>
 
 <header class="hero" id="hero">
-  <div class="glow g1"></div><div class="glow g2"></div><div class="glow g3"></div>
   <div class="hero-grid">
     <div>
       <div class="kick">Aperio Bible · Free Forever</div>
@@ -520,16 +521,50 @@ if (matchMedia('(pointer:fine)').matches && !matchMedia('(prefers-reduced-motion
   hero.addEventListener('mouseleave', function(){ book.style.animation = ''; book.style.transform = ''; });
 }
 
-/* gold sparks in hero */
+/* living background — drifting light + gold dust, page-wide */
 (function(){
-  for (var i=0;i<9;i++){
-    var s = document.createElement('div'); s.className = 'spark';
-    s.style.left = (8 + Math.random()*84) + '%';
-    s.style.top = (12 + Math.random()*70) + '%';
-    s.style.animationDelay = (Math.random()*5) + 's';
-    s.style.animationDuration = (4 + Math.random()*4) + 's';
-    hero.appendChild(s);
+  var cv = document.getElementById('bgfx'), cx = cv.getContext('2d');
+  var W, H, DPR = Math.min(window.devicePixelRatio || 1, 1.5);
+  var reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function size(){ W = innerWidth; H = innerHeight; cv.width = W*DPR; cv.height = H*DPR; cx.setTransform(DPR,0,0,DPR,0,0); }
+  size(); addEventListener('resize', size);
+  var blobs = [
+    { c:'217,227,242', r:.46, x:.16, y:.18, sx:.09, sy:.07, p:0.0, a:.85 },
+    { c:'196,149,42',  r:.34, x:.86, y:.30, sx:.07, sy:.09, p:2.1, a:.14 },
+    { c:'172,192,162', r:.38, x:.70, y:.82, sx:.08, sy:.06, p:4.2, a:.30 },
+    { c:'200,172,163', r:.30, x:.10, y:.88, sx:.06, sy:.08, p:1.3, a:.22 }
+  ];
+  var dust = [];
+  for (var i=0;i<36;i++) dust.push({ x: Math.random(), y: Math.random(), s: .8 + Math.random()*1.8, v: .00016 + Math.random()*.00030, p: Math.random()*6.28 });
+  var scrollY = 0; addEventListener('scroll', function(){ scrollY = window.scrollY; }, { passive:true });
+  function paint(t){
+    cx.fillStyle = '#F7F7F8'; cx.fillRect(0,0,W,H);
+    var k = t * .00012, par = scrollY * .00006;
+    for (var i=0;i<blobs.length;i++){
+      var b = blobs[i];
+      var bx = (b.x + Math.sin(k + b.p) * b.sx) * W;
+      var by = (b.y + Math.cos(k * 1.2 + b.p) * b.sy - par * (i+1) * 40) * H;
+      var br = b.r * Math.max(W,H) * (1 + Math.sin(k*1.5 + b.p) * .06);
+      var g = cx.createRadialGradient(bx, by, 0, bx, by, br);
+      g.addColorStop(0, 'rgba(' + b.c + ',' + b.a + ')');
+      g.addColorStop(1, 'rgba(' + b.c + ',0)');
+      cx.fillStyle = g; cx.fillRect(0,0,W,H);
+    }
+    cx.fillStyle = '#C4952A';
+    for (var i=0;i<dust.length;i++){
+      var d = dust[i];
+      d.y -= d.v; if (d.y < -0.02){ d.y = 1.02; d.x = Math.random(); }
+      var tw = .12 + .5 * Math.abs(Math.sin(t*.001 + d.p));
+      cx.globalAlpha = tw;
+      cx.beginPath(); cx.arc(d.x*W, d.y*H, d.s, 0, 6.28); cx.fill();
+    }
+    cx.globalAlpha = 1;
   }
+  if (reduced){ paint(0); return; }
+  var hidden = false;
+  document.addEventListener('visibilitychange', function(){ hidden = document.hidden; if (!hidden) requestAnimationFrame(loop); });
+  function loop(t){ if (hidden) return; paint(t); requestAnimationFrame(loop); }
+  requestAnimationFrame(loop);
 })();
 
 /* tilt cards */
