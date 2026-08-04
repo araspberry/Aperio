@@ -103,13 +103,15 @@
     background: repeating-linear-gradient(90deg, #f2ead6 0 3px, #e0d5ba 3px 4px); border-radius: 2px; }
   .ptop { width:220px; height:50px; transform: rotateX(90deg) translateZ(31px); transform-origin: top; top:0;
     background: repeating-linear-gradient(0deg, #f2ead6 0 3px, #e0d5ba 3px 4px); }
-  .orbit { position:absolute; font-size:.68rem; letter-spacing:.14em; font-weight:700; color:var(--navy);
-    background: rgba(255,255,255,.85); backdrop-filter: blur(8px); border:1px solid var(--border);
-    border-radius:999px; padding: 7px 13px; box-shadow: 0 8px 20px rgba(18,35,68,.12); white-space:nowrap; }
-  .o1 { top: 8%; right: -12%; animation: floaty 5s ease-in-out infinite; }
-  .o2 { bottom: 20%; left: -20%; animation: floaty 6.4s ease-in-out infinite reverse; }
-  .o3 { bottom: -4%; right: -6%; animation: floaty 5.7s ease-in-out infinite; }
-  @media (max-width:900px){ .o2 { left: -4%; } .o1 { right: -2%; } }
+  .bookwrap { position: relative; }
+  .orbit { position:absolute; z-index: 6; font-size:.68rem; letter-spacing:.14em; font-weight:700; color:var(--navy);
+    background: rgba(255,255,255,.92); backdrop-filter: blur(8px); border:1px solid var(--border);
+    border-radius:999px; padding: 8px 14px; box-shadow: 0 10px 24px rgba(18,35,68,.16); white-space:nowrap; }
+  .o1 { top: -6%; right: -26%; animation: floaty 5s ease-in-out infinite; }
+  .o2 { bottom: 30%; left: -46%; animation: floaty 6.4s ease-in-out infinite reverse; }
+  .o3 { bottom: -9%; right: -18%; animation: floaty 5.7s ease-in-out infinite; }
+  @media (max-width: 1100px){ .o1 { right: -10%; } .o2 { left: -18%; } .o3 { right: -6%; } }
+  @media (max-width: 900px){ .o1 { right: 0; top: -10%; } .o2 { left: -4%; bottom: 22%; } .o3 { right: 2%; bottom: -8%; } }
   .scroll-cue { position:absolute; bottom: 26px; left:50%; transform:translateX(-50%); color:var(--faint); font-size:.72rem; letter-spacing:.22em; animation: floaty 3s ease-in-out infinite; z-index: 2; }
 
   /* ============ sections ============ */
@@ -250,10 +252,10 @@
           <div class="face ptop"></div>
           <div class="face spine"></div>
           <div class="face cover"><img src="./assets/app-icon.png" alt="Aperio Bible" /></div>
-          <div class="orbit o1">🗝️ STUDY CENTER</div>
-          <div class="orbit o2">✨ NEW CLAVIS TRANSLATION</div>
-          <div class="orbit o3">🌅 DAILY STORIES</div>
         </div>
+        <div class="orbit o1">🗝️ STUDY CENTER</div>
+        <div class="orbit o2">✨ NEW CLAVIS TRANSLATION</div>
+        <div class="orbit o3">🌅 DAILY STORIES</div>
       </div>
     </div>
   </div>
