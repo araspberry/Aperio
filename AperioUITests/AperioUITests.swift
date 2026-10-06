@@ -2,6 +2,31 @@ import XCTest
 import UIKit
 
 final class AperioUITests: XCTestCase {
+    func testAppStoreScreenshots() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launch()
+        XCTAssertTrue(app.buttons["navigation.menu"].waitForExistence(timeout:20))
+        func capture(_ name:String) {
+            let shot = XCTAttachment(screenshot:app.screenshot())
+            shot.name = name; shot.lifetime = .keepAlways; add(shot)
+        }
+        capture("01-home")
+        app.buttons["navigation.menu"].tap(); app.buttons["tab.bible"].tap()
+        XCTAssertTrue(app.buttons["reader.study"].waitForExistence(timeout:10))
+        capture("02-bible")
+        app.buttons["reader.study"].tap()
+        XCTAssertTrue(app.buttons["study.Lexicon"].waitForExistence(timeout:5))
+        capture("03-commentary")
+        app.buttons["study.Lexicon"].tap()
+        let phrase = app.buttons.containing(.staticText,identifier:"A Psalm").firstMatch
+        XCTAssertTrue(phrase.waitForExistence(timeout:5)); phrase.tap()
+        XCTAssertTrue(app.buttons["Back to Lexicon"].waitForExistence(timeout:5))
+        capture("04-lexicon")
+    }
+
     func testNativeReadingStudyAndPersonalData() {
         continueAfterFailure = false
         let app = XCUIApplication()
