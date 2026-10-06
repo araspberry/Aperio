@@ -66,6 +66,10 @@ Marketing: https://aperiobible.com/
 
 No demo credentials are needed; all native features are available immediately.
 
+6. Privacy transition: the currently distributed App Store version is 1.1.0. The published App Privacy answers are being retained for that released version, in accordance with Apple's guidance to describe the currently available version. Build 27 has no authentication backend, analytics SDK, advertising SDK, or server collection of personal content. The privacy policy separately explains native version 2.0 and the website. The App Privacy answers will need to be updated to reflect version 2.0 when that version is released.
+
+7. Content sources: the Berean Bible texts are public domain (https://berean.bible/licensing.htm). The Open Scriptures Strong's dictionary editions carry CC-BY-SA notices (https://github.com/openscriptures/strongs). Original dictionary files, notices, and attribution are included in the app bundle; converted dictionary entries retain the same terms.
+
 ## URLs
 - Support: https://aperiobible.com/support.html
 - Marketing: https://aperiobible.com/
@@ -76,6 +80,7 @@ Existing copyright, review contact details, keywords, and release preferences we
 ## Screenshots and outstanding declarations
 - Four current iPhone and four current iPad screenshots are saved: Home, Bible, Commentary, and Lexicon, in that order.
 - With the owner's explicit approval, removed ten legacy large-iPhone and six legacy iPad screenshots from the 2.0 listing. They remain in Apple's Asset Library; the released 1.1.0 listing was not edited.
-- Existing published privacy answers were not changed. Automatic approval review rejected saving “No, we do not collect data” because collection by the still-released previous app has not been reconciled. Canceled the dialog. Build 27 itself has local-only personal storage and no collection SDK or server sign-in.
-- Content Rights still has the previous “No third-party content” answer. Apple's replacement answer expressly states that the owner has the necessary rights. Owner confirmation is pending before making that declaration for bundled Scripture and study material.
-- No Update Review, App Review submission, or public app release was performed.
+- Existing published privacy answers were not changed. After the owner requested proceeding, verified that the reference app includes optional Supabase sign-in and synchronization of notes, prayers, bookmarks, and highlights. No live user records were accessed. Apple's current guidance says answers for an app already on the Store should describe its currently available version. Preserve the current label while 1.1.0 remains distributed; update it for the local-only 2.0 release. Do not assume older backend services are shut down.
+- Content Rights was corrected and saved: “Yes, this app has the necessary rights to its third-party content.” Verified the BSB publisher's public-domain licensing page and bundled Open Scriptures source files, CC-BY-SA notices, and attribution. No new license agreement was accepted.
+- Update Review completed successfully. Apple shows 2.0.0 (27) as Ready for Review in the existing submission. Resubmit to App Review is available but has not been clicked. The old submission's Unresolved Issues banner still appears; build 27 has not been rejected or approved.
+- Remaining release task: publish the privacy answers matching version 2.0 when it becomes the currently available app, checking all distributed platforms at that point. Current automatic-release preference is unchanged. No new app release or final resubmission was performed.
