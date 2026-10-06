@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 18: The God Who Hears the Cry of the Humble",
+      "overview": [
+        "This chapter reveals a God whose ears are always bent toward the desperate and the dispossessed—a God who listens not to the loud voices of the self-righteous but to the persistent plea of the broken. Luke invites us into an intimate understanding of prayer, humility, and what it truly means to approach the throne of grace.",
+        "The chapter opens with Jesus's parable of the persistent widow and the unjust judge, teaching that persistence in prayer matters immensely. But the punchline cuts deeper than mere technique: if an unjust judge will finally hear a widow's cry simply because she wears him down, how much more will a loving Father respond to His children? The promise isn't that God needs convincing—it's that our asking, returning, and asking again is the way we align ourselves with what He already desires to give. Prayer is less about changing God's mind and more about opening our hearts to receive what His goodness has already secured.",
+        "Then Jesus tells of two men praying in the temple. One stands confidently, listing his spiritual accomplishments; the other stands at a distance, unable even to lift his eyes, beating his chest and saying simply, \"God, have mercy on me, a sinner.\" The one who goes home justified isn't the impressive achiever but the one who knows his need. This cuts against the grain of our performance-oriented souls. We live in a world that rewards confidence and self-promotion, yet Jesus teaches that spiritual transformation begins with honest acknowledgment of our poverty before God.",
+        "The chapter continues with Jesus blessing children and his conversation with the rich young ruler, further illustrating that entrance into God's kingdom requires a child-like receptivity and willingness to release what we grip most tightly. The kingdom belongs not to those with the most, but to those who understand they have nothing without God.",
+        "What would change in your prayer life if you truly believed that God responds more readily to honest confession than impressive credentials?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 18: Scholarly study",
+      "overview": [
+        "Luke 18 presents a carefully constructed collection of teachings and narratives that Luke has arranged to illuminate Jesus's journey toward Jerusalem and the nature of kingdom discipleship. The chapter falls within the larger Lukan travel narrative (9:51–19:44) and demonstrates Luke's characteristic concern for prayer, social reversal, and the inclusion of marginalized persons.",
+        "The chapter opens with the parable of the persistent widow (vv. 1–8), which Luke explicitly frames as instruction on the necessity of continual prayer without losing heart. The verb *enkakein* (ἐγκακεῖν), meaning \"to become weary\" or \"lose heart,\" appears in Luke's editorial introduction, establishing the parable's didactic purpose. The widow's persistent appeal to an unjust judge (*kritēs tēs adikias*) operates through a *qal wahomer* (\"how much more\") argument: if even an unrighteous judge eventually grants justice, how much more will the righteous God vindicate his elect who cry out persistently.",
+        "The parable of the Pharisee and tax collector (vv. 9–14) introduces the crucial term *dikaiōo* (δικαιόω), \"to justify\" or \"declare righteous,\" which carries significant weight in Lukan soteriology. The tax collector's prayer echoes the language of Psalm 51, with *hilasthēti* (ἱλάσθητι) conveying a plea for divine propitiation. Scholars debate whether Luke presents this as polemic against Pharisaism broadly or against a specific attitude of self-righteousness that any religious person might adopt.",
+        "The encounter with children (vv. 15–17), the rich ruler episode (vv. 18–30), and the third passion prediction (vv. 31–34) form a thematic unit exploring kingdom entrance and its radical demands. The ruler's designation as *archōn* (ἄρχων) suggests considerable social standing, heightening the narrative tension when Jesus demands complete divestiture.",
+        "The chapter concludes with the healing of a blind man near Jericho (vv. 35–43), which functions as both literal miracle and symbolic commentary on spiritual perception. The blind man's persistent crying out mirrors the widow's persistence in prayer, creating an inclusio that frames the chapter's diverse material. This healing also prepares readers for the Zacchaeus narrative immediately following, demonstrating that Jesus's mission encompasses both physical restoration and the salvation of those whom society considers beyond redemption."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 18: Prophetic perspective",
+      "overview": [
+        "Luke chapter eighteen emerges from the ministry of Christ approximately three years into His public work, likely in the final months before the cross, as Jesus steadfastly journeys toward Jerusalem. This places the passage at the climactic moment of the Incarnation, the hinge point of all redemptive history when the eternal Word made flesh moves deliberately toward the altar of Golgotha. Within the grand arc of God's plan, we stand here between the long centuries of prophetic promise—from Abraham through the kingdom and exile—and the imminent fulfillment at Calvary that will inaugurate the age of the Spirit and the ingathering of the nations.",
+        "The chapter opens with the parable of the persistent widow, a prophetic picture of the church in the present age. Christ's question—\"When the Son of Man comes, will He find faith on the earth?\"—casts a long eschatological shadow across the entire church era. The widow represents the bride of Christ crying out day and night for vindication against her adversary, awaiting the return of the righteous Judge. Her persistence typifies the posture required of those living between the advents, enduring apparent divine delay while trusting in certain justice. This parable declares that what seems like silence is actually patience, and what appears as absence is sovereign timing.",
+        "The Pharisee and the tax collector present the two covenantal postures available to humanity: self-righteous boasting in one's own merit, or the broken confession that casts oneself entirely upon divine mercy. The tax collector's cry—\"God, be merciful to me, a sinner\"—echoes the sacrificial system's dependence on blood atonement and anticipates the gospel proclamation that justification comes through faith alone. Here Christ overturns the religious economy of His day and prophetically announces the new covenant reality.",
+        "When Jesus receives the children, He reveals the nature of kingdom entrance: not achievement but reception, not ascent but descent. The rich young ruler's sorrowful departure then exposes the impossibility of salvation by human effort, provoking the disciples' astonishment and Christ's declaration that what is impossible with man is possible with God—a prophecy of grace that finds its mechanism at the cross.",
+        "The chapter concludes with Jesus explicitly foretelling His passion and resurrection, then immediately healing blind Bartimaeus, who sees what the disciples cannot yet perceive. The blind man's faith-filled cry—\"Son of David, have mercy\"—confesses the messianic identity that will be vindicated through death and resurrection. For the church today, this chapter calls us to persistent prayer, humble faith, childlike reception, and clear-eyed recognition of our crucified and coming King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.592137+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

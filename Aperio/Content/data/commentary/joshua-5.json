@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 5: Crossing the Threshold into God's Promises",
+      "overview": [
+        "The spiritual heart of Joshua 5 is the transition from wilderness wandering into covenant living—a moment where God's people must release old patterns and embrace the radical reality that they now belong wholly to Him.",
+        "After forty years in the desert, Israel stands poised at the Jordan's edge. What happens next is deceptively simple yet spiritually profound. God commands circumcision—the sign of the covenant—to be performed on the new generation. This act wasn't about hygiene or military advantage; it was about identity. These young Israelites, born in exile and trained in survival, needed to be marked as God's covenant people before they could claim His promises. The circumcision couldn't be rushed. They had to stop, be vulnerable, heal, and wait—an extraordinary preparation before conquest.",
+        "The meaning deepens when we notice what happens simultaneously: the manna ceases. For four decades, God provided daily bread in the wilderness. Now, standing in the land of milk and honey, His people would eat from vineyards they didn't plant and harvests they didn't grow. This moment encapsulates a fundamental spiritual truth: God meets us where we are, but He also calls us to maturity. The crutch of wilderness provision transforms into the responsibility of stewardship in the Promised Land.",
+        "Then comes the encounter with the Commander of the Lord's army—Jesus in theophany—standing with drawn sword. Joshua's response is correct: he removes his sandals, recognizing holy ground. Not Jericho's walls, not military strategy, but God's presence is the true victory.",
+        "We live in similar transitions. God calls us from seasons of dependence into seasons of responsible faith. He invites us to be marked as His, to trust His provision in new ways, and to recognize that His presence, not our circumstances, determines our victory. Where is God calling you to move from survival mode into covenant living? What old patterns must you release to fully claim His promises?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 5: Scholarly study",
+      "overview": [
+        "Joshua 5 represents a pivotal transitional moment in Israel's sacred history, marking the formal conclusion of the wilderness period and the commencement of the conquest proper. The chapter's placement between the miraculous Jordan crossing (chapter 4) and the Jericho conquest (chapter 6) is theologically deliberate, establishing that covenant renewal must precede military engagement. The narrative divides into four interconnected episodes: the terror of Canaan's kings, mass circumcision at Gilgal, the first Passover in the land, and the mysterious theophany of the divine commander.",
+        "The chapter opens with the psychological collapse of Amorite and Canaanite kings whose \"hearts melted\" (*wattimmās lĕbābām*), employing the same vocabulary Rahab used in 2:11. This melting of courage (*lēbāb*—heart as the seat of will and courage) demonstrates that Yahweh's warfare operates on multiple fronts, including psychological demoralization of enemies before physical engagement.",
+        "The circumcision narrative addresses a significant covenant discontinuity: an entire generation born during the wilderness wandering remained uncircumcised. The place name \"Gilgal\" receives popular etymology from the verb *gālal* (\"to roll\"), as Yahweh declares He has \"rolled away\" (*gallôtî*) the \"reproach of Egypt\" (*ḥerpat miṣrayim*). Scholars debate whether this reproach refers to Egyptian mockery, the shame of slavery, or the stigma of covenant unfaithfulness. The circumcision restores the Abrahamic covenant sign, reconstituting Israel as a covenant community prepared for divine-human partnership in conquest.",
+        "The Passover celebration on the fourteenth day of the first month creates profound liturgical resonance with the exodus event, while the cessation of manna \"the day after\" (*mimmāḥŏrat*) eating the land's produce signals the end of wilderness dependence and the beginning of agrarian settlement.",
+        "The chapter's climactic theophany presents interpretive challenges. The \"commander of Yahweh's army\" (*śar-ṣĕbā' YHWH*) refuses alignment with either Israel or her enemies, transcending simple nationalistic categories. Joshua's prostration and the command to remove sandals parallels Moses at the burning bush, suggesting divine presence rather than merely angelic mediation. This encounter reframes the coming conquest as Yahweh's own campaign, with Israel as participants rather than autonomous warriors."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 5: Prophetic perspective",
+      "overview": [
+        "Joshua chapter five unfolds approximately 1400 years before the birth of Christ, as the second generation of Israelites crosses the Jordan River into Canaan after forty years of wilderness wandering. This pivotal moment marks the transition from the era of wilderness discipline to the conquest and inheritance of the Promised Land, standing between the Exodus deliverance and the establishment of the Davidic kingdom. Here the promises made to Abraham concerning land and descendants begin their initial fulfillment, though they point forward to greater realities yet to come.",
+        "The circumcision at Gilgal carries profound typological weight. The generation that left Egypt had died in unbelief, and their sons bore uncircumcised flesh—the outward sign of covenant membership had lapsed during the years of judgment. Now the LORD commands Joshua to circumcise the nation anew, rolling away the reproach of Egypt from His people. This cutting away of flesh foreshadows the circumcision of the heart that the prophets would later announce and that Paul declares fulfilled in Christ, where believers are circumcised with a circumcision made without hands through union with the crucified and risen Messiah. The name Gilgal, meaning \"rolling,\" testifies that God removes the shame of slavery and death from those who pass through judgment waters into resurrection life.",
+        "The Passover observed on the plains of Jericho echoes the first Passover in Egypt, binding the conquest to the original redemption by blood and forming a typological chain that culminates at Calvary. The very day after Passover, the manna ceases and Israel eats the produce of Canaan—the bread of wandering gives way to the bread of inheritance, anticipating the day when Christ, the true bread from heaven, would declare that whoever eats His flesh possesses eternal life.",
+        "Most striking is Joshua's encounter with the Commander of the LORD's army, a theophanic visitation of the pre-incarnate Son. Like Moses at the burning bush, Joshua must remove his sandals on holy ground. This divine Warrior comes not to take sides but to take over, revealing that the coming conquest belongs to Yahweh alone. The church now lives under the command of this same risen Captain, waging spiritual warfare not against flesh and blood but against principalities and powers. What Israel experienced in shadow, believers possess in substance—covenant identity, paschal redemption, heavenly bread, and a conquering King who has already secured the ultimate victory and will return to complete the inheritance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.192738+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

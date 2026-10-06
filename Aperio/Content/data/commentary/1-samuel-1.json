@@ -1,0 +1,55 @@
+{
+  "book": "1 Samuel",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 1: The Power of Persistent Prayer",
+      "overview": [
+        "Hannah's desperate prayer in the temple reveals the God who hears the voiceless and transforms grief into gospel purpose. In her lonely anguish, she shows us that faith is not pretense before the Almighty but raw honesty poured out before Him.",
+        "The opening chapter of 1 Samuel presents a woman crushed by barrenness in a culture where childlessness meant social shame and perceived divine disfavor. Worse, she shared her home with Peninnah, her husband's other wife, who tormented her relentlessly while flaunting her own fertility. Year after year, Hannah endured this quiet suffering, yet she refused to accept her circumstances as final. Instead of hardening into bitterness or accepting cultural defeat, she carried her sorrow directly to God in the temple at Shiloh.",
+        "What makes Hannah's prayer extraordinary is its specificity and vulnerability. She didn't pray in general terms or perform religious duty; she wept bitterly, moving her lips silently, speaking with such intensity that Eli the priest mistook her for someone drunk. She made a vow: if God would grant her a son, she would dedicate him to the Lord's service for his entire life. This wasn't bargaining with God as though He owed her anything. Rather, it was the cry of a woman who had nowhere else to turn, who believed God genuinely heard her, and who was willing to surrender what she desperately wanted if it served His purposes.",
+        "God answered Hannah. She conceived and bore Samuel, the prophet who would anoint Israel's first two kings and reshape the nation's spiritual life. But perhaps more importantly, Hannah discovered that God sees those others overlook, that He honors persistence in prayer, and that our deepest pain can become the seedbed of His deepest purposes.",
+        "What area of your life feels hopeless today? Can you, like Hannah, bring your honest sorrow before God and trust Him with the outcome?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 1: Scholarly study",
+      "overview": [
+        "The opening chapter of First Samuel marks a pivotal transition in Israel's canonical history, bridging the turbulent era of the judges with the establishment of monarchy. The narrative introduces Hannah, wife of Elkanah, an Ephraimite from Ramathaim-zophim, and situates the action within the cultic context of the Shiloh sanctuary where the ark of the covenant resided. This period, likely the late eleventh century BCE, represents the final generation before centralized kingship would transform Israelite society. The author, traditionally associated with the prophetic circles of Samuel himself, crafts a birth narrative that consciously echoes earlier matriarchal struggles while anticipating the theological themes that will dominate the books of Samuel.",
+        "The Hebrew term for Hannah's barrenness employs the phrase \"the LORD had closed her womb\" (*sagar*, סָגַר), emphasizing divine sovereignty over fertility and establishing the theological premise that Samuel's eventual birth constitutes divine intervention rather than natural occurrence. This motif connects Hannah to Sarah, Rebekah, and Rachel, placing her within a lineage of matriarchs whose barrenness preceded the birth of covenantally significant sons. Peninnah's provocation of Hannah as her \"rival\" (*tsarah*, צָרָה) carries connotations of distress and adversity, linguistically underscoring Hannah's anguish.",
+        "Hannah's vow to dedicate her son as a Nazirite—indicated by the razor never touching his head—employs the verb \"to give\" (*natan*, נָתַן), which forms a wordplay with the name Samuel. Scholars have long noted that the etymology \"asked of God\" (*sha'ul*, שָׁאוּל) more naturally fits Saul's name, suggesting possible narrative adaptation or deliberate literary foreshadowing of the Saulide dynasty.",
+        "The chapter's literary structure moves from domestic strife through cultic encounter to divine response, establishing a pattern wherein human desperation meets divine faithfulness. Eli's initial misreading of Hannah's silent prayer as drunkenness introduces the theme of prophetic discernment—or its absence—that will culminate in Eli's failure to recognize corruption within his own household. The narrator thus prepares readers for Samuel's emergence as the prophetic voice Israel desperately requires, born from faithful petition amid institutional spiritual decline."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 1: Prophetic perspective",
+      "overview": [
+        "The opening chapter of Samuel unfolds approximately 1100 years before the incarnation of Christ, during the twilight of the judges when Israel languished under spiritual famine and Philistine oppression. This moment arrives after centuries of cyclical rebellion recorded in Judges, when \"everyone did what was right in his own eyes,\" and stands at the threshold of Israel's transition from theocratic confederation to monarchy. Within the grand redemptive arc, we find ourselves between the Exodus deliverance and the establishment of the Davidic kingdom—that crucial hinge upon which messianic expectation would turn.",
+        "Hannah's barrenness echoes through the chambers of redemptive history with deliberate resonance. She joins the sacred company of Sarah, Rebekah, and Rachel—matriarchs whose closed wombs became theaters of divine intervention. This pattern reveals a profound typological truth: God's kingdom advances not through natural human capacity but through supernatural grace that raises up sons of promise from impossible circumstances. The barren womb becomes holy ground where human impossibility meets divine omnipotence, foreshadowing the virgin's womb in Nazareth where the ultimate Son of promise would be conceived by the Holy Spirit alone.",
+        "Hannah's prayer of anguish in Shiloh's sanctuary prefigures the intercessory posture of the church across ages—pouring out the soul before the Lord in desperate dependence. Eli's initial misreading of her spiritual travail mirrors how religious formalism often fails to recognize genuine movements of the Spirit. Yet from this misunderstanding emerges prophetic declaration: \"Go in peace, and the God of Israel grant your petition.\" Here we glimpse the priestly function that would find perfection in Christ, who ever lives to intercede for His people.",
+        "Samuel himself stands as a magnificent type of Christ. His very name—\"heard of God\"—proclaims that heaven responds to the cries of the afflicted. Dedicated from the womb, set apart as a Nazirite, given to the Lord's service perpetually, Samuel would unite in his person the offices of prophet, priest, and judge. He would anoint kings and speak the word of the Lord to a wayward nation. In all this he shadows the One greater than Samuel who would come as Prophet, Priest, and King—not merely to anoint earthly monarchs but to establish an eternal throne.",
+        "For the church awaiting Christ's return, Hannah's faithfulness kindles hope: God remembers His covenant, opens barren wombs, and raises up deliverers in darkest hours."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.391326+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

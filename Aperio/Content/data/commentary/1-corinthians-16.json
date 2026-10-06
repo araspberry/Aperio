@@ -1,0 +1,56 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 16: The Grace of Giving and Belonging",
+      "overview": [
+        "The closing chapter of Paul's first letter to Corinth reveals a stunning truth: the ordinary, practical matters of Christian community—giving money, making travel plans, staying watchful—are woven into the very fabric of our faith. These final verses show us that discipleship is never merely spiritual; it is embodied, relational, and wonderfully concrete.",
+        "Paul begins by addressing a collection for the suffering saints in Jerusalem, instructing the Corinthians to set aside funds systematically, as their means allow. This is not legalism but love made visible. When we give, we acknowledge that everything we have is held in open hands before God, and our resources belong to the larger family of faith. The principle extends far beyond ancient Jerusalem: wherever believers suffer, the body of Christ moves toward them with generosity. This kind of giving reshapes our hearts, loosening the grip of materialism and deepening our sense of belonging to something larger than ourselves.",
+        "Throughout these verses, Paul weaves in personal touches—greetings, travel plans, affection. He asks them to welcome Timothy warmly, extends greetings from the churches, and ends with personal mention. He reminds us that faith is not an abstract doctrine but lived out among real people we know and love. The Corinthian church was fractious and immature, yet Paul addresses them with genuine warmth and expectation that they will grow.",
+        "The chapter closes with those unforgettable words: \"Let all that you do be done in love.\" This is Paul's final word—not correction or rebuke, but an invitation into the heart of the gospel. Everything—our giving, our work, our relationships, our very lives—finds its meaning when bathed in love.",
+        "What would change in your daily choices if you genuinely believed that every decision, every dollar, every conversation is an opportunity to live out love for Christ and his church?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 16: Scholarly study",
+      "overview": [
+        "The concluding chapter of Paul's first canonical letter to the Corinthian church, likely composed from Ephesus around 53–55 CE, transitions from the profound theological discourse on resurrection in chapter 15 to practical matters of collection, travel plans, and final exhortations. This structural movement from doctrinal exposition to concrete application reflects Paul's consistent pastoral methodology, wherein theological truth necessarily issues in community praxis.",
+        "The chapter opens with instructions concerning the collection (*logia*) for the saints in Jerusalem, a project that occupied considerable attention in Paul's later ministry as documented in Romans 15 and 2 Corinthians 8–9. The phrase \"on the first day of the week\" (*kata mian sabbatou*) provides early evidence for Christian gatherings on Sunday, though whether this constitutes formal worship remains debated among scholars. The instruction for each person to set aside funds \"as he may prosper\" (*hoti ean euodōtai*) establishes a principle of proportional giving without mandating specific amounts, distinguishing Pauline practice from later ecclesiastical tithing structures.",
+        "Paul's travel itinerary reveals the complex logistics of apostolic ministry, mentioning his intention to pass through Macedonia before an extended Corinthian visit. The reference to remaining in Ephesus until Pentecost, coupled with the mention of \"a wide door for effective work\" alongside \"many adversaries,\" illuminates the contested nature of early Christian mission in urban centers. Timothy's anticipated arrival occasions Paul's protective concern that the young delegate be received without intimidation, suggesting possible tensions regarding apostolic authority at Corinth.",
+        "The commendation of Stephanas's household as \"the firstfruits of Achaia\" (*aparchē tēs Achaias*) who devoted themselves to service (*diakonia*) establishes paradigms for recognizing indigenous leadership. Paul's exhortation to \"be watchful, stand firm in the faith, act like men, be strong\" employs military metaphor common in Hellenistic moral discourse.",
+        "The chapter concludes with the Aramaic formula *marana tha* (\"Our Lord, come!\"), preserving early liturgical language that transcended linguistic boundaries in primitive Christianity. This eschatological petition, combined with declarations of love and grace, frames the entire letter's concerns within the community's expectant hope for Christ's return."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 16: Prophetic perspective",
+      "overview": [
+        "This closing chapter of Paul's first letter to Corinth was composed around AD 55, approximately twenty-two years after the resurrection and ascension of Christ, during the apostolic period when the church was rapidly expanding throughout the Roman Empire. Within the grand sweep of redemptive history, we stand here firmly in the Church Age—that mysterious interval between Pentecost and the Parousia when the Spirit gathers a people from every nation, building the living temple that the prophets glimpsed only in shadow.",
+        "Paul's instruction concerning the collection for the saints in Jerusalem reveals a profound typological fulfillment. Just as the tribes of Israel brought their firstfruits to the central sanctuary, so now the Gentile churches bring their offerings to sustain the mother church in Jerusalem. This collection, mentioned also in Romans and Second Corinthians, carries deep prophetic significance: Isaiah foresaw the wealth of nations streaming to Zion, and here that vision finds unexpected realization—not through conquest but through love, not through compulsion but through grace. The scattered seed of Abraham, justified by faith, now nourishes the root that bore them.",
+        "The travel plans of Paul, Timothy, and Apollos remind us that the apostolic era was a time of foundational laying, when the mystery hidden for ages was being proclaimed and the canon of Scripture was still being inscribed. These ordinary details—winter stays, open doors, many adversaries—reveal the texture of kingdom advance in the already-not-yet tension. The \"wide door for effective work\" in Ephesus demonstrates that where Christ builds His church, opposition intensifies. The gates of Hades assault, but they cannot prevail.",
+        "Paul's exhortation to \"be watchful, stand firm in the faith, act like men, be strong\" echoes the prophetic summons that rang through Israel's history whenever covenant faithfulness was tested. His command that all be done in love brings the great hymn of chapter thirteen to practical application—love is not merely mystical experience but the governing principle of ordinary Christian life.",
+        "The invocation \"Maranatha\"—Our Lord, come!—pierces through mundane instructions with eschatological urgency. This Aramaic cry preserves the longing of the earliest believers, a longing the church inherits today. We live between the first advent, which accomplished redemption, and the second, which will consummate it. Until that Day, the church gathers offerings, sends laborers, stands watchful, and prays with ancient hope: Come, Lord Jesus."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.813201+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

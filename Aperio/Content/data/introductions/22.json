@@ -1,0 +1,184 @@
+{
+  "book": "Isaiah",
+  "bookIndex": 22,
+  "status": "Editorial draft",
+  "title": "The Holy One and the hope of a renewed world",
+  "subtitle": "Judgment, trust, and consolation across the Assyrian crisis, exile, and return.",
+  "atAGlance": {
+    "genre": "Prophetic poetry, visions, and historical narrative",
+    "setting": "Judah and Jerusalem under imperial pressure; later passages address exile and restoration",
+    "composition": "Rooted in eighth-century BC Isaiah; many scholars identify later exilic and postexilic collections; traditional single-author readings differ",
+    "audience": "Judah, displaced Israelites, a rebuilding community, and the nations"
+  },
+  "sections": [
+    {
+      "title": "A book that crosses historical horizons",
+      "paragraphs": [
+        "Isaiah son of Amoz speaks into Judah’s fear that powerful neighbors will determine its future. The heading names Uzziah, Jotham, Ahaz, and Hezekiah, locating his ministry in the eighth century BC. Assyria destroyed the northern kingdom of Israel in 722/721 and invaded Judah in 701. These are the immediate pressures behind much of the book, but its horizon extends beyond them. Babylonian exile, release under Cyrus of Persia, and the problems of restored Jerusalem also enter the picture.",
+        "Many scholars therefore distinguish chapters 1–39, 40–55, and 56–66 as collections associated broadly with Assyrian, exilic, and postexilic settings. The boundaries are not absolute dates for every poem. Traditional interpreters may understand the later settings as prophetic anticipation by Isaiah himself. Either approach should distinguish the time depicted in a passage from the debated history of the book’s composition."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "Holiness becomes a public demand",
+      "paragraphs": [
+        "The throne-room vision in chapter 6 provides a center of gravity. Isaiah sees divine holiness and recognizes the uncleanness of his own speech and community. Cleansing precedes his commission; he does not begin as a morally superior observer. His unsettling assignment anticipates resistance, devastation, and a remaining seed. The vision prepares readers for a book in which judgment and hope repeatedly appear together.",
+        "This holiness has consequences in streets and courts. Chapter 1 confronts worshipers whose public ceremonies coexist with bloodshed and neglect of vulnerable people. Chapter 5 pictures a carefully tended vineyard that produces the opposite of what its owner seeks. The problem is not a shortage of religious activity. It is the distance between the community’s claims about God and its treatment of neighbors."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Trust amid competing promises of security",
+      "paragraphs": [
+        "Chapters 7–12 and 28–39 repeatedly ask what rulers do when danger closes in. Ahaz faces hostile neighboring kingdoms; Hezekiah faces Assyrian intimidation. Alliances, weapons, wealth, and impressive imperial speeches all promise safety. Isaiah subjects those promises to the authority of God. Trust is consequently political and communal as well as personal: decisions made by leaders expose whole populations to their consequences.",
+        "The royal and child imagery of chapters 7, 9, and 11 belongs first within this world of endangered Davidic kingship. The promised ruler embodies justice, wisdom, and protection for the poor. Christian readers also hear these passages through their reception in the New Testament. Reading the original setting and the later Christian interpretation together gives these texts more depth than treating their first hearers as incidental."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Comfort that opens a road through exile",
+      "paragraphs": [
+        "At chapter 40, the dominant address changes: a worn and displaced people are told that God has not forgotten them. The Creator’s greatness is presented as grounds for confidence, not as evidence of remoteness. The recurring challenge to idols asks whether the objects people make can bear the weight of their hopes. Chapters 44–45 name Cyrus within the account of release, placing even an imperial ruler within a purpose beyond his own.",
+        "The language of a road, wilderness, water, and homecoming recalls Israel’s earlier deliverance from Egypt. Restoration is portrayed as a new act of liberation rather than a simple return to normal. The servant passages add another dimension: God’s work involves calling, endurance, rejection, and suffering. The servant’s identity must be considered passage by passage; the book sometimes explicitly names Israel and elsewhere sharpens the figure’s personal profile."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A restored community still needs renewal",
+      "paragraphs": [
+        "Chapters 56–66 refuse to equate renewed religious institutions with a healed society. Outsiders who hold fast to God’s covenant receive welcome, while insiders face criticism for exploitation, corrupt leadership, and empty fasting. Chapter 58 makes care for hungry and oppressed neighbors part of the meaning of true devotion. Worship and justice remain inseparable after the crisis, just as they were before it.",
+        "The closing visions stretch toward a world transformed by God’s presence. Images of light, peace, renewed creation, and gathered nations enlarge the book’s hope beyond survival. These visions also retain warnings against evil. They are not a timetable that identifies modern states or predicts dates. Their placement asks readers to imagine how God’s holiness could reshape the shared life of an entire world."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "How to follow the argument",
+      "paragraphs": [
+        "Isaiah is an arranged collection, not a continuous diary. Notice who is addressed, which empire is in view, and whether a passage is accusation, promise, narrative, or vision. A change of speaker or scene may matter more than a chapter boundary. Read memorable lines alongside the disputes and hopes around them.",
+        "Across the collection, repeated images create coherence: Zion, the vineyard, blindness and sight, wilderness and water, the remnant, and the Holy One of Israel. Track how these images change as the audience moves from confidence to collapse and then toward renewed hope. The result is a sustained challenge to self-sufficiency, coupled with a refusal to let disaster have the final word."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Judah confronted and a ruler hoped for",
+      "startChapter": 1,
+      "endChapter": 12,
+      "description": "Accusation, Isaiah’s calling, the crisis under Ahaz, and hope for just Davidic rule."
+    },
+    {
+      "label": "The nations under judgment",
+      "startChapter": 13,
+      "endChapter": 23,
+      "description": "Oracles place surrounding peoples and empires under divine scrutiny."
+    },
+    {
+      "label": "The world and the promised feast",
+      "startChapter": 24,
+      "endChapter": 27,
+      "description": "Poetry expands judgment and salvation to a worldwide horizon."
+    },
+    {
+      "label": "False refuges and a road of return",
+      "startChapter": 28,
+      "endChapter": 35,
+      "description": "Warnings against misplaced trust alternate with renewed land and deliverance."
+    },
+    {
+      "label": "Hezekiah between Assyria and Babylon",
+      "startChapter": 36,
+      "endChapter": 39,
+      "description": "Historical narratives connect the Assyrian crisis with the prospect of exile."
+    },
+    {
+      "label": "Comfort and the servant’s calling",
+      "startChapter": 40,
+      "endChapter": 55,
+      "description": "The Creator promises release, restoration, and a vocation reaching the nations."
+    },
+    {
+      "label": "The character of restored Zion",
+      "startChapter": 56,
+      "endChapter": 66,
+      "description": "Justice, inclusion, worship, and the final vision of renewal."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Holiness and justice",
+      "description": "Knowing God requires attention to how neighbors are treated."
+    },
+    {
+      "name": "Trust",
+      "description": "Imperial power and political calculation cannot provide ultimate security."
+    },
+    {
+      "name": "Servanthood and restoration",
+      "description": "Deliverance involves a calling through which blessing reaches beyond Israel."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Eighth century BC; later horizons in exile and return",
+    "context": "The collection moves from Assyrian-era Judah to Babylonian exile and renewed Jerusalem.",
+    "note": "These labels identify broad settings, not a composition date for every oracle."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 39,
+      "era": "divided-kingdom",
+      "label": "Judah and the Assyrian crisis",
+      "dateLabel": "Eighth century BC; collected material spans later horizons",
+      "note": "Historical core includes the 701 BC invasion; some poems look beyond this setting and are dated later by many scholars."
+    },
+    {
+      "start": 40,
+      "end": 55,
+      "era": "exile",
+      "label": "Comfort for exiles",
+      "dateLabel": "Sixth century BC, approaching the Persian conquest of Babylon in 539",
+      "note": "Cyrus and a promised return locate the addressed situation; authorship is interpreted differently across traditions."
+    },
+    {
+      "start": 56,
+      "end": 66,
+      "era": "return",
+      "label": "Restoration and its unfinished hopes",
+      "dateLabel": "Persian-period restoration horizon",
+      "note": "The concluding future visions exceed this historical setting; no precise schedule is implied."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Isaiah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Isaiah",
+      "url": "https://bible.usccb.org/bible/isaiah/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 17",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-17"
+    }
+  ]
+}

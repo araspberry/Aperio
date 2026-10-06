@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 16: A Season for Remembrance and Joy",
+      "overview": [
+        "At its heart, Deuteronomy 16 invites God's people into a rhythm of sacred remembrance that shapes both identity and community. Moses sets before Israel three great festivals—Passover, Weeks, and Tabernacles—not as mere religious obligations, but as transformative seasons when the whole household, from master to servant to stranger, gathers to celebrate deliverance and covenant faithfulness.",
+        "What strikes us is how thoroughly these celebrations were designed to be inclusive and joyful. Each feast brought the entire community together, intentionally breaking down social barriers. The servant, the Levite, the foreigner—all were invited to eat, celebrate, and remember alongside the landowner. This wasn't marginal inclusion but central to the festival's meaning. God was teaching his people that genuine joy multiplies when shared, and that remembrance is never private; it binds a community together in shared identity.",
+        "The repetition of these festivals throughout the year created what we might call a sacred calendar of grace. Passover recalled liberation from Egypt. Weeks celebrated firstfruits and the giving of the law. Tabernacles commemorated wilderness wandering under God's protection. Woven together, they formed an annual narrative saying: *You were enslaved. You were freed. You are being sustained. God is faithful.*",
+        "In our modern lives, we often underestimate how much we need such rhythms. We rush from task to task, forgetting the story that makes us who we are. Yet when we pause—whether in corporate worship, daily prayer, or seasonal reflection—we reconnect with what matters most. We remember that our lives are part of a larger narrative of God's faithfulness that stretches across generations.",
+        "This passage calls us to ask: What sacred rhythms help me remember? How am I inviting others into my celebrations and remembrances? Where might God be calling me to create space—daily, weekly, seasonally—to gather, remember, and rejoice together with my community?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 16: Scholarly study",
+      "overview": [
+        "Deuteronomy 16 occupies a pivotal position within the larger literary unit of chapters 12–26, which constitutes the stipulations section of the Deuteronomic covenant. This chapter specifically addresses the liturgical calendar of ancient Israel, prescribing observance of the three major pilgrimage festivals: Passover-Unleavened Bread, the Feast of Weeks, and the Feast of Booths. The passage reflects the distinctive Deuteronomic emphasis on centralization of worship, repeatedly invoking the formula \"the place where YHWH your God will choose\" (hammāqôm ʾăšer yibḥar YHWH), a circumlocution widely understood to refer to Jerusalem, though the text maintains a prospective quality appropriate to its Mosaic setting. This centralization theology represents a significant development from earlier legislation in Exodus 12–13 and 23, which permitted local observance of Passover.",
+        "The term *ḥag* (festival, pilgrimage feast) appears throughout the chapter, deriving from a root associated with circular movement or procession, conveying the communal and celebratory nature of these occasions. Notably, the chapter employs *pesaḥ* (Passover) in close conjunction with *maṣṣôt* (unleavened bread), reflecting what many scholars view as the coalescence of originally distinct agricultural and historical commemorations—the spring barley harvest and the exodus narrative respectively. The seven-day consumption of unleavened bread serves as what the text calls \"bread of affliction\" (*leḥem ʿōnî*), functioning as embodied memory of the hasty departure from Egypt.",
+        "The Feast of Weeks (*šābuʿōt*), calculated seven weeks from the grain harvest's commencement, and the Feast of Booths (*sukkōt*), a seven-day autumn celebration, complete the annual cycle. The chapter's concluding verses (16:18–22) transition to matters of judicial administration and prohibitions against Asherah poles and sacred pillars, though some scholars consider these verses the beginning of a distinct unit on leadership offices.",
+        "The threefold command that males appear before YHWH \"not empty-handed\" (16:16) underscores the covenantal reciprocity inherent in Israelite worship—divine blessing occasions proportional human response. The repeated injunctions to include marginalized populations—Levites, sojourners, orphans, and widows—in festival celebration reflect Deuteronomy's characteristic concern for social solidarity and economic justice within the covenant community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 16: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 16 was delivered approximately 1400 years before the birth of Christ, spoken by Moses on the plains of Moab as Israel stood poised to enter the Promised Land after forty years of wilderness wandering. This chapter belongs to the covenant renewal that comprises Deuteronomy, given to the second generation who would inherit what their fathers forfeited through unbelief. Within the grand arc of redemption, we stand between the Exodus deliverance and the conquest, with Israel about to transition from sojourning people to settled nation under theocratic rule in Canaan.",
+        "The three pilgrimage festivals commanded here—Passover with Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles—form the liturgical heartbeat of Israel's year, and each pulses with prophetic significance that reaches its crescendo in Christ. Three times annually, every male was to appear before the Lord at His chosen dwelling place, not empty-handed but bearing offerings proportional to blessing received. These appointed times were not merely commemorative but anticipatory, shadows cast backward by realities yet to dawn.",
+        "Passover, anchored to the month of Abib when God struck Egypt's firstborn and Israel went free, finds its substance in Christ our Passover Lamb, sacrificed for us. The unleavened bread of affliction, eaten in haste, speaks of the sinless body broken at Calvary and the urgency of salvation's night. Remarkably, Jesus was crucified during Passover, His blood marking the doorposts of believing hearts as divine judgment passed over. The Feast of Weeks, counted seven weeks from the grain harvest's beginning, was fulfilled when the Spirit descended at Pentecost, gathering the firstfruits of the new covenant harvest—three thousand souls in a single day. The Feast of Tabernacles, celebrating ingathering after dwelling in booths, remains the great unfulfilled feast, pointing to the final harvest when Christ tabernacles with His people forever and the nations stream to Zion's eternal celebration.",
+        "The chapter's closing instruction concerning just judges and the prohibition of bribery establishes righteousness as the foundation of the coming kingdom. Where human judges would fail, the Righteous Judge would come—first to bear judgment, then to render it.",
+        "For the church living between the advents, these festivals remind us that we celebrate fulfilled realities while awaiting consummation. We keep the feast with the unleavened bread of sincerity and truth, having been redeemed by the Lamb, indwelt by Pentecost's Spirit, and longing for that final tabernacling when God dwells with humanity and every tear is wiped away."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.135509+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

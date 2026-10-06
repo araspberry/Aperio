@@ -1,0 +1,146 @@
+{
+  "book": "Psalm",
+  "bookIndex": 18,
+  "status": "Editorial draft",
+  "title": "Words for the Whole Life of Prayer",
+  "subtitle": "Praise, lament, trust, and the long memory of God’s people",
+  "atAGlance": {
+    "genre": "A collection of prayers, hymns, laments, royal songs, and wisdom poetry",
+    "setting": "Personal and communal life across the monarchy, exile, and the period after exile",
+    "composition": "Multiple poets and collections formed over generations; many individual dates remain uncertain",
+    "audience": "Israel at prayer, with these songs subsequently central to Jewish and Christian worship"
+  },
+  "sections": [
+    {
+      "title": "A collection spacious enough for real life",
+      "paragraphs": [
+        "Psalms gives prayer a remarkable range of voices. David’s trust and distress appear alongside songs associated with Asaph, the sons of Korah, and others, as well as many without a named attribution. Joy, anger, shame, gratitude, fear, and longing all find words. The collection does not require worshipers to arrive with one acceptable mood. It teaches them to bring life before God with greater truthfulness.",
+        "That breadth changes how the book should be read. A psalm of confident protection and a psalm crying out over abandonment belong within the same collection. Neither should be used to silence the other. Together they resist a picture of faith in which pain must be hidden or gratitude becomes impossible until every difficulty is resolved."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Learning to hear poetry",
+      "paragraphs": [
+        "The lines often develop through repetition, contrast, and a second image that sharpens the first. Mountains, water, shepherds, enemies, wings, roads, and houses become ways of perceiving life in relation to God. These images are not usually technical descriptions. They invite attention to what fear, refuge, guilt, or belonging feels like.",
+        "Read a few lines aloud and notice how the thought moves. A complaint may become a request, a memory may encourage trust, or praise may summon a whole community to join in. Some prayers make a clear turn toward confidence; others, such as Psalm 88, remain in darkness. Let each poem take its own course before deciding what emotional destination it ought to reach."
+      ],
+      "sourceIds": [
+        "text",
+        "poetry"
+      ]
+    },
+    {
+      "title": "Personal prayer within a people’s history",
+      "paragraphs": [
+        "The Psalms remember creation, the exodus, the land, Jerusalem, kingship, and exile. A person’s distress is often voiced within that larger history. The God addressed in a private plea is the God whose acts the community has learned to remember. At other times, the whole people speak from defeat, displacement, or the hope of restoration.",
+        "This shared language allows worshipers to pray beyond their immediate experience. Someone who is safe can learn to hear the endangered; someone who is grieving can be carried by another person’s praise without pretending it is already their own. The collection forms sympathy as well as expression. Its words can enlarge the range of people whose lives become present in our prayers."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Anger, justice, and responsible interpretation",
+      "paragraphs": [
+        "Some psalms ask for severe judgment against enemies. Their language should be heard within experiences of threat, humiliation, and violence, without being turned into permission for private revenge. They place cries for justice before God. Readers still need to attend to the particular words and to the wider biblical demands governing their own treatment of others.",
+        "Royal and other psalms also receive significant later interpretation. New Testament writers use the Psalms to speak about Jesus’s suffering, resurrection, and kingship. Christian readers can follow those explicit connections while first hearing the poems within Israel’s worship. A later use does not make the earlier grief or hope unreal, and not every detail requires an independently invented prophetic correspondence."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Five books, many generations",
+      "paragraphs": [
+        "The collection is arranged in five books: Psalms 1–41, 42–72, 73–89, 90–106, and 107–150. These divisions are literary, not five consecutive historical periods. Smaller groups, including the Songs of Ascents, also retain a recognizable place within the larger whole. The movement toward the final invitations to praise is meaningful, but it does not erase the laments preserved along the way.",
+        "Traditional headings are valuable guides to attribution, performance, and remembered settings, though many details remain uncertain. They do not provide secure dates for every poem. Aperio therefore keeps the collection on a worship and wisdom shelf rather than forcing it onto a single reign. Begin with a whole psalm, notice its address and movement, and return to it over time. Familiar words often become newly intelligible when life gives us a different place from which to pray."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Book I",
+      "startChapter": 1,
+      "endChapter": 41,
+      "description": "Foundational portraits of the faithful life lead into many prayers associated with David."
+    },
+    {
+      "label": "Book II",
+      "startChapter": 42,
+      "endChapter": 72,
+      "description": "Individual and communal prayers include Korahite and Davidic collections and conclude with a royal psalm."
+    },
+    {
+      "label": "Book III",
+      "startChapter": 73,
+      "endChapter": 89,
+      "description": "Questions of injustice, national loss, and the Davidic promise receive searching expression."
+    },
+    {
+      "label": "Book IV",
+      "startChapter": 90,
+      "endChapter": 106,
+      "description": "God’s enduring reign frames reflections on human frailty, creation, and Israel’s history."
+    },
+    {
+      "label": "Book V",
+      "startChapter": 107,
+      "endChapter": 150,
+      "description": "Thanksgiving, Torah meditation, pilgrimage songs, and final praise gather many voices into the closing collection."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Honest prayer",
+      "description": "Praise and lament both belong within a life addressed to God."
+    },
+    {
+      "name": "Shared memory",
+      "description": "Personal needs are held within the remembered history of God’s people."
+    },
+    {
+      "name": "Hope and worship",
+      "description": "The collection teaches trust without demanding that suffering remain unspoken."
+    }
+  ],
+  "timeline": {
+    "era": "wisdom",
+    "dateLabel": "Songs gathered across many generations",
+    "context": "The Psalter includes settings before, during, and after exile.",
+    "note": "Its five-book arrangement is literary, not a chronological sequence of eras."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 150,
+      "era": "wisdom",
+      "label": "Israel’s prayer and worship",
+      "dateLabel": "Multiple periods; individual dates often uncertain",
+      "note": "Headings and historical echoes offer context without securing a date for every psalm."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Psalm · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Psalm",
+      "url": "https://bible.usccb.org/bible/psalms/0?bk=Psalms&ch="
+    },
+    {
+      "id": "poetry",
+      "label": "Christine Hayes · Biblical poetry and the Psalms",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-21"
+    }
+  ]
+}

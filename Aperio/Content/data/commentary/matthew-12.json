@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 12: The Heart Behind Our Actions",
+      "overview": [
+        "Matthew 12 exposes the tragic gap between external obedience and internal transformation—a gap that matters infinitely to Jesus because he cares about who we're becoming, not just what we're doing.",
+        "Throughout this chapter, Jesus repeatedly challenges the religious leaders' obsession with rules divorced from compassion. When his disciples pluck grain on the Sabbath, when he heals on the Sabbath, when he casts out demons, the Pharisees calculate violations rather than celebrate restoration. Jesus responds not with apology but with a penetrating question: what is the Sabbath for? The law exists to serve human flourishing, not the other way around. A child rescued from a well on the Sabbath is worth more than theoretical obedience to a regulation. Jesus is teaching us that genuine righteousness flows from a heart aligned with God's merciful purposes.",
+        "The famous saying that \"out of the abundance of the heart the mouth speaks\" (12:34) reveals Jesus's diagnostic skill. He isn't primarily concerned with managing our behavior; he's after our hearts. What we treasure, what we love, what we fear—these internal realities shape everything we do and say. A harsh word isn't just a communication problem; it reveals something broken in us that needs healing. A generous gesture isn't just kindness; it reflects the treasure we've found in God.",
+        "This chapter invites us into honest self-examination. Where do we obey rules while ignoring people? Where do we maintain an image of righteousness while harboring contempt, anxiety, or selfishness? Jesus isn't shaming us; he's calling us to something deeper and more liberating. He wants us transformed from the inside out, aligned so thoroughly with his mercy that our actions naturally overflow with compassion and truth.",
+        "What attitudes or judgments might you be nursing that, while hidden, actually reflect a heart that needs Jesus's healing touch?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 12: Scholarly study",
+      "overview": [
+        "Matthew 12 represents a pivotal chapter in the First Gospel's narrative, marking an intensification of conflict between Jesus and the Pharisaic authorities that will ultimately culminate in the passion narrative. Composed likely in the 80s CE for a predominantly Jewish-Christian community, Matthew's Gospel here draws extensively from Markan material while incorporating Q traditions and unique Matthean additions, shaping these sources to emphasize Jesus's authoritative interpretation of Torah and his identity as the eschatological Son of Man.",
+        "The chapter opens with two Sabbath controversy narratives (vv. 1-14) that establish a fundamental hermeneutical principle. When the Pharisees challenge the disciples' grain-plucking, Jesus invokes David's consumption of the bread of the Presence (1 Sam 21:1-6) and priestly Sabbath labor, culminating in the declaration that \"something greater than the temple is here.\" The term *kyrios* (lord) in verse 8, applied to the Son of Man's authority over the Sabbath, carries profound christological weight, asserting divine prerogative over Israel's most distinctive covenantal marker. Jesus's subsequent healing of the withered hand demonstrates that *kalos poiein* (doing good) takes precedence over rigid legal observance, reflecting the prophetic principle from Hosea 6:6 that Matthew uniquely cites twice in his Gospel.",
+        "The Beelzebul controversy (vv. 22-37) introduces the unforgivable sin of blasphemy against the Holy Spirit, a passage that has generated considerable interpretive debate. The *pneuma* (spirit) by which Jesus casts out demons becomes the criterion for discerning the kingdom's arrival. Those who attribute the Spirit's work to demonic agency commit an irreversible act of spiritual perception that renders repentance impossible—not because divine mercy is limited but because the organ of recognition has been permanently corrupted.",
+        "The chapter concludes with the sign of Jonah and the redefinition of Jesus's true family (vv. 38-50), both emphasizing response to Jesus's person over ethnic or biological connection. The comparison with Nineveh and the Queen of the South serves Matthew's broader theme of Gentile inclusion and Jewish accountability. Throughout, Matthew presents Jesus as the authoritative interpreter of Israel's scriptures whose wisdom exceeds Solomon and whose prophetic ministry surpasses Jonah, demanding decision from all who encounter him."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 12: Prophetic perspective",
+      "overview": [
+        "Matthew chapter twelve unfolds during the middle years of Jesus' earthly ministry, approximately AD 28-29, roughly halfway through the three-year period between His baptism and crucifixion. This places the passage firmly in the era of fulfillment, when the long-anticipated Kingdom of Heaven had at last broken into human history through the person of Israel's Messiah. The prophetic clock that had been ticking since Eden was now striking its appointed hour.",
+        "Within the grand arc of redemption, this chapter stands at the hinge point between promise and fulfillment. The kingdom promises given to Abraham, crystallized through David, lamented in exile, and whispered by the prophets now confront Israel in flesh and blood. Jesus walks through grain fields, heals in synagogues, and casts out demons—each action declaring that the restoration has begun, yet in ways that confound religious expectation.",
+        "The Sabbath controversies opening this chapter carry immense typological weight. Jesus identifies Himself as Lord of the Sabbath, claiming authority over the very sign of the Mosaic covenant. He points to David eating consecrated bread and priests working in the temple, revealing that something greater than the temple now stands among them. The Sabbath itself was always a shadow of the rest to come—the eschatological rest that only the Son of Man could provide. When He heals the withered hand, He demonstrates that the Sabbath's deepest meaning was never mere cessation but restoration of what sin had broken.",
+        "The Beelzebul controversy unveils the cosmic dimensions of Christ's ministry. His exorcisms prove that the kingdom of God has arrived and that Satan's house is being plundered. Here stands the Stronger Man, binding the strong man, liberating captives held since Eden's fall. The unforgivable sin against the Holy Spirit represents the ultimate hardening—attributing to Satan the manifest work of God's Spirit, thereby cutting oneself off from the only source of forgiveness.",
+        "Jesus' appeal to Jonah carries profound eschatological significance. Just as Jonah emerged from three days in the great fish, so the Son of Man would emerge from the heart of the earth—a prophecy fulfilled at the resurrection and yet still echoing forward to the final judgment when the men of Nineveh will rise as witnesses.",
+        "For the church living between advents, this chapter issues both comfort and warning. The Kingdom has come in Christ, the demons are defeated, true rest is offered—yet a generation can still reject its visitation. The house swept clean but left empty warns against reformation without regeneration. Only when Christ Himself takes residence is the soul secure until that final Sabbath dawns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.461667+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

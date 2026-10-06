@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 143,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 143 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalms 143: The Prayer of a Desperate Soul",
+      "overview": [
+        "When we cry out to God from our darkest moments, we discover that honest desperation is a legitimate spiritual language. Psalm 143 captures a soul stripped of pretense, confronting both personal guilt and overwhelming circumstances, yet reaching toward God with nothing but raw faith.",
+        "David begins by pleading for God to hear his prayer—not because he deserves an answer, but because God's nature is faithful and righteous. Notice how quickly he moves to confession: \"Do not bring your servant into judgment, for no one living is righteous before you.\" This isn't self-flagellation; it's the clarity that comes when we stop comparing ourselves to others and stand before the One who sees all. His enemies pursue him, crushing his life to the ground, leaving him in darkness. Yet in this devastation, something remarkable happens. Rather than numbing the pain or pretending strength, David chooses to remember God's former works, to meditate on what God has done, and to stretch out his hands in longing. He holds memory and need together.",
+        "The famous line \"My spirit grows faint within me\" gives permission for what we often deny—that following God doesn't shield us from exhaustion, confusion, or fear. But then comes the move that transforms everything: \"Show me the way I should go, for to you I entrust my life.\" In surrendering the future entirely to God, David finds direction. He asks for deliverance not primarily from circumstances but from his enemies and from isolation, that he might serve God and know him.",
+        "This psalm teaches that spiritual maturity isn't the absence of desperation but the honest bringing of it to God. Our darkest prayers can be our truest ones, the moments when pretense falls away and we meet God as we actually are.",
+        "What part of your life feels most desperate right now, and how might you give it to God with the same honest vulnerability David models here?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 143: Scholarly study",
+      "overview": [
+        "Psalm 143 stands as the final of the seven penitential psalms in Christian tradition and bears the superscription attributing it to David, though scholars debate whether this reflects historical authorship or later liturgical classification. The psalm belongs to the genre of individual lament, exhibiting the characteristic movement from desperate plea through confession of human frailty to confident anticipation of divine deliverance. Its composition likely dates to the monarchic period, though its universal themes of spiritual distress and longing for God's presence ensured its continued use in post-exilic worship.",
+        "The opening verses establish the psalmist's appeal to Yahweh's faithfulness (*ʾĕmûnâ*) and righteousness (*ṣĕdāqâ*), two covenantal attributes that form the theological foundation for the entire prayer. Notably, verse 2 contains the remarkable petition that God not enter into judgment with his servant, accompanied by the sobering recognition that no living person can be declared righteous (*yiṣdaq*) before the divine tribunal. This acknowledgment of universal human sinfulness anticipates Pauline theology and represents a significant datum for understanding Israelite soteriology, suggesting that even the righteous in Israel understood their standing before God as dependent on divine mercy rather than moral achievement.",
+        "The central portion of the psalm employs vivid imagery to describe spiritual desolation. The enemy has crushed the psalmist's life to the ground, forcing him to dwell in darkness like those long dead. The Hebrew term *rûaḥ* appears strategically in verses 4, 7, and 10, creating a thematic thread: the psalmist's spirit grows faint, he fears God's spirit being hidden, and he prays for God's good spirit to lead him on level ground. This lexical repetition underscores the intimate connection between divine and human vitality.",
+        "The psalm's conclusion introduces covenant vocabulary, with the psalmist identifying himself as Yahweh's servant (*ʿebed*) and appealing to divine *ḥesed*, that untranslatable term encompassing loyal love, covenant faithfulness, and steadfast mercy. The final verses' imprecatory elements against enemies have generated interpretive discussion, though they must be understood within the ancient Near Eastern context where personal enemies often represented threats to the covenant community itself. The psalm thus moves from confession through petition to confident trust in Yahweh's redemptive character."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 143: Prophetic perspective",
+      "overview": [
+        "Psalm 143 emerges from the pen of David during a season of intense persecution, likely during the years when Saul hunted him through the wilderness of Judea or perhaps during the anguish of Absalom's rebellion—placing this cry approximately one thousand years before the incarnation of Christ. This psalm stands within the era of the united monarchy, after God's covenant with Abraham had birthed a nation, after the Exodus had redeemed them from Egypt, and while the Davidic throne was being established as the vessel through which Messiah would one day come.",
+        "David's desperate plea inhabits the tension between divine promise and present darkness. He appeals not to his own merit but to God's faithfulness and righteousness, declaring that no living person can stand justified before the Holy One. This confession anticipates by a millennium what Paul would articulate in Romans—that by works of the law no flesh will be justified. David's cry, \"Enter not into judgment with your servant,\" resonates through redemptive history as the universal plea of fallen humanity, finding its ultimate answer only at Calvary where the Righteous One bore judgment for the unrighteous.",
+        "The imagery of the enemy pursuing, crushing to the ground, and forcing the psalmist to dwell in darkness like those long dead creates a typological portrait of humanity's condition under sin and death. David becomes a figure of every soul crushed beneath the weight of transgression and mortality, thirsting for God like parched land yearns for rain. His stretched-out hands prefigure the posture of the crucified Christ, whose outstretched arms would become the means of rescue for all who dwell in darkness.",
+        "When David pleads for the Spirit to lead him to level ground, he glimpses what Ezekiel would later prophesy—the day when God would place His Spirit within His people, writing His law upon transformed hearts. This longing found its Pentecostal fulfillment when the Spirit descended to indwell the church, becoming the guide David yearned for.",
+        "The psalm's closing petition for the destruction of enemies and afflictors carries forward to that final day when Christ returns to vanquish every foe—sin, death, and Satan himself. The church now lives in the already-not-yet tension David experienced: delivered yet still crying out, justified yet still groaning, hidden in Christ yet awaiting the morning when His face shall shine upon us forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_143",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.540393+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

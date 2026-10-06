@@ -1,0 +1,57 @@
+{
+  "book": "John",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 12: The Hour of Glory and Surrender",
+      "overview": [
+        "This chapter marks the pivotal moment when Jesus moves toward his death while simultaneously being exalted before the world—a paradox that defines the entire gospel. The spiritual heart lies in understanding that true glory, in God's kingdom, is inseparable from humble sacrifice and the willingness to lose everything for love's sake.",
+        "John opens with Mary of Bethany anointing Jesus' feet with expensive perfume, an act of extravagant devotion that provokes Judas's complaint about waste. Yet Jesus honors her without hesitation, recognizing that some moments demand we spend our most precious resources on worship rather than calculation. This sets the tone for what follows: authentic discipleship refuses the logic of self-preservation.",
+        "When Greeks seek Jesus, desiring to see him, Jesus responds with the cryptic image of a grain of wheat that must fall to the ground and die to produce much fruit. He is speaking about his own death, yes, but also about the nature of transformation itself. We cannot multiply our influence by hoarding our lives; we expand our impact by pouring ourselves out. This is the counter-intuitive mathematics of God's kingdom.",
+        "Throughout the chapter, John weaves tension between belief and hardness of heart. Even after witnessing the resurrection of Lazarus, many refuse to believe. The prophecy of Isaiah about blindness and hardness becomes heartbreakingly relevant—some people, having seen everything, still cannot surrender to what they've seen.",
+        "Yet for those with ears to hear, Jesus makes clear that following him means following him into darkness, into the valley, into whatever road leads to life for others. The hour of glorification comes not through triumph but through the cross.",
+        "What areas of your life are you still holding back from God, afraid that surrender means loss rather than multiplication? How might you practice Mary's extravagant devotion today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 12: Scholarly study",
+      "overview": [
+        "John 12 functions as a pivotal transitional chapter in the Fourth Gospel, marking the conclusion of the Book of Signs (chapters 1–12) and preparing readers for the Book of Glory (chapters 13–21). The evangelist weaves together several interconnected episodes—Mary's anointing at Bethany, the triumphal entry into Jerusalem, the arrival of Greek seekers, and Jesus's final public discourse—creating a theological crescendo that announces the arrival of Jesus's \"hour\" (ὥρα, *hōra*), the long-anticipated moment of his glorification through death and resurrection.",
+        "The chapter opens in Bethany, where Mary of Bethany anoints Jesus's feet with an extraordinary quantity of pure nard (νάρδος πιστική, *nardos pistikē*), worth approximately a year's wages. This extravagant act of devotion stands in deliberate contrast to Judas's calculating objection, which the narrator undercuts by exposing his true character as a thief. Jesus's interpretation—\"she has kept it for the day of my burial\"—transforms a gesture of honor into prophetic preparation, foreshadowing the imminent passion while connecting Mary's lavish faith with appropriate response to Jesus's identity.",
+        "The triumphal entry narrative follows, with the crowd's acclamation drawing from Psalm 118:26 and introducing royal imagery through the palm branches and the title \"King of Israel.\" John uniquely notes that the disciples did not understand these events until \"Jesus was glorified\" (ἐδοξάσθη, *edoxasthē*), highlighting the retrospective hermeneutical framework that characterizes Johannine understanding.",
+        "The arrival of Greek seekers (Ἕλληνές, *Hellēnes*)—whether God-fearing Gentiles or Hellenistic Jews remains debated—triggers Jesus's declaration that \"the hour has come.\" This connection between Gentile inclusion and Jesus's death anticipates the universal scope of salvation achieved through the cross. The grain of wheat metaphor (verse 24) encapsulates Johannine soteriology: life emerges through death, glory through apparent defeat.",
+        "The chapter concludes with Jesus's public teaching on judgment and the \"ruler of this world,\" followed by the evangelist's theological reflection on Israel's unbelief, citing Isaiah 6:10 and 53:1. This editorial comment addresses the painful reality of widespread Jewish rejection while affirming divine sovereignty over human response. The distinction between public confession and secret belief among some rulers introduces themes of authentic versus inadequate discipleship that pervade the Gospel."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 12: Prophetic perspective",
+      "overview": [
+        "John chapter twelve stands at the threshold of Passion Week, mere days before the crucifixion that would become the axis of all history. These events unfold approximately AD 30, some three and a half years into Christ's earthly ministry, during the final Passover of His incarnate life. We stand here at the climactic moment of the entire biblical narrative—the long-awaited seed of the woman is about to crush the serpent's head, the Lamb foreshadowed since Abel's altar and prefigured in every Passover sacrifice is walking toward His appointed hour.",
+        "The chapter opens in Bethany, where Mary anoints Jesus with costly spikenard, an act of extravagant worship that Jesus interprets as preparation for His burial. Here the typology deepens profoundly—just as priests were anointed for service and kings for coronation, this woman unknowingly anoints the great High Priest who will offer Himself and the King who conquers through death. The fragrance filling the house whispers of the sweet savor His sacrifice would become before the Father.",
+        "The triumphal entry fulfills Zechariah's ancient oracle: \"Behold, your King is coming, seated on a donkey's colt.\" What Zechariah proclaimed five centuries earlier materializes before Jerusalem's gates. Yet the crowd waving palm branches and crying \"Hosanna\" fails to perceive the nature of His kingdom. They seek a conquering warrior; He comes as the suffering Servant of Isaiah's vision. The palm branches themselves carry prophetic weight—they will reappear in Revelation when the great multitude from every nation stands before the throne, finally understanding what this humble entry inaugurated.",
+        "When the Greeks seek Jesus, He declares, \"The hour has come for the Son of Man to be glorified,\" then speaks of a grain of wheat falling into the ground to die. This is the mystery hidden from ages past—glory through death, life through burial, harvest through a single seed's destruction. The Father's voice thunders from heaven, confirming what angels announced at His birth: heaven and earth converge in this Man.",
+        "Christ's declaration that His lifting up will draw all peoples to Himself stretches across the entire church age. The crucifixion becomes the magnetic center of human history, drawing elect souls from every tribe and tongue across two millennia. For the church awaiting His return, this chapter reminds us that we follow a King whose glory was revealed precisely in His humiliation, and whose kingdom advances through the same pattern of death and resurrection working in His people until He comes again."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.637811+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

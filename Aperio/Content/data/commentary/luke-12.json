@@ -1,0 +1,58 @@
+{
+  "book": "Luke",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 12: The Undivided Heart",
+      "overview": [
+        "The spiritual heart of Luke 12 beats with a single, urgent conviction: Jesus calls his followers to radical allegiance that supersedes every other fear, possession, and relationship in our lives. This chapter captures Jesus at his most prophetic and penetrating, stripping away the comfortable illusions we maintain about discipleship.",
+        "Jesus opens by warning against hypocrisy—the leaven of the Pharisees—inviting us into honest self-examination. But the passage quickly pivots to something deeper: our paralyzing fear of human judgment. He tells his disciples that what they whisper in darkness will be shouted from rooftops, yet he does not warn them to avoid persecution but to fear only God, the one who matters eternally. This reframing of fear is revolutionary. We spend enormous spiritual energy managing others' opinions, protecting our reputation, controlling how we're perceived. Jesus says this energy is wasted on temporal concerns that dust cannot touch.",
+        "Then comes the parable of the rich fool—perhaps the most convicting image in Scripture. A man builds bigger barns for grain that will feed his soul nowhere, forgetting that his life could be demanded of him that very night. The tragedy is not his wealth but his delusion, his belief that accumulation guarantees security. Jesus asks pointedly: \"What good is it for someone to gain the whole world, and yet lose or forfeit their very self?\" This hits at the heart of the human condition—our tendency to trade the eternal for the immediate, the soul for the stock portfolio.",
+        "Yet woven through these warnings is profound comfort. God values us infinitely. Not a sparrow falls outside his attention; our hairs are numbered. Fear and anxiety reveal a forgetfulness of this truth. When we live anxiously, we're essentially declaring that God cannot be trusted with our tomorrows.",
+        "What would change in your daily decisions if you truly believed God sees and values you more than you value your own reputation or security?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 12: Scholarly study",
+      "overview": [
+        "Luke 12 represents a pivotal moment in the Lukan travel narrative, where Jesus addresses an increasingly complex audience configuration—disciples in the foreground with a vast multitude pressing around them. This rhetorical setting, unique to Luke's compositional strategy, allows the evangelist to present teaching that functions on multiple levels simultaneously. The chapter coheres around themes of eschatological vigilance, the proper disposition toward material possessions, and the nature of authentic discipleship in light of coming judgment.",
+        "The chapter opens with Jesus warning against the \"leaven\" (Greek: *zymē*) of the Pharisees, identified explicitly as hypocrisy. This metaphor carries particular force given leaven's association with permeating influence and, in Jewish tradition, with corruption requiring removal before Passover. Luke's Jesus extends this warning into an apocalyptic unveiling—nothing concealed (*sygkekalymmenon*) shall remain hidden, establishing an epistemological framework where divine judgment renders all pretense futile.",
+        "The parable of the rich fool (verses 13-21), found exclusively in Luke, exemplifies the evangelist's sustained critique of wealth. The term *apothēkai* (storehouses) appears with ironic force; the man's solution to abundance is accumulation rather than distribution. His self-address—\"Soul (*psychē*), you have many goods\"—reveals a tragic reduction of human identity to material security. God's response employs *aphrōn* (fool), echoing wisdom literature's designation for those who deny practical divine relevance.",
+        "The subsequent discourse on anxiety (*merimnate*) draws from Q material shared with Matthew but receives distinctive Lukan framing through its placement after the rich fool parable. Jesus' appeal to ravens and lilies functions not as naive optimism but as theological argument: if God sustains creatures without rational capacity for worry, how much more (*poso mallon*) will he provide for those bearing his image.",
+        "Scholars debate whether verses 35-48, with their parables of watchful servants, address church leadership specifically or the community universally. The graduated punishment according to knowledge (verses 47-48) suggests Luke's pastoral concern with accountability proportional to revelation received. The chapter concludes with Jesus' sobering acknowledgment that his mission brings division rather than peace—a realistic assessment that prepares disciples for the social costs of kingdom allegiance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 12: Prophetic perspective",
+      "overview": [
+        "Luke chapter twelve unfolds during the final journey of Jesus toward Jerusalem, approximately three years into His public ministry and mere months before His crucifixion, burial, and resurrection. This places the passage at the climactic turning point of redemptive history, when the long-awaited Messiah moves steadily toward the cross that would become the hinge of all cosmic history. Within the grand arc of God's plan, we stand here at the threshold between promise and fulfillment, as the Kingdom of God draws near in the very person of its King.",
+        "The chapter opens with Jesus warning against the leaven of the Pharisees, their hypocrisy, a corruption that works invisibly but pervasively. This echoes the prophetic tradition where Israel's leaders repeatedly led the people astray through external religion devoid of heart transformation. Yet Jesus announces that nothing remains hidden; all shall be revealed. Here the eschatological Day of Judgment casts its shadow backward into the present, calling disciples to live now as those who will stand before the throne.",
+        "The teaching on fearing God rather than man establishes a prophetic reversal. The One who holds authority to cast into Gehenna is the same One who numbers the hairs of each head and watches over sparrows. This paradox of divine sovereignty and intimate care finds its ultimate expression in Christ Himself, who would soon experience both the terror of divine wrath and the Father's vindication through resurrection.",
+        "The parable of the rich fool stands as prophetic judgment against all who store treasure on earth while remaining impoverished toward God. This man's abundant harvest typifies the false security that wealth provides, yet his soul being required that very night reveals the bankruptcy of earthly accumulation. Jesus here prophesies against every generation that trusts in barns rather than the Father who clothes lilies and feeds ravens.",
+        "The extended teaching on watchfulness and readiness for the master's return constitutes explicit eschatological instruction for the church age. The faithful steward who distributes food in due season prefigures pastoral ministry throughout the interim between Christ's ascension and return. The severe judgment upon the servant who beats fellow servants and indulges in drunkenness warns that the delay of the Parousia tests and reveals true heart condition.",
+        "Christ's declaration that He came to cast fire upon the earth and bring division rather than peace unveils the present dimension of judgment that His coming initiates. The kingdom creates crisis, demanding decision, separating households, fulfilling Micah's ancient prophecy of familial conflict.",
+        "For the church awaiting Christ's return, this chapter issues the perennial call: live watchfully, invest in eternal treasure, confess Christ boldly, and discern the present time with prophetic clarity."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.575904+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

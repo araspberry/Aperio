@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "chapter": 27,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 27 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 27: The Altar of Service",
+      "overview": [
+        "Exodus 27 reveals something profound about worship: the most sacred moments with God are built on the foundation of sacrifice, accountability, and order. This chapter details the bronze altar, the courtyard, the lamp, and the garments of the priests—the practical infrastructure that made Israel's covenant relationship with God visible and functional.",
+        "The bronze altar stands at the entrance to the tabernacle, a place where the people's sins could be laid upon an offering, transferred from the guilty to the innocent substitute. This wasn't magic or mere ritual; it was the consistent, concrete way Israel learned that sin requires payment, that approaching a holy God costs something real, and that forgiveness is never casual. The bronze itself—a metal refined by fire—symbolizes judgment and judgment passed through. The priest could not minister to God's people while ignoring this altar. Similarly, we cannot deepen our spiritual life while minimizing the gravity of sin or the cost of grace.",
+        "What strikes the pastoral heart is the care given to details: the precise dimensions, the grates and hooks, the courtyard's layout. This wasn't bureaucratic minutiae but loving design. God was teaching His people that authentic worship requires structure, clarity, and sustained commitment. The courtyard surrounded by linen curtains created a bounded space where holy work happened—neither isolated from the community nor open to chaos.",
+        "The instruction about the lamp burning perpetually reminds us that God's presence with His people is continuous. The priests maintained this light as an act of service and trust.",
+        "For us today, while Christ has become our ultimate altar and High Priest, Exodus 27 invites us to ask: How seriously do we treat sin? Do we approach God with the reverence and gratitude that his provision deserves? Are we willing to serve faithfully in the ordinary maintenance of our spiritual lives?",
+        "What does authentic worship cost you, and are you willing to pay it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 27: Scholarly study",
+      "overview": [
+        "Exodus 27 presents detailed instructions for two critical elements of the tabernacle complex: the bronze altar of burnt offering and the surrounding courtyard, concluding with regulations concerning the lamp oil for the menorah. This chapter continues the divine speech initiated at Sinai, where Moses receives architectural specifications for Israel's portable sanctuary. The material moves from the innermost sacred furniture described in previous chapters toward the outer precincts where the broader community would interact with the cult.",
+        "The chapter opens with specifications for the altar of burnt offering, constructed of acacia wood overlaid with bronze (nĕḥōšet), measuring five cubits square and three cubits high. The term \"horns\" (qarnōt) designating the projections at the altar's four corners carries significant theological weight, as these appendages served both functional and symbolic purposes—providing anchor points for sacrificial animals and places of asylum for those seeking refuge. The altar's hollow construction with a bronze grating (miḵbār) has generated scholarly discussion regarding whether sacrifices were burned directly upon it or whether it served as a frame encasing an earthen altar, harmonizing with the earthen altar legislation of Exodus 20:24.",
+        "The courtyard (ḥāṣēr) dimensions—one hundred cubits by fifty cubits—establish the sacred precinct's boundaries through linen hangings suspended on bronze pillars with silver hooks and bands. This gradation of metals from bronze in the outer court to silver at the entrance to gold within the tabernacle proper reflects the increasing degrees of holiness as one approaches the divine presence. The eastern entrance, distinguished by a specially woven screen of blue, purple, and scarlet yarn, marks the threshold between common and sacred space.",
+        "The chapter concludes with instructions for pure beaten olive oil (šemen zayit zāḵ) to fuel the perpetual lamp in the tent of meeting. This eternal flame, tended by Aaron and his sons \"from evening to morning,\" symbolizes God's enduring presence among Israel. The phrase \"a statute forever\" (ḥuqqat ʿôlām) emphasizes the permanent nature of this obligation, extending its significance beyond the wilderness period into Israel's ongoing cultic life and establishing priestly responsibilities that would define Aaronic service for generations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 27: Prophetic perspective",
+      "overview": [
+        "This chapter emerges from the wilderness of Sinai, approximately 1446 years before the incarnation of Christ, during Israel's encampment at the foot of the holy mountain. The nation has been delivered from Egypt mere months prior, and God is now dictating the precise specifications for His dwelling place among His covenant people. Within the grand sweep of redemptive history, we stand at the Exodus epoch—that pivotal moment when God redeems a people for Himself through blood and power, constituting them as a kingdom of priests and establishing the entire sacrificial system that will govern their worship until Messiah comes.",
+        "The bronze altar described here stands as the first object encountered upon entering the tabernacle court, measuring five cubits square and three cubits high. This altar of burnt offering declares an unyielding truth: there is no approach to God apart from sacrifice. Every Israelite who sought communion with the Holy One had to pass this blood-stained structure where innocent victims died in the place of guilty sinners. Here stands the great type of Calvary, where the true Lamb would be lifted up—not on bronze-covered acacia wood, but upon a Roman cross. The four horns of the altar, to which sacrifices were bound and where blood was applied, point forward to that day when the power of Christ's sacrifice would extend to the four corners of the earth.",
+        "The surrounding court, enclosed by fine twisted linen curtains held aloft by pillars with silver hooks and bronze bases, established the boundary between the sacred and the common. Yet this boundary existed precisely to be crossed—through the gate, past the altar, onward to God's presence. What was shadowed in linen curtains would be torn in two when Christ cried \"It is finished,\" opening the way for all peoples to enter the holiest place.",
+        "The perpetual flame maintained by pure beaten olive oil, tended by the priests from evening to morning, speaks of the eternal vigilance of Christ's intercession and the Spirit's unceasing illumination. That light was never to go out—a statute forever throughout their generations.",
+        "For the church dwelling between the advents, this chapter declares that our access to God cost heaven's dearest treasure. We who enter boldly do so only because the bronze altar found its ultimate fulfillment, and the light that never fails now burns within us as living temples, awaiting the day when we shall need no lamp, for the Lamb Himself shall be our everlasting light."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_027",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.831464+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

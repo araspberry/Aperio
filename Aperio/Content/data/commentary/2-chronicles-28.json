@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 28 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 28: The Consequences of Turning Away",
+      "overview": [
+        "When a leader abandons the foundation of their faith, the entire community trembles. Second Chronicles 28 traces the tragic spiral of King Ahaz, whose systematic rejection of God's covenant brought calamity not just upon himself but upon an entire nation.",
+        "Ahaz became king at twenty-five, yet almost immediately chose the way of the pagan kingdoms surrounding Judah. Rather than seeking the Lord when enemies pressed in—as his predecessors had done—he burned incense to foreign gods and eventually made himself an instrument of his own nation's suffering. The passage documents how military defeats multiplied, how he lost territory and cities, how thousands of his own people were taken captive. What strikes the reader most painfully is the spiritual irony: the very idols he trusted became the occasion for deeper judgment, not protection.",
+        "This is not the story of a man destroyed by external enemies alone. Ahaz actively removed the furnishings from God's temple, stripped the house of God, and sealed its doors. His physical actions matched his spiritual rebellion—he was systematically dismantling the very covenant infrastructure that had sustained his kingdom's prosperity. Each decision led to another, momentum building toward national collapse.",
+        "Yet the passage includes a mercy-note: a prophet named Oded stood against the cruelty when Judah's army wanted to enslave their captured brethren. Even in judgment, God's compassionate voice was not entirely silent. Some in the nation still heard it.",
+        "We live in a cultural moment not unlike Ahaz's—one that constantly invites us to trust other sources of security, to abandon the structures of faith that once sustained us. Perhaps our challenges are subtler: busyness replacing prayer, worldly values replacing scriptural ones, incremental compromises that eventually remake us.",
+        "What patterns in your own life might be gradually leading you away from whole-hearted devotion to God? Where might you be settling for cultural compromise when covenant faithfulness is calling?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 28: Scholarly study",
+      "overview": [
+        "Second Chronicles 28 presents the reign of Ahaz of Judah as a paradigmatic example of royal apostasy and its consequent national calamity, serving within the Chronicler's theological framework as a stark contrast to the faithful kings who precede and follow him. The chapter belongs to the post-exilic composition of Chronicles, likely dating to the late fifth or fourth century BCE, when the community was grappling with questions of covenant faithfulness and divine justice. The Chronicler draws upon the earlier account in 2 Kings 16 but significantly expands the theological interpretation, transforming a political narrative into a homiletical exposition on the consequences of idolatry.",
+        "The passage opens with the devastating assessment that Ahaz \"did not do what was right\" (lōʾ-ʿāśāh hayyāšār), employing the standard Deuteronomistic evaluative formula but intensifying it through the subsequent catalog of cultic violations. The Hebrew term maʿal, denoting unfaithfulness or sacrilege against holy things, appears implicitly throughout the chapter's theological logic, as Ahaz's actions constitute a fundamental breach of covenant relationship. Particularly significant is the reference to his making \"molten images\" (massēkōt) for the Baals and burning his sons in fire, practices associated with Canaanite religion that the Chronicler presents as explaining Judah's military defeats.",
+        "The chapter's literary structure alternates between sin and punishment in a carefully constructed pattern. The Aramean defeat, the catastrophic losses to Israel's northern kingdom, and the Edomite and Philistine incursions all function as covenant curses activated by royal infidelity. The remarkable prophetic intervention of Oded, unique to Chronicles, introduces a moment of unexpected mercy when northern Israelites release Judean captives—a passage that has generated scholarly discussion regarding its historical plausibility and the Chronicler's possible reconciliatory agenda toward the north.",
+        "The chapter concludes with Ahaz's turn to Assyrian deities, representing the ultimate irony of seeking help from foreign gods after Yahweh's discipline. The Chronicler's notice that Ahaz was denied burial in the royal tombs constitutes a final posthumous judgment, distinguishing this faithless king from his ancestors and setting the stage for Hezekiah's dramatic reforms that follow."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 28: Prophetic perspective",
+      "overview": [
+        "Second Chronicles 28 unfolds approximately 735–715 BC during the reign of Ahaz over the southern kingdom of Judah, while the northern kingdom of Israel totters toward its final collapse under Assyrian pressure. This dark chapter sits within the period of the divided monarchy, after the glory of Solomon's temple but before the Babylonian exile—a time when God's patience with His covenant people stretched thin as idolatry consumed both kingdoms. The passage records divine judgment through military defeat yet simultaneously reveals God's relentless pursuit of repentance.",
+        "Ahaz stands as an anti-type of the faithful Davidic king, embodying everything the messianic ruler would overturn. Where David's greater Son would offer Himself as the perfect sacrifice, Ahaz burned his own sons in the fire to Molech—a horrifying inversion of the Father offering His Son for sinners. Where Christ would tear down the barriers between God and humanity, Ahaz shut the doors of the temple and multiplied altars to foreign gods on every street corner of Jerusalem. The sacred lampstand that prefigured Christ as the Light of the World was extinguished under his reign. In Ahaz, we witness the nadir of human kingship, making the necessity of a divine King unmistakably clear.",
+        "The prophetic word to Oded during Israel's invasion carries remarkable significance. When the northern army captured 200,000 of their southern brothers, the prophet commanded their release, declaring that Judah's captivity resulted from divine wrath—yet warning Israel not to presume upon their own righteousness. This moment foreshadows the gospel's leveling truth: all stand guilty before God, and mercy triumphs over judgment. The returning of captives, clothed and fed by their former enemies, whispers of the greater deliverance when Christ would release prisoners from sin's dungeon and dress them in His righteousness.",
+        "Ahaz's flight to Assyria for salvation rather than to the Lord typifies humanity's persistent idolatry—seeking deliverance from any source except the true Deliverer. His dismantling of the temple furnishings anticipates the spiritual desolation that precedes genuine revival, the stripping away that makes room for restoration.",
+        "For the church awaiting Christ's return, this chapter warns against syncretism and misplaced trust. The Davidic throne appeared ready to collapse under Ahaz, yet God preserved the lineage through which Messiah would come. Even in apostasy's darkest hour, the covenant promise endured—assuring believers that no human failure can thwart God's redemptive purposes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_028",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.840672+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

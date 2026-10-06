@@ -1,0 +1,57 @@
+{
+  "book": "Joshua",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 22: The Courage to Build Understanding",
+      "overview": [
+        "When tension threatens to tear apart God's people, wisdom and honest conversation become acts of worship. Joshua 22 captures a moment when the entire nation of Israel stands on the brink of civil war, yet chooses the harder path of reconciliation instead.",
+        "The eastern tribes—Reuben, Gad, and half of Manasseh—have finally completed their service and are released to return home across the Jordan. Before departing, they build a great altar as a memorial, a visible reminder of their shared covenant. But the western tribes see this altar and immediately assume rebellion. They gather for battle, convinced their brothers have turned away from God and forsaken the centralized worship at Shiloh. The hurt runs deep; they feel abandoned and abandoned by those they've fought alongside for years.",
+        "Yet Phinehas, the priest, does something remarkable. Rather than attack first and ask questions later, he leads a delegation to listen. The eastern tribes respond with vulnerability and clarity: the altar isn't for sacrifice but for witness—a sign that they too belong to the covenant community across the water's divide. They're not rejecting God; they're remembering their covenant bond.",
+        "This story teaches us something our fractured relationships desperately need: the presumption of good faith and the willingness to be proved wrong. How often do we construct narratives about others' motives without seeking first to understand? The western tribes' assumption of disloyalty nearly destroyed the unity God had built. But honest dialogue, humble listening, and clear explanation healed what suspicion would have shattered.",
+        "Joshua 22 invites us into the difficult discipline of seeking understanding before judgment, of giving our brothers and sisters the benefit of the doubt, and of speaking our hearts clearly when misunderstood. This is the altar we build in our churches and families—not ornate or impressive, but essential for remembering that we belong to one another.",
+        "What conversation have you been avoiding that might transform conflict into deeper unity if you chose understanding first?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 22: Scholarly study",
+      "overview": [
+        "Joshua 22 presents one of the most dramatic episodes of potential civil conflict in Israel's early settlement period, revealing the tensions inherent in maintaining religious and political unity across geographical divisions. The chapter belongs to the concluding section of Joshua (chapters 22–24), which addresses the consolidation of Israelite identity after the initial conquest narratives.",
+        "The chapter opens with Joshua dismissing the Transjordanian tribes—Reuben, Gad, and the half-tribe of Manasseh—who had fulfilled their military obligations according to the arrangement established in Numbers 32 and reiterated in Joshua 1:12–18. Joshua's benediction employs the characteristic Deuteronomistic vocabulary of covenant faithfulness, urging them to love Yahweh and walk in all His ways. The verbal form *šāmar* (to keep, guard) appears prominently, emphasizing the vigilant preservation of covenantal obligations even at geographical remove from the central sanctuary.",
+        "The construction of a large altar (*mizbēaḥ*) at the Jordan's edge precipitates the narrative crisis. The western tribes interpret this as apostasy, invoking the cautionary memory of Peor (Numbers 25) and Achan's transgression (Joshua 7), both instances where individual sin brought collective judgment. The term *maʿal* (unfaithfulness, treachery) recurs throughout the accusation, carrying connotations of covenant violation with severe theological implications.",
+        "The Transjordanian defense proves pivotal: the altar serves not for sacrifice but as a *ʿēd* (witness) ensuring future generations recognize their legitimate membership in the Israelite community. This distinction between cultic function and memorial purpose resolves the theological tension while affirming Deuteronomy's centralization principles. The altar's name, \"Witness,\" encapsulates this commemorative rather than sacrificial purpose.",
+        "Scholars debate whether this narrative reflects later anxieties about the northern sanctuaries or preserves authentic early traditions about tribal autonomy and religious unity. The presence of Phinehas, whose zealous action at Peor established his priestly credentials, suggests deliberate literary connections emphasizing proper channels for addressing suspected apostasy—dialogue before warfare. The chapter thus provides a paradigm for resolving intra-community conflict through measured inquiry rather than precipitous judgment, demonstrating that geographical separation need not compromise theological solidarity when proper communication and shared memory unite disparate groups under common covenantal identity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 22: Prophetic perspective",
+      "overview": [
+        "Joshua chapter twenty-two unfolds approximately 1400 years before the birth of Christ, following the seven-year conquest of Canaan and standing at the threshold of Israel's settlement in the promised land. This passage occurs after the great redemptive act of the Exodus and conquest but long before the monarchy, exile, or incarnation. Within God's grand narrative, we have moved from Abraham's promise through Egyptian bondage and wilderness wandering into the fulfillment of land inheritance—a critical moment when the seed of Abraham finally possesses what God swore to the patriarchs centuries earlier.",
+        "The two-and-a-half tribes—Reuben, Gad, and the half-tribe of Manasseh—had fulfilled their covenant obligation to fight alongside their brothers before claiming their inheritance east of the Jordan. Joshua's blessing and dismissal of these warriors carries profound typological weight. These tribes picture believers who receive their inheritance yet remain bound in solidarity with the whole people of God. Their willingness to delay personal rest until corporate victory was achieved foreshadows Christ Himself, who though possessing all heavenly glory, entered the battle for His people before leading them into their eternal rest.",
+        "The crisis over the altar at the Jordan reveals something essential about covenant community. When the western tribes heard of the great altar, they prepared for war, remembering how Achan's individual sin brought judgment upon all Israel. This corporate understanding of holiness points forward to the church as one body, where no member lives or sins unto themselves alone. The near-catastrophe dissolved when the eastern tribes explained their altar was not for sacrifice but for witness—a memorial ensuring future generations would recognize their kinship across the river. The altar named \"Witness\" becomes a type of those covenant signs that preserve unity across generations and geography, much as baptism and the Lord's Supper testify to one faith shared by the worldwide church.",
+        "Phinehas the priest, grandson of Aaron, led the delegation of inquiry. His presence connects this moment to the priesthood that would ultimately find its fulfillment in Christ, the great High Priest who mediates between estranged parties and brings peace. The resolution came through careful listening and charitable interpretation—a pattern for the church navigating disputes across cultural and geographical boundaries.",
+        "For believers living between Christ's advents, this chapter speaks powerfully. Though separated by rivers of circumstance, culture, and calling, we belong to one people with one inheritance secured by one Lord. Our memorials must point not to rival altars but to the one sacrifice of Christ, witnessed across every generation until He returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.236233+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Mark",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 8: The Cost of Following Jesus",
+      "overview": [
+        "Mark 8 presents the central turning point of Jesus's ministry, where He begins to reshape His disciples' understanding of who He is and what it means to follow Him. This chapter invites us to move beyond surface faith into genuine commitment, to see with spiritual sight, and to embrace the costly way of discipleship.",
+        "The passage opens with Jesus feeding four thousand—a second miraculous feeding that echoes the first but addresses a different crowd. Yet immediately after, the Pharisees demand a sign, their hearts hardened despite overwhelming evidence of His power. Jesus grieves their spiritual blindness, then heals a blind man in stages, using him as a parable for the disciples' own gradually opening eyes. They, too, are learning to see truly.",
+        "This sets the stage for Peter's confession at Caesarea Philippi: \"You are the Messiah.\" It's a stunning moment of revelation, yet Jesus immediately begins teaching what this actually means—suffering, rejection, and death. When Peter recoils in protest, Jesus delivers one of Scripture's most demanding words: \"Whoever wants to be my disciple must deny themselves and take up their cross and follow me.\" True discipleship isn't advantage or comfort; it's surrender and sacrifice.",
+        "The tension here speaks to something we still wrestle with today. We want Jesus to be powerful and protective, yet we resist the calling to lose ourselves in service. We want blessing without brokenness. But Jesus is clear: gaining our lives means losing them first.",
+        "What makes this chapter so piercing is its honesty. Discipleship requires real sight—seeing Jesus as He truly is, not as our wishes project Him. It demands real death—to our agendas, our safety, our righteous self-interest. And it promises real life—the paradoxical abundance that comes only through surrender.",
+        "What part of yourself are you most reluctant to lay down at Jesus's feet?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 8: Scholarly study",
+      "overview": [
+        "Mark 8 represents a pivotal turning point in the Second Gospel, functioning as the narrative hinge between Jesus' Galilean ministry and his journey toward Jerusalem and the cross. Composed likely in Rome during the late 60s CE, Mark's account here reaches its christological climax while simultaneously exposing the persistent spiritual blindness of the disciples. The chapter divides into three major movements: the feeding of the four thousand, controversies and warnings, and the confession at Caesarea Philippi followed by the first passion prediction.",
+        "The feeding narrative (vv. 1-10) parallels the earlier feeding of the five thousand (6:30-44), yet significant differences suggest distinct traditions. The term \"compassion\" (σπλαγχνίζομαι, splanchnizomai) in verse 2 denotes a visceral, gut-level emotion, emphasizing Jesus' profound identification with human need. The geographical setting in Decapolis territory hints at Gentile inclusion, with the seven baskets (σπυρίδας, spuridas)—larger provision baskets distinct from the Jewish κόφινοι of chapter 6—possibly symbolizing completeness for the nations.",
+        "The healing of the blind man at Bethsaida (vv. 22-26) stands unique in the Gospel tradition as a two-stage miracle. This gradual restoration functions as enacted parable, prefiguring the disciples' own progressive movement from spiritual blindness toward sight. The unusual technique of Jesus using saliva and touching the man's eyes has parallels in ancient healing practices, though Mark emphasizes Jesus' sovereign authority rather than magical procedure.",
+        "Peter's confession at Caesarea Philippi (v. 29) marks the structural center of Mark's Gospel. The title \"Christ\" (Χριστός, Christos) carried varied messianic expectations in Second Temple Judaism, and Jesus' immediate command to silence (v. 30) suggests concern about political misunderstanding. The subsequent passion prediction (vv. 31-33) introduces the suffering Son of Man motif, shocking Peter whose rebuke earns the severest response in the Gospel: \"Get behind me, Satan.\" This juxtaposition reveals the fundamental tension between divine necessity (δεῖ, dei—\"it is necessary\") and human expectation.",
+        "The chapter concludes with radical discipleship demands. The call to cross-bearing (v. 34) would have resonated powerfully with Mark's persecuted Roman audience, transforming an instrument of shameful execution into the paradigm of faithful following."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 8: Prophetic perspective",
+      "overview": [
+        "Mark chapter eight stands at the midpoint of the earliest Gospel, composed approximately thirty to thirty-five years after Christ's resurrection, during the tumultuous period leading toward Jerusalem's destruction in AD 70. Mark writes to a church already experiencing persecution, recording events from roughly AD 32, the third year of Jesus's earthly ministry as He moved through Gentile territories before turning His face resolutely toward the cross.",
+        "Within redemptive history, this chapter occupies the climactic moment of the incarnation phase, when God's long-promised Messiah walked among His people, the Kingdom of God breaking in through mighty works and authoritative teaching. Israel had waited through centuries of prophetic silence, through exile and partial restoration, for the seed of Abraham who would bless all nations and the son of David who would reign forever. Now that King stands among them, multiplying bread in the wilderness.",
+        "The feeding of the four thousand echoes with typological resonance reaching back to Exodus. As Yahweh fed Israel with manna in the wilderness, so the greater Moses provides supernatural bread for hungry multitudes, this time explicitly including Gentiles in Decapolis territory. The seven baskets remaining prophetically anticipate the fullness of the Gentile mission, even as the previous feeding's twelve baskets pointed to restored Israel. Christ reveals Himself as the true Bread from heaven, the provision God has made for a starving world.",
+        "The Pharisees' demand for a sign exposes the tragic blindness that would reject obvious glory while seeking spectacular proof. Their leaven—hypocrisy and unbelief—threatened to corrupt even the disciples, whose hardened hearts struggled to perceive spiritual reality despite witnessing multiplied loaves. The two-stage healing of the blind man at Bethsaida serves as enacted prophecy: Israel's sight would come gradually, first seeing dimly, then clearly. Peter's confession marks the first clear vision—\"You are the Christ\"—yet his immediate rebuke of Jesus reveals how partially he still perceived.",
+        "Here the great reversal begins. Jesus unveils the cross for the first time, shattering messianic expectations of triumphant conquest. The Christ must suffer, be rejected, die, and rise. This scandal remains the church's proclamation: a crucified King whose disciples must likewise deny themselves and take up crosses. The call to lose one's life to save it inverts worldly wisdom entirely.",
+        "The church today lives in the already-and-not-yet, having received full revelation of the cross while awaiting the Son of Man's return in glory. Those ashamed of Him now will face shame then; those who embrace cruciform discipleship will share His resurrection triumph."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.523936+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

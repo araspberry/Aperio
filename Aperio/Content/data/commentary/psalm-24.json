@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 24: The King of Glory Entering Our Gates",
+      "overview": [
+        "The deepest longing of the human heart is to encounter holiness—to stand in the presence of the God who owns everything and claims everything as His own. Psalm 24 invites us into that encounter, drawing us from the acknowledgment of God's sovereignty over all creation into the intimate question of who can actually approach Him.",
+        "The psalm opens with a declaration so sweeping it takes our breath away: \"The earth is the Lord's and everything in it.\" This isn't poetic exaggeration meant to inspire—it's categorical truth meant to reorient our entire understanding of ownership and stewardship. Everything we possess, every relationship we treasure, every moment we live is held in God's hands. The stability of our lives doesn't rest on our grip; it rests on His. When anxiety whispers that we must control our circumstances to survive, this opening verse reminds us that Someone far greater holds the whole world in His hands.",
+        "But then the psalm turns inward. If God owns everything, what does it mean to draw near to Him? The answer strips away our pretense: clean hands and a pure heart. This isn't moralism—it's the recognition that holiness demands integrity. We cannot approach God's presence bearing deception or harboring rebellion. Yet this is where many of us stumble, feeling hopelessly disqualified by our own compromises and failures.",
+        "This is why the psalm's conclusion moves our hearts to worship. It calls out, \"Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of glory may come in!\" Jesus is that King of glory. He possesses clean hands and a pure heart—and His sacrifice makes the way for us, the spiritually compromised, to enter too. He didn't just teach us about holiness; He lived it perfectly and paid the price for our unholiness.",
+        "As you move through this week, what area of your life feels most resistant to God's ownership? How might surrendering that to Him reshape your peace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 24: Scholarly study",
+      "overview": [
+        "Psalm 24 stands as one of the most liturgically significant compositions in the Psalter, likely composed for processional use during the transport of the ark of the covenant into Jerusalem or for regular worship at the temple gates. Attributed to David in the superscription, the psalm reflects ancient Near Eastern concepts of divine kingship while subverting them through Israel's distinctive theology of YHWH as the cosmic sovereign. The psalm divides naturally into three strophes: a hymnic declaration of YHWH's universal sovereignty (vv. 1–2), an entrance liturgy establishing moral prerequisites for worship (vv. 3–6), and a dramatic antiphonal summons for the temple gates to receive the divine King (vv. 7–10).",
+        "The opening declaration that \"the earth is the LORD's and the fullness thereof\" employs the Hebrew term *tēvēl* (world, inhabited earth), emphasizing not merely the physical planet but the ordered cosmos as YHWH's domain. The foundation imagery in verse 2, where God established the earth upon the seas (*yammîm*) and rivers (*nehārôt*), draws upon ancient cosmological concepts while polemically asserting YHWH's supremacy over chaotic waters that other ancient Near Eastern religions personified as rival deities.",
+        "The entrance torah in verses 3–6 poses the question of who may ascend the \"holy hill\" (*har qodšô*), answered through ethical rather than merely ritual qualifications. The phrase \"clean hands and a pure heart\" (*bār lēvāv*) represents a merism encompassing both external conduct and internal disposition, reflecting the prophetic insistence that authentic worship requires moral integrity. The mysterious reference to \"the generation of those who seek him, who seek the face of Jacob\" presents textual difficulties, with some manuscripts reading \"your face\" and scholarly debate continuing over whether Jacob functions as a divine epithet or refers to the covenant community.",
+        "The climactic summons to the \"ancient doors\" (*pitḥê ʿôlām*) to lift their heads for the entrance of the \"King of glory\" (*melek hakkāvôd*) likely accompanied actual liturgical procession, with the repeated question-and-answer format suggesting antiphonal performance between processional participants and gatekeepers. The identification of this King as \"YHWH of hosts\" (*YHWH ṣevāʾôt*) underscores divine martial sovereignty, presenting the God of Israel as victorious warrior-king whose glory fills the sanctuary."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 24: Prophetic perspective",
+      "overview": [
+        "Psalm 24 emerges from the pen of David approximately one thousand years before the incarnation of Christ, most likely composed during the triumphant procession of the ark of the covenant into Jerusalem, that pivotal moment when David established Zion as the dwelling place of God among His people. This places the psalm squarely within the Kingdom phase of redemptive history, after the Exodus deliverance and wilderness wandering, during the consolidation of Israel's monarchy under the man after God's own heart.",
+        "The psalm opens with a thunderous declaration of divine sovereignty: the earth belongs to Yahweh because He founded it upon the seas and established it upon the rivers. This reaches backward to creation itself, reminding Israel that the God who chose them is none other than the cosmic King who spoke all things into existence. Yet this universal lordship narrows to a pointed question that reverberates through every generation: who may ascend the holy hill? Who shall stand in the presence of unmediated holiness?",
+        "The requirements outlined—clean hands, a pure heart, a soul not lifted to idols, lips free from deceit—present an impossible standard that simultaneously reveals human need and prophesies the coming of One who alone could perfectly fulfill these demands. Here is profound typology: David's ascent of Zion with the ark foreshadows Christ's greater ascent, first to Calvary bearing the weight of human sin, then through death into resurrection glory, and finally through the heavenly gates to the Father's right hand. The ark itself, that golden throne where mercy and justice met over the blood-sprinkled seat, pointed relentlessly toward the incarnate Son in whom God would fully dwell among humanity.",
+        "The climactic cry rings out: \"Lift up your heads, O gates! Be lifted up, ancient doors, that the King of glory may come in!\" The watchers demand identification, and the answer resounds—Yahweh of hosts, mighty in battle. This processional liturgy was fulfilled when Christ, having conquered sin, death, and every principality, ascended through the heavenly portals to receive His coronation as exalted Lord. What David enacted in shadow, Jesus accomplished in substance.",
+        "Yet the psalm extends forward still. The church lives in the already of Christ's heavenly enthronement while awaiting the not-yet of His visible return when every gate of human resistance shall yield, every proud door shall bow, and the King of glory shall come in to make all things new. Those who seek His face now, cleansed by His blood, shall behold Him then in unveiled splendor."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.188735+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

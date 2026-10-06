@@ -1,0 +1,57 @@
+{
+  "book": "Exodus",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 22: Justice That Reflects God's Character",
+      "overview": [
+        "The heart of this chapter beats with God's deep concern for the vulnerable and His vision of a community where justice protects the powerless and restores what has been wronged.",
+        "After establishing the foundational laws in the previous chapter, Exodus 22 zooms in on the concrete details of everyday life—stolen oxen, damaged fields, borrowed tools, and disputes between neighbors. What might seem like a tedious catalog of case laws actually reveals something profoundly beautiful about God's character. He cares about the widow, the orphan, and the sojourner. He notices when someone's livelihood is threatened. He doesn't view justice as an abstract principle but as the loving cement that holds a community together.",
+        "Notice the progression of the chapter. When restitution is required, the guilty party often must repay more than they took—not as cruel punishment, but as a wake-up call to conscience and a way to make the victim whole. God also establishes a crucial boundary: penalties should be proportionate and humane. You don't destroy someone's future for a momentary wrong. There's mercy woven throughout the justice.",
+        "What strikes many modern readers is how seriously God takes seemingly small things. A borrowed ox matters. A neighbor's field matters. Why? Because real people depend on these things to feed their families. The God of Exodus is not distant from the texture of human need. He legislates with tenderness for the economically fragile.",
+        "This passage invites us to ask whether our own communities reflect this same concern for the vulnerable. Do our decisions—about money, time, justice, and restitution—protect those with little power? Do we see others' losses as mattering to God, and therefore to us?",
+        "What situation in your own life or community is God inviting you to address with this same justice-seeking, mercy-giving heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 22: Scholarly study",
+      "overview": [
+        "Exodus 22 continues the collection of casuistic legislation commonly designated the Book of the Covenant (Exodus 20:22–23:33), representing one of the earliest legal corpora in the Hebrew Bible. This chapter addresses matters of property rights, social responsibility, and cultic obligations, reflecting the agrarian context of ancient Israelite society while simultaneously establishing theological principles that distinguish Israel from its ancient Near Eastern neighbors.",
+        "The chapter opens with laws concerning theft and property damage, employing the Hebrew term *gannab* (גַּנָּב), denoting one who steals covertly, distinguished from the robber who acts openly. The restitution formulas—fourfold for sheep, fivefold for oxen—reflect the economic value of these animals, with oxen commanding higher restitution due to their agricultural utility. The provision permitting lethal defense against nocturnal intruders (verses 2–3) demonstrates sophisticated legal reasoning about justified homicide, with daylight intrusion demanding restraint due to the availability of witnesses and alternative remedies.",
+        "The legislation regarding custodial responsibility (verses 7–15) employs the significant term *piqqadon* (פִּקָּדוֹן), referring to property entrusted to another's care. These provisions anticipate later rabbinic discussions of bailment and fiduciary duty. The oath \"before the LORD\" (verse 11) introduces divine adjudication when human evidence proves insufficient, demonstrating the inseparability of civil and religious spheres in ancient Israelite jurisprudence.",
+        "The chapter's latter portion transitions toward vulnerable populations and cultic regulations. The Hebrew *'almanah* (אַלְמָנָה, widow) and *yatom* (יָתוֹם, orphan) appear together as paradigmatic examples of the socially defenseless, with divine self-identification as their protector carrying implicit warnings of theophanic judgment. The prohibition against interest (*neshek*, literally \"biting\") on loans to the poor distinguishes Israelite practice from Mesopotamian economic norms.",
+        "Scholars note tensions within the chapter's compositional history, with some attributing variations in legal formulation to different source traditions later harmonized. The juxtaposition of property laws with humanitarian concerns and cultic prohibitions suggests an editorial intent to present Israel's social ethics as fundamentally rooted in covenant relationship with YHWH. The chapter thus functions not merely as civil legislation but as theological instruction, positioning economic justice and cultic fidelity as inseparable expressions of covenantal loyalty."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 22: Prophetic perspective",
+      "overview": [
+        "Exodus 22 emerges from the wilderness of Sinai approximately 1446 years before Christ's incarnation, mere months after Israel's dramatic deliverance from Egypt. This legal code was given during the critical period between redemption and inheritance—the nation had been saved by blood and power but had not yet entered the land of promise. On the grand timeline of redemption, we stand at the Exodus epoch, that pivotal hinge between the Abrahamic promise and the eventual kingdom, where God transforms a liberated slave people into a holy nation governed by His righteous standards.",
+        "These case laws extending from the Decalogue reveal the character of the Redeemer-King who purchased Israel. The regulations concerning theft, restitution, and property protection establish that the God who delivered Israel from Pharaoh's exploitation now guards the weak from exploitation by their own brothers. The requirement of fourfold and fivefold restoration for stolen livestock shadows a greater principle: what sin has stolen, grace restores with interest. When David pronounced judgment on the man in Nathan's parable, he unknowingly testified to this divine pattern. Christ Himself, in the house of Zacchaeus, witnessed the fruit of true repentance when the tax collector pledged fourfold restoration, echoing this ancient statute.",
+        "The laws protecting the vulnerable—the stranger, the widow, the orphan—carry prophetic weight that echoes through all subsequent Scripture. God declares He will surely hear their cry, for He heard Israel's cry in Egypt. This establishes an eternal principle: the Lord positions Himself as defender of the defenseless, a truth that reaches its fullest expression when the Son of Man comes to seek and save the lost. The prohibition against charging interest to the poor among God's people prophetically anticipates the economy of the Kingdom, where generosity rather than exploitation governs relationships.",
+        "The command not to revile God or curse rulers points forward to the proper ordering of authority that finds its culmination in Christ, who submitted to earthly rulers while remaining Lord of all. The requirement to give the firstborn to God—whether of sons, oxen, or sheep—perpetuates the Passover principle and looks toward the day when God Himself would give His firstborn Son.",
+        "For the church dwelling between advents, Exodus 22 reminds us that redemption produces righteousness. Those saved by the Lamb must live as holy people, protecting the vulnerable, practicing justice, and honoring the God whose character these laws reflect."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.8173+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

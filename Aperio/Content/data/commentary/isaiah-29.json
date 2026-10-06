@@ -1,0 +1,55 @@
+{
+  "book": "Isaiah",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 29: The Paradox of God's Transforming Work",
+      "overview": [
+        "Isaiah 29 presents one of Scripture's most striking paradoxes: God comes to those who draw near to him with their mouths while their hearts remain far away, yet he promises to work wonders that will astound and transform them. This chapter captures the tension between human pretense and divine reality, between what appears foolish to the world and what proves wise in God's economy.",
+        "The prophet begins by describing Jerusalem as a city performing religious ritual without genuine devotion—speaking the language of faith while harboring hollow hearts. This was not mere accidental coldness but willful self-deception, people going through the motions of worship while their affections belonged elsewhere. Yet into this spiritual stupor, God declares he will work in ways that confound human understanding. The wise will become fools, the clever will be outwitted, and the hidden will be exposed. There is judgment here, certainly, but not without purpose.",
+        "What makes Isaiah 29 deeply comforting is its underlying promise: God will not abandon his people to their pretense. Instead, through bewildering circumstances and humbling revelations, he awakens them to genuine faith. The poor and afflicted will hear God's voice with joy, while those trapped in darkness will see light. This is the peculiar mercy of God—he shatters our self-satisfied religion so that we might encounter him authentically.",
+        "This speaks powerfully to modern discipleship. We too can drift into performances of faith, checking spiritual boxes while our hearts wander. We memorize answers and attend gatherings without wrestling with God's claim on our lives. But God loves us too much to leave us there. He orchestrates circumstances, speaks through his Word, and persistently calls us back to genuine intimacy with himself.",
+        "What areas of your faith have become more performance than passion? Where might God be inviting you to deeper, truer worship that engages not just your mind or habits, but your whole heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 29: Scholarly study",
+      "overview": [
+        "Isaiah 29 occupies a pivotal position within the collection of woe oracles spanning chapters 28–33, addressing the political and spiritual crisis facing Judah during the late eighth century BCE. The chapter divides into two major movements: verses 1–14 pronounce judgment upon Jerusalem (here called \"Ariel\"), while verses 15–24 expose the futility of human scheming against divine purposes and conclude with eschatological hope. The historical backdrop involves Judah's precarious negotiations with Egypt against Assyria during Hezekiah's reign, policies Isaiah consistently opposed as faithless reliance on human power rather than Yahweh.",
+        "The enigmatic designation \"Ariel\" (אֲרִיאֵל, *ʾărîʾēl*) in verses 1–2 carries deliberate polyvalence. The term likely derives from Akkadian *arallu* (underworld) or functions as a compound meaning \"lion of God\" or \"altar hearth\"—the latter usage appearing in Ezekiel 43:15–16. Isaiah exploits this ambiguity: Jerusalem, the city of David's encampment where festivals proceed annually, will become a literal altar hearth, consumed by divine fire. The ironic reversal is devastating—the place of legitimate sacrifice becomes itself the sacrifice.",
+        "The oracle's theological center emerges in verses 9–14, where Isaiah diagnoses Judah's spiritual blindness. The striking image of prophets and seers with covered eyes (*עֵינַיִם*, *ʿênayim*) indicates judicial hardening reminiscent of Isaiah's commission in chapter 6. Verse 13 introduces the crucial distinction between lip-service and heart-devotion, employing *לֵב* (*lēḇ*), the Hebrew term encompassing mind, will, and affection. Jesus notably cites this passage in Mark 7:6–7 when confronting Pharisaic formalism.",
+        "Verses 15–16 shift to address those who \"hide counsel deep\" (*מַעֲמִיקִים*, *maʿămîqîm*)—likely court officials conducting covert diplomacy with Egypt. Isaiah's potter-clay metaphor challenges the creature's presumption to instruct the Creator, a theme Paul develops in Romans 9:20–21. Scholarly debate continues regarding whether verses 17–24 represent Isaianic material or later redactional additions, though the vocabulary and theological coherence suggest authentic prophetic hope: Lebanon's transformation, the deaf hearing, and Jacob's descendants sanctifying Yahweh's name constitute the reversal of judgment previously announced."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 29: Prophetic perspective",
+      "overview": [
+        "Isaiah 29 emerges from the turbulent final decades of the eighth century before Christ, approximately 701 BC, when the Assyrian war machine under Sennacherib threatened to swallow Jerusalem whole. The prophet speaks during the reign of Hezekiah, some seven centuries before the Word became flesh, yet his vision penetrates far beyond the immediate Assyrian crisis to encompass judgments and restorations that span the entire redemptive narrative from his own day through the church age and into the final consummation.",
+        "Within the grand arc of salvation history, this oracle occupies the Kingdom era at its moment of greatest peril. David's throne totters, and the city he conquered—here called Ariel, the lion of God or the altar hearth—faces divine siege before foreign siege. The passage reveals a devastating pattern: God Himself encamps against His own people before delivering them from their enemies. This double movement of judgment and salvation typifies the entire prophetic witness and finds its ultimate expression at Golgotha, where God's wrath and mercy converge upon the true Altar, Christ Himself, who becomes both the besieged city and the delivering Lord.",
+        "The judicial blindness pronounced upon Judah's prophets and seers carries explicitly into the New Testament, where Jesus quotes verses 13-14 against the Pharisees, and Paul applies this spiritual stupor to Israel's temporary hardening during the church age. What Isaiah witnessed in embryo—leaders honoring God with lips while hearts wandered far—became the defining diagnosis of first-century Judaism rejecting its Messiah. This prophetic indictment thus stretches across centuries, finding repeated fulfillment wherever religious formalism supplants heart transformation.",
+        "Yet woven through the judgment burns the promise of reversal. Lebanon becoming fruitful field, the deaf hearing the words of the scroll, the blind seeing through gloom—these images find their inaugural fulfillment in Christ's healing ministry, continue through the Spirit's illuminating work in regeneration, and await their consummate realization when every curse lifts in the new creation. The meek rejoicing in the Holy One of Israel points beyond any historical restoration to that eschatological community gathered around the Lamb.",
+        "For the church dwelling between the advents, Isaiah 29 serves as both warning and hope. Religious externalism still provokes divine opposition, yet the promise stands: God will do marvelous things, wondrously marvelous, transforming scorners into disciples and bringing forth from Jacob a people who sanctify His name in spirit and truth."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.798308+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

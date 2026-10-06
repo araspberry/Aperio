@@ -1,0 +1,55 @@
+{
+  "book": "Judges",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Judges 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Judges 1: The Incomplete Victory",
+      "overview": [
+        "The book of Judges opens with a painful pattern—God's people conquering some enemies while failing to drive out others, and that spiritual compromise will echo through generations. This chapter sets the trajectory for the entire book: partial obedience produces partial blessing, and the seeds of future failure are sown in present hesitation.",
+        "After Joshua's death, the Israelites ask God who should lead them into the land. The Lord commands Judah forward, and there is real victory—Adoni-bezek is defeated, Jerusalem is taken, and multiple cities fall to Israel's sword. Yet beneath these triumphs lies a troubling refrain: \"But they did not drive out...\" The Canaanites remain in Gezer, in the coastal plains, in certain valleys. Some are enslaved rather than expelled. The people compromise, accommodating pagan neighbors rather than fully claiming their inheritance.",
+        "This resonates deeply with how we live out our faith today. We experience genuine victories in Christ—sin is defeated, the Spirit empowers us, transformation begins—yet we often leave \"Canaanites\" in our lives. We contain our addiction rather than abolish it, manage our pride rather than surrender it completely, tolerate patterns of compromise that should be driven out entirely. Like Israel, we settle for partial obedience, telling ourselves the enemy is subdued enough.",
+        "The tragedy is that God *had* promised complete victory. Joshua's generation knew that fully. But as time passes, memory fades and resolve weakens. New generations inherit both the promises and the unfinished work, yet lack the courage to complete it. Eventually, those remaining Canaanites become oppressors themselves.",
+        "Perhaps today the Spirit is asking: What \"Canaanites\" remain unconquered in your life? What area of discipleship have you left half-finished, telling yourself it's manageable? The God who gave Israel victory offers the same power to us. The question is whether we'll embrace complete rather than convenient obedience."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Judges 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Judges serves as a critical transitional text, bridging the conclusion of Joshua's conquest narrative with the cyclical pattern of apostasy that dominates the remainder of the book. Composed during the monarchic period, likely drawing upon earlier tribal traditions, this chapter functions as both epilogue to the conquest and prologue to Israel's subsequent failures. The phrase \"after the death of Joshua\" (*wayhî ʾaḥărê môt yĕhôšuaʿ*) deliberately echoes Joshua 1:1's reference to Moses's death, establishing literary continuity while signaling a new, more troubled era.",
+        "The chapter presents a carefully structured account of tribal military campaigns, beginning with Judah's successes and progressively deteriorating as the narrative moves northward through the tribal allotments. This geographical-theological movement from relative faithfulness to increasing compromise reflects the Deuteronomistic concern with Israel's failure to execute the *ḥērem* (חֵרֶם), the sacred ban requiring complete devotion of conquered peoples and property to Yahweh. The repeated refrain that various tribes \"did not drive out\" (*lōʾ hôrîš*) the Canaanite inhabitants appears with increasing frequency, transforming from isolated exception to normative failure.",
+        "The inquiry of Yahweh through lot or oracle in verse 1-2 establishes Judah's divinely sanctioned priority, a detail carrying significant implications for later Davidic theology. The Caleb-Othniel-Achsah narrative embedded within the Judahite account preserves archaic traditions connecting Israel's first judge to the exemplary faithfulness of Caleb's household. Achsah's request for \"springs of water\" (*gullōt mayim*) demonstrates female agency in securing essential resources, a motif recurring throughout Judges.",
+        "Scholarly debate surrounds the chapter's relationship to Joshua 15-17, with some viewing Judges 1 as an independent, potentially more historically reliable tradition, while others regard it as a theologically shaped recapitulation emphasizing failure rather than success. The mention of iron chariots preventing Judah's coastal conquest (verse 19) introduces technological and theological tensions—does military limitation indicate divine abandonment or human faithlessness? The canonical placement invites readers to interpret subsequent cycles of oppression as consequences of this foundational compromise, establishing the theological framework through which Israel's pre-monarchic history must be understood."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Judges 1: Prophetic perspective",
+      "overview": [
+        "Judges chapter one unfolds approximately 1380 years before the birth of Christ, in the immediate aftermath of Joshua's death, as the second generation of conquest begins its task of securing the Promised Land. This passage stands at a critical juncture in redemptive history—after the Exodus deliverance, after the wilderness wanderings, after the initial conquest under Joshua, but before the establishment of the monarchy. Israel dwells in the land of promise yet faces the sobering reality that the inheritance must still be possessed by faith and obedience.",
+        "The chapter opens with a question that will echo through the ages: \"Who shall go up first?\" The answer—Judah—carries profound typological weight. From Judah would come David, and from David's line, the Lion of the tribe of Judah who would crush not merely Canaanite strongholds but the gates of hell itself. When Judah takes Bezek and defeats Adoni-bezek, whose severed thumbs and toes rendered him powerless, we glimpse a shadow of how Christ would disarm principalities and powers, making a public spectacle of them at Calvary. The mutilation of the enemy king pictures the total incapacitation of Satan's authority through the cross.",
+        "Yet this chapter sounds an ominous refrain that grows louder with each tribal report: \"they did not drive out.\" Judah could not dislodge those with iron chariots. Ephraim allowed Canaanites to remain. Manasseh, Zebulun, Asher, and Naphtali all compromised, permitting pagans to dwell among them as forced labor rather than executing the holy ban. Here lies the seed of Israel's coming apostasy. What seems like practical tolerance becomes spiritual catastrophe. The unconquered remnants would become snares, their altars and gods seducing Israel into idolatry that would provoke centuries of divine judgment.",
+        "This pattern reveals an enduring spiritual principle: incomplete obedience yields complete defeat. The church age witnesses the same danger—believers who tolerate rather than mortify sin, who accommodate rather than confront worldly patterns, who negotiate with spiritual enemies rather than claiming complete victory in Christ. What we refuse to drive out will eventually drive us into bondage.",
+        "For those living between the advents, Judges one both warns and encourages. Our Joshua—Jesus, bearing the same Hebrew name—has won the decisive victory. Yet we must possess what He has purchased, taking every thought captive, putting to death the deeds of the flesh, advancing until He returns to complete what we could never finish in our own strength."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "07_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.325927+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

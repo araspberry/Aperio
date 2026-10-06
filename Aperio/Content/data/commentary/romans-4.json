@@ -1,0 +1,55 @@
+{
+  "book": "Romans",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 4: The Gospel of Faith",
+      "overview": [
+        "In Romans 4, Paul invites us into the revolutionary truth that has always been God's way of relating to His people: we are saved and justified not by what we accomplish, but by what we believe. This chapter dismantles every human achievement-based approach to righteousness and plants us firmly on the foundation of faith—a faith that leans entirely upon God's promise rather than our performance.",
+        "Paul uses Abraham as his primary witness, showing that even the father of the Jewish nation was justified by faith, not by works. When Abraham believed God's promise of a son and heir, despite his age and Sarah's barrenness, \"it was credited to him as righteousness.\" This wasn't Abraham earning his standing with God through moral effort; it was Abraham trusting God at His word. The same principle applies to us. We too are justified—declared righteous in God's eyes—not because of our moral track record or spiritual accomplishments, but because we believe in the One who raised Jesus from the dead.",
+        "This is profoundly liberating, especially for those of us who carry the weight of perfectionism or the shame of repeated failure. The gospel message declares that your standing with God does not fluctuate with your performance. It is fixed in Christ and received through faith. Faith is not a work we accomplish; it is the posture of trust and receptivity to God's grace. When we believe, we are reckoning God as true, even when our circumstances seem to contradict His promises.",
+        "In daily life, this truth reshapes how we approach our relationship with God. We stop trying to prove ourselves worthy and start receiving ourselves as loved. We stop performing and start trusting. We discover that faith is not passive naïveté but active, courageous reliance on God's faithfulness.",
+        "Where might you still be trying to earn God's approval through performance rather than resting in what He has already accomplished through Christ?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 4: Scholarly study",
+      "overview": [
+        "Romans 4 represents a crucial argumentative pivot in Paul's letter to the Roman churches, wherein the apostle marshals the figure of Abraham as decisive proof that justification has always operated through faith rather than works of the law. Writing to a mixed congregation of Jewish and Gentile believers around 57 CE, Paul strategically selects the patriarch—revered by both groups—to demonstrate that his gospel of grace through faith constitutes not an innovation but rather the recovery of God's original salvific pattern.",
+        "The chapter opens with Paul's rhetorical question about what Abraham discovered \"according to the flesh\" (*kata sarka*), immediately establishing the contrast between human effort and divine grace. Paul's citation of Genesis 15:6 functions as the theological linchpin: Abraham \"believed\" (*episteusen*) God, and this faith was \"credited\" (*elogisthē*) to him as righteousness. The verb *logizomai*, appearing eleven times in this chapter, derives from commercial accounting terminology, signifying the formal reckoning or imputation of something to one's account. Paul's point is that righteousness was deposited to Abraham's account not as wages earned but as a gift received through trust.",
+        "Paul's appeal to David in verses 6–8 broadens the scriptural witness, demonstrating that the blessedness of imputed righteousness apart from works appears throughout Israel's sacred texts. The interpretive crux emerges in verses 9–12, where Paul emphasizes the chronological sequence: Abraham received the promise and the reckoning of righteousness while still uncircumcised, making circumcision merely a confirming seal rather than a prerequisite. This temporal argument proves theologically decisive for including Gentiles within Abraham's family.",
+        "The latter portion develops Abraham as the paradigmatic believer who trusted God's promise despite his body being \"as good as dead\" (*nenekrōmenon*). His faith was directed toward the God who \"gives life to the dead and calls into existence things that do not exist\"—language anticipating the resurrection theology that climaxes in verse 25. Some scholars debate whether Paul's Abraham exemplifies human faith as response or divine faithfulness as ground; the passage likely holds both in tension, with Abraham's trust corresponding to God's unwavering promise. Paul thus establishes Abraham as father of all who believe, transcending ethnic boundaries while maintaining covenantal continuity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 4: Prophetic perspective",
+      "overview": [
+        "Romans 4 emerges from the pen of the Apostle Paul around AD 57, approximately twenty-five years after the resurrection and ascension of Christ. The church has now spread throughout the Mediterranean world, and Paul writes to believers in Rome—the heart of Gentile civilization—to set forth the fullness of the gospel. This epistle arrives in the church age, that pivotal era between Pentecost and the Second Coming when the mystery hidden for ages is being revealed: that Jew and Gentile together inherit the promises through faith in the crucified and risen Messiah.",
+        "Paul reaches back nearly two thousand years before his own day to anchor his argument in Abraham, the father of the faithful who lived around 2000 BC. This chronological reach is itself theologically explosive—Paul demonstrates that justification by faith is not a Christian innovation but the original pattern of salvation, predating the law of Moses by some four centuries. Abraham believed God, and it was counted to him as righteousness, not as wages earned but as a gift received. The patriarch thus becomes a type of all who would later trust in the promised Seed, standing as the fountainhead of a faith-lineage that transcends ethnic boundary and ceremonial marker.",
+        "The typological significance deepens when Paul invokes David, Israel's great king who sang of the blessedness of the one whose transgressions are forgiven and whose sins are covered. David knew the weight of guilt and the glory of pardon—he too was justified not by works but by a righteousness reckoned apart from merit. These two figures, Abraham the called and David the fallen, together testify that from the earliest movements of redemptive history, God's method has been consistent: He justifies the ungodly through faith.",
+        "Paul presses further into Abraham's story, noting that the patriarch received the promise of being heir of the world while still uncircumcised. The sign of circumcision came afterward as a seal, not a source, of his righteousness. This sequence shatters any notion that ritual observance precedes divine acceptance and opens the door for Gentiles to enter Abraham's family through the same faith.",
+        "The eschatological horizon appears when Paul describes Abraham believing in the God who gives life to the dead and calls into existence things that do not exist. Abraham's faith in the promise of Isaac pointed beyond itself to resurrection—ultimately to Him who was delivered up for our trespasses and raised for our justification. The church now lives as Abraham's children, justified freely, awaiting the final resurrection when faith becomes sight."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.742748+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

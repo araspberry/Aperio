@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 13: The Narrowness of the Gate and God's Persistent Love",
+      "overview": [
+        "Luke 13 places before us one of Scripture's most haunting questions: \"Will only a few be saved?\" Yet the passage refuses to let us remain paralyzed by uncertainty, instead calling us toward urgent, personal transformation and humble trust in God's unexpected mercy.",
+        "The chapter opens with Jesus confronting a dangerous spiritual assumption—that tragedy reveals God's judgment upon the sufferer. When asked about a tower collapse that killed eighteen people, Jesus redirects the questioners away from morbid speculation toward repentance. The implication is clear: rather than diagnosing others' spiritual condition through their circumstances, we must examine our own hearts. This is less about arithmetic of the saved and more about the posture of our souls before God.",
+        "The narrow door saying that follows doesn't invite statistical debate but personal decision. Jesus speaks as though salvation requires effort—striving to enter—yet elsewhere Scripture teaches that grace cannot be earned. This tension dissolves when we understand that the striving is not toward merit but toward alignment with God's kingdom. It's the effort of turning around, of truly wanting what God wants, of surrendering resistance.",
+        "What strikes deeply is Jesus's image of himself as a hen longing to gather Jerusalem's children under wings of protection, yet they were unwilling. Here is divine love itself, vulnerable and persistently gentle, repeatedly rejected. This tender metaphor shatters any notion of God as distant or punitive. God does not force the narrow gate upon us but stands at it, longing for our return.",
+        "The passage also includes the healing of a bent woman on the Sabbath—a quiet revolution against legalism that prioritizes human liberation and wholeness over religious rule-keeping.",
+        "Luke 13 asks us: What am I resisting? Where is God's persistent love meeting my reluctance? Am I willing to be straightened, healed, and gathered into safety?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 13: Scholarly study",
+      "overview": [
+        "Luke 13 presents a carefully constructed collection of teachings and narratives that address the urgent themes of repentance, the nature of God's kingdom, and the crisis of decision facing Israel. The chapter belongs to Luke's extensive travel narrative (9:51–19:44), during which Jesus journeys toward Jerusalem, a geographical and theological movement that heightens the eschatological tension pervading these passages. Luke, writing likely in the 80s CE for a predominantly Gentile audience, shapes this material to emphasize both the universal scope of salvation and the particular accountability of those who presume upon their covenant status.",
+        "The chapter opens with Jesus responding to reports of Galileans whom Pilate killed during sacrifice, an incident otherwise unattested but consistent with Pilate's documented brutality. Jesus emphatically rejects the assumption that suffering correlates directly with sinfulness, employing the verb *metanoeō* (μετανοέω, \"to repent\" or \"change one's mind\") twice in the opening pericope. This term carries more than moral reform; it demands a fundamental reorientation of life toward God's coming reign. The parable of the barren fig tree (vv. 6–9) extends this warning while introducing divine patience—the gardener requests one more year of cultivation before judgment falls.",
+        "The healing of the bent woman on the Sabbath (vv. 10–17) illustrates Luke's characteristic concern for marginalized persons, particularly women. The term *apolyō* (ἀπολύω, \"to release\") in verse 12 echoes liberation language found throughout Luke-Acts, connecting physical healing to broader soteriological themes. Jesus' defense invokes *qal wahomer* reasoning familiar from rabbinic discourse, arguing from lesser to greater: if animals receive care on the Sabbath, how much more this \"daughter of Abraham.\"",
+        "The twin parables of mustard seed and leaven (vv. 18–21) subvert expectations about the kingdom's manifestation, emphasizing hiddenness and organic growth rather than political triumph. The chapter concludes with the narrow door saying and Jesus' lament over Jerusalem (vv. 22–35), where *thelyō* (θέλω, \"to will\" or \"desire\") in verse 34 poignantly expresses divine yearning met with human resistance. Scholars debate whether the Jerusalem lament originated here or represents Lukan repositioning of Q material also found in Matthew 23:37–39, though its placement intensifies the narrative's mounting tension as Jesus approaches the holy city."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 13: Prophetic perspective",
+      "overview": [
+        "Luke chapter thirteen unfolds during the final journey of Jesus toward Jerusalem, approximately three years into His public ministry, around AD 30—still under the old covenant but with the Kingdom of God breaking into history through the presence of its King. This chapter stands at a pivotal moment in redemptive history: the long-promised Messiah walks among His people, yet the nation of Israel stands at a crossroads of repentance or judgment, echoing the prophetic warnings that thundered through Isaiah, Jeremiah, and the post-exilic prophets centuries earlier.",
+        "The chapter opens with Jesus addressing the massacre of Galileans by Pilate and the tower collapse at Siloam, dismantling the assumption that suffering correlates directly to personal sin. Here Jesus functions as the greater prophet, calling all Israel to repentance before a coming judgment that would devastate Jerusalem within a generation—fulfilled catastrophically in AD 70 when Roman armies destroyed the temple. The parable of the barren fig tree presses this urgency: Israel, God's vineyard planted through Abraham and cultivated through Moses and the prophets, has been given extraordinary time to bear fruit. The patient gardener seeking one more year typologically points to Christ's own ministry—His intercession buying precious time before the axe of judgment falls.",
+        "The Sabbath healing of the woman bound eighteen years by a spirit of infirmity reveals Jesus as the true Lord of the Sabbath, the one who brings the ultimate Sabbath rest foreshadowed in creation and codified at Sinai. Her liberation pictures the freedom Christ brings to all held captive by Satan's kingdom—a foretaste of the age to come breaking into the present.",
+        "The twin parables of the mustard seed and leaven prophesy the mysterious growth of the Kingdom throughout the church age. What began with twelve disciples in an obscure Roman province would penetrate every nation, tribe, and tongue—a process still unfolding as the gospel advances toward its consummation.",
+        "Jesus' lament over Jerusalem carries the weight of divine pathos: \"How often I wanted to gather your children together, as a hen gathers her brood under her wings, but you were not willing!\" Here stands Yahweh incarnate, weeping over the city that kills prophets, announcing that their house is left desolate until they cry, \"Blessed is He who comes in the name of the Lord\"—a prophecy awaiting fulfillment when the remnant of Israel welcomes their Messiah at His return.",
+        "For the church living between the advents, this chapter summons urgent repentance, patient kingdom labor, and confident hope in the King who will return to the acclaim of His ancient people."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.578898+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

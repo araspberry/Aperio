@@ -1,0 +1,58 @@
+{
+  "book": "Exodus",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 3: The God Who Sees and Calls",
+      "overview": [
+        "In this passage, Moses encounters the holy God in a burning bush and discovers that the God of Abraham is both intimately present and eternally transcendent—calling him to a work that requires absolute faith in a God whose very name means \"I Am.\" This is the pivot point where hidden grief becomes holy purpose.",
+        "Moses had fled Egypt forty years earlier, a murderer on the run, tending sheep in the wilderness of Midian. He had made peace with anonymity. But God had not forgotten His people, and He had not forgotten Moses. When the Lord appears in flame that does not consume, He is announcing something revolutionary: His nature burns with passionate concern for the suffering of His people. He sees their affliction in Egypt. He hears their cry. This is no distant deity, but a God whose heart breaks over injustice and whose love moves toward the vulnerable.",
+        "When Moses asks God's name—the question underlying all spiritual seeking—God responds with the most profound self-revelation in Scripture: \"I AM WHO I AM.\" This name suggests not merely existence, but presence. God will be present with Moses in whatever comes. This promise speaks directly to our deepest fears. We too often face calls and crises with clenched fists, thinking we must be sufficient in ourselves. But God's covenant name invites us into dependence on His continuous, faithful presence.",
+        "Notice Moses' resistance. He doubts his own adequacy, worries about Israel's skepticism, feels inadequate to speak. These objections are honest, relatable, and thoroughly human. Yet God does not erase Moses' limitations; He works through them, promising His presence and power at every step.",
+        "The burning bush teaches us that God sees us in our hidden seasons—even when we feel forgotten in the wilderness. He calls us not because we are ready, but because He is God. Our sufficiency comes not from ourselves but from knowing whose we are.",
+        "Where in your life might God be calling you to trust His presence more than your own preparation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 3: Scholarly study",
+      "overview": [
+        "Exodus 3 stands as one of the most theologically significant narratives in the Hebrew Bible, recounting Moses' encounter with YHWH at the burning bush and the divine commission to liberate Israel from Egyptian bondage. The passage likely derives from a combination of the Jahwist and Elohist sources, as evidenced by the alternation between divine names and certain narrative tensions, though the final form presents a coherent theological statement about divine identity and redemptive purpose. The setting at Horeb, identified parenthetically as \"the mountain of God,\" anticipates the later Sinai theophany and establishes geographic continuity in Israel's foundational narrative.",
+        "The image of the bush that burns without being consumed (*seneh bōʿēr*) has generated extensive interpretive discussion. The Hebrew term *seneh* (thornbush) may involve wordplay with Sinai, while the phenomenon itself symbolizes divine presence that is powerful yet does not destroy—a fitting prelude to YHWH's self-revelation as both transcendent and immanently concerned with human suffering. The divine command to remove sandals acknowledges the sacred character of the ground (*ʾadmat-qōdeš*), introducing the crucial biblical concept of holy space created by divine presence.",
+        "Central to the passage is the revelation of the divine name in verse 14, where God responds to Moses' inquiry with the enigmatic phrase *ʾehyeh ʾašer ʾehyeh*, traditionally rendered \"I AM WHO I AM.\" This first-person formulation, derived from the Hebrew verb *hāyāh* (to be), has provoked centuries of scholarly debate regarding whether it emphasizes ontological existence, dynamic presence, or deliberate ambiguity that resists human categorization. The third-person form YHWH, presented as the \"memorial name\" for all generations, likely functions as a causative form suggesting \"He who causes to be\" or simply \"He who is.\"",
+        "The passage also establishes the covenant continuity by linking YHWH explicitly to the patriarchal promises, identifying the deity as the God of Abraham, Isaac, and Jacob. This theological move grounds the exodus event in prior divine commitments and frames liberation not as arbitrary intervention but as covenant faithfulness. Moses' objections, beginning here and continuing through chapter 4, reflect a call narrative pattern common to prophetic literature, establishing his reluctant prophetic identity while emphasizing that the mission's success depends entirely upon divine empowerment rather than human capability."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 3: Prophetic perspective",
+      "overview": [
+        "Exodus 3 unfolds approximately 1450 years before the birth of Christ, during the long silence of Israel's bondage in Egypt—some four centuries after Joseph's death and the fading of Hebrew favor in that land. This chapter marks the hinge point between promise and deliverance, the moment when God breaks His apparent silence and sets in motion the exodus that will become the central redemptive act of the Old Testament, foreshadowing the greater exodus Christ would accomplish at Calvary.",
+        "Within the grand arc of redemption, this passage stands at the threshold of the Exodus event itself. The Abrahamic covenant, with its promises of land, seed, and blessing, had waited through generations of slavery. Now the God who made covenant with Abraham, Isaac, and Jacob descends to fulfill His word, demonstrating that divine promises, though they tarry, never fail.",
+        "The burning bush blazes with typological significance. Here is fire that consumes not—a fitting emblem of the divine nature that would later dwell among sinful Israel without destroying them, that would tabernacle in human flesh without the finite being consumed by the infinite. The bush, lowly and common, speaks of Israel herself, aflame with God's presence yet preserved. It whispers forward to the incarnation, where deity and humanity unite without the human nature being annihilated by glory.",
+        "Moses standing on holy ground prefigures every sinner's approach to the living God—barefoot, stripped of self-sufficiency, trembling before transcendent holiness. The command to remove sandals announces that wherever God manifests His presence becomes sacred space, anticipating the day when the true temple would walk among humanity in flesh.",
+        "The revelation of the divine name—\"I AM WHO I AM\"—constitutes the theological summit of this chapter. This eternal, self-existent, covenant-keeping name finds its ultimate exposition when Christ declares \"Before Abraham was, I AM,\" claiming for Himself the unspeakable name revealed at the bush. Every \"I AM\" statement in John's Gospel echoes back to this desert theophany.",
+        "God's announcement that He has seen affliction, heard groaning, and come down to deliver establishes the pattern of divine salvation: God sees, God hears, God descends, God saves. This pattern reaches its zenith in the incarnation, where God descends not merely to a mountain but into a womb, not to deliver from Egypt but from sin and death.",
+        "For the church awaiting Christ's return, Exodus 3 confirms that the God who remembers His covenant will surely complete what He has begun. The same I AM who delivered Israel will deliver His people from this present darkness into everlasting light."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.769208+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

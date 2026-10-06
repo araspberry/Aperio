@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 66,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 66 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 66: The Joy of Testimony",
+      "overview": [
+        "At its heart, Psalm 66 is an invitation to worship born from personal deliverance and corporate remembrance—a psalm that teaches us that our individual stories of God's faithfulness belong in the sanctuary and strengthen the faith of the whole congregation.",
+        "The psalmist opens with a summons so grand it feels almost audacious: \"Make a joyful noise to God, all the earth!\" Yet this cosmic command flows from a deeply personal place. The poet has experienced God's rescue, and that private miracle has become a public testimony. There is something profoundly beautiful about this pattern. We often compartmentalize our faith—our prayer closet separate from our church experience, our personal victories unshared. But the psalmist teaches us that when God rescues us, that story belongs to the body of Christ. It strengthens others who face similar trials and reminds the whole congregation of God's unchanging character.",
+        "Notice the movement from verse 8 onward, where the psalmist becomes more intimate. \"Bless our God, you peoples; let the sound of his praise be heard.\" Then, almost confessionally: \"I cried out to him with my mouth, and high praise was on my tongue.\" This vulnerability is striking. The psalmist doesn't hide the desperation of their prayer or the test that preceded deliverance. We sometimes fear that sharing our struggles diminishes our faith. Yet here, the struggle is woven inseparably into the testimony of praise.",
+        "The closing verses reveal something crucial: \"If I had cherished iniquity in my heart, the Lord would not have listened.\" The psalmist's deliverance connected to sincere repentance. When we testify to God's faithfulness, we're not just celebrating a rescue—we're witnessing to a transformation that includes genuine turning toward God.",
+        "This psalm invites you to consider: What has God done in your life that deserves to be spoken aloud, not just remembered in silence? What testimony might strengthen someone else's faith today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 66: Scholarly study",
+      "overview": [
+        "Psalm 66 stands as a magnificent hymn of thanksgiving that moves seamlessly between corporate and individual praise, reflecting Israel's liturgical tradition of celebrating Yahweh's mighty acts in history. The psalm's dual structure—communal praise in verses 1–12 followed by individual testimony in verses 13–20—has led some scholars to propose composite authorship, though the thematic unity suggests intentional liturgical design. The superscription assigns it to the director of music as \"a song, a psalm\" (*shir mizmor*), terminology indicating its use in temple worship accompanied by instrumental music.",
+        "The opening imperative \"shout for joy\" (*hari'u*) summons not merely Israel but \"all the earth\" to acknowledge Yahweh's sovereignty, establishing the universalistic tone characteristic of enthronement psalms. This call to the nations anticipates the eschatological vision found throughout the Psalter where Gentiles recognize Israel's God. The Hebrew term for \"glory\" (*kavod*) in verse 2 carries connotations of weightiness and splendor, denoting the visible manifestation of divine presence that compels even enemies to \"cringe\" or offer feigned submission (*yekachashu*).",
+        "Central to the psalm's theology is the recollection of the Exodus in verses 6–7, where the transformation of sea into dry land serves as paradigmatic evidence of divine power. The psalmist employs the characteristic Hebrew technique of making past redemption present through liturgical recitation—\"there we rejoiced in him\"—collapsing temporal distance between generations. The \"refining\" metaphor in verses 10–12, comparing Israel's suffering to silver purification, reflects ancient Near Eastern metallurgical imagery while theologizing national hardship as divine discipline rather than abandonment.",
+        "The transition to first-person singular in verse 13 marks a shift to individual thanksgiving, likely indicating a worshiper fulfilling vows made during distress. The Hebrew phrase \"burnt offerings of fatlings\" (*'olot meichim*) specifies the highest quality sacrificial animals, demonstrating the worshiper's complete devotion. Particularly significant is verse 18's conditional statement regarding sin and divine hearing, which resonates with wisdom literature's emphasis on moral prerequisites for answered prayer. The psalm concludes by blessing God who neither rejected the prayer nor withheld steadfast love (*chesed*), that covenantal faithfulness foundational to Israel's understanding of divine-human relationship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 66: Prophetic perspective",
+      "overview": [
+        "Psalm 66 emerges from the worship life of Israel sometime after the nation's establishment in the land, likely during the period of the monarchy when the temple stood as the center of covenant worship—perhaps a millennium before Christ's advent. The psalm itself looks backward to the Exodus deliverance while simultaneously pointing forward to a day when all the earth would bow before the God of Israel. This positioning makes it a hinge text, standing between the foundational redemption at the Red Sea and the ultimate redemption that would come through David's greater Son.",
+        "Within the grand narrative of Scripture, this psalm occupies the era of Kingdom, when Israel functioned as a priestly nation meant to mediate God's glory to the watching world. The opening summons—\"Make a joyful shout to God, all the earth\"—reveals that Israel's worship was never intended to remain tribal. The nations are called to witness what God has done, to \"come and see\" His works on behalf of the children of men. Here lies a prophetic seed that would not fully blossom until Pentecost, when representatives from every nation under heaven heard the mighty works of God proclaimed in their own tongues.",
+        "The psalmist's recollection of the Red Sea crossing and the Jordan passage carries rich typological weight. These waters of deliverance prefigure baptism, the passage from death to life that every believer experiences in union with Christ. Just as Israel walked through judgment waters unharmed while their enemies perished, so the church passes through the waters of death, shielded by the One who absorbed the flood of divine wrath in our place. The \"place of abundance\" into which God brought His people shadows the spacious grace into which believers now stand, justified and at peace.",
+        "The refining imagery—silver tested by fire, affliction upon the back, men riding over heads—speaks prophetically of the suffering that precedes glory, a pattern perfectly embodied in Christ and extended to His body. The cross looms behind these words, that ultimate place where God permitted enemies to ride over the Holy One, where the fire of judgment produced the purest silver.",
+        "The psalm's closing testimony of answered prayer and maintained love anticipates the boldness with which the church now approaches the throne of grace. Because the Righteous One's prayer was heard from the horns of the altar, God's ear remains inclined to all who call upon Him through that once-for-all sacrifice. The church lives now in the triumph this psalm celebrates, awaiting the day when every knee shall bow and every tongue confess that Jesus Christ is Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_066",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.302143+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

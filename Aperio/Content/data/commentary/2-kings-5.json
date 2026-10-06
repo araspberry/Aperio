@@ -1,0 +1,55 @@
+{
+  "book": "2 Kings",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Kings 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Kings 5: The Healing of Pride and Faith",
+      "overview": [
+        "At the heart of this passage lies a profound paradox: that our greatest obstacle to receiving God's grace is often the pride that blinds us to our need. Naaman's healing story teaches us that transformation requires both humility and trust in God's word, regardless of how foolish that word might appear to our rational minds.",
+        "Naaman arrives at Elisha's door as a military commander, accustomed to power and respect. His leprosy—a disease that isolates and defiles—cannot be solved by rank or wealth or the physicians of Damascus. When Elisha doesn't even meet him personally but sends word to dip seven times in the Jordan River, Naaman's initial response reveals how deeply his pride runs. The Jordan seems insignificant compared to the great rivers of his homeland. He came expecting a spectacular display of prophetic power, but instead receives an ordinary command that feels demeaning.",
+        "What transforms the moment is Naaman's servants. With gentle wisdom, they ask a penetrating question: \"If the prophet had told you to do something difficult, would you not have done it?\" Their words expose the real issue—Naaman's resistance isn't to the difficulty but to the simplicity, which his pride cannot accept. When he finally submits to the humble obedience of washing in the Jordan, complete healing follows.",
+        "This story speaks directly to our own resistances to God's grace. We often complicate what God simplifies. We seek dramatic encounters when He offers ordinary obedience. We expect solutions proportional to the scale of our problems, forgetting that God's power operates outside our calculations. The invitation here is to notice where pride prevents our healing—where we demand God work according to our specifications rather than surrendering to His wisdom.",
+        "What humble action might God be calling you to take, one you've resisted because it seems too simple or doesn't match your expectations of how He should work?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Kings 5: Scholarly study",
+      "overview": [
+        "The narrative of Naaman's healing in 2 Kings 5 stands as one of the most theologically sophisticated accounts in the Deuteronomistic History, masterfully weaving together themes of prophetic authority, divine sovereignty, and the universality of Yahweh's power beyond Israelite borders. Set during the ministry of Elisha, likely in the early ninth century BCE during the reign of Jehoram of Israel, this chapter presents a remarkable story of a foreign military commander whose encounter with Israel's God transforms not only his physical condition but his religious allegiance.",
+        "The chapter opens by introducing Naaman as the commander of Aram's army, described as a \"great man\" (*ish gadol*) before his master and held in high favor. The narrator's theological aside—that Yahweh had given victory to Aram through him—immediately establishes the chapter's central irony: the very God who empowered Naaman's military triumphs against Israel will now demonstrate supreme authority over his affliction. The term *tsara'at*, traditionally rendered \"leprosy,\" more accurately denotes various skin conditions that rendered one ritually impure, though Naaman's continued military service suggests his condition may not have been severely debilitating.",
+        "The narrative structure proceeds through a series of mediators—a captured Israelite servant girl, the Aramean king, and finally Elisha's messenger—before Naaman directly encounters prophetic instruction. Elisha's command to wash seven times in the Jordan employs the verb *rachats* (to wash, bathe), emphasizing ritual purification rather than mere physical cleansing. Naaman's initial indignation reveals his expectation of dramatic prophetic performance, yet the simplicity of the prescribed action underscores a central Deuteronomistic theme: obedience to the prophetic word brings blessing.",
+        "The chapter's conclusion raises interpretive questions regarding Naaman's request for Israelite soil and his anticipated worship in Rimmon's temple. Elisha's enigmatic response, \"Go in peace\" (*lek leshalom*), has generated considerable scholarly debate concerning whether this constitutes approval of religious accommodation or merely diplomatic dismissal. The Gehazi subplot serves as a counterpoint, demonstrating that proximity to prophetic power guarantees neither faithfulness nor blessing. Throughout, the narrative affirms Yahweh's sovereignty extends beyond territorial and ethnic boundaries, anticipating later prophetic universalism."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Kings 5: Prophetic perspective",
+      "overview": [
+        "The healing of Naaman the Syrian unfolds approximately 850 years before Christ's incarnation, during the divided monarchy when Elisha ministered as prophet to the northern kingdom of Israel under King Joram. This narrative sits within the period of prophetic witness following Solomon's kingdom, when God raised up voices like Elijah and Elisha to call apostate Israel back to covenant faithfulness while simultaneously extending mercy beyond Israel's borders—a stunning preview of the gospel age.",
+        "Naaman himself stands as a profound type of the Gentile sinner. He is mighty in military valor yet leprous, honored among men yet bearing in his flesh an incurable condition that renders him ceremonially unclean. His leprosy typifies sin's defilement—outwardly successful, inwardly corrupted, beyond human remedy. That God chooses to heal a Syrian commander, an enemy general who has led raids against Israel, prophetically anticipates the mystery hidden for ages: that Gentiles would become fellow heirs of grace. Jesus Himself interpreted this event as evidence that God's saving purposes were never confined to ethnic Israel, provoking murderous rage in the Nazareth synagogue when He declared, \"There were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian.\"",
+        "The sevenfold washing in the Jordan carries rich typological significance. Jordan, the river of death and passage into promise, becomes the site of cleansing. Naaman must humble himself, abandoning expectations of dramatic prophetic performance. He expected Elisha to wave his hand over the spot and call upon Yahweh's name with impressive ceremony. Instead, he receives a word requiring simple obedience and self-humiliation. Here is the scandal of grace that anticipates baptism: not elaborate religious ritual, but submission to God's appointed means. Naaman's flesh becomes like that of a little child—the same language Scripture uses for new birth and resurrection life.",
+        "Gehazi's covetousness provides dark contrast, showing how those near the source of grace may yet perish through greed. His leprosy passing to his descendants warns that proximity to prophetic power saves no one apart from heart transformation.",
+        "For the church awaiting Christ's return, Naaman's story proclaims that no outsider is beyond mercy's reach, no condition too defiling for cleansing. The same word that healed Syrian flesh now goes forth to all nations, calling proud sinners to humble themselves, descend into baptismal waters, and rise to walk in newness of life until the Great Physician returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "12_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.611466+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

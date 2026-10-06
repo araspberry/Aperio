@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 12: The Cost of Rejecting Wisdom",
+      "overview": [
+        "This passage captures the moment a kingdom fractures because a young leader exchanges the counsel of elders for the flattery of his peers—a sobering reminder that our choices about whose voice to trust carry consequences far beyond ourselves.",
+        "Rehoboam inherits the throne of Israel at a crossroads. The people, weary from Solomon's heavy taxation and labor demands, approach him with a straightforward request: lighten the burden. The older advisors—men seasoned by years in Solomon's service—counsel him to respond with servant leadership. Listen to them, they urge, and the people will serve you forever. It is wise counsel rooted in the principle that true strength flows from genuine care for those under your charge.",
+        "But Rehoboam turns to his contemporaries, young men who've grown up with him in privilege. They tell him what feels powerful: assert dominance, speak harshly, show the people who is in control. His pride finds their words intoxicating, and he chooses their path. When he publicly declares his intention to increase the burden rather than ease it, the kingdom splinters. Ten tribes break away, and what should have been the golden age of his reign becomes instead a cautionary tale.",
+        "The tragedy here speaks to something achingly human: we often know the right path but choose the comfortable companionship of those who affirm our worst instincts over the harder wisdom of those who love us enough to challenge us. We prefer yes-men to truth-tellers, flattery to faithful counsel. We surround ourselves with mirrors rather than windows.",
+        "The spiritual wisdom of 1 Kings 12 is this: the voices we listen to shape the kingdoms we build—in our families, our workplaces, our hearts. Seeking counsel from the spiritually mature, especially when our pride resists it, is not weakness but the truest strength.",
+        "What voices are shaping your most important decisions right now? Are they voices of experienced wisdom or voices that simply echo your desires back to you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 12: Scholarly study",
+      "overview": [
+        "The narrative of 1 Kings 12 stands as one of the most consequential political and theological turning points in Israel's history, recounting the division of the united monarchy following Solomon's death. The Deuteronomistic historian presents this schism not merely as political miscalculation but as divine judgment fulfilling the prophetic word spoken to Jeroboam through Ahijah the Shilonite in the preceding chapter. The setting at Shechem carries profound covenantal resonance, as this location served as the site of Joshua's covenant renewal ceremony and possessed deep associations with ancestral traditions, making it a fitting venue for what the northern tribes hoped would be a renegotiation of the Davidic compact.",
+        "Central to the narrative is Rehoboam's fateful decision regarding the people's petition to lighten the \"yoke\" (*ʿōl*) that Solomon had imposed through corvée labor and heavy taxation. This term resonates with exodus imagery, ironically positioning the Davidic monarchy in the role of Egyptian oppressor. When Rehoboam rejects the counsel of the elders in favor of his younger advisors, his reply employs crude imagery comparing his authority to his father's, declaring that his \"little finger\" (*qoṭnî*) would be thicker than Solomon's loins. The theological verdict appears in verse 15, where the narrator attributes this political folly to divine causation (*sibbâ*), a \"turn of affairs\" orchestrated by Yahweh to fulfill prophetic declaration.",
+        "Jeroboam's subsequent cultic innovations—establishing sanctuaries at Dan and Bethel with golden calves, appointing non-Levitical priests, and altering the festival calendar—receive unambiguous condemnation and establish the paradigmatic sin against which all subsequent northern kings will be measured. The declaration \"Here are your gods, O Israel, who brought you up out of Egypt\" deliberately echoes the golden calf apostasy of Exodus 32, presenting Jeroboam's actions as covenant violation rather than legitimate Yahwistic worship. Scholarly debate continues regarding whether Jeroboam intended these calves as pedestals for the invisible Yahweh or as representations of deity itself, though the Deuteronomistic perspective clearly interprets them as idolatrous. This chapter thus establishes the theological framework through which the books of Kings will evaluate the tragic trajectory of the divided kingdoms toward eventual exile."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 12: Prophetic perspective",
+      "overview": [
+        "The events of 1 Kings 12 unfold approximately 930 years before the birth of Christ, immediately following Solomon's death and marking one of the most catastrophic ruptures in Israel's covenant history. This chapter records the division of the united monarchy into the northern kingdom of Israel and the southern kingdom of Judah—a fracture that would never fully heal until the eschatological restoration still awaited in Christ's coming kingdom.",
+        "Within the grand redemptive arc, this passage stands at the tragic pivot point of the Kingdom era. What God had built through David's faithfulness and Solomon's early wisdom now shatters under the weight of accumulated covenant unfaithfulness. The seeds of division were sown in Solomon's idolatry and oppressive labor policies; Rehoboam's folly merely harvested the bitter crop. Yet the text is careful to note that this tearing of the kingdom \"was a turn of affairs brought about by the LORD\" to fulfill Ahijah's prophecy to Jeroboam. Divine sovereignty weaves through human rebellion, accomplishing purposes that transcend the failures of earthly kings.",
+        "Typologically, this division reveals why Israel desperately needed a greater Son of David. Where Rehoboam answered with harshness—\"my father disciplined you with whips, but I will discipline you with scorpions\"—Christ the true King speaks tenderly to the weary and heavy-laden, offering rest rather than burden. The kingdom splits because no mere human heir can bear the weight of David's throne; only the eternal Son can hold together what sin tears apart. Jeroboam's subsequent establishment of golden calves at Dan and Bethel recapitulates the Exodus apostasy, demonstrating that Israel's heart remained unchanged from Sinai to Shechem.",
+        "Prophetically, this division initiated centuries of covenant curse, culminating in both kingdoms' exile. Yet through the prophets, God promised reunification under a Davidic shepherd—a promise finding initial fulfillment when Christ gathered disciples from throughout the fractured land and ultimate fulfillment when He returns to reign over a restored Israel joined to the nations.",
+        "For the church dwelling between advents, this chapter warns against the pride that fractures community, the foolishness that rejects wise counsel, and the idolatry that seeks convenient worship over costly faithfulness. Yet it also assures believers that no human failure can thwart God's redemptive purposes. The kingdom that Rehoboam's arrogance shattered, Christ's humility will perfectly and eternally restore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.563259+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

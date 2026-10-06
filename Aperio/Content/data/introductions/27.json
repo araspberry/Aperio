@@ -1,0 +1,156 @@
+{
+  "book": "Hosea",
+  "bookIndex": 27,
+  "status": "Editorial draft",
+  "title": "The wounded bond that God will not abandon",
+  "subtitle": "Marriage, parenthood, and the memory of exodus expose Israel’s divided loyalties.",
+  "atAGlance": {
+    "genre": "Prophetic poetry and symbolic family narratives",
+    "setting": "The northern kingdom of Israel during its last decades under Assyrian pressure",
+    "composition": "Eighth-century BC preaching, preserved in a collection whose later shaping and difficult Hebrew are debated",
+    "audience": "Northern Israel, often called Ephraim; Judah also appears in the collection"
+  },
+  "sections": [
+    {
+      "title": "Israel before the fall of Samaria",
+      "paragraphs": [
+        "Hosea son of Beeri speaks primarily to the northern kingdom of Israel. The heading names Jeroboam II of Israel alongside several Judean kings. His ministry belongs broadly to the eighth century BC, when a period of prosperity gave way to political instability and mounting Assyrian pressure. Samaria’s fall in 722/721 stands near the horizon of the book. The text does not provide a precise date for every oracle.",
+        "Israel, Ephraim, and Jacob can refer to the same threatened community in different ways. Keeping that usage in mind makes the poetry easier to follow. The book’s Hebrew is unusually difficult in places, and translations can differ substantially. Its preserved form also reflects collection and transmission. Neither Hosea’s full biography nor every stage in the book’s formation can be securely reconstructed from the evidence that survives."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "A family story becomes a public sign",
+      "paragraphs": [
+        "Chapters 1–3 use Hosea’s marriage and the naming of children to dramatize a damaged covenant relationship. Gomer is named in chapter 1, but the narrative offers limited access to her own voice or experience. The children’s names announce ruptured belonging and judgment; later passages reverse those names toward acceptance. The movement between estrangement and reconciliation is part of the book’s larger pattern.",
+        "The marriage imagery is powerful but troubling. Accusations, threatened exposure, and coercive images should not be treated as instructions for human marriages. The text is using an ancient gendered metaphor for the relationship between God and a people. Readers can recognize the seriousness of betrayal and the hope for restoration while also acknowledging the harm that would result from turning the metaphor into permission for domestic abuse."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "What it means to know God",
+      "paragraphs": [
+        "From chapter 4 onward, the charge against Israel reaches across religious and social life. The absence of knowledge of God appears alongside lying, theft, violence, and broken faith. Priests and rulers are implicated rather than positioned above the crisis. Knowledge here is not merely possession of correct information. In the argument of the book, it is a relationship that should become visible in loyalty and conduct.",
+        "That is why Hosea contrasts steadfast devotion with ritual offered in its place. The issue is not that every sacrifice is inherently wrong, but that worship can be used to avoid the very fidelity it is meant to express. The images of passing clouds, morning dew, fruit, fields, and harvest repeatedly ask whether the people’s response has depth and durability. Brief religious enthusiasm does not repair a pattern of betrayal."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "False sources of food, safety, and identity",
+      "paragraphs": [
+        "Israel credits other powers with gifts the book attributes to God. Grain, wine, oil, political protection, and military strength become entangled with alternative loyalties. Appeals to Egypt and Assyria expose the temptation to seek security through whichever great power seems useful. The calf images and multiplied altars confront the religious side of the same problem.",
+        "The poetry makes these choices look unstable through quick, memorable comparisons: a heated oven, an unturned cake, a senseless dove, a useless bow. These are not decorative interruptions. They communicate a society whose actions are intense but poorly directed. Hosea’s compressed style can feel abrupt, so pause over the image before moving on. Ask what feature of the object—heat, incompleteness, flight, or failure—the accusation is drawing upon."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A parent remembers teaching a child to walk",
+      "paragraphs": [
+        "Chapter 11 changes the emotional register through the memory of God’s care for Israel as a child. Exodus, nurture, healing, and the teaching of first steps form a portrait of patient attachment. The child’s refusal makes judgment painful rather than casual. Divine holiness is expressed not simply in overwhelming force but in a refusal to let anger determine the entire future.",
+        "This does not erase the book’s warnings or make their consequences imaginary. It reveals the tension inside the relationship: betrayal is real, and so is a love that resists total abandonment. The appeals to Israel’s ancestral past in the later chapters deepen that tension. Remembering Jacob or the wilderness is not nostalgia; it exposes recurring habits and recalls a relationship more fundamental than the current political emergency."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Return as a learned way of life",
+      "paragraphs": [
+        "The closing chapter gives the people words with which to return. They relinquish reliance on Assyria, horses, and handmade gods, and appeal to mercy. The answering images of dew, roots, blossoms, shade, and fruit picture restoration as sustained growth. After so many images of failed agriculture, the changed landscape becomes a fitting sign of renewed relationship.",
+        "The final appeal to the wise reader makes interpretation an ethical task. Hosea asks for discernment about the path one is walking, not simply curiosity about an ancient prophet’s marriage. Read the accusations beside the invitations, and allow neither to cancel the other. The book’s purpose is to expose destructive loyalties while insisting that repentance and divine compassion can open a future beyond them."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Marriage, children, and covenant",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Family signs portray estrangement and promised reconciliation."
+    },
+    {
+      "label": "A community that does not know God",
+      "startChapter": 4,
+      "endChapter": 7,
+      "description": "Priests, people, and rulers are confronted over divided loyalty and injustice."
+    },
+    {
+      "label": "False security exposed",
+      "startChapter": 8,
+      "endChapter": 10,
+      "description": "Religious images, foreign dependence, and failed fruitfulness come under judgment."
+    },
+    {
+      "label": "Love, memory, and resistance",
+      "startChapter": 11,
+      "endChapter": 13,
+      "description": "Parental compassion and Israel’s remembered past intensify the appeal."
+    },
+    {
+      "label": "Words for returning",
+      "startChapter": 14,
+      "endChapter": 14,
+      "description": "Repentance and healing lead to a final invitation to discernment."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Covenant loyalty",
+      "description": "Faithfulness involves worship, public conduct, and the sources of trust."
+    },
+    {
+      "name": "Knowing God",
+      "description": "Relational knowledge is expressed through durable mercy and justice."
+    },
+    {
+      "name": "Compassion",
+      "description": "Judgment is held within a relationship God refuses simply to discard."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Eighth century BC, before Samaria’s fall",
+    "context": "Hosea addresses northern Israel under mounting Assyrian pressure.",
+    "note": "Dates of individual poems and stages of collection remain uncertain."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 14,
+      "era": "divided-kingdom",
+      "label": "Northern Israel under Assyrian pressure",
+      "dateLabel": "Broadly the mid-to-late eighth century BC",
+      "note": "Restoration promises look beyond the immediate crisis; the chapters are not a dated sequence."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Hosea, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Hosea",
+      "url": "https://bible.usccb.org/bible/hosea/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 17",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-17"
+    }
+  ]
+}

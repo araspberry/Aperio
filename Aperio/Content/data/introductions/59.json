@@ -1,0 +1,141 @@
+{
+  "book": "1 Peter",
+  "bookIndex": 59,
+  "status": "Editorial draft",
+  "title": "1 Peter: A Living Hope in an Unwelcoming World",
+  "subtitle": "People made new through Christ learn how to endure pressure with holiness, courage, and mutual care.",
+  "atAGlance": {
+    "genre": "Pastoral circular letter",
+    "setting": "Believers across several provinces of Asia Minor facing social hostility and suffering.",
+    "composition": "Names Peter as apostle and mentions Silvanus. Some defend authorship in the AD 60s; others place the work later in the first century within a Petrine tradition.",
+    "audience": "Christians addressed as elect exiles in Pontus, Galatia, Cappadocia, Asia, and Bithynia."
+  },
+  "sections": [
+    {
+      "title": "Hope gives displaced people a home",
+      "paragraphs": [
+        "First Peter opens by blessing God for a living hope through the resurrection of Jesus Christ. The people addressed are scattered across a wide region and described as strangers or exiles. Their circumstances may make them feel exposed, yet the letter speaks of an inheritance kept for them and a salvation toward which their lives are moving.",
+        "That assurance does not erase present grief. Trials are acknowledged as real, and faith is described as precious within them. The community is being given a way to understand itself that is stronger than the judgments of its neighbors. Its identity comes from God’s mercy and calling. The letter then asks how people with that identity can live honorably, speak gently, and remain connected to one another when their allegiance to Christ is costly."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The apostolic voice and historical setting",
+      "paragraphs": [
+        "The sender identifies himself as Peter, an apostle of Jesus Christ, and later as an elder and witness to Christ’s sufferings. The closing reference to writing through Silvanus may indicate assistance or the delivery of the letter. Some scholars understand the work as Peter’s own instruction, usually dated in the AD 60s. Others point to its literary character and social setting as evidence of a later writer preserving Petrine authority.",
+        "The audience is located in Asia Minor. The hostility described includes slander, social pressure, and suffering, but the letter does not establish one empire-wide persecution as its precise occasion. The closing greeting mentions a community in “Babylon,” along with Mark. These clues provide a broad setting while leaving important details uncertain. The pastoral problem is clear: believers need to endure without allowing hostility to determine their character."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "A people formed for faithful conduct",
+      "paragraphs": [
+        "The opening chapters call for holiness, sincere love, and hunger for nourishment that enables growth. Images from Israel’s Scriptures describe the community as living stones, a spiritual house, and a priestly people. Those images emphasize belonging and vocation. God’s mercy creates a people whose conduct should declare His goodness.",
+        "Their life among neighbors is therefore part of their witness. The letter urges honorable conduct, respect, and a freedom understood as service to God. It repeatedly distinguishes suffering for doing good from suffering caused by wrongdoing. That distinction matters because the mere experience of opposition does not prove faithfulness. The community must examine its own actions while learning to answer hostility without reproducing it."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Suffering and the example of Christ",
+      "paragraphs": [
+        "Jesus’ suffering is central to the letter’s account of endurance. He is portrayed as refusing retaliation and entrusting Himself to the One who judges justly. His wounds and shepherding care become sources of hope for people who are being wronged. The pattern calls the church away from revenge toward confidence in God’s justice.",
+        "Some instructions address enslaved workers and wives within ancient household structures. Their vulnerability must remain visible when these passages are interpreted. The letter’s counsel to endure cannot responsibly be used to require someone to remain in danger, silence an abused person, or exempt an aggressor from accountability. The larger vision includes honoring others, rejecting malice, and treating spouses as fellow heirs of life. Christian application must take the dignity and protection of vulnerable people seriously."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A gentle defense and a watchful community",
+      "paragraphs": [
+        "The call to give an answer for Christian hope is accompanied by gentleness, respect, and a good conscience. Witness involves manner as well as words. The difficult passage concerning Christ’s proclamation to imprisoned spirits has received several interpretations; it should be read with care rather than made the basis for confident claims beyond what the text clearly establishes.",
+        "The final chapters emphasize hospitality, the responsible use of gifts, and the care of leaders who shepherd willingly rather than dominate. Humility is asked of everyone. Anxiety may be entrusted to God, while vigilance and resistance to evil remain necessary. The assurance that fellow believers share suffering places local pain within a wider fellowship.",
+        "Read First Peter as a sustained effort to preserve hope and moral freedom under pressure. Its emphasis on future glory gives courage for present goodness. Its closing promise is that God will restore and strengthen His people. A church living from that promise should become a place where weary people receive care, leadership remains humble, and faithful witness is recognizable through both conviction and gentleness."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "New birth and holy hope",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Living hope, tested faith, holiness, and sincere love."
+    },
+    {
+      "label": "A people and their public life",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Living stones, honorable conduct, and Christ’s suffering."
+    },
+    {
+      "label": "Relationships and a gentle witness",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Household responsibilities, shared dignity, and an answer for hope."
+    },
+    {
+      "label": "Gifts and endurance",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Changed conduct, hospitality, service, and suffering."
+    },
+    {
+      "label": "Humble shepherding and steadfast trust",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "Leaders, humility, vigilance, and God’s restoring grace."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Living hope",
+      "description": "Jesus’ resurrection gives an enduring identity and future."
+    },
+    {
+      "name": "Honorable witness",
+      "description": "Conviction is expressed with goodness, gentleness, and respect."
+    },
+    {
+      "name": "Mutual care",
+      "description": "Hospitality and humble leadership sustain people under pressure."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century churches in Asia Minor",
+    "context": "The letter addresses communities under social pressure. Its exact relation to specific imperial policies is uncertain.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 5,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century churches in Asia Minor",
+      "note": "The letter addresses communities under social pressure. Its exact relation to specific imperial policies is uncertain."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Peter · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "1 Peter · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/1-peter/lessons/summary-of-1-peter/"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "book": "Joel",
+  "bookIndex": 28,
+  "status": "Editorial draft",
+  "title": "When a wounded land calls a people to return",
+  "subtitle": "A locust crisis opens into repentance, renewed life, and the promise of God’s Spirit.",
+  "atAGlance": {
+    "genre": "Prophetic poetry, communal lament, and visions of the day of the LORD",
+    "setting": "Judah and Jerusalem facing agricultural devastation; no king or firm historical date is supplied",
+    "composition": "Disputed; many scholars favor a postexilic setting, often Persian-period, while earlier dates are also proposed",
+    "audience": "The whole worshiping community: elders, priests, workers, children, and later generations"
+  },
+  "sections": [
+    {
+      "title": "A clear crisis with an uncertain date",
+      "paragraphs": [
+        "Joel is identified as the son of Pethuel, but the book gives no royal reign by which to date him. Its immediate setting is vivid: locusts, drought, ruined crops, distressed animals, and interrupted offerings. Its calendar is much less secure. Many scholars favor a postexilic, often Persian-period context, drawing on the prominence of temple worship and other literary evidence. Earlier settings have also been argued. Neither a precise ministry date nor a precise date of final composition should be presented as settled.",
+        "This uncertainty does not make the book placeless. Judah, Jerusalem, the sanctuary, neighboring peoples, and the land’s agricultural life provide a concrete social world. Joel’s purpose is to interpret a crisis and summon a shared response. A postexilic setting helps explain several features of that world, but the evidence does not settle the question conclusively."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro"
+      ]
+    },
+    {
+      "title": "The loss reaches every part of life",
+      "paragraphs": [
+        "Chapter 1 begins by calling elders and everyone who lives in the land to pay attention. The event is to be remembered and told to children. Farmers, drinkers, priests, and animals enter the account in turn. The disaster is not confined to one occupational group. What happens in fields and orchards affects food, livelihood, celebration, worship, and the relationship between generations.",
+        "The interrupted grain and drink offerings make the sanctuary’s distress inseparable from the land’s condition. Religious life cannot be insulated from ecological and economic collapse. Joel does not merely list damaged objects; he teaches the community to perceive the reach of its loss. Mourning becomes a public act of truthful recognition before any promise of renewal is heard."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The approaching day and the call to return",
+      "paragraphs": [
+        "Chapter 2 presents an advancing force with the speed, discipline, and terror of an army. Readers debate how the locust imagery and military imagery relate. The text deliberately brings their effects close together: darkness, panic, movement across the land, and the apparent inability of ordinary defenses to stop what is coming. The day of the LORD names an encounter that exposes the community’s vulnerability.",
+        "The summons to return interrupts the terror. It requires the heart rather than a merely visible gesture of grief. Yet inward change is not set against public action: a fast is proclaimed and the whole assembly is gathered. The invitation includes people whom normal circumstances might excuse or separate. In the face of shared danger, repentance is neither a private performance nor a task delegated to religious specialists."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Mercy cannot be mechanically secured",
+      "paragraphs": [
+        "Joel grounds the appeal in God’s gracious character, while asking who knows whether God will turn and leave a blessing. That question preserves a distinction between trust and control. A community cannot manipulate divine compassion by completing the correct ritual. Its response is earnest because the relationship matters, not because a technique guarantees a result.",
+        "The answering promises concern things that devastated people actually need: rain, grain, wine, oil, restored harvests, and freedom from shame. Animals and land are addressed as well as human beings. The sequence does not abandon the initial crisis for a purely spiritual lesson. Renewal is imagined in the very places where loss has been experienced, including the possibility of worship and life together."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The Spirit and the widened community",
+      "paragraphs": [
+        "Toward the end of chapter 2 in the BSB, the horizon expands to the outpouring of God’s Spirit. Sons and daughters, old and young, and male and female servants are included. The distribution of prophetic speech crosses social boundaries. The promise concerns a community whose access to God’s activity is not restricted to its most honored members.",
+        "Acts 2 cites this passage in the account of Pentecost. Christian readers therefore encounter Joel both in its own setting and through that later interpretation. Keeping both in view clarifies the movement from a threatened Judean community toward a broader account of divine generosity. Some editions number this section as Joel 3 and the BSB’s final chapter as Joel 4; the BSB uses a three-chapter arrangement."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Judgment, refuge, and responsible reading",
+      "paragraphs": [
+        "The final chapter confronts the nations over violence, displacement, and the treatment of human lives as commodities. The valley imagery depicts judgment; it is not an invitation to identify a modern battlefield or announce its date. The book ends by joining God’s dwelling in Zion with images of water and fertility. The initial ruined landscape is answered by a vision of abundance.",
+        "Read Joel by following its changes in address and scale. A local disaster becomes a call to repentance, then an assurance of restoration, then a vision of divine action among all peoples. That movement should not be reversed into a formula for declaring every present-day drought or infestation a specific punishment. The book asks its own community to attend, lament, return, and hope within an encounter with the God it worships."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "A devastated land summons lament",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Agricultural loss draws the entire community into mourning."
+    },
+    {
+      "label": "Return, restoration, and the Spirit",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "The approaching day leads to repentance and promises of renewed life."
+    },
+    {
+      "label": "The nations judged and Zion renewed",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "God addresses exploitation and promises enduring presence."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Shared repentance",
+      "description": "The community responds together, with inward sincerity and public prayer."
+    },
+    {
+      "name": "Creation and worship",
+      "description": "The well-being of land, creatures, people, and religious life is interconnected."
+    },
+    {
+      "name": "The Spirit given widely",
+      "description": "Prophetic participation crosses boundaries of age, gender, and social position."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "Date disputed; often placed in the Persian period",
+    "context": "Judah after exile is a common scholarly proposal",
+    "note": "The era is provisional. The book names no king; future visions are not dated predictions."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "return",
+      "label": "Judah after exile is a common scholarly proposal",
+      "dateLabel": "Date disputed; often placed in the Persian period",
+      "note": "The era is provisional. The book names no king; future visions are not dated predictions."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Joel, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Joel",
+      "url": "https://bible.usccb.org/bible/joel/0"
+    }
+  ]
+}

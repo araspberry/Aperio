@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 23: The Wisdom of Guarding Your Heart",
+      "overview": [
+        "Proverbs 23 invites us into the deep work of spiritual formation—the painstaking discipline of protecting what matters most in our inner life while navigating a world full of competing voices and values. This chapter is less a list of disconnected rules and more a father's passionate plea to his son to choose wisely in every season.",
+        "The opening verses warn against the seduction of wealth and status, urging us not to wear ourselves out chasing riches. There's profound mercy in this warning. So many of us exhaust ourselves pursuing things that cannot love us back, things that shimmer with promise but leave our souls hollow. The writer knows something we often learn too late: the energy spent grasping for more is energy stolen from what actually feeds the spirit. He calls us to see through the deception, to recognize that climbing the ladder of worldly success may mean descending in everything that matters.",
+        "But Proverbs 23 does not ask us to abandon the world. Instead, it teaches discernment. Don't eat with a stingy person, whose wealth creates only anxiety. Don't spend time with the angry or foolish, whose company shapes us in damaging ways. These aren't commands to be rude or proud, but invitations to be intentional about our companions and environments. We become like those we spend time with; our associations shape our souls far more than we realize.",
+        "At the chapter's heart lies the most tender exhortation: \"Listen, my son, and be wise, and set your heart on the right path.\" This is an appeal to the deepest part of us—the seat of our desires, convictions, and loves. The father in these verses understands that transformation begins with what we choose to treasure.",
+        "What competing voices are pulling at your heart today? Which relationships or environments are shaping you toward wisdom, and which ones toward foolishness? Take time to honestly name one way you might better guard your soul this week."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 23: Scholarly study",
+      "overview": [
+        "Proverbs 23 constitutes a significant portion of the \"Words of the Wise\" collection (22:17–24:22), a section that scholars have long recognized as bearing striking structural and thematic parallels to the Egyptian Instruction of Amenemope, dating to approximately the twelfth century BCE. While the precise nature of this relationship—whether direct borrowing, common ancient Near Eastern wisdom tradition, or parallel development—remains debated, the Egyptian connection illuminates the international character of Israelite wisdom literature and its participation in broader ancient intellectual discourse.",
+        "The chapter opens with instruction regarding comportment at a ruler's table (vv. 1–3), employing the Hebrew term *maṭʿammîm* (delicacies) to warn against being seduced by royal hospitality that may carry hidden obligations. The sage's counsel to \"put a knife to your throat\" represents hyperbolic rhetoric emphasizing self-restraint, a pedagogical technique common throughout Proverbs. This teaching transitions into warnings against exhausting oneself pursuing wealth (vv. 4–5), where riches are described as sprouting wings like an eagle—the verb *ʿûp* (to fly) conveying the ephemeral nature of material acquisition.",
+        "Central to the chapter's concerns is the extended discourse on wine and intoxication (vv. 29–35), representing one of Scripture's most vivid descriptions of drunkenness. The passage employs rhetorical questions and striking imagery—wine that \"sparkles in the cup\" (*yitʾaddām*, literally \"shows itself red\")—before describing the disorienting physical and moral effects of excess. The drunkard's concluding statement, expressing desire to drink again despite suffering, captures addiction's tragic cycle with psychological acuity remarkable for ancient literature.",
+        "The chapter also contains the memorable injunction to acquire truth (*ʾemet*), wisdom, instruction, and understanding without selling them (v. 23), presenting knowledge as precious commodity. Theologically significant is the repeated concern for parental honor and the \"fear of the LORD\" (v. 17), grounding practical ethics in covenant relationship. The instruction to avoid envying sinners while maintaining reverent fear reflects the tension wisdom literature consistently navigates between observable outcomes and trust in divine justice. Throughout, the father-son address maintains the intimate pedagogical framework characteristic of Proverbs, transmitting accumulated wisdom across generations within covenant community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 23: Prophetic perspective",
+      "overview": [
+        "Proverbs 23 emerges from the golden age of Israelite wisdom, compiled during or shortly after Solomon's reign around 950-700 BC, placing it roughly a millennium before Christ's incarnation and centuries before the Babylonian exile would scatter God's people. This chapter belongs to the \"Sayings of the Wise\" section, instruction that prepared covenant children for life in the promised land while simultaneously encoding patterns that would find their ultimate expression in the coming Messiah.",
+        "Within the grand redemptive arc, this wisdom literature occupies the Kingdom era, when Israel possessed land, temple, and throne—yet needed constant formation to remain faithful. These proverbs functioned as covenant catechesis, training hearts to navigate a world where righteousness and folly present themselves daily. The warnings against gluttony, drunkenness, sexual immorality, and the love of wealth address not merely social etiquette but the fundamental orientation of the human heart in a fallen world still groaning for redemption.",
+        "The father's repeated cry—\"My son, give me your heart\" (verse 26)—reverberates with prophetic significance. Throughout Scripture, God the Father seeks the heart of His people, and here the earthly father's plea typologically shadows the heavenly Father's eternal desire. This longing finds its answer in Christ, the true Son who gave His heart completely to the Father's will, and through whom adopted sons and daughters now offer their hearts freely.",
+        "The warnings against the \"immoral woman\" whose house leads to death carry forward the typological pattern established in Proverbs 1-9, where Lady Wisdom and Lady Folly represent covenantal paths. Christ would later reveal Himself as Wisdom incarnate, and the church would emerge as His pure bride, contrasted against Babylon the harlot in Revelation's consummating vision. The drunkard's vision of \"strange things\" and perverse speech (verses 33-35) anticipates the spiritual stupor that blinds those who reject divine wisdom—a condition only the new wine of the Spirit can remedy.",
+        "The promise that \"there is surely a future hope\" (verse 18) points beyond temporal prosperity to eschatological certainty. What appeared as earthly blessing to ancient Israel has been unveiled as eternal inheritance in Christ.",
+        "For the church dwelling between advents, Proverbs 23 calls believers to Spirit-empowered wisdom, hearts fully surrendered to the Father, and vigilant resistance against the intoxicating deceptions of a world system passing away. The discipline of wisdom prepares a people fit for the coming Kingdom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.633155+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

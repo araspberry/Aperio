@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 106,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 106 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 106: The Scandal of Grace Among God's Stubborn People",
+      "overview": [
+        "The spiritual heart of Psalm 106 lies in honest confession—not our confession, but Israel's, and through it, our own. The psalmist rehearses generations of rebellion while simultaneously marveling that God's mercy persisted despite relentless human faithlessness. This is a song about the scandal of grace, how God keeps loving people who keep breaking covenant.",
+        "The psalm opens with jubilation: \"Praise the Lord, for he is good; his love endures forever.\" Yet almost immediately, it pivots into a litany of failures. The people forgot God's miracles at the Red Sea within days. They complained in the desert. They worshiped a golden calf while Moses received the law. They rejected the Promised Land through unbelief. They mingled with pagans and sacrificed their own children to demons. The recitation is thorough, unflinching, and deeply uncomfortable—which is precisely the point.",
+        "What makes this passage vital for our discipleship is its refusal to sanitize spiritual history. The psalmist doesn't say Israel was basically good with a few mistakes. Rather, he names systemic, generational patterns of ingratitude and idolatry. He's teaching us that honest faith acknowledges the full weight of our failure while still clinging to God's unchanging character. The repeated refrain—that God nonetheless saved them for his name's sake—reveals that our faithfulness has never been the foundation of God's faithfulness. His commitment to his own glory and covenant secures us when our commitment crumbles.",
+        "For those of us in the church today, this psalm invites brutal honesty about our own patterns of forgetting, complaining, and spiritual adultery. We've inherited the same wandering hearts, yet the same eternal mercy meets us. We stand in the long line of those who don't deserve to be loved and yet are loved lavishly.",
+        "Where do you see your own patterns of faithlessness reflected in Israel's story? How does recognizing this genealogy of grace reshape your sense of God's character?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 106: Scholarly study",
+      "overview": [
+        "Psalm 106 constitutes a penitential hymn that rehearses Israel's history of rebellion against Yahweh, functioning as a companion piece to Psalm 105's celebration of divine faithfulness. Together these psalms form a theological diptych: while Psalm 105 emphasizes God's unwavering covenant loyalty, Psalm 106 confesses the nation's persistent unfaithfulness. The psalm's concluding doxology in verse 48, which blesses Yahweh \"from everlasting to everlasting,\" serves as the liturgical conclusion to Book IV of the Psalter, suggesting deliberate editorial placement within the canonical structure. The historical setting remains debated, though the plea in verse 47 to \"gather us from among the nations\" strongly implies either an exilic or early post-exilic provenance, when communities scattered throughout the ancient Near East longed for restoration.",
+        "The psalm opens with the hallelu-yah formula and immediately introduces the key theological term ḥesed (חֶסֶד), rendered variously as \"steadfast love,\" \"lovingkindness,\" or \"covenant faithfulness.\" This term anchors the entire composition, as the recitation of Israel's failures only magnifies the persistence of divine ḥesed. The confession in verse 6, \"We have sinned (ḥāṭāʾnû) with our fathers,\" employs the common Hebrew verb for sin that denotes missing a mark or deviating from a standard, establishing solidarity between the present generation and their ancestors' transgressions.",
+        "The historical retrospective moves systematically through Israel's rebellions: ingratitude at the Red Sea, craving in the wilderness, the Korah rebellion, the golden calf apostasy, despising the promised land, Baal-Peor worship, and the waters of Meribah. The verb \"to forget\" (šākaḥ) recurs strategically, characterizing Israel's fundamental spiritual failure as amnesia regarding Yahweh's salvific acts. Particularly striking is the description in verses 34–39 of Israel's assimilation to Canaanite practices, including child sacrifice, which \"polluted\" (ḥānēp) the land.",
+        "The psalm's theological resolution appears in verses 44–46, where despite Israel's covenant violations, Yahweh \"remembered\" (zākar) his covenant—the precise opposite of Israel's forgetting. This creates a powerful literary and theological contrast. Interpreters debate whether the final petition reflects genuine exile or employs exilic imagery metaphorically for any experience of divine discipline. Regardless, the psalm models authentic corporate confession while anchoring hope entirely in divine character rather than human merit."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 106: Prophetic perspective",
+      "overview": [
+        "Psalm 106 stands as a national confession composed during or shortly after the Babylonian exile, roughly 586–539 years before Christ's advent, when Israel languished under divine judgment for centuries of accumulated unfaithfulness. The closing verses cry out for God to gather His scattered people from among the nations, placing this psalm squarely in the exilic period of redemptive history—that painful chapter between the collapse of the Davidic kingdom and the partial restoration under Zerubbabel, Ezra, and Nehemiah.",
+        "This great penitential hymn traces Israel's rebellion from Egypt through the wilderness wanderings, the conquest, and the monarchy, creating a prophetic mirror in which every generation must see itself. The psalmist recounts how the fathers forgot God's wonders at the Red Sea, craved meat in the wilderness, envied Moses, fashioned the golden calf, despised the pleasant land, yoked themselves to Baal of Peor, provoked wrath at Meribah, mingled with Canaanite nations, and sacrificed their own children to demons. This catalogue of apostasy reveals not merely historical failure but the universal condition of the human heart apart from transforming grace.",
+        "Yet the psalm pulses with covenant faithfulness despite human treachery. The refrain of divine remembrance echoes throughout: \"He remembered His covenant for their sake.\" Here lies the typological heart of this confession. Israel's chronic unfaithfulness and God's relentless mercy foreshadow the ultimate resolution accomplished in Christ. Where Israel repeatedly broke covenant, the true Israel kept it perfectly. Where the nation deserved permanent exile, the Son entered exile on the cross, bearing the covenant curses, that rebels might be gathered home.",
+        "The eschatological cry of verse forty-seven—\"Save us, O LORD our God, and gather us from among the nations\"—found partial fulfillment in the return from Babylon, greater fulfillment in Christ gathering a people from every tribe and tongue through the proclamation of the gospel, and awaits consummate fulfillment when the Shepherd separates His flock and brings them into everlasting pastures. The psalm's closing doxology, \"Blessed be the LORD God of Israel from everlasting to everlasting,\" anticipates that final gathering when all the redeemed will pronounce eternal \"Amens\" in the new creation.",
+        "The church dwelling between the advents reads this psalm as both warning and comfort. We who have received greater revelation than Israel possess proportionally greater accountability. Yet the God who remembered covenant for faithless Israel remembers the blood of His Son for us—and that remembrance shall never fail."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_106",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.416292+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

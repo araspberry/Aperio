@@ -1,0 +1,55 @@
+{
+  "book": "Numbers",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 26: Counting God's Promises",
+      "overview": [
+        "The second census of Israel marks not an ending but a miraculous renewal—God's faithfulness transcending an entire generation's unfaithfulness. What began with a faithless generation in the wilderness now moves toward a faithful generation ready to enter the Promised Land, each name counted, each life seen, each tribe positioned for inheritance.",
+        "This census reveals something profound about God's nature. The generation that left Egypt perished in the wilderness because they refused to believe God's promises. Yet their children, born in the desert, stand before Moses and Eleazar to be numbered and prepared to possess what their parents forfeited. This is not judgment without mercy; it is judgment wrapped in redemption. God does not abandon His purposes when people fail. Instead, He works through generations, always moving toward His ultimate intention to bless and establish His people.",
+        "The specific tribal counts matter deeply. These are not mere statistics in a historical record. Each name represents a person loved by God, a voice in Israel's worship, a family unit that would receive its own portion of Canaan. The numbering demonstrates that God's care is both comprehensive and personal—He knows the whole nation and knows each individual within it. When we are counted among God's people, we are never lost in the crowd or forgotten in the masses.",
+        "For the Christian today, this passage whispers a comforting truth about spiritual inheritance. Like the second generation of Israel, we are called to move into the fullness of what Christ has promised us—not through our own merit or strength, but through trust in God's faithfulness. Our ancestors in faith may have stumbled, and we ourselves may wander, yet God's purposes press forward through our generation. We are being prepared, counted, and positioned for blessing beyond what we can imagine.",
+        "What spiritual inheritance has God called you toward, and are you willing to trust Him enough to move into it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 26: Scholarly study",
+      "overview": [
+        "Numbers 26 presents the second census of Israel, conducted on the plains of Moab approximately forty years after the initial enumeration recorded in Numbers 1. This chapter marks a pivotal transition in the Pentateuchal narrative, standing at the threshold between the wilderness generation condemned to die for their unbelief and the new generation poised to inherit the promised land. The census follows immediately after the plague at Peor (Numbers 25), which claimed 24,000 lives, and serves both military and theological purposes in the broader narrative architecture of Numbers.",
+        "The Hebrew term for census, *pāqad* (פָּקַד), carries connotations beyond mere counting; it implies a mustering or commissioning for service, particularly military readiness. The total count of 601,730 men of fighting age represents a slight decrease from the 603,550 recorded in Numbers 1, yet this statistical continuity amid complete generational turnover demonstrates divine faithfulness to the covenant promises. The theological significance becomes explicit in verses 64–65, which confirm that none from the original census remained except Caleb and Joshua, fulfilling the judgment pronounced in Numbers 14:29–30.",
+        "The chapter's literary structure interweaves genealogical data with narrative reminiscences, notably referencing the rebellions of Dathan and Abiram (v. 9–11) and the fate of Er and Onan (v. 19). These insertions transform a potentially monotonous list into theological commentary on divine justice and mercy. The term *mišpāḥâ* (מִשְׁפָּחָה), typically rendered \"clan\" or \"family,\" designates the intermediate social unit between tribe and household, crucial for understanding Israel's military and land-distribution organization.",
+        "Scholars debate whether this census reflects authentic ancient records or represents later editorial construction. The correspondence between certain clan names and geographical locations known from later periods has prompted source-critical discussions, though the text's internal coherence suggests careful compositional intentionality. The chapter's concluding reference to land distribution by lot (vv. 52–56) introduces the principle of proportional inheritance, balancing divine sovereignty (the lot) with practical equity (tribal size). This census thus functions as more than administrative record; it constitutes covenant renewal, confirming that despite judgment, God's purposes for Israel endure across generations, preparing a reconstituted community for conquest and settlement."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 26: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1406 years before the incarnation of Christ, marking the conclusion of Israel's forty years of wilderness wandering. The first generation that departed Egypt has now perished under divine judgment, save for Joshua and Caleb, and a new generation stands poised on the plains of Moab, ready to inherit what their fathers forfeited through unbelief. Within the grand arc of redemption, this passage sits between the Exodus deliverance and the conquest of the Promised Land, demonstrating that God's purposes advance even through the graveyard of an unbelieving generation.",
+        "The second census of Israel carries profound typological weight. Where the first census in Numbers 1 numbered a generation destined for death in the wilderness, this numbering counts a people destined for inheritance. Here we perceive a shadow of the two humanities in Scripture—those in Adam who perish and those in Christ who inherit eternal promises. The wilderness itself becomes a type of the present age, where the church journeys between redemption accomplished and glory consummated, and where many who begin the journey prove to be unbelieving hearts that fall short of entering God's rest, as the author of Hebrews solemnly expounds.",
+        "The tribal numbering reveals divine faithfulness across forty years of death and wandering. Though individual tribes rose or fell in population, the covenant nation endured. God preserved a remnant and raised up seed to Abraham even as corpses littered the desert floor. This preservation points forward to Christ's promise that He will lose none of those the Father has given Him, and that the gates of hell shall not prevail against His church.",
+        "The daughters of Zelophehad, mentioned within this census context, anticipate a coming order where inheritance would not be bound by the limitations of the old covenant structures. Their petition foreshadows the new covenant reality where there is neither male nor female in matters of inheritance, for all are heirs together in Christ Jesus.",
+        "The land allotment instructions embedded within this census point toward the ultimate inheritance—not Canaan's temporal fields but the new creation itself, where the meek shall inherit the earth. For the church dwelling between the advents, this passage declares that God numbers His people, knows them by name, and has prepared an inheritance incorruptible and undefiled. The God who brought a new generation to Canaan's border will surely bring His blood-bought people into the eternal rest that remains for the people of God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.069864+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

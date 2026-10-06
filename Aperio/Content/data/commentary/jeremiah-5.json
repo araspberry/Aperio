@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 5: The Cry of a Faithful Prophet in an Unfaithful Land",
+      "overview": [
+        "At the heart of Jeremiah 5 lies the sobering reality that God's judgment falls upon those who refuse to listen, no matter how faithful His messengers remain. The prophet searches Jerusalem like someone looking for a single righteous person who \"seeks truth,\" yet finds the city hardened against God's word and resistant to repentance.",
+        "Jeremiah captures the anguish of spiritual leadership in a culture turned away from God. He depicts a people who swear oaths but do not keep them, who enjoy material comfort while ignoring justice, and whose religious leaders exploit rather than shepherd. What makes this passage particularly piercing is its portrait of spiritual numbness—the people are not merely sinning; they have become incapable of shame. They have so thoroughly silenced God's voice that they no longer even recognize it when the prophet speaks.",
+        "This resonates deeply with our modern moment. We too live in a world where spiritual deafness is widespread, where comfort numbs conscience, and where truth-telling often meets resistance. Yet Jeremiah's faithfulness invites us to consider our own response to God's word. Are we among those still listening? Have we become so acculturated to the surrounding spirit of our age that we can no longer discern God's gentle corrections?",
+        "The passage also reveals God's heart: He does not delight in judgment. His warnings come repeatedly, His patience extends far, yet His holiness cannot compromise with persistent disobedience. Even Jeremiah's searching compassion—looking for one righteous person—echoes God's own willingness to spare if repentance comes.",
+        "For disciples today, this passage calls us to humble vigilance. It invites us to examine whether we are listening deeply to God's voice or drifting with cultural currents. It challenges us to be voices of truth in our own circles, knowing that faithfulness may go unheeded, yet trusting that God's word never returns empty.",
+        "What areas of your life might you be numb to God's voice?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 5: Scholarly study",
+      "overview": [
+        "Jeremiah 5 constitutes a pivotal chapter within the prophet's early oracles, likely composed during the reign of Jehoiakim (609–598 BCE) as Judah faced mounting Babylonian pressure. The chapter belongs to a larger collection of judgment oracles in chapters 2–6, functioning as a theological indictment that justifies the coming destruction of Jerusalem by demonstrating the totality of Judah's moral collapse across all social strata.",
+        "The chapter opens with a striking literary device reminiscent of Diogenes' search for an honest person, as Yahweh challenges the prophet to traverse Jerusalem's streets seeking even one individual who practices justice (*mishpat*) and seeks faithfulness (*ʾemunah*). This rhetorical search, which proves futile, establishes that judgment proceeds not from divine caprice but from comprehensive covenantal failure. The term *mishpat* carries legal and relational dimensions, denoting both procedural justice and the maintenance of proper social relationships, while *ʾemunah* suggests reliability and steadfastness in covenant loyalty rather than mere intellectual assent.",
+        "Particularly significant is Jeremiah's movement from the poor (*dallim*) to the great (*gedolim*) in verses 4–5, systematically eliminating any possibility that ignorance excuses the common people while the elite remain faithful. Instead, those who should know \"the way of Yahweh\" (*derek YHWH*) have deliberately broken the yoke of covenant obligation. The agricultural metaphors of lion, wolf, and leopard in verse 6 draw upon ancient Near Eastern imagery of predatory judgment, common in Assyrian and Babylonian treaty curses.",
+        "Verses 20–29 present interpretive challenges regarding the relationship between cosmic order and moral order. The sea's obedience to divine boundaries (*ḥoq*) stands in sharp contrast to Judah's stubborn and rebellious heart (*leb sorer umoreh*). Some scholars detect wisdom influence in this appeal to creation theology as moral paradigm. The chapter concludes with the haunting rhetorical questions of verses 29–31, where the expected answer affirms divine visitation while simultaneously indicting prophets, priests, and people for their complicity in a religious system built upon falsehood (*sheqer*). This comprehensive indictment prepares readers for the siege oracles that follow."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 5: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter five emerges from the tumultuous final decades of Judah's existence, written approximately 620–600 years before Christ's birth, during the reigns of Josiah's successors as Babylon rose to dominate the ancient Near East. This passage stands at a critical juncture in redemptive history—the kingdom era is collapsing, and the long-threatened exile looms on the horizon. The prophets had warned for generations that covenant unfaithfulness would result in the curses of Deuteronomy being unleashed, and now those warnings reach their crescendo.",
+        "The chapter opens with a divine search through Jerusalem's streets for even one righteous person who seeks truth and practices justice—a haunting echo of Abraham's intercession for Sodom. This establishes a typological pattern that runs throughout Scripture: the hunt for a righteous remnant, the question of whether any faithful remain. The answer in Jeremiah's day is devastating. From the poor to the great, all have broken the yoke of covenant faithfulness. Here we glimpse humanity's universal need that no human righteousness can satisfy—a need that would only be met six centuries later when One walked Jerusalem's streets who was Himself the Truth.",
+        "The prophetic imagery intensifies as foreign nations are summoned as instruments of judgment—lions, wolves, and leopards representing Babylon's coming devastation. Yet even here, the Lord restrains total destruction, preserving a remnant. This pattern of judgment-yet-preservation threads through all prophetic literature, pointing toward the ultimate preservation of God's people through the judgment that fell upon Christ at Calvary.",
+        "Particularly striking is the indictment against prophets and priests who deal falsely, crying \"Peace, peace\" when there is no peace. This spiritual blindness typifies every generation that domesticates God's holiness and presumes upon His patience. The people's refusal to fear the One who set boundaries for the sea reveals the cosmic scope of their rebellion—they reject not merely religious customs but the Creator who orders all things.",
+        "The eschatological thread here remains partially unfulfilled. While Babylon came as promised, the deeper spiritual adultery Jeremiah exposes continues until Christ returns. The church between the advents must hear this chapter as both warning and invitation—warning against presumptuous religion that assumes blessing without obedience, and invitation to be among those who tremble at God's word. When the True Righteous One returns, He will find faith on earth—but only because He Himself creates and preserves it."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.916182+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

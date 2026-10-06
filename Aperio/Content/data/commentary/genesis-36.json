@@ -1,0 +1,56 @@
+{
+  "book": "Genesis",
+  "chapter": 36,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 36 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 36: The Hidden Purpose in Genealogy",
+      "overview": [
+        "Genealogies often feel like the driest passages in Scripture, yet Genesis 36 reveals something profound: God's meticulous care extends even to those outside His chosen covenant line. This chapter traces Esau's descendants—the Edomites—in exhaustive detail, demonstrating that God's sovereignty and providential hand reach far beyond the family through whom Christ would come.",
+        "Esau, Jacob's twin brother and the rejected son, receives a full genealogy showing his flourishing and significance in God's eyes. His families grew into nations, his descendants became kings and chiefs, and his line endured for centuries. This is not mere historical record; it's a testimony that God does not waste anyone's existence. Even those not called to the covenant promise of Messiah receive God's blessing, inheritance, and place in His grand design.",
+        "For modern believers, this invites a liberating perspective on our own lives. We live in a culture obsessed with prominence, with being chosen for special roles or recognition. Yet Genesis 36 suggests that faithfulness matters more than visibility. Esau may not be in the direct line leading to Jesus, yet his life mattered—his descendants, his achievement, his legacy all bore God's fingerprints. He lived fully within his own calling, not someone else's.",
+        "This speaks directly to those who feel sidelined by life. Perhaps you're not in ministry, not in the spotlight, not pursuing what you once dreamed. Genesis 36 whispers that God sees you completely. Your work, your family, your influence in your sphere is not insignificant because it's not prominent. The God who numbered Esau's descendants and recorded his kings is the God who knows your name, your struggles, your faithful days that no one else witnesses.",
+        "The real question isn't whether you're in God's chosen line—it's whether you're living faithfully within the calling He has actually given you.",
+        "What sphere of influence has God entrusted to you, even if it feels small or ordinary?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 36: Scholarly study",
+      "overview": [
+        "Genesis 36 presents a comprehensive genealogical record of Esau and his descendants, the Edomites, serving as a significant transition marker within the patriarchal narratives. This chapter fulfills the divine promise made to Rebekah that \"two nations\" were in her womb (Genesis 25:23) and formally closes the Esau narrative before the extended Joseph cycle commences. The Yahwist, Elohist, and Priestly sources have long been debated regarding this chapter's composition, though its final form demonstrates careful editorial arrangement that integrates multiple genealogical traditions into a coherent whole.",
+        "The chapter opens with the Hebrew term *tôlĕdôt* (תּוֹלְדֹת), meaning \"generations\" or \"account,\" which functions as a structural marker throughout Genesis, appearing ten times to organize the book's major sections. This particular *tôlĕdôt* formula signals that Esau's lineage, while not the covenant line, nonetheless receives divine attention and blessing. The text emphasizes that Esau settled in the hill country of Seir, identified with the mountainous region southeast of the Dead Sea, and the name Edom derives from the Hebrew *'ādôm* (אָדֹם), meaning \"red,\" connecting to the earlier narrative of Esau's sale of his birthright for red stew.",
+        "Particularly noteworthy is the list of Edomite kings in verses 31–39, introduced with the remarkable statement that these kings reigned \"before any king reigned over the Israelites.\" This phrase has generated considerable scholarly discussion, with some viewing it as evidence of post-monarchic composition, while others argue it reflects prophetic anticipation based on earlier promises. The term *'allûp* (אַלּוּף), translated \"chief\" or \"clan leader,\" appears repeatedly and designates tribal military commanders, revealing Edom's social organization.",
+        "The inclusion of Anah's discovery of \"hot springs\" (or possibly \"mules,\" as the Hebrew *yēmim* remains disputed) in verse 24 provides an unexpected narrative detail within the genealogical framework. Canonically, this chapter establishes the political geography essential for understanding later Israelite-Edomite relations, including the conflicts recorded in Samuel, Kings, and the prophetic oracles against Edom. The careful preservation of Esau's descendants demonstrates that divine providence extends beyond the chosen line while simultaneously distinguishing covenant blessing from general providential care."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 36: Prophetic perspective",
+      "overview": [
+        "Genesis 36 stands at a pivotal juncture in the patriarchal narrative, approximately 1900 years before Christ, documenting the genealogy of Esau after Jacob's return from Paddan-aram and before the Joseph narratives unfold. This chapter functions as a divine parenthesis—a sacred pause in the covenant story to account for the line that departed from the promised seed while simultaneously confirming that God's elective purposes remain irrevocably fixed on Jacob and his descendants.",
+        "Within the grand redemptive arc, this passage occurs between Abraham's call and the Egyptian sojourn, during the period when God was separating and distinguishing the covenant family from surrounding peoples. The careful enumeration of Esau's descendants—his wives from Canaanite and Ishmaelite stock, his chiefs and kings in Edom—demonstrates that Esau received his portion in the present age. The land of Seir became his inheritance, a temporal blessing that fulfilled Isaac's prophetic word that Esau would live by the sword and eventually break free from his brother's yoke. Yet this earthly prosperity stands in stark contrast to Jacob's wandering existence as a stranger in the land of promise.",
+        "The typological significance runs deep. Esau represents the natural man who despises his birthright, choosing immediate gratification over covenant inheritance. His intermarriage with Canaanites pictures the unholy mixture that God's people must perpetually avoid. That Edom produced kings \"before any king reigned over the children of Israel\" reveals how the kingdom of man precedes and opposes the kingdom of God—a pattern repeated throughout Scripture until Babylon falls and Christ's eternal kingdom is established.",
+        "Prophetically, Edom becomes a type of all nations hostile to God's purposes. The prophets Obadiah, Isaiah, Jeremiah, Ezekiel, and Malachi all pronounce judgment upon Edom for violence against Jacob. This enmity reaches its apex when an Edomite—Herod the Great—attempts to destroy the infant Christ. The eschatological judgment against Edom in Isaiah 34 and 63, where the Divine Warrior treads the winepress alone, finds ultimate fulfillment in Revelation 19 when Christ returns in blood-dipped garments to judge the nations.",
+        "For the church dwelling between the advents, Genesis 36 whispers a solemn warning: earthly prosperity apart from covenant relationship ends in judgment. The line of Esau vanished from history, while through Jacob came the Lion of Judah, whose kingdom shall never end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_036",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.726523+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

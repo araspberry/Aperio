@@ -1,0 +1,63 @@
+{
+  "book": "Nahum",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nahum 1 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Nahum 1 · Scripture",
+      "url": "https://biblehub.com/bsb/nahum/1.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on Nahum 1",
+      "overview": [
+        "The book of Nahum announces a hard mercy: that God's power will not forever tolerate wickedness, and that justice—however long delayed—will eventually arrive. This ancient prophecy speaks to the deep human longing for wrongs to be made right and for the vulnerable to be vindicated.",
+        "Nahum opens by declaring who God is before announcing what God will do. The Lord is jealous and avenging, yet merciful to those who belong to him. This tension holds profound truth: the same God who patiently bears with human sin cannot remain indifferent to cruelty, oppression, and rebellion. The prophet paints vivid imagery of God's power—slow anger that finally breaks, mountains crumbling, seas drying up—to awaken his people to the reality that the Almighty is neither distant nor weak. Nineveh, the capital of the brutal Assyrian Empire that had terrorized countless nations, would fall. What seemed immovable would crumble.",
+        "For believers in our age, this passage reminds us that God takes evil seriously. When we witness injustice—when the powerful exploit the vulnerable, when lies triumph over truth—it can feel as though God is absent or unconcerned. Nahum assures us otherwise. The Lord's patience is not passivity; it is the restraint of one who could act but chooses to wait, hoping for repentance. Yet that patience has limits. In our personal lives too, persistent unrepentance invites consequence. But equally important is Nahum's opening claim: this God is good to those who trust him, a stronghold in the day of trouble.",
+        "This passage calls us to trust that justice belongs to God, not to us. We need not carry the burden of avenging every wrong or righting every injustice through our own efforts. We can release our bitterness to One who sees everything and cares deeply about suffering.",
+        "What oppression or injustice weighs on your heart today, and how might entrusting it to God's justice free you from the burden of vengeance?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nahum 1: Scholarly study",
+      "overview": [
+        "The book of Nahum opens with a superscription identifying the work as both \"the oracle concerning Nineveh\" and \"the book of the vision of Nahum the Elkoshite,\" establishing immediately the prophetic genre and the specific target of divine judgment. The precise location of Elkosh remains disputed among scholars, with proposals ranging from sites in Galilee to locations in Judah, though the latter seems more probable given the book's theological concerns. Nahum prophesied sometime between the fall of Thebes in 663 BCE, which the book references as a past event, and the destruction of Nineveh in 612 BCE, placing his ministry during the reign of either Manasseh or Josiah.",
+        "The chapter commences with a partial acrostic hymn celebrating Yahweh as a divine warrior, employing the significant term *qannōʾ* (jealous or zealous), which describes God's passionate commitment to covenant faithfulness and his intolerance of rivals. This jealousy manifests as *nōqēm* (avenging), a term appearing three times in verse two for emphatic effect, underscoring the certainty of divine retribution against those who oppose Yahweh's purposes. The theophanic imagery of verses 3–6, depicting cosmic upheaval through storms, earthquakes, and withering vegetation, draws upon ancient Near Eastern conventions while asserting Yahweh's universal sovereignty over creation.",
+        "Within the canonical context, Nahum serves as a theological counterpart to Jonah; whereas Jonah narrated Nineveh's temporary repentance, Nahum announces the irrevocable judgment upon an empire whose violence had become proverbial. The tension between verses 7 and 8 presents Yahweh as simultaneously \"good, a stronghold in the day of trouble\" for those who trust him, while pursuing enemies into darkness. This juxtaposition has generated interpretive discussion regarding whether the passage addresses Judah's comfort or Assyria's doom, though the rhetorical structure suggests both audiences are in view.",
+        "The chapter concludes with a direct address shifting between Nineveh and Judah, announcing that the oppressor's dynasty will be cut off while Judah celebrates festivals unhindered. The command to \"keep your feasts\" anticipates liberation from Assyrian domination, transforming what begins as a hymn of judgment into a proclamation of salvation for the covenant community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nahum 1: Prophetic perspective",
+      "overview": [
+        "Nahum chapter one thunders forth from approximately 660 to 620 BC, written in the twilight years before Nineveh's catastrophic fall in 612 BC. This prophecy emerges roughly a century and a half after Jonah's reluctant mission brought temporary repentance to Assyria's capital. The generation that humbled itself before Yahweh has long perished, and Nineveh has returned to its brutal imperialism with vengeance—having destroyed the northern kingdom of Israel in 722 BC and terrorized Judah under Sennacherib. Nahum's oracle stands on the biblical timeline between the divided kingdom's collapse and Judah's own approaching exile, offering divine consolation to a people crushed under Assyrian oppression.",
+        "Within redemptive history, this passage functions as a pivotal declaration of God's sovereign justice over the nations. While the Abrahamic covenant promised blessing to all peoples through Israel, it equally warned that those who cursed Abraham's descendants would themselves be cursed. Assyria had filled its cup of iniquity—skinning captives alive, impaling victims on stakes, and deporting entire populations. Now the divine warrior rises.",
+        "The theophany of verses 2-8 reveals Yahweh as the jealous, avenging God whose fury none can withstand. Mountains quake, hills melt, the earth trembles at His presence. This portrait of divine wrath typologically anticipates the final judgment when Christ returns \"in flaming fire, taking vengeance on those who do not know God.\" The imagery of whirlwind, storm, and clouds beneath His feet echoes throughout Scripture's apocalyptic visions, finding ultimate expression in Revelation's conquering King whose eyes blaze like fire.",
+        "Yet embedded within this terrifying oracle gleams covenant faithfulness: \"The LORD is good, a stronghold in the day of trouble; He knows those who take refuge in Him.\" Here stands the eternal pattern—judgment for the rebellious, shelter for the remnant. Nineveh's flooding destruction, historically fulfilled when the Tigris River breached her walls, foreshadows Babylon's future fall and ultimately the collapse of every empire that exalts itself against the Most High.",
+        "For the church dwelling between Christ's advents, Nahum's message resonates with urgent relevance. The God who remembered Nineveh's crimes remembers every injustice perpetrated against His people. No oppressor escapes His notice; no empire endures His patience forever. The afflicted need not avenge themselves—their Kinsman-Redeemer keeps accounts. Those who take refuge in Him discover what Assyria never learned: the same holiness that consumes the wicked becomes an unfailing refuge for those who trust Him."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "34_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.355885+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-037"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

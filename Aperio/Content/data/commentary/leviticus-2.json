@@ -1,0 +1,57 @@
+{
+  "book": "Leviticus",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 2: The Grain Offering and Wholehearted Devotion",
+      "overview": [
+        "The grain offering reveals that genuine worship includes the simple, tangible fruits of our ordinary labor—and that God receives them with delight when our hearts are fully His. In a world that often reserves reverence for the grand gesture, this chapter whispers a countercultural truth: the everyday sustenance we've worked to produce can become an act of sacred communion when offered with right intention.",
+        "Unlike the burnt offering that demanded an animal sacrifice, the grain offering invited worshippers to bring flour, oil, incense, and salt—the staples of daily bread. This accessibility is striking. A person without resources for livestock could still draw near to God through the work of their own hands. The offering wasn't about the costliness of the gift but the costliness of the surrender. Whether fine flour mixed with oil or grain roasted fresh from the harvest, each component mattered. The frankincense represented prayer rising heavenward; the salt signified covenant faithfulness and preservation. Even in this intimate detail, God was teaching His people that He notices how we offer what we have.",
+        "The instructions to burn only a portion—a memorial portion—while the priests ate the remainder, creates an image of shared communion. God's portion ascends in fragrant smoke; the priest's portion nourishes the one who serves in God's house. This was table fellowship, the breaking of bread together, woven into the very fabric of worship. It spoke of provision, mutuality, and the reality that worship isn't a transaction but a relationship.",
+        "For disciples today, this passage quietly challenges how we bring our lives to God. Do we offer only our \"best\" moments—our spiritual highs and achievements—while withholding the grain of ordinary days, routine work, and humble service? The grain offering invites us to consecrate the daily, the simple, the earned. Every meal prepared with gratitude, every labor offered to the Lord, every ordinary moment held with open hands becomes an offering that rises before heaven.",
+        "What part of your ordinary work or daily routine might become worship if you offered it consciously to the Lord?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 2: Scholarly study",
+      "overview": [
+        "Leviticus 2 presents the regulations governing the grain offering (*minḥâ*), establishing a significant category of sacrifice distinct from the animal offerings detailed in the preceding chapter. This passage emerges from the priestly tradition, likely reaching its final form during or shortly after the Babylonian exile, though preserving cultic instructions that reflect ancient Near Eastern sacrificial practices with deep roots in Israel's worship traditions.",
+        "The term *minḥâ* itself carries semantic range worth examining. While in earlier biblical usage it denotes a gift or tribute presented to a superior—whether human or divine—the priestly legislation restricts its technical meaning to cereal oblations specifically. This semantic narrowing reflects the systematization characteristic of Levitical legislation. The offering could take multiple forms: raw flour, baked cakes, griddle preparations, or firstfruits grain, each method receiving careful specification regarding preparation and presentation.",
+        "Central to understanding this chapter is the concept of the *'azkārâ*, traditionally rendered \"memorial portion,\" referring to the handful of grain mixed with oil and all the frankincense that the priest burns upon the altar. Scholars debate whether this term derives from the root meaning \"to remember\" or from an alternative root suggesting \"invocation.\" The portion functions as the representative element ascending to Yahweh, while the remainder sustains the priesthood—a practical arrangement establishing economic support for cultic personnel while maintaining theological significance.",
+        "The categorical prohibitions against leaven (*śə'ōr*) and honey in altar offerings warrant attention. These restrictions likely relate to fermentation and its associations with decay and transformation, rendering such substances incompatible with offerings consumed by sacred fire. Conversely, salt—designated \"the salt of the covenant\" (*məlaḥ bərît*)—was mandatory, its preservative qualities perhaps symbolizing the enduring nature of Israel's covenantal relationship with Yahweh.",
+        "Within the broader Levitical sacrificial system, the grain offering occupies a supplementary yet essential position, frequently accompanying burnt offerings and peace offerings. Its accessibility—requiring agricultural products rather than costly livestock—suggests provisions for worshipers of modest means, democratizing cultic participation. The meticulous instructions concerning preparation, priestly portions, and prohibited ingredients reveal the priestly concern for maintaining holiness boundaries while facilitating Israel's ongoing communion with the divine presence dwelling among them."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 2: Prophetic perspective",
+      "overview": [
+        "Leviticus 2 stands at the foot of Mount Sinai, given to Moses approximately 1,446 years before Christ's birth, during the year Israel camped in the wilderness after their deliverance from Egypt. This instruction concerning the grain offering comes immediately after the burnt offering regulations, establishing the second of five major offerings that would govern Israel's worship for the next fifteen centuries. Within redemptive history, this chapter belongs to the epoch of the Mosaic covenant, where God constitutes a redeemed people as a kingdom of priests through the sacrificial system that would serve as shadow and type until the substance arrived in Christ.",
+        "The grain offering, called the *minchah* in Hebrew, presents a striking portrait of consecrated life flowing from consecrated death. Unlike the blood sacrifices, this offering involved no slaughter—fine flour, oil, and frankincense ascended as a pleasing aroma to the Lord. Yet it never stood alone; it always accompanied the burnt offering, teaching Israel that worship arising from human hands must rest upon the foundation of atoning sacrifice. Here the prophetic pattern emerges: no fruit of human labor finds acceptance apart from blood.",
+        "The elements themselves shimmer with Christological significance. The fine flour, ground and refined until no coarseness remained, prefigured the perfect humanity of the Son—tested, crushed, yet without any unevenness of character. The oil, poured upon and mingled throughout, spoke of the Holy Spirit's anointing that would rest upon the Messiah without measure. The frankincense, producing fragrance only when burned, anticipated the sweet savor of Christ's complete self-offering that ascended to the Father from Calvary's altar.",
+        "Two elements were strictly forbidden: leaven and honey. These exclusions carried prophetic weight, for leaven symbolized the pervasive corruption of sin and hypocrisy, while honey represented natural sweetness that ferments and corrupts. Christ's offering contained no hidden sin, no mere natural goodness that would sour over time. Conversely, salt was required—the covenant of salt pointing to the eternal, incorruptible nature of God's promises that find their \"Yes\" and \"Amen\" in Jesus.",
+        "The priests received a portion of every grain offering, establishing the principle that those who serve the altar live from the altar—a pattern Paul explicitly applied to gospel ministers.",
+        "The church now lives as those whose works of service, worship, and devotion ascend acceptably to the Father solely because they rest upon Christ's finished sacrifice, the true burnt offering upon which every grain offering of believing obedience finds its welcome."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.87309+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

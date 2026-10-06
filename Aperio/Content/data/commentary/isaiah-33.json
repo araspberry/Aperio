@@ -1,0 +1,56 @@
+{
+  "book": "Isaiah",
+  "chapter": 33,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 33 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 33: The Lord Alone Is Our Fortress",
+      "overview": [
+        "At the heart of this passage lies a profound declaration: when earthly powers crumble and human security fails, the Lord Himself becomes our unshakeable refuge and the source of all genuine righteousness. Isaiah invites us into a vision where trust in God's sovereignty transforms our deepest anxieties into deep peace.",
+        "The chapter opens with a cry against those who betray and destroy, yet the prophet immediately pivots from lament to exultation: \"Lord, be gracious to us; we have waited for you.\" This movement from complaint to confidence reveals a secret many believers discover through hardship—that waiting upon God is itself an act of faith that reorganizes our inner world. Isaiah's vision presents judgment against those who oppose God's purposes, but more importantly, it celebrates the Lord's elevation, His majesty, and His care for those who seek Him.",
+        "What strikes most deeply is the shift toward comfort. When everything around us seems uncertain—whether through personal loss, societal upheaval, or spiritual drought—Isaiah reminds us that God's faithfulness never wavers. The passage promises that He will be our stability in times of trouble, our guide in decisions, and our strength when we are weak. This isn't abstract theology; it's pastoral medicine for hearts that have learned to doubt everything except God's character.",
+        "The vision culminates in a picture of Jerusalem restored, where the weak and sick are healed, where sins are forgiven, and where the people experience tangible deliverance. Such restoration flows not from human achievement but from the simple fact that God Himself dwells among His people. When we make Him our primary focus rather than our circumstances, our entire perspective shifts.",
+        "In your own season of waiting or uncertainty, where might you trade anxiety for confidence in God's proven faithfulness? How might the simple act of waiting upon Him—with expectation rather than resignation—reshape your day?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 33: Scholarly study",
+      "overview": [
+        "Isaiah 33 represents a culminating prophetic oracle within the larger collection of woe pronouncements spanning chapters 28–33, forming what scholars often identify as the \"Assyrian Crisis\" section of First Isaiah. This chapter likely finds its historical moorings in the tumultuous period surrounding Sennacherib's campaign against Judah in 701 BCE, though the text's composite nature suggests possible redactional layering from exilic or post-exilic editors who found renewed relevance in its themes of divine deliverance.",
+        "The chapter opens with a woe oracle against an unnamed destroyer, employing the Hebrew term *bôgēd* (בּוֹגֵד, \"treacherous one\"), a participial form suggesting ongoing, characteristic betrayal. This deliberate ambiguity allows the text to function paradigmatically—applicable to Assyria in its original context yet transcending that specific referent for future communities facing oppression. The principle of measure-for-measure justice emerges prominently: the destroyer will himself be destroyed, the treacherous one will experience treachery.",
+        "The psalm-like prayer in verses 2–6 shifts dramatically to communal petition, with the congregation addressing YHWH as their anticipated salvation \"in the time of trouble.\" The term *rômēmâ* (רוֹמֵמָה, \"exaltation\") in verse 3 carries connotations of both spatial height and royal majesty, depicting YHWH's theophanic intervention as simultaneously terrifying to enemies and protective of Jerusalem.",
+        "Particularly significant is the ethical catechism in verses 14–16, which echoes entrance liturgies found in Psalms 15 and 24. The question \"who among us can dwell with consuming fire?\" receives its answer through enumeration of moral qualifications—righteous speech, rejection of oppression, and refusal of bribes. This passage thus theologizes the doctrine of divine holiness (*qādôsh*) not merely as cultic purity but as ethical demand.",
+        "The chapter concludes with an eschatological vision of Jerusalem as secure habitation, employing the remarkable image of YHWH as river and broad waterway—paradoxically protective rather than threatening, unlike the Nile or Euphrates that carried enemy vessels. Interpretive debates center on whether this finale represents original Isaianic material or later apocalyptic expansion, though thematic continuity with Zion theology suggests authentic integration within the prophetic vision of ultimate divine sovereignty."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 33: Prophetic perspective",
+      "overview": [
+        "Isaiah 33 emerges from the tumultuous final years of the eighth century before Christ, approximately 701 BC, when the Assyrian war machine under Sennacherib had swept through Judah like a devouring flood, capturing forty-six fortified cities and encamping against Jerusalem itself. This oracle stands within the latter portion of Isaiah's ministry, some seven centuries before the Incarnation, positioned in redemptive history during the divided kingdom period—after David's throne had been established but before the Babylonian exile that would come a century later. The prophet speaks into immediate crisis while his words stretch toward horizons far beyond his own generation.",
+        "The chapter opens with a woe against the destroyer who has not been destroyed, the treacherous one who has not been betrayed—language fitting Assyria's broken treaties yet pointing toward every proud empire that exalts itself against the Lord's anointed. Here the typological pattern crystallizes: as Assyria threatened Jerusalem in Hezekiah's day, so shall the final antichrist powers threaten God's people before their ultimate deliverance. The prayer of verses 2-4 models the posture of the faithful remnant in every age of tribulation, crying out for the arm of the Lord to be their strength each morning.",
+        "The eschatological dimensions unfold magnificently as Isaiah envisions the Lord exalted, filling Zion with justice and righteousness, becoming the stability of her times. This found partial fulfillment when the angel of the Lord struck down 185,000 Assyrians in a single night, vindicating Hezekiah's faith. Yet the fuller substance awaited Christ's first advent, when the King came in humility, and still awaits His glorious return when every knee shall bow.",
+        "The vision of verses 17-24 transports the prophet beyond immediate deliverance into the messianic kingdom itself: eyes beholding the King in His beauty, seeing a land that stretches afar. The forgiveness of iniquity, the absence of sickness, the tent that shall never be moved—these realities find their inauguration in the church, purchased by Christ's blood, yet consummate only in the New Jerusalem where the Lord Himself is our judge, lawgiver, and king who saves us.",
+        "For the church dwelling between the advents, Isaiah 33 sounds the eternal note: the same God who delivered Jerusalem from Sennacherib has delivered His people from sin through the Cross and shall deliver creation itself from bondage when the King returns in glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_033",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.809759+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

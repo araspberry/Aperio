@@ -1,0 +1,56 @@
+{
+  "book": "Job",
+  "chapter": 36,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 36 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 36 – The Mercy Hidden in Suffering",
+      "overview": [
+        "In this chapter, Elihu becomes a voice of divine perspective during Job's wilderness of pain, reminding us that God's ways toward us are always purposeful, even when wrapped in mystery and sorrow.",
+        "Elihu speaks with conviction about God's justice and compassion working together. He insists that the Almighty is \"mighty, but does not despise anyone; he is mighty, and firm in his purpose\" (36:5). This is a stunning claim to make to a suffering man—that power and gentleness coexist in God's character. Elihu challenges Job's assumption that God has abandoned him, suggesting instead that suffering can be God's strange schoolroom, a place where He teaches endurance and draws us back to Himself. \"He opens their ears in affliction and terrifies them with discipline, turning them from wrongdoing\" (36:10).",
+        "What cuts to the heart of this passage is the recognition that God doesn't afflict carelessly. Every trial carries within it an invitation—to listen more deeply, to release pride, to redirect our allegiance. The pain Job experiences isn't meaningless punishment but purposeful love working through difficult means. This doesn't erase the genuine agony of suffering; rather, it suggests that even in our darkest chapters, God is not indifferent but actively invested in our transformation.",
+        "Yet Elihu also warns of those who harden their hearts against this discipline, who become deaf to what God is teaching through their trials. The choice before any sufferer is whether to accept the reshaping God offers or to fortify the walls of bitterness and self-protection.",
+        "For those walking through prolonged pain, this passage whispers a dangerous hope: What if God hasn't forgotten me? What if my suffering, while real and unwanted, is simultaneously being used to remake me into someone more alive to His presence, more humble, more dependent on grace?",
+        "In what area of your life are you resisting the transformation God might be inviting through difficulty?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 36: Scholarly study",
+      "overview": [
+        "Job 36 presents the continuation of Elihu's fourth and final discourse, which extends through chapter 37. As the youngest of Job's interlocutors, Elihu ben Barachel the Buzite speaks without interruption across chapters 32–37, functioning as a literary bridge between the dialogue cycles and the divine speeches that follow. This chapter reflects Elihu's distinctive theological contribution to the book's wisdom debate, drawing upon traditional sapiential categories while anticipating themes that Yahweh himself will address from the whirlwind.",
+        "The chapter opens with Elihu's bold claim to speak \"on God's behalf\" (verse 2), using the Hebrew phrase *leʾeloah*, positioning himself as a mediator of divine wisdom. His assertion that he brings knowledge \"from afar\" (*lemeraḥoq*) suggests access to transcendent understanding, though readers may detect ironic undertones given the imminent theophany that will dwarf all human pretensions to divine knowledge. Elihu employs the term *tamim* (\"perfect\" or \"complete\") to describe God's knowledge in verse 4, a term laden with covenantal and ethical significance throughout the Hebrew Bible, here applied to divine epistemological comprehensiveness.",
+        "Central to Elihu's argument is the concept of divine discipline through suffering, articulated through the verb *yasar* and its semantic field. Unlike the rigid retributive theology of the three friends, Elihu develops a more nuanced pedagogical theodicy: affliction serves redemptive purposes, opening the ears of the sufferer to instruction (verse 10). The Hebrew *musar* (\"discipline\" or \"correction\") connects this passage to broader wisdom traditions found in Proverbs, suggesting suffering as divine pedagogy rather than mere punishment.",
+        "Verses 24–33 transition toward nature theology, anticipating chapter 37 and ultimately the divine speeches. Elihu invites Job to consider meteorological phenomena—rain cycles, thunder, and lightning—as evidence of God's inscrutable governance. This cosmological focus represents a significant rhetorical shift, moving the discussion from anthropocentric concerns toward theocentric wonder. Scholars debate whether Elihu's speeches represent later interpolation or original composition; linguistic evidence remains inconclusive, though the theological function of preparing for Yahweh's appearance suggests careful literary design within the book's final form."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 36: Prophetic perspective",
+      "overview": [
+        "Job 36 emerges from the ancient patriarchal period, likely contemporaneous with or shortly after Abraham, placing it among the oldest compositions in Scripture—perhaps 2,000 years before Christ walked the earth. This positions the book within that shadowy epoch between Babel and Sinai, when God's redemptive purposes were being seeded through the Abrahamic covenant but before the Law formalized Israel's worship. Elihu speaks here as a wisdom figure in the pre-Mosaic world, yet his words carry forward into every subsequent era of redemptive history, finding their ultimate clarification only in the revelation of Christ.",
+        "Elihu's discourse presents God as both sovereign instructor and righteous judge, One who uses affliction as divine pedagogy. He declares that God \"does not withdraw His eyes from the righteous\" and that suffering serves to open human ears to instruction, turning them back from iniquity. This theology of redemptive suffering stands as a type awaiting its antitype. Where Elihu sees affliction as correction for hidden sin, the Cross would reveal suffering's deeper mystery—that the Righteous One Himself would bear affliction not for His own sins but for the sins of many. Christ, the truly righteous sufferer, transforms what Elihu glimpsed only partially.",
+        "The eschatological thread running through this chapter concerns God's ultimate vindication of the righteous and judgment of the wicked. Elihu warns that those who refuse God's correction face destruction, while those who hear and serve Him will \"spend their days in prosperity and their years in pleasures.\" This promise finds initial fulfillment in wisdom literature's general patterns but stretches toward eschatological completion in the age to come, when every tear is wiped away and the meek inherit the renewed earth.",
+        "Elihu's magnificent description of God's power in thunderstorms and rain cycles points typologically to the Creator-Redeemer who commands wind and wave. Jesus stilling the storm reveals what Elihu praised in shadow—that this sovereign Lord has entered His creation to rescue it.",
+        "For the church dwelling between the advents, Job 36 speaks with enduring relevance. Believers still experience mysterious suffering, still await final vindication, still live under the sovereign hand of a God who disciplines those He loves. The chapter calls the church to humble receptivity before divine instruction, trusting that the God who controls the lightning also governs every circumstance of our pilgrimage toward glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_036",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.062247+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

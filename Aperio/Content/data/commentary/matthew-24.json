@@ -1,0 +1,55 @@
+{
+  "book": "Matthew",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 24: The Longing for Jesus' Return",
+      "overview": [
+        "In Matthew 24, Jesus draws back the curtain on the future and invites his disciples into a posture of watchful hope—not fearful dread, but vigilant love. This passage reveals that the deepest concern of Jesus' heart isn't satisfying our curiosity about the end times, but transforming how we live in the present, knowing he will return.",
+        "The thrust of chapter 24 is simple yet profound: stay awake. Jesus speaks of wars, famines, earthquakes, and the gospel spreading to all nations—historical developments that can feel overwhelming. Yet rather than paralyzing his followers with apocalyptic anxiety, Jesus encourages perseverance. He promises that \"the one who stands firm to the end will be saved.\" This isn't about earning salvation but about remaining faithful through seasons of difficulty and distraction.",
+        "What strikes the pastoral heart is Jesus' repeated emphasis on watchfulness. He compares his return to a thief coming in the night, a master returning to find servants faithful at their posts, bridesmaids ready with oil lamps burning. The metaphors shift, but the message remains: readiness means living as though Jesus could return today, not in a paralyzed way, but in a purposeful one. It means serving others faithfully, using our gifts and resources wisely, maintaining our spiritual vigilance against complacency and compromise.",
+        "This passage speaks to a real tension in Christian life. We live in the \"not yet\"—Christ has come, yet we await his return. That tension can breed either passivity or obsession. Jesus calls neither. Instead, he invites us into a rhythm of faithfulness: tend to your responsibilities, love your neighbor, grow in holiness, remain expectant. The promise of his return isn't meant to distance us from the world but to anchor us securely to what matters most.",
+        "What would change in your daily choices this week if you truly believed Jesus could return today? How might that awareness transform not your anxiety, but your faithfulness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 24: Scholarly study",
+      "overview": [
+        "Matthew 24 constitutes the first major section of the Olivet Discourse, Jesus's extended eschatological teaching delivered on the Mount of Olives shortly before his passion. This discourse, paralleled in Mark 13 and Luke 21, represents the longest block of apocalyptic instruction in the Synoptic tradition. The chapter emerges from a specific narrative context: Jesus's departure from the temple and his pronouncement of its coming destruction, which prompts the disciples' twofold question concerning the timing of these events and the signs accompanying \"the end of the age\" (*synteleias tou aiōnos*).",
+        "The passage employs characteristic apocalyptic vocabulary and imagery drawn from the Hebrew prophetic tradition, particularly Daniel. The term *parousia*, appearing four times in this chapter alone, carries technical significance denoting the royal \"arrival\" or \"presence\" of a sovereign—here applied to the Son of Man's coming. This terminology would have resonated with both Jewish messianic expectations and Greco-Roman conventions surrounding imperial visitations. The discourse also introduces the concept of *thlipsis* (tribulation), describing a period of unprecedented distress that interpreters have variously understood as referring to Jerusalem's fall in 70 CE, future eschatological events, or typologically recurring patterns throughout church history.",
+        "The literary structure moves from warnings about deception and preliminary signs through intensifying tribulation toward the climactic arrival of the Son of Man. Scholars have long debated the referents of various sections: preterist interpreters emphasize fulfillment in the first-century Jewish War, while futurist readings locate primary fulfillment in events preceding Christ's second advent. The \"abomination of desolation\" (*bdelygma tēs erēmōseōs*), drawn from Daniel 9:27, 11:31, and 12:11, exemplifies this interpretive challenge, having potential reference to Antiochus IV Epiphanes, Roman standards, or a future desecration.",
+        "The chapter's concluding parables emphasize watchfulness and preparedness, introducing the tension between imminence and delay that characterizes New Testament eschatology. The declaration that \"this generation will not pass away\" until these things occur remains among the most contested verses in Gospel scholarship, with proposed solutions ranging from redefining \"generation\" (*genea*) to distinguishing between near and distant prophetic horizons within the discourse itself."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 24: Prophetic perspective",
+      "overview": [
+        "Matthew 24 stands at the threshold of Christ's passion, spoken on the Mount of Olives during the final week before the crucifixion, approximately AD 30. Jesus delivers this discourse to His disciples just days before He would accomplish the redemptive work that all prophecy anticipates. This chapter contains prophecy that operates on multiple horizons: some fulfilled in AD 70 with Jerusalem's destruction, some unfolding throughout the church age, and some awaiting consummation at Christ's return.",
+        "Within the grand redemptive arc, this discourse bridges the end of the old covenant era and announces the shape of history between the first and second advents. Jesus sits where prophets once stood, yet He speaks not as one receiving revelation but as the One from whom all revelation flows. The temple whose destruction He foretells was itself a shadow—the dwelling place of God among His people that would give way to the true Temple of His body, destroyed and raised in three days, and ultimately to the living temple of His church.",
+        "The typological patterns here are striking. Jesus presents Himself as the new Noah, for \"as in the days of Noah, so will be the coming of the Son of Man\"—judgment coming upon an unsuspecting world while the faithful are preserved. He is the greater Daniel, unveiling the \"abomination of desolation\" that Daniel glimpsed from afar. The fig tree putting forth leaves echoes Israel's prophetic destiny, her seasons of barrenness and fruitfulness marking the divine calendar.",
+        "The eschatological threads weave through three distinct horizons. The destruction of Jerusalem in AD 70 stands as a terrible firstfruits of divine judgment, a historical verification of Christ's prophetic authority. The \"birth pains\" of wars, famines, and persecution characterize the entire interadvent period—the church has never known an age without them. Yet the final horizon remains: the Son of Man coming on clouds with power and great glory, the gathering of the elect by angelic reapers, the separation of the faithful from the faithless.",
+        "For the church living between the ascension and the appearing, this chapter functions as both warning and comfort. The call to watchfulness echoes through every generation because no generation knows if it will be the last. Yet the promise endures: \"Heaven and earth will pass away, but my words will never pass away.\" The One who perfectly predicted Jerusalem's fall will perfectly accomplish His final coming. Until that day, the church lives in holy vigilance, neither deceived by false messiahs nor paralyzed by tribulation, but faithfully occupying until He comes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.492843+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

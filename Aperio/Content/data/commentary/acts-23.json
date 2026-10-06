@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 23: When Faith Meets Opposition",
+      "overview": [
+        "The heart of Acts 23 reveals a striking reality: faithful obedience to Christ does not exempt us from conflict, but rather deepens our trust when surrounded by hostility and confusion.",
+        "Paul stands before the Sanhedrin, the Jewish council, and immediately shows spiritual discernment by addressing them with respect, declaring his clear conscience before God. Yet when struck across the mouth for his words, he responds with prophetic rebuke, calling out the hypocrisy he witnesses. What's remarkable is not Paul's perfection in this moment—he must actually apologize for his harsh words—but his unwavering centeredness in Christ even when circumstances seem to spiral into chaos.",
+        "The passage unfolds like a pressure cooker. A theological dispute erupts between Pharisees and Sadducees over the resurrection. The crowd becomes so violent that Roman soldiers must physically rescue Paul from being torn apart. He's arrested, beaten, and now faces a murderous conspiracy with forty men vowing not to eat or drink until they kill him. By any worldly measure, Paul is trapped, alone, and doomed.",
+        "Yet in the midst of this darkness, the Lord stands beside Paul and speaks: \"Take courage! As you have testified about me in Jerusalem, you must also testify in Rome.\" This is not a promise that trouble will end, but that Paul's calling remains intact and purposeful. His suffering is not meaningless suffering—it's woven into God's larger story.",
+        "This speaks directly to our experience. We live in a world where doing right sometimes brings opposition, where faith can isolate us, where circumstances feel overwhelming. Acts 23 teaches us that God's presence is most real not when life is easy, but when we're most desperately aware we cannot save ourselves. Our courage doesn't come from favorable circumstances but from knowing we're held by a God whose purposes extend far beyond our current crisis.",
+        "Where do you most need to sense Christ's presence today—in circumstances that seem to contradict His goodness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 23: Scholarly study",
+      "overview": [
+        "Acts 23 presents a pivotal moment in the Lukan narrative as Paul stands before the Sanhedrin in Jerusalem, an encounter that rapidly devolves into factional conflict and ultimately necessitates Roman intervention to preserve the apostle's life. This chapter functions as a critical transition in Luke's second volume, marking the beginning of Paul's journey toward Rome through a series of legal proceedings that will occupy the remainder of Acts. The historical setting places Paul in the custody of the tribune Claudius Lysias, who convenes the Jewish council seeking to understand the charges against his prisoner—a procedurally irregular gathering that underscores Roman bewilderment at intra-Jewish theological disputes.",
+        "Paul's opening declaration that he has lived with a \"good conscience\" (συνειδήσει ἀγαθῇ, syneidēsei agathē) before God provokes the high priest Ananias to order him struck, a response Paul counters with the epithet \"whitewashed wall\" (τοῖχε κεκονιαμένε, toiche kekoniamene), echoing prophetic denunciations of corrupt leadership found in Ezekiel 13:10-15. The term evokes a structure presenting outward respectability while concealing internal corruption. Paul's subsequent claim of ignorance regarding Ananias's identity has generated considerable scholarly debate, with proposals ranging from genuine unfamiliarity due to years abroad, to failing eyesight, to biting irony suggesting Ananias's behavior rendered him unrecognizable as legitimate high priest.",
+        "The apostle's strategic invocation of the resurrection (ἀνάστασις, anastasis) as the central issue at stake brilliantly exploits the theological fault line between Pharisees and Sadducees, demonstrating both Paul's rhetorical acumen and Luke's interest in presenting Christianity as aligned with Pharisaic eschatological hope. This maneuver transforms Paul from defendant to catalyst, fragmenting the council and requiring the tribune's forceful extraction of the prisoner.",
+        "The chapter concludes with a conspiracy narrative and Paul's nocturnal transfer to Caesarea under heavy military escort. The divine reassurance in verse 11—that Paul must testify in Rome—provides the theological framework for understanding subsequent events not as misfortune but as providential direction. Luke thus presents Roman judicial mechanisms, despite their imperfections, as instruments preserving the gospel's westward advance toward the empire's capital."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 23: Prophetic perspective",
+      "overview": [
+        "The events of Acts 23 unfold approximately twenty-five years after the resurrection of Christ, around AD 57-58, during the period when the apostolic church was expanding throughout the Roman Empire while simultaneously facing intensifying opposition from unbelieving Israel. This chapter stands within the Church Age portion of redemptive history—that mysterious interval between Christ's ascension and His return, when the gospel advances through suffering witnesses and the old covenant order progressively gives way to the new.",
+        "Paul stands before the Sanhedrin, the same council that condemned Jesus to death and later threatened the apostles with silence. Here the pattern of the Servant passes to the servant's servants. Just as Christ stood before this council bearing witness to truth, so now His apostle stands in the same place, fulfilling the Lord's words that disciples would be brought before councils for His name's sake. The high priest Ananias orders Paul struck on the mouth—an echo of the blows Christ received—and Paul's response, calling him a whitewashed wall, recalls Jesus' denunciation of the Pharisees as whitewashed tombs. The typological correspondence is unmistakable: the faithful witness must walk the path the Master trod.",
+        "The division Paul creates by invoking the resurrection exposes the fundamental fault line in Israel's hope. The Sadducees, denying resurrection, angels, and spirits, represent a truncated faith that cannot receive the fulfillment standing before them. The Pharisees, though holding correct doctrine on resurrection, fail to recognize that the resurrection hope has already broken into history in Jesus of Nazareth. Paul himself embodies the bridge—a Pharisee who encountered the risen Lord and now proclaims what Israel's scriptures always anticipated.",
+        "That night the Lord stands beside Paul with sovereign reassurance: \"As you have testified about me in Jerusalem, so you must testify also in Rome.\" Here prophecy is spoken and its fulfillment guaranteed by divine decree. The conspiracy of forty men who bind themselves under oath to murder Paul represents the futility of human schemes against divine purposes. God uses a young nephew, Roman military protocol, and pagan soldiers to preserve His apostle. The kingdoms of this world, whether knowingly or not, serve the advancement of Christ's kingdom.",
+        "For the church living between the advents, Acts 23 declares that faithful witness will meet fierce opposition, yet the Lord who stands beside His servants in the night guarantees that His purposes cannot be thwarted. The gospel will reach Rome, and every Rome thereafter, until Christ returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.718544+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

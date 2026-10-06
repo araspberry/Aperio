@@ -1,0 +1,55 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 3: The Gift of God's Perfect Timing",
+      "overview": [
+        "There is a season for everything under heaven, and the deepest peace comes not from controlling life's rhythms, but from trusting that God has appointed each one. This chapter holds a profound spiritual secret: accepting the limits of our human understanding releases us into the arms of divine wisdom.",
+        "The Preacher's catalog of times—planting and uprooting, weeping and laughing, building and tearing down—mirrors the texture of every human life. We experience seasons of joy and sorrow, creation and loss, war and peace. The beauty of this passage lies in its honest acknowledgment that life contains genuine opposites, not as contradictions to faith, but as the very substance of our journey with God. A parent knows that both the season of intensive parenting and the season of releasing adult children matter. A believer understands that seasons of spiritual breakthrough and seasons of quiet wilderness both have their purpose.",
+        "Yet the Preacher's refrain haunts us with a necessary discomfort: we cannot see the complete picture. God has \"set eternity in the human heart,\" giving us longings for meaning and permanence, yet we cannot fully comprehend the grand design. This gap between our desire for control and the reality of our limited sight is where genuine faith begins. We are invited to release our white-knuckled grip on outcomes and instead ask what faithfulness looks like in *this* season.",
+        "The passage concludes that God's work is beautiful and purposeful, and that our calling is simply to enjoy the good things He provides and to fear Him with reverence. This is not passive resignation but active trust—the kind that shows up, does the work, loves the people in front of us, and leaves the larger orchestration to the One who sees every movement.",
+        "What season are you resisting right now, and how might accepting it actually deepen your faith rather than diminish it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 3: Scholarly study",
+      "overview": [
+        "Ecclesiastes 3 stands as one of the most philosophically sophisticated and literarily refined sections of Hebrew wisdom literature, traditionally attributed to Qoheleth (\"the Teacher\" or \"Assembler\"), whom the superscription identifies with Solomon, though most contemporary scholars date the work to the Persian or early Hellenistic period (fifth to third century BCE) based on linguistic evidence including Aramaisms and possible Persian loanwords. The chapter divides naturally into two major sections: the celebrated poem on time (vv. 1-8) and the theological reflection that follows (vv. 9-22), which together probe the relationship between divine sovereignty, human agency, and the experience of meaning within temporal existence.",
+        "The opening poem employs the Hebrew term *ʿēt* (time, occasion, appointed moment) twenty-nine times, denoting not merely chronological succession but kairos-like moments of appropriateness ordained within creation's rhythm. The fourteen polarities—birth and death, planting and uprooting, weeping and laughing—represent not mere oppositions but a merism encompassing the totality of human experience under divine ordering. The term *ḥēpeṣ* (matter, delight, purpose) in verse 1 carries connotations of both activity and desire, suggesting that every human endeavor has its divinely appointed season.",
+        "The theological reflection introduces the critical concept of *ʿōlām* (v. 11), traditionally rendered \"eternity\" but perhaps better understood as \"a sense of duration\" or \"obscurity,\" which God has placed in the human heart. This generates profound interpretive tension: humans possess awareness of transcendence yet cannot comprehend God's work from beginning to end. Qoheleth's response is not despair but qualified commendation of enjoyment (*śāmaḥ*) and doing good (*ṭôb*) as humanity's proper portion (*ḥēleq*).",
+        "The chapter's conclusion (vv. 16-22) extends the meditation to questions of justice and mortality, drawing the provocative comparison between human and animal death using *miqreh* (fate, chance occurrence). This passage has generated substantial debate regarding Qoheleth's anthropology and eschatology, with some interpreters finding proto-materialist skepticism while others discern orthodox agnosticism about post-mortem existence rather than outright denial. Within the canonical context, this wrestling prepares readers for the book's ultimate counsel to fear God amid life's inscrutability."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 3: Prophetic perspective",
+      "overview": [
+        "This wisdom text emerges from the pen of Solomon approximately 950 years before the incarnation of Christ, composed during the zenith of Israel's united monarchy when peace and prosperity should have satisfied every human longing. Yet here, at the height of earthly blessing, the Preacher interrogates the meaning of existence itself. This places Ecclesiastes within the Kingdom era of redemptive history, after God had fulfilled His promise to give Israel rest from enemies and before the tragic division that would fracture the nation under Rehoboam.",
+        "The famous catalogue of times—a time to be born and a time to die, to plant and to uproot, to weep and to laugh, to mourn and to dance—reveals the Preacher's profound observation that human life moves according to rhythms we neither create nor control. Solomon perceives that God has set eternity in the human heart, yet mortal creatures cannot fathom what the Almighty has done from beginning to end. This is the ache of the Fall reverberating through covenant history: humanity was made for Eden's unbroken communion, crafted to share in the eternal counsels of God, yet sin has drawn a veil between creature and Creator, leaving us with longings that temporal existence cannot satisfy.",
+        "Here we discover a typological anticipation of Christ, the One who would enter these appointed times and redeem them from futility. Where Solomon observes a time to kill and a time to heal, Jesus would demonstrate authority over both death and disease. Where the Preacher sees a time to tear down and a time to build, Christ declared He would destroy the temple of His body and raise it in three days. The endless cycle that confounds the wise man finds its resolution in the One who announces that the time is fulfilled and the kingdom of God is at hand.",
+        "The eschatological weight of this chapter presses toward that moment when God will judge the righteous and the wicked—a judgment Solomon anticipates but cannot fully see. What the Preacher glimpsed through a glass darkly has been unveiled: Christ's first advent inaugurated the judgment of the ruler of this world, and His return will consummate the justice for which all creation groans.",
+        "For the church living between the advents, Ecclesiastes 3 offers both sobriety and hope. The appointed seasons continue, but they no longer spin in meaningless repetition. Every time now moves toward a destination—the new creation where God will wipe every tear away and death shall be no more. Until that day, we embrace each season as sacred, knowing the eternal has invaded time in the person of Jesus Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.665928+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

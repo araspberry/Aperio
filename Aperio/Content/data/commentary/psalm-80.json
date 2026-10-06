@@ -1,0 +1,53 @@
+{
+  "book": "Psalm",
+  "chapter": 80,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 80 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 80: The Shepherd's Plea for Restoration",
+      "overview": [
+        "This psalm is a desperate cry for God's intervention when His people feel abandoned—a raw prayer that acknowledges both the depth of our pain and the unfailing character of the One we call upon.",
+        "The psalmist addresses God as the Shepherd who leads Joseph like a flock, invoking the most tender image of divine care. Yet there is profound tension in these opening verses, for the people are in dire straits, defeated and diminished, while the Shepherd seems distant. Three times the refrain returns like a heartbeat: \"Restore us, O God; let your face shine upon us, that we may be saved.\" This repetition isn't merely poetic device—it's the prayer of someone who cannot move forward until God shows His favor. The psalmist describes Israel as a vine that God planted and cultivated, yet now its walls are broken and it is consumed by those who pass by. The vineyard metaphor deepens our understanding: God has invested Himself in His people's flourishing, yet they have experienced devastating loss.",
+        "What makes this psalm so accessible is its honest wrestling with the distance between God's promise and present reality. Many of us know this experience—seasons when faith feels like reaching toward a distant God, when we cannot sense His presence despite our longing. The psalmist refuses to abandon his prayer or accuse God of injustice; instead, he brings both his bewilderment and his confidence before the throne. He remembers God's covenant identity while acknowledging the current devastation.",
+        "The beauty of Psalm 80 is that it teaches us that authentic prayer includes lament. We need not suppress our sorrow to appear spiritual. God welcomes the cry of His wounded people, the questions of those who believe but struggle to see. The psalm's repeated refrain becomes our own: we too may plead for God's face to shine upon us, trusting that the Shepherd's heart has never truly turned away.",
+        "What areas of your life feel like a broken vineyard right now, and how might you bring that honest pain before God's throne?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 80: Scholarly study",
+      "overview": [
+        "Psalm 80 stands as one of the most poignant communal laments in the Psalter, attributed to Asaph and likely composed during a period of national catastrophe, possibly the Assyrian devastation of the northern kingdom in 722 BCE or the subsequent threats to Judah. The superscription's reference to \"the lilies\" (shoshannim) probably indicates a musical setting, while \"Eduth\" (testimony) may connect this psalm to covenant traditions. The geographical focus on Joseph, Ephraim, Benjamin, and Manasseh—all northern tribes—strongly suggests an origin addressing the trauma of Israel's dissolution, though the psalm's preservation in Judah's liturgy indicates its broader applicability to the entire covenant community in distress.",
+        "The psalm opens with a striking invocation of God as \"Shepherd of Israel\" (ro'eh yisra'el), drawing on ancient Near Eastern royal imagery while distinctively applying it to Yahweh's covenant relationship with his people. The accompanying epithet, \"enthroned upon the cherubim\" (yoshev hakkeruvim), evokes the ark of the covenant and the divine presence in the sanctuary, creating a theological tension between God's sovereign majesty and his apparent absence. The threefold refrain appearing in verses 3, 7, and 19 employs the verbal root \"shub\" (turn, restore) alongside the causative form of \"or\" (to shine), pleading that God would cause his face to shine upon his people—language deliberately echoing the Aaronic benediction of Numbers 6:25.",
+        "The central metaphor of Israel as a vine (gephen) transplanted from Egypt constitutes one of Scripture's most developed horticultural allegories, later appropriated by Isaiah, Jeremiah, and Jesus himself. The image of the vine's former flourishing—covering mountains and extending from the Mediterranean to the Euphrates—recalls Solomonic territorial ideals, making the present devastation all the more bitter. The mysterious reference to \"the son\" (ben) and \"son of man\" (ben-adam) in verse 17, while primarily denoting Israel corporately, generated messianic interpretations in later Jewish and Christian exegesis. The psalm's unresolved ending, lacking explicit confidence in divine response, preserves the raw honesty of communal grief while simultaneously affirming that restoration remains possible only through divine initiative."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 80: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from one of Israel's darkest hours, most likely composed during or shortly after the Assyrian devastation of the northern kingdom around 722 BC, when the ten tribes were carried into exile and the land lay desolate. The psalmist's repeated cry for restoration echoes across the ruins of a covenant people who had experienced the terrifying withdrawal of divine favor. Within redemptive history, this lament stands in the shadow of the divided kingdom's collapse, centuries after David's golden age and centuries before the incarnation would bring the ultimate answer to its desperate plea.",
+        "The psalm opens with an invocation to the Shepherd of Israel who leads Joseph like a flock and dwells enthroned between the cherubim. This imagery reaches back to the wilderness wanderings and forward to the incarnate Christ who would declare Himself the Good Shepherd. The tribes specifically named—Ephraim, Benjamin, and Manasseh—represent the fractured northern kingdom, yet the appeal to Judah's ancient shepherding imagery reveals a longing for reunification that only Messiah would accomplish. Three times the refrain pierces the darkness: \"Restore us, O God; cause Your face to shine, and we shall be saved.\" This threefold cry anticipates the Aaronic blessing and points toward the face of God fully revealed in Jesus Christ, in whose countenance the light of divine glory shines forth to salvation.",
+        "The vine imagery at the psalm's heart carries immense typological weight. Israel, the vine brought out of Egypt and planted in Canaan, had flourished from the Mediterranean to the Euphrates under David and Solomon. Now its walls lie broken, wild beasts ravage it, and fire has reduced it to ashes. This devastation finds its prophetic counterpart in Christ's declaration that He is the true Vine—the faithful Israel who would succeed where the nation failed. The branch and son of man whom God made strong for Himself points beyond any immediate Davidic king toward the ultimate Son of Man who would be cut down in death yet raised in resurrection power.",
+        "The closing plea—\"Revive us, and we will call upon Your name\"—remains the church's cry between the advents. Already restored through Christ's first coming, believers still groan for the final restoration when every enemy will be subdued, God's face will shine unhindered in the New Jerusalem, and the redeemed from every tribe will never again turn back from following the Shepherd-King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_080",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.341648+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

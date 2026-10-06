@@ -1,0 +1,57 @@
+{
+  "book": "Ezekiel",
+  "chapter": 41,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 41 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Vision of Holy Dwelling",
+      "overview": [
+        "The deepest longing of Ezekiel's vision is to show us that God will return to His people—that the broken relationship between heaven and earth will be restored through a temple rebuilt and sanctified. After chapters of judgment and lament, God's glory comes home.",
+        "These architectural measurements might seem tedious, but they reveal something profoundly tender. Ezekiel is given exact dimensions of the sanctuary's return—its rooms and chambers, its walls and gates, all precisely recorded. This specificity matters because God is saying: *I will dwell with you again, and it will be real, tangible, measurable.* The vision isn't vague religious sentiment but concrete promise. Every cubit declares that restoration is not wishful thinking but divine commitment.",
+        "Notice what surrounds this sanctuary: intricate carvings of palm trees and cherubim adorning the walls. These aren't mere decoration. Palm trees symbolize life, victory, and God's care. Cherubim represent God's holy presence and protective power. The temple is beautiful because the God who inhabits it is beautiful, and His people deserve to encounter Him in splendor, not shame.",
+        "This passage speaks directly to hearts that have experienced spiritual exile—seasons when God felt distant, when sin or circumstance created separation. Ezekiel's vision insists that restoration is possible. The measurements are precise because God's promises are sure. He doesn't leave His people perpetually abandoned.",
+        "For us, the New Testament reveals that this ultimate dwelling-place is Jesus Himself, and then His Church as the living temple of the Holy Spirit. We don't need an external sanctuary to encounter God's presence anymore; His Spirit lives within us. Yet the profound lesson endures: God desires nearness with His people more than we can imagine. He will move heaven and earth to restore what sin has fractured.",
+        "What area of your spiritual life feels most like exile right now? How might you invite God's presence to rebuild that sacred space?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 41: Scholarly study",
+      "overview": [
+        "Ezekiel 41 continues the prophet's extraordinary visionary tour of the restored temple, guided by an angelic figure equipped with measuring implements. This chapter belongs to the extended temple vision spanning chapters 40–48, dated to 573 BCE, approximately fourteen years after Jerusalem's destruction. Writing from Babylonian exile, Ezekiel—himself a priest—receives divine revelation concerning Israel's eschatological restoration, with the temple serving as the theological centerpiece of renewed covenant relationship between YHWH and His people.",
+        "The chapter meticulously describes the inner sanctuary's dimensions, focusing particularly on the *hêḵāl* (היכל, \"temple\" or \"nave\") and the *debîr* (דביר, \"inner sanctuary\" or \"Holy of Holies\"). The precision of these measurements—the nave being forty cubits long and twenty wide, while the inner sanctuary measures twenty cubits square—reflects ancient Near Eastern temple architecture while simultaneously pointing toward idealized sacred geometry. The term *ṣēlāʿôt* (צלעות, \"side chambers\") describes the three-storied peripheral structures surrounding the sanctuary, which widen progressively at each level, a detail suggesting architectural sophistication and practical functionality for storage or priestly activities.",
+        "Particularly significant is the description of the wall decorations featuring alternating cherubim and palm trees (*timmōrîm*, תמרים), imagery evoking Solomonic temple motifs while symbolizing divine protection and paradisiacal restoration. Each cherub possesses two faces—human and leonine—a modification from Ezekiel's earlier four-faced creatures, prompting scholarly discussion regarding symbolic adaptation within visionary literature.",
+        "The wooden altar described in verse 22, identified as \"the table that is before the LORD,\" has generated interpretive debate concerning its relationship to incense offerings versus the bread of the Presence. The deliberate blending of altar and table terminology suggests multivalent sacred functionality within this eschatological vision.",
+        "Notably absent from this detailed architectural description is any mention of the Ark of the Covenant, an omission that interpreters have variously explained as indicating either the direct divine presence rendering the Ark unnecessary or reflecting the Ark's loss during Jerusalem's fall. This chapter ultimately functions not as a construction blueprint but as prophetic assurance that God's sanctifying presence would again dwell among His restored people."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 41: Prophetic perspective",
+      "overview": [
+        "This chapter emerges from the visions given to Ezekiel approximately 573 BC, fourteen years after Jerusalem's devastating destruction by Babylon and roughly 592 years before the incarnation of Christ. The prophet, exiled among the captives by the river Chebar, receives an extraordinary vision of a future temple—a sanctuary that has never been built according to these specifications in all of human history. This places the passage squarely in the prophetic stream flowing from Exile toward ultimate Restoration, pointing beyond the modest second temple that Zerubbabel would construct and toward a fulfillment that transcends earthly architecture.",
+        "The measuring angel guides Ezekiel through the inner sanctuary with meticulous precision, every cubit recorded with divine intentionality. The holy place and the most holy place appear again, echoing the tabernacle that Moses built according to heavenly pattern and the temple that Solomon raised in splendor. Yet dimensions have changed; proportions speak of something greater. Here is typology unfolding—the earthly sanctuaries of Israel were always shadows cast backward in time by the true temple that was coming. The thickness of walls, the narrowing chambers rising in stories, the careful separation between holy and common space all declare that God's dwelling with humanity requires both intimate access and reverent distinction.",
+        "The carved cherubim and palm trees adorning every wall recall Eden's garden where cherubim guarded the way to the tree of life. This temple vision pulses with paradise imagery, suggesting that what was lost in the Fall shall be recovered in the consummation. Palm trees speak of victory and flourishing; the alternating cherubim and palms proclaim that heaven and earth, the angelic realm and the created order, shall be united in the restored dwelling of God.",
+        "The wooden altar described as \"the table that is before the LORD\" points to both the altar of incense and the table of presence—furnishings that whisper of Christ who is both our interceding priest and the bread of life set before the Father. No ark of the covenant appears in this vision; the glory itself shall fill what the symbol once represented.",
+        "Whether this temple awaits literal construction in a millennial kingdom or finds its ultimate fulfillment in the church as living stones and finally in the New Jerusalem where God Himself is the temple, one truth remains certain: God is building an eternal dwelling. The church between the advents lives as that temple under construction, awaiting the day when the measuring is complete and glory fills every sacred space forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_041",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.189635+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

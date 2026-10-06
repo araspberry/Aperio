@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 7: When Innocence Cries Out to God",
+      "overview": [
+        "When we find ourselves accused or attacked unfairly, we discover what David discovered in this psalm—that God is the only reliable judge of our hearts and the only refuge when human judgment fails us.",
+        "David's situation speaks to a universal human experience: the pain of being misunderstood or blamed for something we didn't do. He cries out to the Lord in raw honesty, not hiding his frustration or fear but laying it all before God. What's remarkable is how David anchors his defense not in his own eloquence but in his willingness to be examined by God himself. \"If I have done this, if there is guilt on my hands... then let my enemy pursue and overtake me\" (verses 3-5). This isn't arrogance; it's confidence in God's perfect knowledge of truth.",
+        "The psalm teaches us something vital about justice and vindication: we don't ultimately need people to understand us correctly. We need God to. When colleagues misinterpret our motives, when friends assume the worst, when reputation suffers through no fault of our own, we can bring it to the One who sees everything. God knows not just our actions but the deep intentions of our hearts in ways no accuser ever can.",
+        "David also reminds us that God's justice extends to those who attack the innocent. There's a comfort in knowing we serve a God who ultimately vindicates and who will not allow wickedness to triumph forever. This doesn't mean immediate resolution or public clearing of our names, but it means our case is never hopeless or forgotten in heaven's court.",
+        "The invitation of this psalm is to stop trying to convince everyone of our innocence and instead submit ourselves confidently to God's all-seeing justice. When you're next falsely accused or deeply misunderstood, could you bring that wound directly to God rather than spending all your energy defending yourself to others? What would change if you truly trusted His perfect knowledge of your heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 7: Scholarly study",
+      "overview": [
+        "Psalm 7 presents itself as a \"shiggaion\" (שִׁגָּיוֹן, *shiggayon*) of David, a rare musical or literary term appearing only here in the Psalter and in Habakkuk 3:1, likely denoting an emotional, impassioned composition characterized by irregular rhythms. The superscription connects the psalm to an otherwise unknown incident involving \"Cush, a Benjaminite,\" suggesting a context of personal accusation and betrayal, possibly during the period of Saulide opposition to David's rise.",
+        "The psalm functions as an individual lament structured around a protestation of innocence and an appeal for divine adjudication. David invokes Yahweh as refuge (מַחֲסֶה, *machaseh*), a term carrying connotations of protective shelter, before presenting his case through a conditional self-imprecation in verses 3–5. This oath formula—\"if I have done this... let the enemy pursue me\"—reflects ancient Near Eastern legal conventions wherein the accused invited specified curses upon themselves if guilty, thereby staking their very existence on their integrity.",
+        "Central to the psalm's theology is the portrayal of God as righteous judge (אֱלֹהִים שׁוֹפֵט צַדִּיק, *Elohim shophet tsaddiq*), a concept deeply rooted in Israel's understanding of Yahweh as cosmic sovereign who maintains moral order. The judicial imagery intensifies through verse 12, where God is depicted sharpening his sword and preparing instruments of death against the unrepentant. This anthropomorphic language, while startling to modern sensibilities, communicates the certainty and severity of divine judgment within the psalm's rhetorical framework.",
+        "The pregnancy metaphor in verses 14–16 deserves particular attention: the evildoer \"conceives trouble\" (הָרָה עָמָל, *harah amal*) and \"gives birth to falsehood,\" only to fall into the pit he himself excavated. This poetic justice—wherein sin becomes self-consuming—represents a wisdom tradition motif emphasizing the inherent instability of wickedness.",
+        "Interpreters have debated whether the psalm reflects a temple ritual of asylum or ordeal, given its courtroom language and appeals for divine vindication. The closing doxology shifts from petition to praise, anticipating vindication and expressing confidence in Yahweh's righteous character. Within the canonical shape of Book One of the Psalter, Psalm 7 contributes to the developing theme of the righteous sufferer who entrusts judgment entirely to God rather than pursuing personal vengeance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 7: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the turbulent years of David's flight from King Saul, likely penned around 1020–1010 BC, placing it approximately one thousand years before the incarnation of Christ. The superscription links it to \"Cush, a Benjamite,\" possibly one of Saul's kinsmen who slandered David before the king. Within the grand sweep of redemptive history, this lament arises during the establishment of the Davidic kingdom—that pivotal epoch between the period of the judges and the golden age of Israel's monarchy, when God was preparing the throne from which Messiah would ultimately reign.",
+        "David's cry for vindication against false accusers establishes a pattern that finds its ultimate expression in Christ. When David protests his innocence and appeals to the righteous Judge of all the earth, he functions as a type of the Greater David who would stand silent before His accusers, falsely charged yet perfectly innocent. The language of taking refuge in Yahweh anticipates the One who would become the true refuge for all who flee to Him. David's appeal is not rooted in sinless perfection but in covenant faithfulness; Christ's vindication, by contrast, rested upon absolute righteousness—He who knew no sin became sin for us.",
+        "The central theological vision of this psalm concerns God as Judge. The declaration that \"God is a righteous judge, and a God who feels indignation every day\" unveils the divine character that necessitates both the cross and the final judgment. Here eschatology breaks through: the psalm anticipates a day when every false accusation will be answered, every hidden motive exposed, and every wrong made right. This \"judging\" work began at Calvary, where sin was condemned in the flesh of Christ, continues as the risen Lord exercises all judgment given Him by the Father, and will consummate when He returns to judge the living and the dead.",
+        "The imagery of the wicked falling into pits of their own making—conceiving mischief, pregnant with evil, birthing lies—reveals the self-destructive nature of sin and anticipates the final reversal when every enemy of God's anointed will be overthrown. The psalm closes with thanksgiving for Yahweh's righteousness, pointing forward to that eternal song when the redeemed will praise the Lamb who was slain, vindicated by resurrection, and enthroned in glory. For the church living between the advents, this psalm teaches us to entrust all false accusations to the faithful Judge, knowing that our Advocate has already secured the verdict."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.09711+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-021"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

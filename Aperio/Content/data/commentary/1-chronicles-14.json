@@ -1,0 +1,57 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Chronicles 14: The Blessing of Seeking God's Guidance",
+      "overview": [
+        "David's reign is flourishing, yet what strikes most powerfully in this chapter is not his military success but his commitment to ask God before acting. This is the spiritual heart of the passage: a leader who has learned that consultation with the Almighty precedes confidence in conquest.",
+        "After establishing Jerusalem and growing in power, David faces the Philistine threat twice. What's remarkable is his response. Rather than rely on his proven military genius or the momentum of previous victories, he inquires of the Lord before each battle. The first time, God gives clear direction: attack directly, and the Lord will break through ahead of you. The second time, God offers different strategy—circle around and wait for the sound of marching in the treetops, the signal of divine presence and intervention. David obeys both times, and both times the enemy is routed.",
+        "This pattern reveals a profound spiritual principle: circumstances change, and God's guidance isn't a formula to be mechanically repeated. The same leader who conquered using one strategy must remain humble enough to receive different instructions for a different challenge. There's no pride here, no assumption that yesterday's victory guarantees today's approach.",
+        "Many of us face this tension in our daily lives. We've developed expertise, built track records of success, learned what generally works. Yet maturity in faith means remaining perpetually willing to ask God what He wants us to do right now, in this specific situation. Parents adjust their approach with each child. Leaders must be flexible with changing seasons. Disciples remain disciples—always learning, always listening, always subject to the guidance of their King.",
+        "The Philistines were real enemies, but David's true strength wasn't in his sword or strategy. It was in his refusal to move forward without asking God first. His victories are less about military prowess and more about maintaining that sacred posture of submission.",
+        "What area of life are you relying on past success rather than present seeking?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 14: Scholarly study",
+      "overview": [
+        "First Chronicles 14 presents the Chronicler's account of David's establishment in Jerusalem, drawing primarily from the parallel narrative in 2 Samuel 5:11–25 while making significant theological adjustments that reveal the author's distinctive priorities. Writing to the post-exilic community, the Chronicler shapes this material to demonstrate that David's kingship received both divine legitimation and international recognition, themes of profound importance to a people reconstructing their identity after Babylonian exile.",
+        "The chapter opens with Hiram of Tyre sending materials and craftsmen to construct David's palace, signifying Phoenician acknowledgment of Israel's new king. The Hebrew term *wayyēda'* (\"and David knew,\" v. 2) carries epistemological weight beyond mere cognition; David discerns (*yāda'*) through these events that Yahweh has established his kingdom. The Chronicler emphasizes that this exaltation occurred \"for the sake of his people Israel,\" subordinating royal glory to covenantal purpose and anticipating the temple-building program that will dominate subsequent chapters.",
+        "The notice regarding David's additional wives and children in Jerusalem (vv. 3–7) appears without the critical evaluation found elsewhere in Deuteronomistic literature, though scholars debate whether this omission reflects acceptance or assumed knowledge of Deuteronomy 17:17's prohibition against royal polygamy.",
+        "The double victory over the Philistines at Baal-perazim and the Valley of Rephaim constitutes the chapter's theological centerpiece. David's inquiry (*šā'al*) of God before each battle exemplifies the paradigm of dependent kingship the Chronicler commends. The Hebrew phrase *pāraṣ pereṣ* (\"breaking forth like a breach,\" v. 11) employs vivid wordplay to memorialize divine intervention. Notably, the Chronicler adds that the abandoned Philistine gods were burned (v. 12), where 2 Samuel 5:21 merely records their removal—an intensification reflecting post-exilic anti-idolatry concerns and demonstrating Yahweh's superiority over foreign deities.",
+        "The tactical variation in the second battle, where God commands a flanking maneuver signaled by sounds in the balsam trees, reinforces that victory derives from divine strategy rather than human military prowess. The chapter concludes with David's fame spreading internationally and divine terror falling upon surrounding nations, foreshadowing the peace necessary for temple construction and establishing David as the archetypal theocratic king whose reign prefigures messianic expectation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 14: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, during the early decades of David's reign in Jerusalem around 1000 BC. Israel stands at a pivotal moment in redemptive history—the kingdom phase has begun in earnest, the ark will soon come to Zion, and God is establishing the throne from which Messiah will one day reign. The passage sits between the Exodus deliverance and the coming exile, in that golden window when theocratic kingship reaches its apex under David before the long decline that would scatter Israel among the nations.",
+        "The opening verses reveal Hiram king of Tyre sending cedar timber and craftsmen to build David a house. This exchange between Gentile king and Israelite monarch whispers of a greater day when the nations would bring their glory to Zion, when kings would bow before David's greater Son. David perceives that the Lord has established him as king for Israel's sake—not for personal aggrandizement but for covenant purposes. Here emerges the pattern of servant kingship that Christ would fulfill perfectly, a King whose exaltation serves His people's redemption.",
+        "The Philistine battles that follow carry profound typological weight. Twice the ancient enemy spreads themselves in the Valley of Rephaim—that valley whose very name recalls the giants, the seed of the serpent. Twice David inquires of the Lord before battle, and twice God grants victory, but by different means. The first triumph at Baal-perazim reveals God as the One who breaks through enemies like waters breaking through a dam. David burns the Philistine idols—a decisive rejection of false worship that anticipates Christ's ultimate destruction of every power that sets itself against the knowledge of God.",
+        "The second battle unfolds with mysterious beauty. God commands David to circle behind the enemy and wait for the sound of marching in the tops of the balsam trees. Heaven's armies move first; David follows. This pattern—divine initiative preceding human action, the Lord of Hosts leading His earthly servant—prefigures how Christ Himself would only do what He saw the Father doing.",
+        "The chapter closes declaring that David's fame went into all lands and the Lord brought the fear of him upon all nations. This foreshadows the universal reign of Messiah, before whom every knee shall bow. The church today lives in the assurance that her King has already broken through, already burned the idols of this age upon the cross, and now reigns until all enemies become His footstool."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.71469+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

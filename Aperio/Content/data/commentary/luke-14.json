@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 14: The Upside-Down Kingdom",
+      "overview": [
+        "Luke 14 invites us into Jesus's radical reordering of human values—a kingdom where the last become first, where the poor and broken are treasured above the prestigious, and where discipleship demands a willingness to lose everything. At its core, this chapter reveals what it truly costs to follow Jesus and whom the kingdom actually welcomes.",
+        "The passage opens with Jesus at a Pharisee's table, healing a man with dropsy on the Sabbath, then challenging his host's assumptions about honor and hospitality. Jesus observes how guests jockey for the best seats, and He teaches that exaltation comes through humility, not self-promotion. This mirrors a truth we know experientially: the people we most respect are rarely those who demand respect, but those who serve quietly and lift others up.",
+        "The central parable about the great banquet is particularly piercing. When the invited guests make excuses—property deals, livestock, newly married life—the master invites the poor, crippled, blind, and lame instead. Jesus is saying that the kingdom's doors swing open widest to those the world dismisses as worthless. This should humble us profoundly. How often do we dismiss people based on their usefulness or status? How often do we assume our busyness justifies missing what God is doing?",
+        "The chapter culminates with Jesus's sobering words about counting the cost of discipleship. He speaks of hating father, mother, and one's own life—not literally hating, but loving Him with such surpassing devotion that all other loyalties pale by comparison. This isn't meant to paralyze us but to clarify: following Jesus is the greatest adventure and privilege, worth more than security, comfort, or approval.",
+        "What dreams, relationships, or ambitions might Jesus be inviting you to release so you can embrace His kingdom more fully? Where is He calling you to lower yourself that He might lift you up?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 14: Scholarly study",
+      "overview": [
+        "Luke 14 constitutes a pivotal section within the central travel narrative (9:51–19:44), presenting a carefully constructed symposium discourse set within the home of a prominent Pharisee on the Sabbath. The evangelist Luke demonstrates his characteristic concern for social ethics, table fellowship, and the radical reversal of honor-shame conventions that pervade Greco-Roman society. This chapter weaves together healing controversy, parabolic instruction, and discipleship demands into a coherent theological statement about the nature of God's kingdom and those who will participate in it.",
+        "The chapter opens with Jesus healing a man with dropsy (ὑδρωπικός, hydrōpikos), a condition ancient medical writers associated with insatiable desire—a symbolically potent detail given the surrounding discourse on social ambition. Jesus's rhetorical question about Sabbath healing echoes earlier controversies (6:1–11; 13:10–17), yet here the opponents' silence rather than objection marks their inability to counter his argument from lesser to greater.",
+        "The parable of places at the feast (14:7–11) employs the term πρωτοκλισία (prōtoklisia), denoting the most honorable reclining position at banquets. While superficially resembling wisdom instruction on social prudence (cf. Proverbs 25:6–7), Jesus subverts conventional honor acquisition by grounding self-humiliation in eschatological reversal—God himself will exalt the humble at the final banquet.",
+        "The instructions to the host (14:12–14) prove equally radical, urging invitation of those who cannot reciprocate: the poor, maimed, lame, and blind. This language anticipates the Great Banquet parable (14:15–24), where identical categories of marginalized persons replace the originally invited guests. The term ἀνταπόδομα (antapodoma), \"repayment,\" appears only here and in Romans 11:9 in the New Testament, emphasizing that kingdom hospitality operates outside reciprocal exchange systems.",
+        "The discipleship sayings concluding the chapter (14:25–35) employ the Semitic idiom of \"hating\" (μισέω, miseō) family, which comparative study with Matthew 10:37 suggests denotes relative priority rather than emotional hatred. The twin parables of tower-builder and warring king emphasize calculating the cost before commitment. The chapter closes with the salt saying, warning that discipleship without genuine commitment becomes worthless—a sobering conclusion to teaching that systematically overturns conventional social and religious expectations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 14: Prophetic perspective",
+      "overview": [
+        "Luke 14 unfolds during the final year of Christ's earthly ministry, approximately AD 32-33, as Jesus journeys toward Jerusalem for the Passover that will culminate in His crucifixion. This chapter records events occurring on the Sabbath, placing us within the climactic movement of redemptive history when the long-awaited Messiah walks among His people, the Kingdom of God having drawn near in His very person. We stand at the hinge point between promise and fulfillment, between the shadows of the old covenant and the dawning substance of the new.",
+        "The healing of the man with dropsy on the Sabbath carries profound typological weight. Christ, the true Lord of the Sabbath, demonstrates that He has come to inaugurate the ultimate Sabbath rest—the eschatological jubilee when all bondage is broken and all disease healed. The religious leaders, entombed in their traditions, cannot perceive that standing before them is the One to whom every Sabbath pointed. The old covenant Sabbath was always a shadow; here the substance has arrived.",
+        "The parable of the wedding feast unveils the great reversal central to Christ's kingdom. Those who exalt themselves will be humbled; those who humble themselves will be exalted. This principle finds its supreme expression in Christ Himself, who humbled Himself unto death on a cross and was therefore exalted to the highest place. The eschatological banquet here foreshadowed points both backward to the covenant meals of Israel and forward to the Marriage Supper of the Lamb, when the redeemed from every nation will recline at table in the consummated Kingdom.",
+        "The parable of the great banquet carries sobering prophetic import. The original guests who make excuses represent Israel's leadership rejecting their Messiah. The servants then sent to the highways and hedges foreshadow the gospel going forth to Gentiles and outcasts—a prophetic pattern already being fulfilled throughout the church age. The master's declaration that none of those originally invited will taste his banquet echoes the transfer of kingdom privilege Jesus elsewhere announces.",
+        "Christ's call to count the cost reveals that following Him requires the death of all rival allegiances. The cross He would soon bear casts its shadow over these words. Salt that loses its savor speaks of disciples who, through compromise, forfeit their prophetic witness in the earth.",
+        "The church today lives as those invited to the banquet, called to humble service, bearing crosses in the Master's footsteps, awaiting the great feast that is surely coming."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.581922+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

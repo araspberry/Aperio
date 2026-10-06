@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 17: Faith, Forgiveness, and the Kingdom's Arrival",
+      "overview": [
+        "The spiritual heart of Luke 17 is learning to live by radical faith while trusting God's timing in all things—whether forgiving others seventy times over, serving without seeking recognition, or waiting for Christ's return.",
+        "Jesus opens this chapter by addressing our relational wounds, commanding disciples to rebuke one another when sin appears, then forgiving completely when repentance comes. The number seventy times seven becomes his poetic way of saying forgiveness has no limit. This isn't weakness; it's the strongest thing a human being can do. When we nurse grudges, we become prisoners of bitterness. When we forgive, we participate in the very character of God. The disciples immediately sense the impossibility of this command and cry out, \"Increase our faith!\" Jesus responds that faith the size of a mustard seed—small, yes, but genuine—moves mountains. Faith isn't measured by feeling or confidence; it's measured by whether we trust God enough to obey Him anyway.",
+        "The parable of the servant who comes in from the field illustrates a harder truth: our obedience earns us nothing beyond what we're already owed. We serve God not for applause or reward but because we belong to Him. This cuts against our cultural grain of recognition and achievement. Yet there's freedom in it—we're already accepted, already loved, already seated at His table through grace alone.",
+        "The final section shifts toward the kingdom's ultimate fulfillment. When asked when God's reign will come, Jesus says it won't arrive with observable signs but will be present, already breaking into the world. The judgment passages that follow aren't meant to frighten but to awaken us to spiritual attentiveness. God is patient, but not passive.",
+        "How might your relationships and service look different if you truly believed that forgiveness without limit and hidden faithfulness are the truths that matter most?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 17: Scholarly study",
+      "overview": [
+        "Luke 17 presents a composite collection of Jesus's teachings addressed primarily to his disciples, though the Pharisees briefly enter as interlocutors in verses 20–21. This chapter exemplifies Luke's careful arrangement of dominical sayings, likely drawn from Q material and Lukan special tradition, organized thematically around discipleship ethics and eschatological expectation. The Sitz im Leben reflects concerns pertinent to the early Christian community navigating questions of communal discipline, the nature of authentic faith, appropriate postures of service, and the timing of divine consummation.",
+        "The chapter opens with Jesus's warning about σκάνδαλα (skandala), \"stumbling blocks\" or occasions for sin, particularly those affecting \"little ones\"—a term encompassing either children or vulnerable believers. The millstone imagery employs hyperbole characteristic of Jesus's teaching style to underscore the gravity of leading others into apostasy. The subsequent teaching on forgiveness introduces the concept of ἐπιτιμάω (epitimaō), meaning to rebuke or censure, establishing a pattern of confrontation followed by reconciliation that became foundational for early church discipline as reflected in Matthew 18.",
+        "The disciples' request for increased faith occasions Jesus's memorable mustard seed logion. The term πίστις (pistis) here denotes not quantitative measure but qualitative authenticity—even minimal genuine faith accomplishes what appears impossible. The sycamine tree being uprooted and planted in the sea combines agricultural and maritime imagery in characteristically Semitic paradox.",
+        "The parable of the unworthy servants (verses 7–10) addresses potential spiritual presumption, employing the term ἀχρεῖος (achreios), \"unworthy\" or \"unprofitable,\" to characterize appropriate servant disposition. This teaching counterbalances any triumphalism that might arise from the preceding faith declaration.",
+        "The Samaritan leper narrative (verses 11–19) advances Luke's programmatic interest in marginalized figures responding faithfully while religious insiders remain oblivious. The term ἀλλογενής (allogenēs), \"foreigner,\" appears uniquely here in the New Testament.",
+        "The eschatological discourse concluding the chapter distinguishes between the kingdom's present hiddenness—ἐντὸς ὑμῶν (entos hymōn), controversially translated either \"within you\" or \"among you\"—and its future apocalyptic manifestation. Jesus employs Noah and Lot typology to emphasize judgment's suddenness, warning against attachment to present securities while awaiting the Son of Man's revelation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 17: Prophetic perspective",
+      "overview": [
+        "Luke chapter seventeen unfolds during the final months of Christ's earthly ministry, approximately AD 30, as Jesus journeys toward Jerusalem for His appointed death and resurrection. This places the passage firmly in the climactic moment of the Incarnation, when the promised Messiah walks among His people, preparing both His disciples and the watching crowds for the inauguration of the new covenant through His blood. The prophetic teachings recorded here span from immediate ethical instruction to sweeping eschatological revelation about the coming Kingdom and the Son of Man's return.",
+        "The chapter opens with sobering warnings about causing others to stumble, coupled with radical commands regarding forgiveness—themes that find their ultimate resolution at Calvary, where the sinless One absorbs the full weight of stumbling humanity's offense and speaks forgiveness over His murderers. When the apostles cry out for increased faith, Jesus directs them to the mustard seed, revealing that Kingdom power operates not through human magnitude but through genuine connection to the Source. This anticipates the age of the Spirit, when ordinary believers would accomplish what prophets and kings longed to witness.",
+        "The healing of the ten lepers carries profound typological weight. Leprosy throughout Scripture pictures sin's corrupting, isolating, death-dealing nature—and only priestly declaration could restore the unclean to community. Here Christ functions as the true High Priest who cleanses what the Levitical system could only quarantine. That one Samaritan returns glorifying God while nine Jewish lepers disappear foreshadows the pattern of Acts: many covenant insiders would reject their Messiah while despised outsiders stream into the Kingdom.",
+        "When Pharisees demand to know when God's Kingdom will arrive, Jesus delivers the stunning declaration that the Kingdom stands among them in His very person—hidden, unrecognized, operating by different principles than earthly dominion. Yet He immediately pivots to the days of the Son of Man, drawing typological parallels to Noah and Lot. Just as ordinary life proceeded until sudden, catastrophic judgment fell on the antediluvian world and Sodom, so the Second Coming will interrupt human routine with apocalyptic finality. The command to remember Lot's wife echoes across the centuries: attachment to the present order proves fatal when divine judgment arrives.",
+        "The enigmatic words about one taken and another left have fueled eschatological reflection for two millennia. Whether picturing rapture, judgment, or separation, the message remains urgent: the Son of Man's appearing demands present readiness. For the Church living between advents, this chapter calls us to radical forgiveness, grateful faith, and watchful expectation—ambassadors of a Kingdom already present yet awaiting glorious consummation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.589141+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

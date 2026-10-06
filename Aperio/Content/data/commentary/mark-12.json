@@ -1,0 +1,57 @@
+{
+  "book": "Mark",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 12: Living as Treasured Children in God's Kingdom",
+      "overview": [
+        "The heart of Mark 12 is learning to honor God with our whole lives—our worship, our relationships, our resources, and our deepest loyalties—while recognizing that true kingdom living flows from genuine love rather than mere external obedience.",
+        "Jesus moves through this chapter responding to religious leaders with penetrating clarity, but always with an eye toward those whose hearts are open. The parable of the tenants exposes the danger of spiritual entitlement and rejection of God's authority. When the Pharisees try to trap him with questions about taxes and resurrection, Jesus cuts through their posturing to reveal a fundamental principle: honoring God means honoring his rightful claim on all we have and all we are. His instruction about paying taxes acknowledges that civil obligations exist, but nothing supersedes our primary allegiance to the kingdom of God.",
+        "Yet the most beautiful moment comes when a humble scribe asks about the greatest commandment. Jesus responds with an answer that fuses together love for God and love for neighbor—not as competing demands but as inseparable expressions of a single orientation toward God. This is the secret to freedom: when our hearts are genuinely fixed on loving God with all our being, loving others flows naturally. We stop performing righteousness; we begin living it.",
+        "The chapter closes with Jesus's rebuke of scribes who devour widows' houses while making long prayers—a piercing reminder that external religiosity can mask internal corruption. Then comes the widow's offering: two copper coins, all she has. In God's economy, she gives more than the wealthy because she gives from her poverty, with total trust in his provision.",
+        "This is the invitation before us: not scrupulous rule-keeping, but whole-hearted devotion that overflows into sacrificial generosity and genuine love. Our resources, our time, our relationships—all are opportunities to demonstrate that God is truly first.",
+        "What area of your life are you holding back from God's kingdom, perhaps out of fear or the desire to maintain control?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 12: Scholarly study",
+      "overview": [
+        "Mark 12 represents a pivotal section in the Second Gospel's narrative, situated within Jesus' Jerusalem ministry during the final week before his crucifixion. This chapter functions as a literary collection of controversy dialogues and teaching material, a form well attested in ancient biographical and philosophical literature. Mark, writing likely from Rome in the late 60s CE for a predominantly Gentile audience facing persecution, presents Jesus in direct confrontation with various religious authorities, demonstrating his superior wisdom while simultaneously sealing his fate.",
+        "The chapter opens with the Parable of the Wicked Tenants, drawing heavily on Isaiah 5's vineyard imagery. The term \"vineyard\" (ἀμπελών, ampelōn) carried immediate covenantal resonance for Jewish listeners, representing Israel under divine cultivation. Jesus' identification of the rejected \"stone\" (λίθος, lithos) with Psalm 118:22-23 constitutes an early christological proof-text that would become foundational in apostolic preaching. The religious leaders' recognition that the parable targeted them intensifies the mounting opposition.",
+        "The subsequent pericopes—concerning tribute to Caesar, resurrection debates with Sadducees, and the greatest commandment—showcase the pronouncement story form where hostile questions receive authoritative answers that silence opponents. The question about taxation employs the loaded term \"tribute\" (κῆνσος, kēnsos), a Latin loanword highlighting Roman imperial presence. Jesus' response transcends the political trap by establishing dual spheres of obligation without fully resolving their potential conflict, a tension interpreters continue debating.",
+        "The Shema recitation in the commandment discourse (verses 29-30) affirms Jewish monotheistic confession while Jesus' counter-question about David's Lord (verses 35-37) raises messianic categories beyond mere Davidic descent. The chapter concludes with sharp critique of scribal ostentation contrasted against the widow's sacrificial giving, where her \"two small copper coins\" (λεπτά, lepta) become paradigmatic of genuine devotion versus religious performance.",
+        "Canonically, Mark 12 advances the Gospel's passion trajectory while establishing theological themes—rejected messiahship, authentic worship, eschatological judgment—that resonate throughout New Testament literature. The chapter's careful arrangement suggests Mark's theological artistry in presenting Jesus as authoritative teacher whose wisdom surpasses all challengers even as rejection crystallizes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 12: Prophetic perspective",
+      "overview": [
+        "Mark chapter twelve stands at the heart of Passion Week, mere days before the crucifixion, approximately AD 30. Jesus has entered Jerusalem in triumph, cleansed the temple, and now engages in His final public teaching before the cross. This places the passage at the climactic moment of redemptive history—the very week when the Lamb of God would accomplish what every sacrifice since Abel had foreshadowed.",
+        "The parable of the wicked tenants opens this chapter with stunning prophetic clarity. Here Jesus narrates the entire history of Israel's relationship with God in miniature: the vineyard planted, servants sent and rejected, and finally the beloved Son murdered outside the vineyard. This is not mere illustration but divine indictment. The religious leaders immediately recognize themselves as the condemned tenants. The rejected stone becoming the cornerstone fulfills Psalm 118, a psalm sung at Passover, now finding its ultimate meaning as Jesus approaches His death. Within this single parable, the pattern of prophet-rejection that marked Israel's history reaches its terrible climax, yet from that rejection springs the foundation of the new covenant community.",
+        "The questions that follow—about tribute to Caesar, resurrection, and the greatest commandment—are not merely theological debates but kingdom confrontations. When Jesus masterfully navigates the coin of Caesar, He establishes a principle that will govern the church through every empire until His return: believers render to earthly kingdoms their due while reserving ultimate allegiance for God alone. The Sadducees' puzzle about resurrection meets the God of Abraham, Isaac, and Jacob—not the God of the dead but of the living. Here stands the One who will Himself break death's power within the week, vindicating every resurrection hope.",
+        "The scribe who rightly discerns that love surpasses sacrifice stands near the kingdom, yet Jesus' counter-question about David's Lord reveals what remains hidden: the Messiah is not merely David's descendant but David's eternal Lord, the divine Son seated at Yahweh's right hand until all enemies become His footstool. This Psalm 110 citation anchors Christology in Israel's worship and anticipates the present session of Christ in heavenly authority.",
+        "The widow's offering closes the chapter with prophetic irony. While the temple system exploits the vulnerable, this faithful remnant gives everything—imaging the One who, before the week ends, will give His all. The church now lives in the already-not yet: the cornerstone is laid, the King reigns, and we await the final subjugation of every enemy under His feet."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.533805+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

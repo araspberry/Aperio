@@ -1,0 +1,150 @@
+{
+  "book": "Micah",
+  "bookIndex": 32,
+  "status": "Editorial draft",
+  "title": "Justice at the gates, hope for the nations",
+  "subtitle": "A prophet from the countryside challenges powerful leaders and imagines a different kind of peace.",
+  "atAGlance": {
+    "genre": "Prophetic accusations, laments, salvation promises, and covenant dispute",
+    "setting": "Judah and Israel during the Assyrian crisis, with later restoration horizons",
+    "composition": "Rooted in eighth-century BC Micah; scholars debate the extent and dates of later collection and additions",
+    "audience": "Samaria and Jerusalem, their leaders, and communities exposed to exploitation"
+  },
+  "sections": [
+    {
+      "title": "A voice from outside the capital",
+      "paragraphs": [
+        "Micah is identified with Moresheth and placed in the reigns of Jotham, Ahaz, and Hezekiah. His ministry therefore belongs to the eighth-century BC world of Assyrian expansion. The opening addresses both Samaria and Jerusalem. The capitals are not treated as isolated centers of worship and government: their decisions are connected with the suffering of the surrounding land.",
+        "Jeremiah 26 remembers Micah’s warning against Jerusalem in connection with Hezekiah’s reign, showing that his words remained significant to a later generation. The book bearing his name alternates accusation and hope. Scholars debate how much belongs directly to the historical prophet and how much reflects later transmission, especially passages with exilic or restored-community perspectives. Its arrangement presents a theological movement, not a chapter-by-chapter chronology."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "The taking of land becomes a prophetic issue",
+      "paragraphs": [
+        "Chapter 2 names people who plan wrongdoing while lying in bed and carry it out when morning gives them the opportunity. They covet fields and houses and then seize them. The connection between desire, planning, power, and dispossession is explicit. Evil is not only an impulsive act; it can be organized through ordinary advantages and habits.",
+        "The victims lose more than property considered as a financial asset. Houses, fields, and inheritance belong to the continuity of family life. The accusation makes the social effects of accumulation visible. Micah also exposes pressure to silence the message. Those who do not want to hear a troubling word may prefer religious speech that promises pleasure and reassurance. The question becomes who benefits from a prophet’s silence."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Leadership measured by its treatment of people",
+      "paragraphs": [
+        "Chapter 3 uses savage imagery to accuse rulers of consuming the very people they should protect. Priests, prophets, and officials are also charged with shaping their service around payment. The book connects injustice with religious confidence: leaders can act corruptly while claiming that God’s presence ensures nothing disastrous will happen to them.",
+        "Micah’s response is the warning that Zion itself can become a plowed field. The chosen city is not exempt from the consequences of its leaders’ conduct. This is a particularly important context for the book’s later promises about Zion. Hope does not vindicate the corrupt arrangements already in place. The future requires a transformed community rather than merely the successful survival of its existing elite."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Peace requires teaching and changed power",
+      "paragraphs": [
+        "Chapters 4–5 widen the horizon from devastation to gathering, healing, and peace. Nations come to receive instruction, and weapons become tools for cultivation. The vision links the end of warfare with learning a different way to live. Ordinary security is pictured through people sitting without fear beneath their own vines and fig trees.",
+        "The promised ruler associated with Bethlehem stands within the memory of Davidic beginnings rather than the display of present prestige. Shepherd imagery presents leadership as care and stability. Christian readers know this passage through its use in Matthew’s account of Jesus’ birth. Its original force also includes a challenge to Jerusalem’s failed rulers: a future under God’s rule cannot be measured simply by the size or status of the place from which leadership comes."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A relationship cannot be purchased",
+      "paragraphs": [
+        "Chapter 6 opens a dispute in which mountains and foundations of the earth are called as witnesses. God recalls acts of deliverance and guidance. The human response imagines increasingly extravagant offerings, reaching a horrifying extreme. The sequence exposes the desire to settle a relational and ethical failure through a payment large enough to end the conversation.",
+        "The answer directs attention toward justice, faithful love, and humble walking with God. These are not isolated virtues detached from the preceding accusations. Justice answers corrupt public life; faithful love answers betrayal; humility answers the arrogance of power and religious self-assurance. The rest of the chapter returns to dishonest measures and violence, keeping the memorable summary firmly connected with practical conduct."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Hope that remembers guilt and mercy",
+      "paragraphs": [
+        "The final chapter begins with social breakdown so deep that trust within ordinary relationships appears to fail. It then turns toward waiting, confession, restoration, and the conviction that God’s compassion can carry the people beyond their present condition. The closing imagery places wrongdoing at a distance and recalls promises to the ancestors.",
+        "Read Micah by attending to its changes between accusation and promise. Neither side is an interruption to the other. The hope becomes substantial because the wrongs are named, and the warnings are not the final word because mercy is also part of the relationship. The book asks what public faithfulness would look like if land, leadership, worship, and peace were all judged by their effects on vulnerable neighbors."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Capitals and leaders confronted",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Lament and accusation expose dispossession, corruption, and false assurance."
+    },
+    {
+      "label": "A gathered people and a peaceful future",
+      "startChapter": 4,
+      "endChapter": 5,
+      "description": "Zion, Bethlehem, shepherding, and the nations enter the restoration vision."
+    },
+    {
+      "label": "The covenant dispute",
+      "startChapter": 6,
+      "endChapter": 6,
+      "description": "Remembered deliverance leads to a demand for justice, loyalty, and humility."
+    },
+    {
+      "label": "From fractured trust to mercy",
+      "startChapter": 7,
+      "endChapter": 7,
+      "description": "Social grief becomes a prayerful expectation of restoration."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Justice and land",
+      "description": "The concentration of power is judged by its cost to families and neighbors."
+    },
+    {
+      "name": "True leadership",
+      "description": "A shepherd protects people rather than consuming them."
+    },
+    {
+      "name": "Mercy and peace",
+      "description": "The hoped-for future transforms both communal conduct and relations among nations."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Eighth-century BC ministry; later horizons in the collected book",
+    "context": "Judah and Israel under Assyrian pressure",
+    "note": "Micah’s ministry belongs to the Assyrian crisis; restoration passages reach beyond it, and their composition is debated."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 7,
+      "era": "divided-kingdom",
+      "label": "Judah and Israel under Assyrian pressure",
+      "dateLabel": "Eighth-century BC ministry; later horizons in the collected book",
+      "note": "Micah’s ministry belongs to the Assyrian crisis; restoration passages reach beyond it, and their composition is debated."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Micah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Micah",
+      "url": "https://bible.usccb.org/bible/micah/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 18",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-18"
+    }
+  ]
+}

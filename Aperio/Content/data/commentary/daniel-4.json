@@ -1,0 +1,55 @@
+{
+  "book": "Daniel",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 4: The Humbling of the Proud",
+      "overview": [
+        "Nebuchadnezzar's dream and its terrifying fulfillment teach us that God alone sits on the throne of the universe, and that every human authority ultimately bows before His sovereign rule. This passage reveals the mercy hidden within judgment—a king brought low so he might finally look up.",
+        "The great king of Babylon, at the height of his power, receives a dream of a magnificent tree cut down to a stump. Daniel interprets it with the courage of one who knows a greater King: Nebuchadnezzar himself will be humbled until he acknowledges that \"the Most High is sovereign over all kingdoms.\" What follows is not mere punishment but transformative grace. The king loses his sanity, lives like an animal for seven years, eats grass like cattle, and becomes utterly powerless. Yet the stump remains—life persists, roots hold firm beneath the soil.",
+        "This is a profound parable for our own age of self-reliance and achievement. How easily we build empires—whether of wealth, status, accomplishment, or influence—and forget that every breath is borrowed from God. We construct our identities around what we control and who recognizes us. Then, in His mercy, God sometimes lets our carefully constructed worlds crack. A loss of health, reputation, or opportunity can become the very tool that restores our sight.",
+        "Nebuchadnezzar's restoration is as important as his fall. After his humbling, \"my sanity was restored to me, and for the glory of my kingdom, my honor and splendor were restored to me.\" His repentance leads not to permanent diminishment but to a deeper, more truthful prosperity—one built on knowledge of the God who rules all kingdoms.",
+        "The question reverberates through our own lives: What false pride is God inviting us to release? What would change if we truly lived as though the Most High rules over all our days? What stump might God be preserving in your life, waiting for new growth to come?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 4: Scholarly study",
+      "overview": [
+        "Daniel 4 presents one of the most remarkable texts in the Hebrew Bible, uniquely structured as a royal proclamation from Nebuchadnezzar II himself to \"all peoples, nations, and languages that dwell in all the earth\" (4:1). This literary device—a Babylonian king testifying to the sovereignty of Israel's God—serves the book's larger theological agenda of demonstrating divine supremacy over earthly powers. The chapter, composed primarily in Imperial Aramaic (the lingua franca of the Neo-Babylonian and Persian empires), likely reflects the exilic or early post-exilic period when Jewish communities grappled with questions of theodicy and divine control over history.",
+        "The narrative centers on Nebuchadnezzar's dream of an immense tree that is cut down by divine decree, leaving only a stump bound with iron and bronze. The tree's identification with the king employs imagery common throughout ancient Near Eastern literature, where rulers frequently compared themselves to cosmic trees providing shelter and sustenance. The key Aramaic term *shiplut* (שִׁפְלוּת, \"lowliness\" or \"humiliation\") in verse 17 encapsulates the chapter's central message: \"the Most High is sovereign over the kingdom of mortals.\" The divine epithet *illaya* (עִלָּיָא, \"Most High\") appears repeatedly, emphasizing God's transcendence over all earthly authority.",
+        "The king's seven-year affliction—described as living among beasts with his mind changed to that of an animal—has generated significant scholarly discussion. Some interpreters connect this to a clinical condition such as boanthropy or lycanthropy, while others view it as symbolic literature illustrating the bestial nature of human pride unchecked by divine acknowledgment. The Prayer of Nabonidus discovered at Qumran (4Q242) describes a similar illness befalling Nebuchadnezzar's successor, suggesting possible historical memory underlying the tradition.",
+        "The chapter's placement within Daniel's Aramaic section (2:4b–7:28) contributes to the book's chiastic structure, with chapter 4 corresponding thematically to chapter 5's judgment on Belshazzar. Both narratives demonstrate that Gentile rulers remain accountable to Israel's God. Nebuchadnezzar's restoration and doxology upon recovering his reason models the appropriate human response to divine sovereignty—humble acknowledgment that heaven rules over all earthly dominions."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 4: Prophetic perspective",
+      "overview": [
+        "Daniel chapter four stands as one of Scripture's most remarkable accounts of divine intervention in pagan history, recorded approximately 570 years before the birth of Christ during the zenith of Babylonian imperial power. This narrative unfolds within the exile period of redemptive history, that crucial season when Israel sat in captivity under Gentile dominion, yet the Most High continued to demonstrate His sovereign rule over all the kingdoms of men. The chapter itself takes the extraordinary form of a royal decree from Nebuchadnezzar, the mightiest monarch of the ancient world, testifying to his own humiliation and restoration by the God of Israel.",
+        "The great tree vision presents a profound typological pattern that echoes throughout Scripture. Trees representing kingdoms and their rulers appear in Ezekiel's oracles against Pharaoh and Assyria, and the image reaches back to Eden where humanity first grasped at forbidden fruit to become like God. Nebuchadnezzar embodies the Adamic impulse toward autonomous rule and self-exaltation. His declaration \"Is not this great Babylon, which I have built by my mighty power and for the glory of my majesty?\" crystallizes the pride that precipitates every human fall. The seven times of bestial madness that follow picture the degradation that befalls humanity when it refuses to acknowledge its creaturehood before the Creator.",
+        "Yet woven through this account of judgment runs a scarlet thread of grace. The stump remains bound with iron and bronze, preserved through the long night of madness, awaiting restoration. Here we glimpse the gospel pattern itself: humiliation preceding exaltation, death before resurrection, the proud brought low so they might be lifted up. Nebuchadnezzar's confession that God \"is able to humble those who walk in pride\" anticipates the Magnificat of Mary, where the mighty are scattered in the imagination of their hearts and the humble are exalted.",
+        "Eschatologically, this chapter establishes a principle that governs all Gentile dominion throughout the times of the Gentiles, that epoch running from Babylon to Christ's return. Every empire rises only by divine permission and falls when heaven decrees. The watching and holy ones who render this verdict prefigure the final judgment when all nations shall stand before the Ancient of Days.",
+        "For the church awaiting her Lord's return, Nebuchadnezzar's testimony remains a summons to cultivate the humility that heaven honors, knowing that the same God who restored a pagan king delights to raise the lowly to share in Christ's eternal throne."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.216827+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

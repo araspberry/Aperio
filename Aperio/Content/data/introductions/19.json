@@ -1,0 +1,134 @@
+{
+  "book": "Proverbs",
+  "bookIndex": 19,
+  "status": "Editorial draft",
+  "title": "Wisdom for the Choices That Form a Life",
+  "subtitle": "Learning to speak, work, listen, and live well before God",
+  "atAGlance": {
+    "genre": "Wisdom instruction, short sayings, poems, and collected counsel",
+    "setting": "Household, marketplace, court, and community life rather than one narrated era",
+    "composition": "Collections associated with Solomon, other sages, and later collectors; final formation extends beyond a single reign",
+    "audience": "Learners of different ages seeking discernment, discipline, and practical understanding"
+  },
+  "sections": [
+    {
+      "title": "More than advice for getting ahead",
+      "paragraphs": [
+        "Proverbs begins by naming a broad educational purpose: to form people capable of understanding, sound judgment, and wise conduct. Its opening includes both the inexperienced and those who already possess learning. Wisdom is therefore not a stage one completes before becoming independent of correction. The mature person remains teachable.",
+        "The fear of the LORD provides the book’s foundation. Practical judgment belongs within reverence, not merely within the search for personal advantage. A person may be clever enough to gain wealth or win an argument and still be foolish in the book’s deeper sense. Proverbs asks what kind of person repeated choices are producing, and what those choices do to the lives of others."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Two invitations and the direction of desire",
+      "paragraphs": [
+        "The opening chapters develop sustained appeals from parents and from Wisdom personified as a woman. Rival voices promise easy gain, excitement, or belonging without responsibility. The learner must recognize that invitations are also paths: accepting one changes where a life is going. The imagery of roads, houses, companions, and meals makes moral formation tangible.",
+        "Wisdom is presented as something to love and seek, not merely a rule to consult when a problem becomes urgent. The question concerns desire as much as information. What do we find attractive? Whose approval do we want? What warnings do we dismiss because they interrupt what we already intend to do? Proverbs understands that judgment is shaped long before a decisive moment arrives."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "How a short saying works",
+      "paragraphs": [
+        "From chapter 10 onward, the texture changes to many compact sayings. A line may contrast two kinds of conduct, show an unexpected consequence, or expose a familiar excuse. Slow reading is often more useful than covering many verses at once. Ask what situation the saying illuminates and what part of human behavior it is making visible.",
+        "These sayings should not all be treated as unconditional promises of a particular outcome. Proverbs 26 places instructions about answering a fool beside instructions about not answering one. The reader must discern what the situation requires. That pairing reveals the book’s educational method: wisdom includes knowing when a true observation applies, rather than turning every sentence into a mechanism that removes the need for judgment."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A moral world made of ordinary things",
+      "paragraphs": [
+        "Words receive sustained attention because they can heal, betray, inflame, or deceive. Work and diligence matter, but the book also condemns dishonest scales, exploitation, and the arrogance of wealth. It recognizes that a household or city is shaped by habits that can seem small: listening before answering, keeping a confidence, accepting correction, paying attention to a field, or refusing to rejoice at another person’s fall.",
+        "The final chapters broaden the voices within the collection. Agur speaks with humility about the limits of understanding; Lemuel receives instruction from his mother concerning responsible rule and the protection of those who cannot speak for themselves. The closing poem honors a capable woman whose wisdom is visible through enterprise, generosity, foresight, and teaching. Praise is attached to a life of sustained responsibility."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A collection to grow with",
+      "paragraphs": [
+        "The title associates the book with Solomon, but its own headings identify multiple collections and contributors. Chapter 25 names men of Hezekiah who copied Solomonic sayings, making the work of later preservation visible within the text. Scholars debate how these materials reached their final arrangement. The collection should not be dated as though every chapter were written during one royal reign.",
+        "Read Proverbs alongside Job and Ecclesiastes. Their difficult questions prevent the patterns observed here from being used to blame every sufferer or flatter every successful person. Proverbs nevertheless has its own generous confidence: people can learn, habits can change, and attention to God and neighbor can make a life wiser. Return to a saying after living with it. Its brevity often allows experience to uncover a depth that a first reading misses."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The invitation to wisdom",
+      "startChapter": 1,
+      "endChapter": 9,
+      "description": "Parental instruction and personified Wisdom prepare the reader to recognize competing paths."
+    },
+    {
+      "label": "Solomonic sayings and words of the wise",
+      "startChapter": 10,
+      "endChapter": 24,
+      "description": "Short observations and longer instructions address character, speech, work, relationships, and justice."
+    },
+    {
+      "label": "Further Solomonic sayings",
+      "startChapter": 25,
+      "endChapter": 29,
+      "description": "A collection copied in Hezekiah’s time continues practical teaching about rulers and everyday conduct."
+    },
+    {
+      "label": "Agur, Lemuel, and the capable woman",
+      "startChapter": 30,
+      "endChapter": 31,
+      "description": "Humility, responsible authority, and a portrait of sustained wisdom bring the book to its close."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Teachability",
+      "description": "Wisdom grows through disciplined attention and a willingness to receive correction."
+    },
+    {
+      "name": "Character in practice",
+      "description": "Repeated decisions about words, work, money, and relationships form a person."
+    },
+    {
+      "name": "Discernment",
+      "description": "A proverb calls for judgment about circumstances, not mechanical application."
+    }
+  ],
+  "timeline": {
+    "era": "wisdom",
+    "dateLabel": "Collected wisdom across generations",
+    "context": "Solomonic traditions stand alongside other voices and later editorial work.",
+    "note": "The book is not a chapter-by-chapter history of the monarchy."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 31,
+      "era": "wisdom",
+      "label": "Wisdom for daily life",
+      "dateLabel": "Multiple stages of collection",
+      "note": "Internal headings identify different contributors and later preservation; individual sayings are usually not securely dated."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Proverbs · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Proverbs",
+      "url": "https://bible.usccb.org/bible/proverbs/0"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Daniel",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 12: Living with Eternal Hope",
+      "overview": [
+        "The book of Daniel closes with a vision that anchors the faithful not in earthly triumph but in God's absolute sovereignty over time itself and the certainty of resurrection. This final chapter teaches us that perseverance through confusion and suffering finds its meaning in the unshakeable truth that God knows the end from the beginning.",
+        "Daniel is given startling visions of tribulation—wars, upheaval, and a time of anguish unlike any before. Yet within this darkness shines a promise that radically reorients everything: \"at that time your people—everyone whose name is found written in the book—will be delivered\" (verse 1). The angel speaks of resurrection, where some rise to eternal life and others to shame and contempt (verses 2–3). This wasn't a clear doctrine for Daniel's Jewish contemporaries; it was revolutionary. Death is not the final word. God's justice extends beyond the grave.",
+        "What strikes the heart is Daniel's honest response. He doesn't fully understand the timeline. He asks when these things will happen, and the answer comes: \"Go your way, Daniel, because the words are rolled up and sealed until the time of the end\" (verse 9). In other words, some things remain hidden. Yet Daniel is told to faithfully persevere nonetheless. He doesn't need perfect clarity to live with integrity. He needs only to trust that God sees what he cannot.",
+        "This speaks powerfully to our own confusion and suffering. We live between the already and the not-yet, often unable to see how God is working or when His purposes will be fulfilled. We encounter injustice, illness, loss, and questions that demand answers God hasn't given us. Daniel's model teaches us something countercultural: faithful living doesn't require understanding the whole plot. It requires trusting the Author.",
+        "The promise of resurrection and God's ultimate vindication gives us permission to live wholeheartedly now, not because we've solved every mystery, but because we're held by One who has.",
+        "What areas of your life ask for faith beyond understanding? How might trusting God's sovereignty reshape your perseverance today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 12: Scholarly study",
+      "overview": [
+        "Daniel 12 constitutes the climactic conclusion to the extended revelation that began in Daniel 10, forming an integrated literary unit often designated the \"Final Vision.\" This chapter, composed during the tumultuous period of Antiochus IV Epiphanes' persecution (167–164 BCE) according to critical scholarship, or prophetically anticipating these events from the sixth-century Babylonian exile according to traditional dating, addresses the ultimate resolution of Israel's suffering and introduces concepts that profoundly shaped Jewish and Christian eschatology.",
+        "The chapter opens with reference to Michael, the angelic prince assigned to Israel, who \"stands up\" (יַעֲמֹד, *ya'amod*) in a protective role during an unprecedented period of distress (צָרָה, *tsarah*). This terminology echoes Jeremiah 30:7's \"time of Jacob's trouble,\" establishing intertextual connections with prophetic traditions concerning Israel's eschatological tribulation. The promise of deliverance for those \"written in the book\" introduces the motif of divine registry, attested elsewhere in Exodus 32:32–33 and Malachi 3:16.",
+        "Verse 2 presents the Hebrew Bible's most explicit articulation of bodily resurrection, employing the striking metaphor of awakening (יָקִיצוּ, *yaqitsu*) from sleep in the \"dust of the ground.\" The dual destinies—\"everlasting life\" versus \"shame and everlasting contempt\" (דְּרָאוֹן, *dera'on*, appearing only here and in Isaiah 66:24)—represent a significant development in Israelite anthropology and theodicy. Scholars debate whether this envisions universal resurrection or specifically addresses the righteous martyrs and notorious apostates of the Maccabean crisis.",
+        "The instruction to \"seal the book\" until \"the time of the end\" places Daniel within the emerging apocalyptic genre characterized by revealed mysteries and periodized history. The cryptic temporal designations—\"time, times, and half a time,\" 1,290 days, and 1,335 days—have generated extensive interpretive traditions, from historical-critical identifications with Antiochus' persecution to dispensationalist calculations of future tribulation periods. The slight variations between these numbers likely reflect either successive editorial updating or deliberate symbolic ambiguity.",
+        "The chapter's concluding blessing upon Daniel, promising his rest and resurrection \"at the end of the days,\" provides both narrative closure and theological assurance that frames the entire book's message of divine sovereignty over human empires and ultimate vindication of the faithful."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 12: Prophetic perspective",
+      "overview": [
+        "Daniel chapter twelve stands at the very end of the great prophetic vision that began in chapter ten, delivered to the aged prophet during the third year of Cyrus king of Persia, approximately 536 years before the incarnation of Christ. Daniel had already witnessed the fall of Babylon and now lived under Persian rule, yet the heavenly messenger carried him forward through centuries of history yet unwritten—through the Greek empire, its fracturing, the abominations of Antiochus Epiphanes, and beyond to the very end of the age. This final chapter lifts the veil on events that remain largely unfulfilled, pointing to the great tribulation and resurrection that will mark the consummation of all things.",
+        "Within the grand sweep of redemptive history, Daniel twelve stands as a bridge text, connecting the restoration period after Babylonian exile with the ultimate restoration that Christ will accomplish at His return. The angel Michael, introduced as the great prince who stands guard over Israel, appears here as the defender of God's covenant people in their darkest hour—a \"time of distress such as never occurred since there was a nation.\" This language echoes forward to Christ's own words in the Olivet Discourse, where He quotes Daniel directly, placing these events in the context of His second advent.",
+        "The resurrection prophecy of verse two constitutes one of the Old Testament's clearest declarations of bodily resurrection unto final judgment. Here the two destinies of humanity stand in stark relief: everlasting life or everlasting contempt. What Daniel saw in shadow, Christ brought into full light through His own resurrection, the firstfruits guaranteeing the harvest to come. Those who are wise, who \"lead many to righteousness,\" shine with the borrowed radiance of the One who declared Himself the light of the world.",
+        "The sealing of the book until \"the time of the end\" speaks to the progressive nature of prophetic revelation. What remained cryptic to Daniel has been progressively unveiled through Christ's first coming, continues to unfold throughout the church age, and awaits complete clarity only at His return. The numbers given—1,290 days, 1,335 days—have occupied interpreters for millennia, yet their precise fulfillment remains future, connected to that final period of tribulation before Messiah's kingdom is established in fullness.",
+        "For the church awaiting her Lord's return, Daniel twelve offers both sober warning and radiant hope. The promise to Daniel himself seals the chapter: he will rest and rise to receive his allotted inheritance at the end of days—the same inheritance secured for all who persevere in faith."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.241329+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

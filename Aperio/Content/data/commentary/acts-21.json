@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 21: When Obedience Meets Uncertainty",
+      "overview": [
+        "The spiritual heart of Acts 21 lies in the tension between following God's call and facing the genuine costs that accompany faithful witness—a tension that reveals both the Holy Spirit's guidance and our human hesitation in the face of suffering.",
+        "Paul's return to Jerusalem marks a turning point where the apostle must navigate competing convictions about his future. The disciples warn him through the Spirit that hardship awaits (verse 4), and again Agabus graphically portrays his coming arrest through symbolic action (verses 10-11). Yet Paul moves forward with remarkable resolve, declaring, \"I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus\" (verse 21). This is not recklessness; it is the clarity of someone who has surrendered his life's trajectory to his Savior's purposes.",
+        "What strikes deeply is that everyone is right. The disciples genuinely sense danger through the Holy Spirit, and Agabus accurately predicts Paul's future. Yet Paul's conviction that God is calling him forward is equally genuine. This teaches us that following Christ doesn't mean avoiding difficulty or pretending obstacles don't exist. Rather, it means moving through them with eyes wide open, knowing that suffering itself can be part of God's redemptive plan for our witness.",
+        "The chapter reveals how the Holy Spirit guides not just into success but into meaningful sacrifice. Paul's willingness to walk toward imprisonment demonstrates a love for Christ that transcends self-preservation. His earlier statement—\"it is more blessed to give than to receive\"—now finds its fullest expression in his willingness to give everything, including his freedom.",
+        "This passage invites every believer to examine our own willingness to follow Jesus when the cost becomes visible. Where might God be calling you toward faithful witness, even though comfort would suggest otherwise? What would it look like to move forward with both clear eyes and a surrendered heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 21: Scholarly study",
+      "overview": [
+        "Acts 21 represents a pivotal narrative transition in Luke's second volume, marking Paul's final journey to Jerusalem and the beginning of his extended period of imprisonment that will eventually lead him to Rome. The chapter draws upon what scholars identify as the \"we\" passages, suggesting the author's presence as an eyewitness to these events, lending the account a vivid immediacy characteristic of ancient historiographical writing. The journey from Miletus through Tyre, Ptolemais, and Caesarea to Jerusalem follows established maritime and overland routes of the eastern Mediterranean, with Luke providing geographical precision that reflects his concern to situate the gospel's expansion within the concrete realities of the Roman world.",
+        "The repeated prophetic warnings against Paul's Jerusalem visit create sustained dramatic tension throughout the chapter. At Tyre, disciples urge Paul \"through the Spirit\" not to proceed, while at Caesarea the prophet Agabus performs a symbolic action reminiscent of Old Testament prophetic theater, binding his own hands and feet with Paul's belt. The Greek term *desmeō* (to bind) becomes thematically significant, anticipating Paul's imminent arrest and extended imprisonment. Paul's response employs the language of readiness (*hetoimōs echō*) for both imprisonment and death, echoing Jesus's own resolute journey toward Jerusalem in Luke's Gospel and establishing Paul as one who follows his Lord's pattern of suffering.",
+        "The Jerusalem episode involving James and the elders introduces complex questions regarding early Jewish Christianity's relationship to Torah observance. The elders' proposal that Paul sponsor four men completing Nazirite vows and undergo purification himself (*hagnisthēti*) represents an attempt to demonstrate Paul's continued respect for Jewish custom, countering rumors that he taught diaspora Jews to abandon Mosaic practices. Scholars debate whether this represents genuine compromise, pastoral accommodation, or Luke's apologetic construction.",
+        "The chapter concludes with violent upheaval when Asian Jews incite a mob by accusing Paul of bringing Greeks into the temple's inner courts, violating the sacred boundary marked by inscribed warnings prohibiting Gentile entry—archaeological evidence confirms such inscriptions existed. The Roman tribune's intervention simultaneously saves Paul's life and inaugurates his custody, illustrating Luke's nuanced portrayal of Roman authority as both protector and captor within the divine plan."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 21: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately twenty-five years after the resurrection of Christ, around AD 57, as the apostle Paul makes his final journey to Jerusalem before his imprisonment and eventual martyrdom. We stand here in the early decades of the Church Age, that mysterious epoch between Pentecost and the Parousia when the Spirit-empowered community carries the gospel from Jerusalem to the ends of the earth. The shadow of the cross still falls fresh upon the apostolic generation, yet already the seeds of Gentile inclusion have sprouted into a harvest that troubles the conscience of Jewish believers still tethered to temple and Torah.",
+        "Paul's journey to Jerusalem reverberates with profound typological weight. Like his Master before him, Paul sets his face steadfastly toward the holy city, fully aware that bonds and afflictions await him. The prophet Agabus binds Paul's hands and feet with his own belt, dramatizing the suffering ahead in the manner of Israel's ancient prophets who embodied their oracles. Here we witness the pattern of the suffering servant reproduced in his apostle—the righteous one delivered into the hands of the Gentiles, willingly embracing affliction for the sake of a greater purpose. Paul's words echo Christ's own Gethsemane surrender: \"The will of the Lord be done.\"",
+        "Jerusalem itself stands as a complex prophetic symbol in this narrative. The temple still gleams in Herodian splendor, yet within thirteen years Roman armies will reduce it to rubble, fulfilling Christ's prophecy that not one stone would remain upon another. The Jewish believers' concern over Paul's reputation among zealous Torah-keepers reveals a church in transition, not yet fully comprehending that the old covenant shadows are passing away as the substance in Christ emerges with increasing clarity. The vow Paul undertakes and the purification rituals he observes represent the last gasps of a fading economy, even as the apostle himself embodies the new wine that cannot be contained in old wineskins.",
+        "The riot that erupts and Paul's arrest by Roman soldiers inaugurate a new phase of prophetic fulfillment—the gospel penetrating the imperial power structures, ultimately reaching Caesar's household. What appears as disaster becomes divine strategy.",
+        "For the church living between the advents, this chapter teaches that faithfulness to Christ's mission often leads through suffering rather than around it. The Spirit who warns of tribulation does not remove it but empowers endurance through it. We too journey toward our Jerusalem, knowing that the path of the cross precedes the crown of glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.71331+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

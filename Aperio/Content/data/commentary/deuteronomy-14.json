@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 14: Living as God's Treasured People",
+      "overview": [
+        "At the heart of Deuteronomy 14 lies a profound truth: the way we steward our bodies, our resources, and our choices reflects our covenant identity as God's holy people. Moses calls Israel not merely to obey rules, but to embody their sacred calling through everyday decisions about food, firstfruits, and generosity.",
+        "The chapter opens with a striking image—torn clothes and shaved heads were signs of mourning in the ancient world, yet Israel is forbidden from such displays of grief. Why? Because they belong to the Lord their God. This isn't about superficial prohibitions; it's about remembering whose we are when sorrow tempts us toward despair. The dietary laws that follow, though culturally specific to ancient Israel, point to something timeless: our choices matter because we matter to God. When we consider what we consume, what we treasure, and how we live, we're making statements about our loyalty and identity.",
+        "What's particularly beautiful is how the chapter weaves together personal holiness and communal compassion. The laws about eating move naturally into instructions about tithing and caring for Levites, widows, orphans, and foreigners. The same God who calls us to personal faithfulness calls us to economic generosity. Our obedience isn't meant to isolate us in private piety; it's meant to overflow into justice and mercy toward others.",
+        "For contemporary disciples, the principle rings clear: we are set apart for the Lord, and this sets us apart for His purposes in the world. Our spending habits, our self-discipline, our generosity—these are spiritual practices. They declare that we belong to God and that His kingdom matters more than comfort or convenience.",
+        "What might God be inviting you to examine about the choices you make with your body, your time, or your resources? How could one small act of stewardship today reflect your commitment to His kingdom?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 14: Scholarly study",
+      "overview": [
+        "Deuteronomy 14 presents a carefully structured compilation of regulations concerning Israelite identity, encompassing prohibitions against mourning practices and comprehensive dietary legislation. Situated within the larger Deuteronomic law code (chapters 12–26), this chapter functions as a practical outworking of the covenantal relationship established in preceding chapters, particularly the exclusive devotion to YHWH demanded in chapter 13. The Mosaic authorship traditionally ascribed to Deuteronomy places these instructions in the context of covenant renewal on the plains of Moab, though critical scholarship has long debated the text's compositional history, with many locating its final form in the late monarchic or exilic period.",
+        "The chapter opens with a profound theological declaration: Israel is designated as \"children\" (*banim*) of YHWH their God, a filial relationship that grounds all subsequent legislation. The prohibition against self-laceration and head-shaving in mourning contexts (v. 1) distinguishes Israelite practice from Canaanite customs associated with death cults, though archaeological evidence suggests such practices persisted in Israel despite prophetic critique. The term *qadosh* (holy, set apart) in verse 2 establishes the conceptual framework for the entire chapter—Israel's distinctive practices visibly manifest their consecrated status among the nations.",
+        "The dietary regulations (vv. 3–21) parallel Leviticus 11 with notable variations that have generated considerable scholarly discussion regarding source relationships. The Hebrew *to'evah* (abomination, detestable thing) applied to forbidden animals carries strong covenantal overtones, denoting practices incompatible with YHWH's holiness. The classification system distinguishing clean from unclean creatures—based on criteria such as divided hooves and cud-chewing for land animals, fins and scales for aquatic life—has elicited numerous interpretive theories, from hygienic explanations to symbolic readings emphasizing wholeness and category integrity.",
+        "The chapter concludes with tithing regulations (vv. 22–29), including the distinctive Deuteronomic provision for converting agricultural tithes to money for distant worshipers and the triennial tithe supporting Levites, sojourners, orphans, and widows. This integration of cultic observance with social welfare reflects Deuteronomy's characteristic humanitarian emphasis. The concluding promise of divine blessing connects obedience to these concrete practices with covenantal prosperity, reinforcing the theological coherence underlying these seemingly disparate regulations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 14: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 14 stands at a pivotal moment in redemptive history, spoken by Moses on the plains of Moab around 1406 BC, approximately fourteen centuries before Christ's advent. The generation that perished in the wilderness has passed away, and their children now prepare to enter the Promised Land. This chapter belongs to the covenant renewal ceremony, where Moses reiterates and applies the Sinai legislation to the new generation poised at Canaan's border. In the grand arc of redemption, we stand between Exodus deliverance and Kingdom establishment, in that liminal space where a redeemed people must learn to live as God's treasured possession among the nations.",
+        "The chapter opens with a thundering declaration of identity: \"You are sons of the LORD your God.\" This sonship language reaches backward to Eden, where Adam bore God's image as son, and stretches forward to the Beloved Son who would fulfill what Israel could not. The prohibition against cutting oneself or shaving the forehead for the dead distinguishes Israel from Canaanite mourning practices that treated death as ultimate. Here lies prophetic seed—God's people must not grieve as those without hope, for the covenant Lord is the God of the living, not the dead.",
+        "The extensive dietary regulations that follow—distinguishing clean from unclean creatures—function as a daily catechism in holiness. Every meal became a liturgical act, every bite a reminder that the holy God had separated this people unto Himself. These laws served as a prophetic parable, a shadow awaiting substance. When Christ declared all foods clean and when Peter received the vision at Joppa, the mystery was unveiled: the distinction was never ultimately about animals but about the coming inclusion of Gentiles into the covenant family. What was external and typological became internal and spiritual.",
+        "The tithing instructions near the chapter's close reveal God's heart for joyful worship, provision for Levites, and care for the vulnerable. The tithe brought to the central sanctuary—where God caused His name to dwell—anticipated that greater dwelling when the Word became flesh and tabernacled among humanity.",
+        "For the church living between Christ's ascension and return, Deuteronomy 14 summons believers to embrace their identity as children of the living God, to practice holiness that distinguishes them from a death-oriented culture, and to worship with generous joy, knowing that every shadow has found its substance in the Son who makes all things clean."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.130268+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 19: The Kingdom's Radical Invitation",
+      "overview": [
+        "Matthew 19 reveals Jesus inviting his followers into a countercultural vision of commitment, where faithfulness to God's design overturns the world's compromises. This chapter shows us that following Jesus demands a complete reorientation of what we value most.",
+        "The passage opens with Jesus teaching about marriage and divorce, grounding his vision in God's original design from creation. He refuses the cultural permission for easy exits and instead calls believers toward permanence and covenant-keeping. Then come the little children, whose simple trust becomes the very model of kingdom citizenship. Jesus doesn't offer an achievement-based faith; he offers the kingdom to those with childlike receptiveness. When the rich young ruler arrives with his impressive resume of rule-keeping, Jesus identifies the one thing missing: willingness to release what he treasures most. The young man's departure becomes a mirror for us all. What kingdom loyalty costs us at the deepest level?",
+        "The disciples' fear surfaces when they ask, \"Who then can be saved?\" Their anxiety reveals a profound misunderstanding—they believe salvation depends on human effort and possession. Jesus responds that what is impossible for us becomes possible with God. This isn't soft comfort; it's revolutionary truth. Our salvation doesn't rest on our sufficiency but on divine grace that rewrites the rules entirely.",
+        "Peter's question about reward—\"What will we get?\"—touches something honest in the human heart. Yes, Jesus promises a hundredfold return for those who sacrifice for the kingdom, along with eternal life. But notice the parable that follows: workers hired at different hours receive the same wage. Grace disrupts our merit-keeping calculus.",
+        "Living out Matthew 19 means releasing our negotiables in service to what truly matters. It means trusting that God's design for relationships, possessions, and commitment actually produces flourishing, not restriction.",
+        "What is Jesus asking you to release so you can grasp the kingdom more fully?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 19: Scholarly study",
+      "overview": [
+        "Matthew 19 presents a carefully constructed unit that addresses fundamental questions of human relationships and discipleship, serving as a transitional section as Jesus moves from Galilee toward Jerusalem. The chapter's geographical notation that Jesus \"departed from Galilee and came into the region of Judea beyond the Jordan\" signals both a physical and theological movement toward the passion narrative, while the teaching material collected here addresses the nature of covenant faithfulness in marriage, the place of children in the kingdom, and the spiritual dangers of wealth.",
+        "The Pharisees' question concerning divorce \"for any cause\" reflects the well-documented debate between the rabbinic schools of Hillel and Shammai regarding the interpretation of Deuteronomy 24:1. Jesus's response transcends this halakhic dispute by appealing to creation theology, citing Genesis 1:27 and 2:24 to establish the foundational principle of marital permanence. The Greek term *apolysai* (to divorce, release) appears repeatedly, and Jesus's teaching employs *porneia* (sexual immorality) as the sole exception—a term whose precise semantic range remains contested among scholars, with interpretations ranging from adultery to incestuous unions prohibited in Levitical law to premarital unchastity.",
+        "The disciples' presentation of children to Jesus and his declaration that \"of such is the kingdom of heaven\" employs *paidia* (young children), emphasizing not innocence but rather the social vulnerability and complete dependence that characterized children in antiquity. This pericope inverts conventional honor-shame categories by presenting the powerless as paradigmatic kingdom citizens.",
+        "The encounter with the rich young ruler forms the chapter's climactic narrative, wherein Jesus's statement that \"it is easier for a camel to go through the eye of a needle\" deploys hyperbolic imagery characteristic of rabbinic teaching. The term *teleios* (perfect, complete) in verse 21 connects to Matthew's Sermon on the Mount usage, suggesting wholehearted covenant loyalty rather than moral perfectionism. Peter's question about the disciples' reward elicits Jesus's promise of the *palingenesia* (regeneration, renewal)—a term appearing only here and in Titus 3:5 in the New Testament, carrying both Stoic cosmological and Jewish eschatological connotations regarding cosmic restoration."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 19: Prophetic perspective",
+      "overview": [
+        "Matthew chapter nineteen was spoken by our Lord Jesus Christ approximately three years into His earthly ministry, around AD 30, as He journeyed from Galilee toward Jerusalem for the final Passover that would culminate in His crucifixion. This passage stands at the hinge point of redemptive history—the Kingdom of God had drawn near in the person of the Messiah, yet the cross and resurrection still lay ahead. Israel's long exile under pagan rule continued even as the promised Son of David walked among them, and the age of fulfillment was breaking into the age of promise.",
+        "The Pharisees' question concerning divorce draws Christ back to Eden, to creation itself, before the Fall had fractured human relationships. When Jesus declares that \"from the beginning it was not so,\" He reaches behind the Mosaic concession to the original design—one man and one woman joined by God in permanent covenant. Here the Second Adam speaks with authority over the first Adam's domain, restoring what sin had corrupted. Marriage itself functions typologically throughout Scripture as a shadow of the greater union between Christ and His Bride, the Church. What God joins, no human authority may sever, because earthly marriage points to an eternal reality that will be consummated when the Bridegroom returns for His people.",
+        "The arrival of the little children reveals the nature of kingdom entrance. Those who would inherit the age to come must receive it as these little ones—with empty hands and dependent hearts. This inverts all human expectation and anticipates the great reversal that the gospel accomplishes: the last becoming first, the humble exalted, the mighty brought low.",
+        "The encounter with the rich young ruler exposes the idol that bars entrance to eternal life. This man had kept the commandments externally, yet his wealth possessed him more than he possessed it. Jesus' declaration that it is easier for a camel to pass through a needle's eye than for the rich to enter God's kingdom astonished the disciples because prosperity was considered a sign of divine blessing. Yet the Messiah was overturning categories, demonstrating that salvation belongs wholly to God's power, not human achievement.",
+        "Peter's question about reward elicits Christ's promise of the regeneration—that future restoration when the Son of Man sits on His glorious throne. The apostles will share His reign, and all who have sacrificed for the kingdom will receive a hundredfold. The Church now lives in this tension: having left much to follow Christ, awaiting the inheritance that will be revealed when He appears in glory to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.479037+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

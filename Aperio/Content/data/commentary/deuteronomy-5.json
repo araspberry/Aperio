@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 5: The Heart Behind God's Law",
+      "overview": [
+        "When Moses rehearses God's law to a new generation of Israelites, he's doing far more than repeating rules—he's inviting them into covenant relationship with a God who knows their deepest needs and longings. The Ten Commandments aren't arbitrary restrictions but loving guardrails designed to protect human flourishing and preserve the community's bond with their God.",
+        "Notice how this retelling begins with God's own introduction: \"I am the Lord your God who brought you out of Egypt.\" Before any demand comes a declaration of redemption. God first establishes his identity as liberator and protector, reminding Israel that obedience flows from gratitude, not fear. The commandments to rest on the Sabbath, to honor parents, and to refrain from murder emerge from God's deep care for human wholeness. When we study these laws closely, we see they protect vulnerable people—servants, strangers, animals—and establish rhythms that preserve both bodies and souls from burnout and greed.",
+        "What strikes many readers is how the passage emphasizes hearing and remembering. \"Hear, O Israel: The Lord our God, the Lord is one,\" Israel was commanded to recite daily. Faith for God's people isn't intellectual assent but relational response—knowing God intimately enough to trust his way is better than our own. The laws become a visible expression of invisible loyalty.",
+        "For disciples today, this passage challenges our tendency to reduce faith to personal preference. Just as Israel's commandments shaped their common life together, our Christian values should transform how we treat the vulnerable, how we rest, how we honor relationships. God's law reveals that true freedom isn't the absence of boundaries but living within the boundaries of love.",
+        "What would change in your daily decisions if you remembered that God's commands flow from his passionate desire for your flourishing and your community's wholeness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 5: Scholarly study",
+      "overview": [
+        "Deuteronomy 5 presents Moses' recapitulation of the Decalogue to the generation of Israelites poised to enter Canaan, forming a critical juncture in the book's extended sermonic structure. The setting at Horeb (the Deuteronomic designation for Sinai) some forty years after the original theophany creates a theological bridge between the exodus generation and their descendants, emphasizing covenant continuity across generations. The chapter's placement following the introductory parenesis of chapters 1–4 establishes the commandments as the foundational stipulations of the renewed covenant relationship.",
+        "The chapter opens with Moses' summons using the imperative \"hear\" (*shema'*), a term carrying connotations beyond mere auditory reception to encompass obedient response and covenantal fidelity. This same root will anchor the famous confession in 6:4, demonstrating its programmatic significance throughout Deuteronomy. Moses' striking declaration that the covenant was made \"not with our fathers...but with us\" (5:3) has generated considerable scholarly discussion, with interpreters debating whether this constitutes a distinct covenant or a rhetorical actualization making past events present for the current audience—a concept some scholars term \"contemporization.\"",
+        "The Decalogue itself exhibits minor but theologically significant variations from the Exodus 20 parallel. Most notably, the Sabbath commandment grounds its observance in Israel's liberation from Egyptian bondage rather than creation, employing the verb *zakhar* (\"remember\") in Exodus but *shamar* (\"keep, observe\") in Deuteronomy. This shift reflects Deuteronomy's characteristic emphasis on social ethics and historical memory as motivations for obedience. The term *'ebed* (\"servant/slave\") appears in the rationale, connecting Israel's experience of servitude to their treatment of dependents within their households.",
+        "The chapter's conclusion narrates the people's fearful response to the divine voice and their request for Moses to serve as mediator, establishing the prophetic office's theological foundation. The phrase \"voice of the living God speaking from the midst of the fire\" (*qol 'elohim hayyim*) emphasizes both divine transcendence and immanence. Yahweh's response in verses 28–29, expressing desire for Israel's perpetual reverence, employs the Hebrew idiom \"who would grant that this heart of theirs would be thus\" (*mi-yitten*), a rhetorical question revealing divine pathos and anticipating later Deuteronomic concerns about Israel's spiritual capacity for sustained faithfulness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 5: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 5 stands at a pivotal moment in redemptive history, approximately 1406 years before Christ's birth, as Moses addresses the second generation of Israelites on the plains of Moab. Forty years have passed since Sinai's thundering theophany; the exodus generation has perished in the wilderness, and their children now stand poised to enter the Promised Land. This chapter records Moses' rehearsal of the Decalogue, not as mere historical reminiscence but as covenant renewal—the living God speaking His eternal words afresh to a new generation who must choose whether they will walk in the way of life or death.",
+        "Within the grand arc of redemption, this passage occupies the transitional ground between Exodus and Kingdom. The covenant made at Horeb now presses forward toward its fulfillment in Canaan, yet Moses speaks here with prophetic awareness that something greater than Sinai must come. The people's terrified response to God's glory—their plea for a mediator lest they die—exposes the fundamental problem of the old covenant: sinful humanity cannot stand before holy God. The Law, though perfect and good, becomes a ministry of condemnation to those who lack the power to obey.",
+        "Here emerges the magnificent typology of Moses as mediator, standing between the consuming fire and the trembling people. This pattern shadows the greater Mediator to come. Where Moses ascended the mountain to receive stone tablets, Christ descended from heaven bearing the Law written on His heart. Where Israel begged for distance from God's presence, Christ draws near to sinners and makes them children. The very commandments rehearsed here—honoring parents, preserving life, guarding marriage, speaking truth—find their ultimate embodiment in the One who fulfilled all righteousness.",
+        "The Lord's poignant cry in verse 29 carries eschatological weight across the ages: \"Oh, that they had such a heart in them, that they would fear Me and always keep all My commandments!\" This divine longing anticipates the new covenant promise of Jeremiah 31 and Ezekiel 36, when God Himself would provide what He requires—circumcised hearts, His Spirit within, the Law inscribed on transformed minds.",
+        "For the church living between Christ's advents, Deuteronomy 5 declares that the Lawgiver has become the Law-keeper on our behalf. The commandments remain God's holy standard, yet believers now obey not to earn favor but because the Spirit empowers what Sinai could only demand. The same voice that shook the mountain will one day shake heaven and earth, and those hidden in Christ the Mediator shall stand unafraid."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.107278+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Micah",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Micah 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Micah 2: The Danger of Comfortable Injustice",
+      "overview": [
+        "God's heart breaks over schemes that steal from the vulnerable, and Micah speaks with prophetic fire against those who have become numb to their own sin. This chapter exposes how comfortable injustice grows in the dark corners of our hearts and communities.",
+        "The opening verses paint a disturbing picture: people plotting through the night to seize fields and houses, to defraud their neighbors under cover of darkness. What strikes the soul most sharply is that these are not strangers or obvious villains—they are neighbors, community members, people who worship alongside their victims. Their sin isn't violent outrage but calculated, methodical theft dressed in legal language. They have the power to do it, so they do it. And the comfort of their injustice has made them deaf to God's voice.",
+        "Micah's response is unrelenting. God promises judgment that matches their crime: they will lose their own land, they will be stripped and shamed, they will drink the cup of exile. The prophecy cuts to the bone because God himself will execute justice. What we steal will be stolen from us. What we seize will be seized from our hands.",
+        "Yet there is something profoundly instructive here for followers of Jesus. We live in a world still drenched in the same quiet violence—the exploitation of workers, the predatory lending, the systemic squeezing of the poor. We may not plot by candlelight to steal fields, but we live within systems that do exactly this. Micah challenges us to examine where we have grown comfortable with injustice, where we have benefited from others' loss without even thinking about it.",
+        "The calling is clear: God's people must become voices for the voiceless and advocates for the powerless. This is not optional religiosity but the core of what it means to follow the God of justice.",
+        "What comfortable injustices have I become blind to?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Micah 2: Scholarly study",
+      "overview": [
+        "Micah 2 continues the prophetic indictment begun in the opening chapter, shifting focus from divine judgment against Samaria and Jerusalem to a sustained critique of the socioeconomic exploitation perpetrated by Judah's landed aristocracy. The prophet Micah, active during the reigns of Jotham, Ahaz, and Hezekiah (approximately 750–687 BCE), ministered during a period of significant economic stratification, when wealthy landowners consolidated agricultural holdings at the expense of peasant farmers. This chapter reflects the tensions between rural Judean communities, from which Micah of Moresheth emerged, and the urban elite who manipulated legal and economic systems for personal gain.",
+        "The chapter opens with a woe oracle (verses 1–5) targeting those who \"devise wickedness\" (*ḥōšĕbê āwen*) upon their beds, executing their schemes at morning light precisely because power (*ʾēl*) lies within their grasp. The term *āwen* carries connotations of both iniquity and emptiness, suggesting schemes that are morally bankrupt despite appearing advantageous. Micah specifically condemns the seizure of fields (*śādôt*) and houses, violations of the ancestral land inheritance system central to Israelite covenant theology. The divine response announces a corresponding \"disaster\" (*rāʿâ*) against this \"family\" (*mišpāḥâ*), employing the same terminology to emphasize proportional justice.",
+        "Verses 6–11 present a disputational exchange between Micah and his opponents, likely court prophets or those benefiting from the status quo, who demand he cease prophesying. The Hebrew *hiṭṭîpû* (\"do not preach,\" literally \"drip\") appears to mock prophetic speech while simultaneously being appropriated by Micah's critics. The passage contains significant textual difficulties, with scholars debating whether certain lines represent the opponents' words or Micah's response.",
+        "The chapter concludes unexpectedly with a salvation oracle (verses 12–13) promising the regathering of a remnant. Many scholars consider these verses a later exilic or postexilic addition, given their abrupt tonal shift and thematic discontinuity with the preceding judgment. However, some interpreters argue such juxtaposition reflects authentic prophetic dialectic between judgment and hope. The shepherd imagery and reference to breaching walls anticipates restoration themes developed more fully in Micah 4–5, demonstrating the book's sophisticated literary architecture despite its complex compositional history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Micah 2: Prophetic perspective",
+      "overview": [
+        "Micah chapter two emerges from the tumultuous eighth century before Christ, approximately 735–700 BC, when the prophet ministered during the reigns of Jotham, Ahaz, and Hezekiah of Judah. This places Micah's oracle within the shadow of Assyria's terrifying expansion—the northern kingdom of Israel would fall to Sargon II in 722 BC, and Judah herself would narrowly escape Sennacherib's siege in 701 BC. Within redemptive history, this passage stands in the Kingdom era, that troubled period when David's throne had been divided and the covenant people fractured, yet God's promises to Abraham and David remained irrevocably anchored in divine faithfulness.",
+        "The chapter opens with a devastating portrait of premeditated wickedness—the wealthy elite who lie awake at night scheming how to seize fields and houses from vulnerable families. This covetous dispossession struck at the very heart of Israel's inheritance theology, for the land grants distributed under Joshua were meant to preserve each family's portion as a perpetual sign of God's covenant faithfulness. To steal a man's field was to rob him of his place in the story of redemption. Here we witness a typological reversal: where Israel was delivered from Egyptian bondage to receive an inheritance, now Israel's own leaders have become Pharaohs over their brothers.",
+        "The divine response carries the terrible weight of lex talionis—measure for measure. Those who devised evil on their beds would find God devising disaster against them. Those who seized fields would have their own portions measured out to strangers. This prophetic judgment found partial fulfillment in the Babylonian exile a century later, when the land-grabbers themselves were dispossessed and led away captive. Yet the pattern extends further, for Christ pronounced woes upon those who devour widows' houses, and James thundered against wealthy oppressors whose hoarded wages cry out to the Lord of Hosts.",
+        "The chapter concludes with a stunning pivot in verses twelve and thirteen—a remnant promise of gathering and restoration. The imagery of sheep collected in a fold and a king breaking open the way before them shimmers with messianic anticipation. This Breaker who goes before His people finds ultimate fulfillment in Christ, who proclaimed release to captives and led the great exodus from sin's dominion.",
+        "For the church dwelling between the advents, Micah two sounds an urgent warning against the idolatry of acquisition and a glorious assurance that our Shepherd-King has already broken through the gate, leading His gathered flock toward an inheritance incorruptible and undefiled."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "33_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.339219+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

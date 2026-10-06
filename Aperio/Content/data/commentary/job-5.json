@@ -1,0 +1,56 @@
+{
+  "book": "Job",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 5: Finding Refuge in God's Tender Strength",
+      "overview": [
+        "Eliphaz offers Job a vision of God's restorative power and tender care, inviting him to turn from his turmoil and embrace divine discipline as an act of love. This chapter calls us to trust that even in suffering, God's hand is not merely punishing but healing.",
+        "The fundamental promise woven through these verses is that God \"wounds but also binds up; he injures but his hands also heal\" (5:18). Eliphaz speaks from a theology of comfort, reminding Job—and us—that divine correction carries redemptive intention. When we face hardship, our first instinct is often to flee or resist, yet these ancient words whisper a countercultural truth: sometimes our brokenness becomes the very place where God's restoration finds its deepest work.",
+        "Notice how Eliphaz anchors his counsel in observation. He's watched the wicked face futility and the foolish reap destruction (5:3-5), but he's also witnessed the blessed fruit of surrender to God's training. There's a pastoral wisdom here that recognizes suffering isn't arbitrary cruelty—it's often an invitation. The sparks that fly upward (5:7) symbolize our human tendency toward trouble, yet God doesn't abandon us in it. Instead, He wraps sorrow in purpose.",
+        "This passage speaks directly to our modern reluctance to accept difficulty as formative. We want smooth paths and pain-free progress, but Eliphaz reminds us that God sometimes uses hardship like a master craftsman uses fire—not to destroy the work, but to strengthen it. When life becomes difficult, we face a choice: either resist the refiner's process with resentment, or yield to it with trust.",
+        "The invitation here is profound: What if we approached our pain as potential place of encounter with God's care rather than evidence of His abandonment? What if we asked not \"Why is this happening?\" but \"What is God teaching me through this?\"",
+        "Where do you need to shift from resistance to receptivity, from demanding smooth paths to trusting God's redemptive hand in your present difficulty?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 5: Scholarly study",
+      "overview": [
+        "Job 5 continues Eliphaz the Temanite's inaugural speech, which began in chapter 4, representing the first sustained theological response to Job's lament in chapter 3. Eliphaz, whose name likely derives from a root meaning \"my God is pure gold,\" speaks as the eldest and most eloquent of Job's three friends, drawing upon wisdom traditions common to the ancient Near East and particularly associated with Edom and its environs. His discourse in this chapter shifts from the visionary experience recounted in chapter 4 to a more didactic tone, employing proverbial wisdom and appeals to empirical observation that would have resonated with audiences familiar with sapiential literature from Egypt and Mesopotamia.",
+        "The chapter opens with Eliphaz's rhetorical challenge regarding the \"fool\" (Hebrew *'ewil*), a term denoting not intellectual deficiency but moral and spiritual obstinacy. This vocabulary places the speech firmly within the wisdom tradition's binary framework of wise versus foolish living. Eliphaz proceeds to articulate what scholars term \"retribution theology\"—the doctrine that suffering invariably corresponds to sin, while righteousness yields blessing. His declaration that \"man is born to trouble as sparks fly upward\" (v. 7) employs the phrase *bene-resheph*, literally \"sons of flame,\" which some interpreters connect to Canaanite mythology surrounding the deity Resheph, though others understand it simply as a vivid metaphor for inevitability.",
+        "The theological centerpiece appears in verses 17–27, where Eliphaz pronounces a *macarism* or beatitude: \"Blessed is the one whom God corrects\" (*'ashre 'enosh*). Here discipline (*musar*) carries pedagogical connotations familiar from Proverbs, suggesting suffering as divine instruction rather than mere punishment. Eliphaz's promises of restoration—protection from famine, wild beasts, and untimely death—echo covenantal blessings from Deuteronomy and Leviticus.",
+        "The interpretive tension lies in recognizing that Eliphaz speaks genuine theological truths misapplied to Job's situation. His theology is not entirely wrong but tragically incomplete, lacking categories for innocent suffering. The reader, privy to the heavenly council scene in chapters 1–2, recognizes the dramatic irony pervading his confident assertions, an irony that the divine speeches in chapters 38–41 will ultimately address."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 5: Prophetic perspective",
+      "overview": [
+        "Job chapter five preserves the counsel of Eliphaz the Temanite, spoken during the patriarchal era, likely around the time of Abraham or shortly thereafter, placing this dialogue approximately 2,000 years before Christ. This makes Job among the oldest literary compositions in Scripture, predating the giving of the Law at Sinai by centuries. The book addresses the mystery of righteous suffering during an epoch when God's redemptive purposes were still largely veiled, before the covenants with Abraham had fully unfolded their promised seed.",
+        "Within the grand arc of redemption, Job sits in that primordial space between the Fall and the Abrahamic covenant, when humanity groaned under the curse yet clung to whispered hopes of deliverance. Eliphaz speaks as a sage of the ancient world, drawing upon observation and received tradition to counsel his afflicted friend. His theology contains fragments of truth—God does humble the proud and exalt the lowly, He wounds and binds up, He delivers the needy from the sword—yet his application proves tragically misdirected. He assumes Job's suffering must flow from hidden sin, urging him to seek God for restoration as though repentance alone would unlock blessing.",
+        "Here we glimpse a typological pattern of profound significance. Eliphaz represents the wisdom of this age, which cannot penetrate the mystery of innocent suffering. His counsel foreshadows every attempt throughout redemptive history to explain affliction through simple moral calculus. Yet standing behind Job's suffering is a reality Eliphaz cannot perceive: the heavenly council where God permitted Satan's assault upon a blameless man. Job thus becomes a type of Christ Himself—the truly righteous one who suffers not for His own sin but according to divine purposes hidden from earthly observers.",
+        "The promises Eliphaz recites find their ultimate fulfillment not in temporal restoration but in the resurrection. When he declares that God delivers from famine, sword, and destruction, he speaks better than he knows. These deliverances reach their consummation when death itself is swallowed in victory. The six troubles and seven calamities from which God rescues His own point forward to the complete redemption secured at Calvary.",
+        "For the church dwelling between the advents, this chapter warns against presuming to interpret providence with confident precision. We walk by faith, not by sight, trusting that the One who wounds also heals, and that suffering borne in union with Christ yields an eternal weight of glory beyond all comparison."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.975125+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

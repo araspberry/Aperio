@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 145,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 145 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 145: The Generous Heart of God",
+      "overview": [
+        "At the deepest level, Psalm 145 celebrates the inexhaustible goodness of God—a goodness so vast and reliable that it transforms the psalmist's entire existence into an act of worship and praise. This is not praise born from pretense but from genuine recognition that God's character sustains all creation and satisfies the hunger of every living thing.",
+        "The psalm opens with a personal declaration—\"I will exalt you, my God the King\"—yet it immediately expands into something far larger. The writer cannot contain his joy to a private experience; he must share God's mighty deeds with others and declare his marvelous works across generations. There is an almost contagious quality to this gratitude. When we encounter someone truly grateful, genuinely overwhelmed by God's kindness, we find ourselves drawn into that worship.",
+        "What makes this psalm particularly pastoral is its unflinching honesty about God's accessibility. The psalmist declares that God is near to all who call upon him, and that he satisfies the desires of those who fear him. These are not abstract theological statements but lived realities that the writer has tasted and known. He has experienced God hearing his cry. He has felt the provision of divine care. In a world that often leaves us feeling insignificant, this psalm whispers that the God who upholds all creation leans in to listen when we call.",
+        "The final verses drive home a remarkable truth: God's kingdom is everlasting, his faithfulness endures in every circumstance, and his hands support all who are falling. This becomes our bedrock when life crumbles around us—not because our circumstances suddenly become easy, but because they are held within hands that have proven trustworthy across all human history.",
+        "What specific evidence of God's goodness in your own life might become a testimony that draws someone else into worship?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 145: Scholarly study",
+      "overview": [
+        "Psalm 145 stands as the final psalm attributed to David in the Psalter and the only composition explicitly designated as a \"tehillah\" (תְּהִלָּה, \"praise\"), though the entire collection derives its Hebrew name \"Tehillim\" from this term. This acrostic psalm, structured around the twenty-two letters of the Hebrew alphabet, represents a mature theological meditation on divine kingship and serves as the gateway to the concluding doxological sequence of Psalms 146–150. The acrostic form, while imposing formal constraints, functions as a mnemonic device and symbolically suggests completeness—praising God from aleph to taw encompasses the totality of possible praise.",
+        "The psalm opens with David's personal commitment to perpetual praise, employing the verb \"rum\" (רוּם, \"to exalt\") to emphasize the elevation of God's name. This individual declaration expands generationally in verses 4–7, where the transmission of God's mighty acts across generations becomes itself an act of worship. The term \"gevurot\" (גְּבוּרוֹת, \"mighty deeds\") appears prominently, encompassing both creation and redemption as manifestations of divine power.",
+        "Central to the psalm's theology is the characterization of YHWH drawn from the ancient creedal formula of Exodus 34:6. Verse 8 declares God \"channun verachum\" (חַנּוּן וְרַחוּם, \"gracious and compassionate\"), anchoring Israel's praise in covenantal memory. The universalistic scope of divine care extends throughout creation, yet maintains particular attention to the vulnerable—those who fall and are bowed down receive specific divine regard.",
+        "Textually significant is the missing nun line between verses 13 and 14 in the Masoretic tradition, though the Dead Sea Scrolls and Septuagint preserve a verse beginning with nun that affirms God's faithfulness. Whether this reflects scribal error or intentional omission remains debated among textual critics.",
+        "The psalm's climax articulates the eschatological hope that \"all flesh\" will bless God's holy name forever. This movement from individual praise through communal memory to cosmic worship establishes Psalm 145 as both David's personal testament and the congregation's perpetual liturgy. Its placement before the final Hallel psalms ensures that Israel's praise, grounded in theological reflection, culminates in unrestrained doxology—the fitting conclusion to the Psalter's entire theological journey."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 145: Prophetic perspective",
+      "overview": [
+        "This magnificent psalm of praise flows from the pen of David, Israel's greatest king, composed approximately one thousand years before the incarnation of Christ. It stands as the final psalm attributed to David in the Psalter and bears the unique distinction of being the only psalm explicitly titled a \"tehillah\" or hymn of praise. Written during the era of the united monarchy, this acrostic poem emerges from the covenant promises God made to David—promises that would find their ultimate fulfillment in great David's greater Son.",
+        "Within the grand narrative of redemption, Psalm 145 occupies the pivotal kingdom era, looking backward to God's mighty acts in creation and exodus while straining forward toward the everlasting dominion that no earthly throne could sustain. David celebrates a kingdom that endures through all generations, yet his own dynasty would crumble within centuries. Here lies the prophetic tension: David sings of what he partially experienced but could not fully embody.",
+        "The psalm unveils Christ in luminous typological detail. When David declares that the Lord is gracious, compassionate, slow to anger, and rich in love, he echoes the divine self-revelation at Sinai and anticipates the One who would become grace and truth incarnate. The king who upholds all who fall and lifts up the bowed down prefigures Jesus touching lepers, raising the dead, and welcoming sinners. The hand that opens to satisfy every living thing becomes the nail-pierced hand breaking bread for five thousand and offering His body for the life of the world.",
+        "The eschatological vision embedded here spans all ages. The everlasting kingdom David proclaims found its inauguration when Christ announced that the kingdom of heaven was at hand. The church now tastes its first fruits as the Spirit gathers a people who declare God's mighty acts to each generation. Yet the consummation awaits—when every knee bows, when all flesh blesses His holy name forever, when the King returns to vindicate the righteous and establish justice permanently.",
+        "For those dwelling between the advents, this psalm becomes our eternal song. We who have seen what David longed to see—God in human flesh, crucified, risen, and reigning—possess even greater reason to extol our God each day. As we proclaim His greatness that cannot be fathomed, we join the communion of saints across all ages, rehearsing now the praise that will echo through the new creation without end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_145",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.54743+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Colossians",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Colossians 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Colossians 3: The Hidden Life Made Visible",
+      "overview": [
+        "The spiritual heart of Colossians 3 is this: our true identity is hidden with Christ in God, and this reality must reshape everything we do, think, and desire on earth. Paul invites us into a radical reorientation of our priorities and affections that flows from who we truly are in Christ.",
+        "Having established in chapters 1 and 2 that Christ is supreme and sufficient, Paul now turns to the practical question: if this is true, how should we live? He begins where all genuine transformation begins—with the heart. We have been raised with Christ through faith, so we must \"set [our] minds on things above, not on earthly things.\" This is not escapism or contempt for the world, but a reordering of desires. When we genuinely believe our life is \"hidden with Christ in God,\" the temporary treasures and status markers that culture whispers about lose their magnetic pull.",
+        "This upward gaze becomes the engine for downward character transformation. Paul moves swiftly from heavenly perspective to earthly behavior, listing what must \"die\" in us—anger, malice, slander, sexual immorality—and what must come alive instead: compassion, kindness, humility, patience, forgiveness. The Christian life is not merely the absence of vice but the presence of Christ-like virtue radiating through us.",
+        "What makes this passage particularly tender is Paul's attention to the ordinary places where holiness actually happens. He addresses husbands and wives, parents and children, servants and masters. He is saying: your marriage is not exempted from the gospel; your workplace is not a neutral zone; your family relationships are the primary laboratory where your hidden life with Christ becomes visible and real.",
+        "The great invitation here is that the resurrection power available to us is not reserved for heaven; it is accessible now, transforming our relationships, our thoughts, and our choices today.",
+        "Where in your daily relationships do you sense the Spirit calling you to let the reality of Christ's resurrection reshape your words, attitudes, or actions?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Colossians 3: Scholarly study",
+      "overview": [
+        "Colossians 3 represents a crucial turning point in the epistle's architecture, transitioning from the theological polemic against the \"Colossian heresy\" (2:8–23) to the paraenetic section that dominates the letter's conclusion. The apostle Paul, writing from imprisonment around 60–62 CE, addresses a predominantly Gentile congregation in the Lycus Valley of Asia Minor, a community he had not personally founded but which fell under his apostolic concern through his associate Epaphras. This chapter exemplifies the indicative-imperative pattern characteristic of Pauline ethics: believers are called to live out the reality of their union with Christ.",
+        "The chapter opens with the participial phrase \"having been raised with Christ\" (synēgerthēte tō Christō), employing the aorist passive to indicate a completed divine action that grounds subsequent ethical exhortation. The spatial metaphor of seeking \"things above\" (ta anō) where Christ sits enthroned establishes a cosmological framework that counters the angel veneration and elemental worship addressed earlier. The concept of believers' lives being \"hidden\" (kekryptai) with Christ in God employs perfect tense to emphasize the enduring security of this mystical union while anticipating eschatological revelation.",
+        "The vice and virtue catalogues (3:5–17) follow established Hellenistic Jewish conventions while being thoroughly christologized. Paul's command to \"put to death\" (nekrōsate) the earthly members employs violent imagery reflecting the radical nature of Christian transformation. The catalogue progresses from sexual sins to relational transgressions, culminating in covetousness identified as idolatry—a striking equation with significant parallels in Ephesians 5:5. The corresponding virtue list centers on \"love\" (agapē) as the \"bond of perfection,\" with Christ's peace serving as arbiter (brabeuetō) in community disputes.",
+        "The household code (Haustaffel) in verses 18–4:1 has generated substantial scholarly debate regarding its relationship to Greco-Roman household management traditions and its implications for early Christian social ethics. Some interpreters view these instructions as accommodation to prevailing social structures, while others emphasize the christological grounding (\"as is fitting in the Lord\") as subtly subversive. The reciprocal nature of the obligations, particularly the unprecedented exhortations to masters and fathers, introduces ethical restraint absent from comparable ancient texts, suggesting an incipient transformation of hierarchical relationships through the confession that Christ is \"all and in all.\""
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Colossians 3: Prophetic perspective",
+      "overview": [
+        "Colossians chapter three emerges from the apostolic pen approximately thirty years after the resurrection of Christ, likely written from Roman imprisonment around AD 60-62. The church at Colossae, planted during Paul's Ephesian ministry, now receives instruction for living as resurrection people in the overlap of the ages—that mysterious time when the kingdom has dawned in Christ yet awaits its full consummation at His appearing.",
+        "This passage stands within the Church Age of God's redemptive drama, positioned between the decisive victory of the cross and the glorious manifestation yet to come. Paul has already established in the preceding chapters that in Christ dwells all the fullness of deity bodily, that believers have been transferred from the domain of darkness into the kingdom of God's beloved Son. Now he unfolds the ethical implications of this cosmic redemption, calling the Colossians to live according to the new creation reality that has already invaded the old.",
+        "The typological richness here is profound. When Paul commands believers to \"put to death\" the deeds of the earthly body and to \"put on\" the new self, he echoes the ancient pattern of death and resurrection that runs like a scarlet thread through Scripture. As Israel passed through the waters of the Red Sea, dying to Egypt and rising to new identity as God's covenant people, so believers have passed through baptismal waters into union with Christ's death and resurrection. The old humanity, represented in Adam, is stripped away like soiled garments; the new humanity, found in the last Adam, is clothed upon the believer like royal robes.",
+        "Paul's declaration that in this new humanity \"there is no Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave and free, but Christ is all and in all\" marks the prophetic fulfillment of God's ancient promise to Abraham that in his seed all nations would be blessed. The wall of partition has been demolished. The eschatological community that the prophets foresaw—where all peoples stream to Zion—has begun its earthly manifestation in the church.",
+        "Yet the prophetic tension remains. Believers' lives are \"hidden with Christ in God,\" an already-present reality with a not-yet glory. When Christ who is our life appears, then we shall appear with Him in glory—the final unveiling still future, still certain. The church lives now as colonists of that coming kingdom, practicing heavenly citizenship on earthly soil, adorning ourselves with compassion, kindness, humility, and love as fitting attire for those who shall one day shine like the sun in their Father's kingdom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "51_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.892978+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Song of Solomon 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Song of Solomon 3: The Restless Search for Love's Presence",
+      "overview": [
+        "In this chapter, the beloved discovers that passionate love cannot be tamed by circumstance or caution—it compels her into an urgent, even reckless search for the one her soul loves. Here we encounter the sacred truth that desire itself, when rooted in genuine love, reflects something profoundly spiritual within us.",
+        "The chapter opens with the beloved lying in bed, restless and alone. Rather than passively accepting the separation, she rises and searches through the city streets, calling out for her lover. This is not a portrait of timid devotion. She asks the watchmen if they have seen him, undeterred by their presence or the impropriety of a woman wandering at night. Her search is driven by something deeper than social convention—an ache that will not be ignored. When she finally finds him, she refuses to let him go, holding fast and bringing him to her mother's house.",
+        "This restlessness mirrors a profound spiritual reality in our walk with God. The mystics have long understood that dissatisfaction with God's distance is not a sign of weak faith but of genuine intimacy. When we are separated from God's felt presence, something within us recoils. We find ourselves searching in the darkness, asking others if they have seen him, pressing beyond our comfortable routine to seek his face. This ache is a gift. It means we have tasted his presence enough to know its absence.",
+        "In our daily lives, this looks like the Christian who will not settle for mere habit in prayer, who disrupts her comfortable schedule to seek God's face, who brings others along on the journey toward intimacy with Christ. It is the refusal to be content with distant knowledge when deep communion is possible.",
+        "What seasons of separation from God's presence are you walking through? Rather than suppressing that ache, might you let it drive you into a deeper, more earnest seeking of his face?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Song of Solomon 3: Scholarly study",
+      "overview": [
+        "Song of Solomon 3 presents two distinct yet thematically unified sections that illuminate the nature of desire and royal splendor within ancient Israelite love poetry. The chapter opens with a nocturnal search sequence (vv. 1–5) before transitioning to an elaborate wedding procession (vv. 6–11), both contributing to the book's sophisticated exploration of human love as a reflection of covenantal devotion.",
+        "The opening verses employ the Hebrew term *nephesh* (נֶפֶשׁ), often translated \"soul\" but more accurately rendered as the whole desiring self, emphasizing that the woman's longing encompasses her entire being. Her repeated phrase \"the one my soul loves\" (*she'ahavah nafshi*) occurs four times in verses 1–4, creating an incantatory effect that underscores the intensity of her pursuit. The nighttime setting carries significant symbolic weight in ancient Near Eastern literature, representing both danger and the liminal space where ordinary social constraints dissolve. The woman's bold movement through the city streets (*shvakim*) and public squares (*rechovot*) transgresses expected female behavior, demonstrating that authentic love transcends conventional boundaries.",
+        "The chapter's second half shifts dramatically to a third-person description of Solomon's wedding procession ascending from the wilderness. The term *appiryon* (אַפִּרְיוֹן), rendered \"carriage\" or \"palanquin\" in verse 9, appears only here in the Hebrew Bible, likely deriving from Greek *phoreion* or Sanskrit *paryanka*, suggesting foreign luxury. This hapax legomenon has generated considerable scholarly discussion regarding the text's dating and cultural influences. The sixty warriors surrounding the litter echo ancient royal bodyguard traditions while addressing the \"terrors of the night\" (*pachad ballelot*), linking back to the chapter's opening nocturnal anxieties.",
+        "Interpreters debate whether Solomon functions historically, typologically, or merely as an idealized royal figure within the poem's dramatic structure. The invitation in verse 11 for Jerusalem's daughters to witness the crown bestowed by Solomon's mother on his wedding day introduces maternal blessing into the celebration, grounding royal magnificence in familial intimacy. The juxtaposition of the woman's vulnerable searching with Solomon's magnificent procession creates theological resonance: love involves both ardent seeking and glorious consummation, themes that Jewish and Christian interpreters have long understood as pointing toward divine-human relationship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Song of Solomon 3: Prophetic perspective",
+      "overview": [
+        "Song of Solomon chapter three emerges from the wisdom literature of ancient Israel, composed during the reign of Solomon approximately 950 years before Christ's advent, in the golden age of the united monarchy following David's establishment of the throne in Jerusalem. This places the text within the Kingdom phase of redemptive history, after God had established His covenant with David promising an eternal throne, yet centuries before that promise would find its ultimate fulfillment in the Son of David who would reign forever.",
+        "The passage unfolds in two movements that together form a prophetic tapestry of searching love and royal splendor. In the opening verses, the Shulamite bride lies upon her bed at night, her soul consumed with longing for her beloved who is absent. She rises, searches the city streets, inquires of the watchmen, and will not rest until she finds him and brings him to her mother's house. This nocturnal seeking patterns the experience of the church throughout the present age—the Bride of Christ dwelling in the darkness of a fallen world, yearning for the Bridegroom who has ascended and whose visible presence is withdrawn for a season. The watchmen represent spiritual shepherds who cannot themselves satisfy the soul's deepest longing; only union with the Beloved himself brings rest.",
+        "The chapter then pivots dramatically to Solomon's wedding procession ascending from the wilderness, surrounded by sixty mighty men of Israel, his royal palanquin crafted of Lebanon's cedar, pillared with silver, based in gold, and upholstered with love by the daughters of Jerusalem. This wilderness procession shadows forth Christ's own journey—the true Solomon, greater than Solomon, who passed through the wilderness of temptation and the valley of death to claim His Bride. The military escort points to the angelic hosts and the communion of saints who surround the King of Glory. The crown placed upon Solomon by his mother on his wedding day anticipates the many crowns Christ wears as He comes for His church.",
+        "Here the already and not-yet of prophetic fulfillment converge. Christ has already descended and ascended; the betrothal is accomplished through His blood. Yet the marriage supper awaits. The church now lives in the nighttime of verse one—searching, longing, holding fast until morning breaks. The eternal significance resounds: the Bridegroom is coming in procession, and those who seek Him with whole hearts shall surely find Him and be found in Him forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "22_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.700559+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

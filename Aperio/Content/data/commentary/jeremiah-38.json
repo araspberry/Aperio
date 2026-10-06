@@ -1,0 +1,63 @@
+{
+  "book": "Jeremiah",
+  "chapter": 38,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 38 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Jeremiah 38 · Scripture",
+      "url": "https://biblehub.com/bsb/jeremiah/38.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 38: The Cost of Faithfulness",
+      "overview": [
+        "When faithful witness becomes costly, God's presence sustains us through the deepest wells of opposition. Jeremiah 38 reveals a prophet abandoned by his people, imprisoned and threatened with death, yet unmoved from his calling because his trust rests not in human approval but in divine commission.",
+        "Jeremiah's words about Judah's inevitable fall during the siege of Jerusalem had stirred the ire of officials who saw his message as treasonous. They seized him, lowered him into a muddy cistern to silence him—a burial of sorts, a slow death designed to punish his persistent truth-telling. In that darkness and despair, where hope seemed to drain as surely as he sank into mire, the prophet remained faithful to his word from God. He refused to soften his message even when offered a chance at life by King Zedekiah; he would not exchange God's truth for personal comfort.",
+        "This passage speaks to the peculiar suffering of those called to speak hard truths in contexts where comfort is preferred. It addresses believers whose integrity puts them at odds with prevailing opinions, whether in workplaces, families, or communities. The cistern becomes every situation where faithfulness feels like drowning, where doing what is right brings isolation rather than celebration. Yet God did not leave Jeremiah in that well. An Ethiopian eunuch, an outsider, heard of his plight and rescued him—a tender reminder that God's care often comes through unexpected sources, sometimes through those society had marginalized.",
+        "The deeper lesson is that our calling stands regardless of whether anyone validates it. Jeremiah's worth was not determined by his popularity or safety. His identity was rooted in his assignment from God, a security that the cistern could not touch.",
+        "Where might you be compromising truth for comfort right now? What would change if you trusted, as Jeremiah did, that God's approval is enough?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 38: Scholarly study",
+      "overview": [
+        "Jeremiah 38 constitutes a pivotal narrative unit within the biographical sections of the book, detailing the prophet's near-death experience during the final siege of Jerusalem (588–586 BCE). The chapter divides naturally into two interconnected episodes: Jeremiah's imprisonment in the cistern (vv. 1–13) and his secret audience with King Zedekiah (vv. 14–28). The historical setting places these events in the desperate final months before Jerusalem's fall to Nebuchadnezzar II, when famine gripped the city and political factions struggled over surrender versus resistance.",
+        "The chapter opens with four officials—Shephatiah, Gedaliah, Jucal, and Pashhur—accusing Jeremiah before Zedekiah of demoralizing the military forces through his oracles advocating surrender. Their charge employs the participle *mērappē* (מְרַפֵּא), meaning \"weakening\" or \"making slack,\" the same accusation leveled against prophets who allegedly undermined national morale. Zedekiah's response reveals his characteristic vacillation; he declares the prophet is \"in your hands\" (*bĕyedkem*, בְּיֶדְכֶם), effectively abdicating royal responsibility while technically preserving plausible deniability. This phrase echoes disturbingly with Pilate's later hand-washing and illuminates the moral cowardice of rulers caught between prophetic truth and political expediency.",
+        "The cistern (*bôr*, בּוֹר) into which Jeremiah is lowered functions as a near-grave, containing no water but only mud (*ṭîṭ*, טִיט), a detail emphasizing the slow death intended. Ebed-Melech the Cushite emerges as an unlikely deliverer, his Ethiopian identity and status as a court official (*sārîs*, סָרִיס) marking him as a marginalized figure whose courage contrasts sharply with Zedekiah's weakness. His careful provision of rags to protect Jeremiah's armpits during the rescue demonstrates remarkable compassion amid political brutality.",
+        "The subsequent private interview between Zedekiah and Jeremiah presents the king as tragically torn between genuine spiritual inquiry and fear of his own officials. Scholars debate whether Zedekiah's expressed fear of deserters (v. 19) represents genuine concern or rationalized excuse. The narrative's sympathetic yet critical portrayal of Zedekiah illustrates the Deuteronomistic theme that Judah's final kings, though not entirely villainous, lacked the moral fortitude that faithfulness required."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 38: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter thirty-eight unfolds approximately 587 years before the birth of Christ, in the final desperate months before Jerusalem's destruction by Nebuchadnezzar's Babylonian armies. The prophet Jeremiah has ministered for over forty years, and now the covenant curses Moses prophesied in Deuteronomy are about to fall upon the holy city. This passage stands at the darkest moment of the Kingdom era—the Davidic throne totters, the temple Solomon built will soon lie in ruins, and the people chosen to bless all nations march toward exile. We are witnessing the death of old covenant Israel, the necessary judgment that precedes eventual restoration.",
+        "The cistern into which Jeremiah is cast becomes a profound type of death and resurrection that points forward to Christ. Lowered into the mire by cords, abandoned in darkness, given over by religious and political authorities who despise his word—Jeremiah embodies the suffering servant pattern that will reach its fullness in Messiah. The prophet descends into a pit with no water, much as Joseph was cast into a cistern by his brothers, much as Jonah descended into the belly of the deep, much as Christ would descend into the grave itself. That Jeremiah does not die but is drawn up by thirty rags lowered on cords foreshadows resurrection—deliverance from the realm of death by unlikely means and unexpected agents.",
+        "Ebed-Melech the Ethiopian emerges as a striking figure of Gentile faith amid Israelite unbelief. While kings and princes of Judah reject the prophet, this foreign servant risks his life to rescue God's messenger. Here the pattern of Rahab and Ruth reappears—outsiders who recognize divine truth when the covenant people prove blind. Ebed-Melech anticipates the centurion who will confess Christ at the cross, the Ethiopian eunuch who will believe Philip's gospel, and the countless Gentiles who would receive what Israel initially rejected.",
+        "King Zedekiah represents tragic spiritual paralysis—he privately fears Jeremiah speaks truth yet publicly lacks courage to obey. His secret consultations and ultimate capitulation to court pressure typify all who hear God's word, sense its authority, yet refuse the costly obedience it demands.",
+        "For the church awaiting Christ's return, Jeremiah thirty-eight speaks with urgent relevance. Faithful proclamation invites persecution; the world's systems will always resist prophetic truth. Yet the God who preserved Jeremiah in the pit preserves His servants still, and the word rejected by the powerful will outlast every kingdom that suppresses it."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_038",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.006461+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-030"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

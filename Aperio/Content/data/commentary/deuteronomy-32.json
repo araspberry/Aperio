@@ -1,0 +1,57 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 32 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on Deuteronomy 32",
+      "overview": [
+        "This final song of Moses reveals the heart of God as both covenant keeper and righteous judge—a stunning portrait of divine faithfulness tested by human unfaithfulness. Through ancient poetry, Moses calls Israel to remember that blessing and curse flow directly from the condition of their hearts toward God.",
+        "The song opens with an urgent summons: \"Give ear, O heavens, and I will speak; and let the earth hear the words of my mouth\" (32:1). Moses doesn't merely scold; he appeals to creation itself as witness to what unfolds between God and His people. He reminds them that the Lord is their Rock, their Father, their Creator—language that binds them in the deepest relational covenant. Yet this tenderness makes their abandonment all the more grievous. Israel's ingratitude isn't merely a breach of law; it's betrayal of a Father's love.",
+        "The heart of the passage acknowledges a painful truth: God's people will turn away. \"They have acted corruptly toward him; to their shame they are no longer his children\" (32:5). Yet even in describing this rebellion, Moses holds open a window to restoration. The song doesn't end in condemnation but in vindication—God's ultimate triumph and restoration of His people, even those who seem most lost.",
+        "This passage teaches that covenant with God isn't transactional but relational. Our unfaithfulness doesn't surprise God or catch Him unprepared; rather, it tests whether we truly believe He is worth our loyalty. The song invites us into honest reckoning: How have we acted corruptly toward our God? Where have we sought satisfaction in lesser things?",
+        "Yet the deepest invitation is to return. God's faithfulness never wavers, even when ours does. Moses' song assures us that our seasons of wandering don't define our destiny—our willingness to hear God's voice and turn back does.",
+        "What does returning to wholehearted devotion to God require of you today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 32: Scholarly study",
+      "overview": [
+        "Deuteronomy 32 presents the Song of Moses, a masterful poem that stands as one of the most sophisticated literary compositions in the Hebrew Bible. Delivered on the plains of Moab as Moses prepares Israel for his departure and their entry into Canaan, this covenant lawsuit (*rîb*) draws upon ancient Near Eastern treaty forms while transcending them theologically. The poem functions as a prophetic witness against future apostasy, explicitly commissioned by YHWH in the preceding chapter as testimony that will endure through generations of Israelite unfaithfulness and restoration.",
+        "The opening verses establish a cosmic courtroom by summoning heaven and earth as witnesses, a convention paralleled in Hittite suzerainty treaties where deities served as guarantors. The term *leqaḥ* (\"teaching\" or \"doctrine\") in verse 2 carries connotations of persuasive instruction that penetrates like rain into receptive soil, establishing the didactic intent of what follows. Central to the poem's theology is the designation of YHWH as *ṣûr* (\"Rock\"), appearing six times throughout the chapter. This metaphor emphasizes divine stability, reliability, and protective strength—qualities set in stark contrast to Israel's fickleness and the impotence of foreign deities, whose \"rock\" is explicitly deemed inferior in verse 31.",
+        "The poem's structure moves from theophanic praise through historical recollection of YHWH's election and nurture of Israel, to indictment of Israel's ingratitude and idolatry, then to announcement of judgment, and finally to promised vindication and restoration. The provocative theology of verses 8–9, where the Most High (*ʿElyôn*) distributes nations according to the number of divine beings while reserving Israel as YHWH's own inheritance, has generated substantial scholarly discussion. The Septuagint and Dead Sea Scrolls read \"sons of God\" (*bĕnê ʾĕlōhîm*) rather than the Masoretic \"sons of Israel,\" suggesting an older textual tradition with implications for understanding Israelite monotheism's development within a divine council framework.",
+        "The poem concludes with YHWH's self-declaration of exclusive deity and sovereign power over life and death, culminating in a call for the nations to rejoice with God's people. This eschatological horizon transforms what begins as judgment into ultimate redemption, establishing patterns that later prophetic literature would develop extensively. The canonical placement of this song at the Pentateuch's conclusion provides Israel with both warning and hope as they stand perpetually at the threshold of promise."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 32: Prophetic perspective",
+      "overview": [
+        "The Song of Moses stands at the threshold of Israel's entrance into Canaan, delivered approximately 1400 years before Christ's incarnation, in the final days of Moses' earthly ministry. This covenant lawsuit set to poetry arrives at a pivotal moment in redemptive history—the generation of the Exodus has perished in the wilderness, and their children now stand poised to inherit the promises made to Abraham six centuries earlier. The passage thus occupies that critical juncture between the Exodus and the Kingdom, when the seed of Abraham would finally possess the land flowing with milk and honey.",
+        "This prophetic song functions as a divine witness against Israel, written not merely to record history but to prophesy it. Moses, under inspiration, sees across the centuries—Israel's future apostasy, God's jealousy kindled by their idolatry, the scattering among nations, and ultimately, the vindication of God's servants and atonement for the land. The song traces the entire arc from Israel's election through judgment to final restoration, compressing millennia into verses.",
+        "The typological richness begins with Moses himself, who delivers this prophetic word yet cannot enter the land—a priest-prophet who leads God's people to the boundary but cannot complete the salvation. This shadows the insufficiency of the Law to bring God's people into final rest, awaiting the greater Prophet whom Moses foretold. The Rock appears throughout the song as Israel's foundation, the One who begot them, the Rock of their salvation—imagery the apostles would later apply directly to Christ, the spiritual Rock who accompanied Israel through the wilderness.",
+        "The passage prophesies Israel's provocation of God through \"no-gods\" and God's corresponding provocation of them through \"no-people\"—a prophecy Paul explicitly identifies as fulfilled in the ingathering of Gentiles into the covenant community. What Israel's unfaithfulness could not accomplish, God's faithfulness achieved through bringing jealousy upon His ancient people by grafting wild olive branches into the cultivated tree.",
+        "The eschatological horizon extends to the final day when God will avenge the blood of His servants and render vengeance to His adversaries. The song culminates in atonement for the land and people—language that points beyond animal sacrifice to the once-for-all offering that would cleanse not merely Israel's land but the entire creation.",
+        "For the church dwelling between the advents, this song declares that God's purposes cannot be thwarted by human unfaithfulness. The Rock remains unchanging, His arrows will find their mark, and the nations will ultimately rejoice with His people when redemption reaches its appointed consummation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_032",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.175079+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

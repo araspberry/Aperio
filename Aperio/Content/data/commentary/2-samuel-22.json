@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Song of Deliverance: Learning to Trust God's Faithfulness",
+      "overview": [
+        "At the heart of this passage lies a profound truth: God's faithfulness transcends our circumstances, and recounting His mercies awakens our faith. David pours out a song of thanksgiving that becomes a mirror for our own spiritual journey, reminding us that the God who rescued him from Saul's pursuit and his enemies' assault is equally present in our struggles today.",
+        "David opens by naming God as his rock, fortress, and deliverer—not metaphorical titles, but the language of lived experience. The psalmist had literally fled for his life, hidden in caves, and faced death repeatedly. Yet rather than bitterness, his song overflows with gratitude. He remembers how God \"brought me out into a spacious place,\" how divine strength upheld him when his own legs trembled. What makes this testimony so powerful is its honesty: David doesn't pretend his trials were insignificant or that fear never touched him. Instead, he declares that God's character proved steadfast precisely when circumstances seemed most dire.",
+        "This matters deeply for our discipleship. We live in a world where storms come—illness, loss, betrayal, confusion—and our faith can feel fragile. But David's song teaches us something revolutionary: praising God isn't about denying hardship; it's about remembering that hardship never defines our ultimate reality. God's faithfulness remains constant whether we feel it or not. When David recounts his story, he's not explaining away his suffering but reframing it as the backdrop against which God's mercy became gloriously visible.",
+        "The discipline of testimonial remembering transforms our spiritual lives. Taking time to recall how God has carried us through previous valleys strengthens our trust for present valleys. It repositions us from victims of circumstance to witnesses of grace.",
+        "Where in your own story do you sense God's faithful hand at work? What would it mean for you to give voice to that testimony, even while you're still walking through current struggles?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 22: Scholarly study",
+      "overview": [
+        "Second Samuel 22 presents David's magnificent hymn of thanksgiving, composed upon his deliverance from Saul and all his enemies, and appearing in nearly identical form as Psalm 18. This extended poem likely dates from the latter period of David's reign, representing a mature theological reflection on divine intervention throughout his turbulent life. The placement of this hymn near the conclusion of Samuel's narrative serves as a theological capstone, framing David's entire career as testimony to Yahweh's faithfulness. Ancient Near Eastern royal victory hymns provide illuminating parallels, though David's composition distinctly emphasizes personal dependence upon Israel's covenant God rather than boasting in military prowess.",
+        "The opening verses employ a remarkable concentration of metaphorical language for God, including \"rock\" (*sela*), \"fortress\" (*metsudah*), and \"shield\" (*magen*). The Hebrew *sela* denotes a massive cliff formation providing refuge from enemies, while *metsudah* suggests an inaccessible mountain stronghold. This accumulation of defensive imagery establishes the poem's central theological claim: Yahweh alone constitutes David's security amid life-threatening circumstances.",
+        "The theophanic section in verses 8–16 presents extraordinary cosmic imagery depicting divine intervention. The earth trembles, smoke ascends from God's nostrils, and he rides upon a cherub descending through darkened skies. Such language draws upon ancient Israelite storm-god traditions while transforming them into testimony of Yahweh's personal involvement in David's deliverance. The verb *yered* (\"he descended\") emphasizes divine condescension—the transcendent God actively enters human conflict on behalf of his servant.",
+        "Scholars debate the relationship between this chapter and Psalm 18, with some arguing for the priority of the Samuel version based on textual considerations, while others maintain the psalm represents the earlier form. The variations between texts, though minor, illuminate the fluidity of Hebrew poetic transmission. The hymn's theology of retribution in verses 21–28, where God responds to human righteousness, must be read within its specific context of David's integrity relative to Saul's unjust persecution, not as a general principle of merit-based salvation. The poem ultimately celebrates Yahweh as cosmic warrior-king whose sovereign purposes accomplish deliverance for his anointed, pointing typologically toward the greater Davidic son."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 22: Prophetic perspective",
+      "overview": [
+        "This magnificent hymn of deliverance pours forth from David's lips near the end of his reign, approximately 1000 years before the incarnation of Christ. The superscription places it after God had rescued David from all his enemies and from the hand of Saul, making this a retrospective psalm of thanksgiving composed during the established monarchy period, when the promises to Abraham regarding land and blessing had found substantial, though not ultimate, fulfillment. This song appears again with minor variations as Psalm 18, preserved for ongoing liturgical use in Israel's worship.",
+        "Within the grand arc of redemption, this chapter stands at the pinnacle of the Davidic kingdom era, that bright moment between the chaos of the judges and the coming shadows of division and exile. David functions here not merely as a grateful warrior-king but as a prophetic voice articulating truths that transcend his own experience. The pattern he establishes—the righteous sufferer who cries out, is heard, and is vindicated through divine intervention—becomes the template through which Israel would understand messianic deliverance.",
+        "The typological density of this passage is extraordinary. David's descent into death's grip, with cords of Sheol entangling him and waves of destruction overwhelming him, prefigures Christ's actual descent into death's domain. When David declares that God reached down from on high and drew him out of many waters, we hear anticipatory echoes of resurrection. The language of cosmic theophany—smoke from divine nostrils, consuming fire, darkness as a canopy, the earth's foundations laid bare—points toward both Sinai and the eschatological appearing of the Son of Man in power.",
+        "David's bold claims of righteousness and clean hands, which might seem presumptuous for an adulterer and murderer, find their perfect fulfillment only in Christ, the truly blameless one whom God vindicated through resurrection. The promise that God makes David the head of nations, with foreigners submitting at the mere report of his name, stretches beyond Solomon's tributary kingdoms toward that day when every knee shall bow.",
+        "For the church dwelling between advents, this psalm teaches us to see our own deliverances as installments of final redemption. The God who bent the heavens for David bent them further at Calvary and will bend them utterly at the consummation. We sing David's song as those who know the Deliverer's name."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.523493+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

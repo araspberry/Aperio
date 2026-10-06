@@ -1,0 +1,56 @@
+{
+  "book": "Daniel",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 7: The Eternal Kingdom Above All Kingdoms",
+      "overview": [
+        "In this remarkable vision, Daniel witnesses the rise and fall of earthly powers and catches a glimpse of God's unshakeable dominion—a truth that sustains believers through seasons when worldly authority seems overwhelming and God's kingdom feels distant.",
+        "Daniel sees four terrifying beasts emerging from a turbulent sea, each more destructive than the last. These kingdoms oppress God's people, and their very existence seems to suggest that evil forces control history. Yet the vision pivots when the Ancient of Days takes His throne. Time collapses into eternity. The final beast is destroyed, and dominion is given to one like a son of man—a figure who receives an eternal kingdom that will never pass away or be defeated.",
+        "For believers living under tyranny, injustice, or the weight of a world run by ungodly systems, this vision offers radical hope. Daniel himself lived as a captive, far from home, witnessing Babylonian power at its height. He could have despaired. Instead, this vision anchored his faith in a kingdom transcending all human rule. The beasts of our own time—political systems that oppress, economic structures that exploit, ideologies that diminish human dignity—are revealed as temporary, however monstrous they appear. They are destined for defeat.",
+        "The son of man figure, understood throughout Christian tradition as pointing to Christ, receives dominion from the Father himself. This means Jesus' kingship is not provisional or negotiable. It is absolute and eternal. When we align our hearts with His kingdom rather than wrestling for power within earthly systems, we participate in something unshakeable.",
+        "Living as Daniel did—faithful in a foreign land, serving rulers we didn't choose, yet anchored to a vision of God's ultimate triumph—remains the calling of every believer. Our resistance is not violent revolt but unwavering allegiance to the King whose reign no earthly power can diminish.",
+        "What kingship or authority in your life needs to be reoriented beneath Christ's eternal rule?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 7: Scholarly study",
+      "overview": [
+        "Daniel 7 marks a decisive literary and theological transition in the book, shifting from court narratives (chapters 1–6) to apocalyptic visions that would profoundly influence both Jewish eschatology and early Christian theology. Composed during the Maccabean crisis (167–164 BCE) according to most critical scholars, or during the Babylonian exile according to traditional dating, this chapter employs Aramaic—the lingua franca of the ancient Near East—to communicate its universal message about divine sovereignty over human empires.",
+        "The vision opens with the chaotic imagery of the \"great sea\" (*yammā rabbā*), a symbol laden with ancient Near Eastern mythological significance representing primordial chaos and the forces opposing divine order. From this turbulent deep emerge four beasts, traditionally interpreted as successive empires: Babylon, Media, Persia, and Greece (or alternatively Babylon, Medo-Persia, Greece, and Rome). The fourth beast, distinguished by its terrifying iron teeth and ten horns, receives particular attention, with the \"little horn\" (*qeren zəʿêrâ*) speaking arrogantly—widely understood as Antiochus IV Epiphanes, whose persecution of Jewish worship precipitated the Maccabean revolt.",
+        "The theophanic courtroom scene introduces the \"Ancient of Days\" (*ʿattîq yômîn*), a striking divine epithet emphasizing God's eternal nature and judicial authority. The white garments and fiery throne echo Israelite theophanic traditions while asserting Yahweh's ultimate jurisdiction over earthly powers. Most significant for subsequent interpretation is the appearance of \"one like a son of man\" (*kəbar ʾĕnāš*), a humanlike figure approaching the divine throne to receive everlasting dominion. Scholarly debate continues regarding whether this figure represents an individual messianic figure, a collective symbol for faithful Israel, or an angelic being—interpretive options with substantial ancient support.",
+        "The passage's interpretation of the \"holy ones of the Most High\" (*qaddîšê ʿelyônîn*) receiving the kingdom creates deliberate ambiguity between celestial and earthly referents, suggesting a correspondence between heavenly and earthly realities characteristic of apocalyptic literature. Daniel 7 thus establishes the interpretive framework through which Second Temple Judaism and nascent Christianity would understand cosmic conflict, divine judgment, and the ultimate vindication of God's faithful people against oppressive imperial powers."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 7: Prophetic perspective",
+      "overview": [
+        "Daniel received this vision approximately 553 BC, during the reign of Belshazzar king of Babylon, some fifty years after Jerusalem's destruction and roughly five and a half centuries before the incarnation of Christ. This chapter stands at the hinge point of exile, when Israel languished under Gentile dominion, yet the prophetic word pierced through the darkness to reveal that human empires, however terrifying, were mere beasts under divine sovereignty—and that an everlasting kingdom was coming.",
+        "The four beasts rising from the churning sea represent the successive world empires that would dominate God's people: Babylon the lion, Medo-Persia the bear, Greece the leopard, and Rome the dreadful fourth beast with iron teeth. This vision parallels Nebuchadnezzar's statue in chapter two, yet here the kingdoms appear not as gleaming metals but as ravenous predators—heaven's true assessment of earthly power. The sea itself symbolizes the chaotic nations raging against the Lord and His anointed, the primordial disorder from which fallen humanity's kingdoms emerge.",
+        "But the vision's center of gravity is not the beasts—it is the throne. The Ancient of Days takes His seat, clothed in garments white as snow, His throne ablaze with judgment fire, surrounded by myriads upon myriads of heavenly servants. The court sits, the books are opened, and the fourth beast is slain. Then comes the climactic revelation: \"One like a Son of Man\" approaches the Ancient of Days on the clouds of heaven and receives dominion, glory, and an everlasting kingdom that shall never be destroyed.",
+        "Here stands the most explicit Old Testament portrait of the Messiah's divine nature and heavenly enthronement. Jesus deliberately claimed this title—Son of Man—more than any other, and when He stood before Caiaphas, He quoted this very passage, declaring that they would see the Son of Man seated at the right hand of Power, coming on the clouds. The high priest tore his robes because he understood: Jesus was claiming to be Daniel's heavenly figure, the one who shares the very throne of God.",
+        "The kingdom was inaugurated at Christ's ascension when He received all authority in heaven and on earth. Yet the saints still endure tribulation from beastly powers, awaiting the final judgment when the Ancient of Days vindicates His people and the kingdom is fully consummated. The church lives in the overlap—the Son of Man reigns now, yet we groan for the day when every hostile dominion is crushed and the saints possess the kingdom forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.224018+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

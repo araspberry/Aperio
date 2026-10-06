@@ -1,0 +1,55 @@
+{
+  "book": "Luke",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 4: The Tested and Triumphant Christ",
+      "overview": [
+        "Luke 4 reveals Jesus facing humanity's deepest struggles—hunger, ambition, and the seductive promise of power without cost—yet emerging victorious precisely because He chooses to depend wholly on God's Word rather than His own resources. This is the pattern of authentic discipleship laid bare in the wilderness.",
+        "After His baptism, Jesus enters the desert not as a demonstration of strength but as the launching point for His mission. The devil approaches Him with three temptations that sound reasonable, even noble: turn stones to bread (meet your own need), worship me and receive all earthly authority (take the shortcut), and test God's protection (prove you're invincible). Each temptation invites Jesus to bypass God's will for His own advantage. Yet each time, Jesus refuses to operate outside the Father's word. \"It is written,\" He repeats—appealing not to His divine power but to Scripture's steadying truth.",
+        "What moves us most is this: Jesus faced the same wilderness we face. He knew hunger, fatigue, the whisper that God's way seems slow and inefficient. If Jesus needed to reroot Himself in God's Word during trial, how much more do we? The temptations He faced are our temptations: to secure life through our own effort, to grasp power we weren't meant to hold, to demand that God prove Himself according to our timeline.",
+        "Leaving the desert, Jesus returns in the power of the Spirit to announce good news to the poor, freedom to the captive, and sight to the blind. His victory in the wilderness equips Him for ministry. Our seasons of testing, though painful, work similarly. When we choose the Word over ease, dependence over self-sufficiency, and God's pace over our impatience, we discover both integrity and power.",
+        "What area of your life is the enemy tempting you to handle on your own terms rather than God's?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 4: Scholarly study",
+      "overview": [
+        "Luke 4 stands as a pivotal chapter in the Third Gospel, presenting Jesus' public ministry inauguration following his baptism and wilderness temptation. The evangelist, traditionally identified as the physician companion of Paul, demonstrates sophisticated literary craftsmanship in arranging this material to establish programmatic themes that will unfold throughout Luke-Acts. The chapter divides naturally into three major sections: the temptation narrative (vv. 1-13), the Nazareth synagogue episode (vv. 14-30), and initial Galilean ministry activities in Capernaum (vv. 31-44).",
+        "The temptation pericope employs the Greek term *peirazō* (πειράζω), signifying both testing and temptation, echoing Israel's wilderness experience while presenting Jesus as the faithful Son who succeeds where Israel failed. Luke's unique ordering of the temptations, concluding at the Jerusalem temple, anticipates the Gospel's distinctive geographical movement toward Jerusalem as the locus of salvation history's climax. The devil's departure \"until an opportune time\" (*achri kairou*, ἄχρι καιροῦ) foreshadows the passion narrative's renewed spiritual conflict.",
+        "The Nazareth synagogue scene constitutes perhaps the chapter's most theologically significant unit, functioning as a hermeneutical lens for understanding Jesus' entire mission. Jesus reads from Isaiah 61:1-2, notably omitting the phrase concerning divine vengeance, and declares the text's fulfillment \"today\" (*sēmeron*, σήμερον)—a term carrying particular Lukan emphasis on realized eschatology. The congregation's response trajectory from admiration to murderous rage illustrates the rejection motif that will characterize much of Jesus' ministry. His references to Elijah's ministry to the Sidonian widow and Elisha's healing of Naaman the Syrian provocatively suggest Gentile inclusion within God's salvific purposes, a theme central to Luke's theological agenda.",
+        "The Capernaum episodes demonstrate Jesus' authority (*exousia*, ἐξουσία) over demonic powers and disease, with the demons' christological confession acknowledging him as \"the Holy One of God.\" Scholarly discussion continues regarding the relationship between Luke's account and Mark's parallel material, with most contemporary scholars affirming Markan priority while recognizing Luke's distinctive redactional shaping. The chapter concludes with Jesus articulating his divine commission to proclaim the kingdom, establishing the kerygmatic foundation for all subsequent narrative development."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 4: Prophetic perspective",
+      "overview": [
+        "Luke chapter four unfolds approximately thirty years after the birth of Christ, marking the inauguration of His public ministry in the early months of what would become a three-year journey toward Calvary. This moment stands at the hinge point of redemptive history—the long-awaited Messiah steps onto the stage of human affairs, and the kingdom of God breaks into the present age with power. Within the grand arc of Scripture, we have moved from promise to fulfillment: the seed of Abraham, the son of David, the prophet greater than Moses now stands in the wilderness and in the synagogue, declaring that the ancient oracles find their terminus in His own person.",
+        "The wilderness temptation that opens this chapter recapitulates Israel's forty-year testing in the desert, yet where the nation failed repeatedly, Jesus stands firm. He is the true Israel, the faithful Son who will not live by bread alone but by every word proceeding from the Father's mouth. Satan's offer of all earthly kingdoms reveals the counterfeit path to dominion—power without the cross, glory without suffering. Christ refuses this satanic shortcut, for He knows that the throne comes only through the tree, that the crown follows the crucifixion. Here the second Adam succeeds where the first Adam fell, and in His victory He begins to reverse the curse that has held humanity captive since Eden.",
+        "The synagogue scene at Nazareth unveils the programmatic announcement of Christ's mission. Reading from Isaiah's scroll, Jesus declares the acceptable year of the Lord—jubilee language pointing to ultimate liberation. When He proclaims \"Today this Scripture is fulfilled in your hearing,\" the eschatological future crashes into the present moment. The Spirit-anointed Servant has arrived to preach good news to the poor, release to the captives, and recovery of sight to the blind. Yet His reference to Elijah sent to a Sidonian widow and Elisha cleansing a Syrian leper ignites fury, for Jesus signals that this salvation will overflow Israel's boundaries to embrace the Gentiles—a mystery the prophets glimpsed but which would unfold fully in the church age.",
+        "The demons recognize what Nazareth rejects: this is the Holy One of God. Their shrieking confession and His commanding authority demonstrate that the kingdom has invaded enemy territory. Satan's house is being plundered.",
+        "For the church dwelling between the advents, Luke four declares that Christ's ministry of liberation continues through His Spirit-filled body until He returns to complete what He began."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.55493+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

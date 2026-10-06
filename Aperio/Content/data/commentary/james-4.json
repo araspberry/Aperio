@@ -1,0 +1,56 @@
+{
+  "book": "James",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "James 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "James 4: The War Within and the Peace Beyond",
+      "overview": [
+        "James opens this chapter with a startling question that cuts to the heart of all human conflict: where do fights and quarrels come from? The spiritual reality beneath surface tension is that our desires wage war within us, and we don't have what we want because we haven't asked God for it. This is the radical diagnosis James offers—that the battleground of our struggles is often not external circumstances, but the misalignment of our own hearts with God's purposes.",
+        "The deeper tragedy James reveals is that we ask with wrong motives, intending to spend what we get on our own pleasures. It's a penetrating observation about the human condition: we bring conflict into our relationships when we're primarily concerned with satisfying ourselves. A marriage fractures when both spouses demand their own way. A friendship breaks when one person expects service without reciprocity. A church splinters when people prioritize their preferences over the body's health. The common thread running through all these situations is self-centeredness dressed up in various justifications.",
+        "But James doesn't leave us in despair. He calls us to a radical reorientation—to draw near to God, and in that drawing near, we discover that God draws near to us. Submission to God's desires gradually loosens the grip of our selfish ambitions. As we wash our hands (confess our actions) and purify our hearts (align our intentions with His), we move from being double-minded to becoming single-hearted. The peace we search for in grasping and demanding isn't found in getting more; it's found in wanting less—or rather, in wanting what God wants.",
+        "This is the invitation of James: to stop the exhausting warfare of competing desires and to find rest in alignment with God's heart. When we humble ourselves before Him, recognizing that our way hasn't worked, we discover the freedom and peace that come from letting His wisdom guide our relationships and choices.",
+        "What hidden desire might be creating conflict in your relationships right now, and what would it look like to submit that desire to God?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "James 4: Scholarly study",
+      "overview": [
+        "James chapter four continues the epistle's sustained critique of communal discord, shifting focus from the tongue's destructive power to the deeper spiritual pathologies underlying congregational conflict. Writing to Jewish Christian communities dispersed throughout the Mediterranean world, James draws extensively upon Jewish wisdom traditions while addressing concrete social tensions within early Christian assemblies. The chapter divides naturally into three movements: an analysis of conflict's origins in disordered desires (verses 1-10), a prohibition against judgmental speech (verses 11-12), and a warning against presumptuous planning (verses 13-17).",
+        "The opening rhetorical question identifies \"wars\" (*polemoi*) and \"battles\" (*machai*) among the recipients—language deliberately hyperbolic yet revealing genuine factional strife. James locates the source of such conflict not in external circumstances but in internal \"pleasures\" (*hēdonōn*), from which English derives \"hedonism.\" These desires \"wage war\" (*strateuomenōn*) in one's members, employing military imagery that ironically mirrors the communal warfare they produce. The striking accusation \"you murder\" in verse two has generated considerable scholarly debate, with some manuscripts reading \"you envy\" (*phthoneite*) rather than \"you murder\" (*phoneuete*). Whether literal, hyperbolic, or a scribal alteration, the charge intensifies the passage's moral urgency.",
+        "Verse four's address to \"adulteresses\" (*moichalides*) employs prophetic covenant-infidelity language familiar from Hosea and Jeremiah, portraying spiritual compromise as marital betrayal. The subsequent call to repentance (verses 7-10) structures ten aorist imperatives in rapid succession, echoing prophetic summons to covenant renewal. The command to \"purify hearts, you double-minded\" (*dipsychoi*) recalls James 1:8, creating literary cohesion while introducing a term possibly coined by James himself, absent from prior Greek literature.",
+        "The chapter's conclusion introduces the concept of \"sins of omission\"—knowing good yet failing to act constitutes sin. This principle, often overlooked in ethical reflection prioritizing prohibitions, emphasizes that Christian discipleship requires active righteousness, not merely avoidance of wrongdoing. James thus provides a comprehensive diagnosis of community dysfunction: misdirected desire, presumptuous autonomy, and passive neglect of known duty all fracture the solidarity essential to faithful communal life."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "James 4: Prophetic perspective",
+      "overview": [
+        "James chapter four emerges from the pen of the Lord's brother approximately fifteen to twenty years after the resurrection and ascension of Christ, making it one of the earliest New Testament documents, written around AD 45-49 to Jewish believers scattered throughout the Roman world. This epistle arrives during the infant years of the church age, that mysterious epoch between Pentecost and the Parousia when the kingdom of God advances through the Spirit-empowered witness of the redeemed community.",
+        "Within the grand redemptive narrative, James writes to those who have crossed from the old covenant shadows into new covenant realities, yet who struggle to live consistently with their transformed identity. The themes of this chapter reach backward to Eden's tragedy and forward to the consummation of all things. When James diagnoses the source of conflicts as pleasures waging war within human members, he echoes the original fracture—that primal grasping for autonomy that shattered shalom in the garden. The passions that murder and covet recapitulate Cain's violence and the tenth commandment's prohibition, demonstrating that fallen humanity remains unchanged apart from divine grace.",
+        "The stunning declaration that friendship with the world constitutes adultery against God resurrects the prophetic marriage metaphor that Hosea, Jeremiah, and Ezekiel employed against covenant-breaking Israel. James identifies the church as the true bride, bound to her divine Husband with the same exclusive loyalty demanded of ancient Israel. This typological continuity reveals that the new covenant community stands in organic relationship with the faithful remnant of old.",
+        "The promise that God gives greater grace and opposes the proud while lifting the humble carries eschatological weight. Here the great reversal announced in Mary's Magnificat finds its ethical application—the kingdom pattern wherein the exalted are brought low and the lowly raised up. This reversal, inaugurated at Christ's first advent through His humiliation and exaltation, will reach full manifestation at His return.",
+        "James's exhortation to submit to God and resist the devil assumes the decisive victory Christ accomplished through His death and resurrection. Satan remains a defeated foe whom believers may successfully oppose because the Stronger Man has bound him and plundered his house. The call to draw near to God with cleansed hands and purified hearts echoes priestly preparation language, confirming that every believer now possesses access once reserved for Levitical mediators.",
+        "For the church awaiting her Lord's return, this chapter demands humble dependence, recognizing that life itself remains a vapor held in sovereign hands until the Day all boasting ceases and God alone is exalted."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "59_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.006588+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

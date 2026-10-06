@@ -1,0 +1,58 @@
+{
+  "book": "Hebrews",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hebrews 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Hebrews 10: The Sufficiency of Christ's Sacrifice",
+      "overview": [
+        "The heart of Hebrews 10 is the stunning completeness of Jesus' work—one sacrifice, offered once, achieving what all the Old Testament offerings could never accomplish: the complete cleansing of human guilt and the permanent access of believers into God's presence.",
+        "The author opens by reminding us that the old system, with its endless repetition of sacrifices, carried within itself an admission of failure. Year after year, priest after priest, animal after animal—the very cycle testified that sin was not truly dealt with. But then came Jesus, offering his body once for all, and suddenly the whole apparatus of temporary atonement became obsolete. His work was finished in a way that ours can never be.",
+        "This is profoundly liberating news, yet Hebrews doesn't let us settle into passive comfort. Having established what Christ did, the author pivots sharply to what we must do: draw near with sincere hearts, hold fast to our confession without wavering, and spur one another toward love and good works. The sufficiency of Christ's sacrifice doesn't produce lazy faith; it produces bold, grateful obedience. We are cleansed precisely so we can approach. We have access precisely so we can worship.",
+        "The middle section of chapter 10 carries a sobering warning about rejecting this grace—about turning away from the God who has done everything for us. This isn't directed at those struggling with doubt or stumbling in weakness, but at those who willfully turn their backs. Yet even here, the tone suggests the author is trying to wake people up, not consign them to judgment.",
+        "The chapter closes with an appeal to faithfulness rooted in hope. We are called to remember those who endured, to avoid shrinking back, and to hold onto the conviction that God will bring all things to completion.",
+        "What might it look like in your life today to truly believe that Christ's work is finished, and to respond with grateful obedience rather than anxious striving?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hebrews 10: Scholarly study",
+      "overview": [
+        "The tenth chapter of Hebrews represents a theological apex in the epistle's sustained argument concerning the superiority of Christ's priestly ministry over the Levitical system. The author, whose identity remains disputed though clearly someone steeped in Hellenistic Jewish thought and Platonic categories, writes to a community tempted to revert to familiar Jewish practices under social pressure. This chapter divides naturally into two movements: a doctrinal exposition on the finality of Christ's sacrifice (verses 1–18) and a pastoral exhortation drawing ethical implications from this theology (verses 19–39).",
+        "The chapter opens with a devastating critique of Torah's sacrificial system as merely a \"shadow\" (σκιά, *skia*) of coming realities rather than the \"true form\" (εἰκών, *eikōn*) itself. This Platonic vocabulary, which the author has employed throughout, does not denigrate the old covenant as false but as preparatory and anticipatory. The annual repetition of Day of Atonement rituals demonstrated their inherent inadequacy; the author argues that effective atonement would render further sacrifice unnecessary, as the worshipper's conscience would be definitively cleansed.",
+        "Central to the author's christological argument is the citation of Psalm 40:6–8 in verses 5–7, following the Septuagint's rendering of \"a body you have prepared for me\" rather than the Hebrew's \"ears you have dug for me.\" This textual variant proves theologically productive, enabling the author to present Christ's incarnation as the divinely ordained replacement for animal sacrifice. The key term \"offering\" (προσφορά, *prosphora*) appears repeatedly, contrasting the multiple Levitical offerings with Christ's singular, unrepeatable self-gift.",
+        "The declaration in verse 14 that Christ \"has perfected\" (τετελείωκεν, *teteleiōken*) believers employs the perfect tense to emphasize completed action with ongoing results—a grammatical choice reinforcing the finality of atonement. The subsequent quotation of Jeremiah 31:33–34 concerning the new covenant's internalization of Torah and forgiveness of sins provides prophetic warrant for the author's conclusion: where genuine forgiveness exists, further sin offerings become superfluous.",
+        "The paraenetic section beginning at verse 19 translates theology into communal practice, urging perseverance through mutual encouragement while warning severely against apostasy. The reference to \"willful sin\" after receiving knowledge of truth echoes Numbers 15's distinction between inadvertent and high-handed transgression, underscoring the gravity of covenant abandonment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hebrews 10: Prophetic perspective",
+      "overview": [
+        "Hebrews chapter ten stands as a magnificent theological treatise written approximately thirty years after Christ's ascension, during the apostolic age when the Jerusalem temple still stood and its sacrificial system continued in operation. The original recipients were Jewish believers tempted to return to the familiar rhythms of Levitical worship, and this chapter thunders forth the absolute finality of Calvary's achievement.",
+        "Within the grand arc of redemption, this passage occupies the pinnacle moment of explanation—standing after the Cross and Resurrection, looking backward to interpret the entire sacrificial system from Sinai to Solomon's temple as shadow awaiting substance. The writer declares what the prophets glimpsed and the priests dimly enacted: every bull slain, every goat offered, every annual Day of Atonement ritual served merely as a recurring reminder of sin rather than its remedy. The Law possessed only \"a shadow of the good things to come\" rather than the very image of those realities.",
+        "The typological brilliance cascades through these verses. Every Levitical priest who stood daily, never sitting because his work remained perpetually unfinished, finds his antitype in Christ who \"sat down at the right hand of God\"—that posture of completed work, of eternal rest after definitive achievement. The veil of the temple, that thick curtain separating sinful humanity from the holy presence, becomes the flesh of Christ torn open at Golgotha, consecrating a \"new and living way\" into the very throne room of God. What Aaron entered trembling once yearly, believers now approach boldly through the blood of Jesus.",
+        "The prophetic thread reaching back to Jeremiah's promise of the new covenant finds its fulfillment proclaimed here: the Law written on hearts, sins remembered no more, a perfect conscience cleansed from dead works. What Jeremiah announced six centuries before Christ, what the exiles longed for in Babylon, what Second Temple Judaism awaited—all converges in the singular offering of Christ's body.",
+        "Yet eschatological tension remains. The writer speaks of those who see \"the Day approaching,\" that final consummation when the seated Christ shall rise to judge and reign. Between His first appearing to put away sin and His second appearing \"apart from sin for salvation,\" the church lives in confident expectation.",
+        "The eternal significance resounds: no further sacrifice exists for sin, no improvement upon perfection can be conceived, no repetition of Calvary is needed or possible. Those sanctified by this once-for-all offering now persevere in faith, assembling together, stirring one another toward love, awaiting the promise—for \"He who is coming will come and will not delay.\""
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "58_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.988123+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Amos",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 6: The Peril of Comfortable Complacency",
+      "overview": [
+        "The heart of this passage is a searing indictment of spiritual sleepiness—a warning that comfort and ease, when they become our primary pursuits, blind us to the judgment God brings on injustice and idolatry.",
+        "Amos trains his prophetic eye on the wealthy elite of Israel, those reclining on beds of ivory, eating choice lambs and calves, composing songs and drinking wine by the bowl. On the surface, these are not obviously sinful activities. Yet the prophet sees something far more dangerous than overt rebellion: he sees a people at ease in Zion, completely oblivious to the \"ruin of Joseph\" happening around them. Their prosperity has become a narcotic. They have insulated themselves so thoroughly from reality—from the suffering of the poor, from the corruption of their courts, from the ways they have abandoned covenant faithfulness—that they can no longer hear God's voice calling them to repentance.",
+        "This is the peculiar danger of comfort. It doesn't announce itself as sin; it whispers that everything is fine. The wealthy loungers of Israel were not plotting evil or mocking God openly. They were simply living for the next pleasure, the next feast, the next song, while a nation rotted from within. Their ease became complicity.",
+        "God promises through Amos that such complacency will not stand. The very luxuries they cherish will be stripped away. Their fortified cities will be breached. They will go into exile.",
+        "The passage confronts us where we live: in a culture that constantly invites us into ease and distraction. It asks whether we have grown numb to injustice, deaf to the cries of the vulnerable, comfortable enough to forget that we are called to seek justice and love mercy. Spiritual alertness requires us to resist the morphine of comfort and stay awake to what God is doing.",
+        "What am I genuinely comfortable about that might be desensitizing me to injustice or spiritual complacency?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 6: Scholarly study",
+      "overview": [
+        "Amos chapter six continues the prophet's devastating critique of Israelite society during the prosperous reign of Jeroboam II (circa 786–746 BCE), a period marked by territorial expansion and economic flourishing that masked profound social decay. Writing as a shepherd and dresser of sycamore figs from Tekoa in Judah, Amos directed his oracles against the northern kingdom, though verse one notably includes \"Zion\" alongside \"Samaria,\" suggesting the corruption he identified transcended political boundaries.",
+        "The chapter opens with a pronouncement of woe against those who are \"at ease\" (שַׁאֲנַנִּים, *sha'anannim*) and \"secure\" (בֹּטְחִים, *botchim*), terms that in this context carry pejorative connotations of complacent self-assurance rather than legitimate trust in divine protection. The ruling elite referenced their position as \"notable men of the foremost nation,\" revealing a theology of presumption that equated covenant election with unconditional security—precisely the misunderstanding Amos sought to dismantle.",
+        "Verses 4–6 present a vivid catalogue of aristocratic indulgence: ivory beds, choice lambs, improvised music, wine consumed from sacrificial bowls (*mizraqim*), and luxurious anointing oils. The musical reference—singing idle songs \"like David\"—contains bitter irony, as these elites fancied themselves artistic sophisticates while remaining utterly indifferent to \"the ruin of Joseph.\" This phrase (*שֵׁבֶר יוֹסֵף*, *shever Yosef*) denotes the fracturing or breaking of the covenant community, a collapse the comfortable classes refused to acknowledge.",
+        "The divine response in verses 8–14 invokes YHWH's oath sworn by himself, introducing comprehensive judgment through military devastation. The obscure exchange in verses 9–10 regarding corpse removal during plague has generated considerable scholarly discussion, with some interpreting it as depicting conditions so catastrophic that proper mourning becomes impossible and even invoking YHWH's name proves dangerous.",
+        "The chapter concludes with rhetorical questions about horses running on rocks and oxen plowing the sea—absurdities paralleling Israel's perversion of justice (*mishpat*) into poison and righteousness into wormwood. This inversion of the moral order rendered Israel's military pride meaningless, as the coming nation would afflict them from Lebo-hamath to the Arabah, encompassing the entire territorial extent of Jeroboam's realm."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 6: Prophetic perspective",
+      "overview": [
+        "Amos chapter six thunders forth from approximately 760 BC, during the reign of Jeroboam II over the northern kingdom of Israel, roughly three decades before Assyria would sweep down like a flood to carry the ten tribes into exile. This prophecy stands in the arc of redemptive history at the twilight of the divided kingdom era, when God's patience with covenant unfaithfulness was reaching its limit. The warnings spoken here were fulfilled with devastating precision in 722 BC when Samaria fell to Assyrian siege.",
+        "The prophet's opening cry against those \"at ease in Zion\" and \"secure in the mountain of Samaria\" strikes at the deadly spiritual condition of presumption. Israel's leaders reclined on ivory beds, feasted on choice lambs, invented musical instruments for their pleasure, and anointed themselves with the finest oils—yet they felt no grief over the ruin of Joseph. This portrait of self-indulgent complacency while covenant faithfulness crumbles reveals a pattern that resurfaces throughout Scripture: the wealthy and powerful lulled into false security by temporal prosperity, deaf to the approaching footsteps of divine judgment.",
+        "The reference to Calneh, Hamath, and Gath carries prophetic weight. These once-mighty cities had already fallen or would soon fall, serving as warning signs that Israel willfully ignored. The rhetorical question cuts deep: Are you better than these kingdoms? Is your territory greater than theirs? National privilege offers no protection when righteousness is perverted into wormwood and the fruit of justice becomes poison.",
+        "Here emerges a typological warning for every generation of God's people. The complacent elite of Samaria prefigure the Laodicean church—rich, increased with goods, needing nothing, yet spiritually wretched and blind. The feasting that ignores impending disaster echoes through history to those who cry \"peace and safety\" when sudden destruction approaches.",
+        "The Lord's oath sworn by Himself carries ultimate gravity. He abhors the pride of Jacob and his strongholds. A nation raised up would afflict Israel from Hamath to the Arabah—a prophecy Assyria would fulfill completely. The great house struck into fragments and the small house into splinters speak of total societal collapse when God arises to judge.",
+        "For the church dwelling between Christ's advents, Amos six sounds an eternal alarm against spiritual presumption. Prosperity divorced from justice, worship divorced from righteousness, security divorced from humility—these remain the marks of communities ripe for divine visitation. The God who swore judgment against ancient Samaria remains unchanged, calling His people to grieve over sin and await His coming with holy vigilance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.308367+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

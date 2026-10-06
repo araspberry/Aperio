@@ -1,0 +1,56 @@
+{
+  "book": "Revelation",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 3: The Call to Authentic Faith",
+      "overview": [
+        "The churches of Sardis, Philadelphia, and Laodicea receive a searching word from the risen Christ—one that pierces beyond reputation to reveal what truly lies in the heart. This chapter holds up a mirror to the modern believer, asking whether our faith has become merely cosmetic or remains genuinely alive.",
+        "To Sardis, Christ speaks with piercing honesty: \"You have a reputation of being alive, but you are dead.\" How sobering. A church can look successful from the outside—full pews, budgets intact, programs running—while the pulse of genuine faith grows cold. Christ calls them to \"wake up\" and \"remember what you have received,\" inviting them back to the vibrant encounter with Jesus that first gave them life. This is the danger that faces any long-established faith community: the substitution of religious routine for living relationship.",
+        "Philadelphia, by contrast, receives only affirmation. This little, unimpressive church had \"little strength,\" yet remained faithful. Christ promises them an open door and protection in tribulation. There is profound encouragement here: what matters is not size or influence, but faithfulness. God sees the quiet persistence of those who keep their faith alive despite opposition and obscurity.",
+        "Then comes Laodicea—lukewarm, self-satisfied, materiially comfortable yet spiritually impoverished. \"You say, 'I am rich; I have acquired wealth and do not need a thing.' But you do not realize that you are wretched, pitiful, poor, blind and naked.\" This wealthy city thought itself in need of nothing, yet lacked the one thing that mattered: genuine relationship with Christ. Their complacency had become a prison.",
+        "Each message ends with Christ's tender invitation: \"If anyone hears my voice and opens the door, I will come in and eat with them, and they with me.\" Even correction flows from the heart of one who desires intimacy.",
+        "Where is your faith truly alive? What reputation have you built that Christ might be calling you to test against reality?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 3: Scholarly study",
+      "overview": [
+        "Revelation 3 continues the epistolary section addressed to the seven churches of Asia Minor, completing the prophetic correspondence that began in chapter 2. These letters, dictated by the risen Christ through John during his Patmos exile (ca. 95 CE), follow a consistent literary pattern: identification of the divine speaker through christological titles, commendation or criticism of the congregation, exhortation, and eschatological promise to \"the one who conquers.\" The three churches addressed here—Sardis, Philadelphia, and Laodicea—represent distinct spiritual conditions within late first-century Christianity under Domitian's reign.",
+        "The letter to Sardis opens with Christ's self-identification as possessing \"the seven spirits of God,\" an expression denoting the fullness of the Holy Spirit, and introduces the jarring assessment that despite their reputation for vitality, they are spiritually dead (*nekros*). The command to \"wake up\" (*grēgoreuō*) carries particular irony given Sardis's historical vulnerability; the acropolis had twice fallen to enemies due to insufficient watchfulness. The reference to white garments (*himatia leuka*) connects purity with eschatological reward, a symbol deeply resonant in Johannine apocalyptic imagery.",
+        "Philadelphia receives unqualified commendation, with Christ depicted as holding \"the key of David\"—an allusion to Isaiah 22:22 establishing messianic authority over entrance to God's kingdom. The promise of an \"open door\" (*thyra ēneōgmenē*) likely references missionary opportunity, though some interpreters see salvific access to divine presence. The identification of opponents as a \"synagogue of Satan\" reflects tensions between Christ-followers and local Jewish communities who challenged Christian claims to covenant inheritance.",
+        "The Laodicean correspondence contains the famous rebuke of spiritual lukewarmness (*chliaros*), imagery drawn from the city's tepid water supply, unpleasantly contrasted with neighboring Hierapolis's hot springs and Colossae's cold mountain waters. Christ's self-description as \"the Amen, the faithful and true witness\" emphasizes reliability against Laodicean self-deception regarding their wealth. The invitation to dine together (*deipnēsō*) evokes intimate fellowship and possibly eucharistic overtones, culminating in the remarkable promise of shared enthronement—believers participating in Christ's royal session, a theme reaching fulfillment in Revelation's concluding visions."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 3: Prophetic perspective",
+      "overview": [
+        "Revelation chapter three was penned around 95 AD, near the close of the apostolic age, when the risen and glorified Christ dictated seven letters to His servant John on the island of Patmos. The church had been established for roughly six decades, persecution under Emperor Domitian was intensifying, and believers throughout Asia Minor faced the dual threats of external oppression and internal compromise. Within the grand arc of redemption, this passage stands firmly in the Church Age—that extended season between Christ's ascension and His return when the Spirit gathers a people from every nation, sanctifying them through Word and sacrament while they await the blessed hope.",
+        "The three churches addressed here—Sardis, Philadelphia, and Laodicea—form a prophetic portrait of conditions that recur throughout church history until the end. Sardis possessed a name that suggested vitality yet harbored spiritual death, a solemn warning that reputation without regeneration deceives no one who walks among the lampstands. Christ's command to \"wake up and strengthen what remains\" echoes the ancient prophetic summons to Israel, calling a remnant to genuine faith amid corporate apostasy. Those few in Sardis who had not soiled their garments prefigure the faithful remnant God has preserved in every generation—the seven thousand who have not bowed to Baal.",
+        "Philadelphia receives no rebuke, only commendation and promise. The \"open door\" set before this church typifies the missionary vocation of the entire body of Christ, empowered not by human strength but by fidelity to the Word. Christ's self-identification as the One holding David's key establishes His royal authority over salvation history; He alone determines entrance into the messianic kingdom. The promise that overcomers will become pillars in God's temple points forward to the New Jerusalem, where the dwelling of God will be with humanity forever.",
+        "Laodicea's lukewarmness provokes the most severe response: threatened expulsion from Christ's presence. Yet even here, mercy extends its hand. The Lord stands knocking, offering true riches, garments of righteousness, and healing sight—all purchased not with Laodicean gold but with His own blood. This tender appeal prefigures the final gospel invitation extended until the door of grace closes at His appearing.",
+        "For the church living between the advents, these letters function as a mirror and a mandate. Christ walks among His people now, knowing their works, refining their faith, and preparing a bride without spot for the marriage supper of the Lamb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.058909+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

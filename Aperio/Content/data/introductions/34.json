@@ -1,0 +1,144 @@
+{
+  "book": "Habakkuk",
+  "bookIndex": 34,
+  "status": "Editorial draft",
+  "title": "Faith that brings its questions to God",
+  "subtitle": "A dialogue about violence becomes a patient, unsentimental prayer of trust.",
+  "atAGlance": {
+    "genre": "Prophetic complaint and response, judgment sayings, and a concluding prayer-song",
+    "setting": "Judah as Babylonian power rises, probably near the late seventh or early sixth century BC",
+    "composition": "No reign or precise date is supplied; the relation of the final hymn to the dialogues is debated",
+    "audience": "A community troubled by injustice and the apparent success of violent power"
+  },
+  "sections": [
+    {
+      "title": "A prophet asks rather than simply announces",
+      "paragraphs": [
+        "Habakkuk is introduced as a prophet, but the book provides no family history or royal date. Its reference to the Chaldeans, the Babylonians, places its argument against the background of their expanding power. A setting near the end of the seventh or beginning of the sixth century BC is commonly proposed. The exact occasion remains uncertain; the book is not a dated report of every stage of Judah’s crisis.",
+        "Its distinctive shape is a dialogue. The prophet brings a complaint, receives an answer, and then asks a harder question about that answer. A series of sayings against an oppressive power follows, and chapter 3 becomes prayer and song. Scholars debate the hymn’s literary history, but in the received book it transforms the questions into a sustained response of worship and endurance."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "When justice appears unable to function",
+      "paragraphs": [
+        "The first complaint begins with duration: how long can violence continue without intervention? Habakkuk sees destruction, conflict, and a legal order that does not reliably protect the righteous. The problem is not merely that private life feels disappointing. The mechanisms through which a community should distinguish right from wrong appear distorted.",
+        "This is speech addressed to God rather than speech about God at a distance. The prophet’s protest assumes that justice matters to the one he is questioning. That assumption makes divine silence more troubling, not less. Readers should allow the opening its force before moving to the ending. The book gives no instruction to regard the desire for an answer as evidence of weak faith."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The answer creates a deeper problem",
+      "paragraphs": [
+        "The announcement that Babylon will rise is terrifying. The invaders are portrayed as swift, acquisitive, and confident in their own strength. Their advance may answer the question of whether wrongdoing will have consequences, but it immediately raises another: how can a more violent power become the instrument through which injustice is confronted?",
+        "Habakkuk presses that difficulty. His fishing imagery describes human beings treated as catches, gathered by an empire that then honors the instruments of its success. The critique exposes the reduction of persons to spoil. The prophet does not resolve the problem by declaring conquest good simply because God can act within history. He continues to question the relationship between divine holiness and the violence he has been told to expect."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Waiting without surrendering discernment",
+      "paragraphs": [
+        "At the opening of chapter 2, Habakkuk takes the position of a watchman awaiting a reply. The response emphasizes a vision that must be written and awaited. Delay does not make it meaningless. The contrast between the arrogant person and the righteous person living by faith or faithfulness joins trust to a durable posture of life under pressure.",
+        "That line later becomes important in Romans, Galatians, and Hebrews, each with its own argument. Within Habakkuk, it stands amid the problem of oppression and the need to remain faithful while vindication has not yet arrived. It should not be isolated from patient endurance or reduced to a promise that confidence will produce immediate success. The prophet is learning how to live within an unresolved interval."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The empire’s achievements testify against it",
+      "paragraphs": [
+        "The woes of chapter 2 examine wealth accumulated through seizure, security built through unjust gain, cities constructed through bloodshed, humiliating violence, and trust in manufactured gods. Each exposes a form of apparent achievement that contains its own accusation. Possessions taken from others can become evidence; walls and beams seem to speak against those who built through exploitation.",
+        "The movement toward a world filled with knowledge of God’s glory and the call for silence before the divine presence challenge the empire’s claim to define reality. Noise, display, and enforced admiration do not establish moral legitimacy. The book’s answer includes the assurance that predatory success is not permanent, while refusing to make the prophet’s waiting painless or intellectually simple."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A song that does not deny an empty field",
+      "paragraphs": [
+        "Chapter 3 recalls divine action through powerful images of light, trembling earth, waters, and deliverance. The prayer asks for mercy within judgment. The speaker trembles rather than becoming untouched by fear. Worship here does not erase the bodily and emotional effects of facing catastrophe; it gives them a place within remembered dependence on God.",
+        "The ending imagines the failure of the fig tree, vine, olive, fields, flock, and herd. These are the means of ordinary survival, not decorative symbols of minor inconvenience. Joy is voiced with those losses still in view. Habakkuk’s movement is therefore not from honest questioning to denial, but from protest through listening to a difficult trust. Read the three chapters together and notice that the final prayer retains the seriousness of the first complaint."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Two complaints and a disturbing answer",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Violence within Judah is met by the prospect of Babylonian conquest."
+    },
+    {
+      "label": "Waiting and the exposure of tyranny",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "The answer calls for faithfulness and announces woes against predatory power."
+    },
+    {
+      "label": "A prayer of trembling trust",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Remembered divine action sustains hope even amid total material loss."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Honest questioning",
+      "description": "The demand for justice can take the form of direct prayer and protest."
+    },
+    {
+      "name": "Faithful endurance",
+      "description": "Trust persists during the interval before wrong is finally answered."
+    },
+    {
+      "name": "Limits of violent power",
+      "description": "Plunder and domination cannot provide a lasting foundation for life."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Late seventh or early sixth century BC; approximate",
+    "context": "Judah facing the rise of Babylon",
+    "note": "The book names the Chaldeans but supplies no exact regnal date; the hymn is not a later event on a chronology."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "divided-kingdom",
+      "label": "Judah facing the rise of Babylon",
+      "dateLabel": "Late seventh or early sixth century BC; approximate",
+      "note": "The book names the Chaldeans but supplies no exact regnal date; the hymn is not a later event on a chronology."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Habakkuk, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Habakkuk",
+      "url": "https://bible.usccb.org/bible/habakkuk/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 18",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-18"
+    }
+  ]
+}

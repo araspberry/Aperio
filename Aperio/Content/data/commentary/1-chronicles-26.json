@@ -1,0 +1,57 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Chronicles 26: Faithful Servants in Hidden Places",
+      "overview": [
+        "This chapter reveals that the God who deserves our highest praise also honors the faithful work done far from the spotlight—the doorkeepers, treasurers, and administrators whose names are recorded not for earthly fame but for eternal remembrance.",
+        "The chronicler catalogs the Levitical gatekeepers and their assignments with remarkable care, suggesting that every role in God's house matters. Obed-edom and his descendants, along with others, stood watch over the temple entrances. These were not glamorous positions. They involved routine labor, early mornings, thankless vigilance, and the constant work of controlling access to sacred space. Yet the text notes that Obed-edom was \"blessed by the Lord\" and his household prospered, indicating that faithfulness in obscure work carries divine favor.",
+        "The passage also mentions those responsible for treasuries and sacred articles. Shelomith and his relatives guarded the dedicated gifts brought to the Lord's house—wealth that could have tempted corruption, yet these men maintained integrity. Their names are written down because their trustworthiness was precious to God and to His community.",
+        "This speaks directly to how we understand vocation and calling in our own lives. Many of us work in roles that feel invisible—parenting, administrative work, maintenance, caregiving, behind-the-scenes ministry. We may wonder if our faithfulness truly matters when no one notices or applauds. First Chronicles 26 whispers a tender truth: your work is registered in heaven. The doorkeeper, the treasurer, the faithful volunteer—all are remembered and blessed by God.",
+        "God looks not primarily at the visibility of our work but at the integrity and love with which we do it. When we serve faithfully in unglamorous roles, trusting that He sees, we participate in something sacred. Our names, like these ancient Levites, are known to Him.",
+        "What faithful, hidden work has God placed in your hands? How might seeing it as sacred service transform how you approach it today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 26: Scholarly study",
+      "overview": [
+        "First Chronicles 26 continues the Chronicler's detailed account of David's organizational preparations for the temple, focusing on the gatekeepers and treasurers whose duties would sustain Israel's worship long after David's death. This administrative material, often overlooked by modern readers, held profound theological significance for the post-exilic community to whom Chronicles was addressed, demonstrating that proper worship required not only priests and musicians but an entire infrastructure of dedicated servants maintaining sacred boundaries and resources.",
+        "The chapter opens with the gatekeepers (*šōʿărîm*), descendants of Korah and Merari who controlled access to the sanctuary. The term derives from *šaʿar* (gate), emphasizing their role as guardians of sacred thresholds. Obed-Edom's prominent placement among these Levitical families connects to his earlier role housing the ark, his blessing now institutionalized through his sons' service. The distribution of gatekeepers to the four cardinal directions—east, north, south, and west—reflects ancient Near Eastern concepts of sacred space requiring comprehensive protection. The eastern gate, assigned the largest contingent, held special honor as the main entrance facing sunrise.",
+        "The Hebrew *ʾōṣārôt* (treasuries) appears throughout the second major section, designating both the storage facilities and their contents. These treasuries held dedicated items (*qŏdāšîm*) including war spoils consecrated by David, Samuel, and military commanders. The Chronicler traces these dedications through Israel's history, emphasizing continuity between past victories and present worship resources. The administrative terminology reveals sophisticated organizational structures: Shebuel oversees general treasuries while Shelomith manages dedicated gifts, creating accountability systems for sacred wealth.",
+        "The chapter concludes with officials serving \"outside duties\" (*hammělaʾkâ haḥîṣônâ*)—judges and administrators connecting temple operations to broader Israelite society. This expansion beyond cultic functions demonstrates the Chronicler's vision of comprehensive theocratic order radiating outward from the sanctuary.",
+        "Scholars debate whether these lists reflect historical Davidic arrangements or project post-exilic structures backward. The Chronicler's theological purpose, however, remains clear: legitimate worship requires ordered service, faithful stewardship of resources, and clear boundaries between sacred and common. For the restoration community rebuilding both temple and identity, such administrative details provided blueprints for reconstituting authentic Israelite worship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 26: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds during the final years of David's reign, approximately one thousand years before Christ, as the aging king organizes the temple service his son Solomon will inaugurate. Though the temple itself remains unbuilt, David acts as prophet and administrator, establishing by divine revelation the ordered worship that will mark Israel's golden age. We stand here at the threshold of the kingdom's zenith, that brief season when Israel most fully embodied—however imperfectly—the theocratic ideal of God dwelling among His people under a Davidic king.",
+        "Within the grand redemptive arc, this passage belongs to the Kingdom era, that crucial epoch between the chaos of the judges and the catastrophe of exile. David's meticulous organization of gatekeepers and treasurers reveals something profound: access to God's presence requires mediation, and the holy things of God demand consecration. The gatekeepers of Korah's line stand as living testimony to grace, for their ancestor perished in rebellion, yet his descendants now guard the very threshold of divine presence. Here mercy triumphs over judgment, foreshadowing how those once far off would be brought near.",
+        "The gatekeepers themselves function as types of Christ, who declared Himself the door through whom sheep enter and find pasture. These Levites stationed at north, south, east, and west portals ensured that nothing unclean entered the sacred precincts—a shadow of how Christ, the true Gatekeeper, opens to His own and shuts against the unholy. The treasurers guarding dedicated things from David's wars and Samuel's consecrations point forward to the unsearchable riches of Christ, the treasury of wisdom and knowledge hidden in Him, spoils of His victory over sin and death now administered for His people's benefit.",
+        "The mention of Chenaniah and his sons appointed for \"outside duties\" over Israel as officers and judges reveals that sacred and civil functions remained united under theocratic administration. This integration awaits its ultimate fulfillment when Christ returns as both Priest and King, when the distinction between sacred and secular dissolves in the light of His manifest reign.",
+        "For the church dwelling between advents, this passage speaks to our stewardship of holy things. We guard the gospel, administer the mysteries, and await the day when shadow gives way to substance. The earthly temple required gatekeepers; the heavenly needs none, for the Lamb Himself is both Gate and Glory, and nothing unclean shall ever enter there."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.749418+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Isaiah",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 5: The Longing Heart of God",
+      "overview": [
+        "Isaiah 5 opens a window into the heart of a God whose love has been rejected and whose vineyard has produced only bitter fruit. This is not a chapter of distant judgment but an intimate portrayal of divine disappointment—the sorrow of a gardener who has done everything right only to find his beloved vineyard overrun with weeds.",
+        "The passage begins with an almost mournful song: God planted a vineyard with meticulous care, cleared the stones, planted choice vines, and built a watchtower. Every preparation spoke of attentive love. Yet the vineyard produced wild grapes—small, bitter fruit that could not be eaten. God's people had been chosen, protected, and nurtured, yet they had become hardened to His word and resistant to His will.",
+        "What follows in Isaiah 5 are six woes pronounced against specific sins: greed and exploitation, drunkenness and revelry, arrogance and self-justification, moral confusion, and pride. But beneath each woe lies a deeper diagnosis: Israel's spiritual blindness. They had forgotten whom they belonged to and what they were meant to become. They pursued wealth without justice, pleasure without reverence, and power without humility.",
+        "The profound invitation in this chapter is to examine our own hearts with honesty. Do we, too, sometimes produce bitter fruit despite God's generous cultivation of our lives? Have we become comfortable with injustice, separated our faith from our work, or allowed our hearts to harden toward those we're called to love?",
+        "Yet even here, in this chapter of lament, God does not withdraw His presence. He keeps speaking. He keeps calling. He keeps hoping His people will turn around and bear good fruit—fruit that reflects the character of the One who planted us.",
+        "Where have you become hardened to God's word? What bitter fruit might you be producing, and what would it look like to be replanted in His grace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 5: Scholarly study",
+      "overview": [
+        "Isaiah 5 presents one of the most artistically refined prophetic compositions in the Hebrew Bible, combining parabolic narrative, legal rhetoric, and prophetic oracle into a devastating critique of eighth-century Judean society. The chapter divides naturally into two major sections: the Song of the Vineyard (vv. 1–7) and a series of woe oracles (vv. 8–30), both likely originating during Isaiah's early ministry under Uzziah or Jotham, before the Syro-Ephraimite crisis fundamentally altered Judah's political landscape.",
+        "The vineyard song employs the Hebrew term *kerem* (vineyard), a symbol laden with covenantal significance throughout the prophetic corpus. Isaiah introduces himself as singing on behalf of his \"beloved\" (*yedidi*), deliberately evoking the language of love poetry to create initial ambiguity about the song's subject. The vineyard's planting on a \"horn\" or fertile hillside (*qeren ben-shamen*) emphasizes the exceptional care lavished upon it, making its production of wild grapes (*be'ushim*) rather than cultivated fruit (*'anavim*) all the more inexplicable and culpable. The juridical appeal in verses 3–4 draws hearers into rendering judgment against themselves before the identification in verse 7 reveals Israel and Judah as the unfruitful vineyard. The climactic wordplay—expecting *mishpat* (justice) but finding *mispach* (bloodshed), seeking *tsedaqah* (righteousness) but hearing *tse'aqah* (outcry)—represents Hebrew poetry at its most rhetorically powerful.",
+        "The subsequent woe oracles (*hoy*) target specific social sins: land accumulation that dispossesses peasant farmers, excessive consumption, moral inversion, and judicial corruption. These pronouncements reflect the socioeconomic disruptions characteristic of Israelite society during the prosperous but inequitable reigns preceding Assyrian intervention. The agricultural imagery of verses 1–7 finds its counterpart in the cosmic and military imagery concluding the chapter, where YHWH summons distant nations as instruments of judgment.",
+        "Scholarly debate continues regarding the chapter's compositional unity, with some viewing the woe oracles as originally independent units secondarily attached to the vineyard song. However, the thematic coherence between failed fruitfulness and specific covenant violations suggests intentional arrangement. Within the broader Isaianic structure, chapter 5 functions as the culmination of the opening indictment begun in chapter 1, preparing readers for the throne-room vision and prophetic commission in chapter 6."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 5: Prophetic perspective",
+      "overview": [
+        "Isaiah chapter five stands as a divine oracle delivered approximately seven centuries before the incarnation of Christ, during the reign of the Judean kings in a period when both Israel and Judah had grown prosperous yet spiritually corrupt. This prophecy emerges in the era following Solomon's golden age, when the covenant people had long possessed the land of promise yet had turned from the God who planted them there. Within the grand narrative of redemption, this passage occupies the Kingdom period—that stretch of history when God's people, blessed with land, temple, and throne, were squandering their inheritance and hastening toward the coming Exile.",
+        "The song of the vineyard opens with tender imagery of divine husbandry. The Lord appears as a beloved farmer who cleared stones, planted choice vines, built a watchtower, and hewed a winepress, expecting sweet grapes but finding only wild, worthless fruit. This vineyard typology runs like a scarlet thread through Scripture, finding its fulfillment in Christ's declaration, \"I am the true vine.\" Where Israel failed to produce righteousness, Jesus stands as the faithful Israel, the fruitful branch who yields perfect obedience. The tower and winepress point forward to the cross itself, where the true vine was crushed and divine judgment pressed out salvation for the nations.",
+        "The six woes that thunder through this chapter pronounce covenant curses upon greed, drunkenness, moral inversion, and pride. Those who call evil good and good evil stand accused before heaven's tribunal. These woes find their prophetic counterpart in Christ's denunciations of the Pharisees, revealing that the same spiritual blindness that plagued eighth-century Judah persisted into the days of Messiah's appearing.",
+        "The chapter closes with terrifying imagery of nations summoned from afar, armies that neither stumble nor sleep, lions roaring over prey. This found initial fulfillment in Assyria's devastation of Israel and later in Babylon's conquest of Judah. Yet the eschatological horizon extends further still—toward that final ingathering of nations for judgment when Christ returns.",
+        "For the church dwelling between advents, Isaiah five issues both warning and comfort. Believers are now branches grafted into the true vine, called to bear fruit that glorifies the Father. The same God who uprooted unfaithful Israel will purify His church, ensuring that when the great Vinedresser comes for harvest, He will find a people prepared, fruitful, and faithful."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.728625+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

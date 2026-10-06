@@ -1,0 +1,64 @@
+{
+  "book": "2 Kings",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Kings 8 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "2 Kings 8 · Scripture",
+      "url": "https://biblehub.com/bsb/2_kings/8.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "2 Kings 8: The Faithfulness of God Through Shifting Kingdoms",
+      "overview": [
+        "This chapter reveals a God whose purposes remain unshaken even as earthly thrones crumble and change hands—a comfort for those living through seasons of uncertainty and upheaval.",
+        "The opening story of the Shunnamite woman demonstrates that God never forgets those who show kindness to His servants. Elisha had promised her a son, and though years passed, God honored both the promise and the woman's faithfulness. She lost her son to death, yet through Elisha's intercession, received him back alive. This resurrection narrative whispers to us that God sees our hidden acts of devotion and holds space in His memory for our deepest longings.",
+        "As the chapter unfolds, we witness Elisha's influence extending into political spheres. He guides the choice of Syria's next king through Hazael, and later orchestrates the anointing of Jehu as Israel's king. These accounts can seem distant, yet they illustrate a profound truth: God works through ordinary people in extraordinary ways, sometimes behind the scenes, sometimes in the open. Our small faithfulness in one season may position us for influence in another.",
+        "The narrative also captures the complexity of human nature through Hazael, who asks if he will become king, then commits terrible acts once he does. Elisha weeps at the sight of him, foreseeing the suffering this man will cause. This teaches us that awareness of future harm doesn't always grant us the power to prevent it—a humbling reality that reminds us of our limitations and the need to trust God's ultimate sovereignty.",
+        "Throughout these transitions of power and promise, the underlying message remains constant: God's kingdom cannot be shaken by the rise and fall of human rulers. Whether a Shunnamite woman clings to a dead son or a prophet observes the coronation of a new king, the same God orchestrates redemption according to His will.",
+        "What hidden faithfulness in your life might God be preparing to honor in ways you cannot yet imagine?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Kings 8: Scholarly study",
+      "overview": [
+        "The eighth chapter of 2 Kings presents a carefully constructed narrative sequence that transitions between the prophetic ministry of Elisha and the broader political developments affecting both Israel and Judah, demonstrating the Deuteronomistic historian's characteristic interweaving of prophetic activity with royal succession accounts. The chapter divides into four distinct pericopes: the Shunammite woman's land restoration (vv. 1-6), Elisha's encounter with Hazael in Damascus (vv. 7-15), the reign of Jehoram of Judah (vv. 16-24), and the accession of Ahaziah of Judah (vv. 25-29).",
+        "The opening narrative resumes the Shunammite woman's story from chapter 4, revealing that Elisha had warned her of an impending seven-year famine, prompting her sojourn in Philistine territory. The term *gûr* (גּוּר), rendered \"sojourn,\" carries technical significance denoting temporary residence without full property rights, explaining her vulnerability upon return. Her appeal to the king for restoration of her *bayit* (בַּיִת)—encompassing both household and estate—coincides providentially with Gehazi's recounting of Elisha's miracles, resulting in royal intervention that exceeds her petition by including seven years of agricultural revenue.",
+        "The Damascus episode presents significant theological and ethical complexity. Ben-Hadad's inquiry through Hazael employs the verb *ḥāyâ* (חָיָה), \"to live/recover,\" which Elisha's paradoxical response exploits: the king could recover from illness yet will certainly die. Elisha's weeping and Hazael's subsequent assassination raise questions about prophetic foreknowledge and human agency that commentators have long debated. The text neither condemns nor endorses Hazael's regicide explicitly, though it fulfills the divine commission given to Elijah at Horeb.",
+        "The Judahite royal notices introduce synchronistic dating formulas typical of the Deuteronomistic framework while documenting the theological deterioration resulting from intermarriage with Ahab's house. Jehoram's marriage to Athaliah imports northern apostasy into the Davidic line, yet the narrator emphasizes Yahweh's covenant faithfulness, refusing to destroy Judah \"for David his servant's sake.\" The term *nîr* (נִיר), traditionally rendered \"lamp,\" may alternatively signify \"dominion\" or \"yoke,\" symbolizing dynastic continuity. This period establishes the political alignments and familial connections that will culminate in Jehu's revolution, demonstrating how covenant promises and royal failures remain intertwined in the unfolding history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Kings 8: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 850 years before the incarnation of Christ, during the divided monarchy period when Elisha ministered as prophet in the northern kingdom of Israel. The events recorded here occur against the backdrop of ongoing tension between the house of Ahab and the purposes of God, situated in that long stretch of redemptive history between the establishment of David's throne and the coming exile—a time when Israel repeatedly tested divine patience while God nevertheless preserved a remnant and advanced His covenant purposes toward their messianic fulfillment.",
+        "The chapter opens with Elisha instructing the Shunammite woman whose son he had raised from death to sojourn in Philistia during a seven-year famine. Upon her return, she appeals to the king for restoration of her property at the precise moment Gehazi recounts Elisha's miracle to the throne. This stunning providence reveals God as the sovereign orchestrator of history who arranges circumstances to vindicate His servants and provide for those who trust Him. The woman who hosted the prophet, who witnessed resurrection power, now experiences providential timing that borders on the miraculous—a pattern that whispers of how God will providentially arrange all history toward the moment when another widow's son, the Son of Man Himself, will emerge from death.",
+        "Elisha's encounter with Hazael of Syria drips with prophetic weight. The prophet weeps knowing the brutal atrocities Hazael will inflict upon Israel—dashing infants, ripping open pregnant women. Here stands the mystery of divine sovereignty: God reveals to Hazael his future throne while simultaneously grieving the suffering this will bring upon covenant people. Hazael becomes an instrument of judgment, a foreshadowing of how God repeatedly uses pagan nations to discipline Israel, pointing toward that ultimate day when divine judgment will fall not upon a nation but upon the Lamb who bears the sins of many.",
+        "The chapter's conclusion traces the deteriorating Davidic line through Jehoram and Ahaziah of Judah, both corrupted by alliance with Ahab's house through Athaliah. Yet even here, amid spiritual darkness and dynastic compromise, the narrator reminds us that God preserved Judah \"for David's sake\"—the lamp of messianic promise burning low but never extinguished.",
+        "For the church awaiting Christ's return, this chapter declares that God's providential hand never releases the reins of history. Famines come and go, wicked kings rise and fall, yet the covenant promise advances inexorably toward the Son of David who will reign forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "12_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.620949+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-016"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

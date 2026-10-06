@@ -1,0 +1,58 @@
+{
+  "book": "Luke",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 9: Following Jesus Through Surrender and Sacrifice",
+      "overview": [
+        "The spiritual heart of Luke 9 is the costly call to radical discipleship—following Jesus demands that we release our grip on security, comfort, and self-promotion to embrace His kingdom priorities and His redemptive mission.",
+        "Luke invites us into a pivotal chapter where Jesus both demonstrates His power and redefines what it means to be His follower. He gives the twelve authority over demons and disease, sending them out with nothing but His name and promise. Yet immediately after their triumphant return, Jesus redirects their attention: the Son of Man will suffer and be rejected. This jarring shift reveals something essential about kingdom work—spiritual power and personal sacrifice move together, never apart.",
+        "The chapter's turning point comes at verse eighteen when Jesus asks, \"Who do you say I am?\" Peter's confession—\"God's Messiah\"—should be decisive, yet Jesus must teach what that means. It means taking up a cross daily. It means losing your life to find it. These aren't poetic exaggerations; they describe the actual trajectory of discipleship. We cannot follow Jesus while protecting ourselves, managing our reputations, or calculating our losses.",
+        "What arrests the heart is how Jesus handles the disciples' ongoing confusion. They argue about who is greatest while He speaks of suffering. They want to call down fire on opponents while He's moving toward Jerusalem to lay down His life. Rather than shame them, He pulls a child close and says that receiving the vulnerable and overlooked is receiving Him. The kingdom doesn't run on ambition or power plays; it runs on humble service and radical welcome.",
+        "Luke shows us that following Jesus is wonderfully liberating precisely because it asks us to stop protecting ourselves. When we surrender our need to win, our fear of loss, our hunger for status, we're finally free to love, serve, and give lavishly.",
+        "Where are you still negotiating with Jesus, trying to follow Him while keeping something back for yourself? What would change if you truly believed that losing your life with Him is the way to find it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 9: Scholarly study",
+      "overview": [
+        "Luke 9 represents a pivotal chapter in the Third Gospel, marking a significant transition in Jesus's Galilean ministry as he prepares for the journey toward Jerusalem that will dominate the central section of Luke's narrative. Composed likely between 80–90 CE by a Gentile author traditionally identified as a companion of Paul, this chapter draws substantially from Mark while incorporating distinctive Lukan theological emphases regarding discipleship, Christology, and the universal scope of salvation.",
+        "The chapter opens with Jesus conferring authority (Greek: *exousia*) and power (*dynamis*) upon the Twelve, sending them to proclaim the kingdom and heal—a commissioning that anticipates the church's later mission. The distinction between these two terms is noteworthy; *exousia* denotes delegated authority or the right to act, while *dynamis* refers to the miraculous capability to perform such acts. This dual endowment equips the disciples for comprehensive ministry that mirrors Jesus's own.",
+        "The feeding of the five thousand, the only miracle recorded in all four Gospels, employs the verb *eulogēsen* (\"he blessed\"), establishing eucharistic overtones that early Christian readers would have recognized. Luke's placement of Peter's confession immediately following this miracle creates a literary connection between Jesus's provision and his identity as \"the Christ of God\" (*ton Christon tou Theou*). The Transfiguration narrative that follows confirms this confession through divine testimony while introducing Moses and Elijah, who discuss Jesus's *exodos*—a uniquely Lukan term that encompasses his departure, death, and ascension as a unified salvific event evoking Israel's foundational redemption story.",
+        "The latter portion of the chapter emphasizes the cost of discipleship through three encounter stories and Jesus's stern pronouncements about following him. Scholarly debate surrounds the relationship between the Lukan and Matthean versions of these sayings, with most source critics attributing common material to Q while acknowledging Luke's redactional shaping. The chapter concludes with Jesus \"setting his face toward Jerusalem\" (verse 51), employing a Semitic idiom indicating resolute determination that initiates Luke's distinctive travel narrative extending through 19:44.",
+        "Throughout, Luke weaves together Christological revelation and discipleship instruction, demonstrating that proper understanding of Jesus's identity necessarily entails embracing the cross-shaped pattern of his mission."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 9: Prophetic perspective",
+      "overview": [
+        "Luke chapter nine unfolds approximately three years into the earthly ministry of Jesus, around AD 29-30, as the Galilean mission reaches its climactic turning point. We stand here at the hinge of Luke's Gospel, where Jesus pivots from widespread public ministry toward the determined journey to Jerusalem and the cross. This chapter falls within the Incarnation phase of redemptive history, that unprecedented moment when the eternal Word tabernacled among humanity, and the kingdom of God invaded the present age in the person of Israel's Messiah.",
+        "The chapter opens with Jesus commissioning the Twelve, investing them with authority over demons and disease—a delegation of messianic power that anticipates the greater commission after resurrection. Here the pattern of Moses sending out elders to share his burden finds its ultimate expression, for One greater than Moses now multiplies His presence through appointed witnesses. The feeding of the five thousand that follows deliberately echoes Elisha's multiplication of loaves, yet surpasses it exponentially. More profoundly, Jesus positions Himself as the true Bread from heaven, the greater Manna-giver who will satisfy not merely physical hunger but the soul's deepest famine.",
+        "Peter's confession at Caesarea Philippi marks the theological summit of the chapter. When he declares Jesus to be \"the Christ of God,\" heaven's secret breaks into human speech. Yet immediately Jesus redefines messiahship through suffering—the Son of Man must be rejected, killed, and raised. The cross-shaped nature of discipleship flows directly from the cross-shaped identity of the Messiah. Those who would follow must take up their own cross daily, losing their lives to find them.",
+        "The Transfiguration unveils what remains veiled throughout Christ's earthly sojourn—His pre-incarnate glory now shining through human flesh. Moses and Elijah appear, representing Law and Prophets, yet the Father's voice commands attention to the Son alone. The exodus Jesus would accomplish at Jerusalem becomes the subject of their conversation, revealing that Calvary, not Sinai, constitutes the true liberation.",
+        "The chapter closes with Jesus setting His face toward Jerusalem, the language echoing Isaiah's Suffering Servant who set his face like flint. Three would-be disciples learn that following this King demands absolute allegiance—no backward glances permitted.",
+        "For the church awaiting Christ's return, Luke nine establishes the pattern of kingdom life: power exercised through weakness, glory revealed through suffering, and life discovered through death. The One who journeyed resolutely toward Jerusalem now calls His people to the same costly pilgrimage until He comes again."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.568131+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

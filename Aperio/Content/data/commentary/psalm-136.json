@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 136,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 136 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 136: The Endless Mercy That Holds All Things",
+      "overview": [
+        "This psalm teaches us that God's mercy is not a passing moment but the sustaining reality beneath everything that exists—the fundamental character of the universe itself.",
+        "Psalm 136 is a hymn of grateful remembrance, structured as a responsive call and response, where \"His mercy endures forever\" anchors every single verse. The psalmist moves through God's grand acts: creation, exodus, wilderness provision, conquest—layer upon layer of divine intervention. Yet the refrain never changes. Whether recounting cosmic power or intimate deliverance, the constant affirmation remains the same: mercy, eternal mercy, mercy forever.",
+        "This repetition is not boring monotony. It is the soul learning to see with new eyes. When we say the same truth repeatedly, we gradually perceive what we normally miss. God's mercy is not something He occasionally does when we deserve it. Mercy is who He is. He sustained the universe by His power while simultaneously sustaining a people who wandered in the desert, complained, doubted, and rebelled. The same God.",
+        "Living with this conviction changes everything. We stop earning our way into God's favor and start resting in it. We face our failures not with paralyzing shame but with honest repentance, knowing mercy meets us there. We encounter others' failures not as permanent pronouncements but as opportunities to extend the same endless mercy that has met us so often.",
+        "The beauty is that Psalm 136 does not erase difficulty or pretend suffering does not happen. Rather, it insists that beneath every circumstance—triumph and trial, blessing and confusion—mercy runs deeper than anything else. God's heart toward us is not contingent on our performance but is steadfast as the stars He made.",
+        "In what area of your life might you most need to sense that God's mercy endures forever? How could trusting this truth reshape your prayers today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 136: Scholarly study",
+      "overview": [
+        "Psalm 136 stands as one of the most distinctive compositions in the Hebrew Psalter, characterized by its antiphonal structure wherein each of its twenty-six verses concludes with the identical refrain \"for his steadfast love endures forever.\" This liturgical feature strongly suggests the psalm's use in corporate worship, likely with a cantor or choir reciting the first half of each verse while the congregation responded with the refrain. The superscription is absent in the Hebrew text, though Jewish tradition has designated this psalm as \"the Great Hallel,\" distinguishing it from the Egyptian Hallel of Psalms 113–118. Scholarly consensus places its composition in the post-exilic period, given its thematic and structural affinities with late psalmic and Chronicles literature.",
+        "The theological centerpiece of this psalm is the Hebrew term *ḥesed*, rendered variously as \"steadfast love,\" \"loving-kindness,\" or \"covenant loyalty.\" This term carries profound covenantal weight, denoting not merely emotional affection but Yahweh's binding faithfulness to his covenant promises. The phrase *kî lěʿôlām ḥasdô* (\"for his steadfast love endures forever\") functions as both theological confession and doxological response, anchoring divine acts across creation and redemption within the framework of enduring covenant fidelity.",
+        "The psalm's structure reveals a carefully crafted theological narrative moving through three major movements: creation (verses 4–9), exodus and wilderness wandering (verses 10–16), and conquest and settlement (verses 17–22). This recapitulation of salvation history mirrors similar rehearsals found in Psalms 105, 106, and 135, reflecting the Deuteronomistic tradition of memorial recitation. The opening invocation employs three divine titles—\"the LORD,\" \"the God of gods,\" and \"the Lord of lords\"—establishing Yahweh's supremacy over all competing claims to deity, a polemic particularly resonant in ancient Near Eastern contexts where divine hierarchies were assumed.",
+        "Interpreters have noted the psalm's universal scope, beginning with cosmic creation before narrowing to Israel's particular redemption, then concluding with universal provision in verse 25. This movement from universal to particular and back to universal reflects the canonical tension between Israel's election and Yahweh's sovereignty over all creation, a theological dynamic that reverberates throughout the Psalter and finds resolution in eschatological expectation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 136: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the worship life of Israel during the monarchic period, likely finding its final form in the post-exilic era when the returned remnant gathered to rebuild the temple and reconstitute their identity as God's covenant people. The antiphonal refrain—\"for His steadfast love endures forever\"—was sung responsively in temple liturgy, echoing across centuries from Solomon's dedication of the first temple through the second temple's reconstruction under Zerubbabel. Within redemptive history, this hymn serves as Israel's corporate memory, rehearsing the mighty acts of God from creation through conquest, standing as testimony to divine faithfulness across every epoch.",
+        "The psalm's structure itself becomes prophetic architecture. Beginning with creation, moving through the Exodus deliverance, wilderness provision, and conquest of Canaan, the psalmist traces the scarlet thread of covenant love through every stage of salvation history. Each repetition of \"His steadfast love endures forever\" functions as a prophetic drumbeat, declaring that what God has done He will do again—and more gloriously. The Hebrew word *hesed*, translated \"steadfast love\" or \"lovingkindness,\" points beyond mere sentiment to covenant fidelity that cannot be broken, a love that typologically anticipates the unbreakable new covenant sealed in Messiah's blood.",
+        "The God who struck Egypt's firstborn would one day offer His own Firstborn. The One who divided the Red Sea would part the veil between heaven and earth. The arm that overthrew Pharaoh would be stretched upon a Roman cross to overthrow sin, death, and hell. Every act of deliverance catalogued here finds its ultimate fulfillment in Christ's exodus accomplished at Jerusalem, where He led captivity captive and gave gifts to men.",
+        "The closing verses reveal the heart of divine *hesed*: God remembers His people in their low estate, rescues them from enemies, and gives food to all flesh. This anticipates the eschatological feast, the marriage supper of the Lamb, when the God of heaven will wipe every tear and satisfy every hunger forever.",
+        "For the church dwelling between resurrection and return, this psalm becomes our song. We who have been delivered from a greater bondage than Egypt, who have passed through waters of baptism, who journey toward a better promised land, lift this ancient refrain with even deeper meaning. His steadfast love endures forever—yesterday in creation, today in preservation, tomorrow in consummation, and unto ages unending."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_136",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.518646+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

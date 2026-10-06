@@ -1,0 +1,53 @@
+{
+  "book": "Habakkuk",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Habakkuk 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Habakkuk 3: Faith That Sings in the Storm",
+      "overview": [
+        "Habakkuk moves from wrestling with God to worshiping God, demonstrating that genuine faith doesn't require understanding but rather a willingness to trust God's character even when His ways remain mysterious. This final chapter transforms complaint into confidence, doubt into doxology.",
+        "Having questioned God's silence in the face of injustice, Habakkuk now recalls God's mighty deeds throughout history—the exodus, the wilderness, the conquest. He remembers how God's holiness and power have always been redemptive, always been just, even when His people couldn't see the full story. This recollection reshapes his present confusion. The God who delivered before can be trusted now. Memory becomes an anchor for faith.",
+        "What's striking is Habakkuk's posture of surrender: \"I heard and my heart pounded\" (3:16). Rather than demanding answers, he positions himself to listen, to feel, to submit to God's sovereignty. His famous declaration—\"Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls, yet I will rejoice in the Lord\" (3:17-18)—isn't denial of real loss. It's the deepest faith: choosing joy in God's presence despite circumstances.",
+        "This is the mature disciple's journey. We begin with honest questions, sometimes anger. But spiritual growth invites us into remembrance of God's faithfulness, into silence and listening, into trust that precedes explanation. Habakkuk teaches us that worship can coexist with sorrow, that praise can rise even from confusion, because faith rests not on circumstances but on the character of God.",
+        "What circumstance in your life is currently testing your trust in God's goodness? How might remembering His faithfulness in your own past reshape your present prayers?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Habakkuk 3: Scholarly study",
+      "overview": [
+        "Habakkuk chapter three stands as one of the most magnificent pieces of poetry in the Hebrew Bible, presenting a theophanic hymn that draws upon ancient traditions of divine warrior imagery while simultaneously functioning as the prophet's response to the troubling revelations of the preceding chapters. The superscription identifies this text as a prayer (*tĕpillâ*) of Habakkuk set according to *šigyōnôt*, a musical term of uncertain meaning that likely indicates an emotional or passionate style of composition, possibly related to the Akkadian word for lamentation. The liturgical notations, including the term *selah* appearing three times and the concluding instruction to the choirmaster, suggest this chapter functioned within Israel's worship, though scholars debate whether it was original to Habakkuk's prophecy or a later liturgical addition.",
+        "The central portion of the chapter presents a stunning vision of Yahweh's appearance from the southern wilderness regions—Teman and Mount Paran—geographic markers associated with early Israelite traditions of divine encounter in the Sinai region. The term *hôd* (splendor) and related vocabulary connect this theophany to other biblical descriptions of divine glory, while the cosmic disturbances—pestilence, plague, trembling mountains, and agitated waters—employ mythological motifs common to ancient Near Eastern literature, particularly Canaanite descriptions of Baal's storm theophany. The Hebrew *rešep* in verse 5, often translated as \"plague,\" may also evoke the Canaanite deity associated with pestilence, now subordinated as an attendant of Yahweh.",
+        "The poem's theological function addresses the prophet's earlier complaints about divine justice by affirming Yahweh's ultimate sovereignty over both cosmic and historical forces. The concluding verses represent a remarkable confession of faith wherein the prophet declares trust in God despite agricultural devastation and economic collapse. The verb *ʿālaz* (to exult) expresses jubilant confidence that transcends circumstances. This movement from lament through theophanic vision to doxological affirmation provides a paradigm for faithful response to theodicy questions, making Habakkuk's prayer not merely ancient liturgy but an enduring model of worship that holds together honest questioning and unwavering trust."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Habakkuk 3: Prophetic perspective",
+      "overview": [
+        "Habakkuk chapter three stands as one of Scripture's most magnificent prophetic hymns, composed approximately 610-605 years before the birth of Christ, during the final decades of Judah's existence before the Babylonian exile. The prophet had received the terrifying revelation that God would raise up the Chaldeans as instruments of judgment against His own covenant people, and now, having wrestled with this devastating word, Habakkuk responds with prayer, praise, and trembling faith. This passage occupies that painful moment in redemptive history between the warnings of impending exile and the devastation itself—the kingdom established under David now tottering toward its appointed destruction.",
+        "The theophany at the chapter's heart reaches backward to Sinai and forward to the Day of the Lord. When Habakkuk describes God coming from Teman and the Holy One from Mount Paran, he deliberately evokes the Exodus deliverance, that foundational redemptive act when Yahweh descended in fire and thunder to liberate His people and judge Egypt. The splitting of rivers, the trembling mountains, the sun and moon standing still—these images compress past deliverances into a vision of future salvation, revealing that the God who acted decisively at the Red Sea remains the same God who will ultimately vanquish all enemies of His people. Here is the pattern that governs all divine intervention: judgment against oppressors and deliverance for the faithful remnant.",
+        "The Warrior-God depicted here unmistakably shadows Christ in His second advent. The imagery of trampling nations, of going forth for the salvation of His people, of crushing the head of the house of the wicked, finds its ultimate fulfillment not in Babylon's later fall to Persia but in the return of the conquering King described in Revelation nineteen. The piercing of the wicked leader's head with his own spears echoes Genesis three's promise that the serpent's head would be crushed—a promise accomplished in principle at Calvary and consummated at the eschaton.",
+        "Most profound is Habakkuk's closing confession of faith amid coming devastation. Though fig tree, vine, olive, field, flock, and herd all fail—total economic collapse—yet he will rejoice in the Lord of his salvation. This declaration stands as the timeless posture of God's people living between the advents: surrounded by a world under judgment, witnessing the shaking of nations, yet anchored in the unshakable kingdom. The church awaits the final theophany when Christ returns, not from Teman, but from heaven itself, to complete the salvation Habakkuk glimpsed through tears."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "35_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.368428+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

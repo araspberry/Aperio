@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 6: The Victory of Faith and Obedience",
+      "overview": [
+        "The fall of Jericho stands as Scripture's most peculiar military victory—not won by sword or siege engine, but by faith enacted through obedience and worship. God's unusual command to march silently around the city's walls for six days, then seven times on the seventh day while the people shout, reveals a profound truth: spiritual victory comes when we surrender our own strategies and embrace God's ways, however strange they may seem.",
+        "The Israelites faced a seemingly insurmountable obstacle. Jericho's walls were high and thick, its gates shut tight against them. But Joshua didn't convene a war council to devise clever tactics. Instead, he received explicit instructions from the Lord and obeyed them precisely, without question or modification. The priests led the way, bearing the ark of the covenant—a signal that this wasn't primarily a military campaign but an act of worship and dependence on God's presence. The people's silence during those six days must have been deafening to their anxious hearts. Yet they marched on, trusting the invisible God more than their visible circumstances.",
+        "When the walls finally came down, it wasn't through human engineering but through the shout of faith rising from the throats of an obedient people. This is the pattern God often establishes with His followers: surrender your logic, obey His word, worship Him in the darkness, and watch as He accomplishes what only He can do.",
+        "How often do we stand before our own Jerichos—obstacles at work, relationships in crisis, sins we feel powerless to overcome—and immediately strategize our escape? We devise clever plans and execute them with our own strength. Yet the Lord invites us into something radically different: to bring Him our most difficult circumstances, to obey His leading even when it makes no sense, and to trust that His way, however unconventional, leads to genuine victory.",
+        "What walls in your life have you been trying to conquer through your own strength? What might it look like to march around them in faith instead, trusting God's timing and methods?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 6: Scholarly study",
+      "overview": [
+        "Joshua 6 presents one of the most theologically significant conquest narratives in the Hebrew Bible, recounting Israel's capture of Jericho as the inaugural military engagement in the promised land. The passage functions as a paradigmatic holy war account, establishing patterns that resonate throughout the Deuteronomistic History. Composed within the broader context of the Deuteronomistic school's theological reflection on Israel's relationship with Yahweh and the land, the narrative emphasizes divine agency over human military prowess.",
+        "The chapter opens with Jericho \"shut up\" (*sōgeret ūmesugeret*), a distinctive Hebrew construction employing the same root twice to emphasize the city's complete closure—both actively closed and remaining in that state. This emphatic phrasing underscores both the city's formidable defenses and the impossibility of conventional military success. The term *ḥērem* (verses 17-18, 21) carries particular theological weight, denoting the practice of dedicating conquered peoples and property to Yahweh through total destruction. This concept, often translated as \"devoted to destruction\" or \"ban,\" represents one of the most ethically challenging elements in Old Testament theology, generating substantial scholarly debate regarding its historical implementation and theological interpretation.",
+        "The narrative structure reveals careful literary artistry. The seven-day processional, the seven priests bearing seven trumpets (*šôp̄erôt hayyôḇelîm*, ram's horn trumpets), and the sevenfold circumambulation on the seventh day create a liturgical framework that transforms military conquest into cultic ritual. This numerical symbolism connects the event to creation theology and sabbath observance, suggesting that Yahweh's creative power now operates in historical-military contexts.",
+        "Within the canonical context, Joshua 6 fulfills promises extending from the Abrahamic covenant through the Mosaic period. The presence of the ark of the covenant at the procession's center visually represents Yahweh as the true warrior. Rahab's salvation (verses 22-25) introduces a crucial counter-narrative, demonstrating that *ḥērem* admits exceptions based on faith-response to Israel's God. Her incorporation into Israel foreshadows the theological inclusivism developed in Ruth and ultimately in the New Testament's genealogy of Jesus. The archaeological evidence from Tell es-Sultan remains contested, with scholars divided regarding correlation between destruction layers and the biblical account's chronology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 6: Prophetic perspective",
+      "overview": [
+        "The fall of Jericho occurs approximately 1400 years before the incarnation of Christ, marking Israel's first military engagement in the conquest of Canaan. This chapter stands at a pivotal hinge in redemptive history—the generation that witnessed the Exodus has passed, the forty years of wilderness wandering have concluded, and now the seed of Abraham crosses into the land promised to their fathers six centuries earlier. Within the grand arc of Scripture, this moment represents the partial fulfillment of the Abrahamic covenant, as God begins delivering the territory He swore to give Abraham's descendants.",
+        "The strange battle plan reveals that Jericho's conquest belongs not to human strategy but to divine warfare. Israel marches in liturgical procession—priests bearing the ark, trumpets sounding, the people circling in sacred silence. For six days they compass the city once; on the seventh day, seven times. The number seven saturates this narrative, pointing beyond mere military victory to sabbath completion, to God finishing what He alone began. The walls do not fall to battering rams or siege works but to the shout of faith answering the trumpet blast of heaven. Here is holy war in its truest sense: Yahweh fighting for His people while they simply obey and believe.",
+        "Typologically, Jericho stands as the firstfruits of Canaan, placed under the ban as wholly devoted to the Lord. Just as Abel's firstborn lamb and Israel's Passover sacrifice prefigured the Lamb of God, so this city given entirely to destruction foreshadows the ultimate victory of Christ over the strongholds of sin and death. The scarlet cord in Rahab's window echoes the blood on the doorposts in Egypt—both marking households for salvation while judgment falls around them. Rahab herself, a Canaanite harlot grafted into Israel and into the very lineage of the Messiah, prophetically demonstrates that no one stands beyond the reach of covenant mercy.",
+        "The trumpets of Jericho find their eschatological echo in the final trumpet that will sound at Christ's return, when every wall of resistance to God's kingdom will collapse, when death itself—that final Jericho—will fall before the conquering Son. The shout that brought down those ancient stones prefigures the commanding shout with which the Lord will descend from heaven.",
+        "For the church living between the advents, Jericho declares that our warfare is not waged with carnal weapons but with the obedience of faith, marching to heaven's cadence until the Captain of our salvation delivers the final victory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.196039+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

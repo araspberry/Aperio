@@ -1,0 +1,54 @@
+{
+  "book": "Ephesians",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ephesians 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ephesians 3: The Mystery Revealed and the Love Beyond Measure",
+      "overview": [
+        "At the heart of Ephesians 3 lies the astonishing truth that God's redemptive purpose has been revealed in Jesus Christ—not to the religious elite alone, but to the Gentiles, to outsiders, to those who once seemed forever separated from God's covenant people. This is the mystery that Paul labors to help us understand, not merely as intellectual content but as lived reality that transforms how we see ourselves and one another.",
+        "Paul begins by recounting his calling as a prisoner of Christ for the sake of the Gentiles, and he asks us to grasp something revolutionary: the dividing wall between Jew and Gentile has been demolished. The gospel is not narrower than we fear; it is wider than we dare imagine. God's plan was always to create one family, one household of faith, reconciling all people to himself through Christ. This mystery was hidden for ages, yet now it stands revealed—and Paul, humbled by grace, has been given the privilege of proclaiming it.",
+        "But Paul's deepest passion in this chapter moves beyond explanation to experience. He falls to his knees and prays that we would be strengthened in our inner being, that Christ would dwell in our hearts through faith, and—most remarkably—that we would grasp how wide and long and high and deep is the love of Christ. He knows we cannot measure it, yet he asks us to know it. This paradox captures the Christian life: we cannot exhaust God's love, yet we are invited into intimate knowing of it.",
+        "The passage concludes with Paul's doxology, reminding us that God is able to do immeasurably more than we ask or imagine. He calls us to glory in the church, in Christ Jesus throughout all ages.",
+        "What areas of your life feel too narrow, too exclusive, too limited by human categories? Where is Christ inviting you to experience his love more deeply this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ephesians 3: Scholarly study",
+      "overview": [
+        "Ephesians 3 represents a pivotal moment in the letter's theological architecture, transitioning from the cosmic vision of chapters one and two into a profound reflection on Paul's apostolic vocation and the mystery now revealed to the church. The chapter divides naturally into two movements: Paul's self-understanding as a steward of divine mystery (vv. 1–13) and an intercessory prayer that forms one of Scripture's most elevated doxological passages (vv. 14–21). The Pauline authorship remains contested among scholars, with those favoring pseudonymity pointing to distinctive vocabulary and developed ecclesiology, while defenders of authenticity note the deeply personal tone and theological continuity with undisputed letters.",
+        "The term \"mystery\" (mystērion) appears four times in this chapter, carrying distinctly different connotations from its use in Greco-Roman mystery religions. Here it denotes not esoteric knowledge reserved for initiates but rather God's previously hidden purpose now openly proclaimed—specifically, that Gentiles are fellow heirs (synklēronoma), fellow members of the body (syssōma), and fellow partakers (symmetocha) of the promise. This remarkable trilogy of compound words beginning with the prefix syn- emphasizes the complete integration of Gentile believers into covenant blessings without distinction. The revelation that ethnic boundaries no longer determine covenant membership represents what Paul calls the \"manifold wisdom\" (polypoikilos sophia) of God—a rare adjective suggesting variegated richness, like an intricately embroidered tapestry.",
+        "The prayer section beginning at verse 14 employs the unusual phrase \"I bow my knees\" (kamptō ta gonata), notable because standing was the typical Jewish posture for prayer; kneeling signals exceptional urgency and reverence. Paul's petition moves inward through concentric circles—strengthening in the inner person, Christ's dwelling in the heart, comprehension of love's cosmic dimensions—before ascending to the paradoxical request that believers might know the unknowable fullness of God. The doxology concluding the chapter (vv. 20–21) functions as the literary and theological apex of the letter's first half, celebrating divine power operative \"within us\" (en hēmin) and establishing the church alongside Christ as the sphere of God's eternal glorification. This ecclesiological emphasis distinguishes Ephesians within the Pauline corpus and anticipates the ethical exhortations that follow."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ephesians 3: Prophetic perspective",
+      "overview": [
+        "Ephesians chapter three was written approximately 60-62 AD, roughly thirty years after the resurrection and ascension of Christ, while the apostle Paul was imprisoned in Rome for proclaiming the gospel to the Gentiles. This places the passage firmly within the early church age, that pivotal era following Pentecost when the mystery hidden for ages was being openly declared and the body of Christ was expanding across the Roman world. Within the grand redemptive arc, we stand here between the Cross and the Second Coming, in the time of the gathered church—that period foreshadowed by the prophets but revealed in its fullness only through apostolic ministry.",
+        "The centerpiece of this chapter is the unveiling of the \"mystery\" which Paul repeatedly emphasizes—that Gentiles are fellow heirs with Israel, members of the same body, partakers of the same promise in Christ Jesus through the gospel. This mystery was not unknown in seed form; Abraham was promised that all nations would be blessed through him, and Isaiah foretold that the Servant would be a light to the Gentiles. Yet the full architecture of this union—Jew and Gentile constituting one new humanity in Messiah—remained veiled until the Spirit revealed it to the apostles and prophets of the new covenant era. What the prophets glimpsed through a glass darkly, Paul declares with stunning clarity.",
+        "Typologically, the temple imagery pervading Ephesians finds its culmination here. The Jerusalem temple, with its dividing wall barring Gentile access to the holy place, was always provisional—a shadow pointing toward something greater. Now the true temple is revealed: the church herself, built upon apostolic foundation with Christ as cornerstone, a dwelling place of God in the Spirit. Paul's priestly language of \"bowing the knee\" before the Father from whom every family derives its name reveals the cosmic scope of this new temple—it encompasses all creation, all generations, all peoples.",
+        "The prayer concluding this chapter reaches into eschatological depths. Paul intercedes that believers would comprehend dimensions—breadth, length, height, depth—that exceed finite understanding, and that they would know the love of Christ which surpasses knowledge. This paradox points toward the already-and-not-yet reality of the church's inheritance. We taste now what we shall feast upon eternally.",
+        "For the church living between the advents, Ephesians three announces that the age-old promise to Abraham has blossomed into a multinational family, and that within this family dwells nothing less than the fullness of God Himself, present by His Spirit, awaiting final consummation when Christ fills all in all."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "49_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.867293+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

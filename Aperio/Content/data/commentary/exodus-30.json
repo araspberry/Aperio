@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "chapter": 30,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 30 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 30: The Fragrance of a Life Set Apart",
+      "overview": [
+        "The heart of this passage is the consecration of ordinary materials—oil, incense, and water—into sacred instruments that transform the ordinary work of priests into holy service. God is teaching His people that proximity to Him requires both intentional separation and lavish attention to beauty.",
+        "The instructions for the anointing oil and the incense reveal something striking about how God relates to us. These aren't merely functional items; they're crafted with precision, using costly spices that fill entire spaces with their fragrance. When we encounter incense throughout Scripture, it represents prayer rising before God. The image suggests that our prayers—our words, our longings, our intercessions—carry an aroma that delights the heart of our Father. There's tenderness here. God doesn't want our hurried, half-hearted offerings. He asks for the finest, most intentional expressions of worship.",
+        "The bronze basin filled with water speaks equally powerfully. Before entering God's presence or ministering to others, the priests washed their hands and feet. This practical act carries spiritual weight: we cannot approach holiness while carrying the dust of the world. In our daily lives, this translates to regular renewal. Our hearts need washing—through confession, through time in Scripture, through silence and prayer. We cannot minister to others' deepest needs while still clinging to our own unexamined wounds or unrepented sins.",
+        "What makes this passage relevant is its insistence that spiritual formation isn't rushed or casual. The specificity of measurements, the quality of ingredients, the repeated washings—all communicate that our relationship with God deserves our best attention. In a culture of spiritual shortcuts, God invites us into something altogether richer: lives crafted with care, regularly renewed, and emanating the fragrance of genuine devotion.",
+        "Where in your daily routine might you create space for intentional spiritual renewal, responding to God's call to consecration?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 30: Scholarly study",
+      "overview": [
+        "Exodus 30 occupies a pivotal position within the elaborate instructions for tabernacle worship, forming part of the larger Priestly legislation that spans Exodus 25–31. Situated between the consecration of the priesthood and the warning against Sabbath violation, this chapter addresses four distinct liturgical elements: the incense altar, the census offering, the bronze laver, and the sacred anointing oil and incense. The chapter's placement after the instructions for the ark, table, lampstand, and main altar has puzzled scholars, leading some to suggest it represents supplementary material incorporated at a later editorial stage, though others argue for its theological intentionality, positioning these items as mediating elements between the divine presence and human approach.",
+        "The incense altar, constructed of acacia wood overlaid with gold, receives the designation *mizbēaḥ miqṭar qeṭōret* (altar for burning incense), distinguishing it from the bronze altar of burnt offering. The Hebrew *qeṭōret* derives from a root suggesting the ascending smoke, symbolizing prayers rising before the divine presence. Aaron's twice-daily offering of incense corresponded to the lamp-tending ritual, creating an integrated morning and evening liturgy. The altar's location \"before the veil\" established it as the closest point of regular priestly access to the Holy of Holies, underscoring its mediatorial function.",
+        "The half-shekel census offering introduces the concept of *kōper* (ransom), a term carrying weighty theological implications regarding atonement and redemption from potential divine wrath associated with numbering the people. The democratic nature of this levy—identical amounts from wealthy and poor alike—emphasizes the equal standing of all Israelites before their covenant Lord.",
+        "The bronze laver (*kiyyôr*) served ritual purification, mandatory for priests before approaching the altar, with the striking warning that neglect would result in death. This severity underscores the holiness theology pervading Priestly literature—the incompatibility of impurity with divine proximity.",
+        "The chapter concludes with precise recipes for anointing oil and incense, both declared exclusively sacred. The prohibition against profane replication, with the penalty of being \"cut off\" (*nikrat*), establishes firm boundaries between sacred and common realms, a distinction fundamental to Israel's cultic consciousness and later developments in Jewish and Christian sacramental theology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 30: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately fourteen centuries before Christ's advent, during Israel's wilderness wandering following the exodus from Egypt. The nation stands encamped at Sinai, receiving detailed instructions for tabernacle worship that would govern their approach to God for generations. Within redemptive history, this passage occupies that crucial epoch between the Abrahamic promises and their partial fulfillment in the Davidic kingdom—a period when God was forming a priestly nation through whom blessing would ultimately flow to all peoples.",
+        "The altar of incense, positioned before the veil concealing the ark, represents the prayers of God's people ascending perpetually into His presence. Aaron's ministry at this altar each morning and evening establishes a rhythm of intercession that finds its fulfillment in Christ, who ever lives to make intercession for His own. The incense itself—compounded of stacte, onycha, galbanum, and frankincense—could be used for no common purpose, signifying that true worship belongs to God alone. In John's Revelation, the prayers of the saints rise as incense before the throne, confirming that what began in shadow has become eternal reality through the Mediator's perpetual advocacy.",
+        "The ransom money demanded of every Israelite at census reveals a profound truth: each soul belongs to God by right of redemption. Rich and poor gave equally, for before the holy God all stand in identical need of atonement. This half-shekel pointed forward to the priceless ransom Christ would pay—not with silver or gold, but with His own blood. The numbering of Israel required acknowledgment that life itself is forfeit apart from redemption.",
+        "The bronze laver speaks to the necessity of cleansing for those who would serve in God's presence. Priests washed before ministry on pain of death, establishing that holiness precedes service. Christ has given His church the washing of regeneration, cleansing His bride by the water of the word, so that believers now constitute a holy priesthood approaching God with clean hands and pure hearts.",
+        "The anointing oil, with its precise formula forbidden for common use, consecrated everything it touched—tabernacle, vessels, priests—setting them apart as holy to the Lord. This sacred chrism anticipated the Holy Spirit's anointing that now rests upon all who are in Christ, making every believer a consecrated vessel for divine service. The church lives today as an anointed priesthood, offering spiritual incense, washed in regenerating grace, ransomed by precious blood, and awaiting that final entrance into the heavenly sanctuary of which Sinai's tabernacle was merely a shadow."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_030",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.839292+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

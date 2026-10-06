@@ -1,0 +1,55 @@
+{
+  "book": "Ephesians",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ephesians 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ephesians 1: The Extravagance of Our Inheritance",
+      "overview": [
+        "Paul opens his letter to the church at Ephesus with an explosion of praise—a breathless rehearsal of all that God has accomplished for us in Christ. This passage reveals what is true about every believer: we are chosen, redeemed, and blessed with spiritual riches beyond measure.",
+        "What strikes the heart immediately is the sheer abundance of God's generosity. Paul piles blessing upon blessing—chosen before the foundation of the world, redeemed through his blood, forgiven according to the riches of grace, made alive and seated in heavenly places. This is not the picture of a God who offers bare minimum salvation. Rather, it is the portrait of a Father whose love is lavish, whose grace is inexhaustible, whose purposes are cosmic in scope. We are not afterthoughts or exceptions; we are beloved children marked with the seal of the Holy Spirit as a guarantee of our inheritance.",
+        "For those who feel insignificant or forgotten, these words speak directly to a deep human hunger for worth and belonging. Every person wrestles with the question: Do I matter? Am I truly chosen? The gospel answer echoes across the centuries: yes, you were chosen before time itself, adopted into the family of God, and purchased at infinite cost. That is not sentiment; that is reality.",
+        "Paul also wants us to understand that our redemption was never casual or accidental. God accomplished it \"through the riches of his grace,\" deliberately, generously, and with a plan that spans eternity. We are invited to shift our perspective from the small struggles of today to the vast sweep of God's redemptive work throughout history.",
+        "The invitation before us is to move from knowing these truths in our heads to feeling their weight in our hearts. What would change in your life if you truly believed that you are chosen, sealed, and infinitely valued? Consider sitting with that question in silence, allowing the Holy Spirit to make real what Paul describes."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ephesians 1: Scholarly study",
+      "overview": [
+        "The letter to the Ephesians, traditionally attributed to Paul though subject to scholarly debate regarding authorship, opens with one of the most theologically dense passages in the New Testament corpus. Written likely from Rome during an imprisonment (whether Paul's or a later Pauline disciple's composition), this epistle addresses the cosmic scope of God's redemptive purposes and the formation of a unified community transcending ethnic divisions. The absence of personal greetings and the textual uncertainty surrounding \"in Ephesus\" in verse one have led many scholars to view this as a circular letter intended for multiple Asian congregations.",
+        "The chapter divides naturally into two major sections: a lengthy berakah or blessing (verses 3–14) and an intercessory prayer report (verses 15–23). The blessing constitutes a single sentence in Greek, an extended doxological outpouring that traces salvation from eternal predestination through historical redemption to eschatological consummation. Central to this section is the term *eulogia* (εὐλογία), blessing, which frames the opening by describing both God's act of blessing believers and believers' responsive praise. The phrase *pro katabolēs kosmou* (πρὸ καταβολῆς κόσμου), \"before the foundation of the world,\" establishes divine election within an eternal framework, generating centuries of theological discussion regarding predestination's relationship to human agency.",
+        "Particularly significant is the repeated refrain \"in Christ\" or its equivalents, appearing eleven times and establishing participatory union with Christ as the epistle's controlling motif. The term *mystērion* (μυστήριον) in verse nine refers not to something incomprehensible but to a divine purpose previously hidden and now revealed—namely, the cosmic reunification of all things under Christ's headship. The economic language of *apolytrōsis* (ἀπολύτρωσις), redemption, evokes the marketplace of slave manumission while carrying forward Israel's exodus traditions.",
+        "The prayer section shifts from praise to petition, asking that believers receive *sophia* (σοφία) and *apokalypsis* (ἀποκάλυψις), wisdom and revelation, for knowing God. The chapter concludes with exalted Christological affirmations, placing Christ above all cosmic powers and identifying the church as his body and fullness. This ecclesiological climax anticipates the letter's sustained concern with Christian unity and cosmic reconciliation, establishing theological foundations developed throughout the subsequent chapters."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ephesians 1: Prophetic perspective",
+      "overview": [
+        "Ephesians 1 emerges from the apostle Paul's pen around 60-62 AD, approximately thirty years after the resurrection and ascension of Christ, written during his Roman imprisonment. The church now exists in the inaugurated kingdom age—that remarkable epoch between Pentecost and the Parousia when the promises of the prophets have begun their fulfillment while the consummation still awaits. Paul writes to Gentile believers in Ephesus, and through them to the universal church, unveiling mysteries that had been hidden in God from before the foundation of the world.",
+        "This chapter stands at the apex of redemptive history's revelation, looking backward to eternal counsels and forward to cosmic restoration. Before creation's first morning, the Father chose a people in Christ, predestining them to adoption as sons—a decree that preceded time itself. Here the patriarchal promises find their ultimate ground: what began with Abraham's election now reveals itself as the overflow of an election older than the stars. The Exodus typology reaches its antitype as Paul proclaims redemption through Christ's blood, the forgiveness of trespasses according to the riches of grace. Where Israel was redeemed from Egypt by the blood of lambs, the church has been ransomed from sin's dominion by the Lamb slain before the world's foundation.",
+        "Paul unveils the mystery of God's will: to unite all things in Christ, things in heaven and things on earth. This cosmic reunification answers the fracturing that began in Eden and deepened through Babel. The inheritance promised to Abraham's seed—blessing to all nations—now encompasses the very cosmos. Jew and Gentile together have obtained an inheritance, sealed with the Holy Spirit who serves as the arrabon, the down payment guaranteeing what remains future: the redemption of God's own possession.",
+        "The eschatological vision crescendos as Paul contemplates Christ's present enthronement—raised from the dead, seated at the Father's right hand, far above all rule and authority and power and dominion. Every throne Daniel glimpsed, every kingdom Nebuchadnezzar dreamed, now lies beneath the feet of the crucified and risen Lord. Yet this exaltation awaits its full manifestation. The church, as Christ's body, participates in His reign even now, though the \"not yet\" of final consummation stretches before her.",
+        "For believers living between the advents, Ephesians 1 establishes unshakeable identity: chosen before time, redeemed in history, sealed for eternity, and seated with Christ in heavenly places. The Spirit's presence confirms what faith embraces—that the God who planned salvation before creation will certainly complete it when Christ fills all in all."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "49_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.86264+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

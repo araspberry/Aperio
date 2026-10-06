@@ -1,0 +1,56 @@
+{
+  "book": "Numbers",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 16: The Danger of Spiritual Pride",
+      "overview": [
+        "Korah's rebellion reveals a sobering truth: the human heart can resist God's appointed authority while claiming to serve Him more faithfully. This passage exposes how easily spiritual ambition can masquerade as spiritual conviction, and how pride dressed in religious language remains pride.",
+        "Korah, a Levite with genuine tribal standing, gathers two hundred fifty men and confronts Moses with the accusation that he has \"gone too far.\" The complaint sounds reasonable on the surface—why should Moses and Aaron monopolize leadership when all Israel is holy? Yet beneath this seemingly democratic impulse lies a refusal to accept the boundaries God Himself established. Korah doesn't simply want a role; he wants Moses's role. His desire for prominence overwhelms his submission to God's design.",
+        "What makes this rebellion particularly instructive is that Korah isn't wrong about God's holiness extending to all His people. The problem is that he mistakes this truth for permission to disregard God's order. This is the subtle trap many of us face: we recognize genuine biblical truths and then use them to justify our own ambitions or to undermine leaders God has placed over us. We conflate what we want with what God wants, and we become dangerously convinced of our own rightness.",
+        "The judgment that follows—the earth opening to swallow the rebels—is terrifying precisely because God takes seriously both His authority and our response to it. This isn't arbitrary punishment; it's the consequence of rejecting God's established order while claiming to serve His interests more faithfully.",
+        "The passage invites us to honest self-examination. Where do we resist authority while telling ourselves we're defending biblical truth? Where have we confused our ambitions with God's will? Where do we judge those in leadership, certain that we could do better?",
+        "What prompts might be stirring in your heart right now that deserve questioning—not to crush legitimate conviction, but to honestly assess whether your desires align with submission to God's design?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 16: Scholarly study",
+      "overview": [
+        "Numbers 16 presents one of the most dramatic episodes of rebellion in the Pentateuch, recounting the insurrection led by Korah, Dathan, Abiram, and On against the leadership of Moses and Aaron. This narrative likely preserves multiple tradition strands that were woven together, as evidenced by the dual focus on Levitical complaints about priestly prerogatives (Korah's rebellion) and Reubenite grievances concerning civil authority (Dathan and Abiram's challenge). The placement of this account following the legislation of chapters 15 and preceding the regulations concerning Levitical duties in chapter 18 creates a narrative justification for the Aaronic priesthood's exclusive privileges.",
+        "The rebellion hinges on the accusation that Moses and Aaron have exalted themselves above the congregation, expressed through the Hebrew term *wayyiqqāhălû* (\"they assembled themselves\") in verse 3, which employs the same verbal root (*qāhal*) used for legitimate sacred assemblies, thus framing the rebels' gathering as a counterfeit religious convocation. The rebels' claim that \"all the congregation is holy\" (*kol-hāʿēdâ kullām qědōšîm*) represents a theological assertion about Israel's collective sanctification that, while superficially echoing Exodus 19:6, fundamentally misunderstands the differentiated holiness established in Levitical legislation.",
+        "The divine judgment takes two extraordinary forms: the earth opens to swallow Dathan, Abiram, and their households—described using the rare term *wayyibbālaʿ* (\"swallowed\")—while fire consumes the 250 incense-bearers. The subsequent plague killing 14,700 additional Israelites demonstrates the contagious danger of associating with rebellion against divinely appointed leadership. Moses' response, prostrating himself and instructing Aaron to make atonement by standing \"between the dead and the living\" (*bên hammētîm ûbên haḥayyîm*), portrays the legitimate priest as intercessor par excellence.",
+        "Interpretive debates surround whether this narrative reflects later priestly conflicts projected onto the wilderness period, particularly tensions between Levites and Aaronides during the Second Temple era. The Septuagint and Masoretic Text show minor variations, though the essential narrative remains consistent. Within canonical context, Jude 11 references Korah as an archetype of religious rebellion, demonstrating the passage's enduring significance for understanding proper ecclesiastical order and the dangers of challenging divinely instituted authority structures."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 16: Prophetic perspective",
+      "overview": [
+        "Numbers 16 unfolds approximately 1445 years before the birth of Christ, during the wilderness wanderings following Israel's exodus from Egypt. The nation has already been condemned to forty years of desert sojourning due to their unbelief at Kadesh-Barnea, and this rebellion of Korah, Dathan, and Abiram occurs in that shadow of judgment, when hearts grown bitter against God's appointed order rise in open revolt. Within the grand redemptive arc, this passage sits squarely in the Exodus-to-Kingdom movement, where God is constituting Israel as a holy nation with defined structures of mediation—priesthood, sacrifice, and appointed leadership—that will govern their relationship with Him until the coming of the true High Priest.",
+        "Korah's rebellion strikes at the very heart of divinely ordained mediation. A Levite of the Kohathite clan, Korah possessed legitimate priestly lineage yet grasped for what God had not given—the high priesthood reserved for Aaron's household alone. His accusation carries democratic appeal: \"All the congregation is holy, every one of them, and the LORD is among them. Why then do you exalt yourselves above the assembly of the LORD?\" This reasoning sounds noble but masks a deadly error. Korah confused the holiness of calling with the holiness of office, failing to recognize that God alone appoints His mediators.",
+        "Here the typology grows luminous. Aaron standing between the living and the dead with incense, making atonement to stay the plague, prefigures Christ who entered not an earthly tabernacle but heaven itself, whose intercession alone halts the wrath our rebellion deserves. The earth opening to swallow the rebels and fire consuming the 250 who offered unauthorized incense demonstrates with terrifying finality that no one approaches God except through His chosen mediator. The ground that received Korah becomes prophetic testimony: all who reject God's appointed way of salvation face not merely death but being cut off from the congregation of the redeemed.",
+        "The budding of Aaron's rod in the following chapter confirms what this judgment declares—God authenticates His chosen priest through resurrection life. That dead wood blossomed and bore fruit points unmistakably to Christ, whose resurrection vindicated Him as the eternal High Priest after the order of Melchizedek.",
+        "For the church living between the advents, this passage warns against despising God's appointed means of grace while proclaiming the glorious sufficiency of Christ's mediation. There remains no other name, no alternative path, no unauthorized fire that heaven will accept."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.044482+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

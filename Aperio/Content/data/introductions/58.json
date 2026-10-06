@@ -1,0 +1,141 @@
+{
+  "book": "James",
+  "bookIndex": 58,
+  "status": "Editorial draft",
+  "title": "James: A Faith That Becomes Visible",
+  "subtitle": "Wisdom from God brings hearing, speech, mercy, and action into a single life.",
+  "atAGlance": {
+    "genre": "Wisdom instruction and exhortation in letter form",
+    "setting": "Communities wrestling with trials, inequality, partiality, destructive speech, and inconsistent conduct.",
+    "composition": "Names James, traditionally identified as Jesus’ brother and Jerusalem leader. Authorship and date are disputed; proposals extend from the mid-first century into a later generation.",
+    "audience": "The “twelve tribes in the Dispersion,” a broad address drawing on the identity and language of Israel."
+  },
+  "sections": [
+    {
+      "title": "Wholeness in an unsettled life",
+      "paragraphs": [
+        "James begins with trials and the need for wisdom. The aim is a mature, whole life able to endure pressure without being divided at its center. God is presented as generous, giving wisdom to those who ask. The community’s difficulties therefore become the setting for learning steadfast trust and responsible action.",
+        "The letter moves among familiar situations: hearing a sermon, welcoming visitors, speaking in anger, making business plans, responding to poverty, and caring for the sick. These scenes make its teaching searchingly practical. James asks whether faith has reached the places where conduct is formed. The movement from hearing to doing is essential because a person can recognize true words while leaving everyday habits untouched."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "James, his audience, and the letter’s form",
+      "paragraphs": [
+        "The sender identifies himself simply as James, a servant of God and of Jesus Christ. Christian tradition understands him as James the brother of Jesus, associated with leadership in Jerusalem. Some scholars defend that identification; others propose a later writer using his name and authority. The date therefore remains uncertain, with proposals ranging from the mid-first century into later decades or beyond.",
+        "The address to the twelve tribes in dispersion draws on Israel’s identity, but it does not supply a list of particular congregations. The work resembles wisdom instruction or a sermon as much as ordinary correspondence. Images, brief arguments, examples, and direct appeals recur around related concerns. Reading for those connections reveals a coherent concern with integrity rather than a miscellaneous collection of moral sayings."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Mercy exposes the reality of faith",
+      "paragraphs": [
+        "Chapter 2 imagines a gathering in which a wealthy visitor receives honor while a poor person is treated dismissively. James challenges that partiality in light of faith in the glorious Lord Jesus Christ. The treatment of a person at the door reveals the standards governing the community. Mercy and the command to love a neighbor must reach its arrangements of welcome.",
+        "The discussion of faith and works follows the same concern. A claim to faith that leaves a hungry or poorly clothed person unaided is empty. Abraham and Rahab illustrate faith expressed in decisive action. James is addressing a profession detached from obedience; Paul’s arguments about justification address other questions and opponents. Their different uses of key terms need careful comparison. Both the immediate problem and the kind of “works” being discussed matter."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Speech, desire, and the wisdom from above",
+      "paragraphs": [
+        "The tongue receives sustained attention because a small instrument can have large consequences. James compares it with a bit, a rudder, and a spark. Blessing God while cursing people made in His likeness exposes an inconsistency at the heart of religious life. Speech is a place where devotion and contempt can become painfully entangled.",
+        "The contrast between kinds of wisdom then moves beneath words to the desires that shape them. Jealous ambition produces disorder, while wisdom from above is peaceable, considerate, merciful, and sincere. Conflicts reveal competing desires that need to be brought before God. The call to humility is therefore more than a preference for a quiet manner. It concerns the surrender of self-importance so that relationships can become truthful and peace can be cultivated."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Wealth, patience, and a praying community",
+      "paragraphs": [
+        "James warns those whose wealth has been accumulated through injustice, especially withheld wages. The force of the warning belongs beside the earlier concern for poor people within the assembly. Economic conduct is part of the moral life that God sees. Plans for gain must also acknowledge the fragility of human life and dependence on God.",
+        "The final chapter calls for patience, drawing on farmers, prophets, and Job. It then describes a community that prays in suffering, sings in joy, calls elders to care for the sick, confesses, and seeks restoration for someone who wanders. The letter ends with concern for a person who may be brought back, keeping mercy within its demanding call to faithfulness.",
+        "Read James by noticing where a teaching becomes concrete. Ask what listening, speaking, spending, planning, or welcoming would look like if the word were being practiced. The book’s directness can be bracing, yet its starting point is the generosity of God. His good gift is meant to produce a people whose faith becomes visible through patient endurance, honest speech, and active care."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Trials, wisdom, and responsive hearing",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Endurance, desire, God’s gifts, and doing the word."
+    },
+    {
+      "label": "Mercy and active faith",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Partiality, neighbor-love, and faith expressed in works."
+    },
+    {
+      "label": "Speech and true wisdom",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "The power of the tongue and the character of wisdom from above."
+    },
+    {
+      "label": "Desire, humility, and dependence",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Quarrels, repentance, judgment, and plans for the future."
+    },
+    {
+      "label": "Justice, patience, and prayer",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "Warnings to the unjust rich, endurance, healing prayer, and restoration."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Integrity",
+      "description": "Hearing and doing belong in one undivided life."
+    },
+    {
+      "name": "Mercy and justice",
+      "description": "Faith must shape welcome and material conduct."
+    },
+    {
+      "name": "Wise speech",
+      "description": "The way people speak reveals what is forming their hearts."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Early Christian communities; exact date disputed",
+    "context": "The letter addresses ongoing communal life. Its examples from Abraham, Rahab, the prophets, and Job serve wisdom instruction rather than a dated narrative sequence.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 5,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Early Christian communities; exact date disputed",
+      "note": "The letter addresses ongoing communal life. Its examples from Abraham, Rahab, the prophets, and Job serve wisdom instruction rather than a dated narrative sequence."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "James · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "James · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/james/lessons/summary-of-james/"
+    }
+  ]
+}

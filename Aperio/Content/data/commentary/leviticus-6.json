@@ -1,0 +1,57 @@
+{
+  "book": "Leviticus",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 6: The Grace Hidden in Restitution",
+      "overview": [
+        "At its heart, Leviticus 6 reveals that true forgiveness always has a price tag, and the cost reveals the depth of God's love for both justice and mercy. This passage shows us that sin damages not just our relationship with God, but with one another, and authentic repentance requires both returning to God and making things right with those we've wronged.",
+        "The opening instructions about the burnt offering establish an important principle: the fire of God's altar never went out. Continuously, night and day, the coals burned—a living reminder that God's holiness and desire for relationship are constants, never cooling toward His people. But what strikes deepest is the restitution law that follows. When someone has sinned and broken trust—whether through theft, fraud, or exploitation of the vulnerable—restoration demanded far more than mere return of goods. The guilty party had to return what was taken plus one-fifth additional as penalty and then bring a guilt offering to the priest.",
+        "This pattern teaches something profound about human dignity and broken relationships. God doesn't treat sin as a private matter between the individual and Himself alone. Wrong done to another person matters immensely. It demands acknowledgment, visible recompense, and a willingness to bear the cost of restoration. Notice the generosity required: you don't get off cheaply when you've wronged someone. You pay back plus interest.",
+        "In our modern culture, we often want forgiveness to be instantaneous and free. We confess, we move on. But Leviticus invites deeper reflection. Genuine reconciliation costs something. It requires us to face what we've taken, to make concrete restitution, and to accept that trust, once broken, must be rebuilt through sustained right action. This isn't God being harsh; it's God honoring the worth of His image-bearers and the weight of our words and deeds.",
+        "When you've wronged someone, are you willing to do whatever it takes—not just to confess, but to restore?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 6: Scholarly study",
+      "overview": [
+        "Leviticus 6 continues the priestly manual begun in the preceding chapters, transitioning from instructions directed toward the lay Israelite to detailed protocols for the Aaronic priesthood regarding the administration of sacrifices. The chapter divides into two major sections in the Hebrew text, though English translations following the Septuagint versification begin at what is 6:8 in the Masoretic tradition. The opening verses (6:1–7 in Hebrew, 5:20–26 in some numbering systems) conclude the guilt offering legislation by addressing cases of sacrilege against a neighbor—fraud, theft, false oaths—which simultaneously constitute offenses against Yahweh, thereby requiring both restitution plus twenty percent and a sacrificial ram.",
+        "The term *ʾāšām* (guilt/reparation offering) carries the semantic range of both the offense itself and the means of its expiation, highlighting the Hebrew conception that sacrifice addresses the objective guilt incurred rather than merely subjective feelings. The requirement of confession and restitution before sacrifice underscores that ritual action cannot substitute for moral rectification—a principle later prophets would emphasize against formalistic worship.",
+        "The subsequent priestly instructions (*tôrâ*) for the burnt offering mandate that the altar fire remain perpetually burning (*tûqad*), a continuous flame symbolizing Israel's unceasing devotion and Yahweh's abiding presence. The priests' consumption of the grain offering's remainder in the sacred precincts establishes the principle of priestly sustenance through sacrificial portions, though the specification that it must be eaten unleavened (*maṣṣôt*) in the court of the Tent of Meeting emphasizes the holy status of these portions.",
+        "The chapter's attention to priestly vestments—linen garments for ash removal, different clothing for carrying ashes outside the camp—reflects the broader Levitical concern with maintaining categorical boundaries between holy and common, clean and unclean. The detailed choreography of sacrificial procedure served pedagogical purposes, training priests in the habitus of holiness while simultaneously reinforcing theological convictions about divine unapproachability and the careful mediation required for sinful humanity to dwell alongside the Holy One of Israel. Later rabbinic interpretation would extensively develop these regulations, while Christian interpreters from Hebrews onward would read them typologically as shadows anticipating Christ's definitive priesthood."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 6: Prophetic perspective",
+      "overview": [
+        "Leviticus chapter six was given to Israel approximately 1445 years before Christ, during the forty years of wilderness wandering, shortly after the exodus from Egypt and the construction of the tabernacle at Sinai. This places the passage firmly within the Mosaic covenant era, after God had redeemed His people from bondage but before their entrance into the promised land. The instructions here form part of the priestly legislation that would govern Israel's worship for the next fourteen centuries until the coming of the true High Priest.",
+        "Within the grand redemptive arc, Leviticus six stands at a critical juncture between Exodus and Kingdom. God has delivered His people and now dwells among them in the tabernacle, but the problem of sin remains. How can a holy God maintain fellowship with an unholy people? These sacrificial regulations provide the answer under the old covenant while simultaneously pointing forward to a greater resolution.",
+        "The chapter opens with laws concerning the guilt offering for sins against a neighbor—fraud, theft, false oaths, and the retention of lost property. Significantly, restitution must accompany sacrifice; the guilty party must restore what was taken plus a fifth of its value. Here we glimpse a profound typological pattern. Christ not only bore the penalty for our sins but restored what Adam's transgression had stolen, and He restored it with immeasurable increase. Where sin abounded, grace superabounded.",
+        "The perpetual fire on the altar burns with eschatological significance. The command that the fire \"shall not go out\" speaks of the unceasing efficacy of Christ's atoning work. His sacrifice, offered once, burns eternally before the Father. The priests were to feed this fire every morning, adding wood and arranging the burnt offering—a picture of the church's continual presentation of Christ's finished work in prayer and worship.",
+        "The grain offering regulations reveal the priests eating the unleavened remainder in the holy place. They consumed what had been offered to God, sharing in the divine meal. This typifies believers who feed upon Christ, the Bread of Life, in holy communion with the Father. We partake of the very sacrifice that reconciled us.",
+        "The anointing of Aaron's sons and the perpetual grain offering at their consecration foreshadow the church's continual priestly ministry. Every generation of believers is anointed by the Spirit and offers spiritual sacrifices through Christ.",
+        "For the church living between the advents, Leviticus six reminds us that our great High Priest has made full restitution, the altar fire never dims, and we feast eternally on the sacrifice that saves."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.948217+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

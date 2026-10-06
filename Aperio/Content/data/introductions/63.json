@@ -1,0 +1,117 @@
+{
+  "book": "3 John",
+  "bookIndex": 63,
+  "status": "Editorial draft",
+  "title": "3 John: Opening the Door to Faithful Work",
+  "subtitle": "Gaius’s hospitality and Diotrephes’s ambition expose two different ways of using influence in the church.",
+  "atAGlance": {
+    "genre": "Personal pastoral letter",
+    "setting": "A local dispute over hospitality, traveling Christian workers, and the elder’s authority.",
+    "composition": "Written by the elder, traditionally identified with John the apostle. Commonly associated with the Johannine circle in the later first century; exact authorship is uncertain.",
+    "audience": "Gaius, a Christian known to the writer and commended for supporting visiting believers."
+  },
+  "sections": [
+    {
+      "title": "Faithfulness becomes a welcome",
+      "paragraphs": [
+        "Third John begins with affection for Gaius and joy over reports that he is walking in truth. The elder’s concern is personal: he wishes Gaius well in health and daily life, and he values the integrity that others have observed in him. From that warm beginning, the letter moves toward a dispute that threatens the community’s welcome of Christian workers.",
+        "Gaius has supported people who were initially strangers to him. Their shared commitment to the name of Christ has become a reason for practical generosity. The elder recognizes that help as participation in their work. A person does not need to be the traveling preacher to become a fellow worker for the truth. A home, a meal, encouragement, and the resources for a journey can all help sustain faithful witness."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The people behind the correspondence",
+      "paragraphs": [
+        "Like Second John, the letter identifies its author only as the elder. Tradition associates this voice with John the apostle; modern scholarship also considers a leader within the Johannine community whose precise identity cannot be recovered. The letter is commonly placed toward the end of the first century. Its close relation to the language and concerns of Second John is apparent, though the exact order and circumstances of the letters remain uncertain.",
+        "Gaius, Diotrephes, and Demetrius are named, but their biographies are not supplied. Gaius was a common name, so it is unwise to identify this recipient confidently with every Gaius mentioned elsewhere in the New Testament. The concrete evidence is sufficient for the letter’s purpose: Gaius has shown hospitality, Diotrephes has opposed the elder and the visiting believers, and Demetrius receives a favorable commendation."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Material help is part of the mission",
+      "paragraphs": [
+        "The traveling believers have gone out for the Name and have not relied on support from those outside the faith. The elder therefore asks Gaius to help them continue in a manner worthy of God. The appeal connects the quality of the welcome with the One whom the workers serve. Hospitality is more than a courtesy; it expresses what the church believes about its shared calling.",
+        "The opening wish for Gaius’s well-being should be heard in this personal setting. It is a prayer for a friend, not a universal promise that spiritual maturity always produces wealth or physical health. The rest of the letter measures faithfulness through conduct and generosity. Its concern is how available resources are used in service, rather than how much prosperity a believer can claim as proof of divine approval."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "When leadership becomes possession",
+      "paragraphs": [
+        "Diotrephes is described as loving to be first. That desire appears through specific actions: he refuses the elder’s authority, spreads malicious talk, rejects the visiting believers, and obstructs those who would receive them. The problem is not merely a difference of opinion about arrangements. Influence is being used to control the community’s relationships and punish an alternative course of action.",
+        "The elder intends to address this behavior when he comes. Gaius is meanwhile urged to imitate what is good. Demetrius offers a contrasting example through the testimony given about him. The letter does not tell us exactly what office each man held or how the conflict was resolved. Its moral contrast is nonetheless clear: leadership should advance truth and shared service, while ambition can turn a congregation into territory to be defended."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading a conflict with care",
+      "paragraphs": [
+        "This short account comes from one participant in a real dispute, so readers should avoid inventing motives or events beyond those described. The named behaviors deserve serious attention, and the lack of a complete history calls for restraint. Third John gives a case to consider, not permission to label every difficult colleague a Diotrephes.",
+        "Its relationship to Second John is particularly helpful. One letter warns against supporting teachers who undermine the confession of Christ; the other rebukes the refusal to welcome faithful workers. The church needs both discernment and generosity. Either can be distorted when separated from the truth and love they are meant to serve.",
+        "The closing desire for face-to-face conversation returns the conflict to the setting of personal relationship. Friends are to be greeted by name. Read the letter with that detail in mind: the community consists of people whose gifts, needs, and reputations matter. A faithful church makes room for their service and protects them from the narrowing effects of possessive leadership. Gaius’s quiet hospitality shows how much good can begin with an open door and a willingness to help."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Hospitality, contested leadership, and faithful example",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Gaius is commended, Diotrephes’s conduct is challenged, and Demetrius receives a favorable testimony."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Shared service",
+      "description": "Supporting faithful workers makes the community a partner in their mission."
+    },
+    {
+      "name": "Accountable leadership",
+      "description": "Authority must serve truth rather than personal prominence."
+    },
+    {
+      "name": "Personal fellowship",
+      "description": "Christian care recognizes particular people and their concrete needs."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Later first-century Christian communities",
+    "context": "The setting is a local dispute within an early Christian network. The precise location and sequence of visits are not supplied.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 1,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Later first-century Christian communities",
+      "note": "The setting is a local dispute within an early Christian network. The precise location and sequence of visits are not supplied."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "3 John · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "3 John · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/3-john/lessons/summary-of-3-john/"
+    }
+  ]
+}

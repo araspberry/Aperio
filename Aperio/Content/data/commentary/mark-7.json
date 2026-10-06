@@ -1,0 +1,54 @@
+{
+  "book": "Mark",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 7: The Heart of True Worship",
+      "overview": [
+        "The spiritual heart of Mark 7 is a piercing exposure of religious deception—the way we can construct elaborate systems of obedience while our hearts remain distant from God. Jesus cuts through centuries of tradition to reveal that external conformity means nothing when the inner life is unchecked.",
+        "The conflict begins with Pharisees criticizing disciples for eating without the ritual hand-washing prescribed by their traditions. Rather than defending His followers' dietary practices, Jesus reframes the entire conversation. He quotes Isaiah to show that God was never impressed by these external rules in the first place. The real issue has always been the human heart—what we treasure, what we desire, what we allow to rule us. From the heart, Jesus says, come the things that actually defile us: evil intentions, sexual immorality, theft, murder, and slander.",
+        "This cuts uncomfortably close to home for every believer. We are tempted toward the same religious performance the Pharisees perfected. We show up to church, volunteer, speak the right language, avoid obvious sins—and believe ourselves righteous. Yet Jesus invites us to ask harder questions: What are we genuinely hungry for? What dominates our thoughts when no one is watching? Where does our real allegiance lie?",
+        "The passage then shows Jesus healing a Syrophoenician woman's daughter and a deaf man, demonstrating that His power and compassion flow freely beyond the boundaries the religious establishment had drawn. He came not to perfect external systems but to transform hearts—to make us whole from the inside out.",
+        "What would change in your faith if you stopped measuring spiritual health by external performance? Spend time this week examining not just your actions, but the desires and fears that drive them. Ask the Spirit to reveal any places where you've substituted ritual for genuine love, and invite Him to do the deeper work of transformation that only He can accomplish."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 7: Scholarly study",
+      "overview": [
+        "Mark 7 presents a pivotal discourse on purity, tradition, and the nature of defilement that marks a significant turning point in Jesus's Galilean ministry. The chapter opens with Pharisees and scribes from Jerusalem—their geographic origin signaling official scrutiny—challenging Jesus's disciples for eating with unwashed hands, violating not Torah itself but the \"tradition of the elders\" (*paradosis tōn presbyterōn*). Mark's explanatory parenthesis in verses 3–4 regarding Jewish purification customs indicates his predominantly Gentile audience, likely Roman Christians unfamiliar with Palestinian Jewish practices. Jesus responds with a devastating critique, citing Isaiah 29:13 to distinguish between divine commandment (*entolē tou theou*) and human tradition (*paradosis tōn anthrōpōn*), illustrating the latter's corrosive potential through the practice of *korban*—a dedication formula that could technically exempt one from supporting aging parents while circumventing the fifth commandment.",
+        "The passage reaches its theological apex in verses 14–23, where Jesus publicly declares that defilement originates not from external consumption but from the human heart (*kardia*), the seat of moral volition in Jewish anthropology. Mark's editorial comment that Jesus thereby \"declared all foods clean\" (*katharizōn panta ta brōmata*, v. 19) represents either Markan theological interpretation or an early church understanding of Jesus's teaching, a matter of considerable scholarly debate given its implications for later controversies reflected in Acts 10 and Galatians 2.",
+        "The chapter's second half shifts dramatically to Gentile territory—Tyre, Sidon, and the Decapolis—where Jesus encounters the Syrophoenician woman and heals a deaf man. The Syrophoenician pericope presents interpretive challenges: Jesus's reference to \"children's bread\" and \"dogs\" (*kynaria*, diminutive form) appears harsh, yet the woman's witty rejoinder elicits commendation and healing for her daughter. This narrative sequence following the purity discourse is hardly accidental; Mark juxtaposes Jesus's teaching that nothing external defiles with ministry extending beyond Israel's boundaries, suggesting that ethnic and ritual barriers are likewise relativized. The *Ephphatha* healing, employing Aramaic and physical touch, demonstrates Jesus's restoration of wholeness while the command to silence—consistently violated—continues Mark's messianic secret motif. Together, these episodes advance Mark's portrayal of the kingdom's boundary-transcending character."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 7: Prophetic perspective",
+      "overview": [
+        "Mark chapter seven unfolds during the middle years of Christ's public ministry, approximately AD 29, some three years before the cross and nearly two thousand years after Abraham received the covenant promises. This passage stands at the midpoint of redemptive history—the long-awaited Seed of Abraham now walks among His people, yet the religious establishment remains blind to His identity. The Incarnate Word has come to His own, and His own receive Him not.",
+        "Within the grand arc of God's plan, this chapter marks a decisive moment in the transition from shadow to substance. The Pharisees and scribes challenge Jesus over ceremonial washing, clinging to the traditions of the elders with fierce devotion. Yet here stands One greater than Moses, the very Lawgiver Himself, exposing the fatal error of elevating human tradition above divine command. When Christ declares all foods clean, He is not abolishing the law but fulfilling it, revealing that the dietary codes of Leviticus were always typological—external markers pointing toward the internal reality of heart purity that only He could accomplish. The clean and unclean distinctions established at Sinai find their terminus in the One who makes all things new.",
+        "The encounter with the Syrophoenician woman carries immense prophetic weight. Here is a Gentile, a daughter of ancient Canaan, approaching Israel's Messiah. Her faith pierces through ethnic and covenantal barriers, foreshadowing what Paul would later articulate: that in Christ, the dividing wall of hostility crumbles. The crumbs falling from the children's table prophetically anticipate the full feast that would come to the nations after Pentecost. What Israel received first, the Gentiles would inherit fully through faith.",
+        "The healing of the deaf man with the speech impediment echoes Isaiah's prophecy that when Messiah comes, the ears of the deaf shall be unstopped and the tongue of the mute shall sing. Jesus commands in Aramaic, \"Ephphatha—be opened,\" and creation obeys its Master's voice. This miracle stands as a sign of the greater opening yet to come: hearts deaf to God's word would hear, tongues unable to praise would confess Christ as Lord.",
+        "For the church living between the advents, this chapter speaks with urgent clarity. We who were once far off, unclean Gentiles feeding on crumbs, have been brought near through Christ's blood. The ceremonial has given way to the eternal. Now we await the final Ephphatha, when every ear shall hear and every tongue confess that Jesus Christ is Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.520864+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

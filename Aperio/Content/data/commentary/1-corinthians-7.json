@@ -1,0 +1,55 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 7: Love, Freedom, and Wholehearted Living",
+      "overview": [
+        "Paul addresses marriage and singleness with a pastoral tenderness that honors both callings as gifts from God, refusing to rank them or shame those who walk either path. The spiritual heart of this chapter is the conviction that whether married or single, our deepest calling is to belong wholly to Christ and serve Him with undivided devotion.",
+        "In a culture obsessed with romantic fulfillment as the highest good, Paul's perspective feels almost countercultural. He affirms marriage as a legitimate and blessed union—husbands and wives owe each other genuine love and physical affection—yet he also celebrates singleness as a viable way to pursue kingdom work with singular focus. Neither status determines spiritual maturity or divine favor. What matters is that we live with integrity, honoring our commitments and stewarding our circumstances as venues for worship.",
+        "The apostle speaks frankly about sexual desire, acknowledging it as real and powerful, not something to deny but to manage wisely. For those prone to burning with passion, marriage offers a legitimate outlet. For others, singleness provides freedom to serve without divided interests. But this isn't permission for selfishness in either state. Married believers submit to one another in love; single believers dedicate their independence to Christ's kingdom. Both require surrender.",
+        "Perhaps most liberating is Paul's insistence that our life situation—married or single, slave or free, circumcised or not—is less significant than our spiritual transformation in Christ. We can become so consumed with finding the \"right\" relational status that we miss the invitation to radical faithfulness right where we stand. Our circumstances are the canvas on which God paints our sanctification.",
+        "Whether you're navigating marriage, cherishing singleness, or longing for change, what would it mean to offer your present situation—not grudgingly but gratefully—as your offering to God? How might you serve Him wholeheartedly exactly where you are?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 7: Scholarly study",
+      "overview": [
+        "The seventh chapter of Paul's first letter to the Corinthian assembly represents one of the most extensive treatments of marriage, celibacy, and sexual ethics in the New Testament corpus. Written around 55 CE from Ephesus, this chapter responds directly to questions posed by the Corinthians in a previous correspondence, as indicated by the formulaic phrase \"now concerning\" (περὶ δέ, *peri de*) that introduces the discussion. The Corinthian community, situated in a cosmopolitan Roman colony notorious for its moral laxity and religious syncretism, apparently harbored factions with divergent views on sexuality—some advocating complete abstinence even within marriage, others perhaps maintaining more libertine positions.",
+        "Paul's opening declaration, often translated \"it is good for a man not to touch a woman,\" likely quotes a Corinthian slogan that the apostle then qualifies substantially. The term \"touch\" (ἅπτεσθαι, *haptesthai*) functions here as a euphemism for sexual relations, a usage attested in classical Greek literature. Paul neither fully endorses nor rejects this ascetic principle but situates it within a pastoral framework that acknowledges human weakness and the dangers of sexual immorality (πορνεία, *porneia*). His instruction regarding conjugal rights employs the remarkable term \"authority\" (ἐξουσία, *exousia*), applied reciprocally to both husband and wife—a strikingly egalitarian formulation for the ancient Mediterranean world.",
+        "The chapter's central theological contribution emerges in Paul's discussion of calling and remaining (verses 17–24), where he establishes a principle of contentment in one's present circumstances while awaiting the imminent eschaton. His preference for celibacy, grounded in apocalyptic urgency rather than body-soul dualism, reflects his conviction that \"the appointed time has grown short.\" Scholars debate whether Paul's concessions to marriage represent reluctant accommodation or genuine pastoral wisdom recognizing diverse gifts within the community.",
+        "Throughout the chapter, Paul carefully distinguishes between dominical commands and his own apostolic counsel, demonstrating methodological transparency unusual in ancient religious instruction. The passage's canonical significance extends beyond immediate ethical guidance, providing foundational principles for Christian reflection on vocation, embodiment, and the relationship between eschatological hope and present social arrangements. Later interpreters, from patristic writers to Reformation theologians, would engage this text extensively in developing Christian sexual ethics."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 7: Prophetic perspective",
+      "overview": [
+        "This chapter emerges from the apostolic age, written approximately twenty-five years after the resurrection and ascension of Christ, during a period when the church at Corinth wrestled with practical holiness amid a pagan culture saturated with sexual immorality. Paul composes this letter around AD 55, situating these instructions within the already-inaugurated kingdom that awaits its full consummation at Christ's return. The passage thus belongs to the Church Age—that remarkable epoch between Pentecost and the Second Coming when believers live as new creation people within the structures of the old creation that is passing away.",
+        "Within the grand redemptive arc, this teaching stands downstream from the Cross and upstream from the Marriage Supper of the Lamb. Paul addresses marriage, singleness, and divorce not as mere ethical regulations but as realities now transformed by the death and resurrection of Christ. The Edenic pattern of one man and one woman in covenant union remains the creation ordinance, yet Paul introduces what theologians call an \"eschatological reservation\"—the recognition that the present form of this world is passing away, lending provisional character to earthly institutions however good they may be.",
+        "The typological dimensions here are profound. Marriage itself, as Ephesians 5 makes explicit, has always been a shadow pointing toward the ultimate union between Christ and His Bride, the Church. Paul's commendation of singleness for undivided devotion to the Lord anticipates the resurrection age when, as Jesus taught, there will be neither marrying nor giving in marriage. Those who remain unmarried for the kingdom's sake become living parables of the age to come, embodying already what all the redeemed shall know fully—complete satisfaction in God Himself.",
+        "The \"present distress\" Paul references carries eschatological weight. Whether pointing to immediate persecution or the tribulations characteristic of the entire inter-advent period, it reminds the Church that she lives as a pilgrim people. The commands regarding the permanence of marriage echo Christ's own teaching, showing continuity between Jesus and His apostle while demonstrating that covenant faithfulness images the unbreakable bond between the Bridegroom and His people.",
+        "For the Church living between the advents, this passage calls believers to hold earthly goods—marriage, possessions, social status—with open hands, recognizing their temporary nature while honoring their present goodness. Whether married or single, the people of God are summoned to undistracted devotion, keeping their eyes fixed on the Bridegroom who is surely coming to claim His Bride and make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.791421+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

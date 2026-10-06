@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 14: The Architecture of a Wise Life",
+      "overview": [
+        "Proverbs 14 invites us into the quiet construction of a flourishing life—one built not through grand gestures but through the deliberate daily choices of a humble, God-fearing heart.",
+        "The chapter opens with a striking image: the wise woman builds her house, while the foolish tears hers down with her own hands. This isn't merely about domestic management; it speaks to how our choices create or destroy the very foundations of our lives. Every word we speak, every anger we harbor, every shortcut we take either adds structural integrity to our relationships, character, and peace—or weakens them. The wisdom Proverbs commends is refreshingly practical: it shows up in how we handle anger, guard our speech, work with diligence, and carry ourselves with humility.",
+        "What emerges throughout this chapter is a portrait of two different paths. One path is marked by the fear of the Lord—a healthy reverence that keeps us honest, humble, and aligned with truth. The other is paved with pride, quick judgment, and self-deception. Notice how often Proverbs 14 returns to the tongue: our words reveal what we truly believe and often predict our destiny. \"The tongue of the wise brings healing; the tongue of the fool brings ruin.\"",
+        "Perhaps most tenderly, this chapter reminds us that even in sorrow, hope remains possible. \"Even in laughter the heart may ache,\" yet a quiet trust in God's character sustains us through seasons of genuine grief. Life will bring us seasons of both joy and sorrow; wisdom teaches us to hold both honestly before the Lord.",
+        "The invitation here is to examine the small choices we make today. Are we building or tearing down? Are we speaking life or death? Are we trusting God's design or running from it?",
+        "What aspect of your life—relationships, work, speech, character—most needs the patient, constructive work of wisdom right now?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 14: Scholarly study",
+      "overview": [
+        "Proverbs 14 continues the second major collection of Solomonic wisdom sayings that began in chapter 10, presenting a series of antithetical parallelisms that contrast the wise and foolish, the righteous and wicked. This chapter exemplifies the didactic method characteristic of ancient Near Eastern wisdom literature, where discrete observations about life accumulate to form a comprehensive moral vision. The royal court setting of Israelite wisdom schools likely served as the original context for such instruction, though these proverbs eventually circulated more broadly as guidance for covenant community life.",
+        "The chapter opens with a striking contrast between the wise woman who builds (*bānâ*) her house and the foolish one who tears it down with her own hands (v. 1). This architectural metaphor extends beyond domestic management to encompass the establishment of familial legacy and social stability, resonating with wisdom's role in creation itself (3:19). The Hebrew term *'iwwelet* (folly) appears prominently throughout the chapter, denoting not merely intellectual deficiency but a moral obtuseness that refuses correction and leads to destruction.",
+        "Particularly significant is verse 12, which warns that \"there is a way that seems right (*yāšār*) to a person, but its end is the way of death.\" This observation introduces an epistemological humility into proverbial wisdom, acknowledging the limits of human perception and the deceptive nature of self-justification. The repetition of this proverb verbatim in 16:25 underscores its importance within the collection. Similarly, verse 31 connects treatment of the poor directly to one's relationship with their Maker, anticipating prophetic concerns about social justice and establishing that oppression of the vulnerable constitutes an affront to God himself.",
+        "The chapter's theological center emerges in verse 26-27, where the fear of Yahweh provides secure refuge and functions as a fountain of life. Interpreters debate whether this \"fear\" (*yir'â*) denotes primarily reverent worship or ethical obedience, though the integrated worldview of Proverbs suggests both dimensions remain inseparable. The juxtaposition of practical observations about agriculture, speech, and governance with explicit Yahwistic piety demonstrates that for Israel's sages, all wisdom ultimately derives from and returns to covenantal relationship with the Creator."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 14: Prophetic perspective",
+      "overview": [
+        "Proverbs 14 emerges from the golden age of Israel's united monarchy, penned approximately 950 years before Christ's incarnation, during the reign of Solomon when wisdom literature flourished under the prosperity and peace that David's wars had secured. This chapter sits within the Kingdom era of redemptive history, that brief shining moment when Israel possessed land, king, and temple—the visible form of God's reign among His covenant people, pointing forward to the greater Kingdom that would come through David's ultimate Son.",
+        "The wisdom sayings gathered here operate on multiple levels simultaneously. On the surface, they offer practical guidance for daily living in covenant community. Yet beneath this practical layer runs a deeper prophetic current. When Solomon declares that \"in the fear of the LORD there is strong confidence\" and that the fear of the Lord is \"a fountain of life,\" he echoes the Edenic promise and anticipates what Christ would later proclaim to the Samaritan woman—that He Himself would become the fountain of living water springing up to eternal life. The wisdom theology of Proverbs consistently points beyond itself to a Person, for Wisdom personified throughout these collections finds ultimate embodiment in Him who became for us wisdom from God.",
+        "The contrast between the wise woman who builds her house and the foolish woman who tears it down with her own hands carries typological weight. Israel herself was called to be the wise builder among the nations, yet her history would prove her often foolish, dismantling through idolatry and injustice what God had constructed. This pattern finds resolution only in Christ, the true Wisdom of God, who builds His house—the Church—upon the rock, and against which the gates of hell shall not prevail.",
+        "The prophetic thread concerning the poor weaves prominently through this chapter. \"Whoever oppresses a poor man insults his Maker, but he who is generous to the needy honors him.\" This ethical demand anticipates the prophetic thundering of Amos and Isaiah, who would arise two centuries later to condemn Israel's exploitation of the vulnerable. More significantly, it prefigures Christ's identification with the least of these, where ministry to the poor becomes ministry to the King Himself.",
+        "For the Church dwelling between the advents, Proverbs 14 calls us to embody cruciform wisdom—building households and communities marked by righteousness, caring for the marginalized, and fearing the Lord who alone secures our eternal confidence. We build now for the city whose foundations are eternal."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.603973+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

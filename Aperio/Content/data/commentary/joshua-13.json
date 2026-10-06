@@ -1,0 +1,58 @@
+{
+  "book": "Joshua",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 13: The Promise Still Waits",
+      "overview": [
+        "The spiritual heart of Joshua 13 lies in a striking tension: God has accomplished mighty deeds, yet much land remains to be possessed. Even at the threshold of rest, the work of faith continues—a reality that mirrors every believer's journey of sanctification.",
+        "Joshua stands at the boundary of old age, and the Lord reminds him that despite decades of conquest, significant territory remains unclaimed. The chapter catalogs lands yet unconquered and territories already distributed among the tribes. This might seem like a letdown, a story of incompleteness. Yet God frames it differently. He is not expressing disappointment; He is inviting continued partnership. The promised inheritance belongs to Israel, but claiming it requires their active participation and persistent faith across generations.",
+        "This passage echoes a profound spiritual principle: salvation is both finished and unfolding. Christ has won the ultimate victory, yet we live in the in-between, where sanctification is our daily work. We cannot sit passively in our spiritual conquest, expecting maturity to arrive without effort. The land of our potential in Christ—freedom from habitual sin, deepening love, kingdom impact—awaits our courageous steps of faith. Some battles we face in prayer; others demand we stand up and advance.",
+        "The distribution of land also reveals God's gracious leadership. He doesn't force the tribes into conquest; He allots territories and leaves room for their obedience. Similarly, our Father doesn't control us like puppets. He calls, equips, and invites us to walk in the inheritance He has secured. The Christian life thrives at this intersection of divine promise and human responsibility.",
+        "Joshua's advanced age reminds us that this work transcends one lifetime. The call to advance in faith passes from generation to generation. No single believer completes the full picture of God's kingdom work; we are part of something larger, something that stretches beyond us.",
+        "What territory has God appointed for you to possess right now? What would courage look like in your circumstances?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 13: Scholarly study",
+      "overview": [
+        "Joshua 13 marks a significant structural transition in the book, shifting from conquest narratives to administrative concerns of land allocation. The chapter opens with a divine acknowledgment that Joshua has grown old, yet substantial territory remains unconquered—a tension that pervades the Deuteronomistic History's presentation of Israel's settlement. The unconquered regions listed in verses 2–6, including Philistine territories and Phoenician coastal areas, would remain problematic throughout Israel's monarchic period, suggesting the author writes with knowledge of these persistent challenges.",
+        "The Hebrew phrase \"zāqantā bāʾtā bayyāmîm\" (you are old, advanced in years) in verse 1 echoes formulaic language found elsewhere in the Hebrew Bible regarding aged patriarchal figures, connecting Joshua typologically to Abraham and David. This acknowledgment introduces an eschatological tension: the promise of complete possession stands alongside the reality of partial fulfillment, a theological problem the text addresses through the assurance that Yahweh himself will drive out the remaining inhabitants.",
+        "The chapter's larger portion (verses 8–33) provides a detailed cadastral survey of Transjordanian allocations previously granted by Moses to Reuben, Gad, and the half-tribe of Manasseh. The term \"naḥălâ\" (inheritance, possession) appears repeatedly, emphasizing the theological concept that land ownership derives from divine grant rather than military achievement alone. The geographical specificity—referencing cities such as Heshbon, Dibon, and the territories of defeated kings Sihon and Og—reflects administrative record-keeping traditions and serves to legitimize Israelite claims to these regions.",
+        "Notably, verse 14 declares that Levi received no territorial inheritance, with Yahweh himself constituting their portion—a principle reinforced in verse 33. This Levitical exception underscores the tribe's unique cultic function and economic dependence on sacrificial portions.",
+        "Scholars debate whether this material preserves authentic early traditions or represents later idealized reconstruction. The boundary descriptions share affinities with ancient Near Eastern land-grant documents, suggesting possible archival sources, though the theological shaping is unmistakably Deuteronomistic. The chapter thus functions both as geographical record and theological testimony, affirming that Israel's territorial inheritance, whether possessed or promised, derives ultimately from divine faithfulness to ancestral covenant."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 13: Prophetic perspective",
+      "overview": [
+        "Joshua 13 unfolds approximately 1400 years before the birth of Christ, during the conquest era following Israel's forty years of wilderness wandering. Joshua himself is now advanced in years—the text tells us he was \"old and stricken in years\"—and the generation that crossed the Jordan under his leadership has begun to see the fulfillment of promises made to Abraham some six centuries earlier. This chapter marks a pivotal transition from active conquest to tribal inheritance, standing at the threshold between the Exodus-Conquest phase and the settlement period that would eventually lead to the Judges and the monarchy.",
+        "The divine voice that opens this chapter carries both acknowledgment and commission: much land remains to be possessed. Here we encounter a profound prophetic principle woven throughout redemptive history—the \"already and not yet\" tension that characterizes God's kingdom purposes. The promise was certain, the victory assured, yet the full appropriation required ongoing faithfulness across generations. This pattern would repeat itself in the return from Babylonian exile, in the inauguration of the messianic kingdom, and continues in the church's present experience of salvation already secured yet glorification still awaited.",
+        "The detailed geographical boundaries catalogued here—from the Shihor east of Egypt to the borders of Ekron, from Bashan to the slopes of Pisgah—reveal that God's redemption is never merely spiritual abstraction but involves concrete, measurable, territorial reality. These tribal allotments foreshadow the inheritance language that pervades the New Testament, where believers are described as having obtained an inheritance incorruptible and undefiled. What was land for Israel becomes, in Christ, an eternal kingdom that cannot be shaken.",
+        "Particularly significant is the portion given to Levi: \"The LORD God of Israel was their inheritance.\" This priestly tribe received no territorial allotment because their possession was the Lord Himself. Here stands a type of the new covenant reality where all believers, constituted as a royal priesthood, find their ultimate inheritance not in earthly territory but in God Himself—the surpassing worth of knowing Christ Jesus.",
+        "The Reubenites, Gadites, and half-tribe of Manasseh receiving their inheritance east of Jordan presents a sobering type of those who settle for less than God's fullest purposes, choosing convenience over Canaan's heart.",
+        "For the church awaiting Christ's return, Joshua 13 declares that our inheritance is certain, our boundaries divinely determined, and our ultimate portion is the Lord Himself—the one in whom all promises find their eternal yes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.213319+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 3: The Gift of Being Born Again",
+      "overview": [
+        "The spiritual heart of John 3 is that salvation is not self-improvement or moral achievement—it is a radical transformation that only God can accomplish, offered to us as a free gift through Christ.",
+        "This chapter opens with Nicodemus, a respected religious teacher who approaches Jesus at night, sensing something true about him yet unable to fully understand. Jesus's response cuts through all pretense: \"Unless someone is born again, they cannot see the kingdom of God.\" The phrase stirs confusion and resistance. Nicodemus thinks in terms of human effort and natural categories—how can an old man re-enter his mother's womb? But Jesus speaks of something invisible, spiritual, and sovereign. Being born again is not about trying harder or knowing more. It is about becoming new in a way we cannot engineer ourselves.",
+        "This truth challenges our deepest instinct toward self-reliance. In our culture, we are trained to pull ourselves up, fix ourselves through discipline and knowledge, and earn our way forward. Yet Jesus tells us that spiritual life requires surrender and receptivity like an infant. We cannot birth ourselves. We receive life as a gift from the Spirit, as mysterious and uncontrollable as wind. This does not make us passive—rather, it makes us dependent, and in that dependence, we discover freedom.",
+        "The passage then pivots to its most beloved verse: \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" Here is the foundation of everything—not judgment or condemnation, but love so prodigious it seems impossible. God did not send his Son to condemn us but to save us. The offer is radically inclusive: whoever believes. No exceptions. No prerequisites. Just belief in the one who embodies love itself.",
+        "What are you still trying to do on your own that only Christ can accomplish? How might surrender and receptivity actually become your greatest strength?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 3: Scholarly study",
+      "overview": [
+        "The third chapter of John's Gospel stands as one of the most theologically dense passages in the New Testament, presenting a nocturnal dialogue between Jesus and Nicodemus that transitions seamlessly into Johannine theological reflection. Nicodemus, identified as a Pharisee and \"ruler of the Jews\" (ἄρχων τῶν Ἰουδαίων, *archōn tōn Ioudaiōn*), likely a member of the Sanhedrin, approaches Jesus under cover of darkness—a detail laden with Johannine symbolism, where night consistently represents spiritual blindness or incomplete understanding. This encounter follows Jesus' temple cleansing and the signs performed in Jerusalem, which Nicodemus explicitly references as his motivation for seeking Jesus.",
+        "The dialogue centers on the enigmatic declaration that one must be born \"again\" or \"from above\" (ἄνωθεν, *anōthen*), a term deliberately ambiguous in Greek, supporting both temporal and spatial meanings. Nicodemus's literalistic misunderstanding—a common Johannine literary device—creates opportunity for deeper exposition. Jesus clarifies through the phrase \"born of water and Spirit\" (ἐξ ὕδατος καὶ πνεύματος, *ex hydatos kai pneumatos*), which has generated substantial interpretive debate. Proposals range from references to natural birth and spiritual regeneration, to Jewish purification rituals, to Christian baptism—though the latter raises questions of anachronism within the narrative setting.",
+        "The famous declaration of John 3:16 employs the verb ἀγαπάω (*agapaō*) to describe divine love expressed through the giving of the \"only begotten\" or \"unique\" Son (μονογενής, *monogenēs*), a term emphasizing qualitative uniqueness rather than biological generation. Scholars debate where Jesus's direct speech concludes and the Evangelist's commentary begins, with most identifying a transition somewhere between verses 12 and 21.",
+        "The chapter concludes with John the Baptist's final testimony, employing the bridegroom metaphor and articulating the theological principle of necessary decrease before Christ's increase. This passage demonstrates sophisticated literary construction, weaving together dialogue, misunderstanding, explanation, and testimony into a unified theological statement about regeneration, divine initiative in salvation, and the cosmic significance of the incarnation. The interplay of light and darkness imagery throughout anticipates the Gospel's broader dualistic framework while establishing foundational Christological and soteriological themes that subsequent chapters will elaborate."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 3: Prophetic perspective",
+      "overview": [
+        "John chapter three stands at the threshold of the new covenant age, written near the close of the first century yet recounting events from approximately AD 27–28, during the early Galilean ministry of Jesus Christ. This moment occurs roughly two thousand years after Abraham, fifteen hundred years after Moses, one thousand years after David, and mere years before Calvary's cross would tear the temple veil and inaugurate the age of the Spirit. We stand here at the hinge of redemptive history, where promise meets fulfillment and shadow gives way to substance.",
+        "The encounter between Nicodemus and Jesus reveals the radical discontinuity between old covenant religion and new covenant reality. Nicodemus represents the highest attainment of Israel's religious life—a Pharisee, a ruler, a teacher—yet Jesus declares that even this is insufficient for seeing the kingdom of God. The new birth Jesus announces is not reformation but regeneration, not improvement of the flesh but creation of an entirely new humanity. Here the prophetic promises of Ezekiel find their interpretive key: the sprinkling of clean water, the new heart, the Spirit placed within—these ancient oracles now receive their definitive explanation from the lips of Israel's Messiah Himself.",
+        "The typological center of this chapter blazes forth in Jesus' reference to Moses lifting up the serpent in the wilderness. That strange episode in Numbers 21, where dying Israelites were healed by gazing upon a bronze serpent on a pole, was always pointing beyond itself. The serpent represented the curse; the lifting up represented public display; the looking represented faith. So must the Son of Man be lifted up—bearing the curse, displayed publicly on a Roman cross, becoming the object of saving faith for all who look to Him. What was enacted in the wilderness as temporary physical healing is fulfilled at Golgotha as eternal spiritual salvation.",
+        "John 3:16 thunders across redemptive history as the gospel in miniature: God's love, God's gift, God's Son, the world's belief, eternal life. This is the purpose toward which creation groaned, toward which Abraham journeyed, toward which Israel's sacrifices pointed, and toward which the prophets strained to see.",
+        "For the church living between the advents, this chapter establishes our identity as those born of the Spirit, our message as Christ crucified and risen, and our mission as heralds of the light that has come into the world. The judgment spoken here awaits its final consummation when He who was lifted up on a cross returns lifted up in glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.615728+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

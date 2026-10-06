@@ -1,0 +1,135 @@
+{
+  "book": "Joshua",
+  "bookIndex": 5,
+  "status": "Editorial draft",
+  "title": "Receiving a Land, Learning a Responsibility",
+  "subtitle": "Joshua leads Israel across the Jordan into the unfinished work of covenant life",
+  "atAGlance": {
+    "genre": "Theological historical narrative, boundary lists, and covenant speeches",
+    "setting": "Entry into Canaan and the early settlement of Israel’s tribes",
+    "composition": "Older traditions shaped into a book whose authorship and stages of editing remain debated",
+    "audience": "Israel reflecting on possession of the land and the allegiance needed to live there"
+  },
+  "sections": [
+    {
+      "title": "A successor stands where Moses once stood",
+      "paragraphs": [
+        "Joshua begins with the death of Moses. The people still have a promise to receive, but the leader who brought them out of Egypt is gone. God commissions Joshua with a call to courage joined to careful attention to the Torah. Courage in this opening is not simply confidence in personal ability. Joshua must learn to lead within an authority he has received, remembering the instruction that governs both him and the people.",
+        "The Jordan crossing recalls the earlier passage through the sea. Memorial stones make the event something children will later ask about. Israel’s entry into the land is framed by remembrance, worship, and dependence before it becomes a story of campaigns and boundaries. The past is carried into the new setting rather than discarded at its border."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Promises and unsettling encounters",
+      "paragraphs": [
+        "Rahab’s story complicates any easy assumption about who will respond faithfully. She is a resident of Jericho, yet recognizes the LORD’s power and acts to protect the Israelite messengers. Achan, by contrast, belongs inside Israel but violates the command concerning devoted things. The juxtaposition directs attention toward allegiance and action, while showing that membership in the community does not make wrongdoing inconsequential.",
+        "Joshua also tells of the Gibeonites’ deception and the obligation created by Israel’s oath. Leaders must live with the results of choices made without adequate discernment. Such episodes give the book moral texture. Its victories do not eliminate the need for truthful judgment, restraint, or responsibility for promises once made."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading the warfare honestly",
+      "paragraphs": [
+        "The accounts of destruction are among the book’s hardest material. They should not be softened into an image of overcoming personal obstacles. The text presents warfare within Israel’s particular account of divine judgment and possession of the land. Readers need to attend to its ancient setting, its severe claims, and the lives involved. These passages do not authorize contemporary readers to designate other peoples as enemies to be eliminated.",
+        "The book itself also preserves complexity: broad summaries of victory stand alongside notices of territory still unpossessed and communities remaining in the land. Scholars debate how the narratives relate to the long historical process of Israel’s emergence in Canaan. Keeping that discussion distinct from the text’s theological purpose allows us to read carefully without inventing a simple, fully settled reconstruction."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    },
+    {
+      "title": "Why the boundaries matter",
+      "paragraphs": [
+        "The allocation chapters slow the pace considerably. Land is divided among tribes, particular families bring claims, and cities are set apart for refuge and for Levites. A promise that once sounded distant becomes a network of places in which households must make their lives. The lists express belonging, but also limits: a people cannot receive an inheritance without recognizing the claims of others.",
+        "The eastern tribes’ return home produces a dangerous misunderstanding about an altar. Conversation prevents a conflict that suspicion could have made disastrous. Near the close, Joshua gathers Israel to remember God’s acts and renew its commitment. The book’s final challenge concerns whom the people will serve after the excitement of arrival has passed."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading a received history",
+      "paragraphs": [
+        "The narrative belongs to the settlement era after Moses and before the monarchy. The book does not identify its final author. Many scholars study it alongside Deuteronomy, Judges, Samuel, and Kings as a history shaped by reflection on covenant faithfulness and eventual loss of the land. Its sources and stages of formation remain debated. The timeline therefore names the story’s broad era without assigning an exact date to each campaign.",
+        "As you read, keep promise and obligation together. Joshua celebrates God’s faithfulness, yet its closing speeches refuse to make the future automatic. An inheritance has to become a shared life. The questions that remain concern memory, loyalty, boundaries, and whether a community will continue to listen once it has received what it long desired."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Crossing and preparation",
+      "startChapter": 1,
+      "endChapter": 5,
+      "description": "Joshua is commissioned, the messengers meet Rahab, and Israel crosses the Jordan and prepares at Gilgal."
+    },
+    {
+      "label": "Campaigns and their consequences",
+      "startChapter": 6,
+      "endChapter": 12,
+      "description": "Jericho, Ai, the Gibeonites, and wider campaigns reveal victories, failures, and obligations."
+    },
+    {
+      "label": "An inheritance distributed",
+      "startChapter": 13,
+      "endChapter": 21,
+      "description": "Tribal territories, family claims, and appointed cities turn the land into a shared responsibility."
+    },
+    {
+      "label": "Farewell and renewed allegiance",
+      "startChapter": 22,
+      "endChapter": 24,
+      "description": "A dispute is resolved and Joshua calls the tribes to remember and serve the LORD."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Faithfulness",
+      "description": "The narrative presents receiving the land as the fulfillment of divine promise."
+    },
+    {
+      "name": "Allegiance",
+      "description": "Courage, identity, and leadership are tested through concrete choices."
+    },
+    {
+      "name": "Shared inheritance",
+      "description": "Boundaries and communal arrangements belong to the meaning of the gift."
+    }
+  ],
+  "timeline": {
+    "era": "settlement",
+    "dateLabel": "Entry into Canaan and early settlement",
+    "context": "Joshua leads the generation that follows Moses.",
+    "note": "The date and historical reconstruction of the campaigns remain debated."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 24,
+      "era": "settlement",
+      "label": "Joshua and the land",
+      "dateLabel": "After the wilderness, before the monarchy",
+      "note": "The book includes both campaign accounts and the organization of settled life."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Joshua · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Joshua",
+      "url": "https://bible.usccb.org/bible/joshua/0"
+    }
+  ]
+}

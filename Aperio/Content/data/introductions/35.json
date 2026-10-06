@@ -1,0 +1,144 @@
+{
+  "book": "Zephaniah",
+  "bookIndex": 35,
+  "status": "Editorial draft",
+  "title": "From a city under judgment to a people singing",
+  "subtitle": "The day of the LORD exposes complacency and opens a future for the humble and scattered.",
+  "atAGlance": {
+    "genre": "Prophetic judgment oracles and restoration poetry",
+    "setting": "Judah in the reign of Josiah, under the lingering shadow of Assyria",
+    "composition": "The heading places the ministry in 640–609 BC; exact timing and later shaping are debated",
+    "audience": "Jerusalem, Judah, neighboring nations, and a hoped-for renewed community"
+  },
+  "sections": [
+    {
+      "title": "A warning in the reign of Josiah",
+      "paragraphs": [
+        "Zephaniah’s heading locates his ministry during the reign of Josiah, king of Judah, in the late seventh century BC. It gives a longer genealogy than most prophetic headings, ending with a Hezekiah. Whether that ancestor is the king of that name is uncertain. The text does not establish a detailed biography or a precise point within Josiah’s reign.",
+        "The accusations against mixed worship are often associated with conditions before Josiah’s reforms, but that remains an inference rather than an explicit date in the book. Assyria’s influence and the vulnerability of the region form part of the wider historical background. The collected work moves from severe judgment to restoration; the dates and extent of its later literary shaping are debated."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "The day that interrupts complacency",
+      "paragraphs": [
+        "The opening announcement has a sweeping scale, naming humans and animals before focusing on Judah and Jerusalem. The effect is to unsettle the assumption that familiar life is permanent. The day of the LORD is portrayed through darkness, alarm, ruin, and distress. The prophet does not allow the phrase to function as an uncomplicated promise of national advantage.",
+        "The accusation includes those who combine allegiance to the LORD with other worship and those who have stopped seeking God at all. It also names a quieter form of resistance: the belief that God will do neither good nor harm. That practical indifference is confronted by the image of Jerusalem being searched with lamps. What remains socially hidden or emotionally unexamined is not beyond attention."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Money and position are inadequate refuges",
+      "paragraphs": [
+        "Officials, royal households, merchants, and people secure in their houses come within the warning. The point is not that only elites can do wrong, but that their normal protections will fail. Wealth cannot purchase escape from a judgment that reaches the structure of common life. The city’s everyday places become locations where its confidence is tested.",
+        "At the beginning of chapter 2, the summons to gather and seek the LORD introduces a response. Seeking righteousness and humility differs from calculating a guaranteed technique of safety. The language of possible shelter keeps the appeal urgent and dependent. The hearers are asked to change their relation to God and neighbor, not simply to acquire advance information about a coming catastrophe."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The map widens and then returns home",
+      "paragraphs": [
+        "Chapter 2 addresses peoples in several directions: the Philistine coast, Moab and Ammon, Cush, and Assyria. This widening map places Judah’s crisis within a larger moral world. No neighboring power becomes the unquestioned standard by which everyone else is judged. Nineveh’s imagined desolation is particularly striking because it answers a city that represents itself as uniquely secure.",
+        "Then chapter 3 returns to the rebellious city and its leaders. Officials are likened to predatory animals, prophets are unreliable, and priests violate their responsibilities. The turn prevents the audience from enjoying judgment on others while avoiding its own examination. The contrast is between corrupt leadership and the justice of the LORD in the city’s midst. Proximity to sacred things has not guaranteed moral responsiveness."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The future belongs to a changed people",
+      "paragraphs": [
+        "The restoration passages envision purified speech, common service, and a humble remnant. The change concerns how people relate and speak, not merely where they live. Deceit and pride are displaced, and the vulnerable are able to rest without fear. The hoped-for community is therefore qualitatively different from the complacent and predatory society described earlier.",
+        "The nations also enter this horizon. The same book that announced judgment across the world imagines peoples calling on the LORD and serving together. Judgment and gathering are both part of its movement. The reader should resist reducing the future to the advancement of one group at everyone else’s expense. The vision presses toward a reordered relationship among peoples under divine authority."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Joy answers fear without erasing history",
+      "paragraphs": [
+        "The final invitation to sing gains its force from everything that precedes it. God’s presence, earlier associated with exposure and judgment, now becomes the reason not to fear. The extraordinary image of God rejoicing over the people reverses the distance and dread that marked their alienation. The scattered, shamed, and impaired are gathered rather than treated as embarrassments to the restored community.",
+        "Read the closing promises alongside the book’s concern for humility, truthfulness, and justice. They are not detached assurances that an unchanged society will prosper. Nor should the day-of-the-LORD imagery be turned into a timetable for modern disasters. Zephaniah addresses a historical Judah while reaching toward a future beyond its failures. Its full arc carries the reader from the exposure of false security to the possibility of a community able to rejoice in a renewed relationship."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Judah’s false security exposed",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "The day of the LORD confronts mixed worship, indifference, and confidence in wealth."
+    },
+    {
+      "label": "Seek humility; the nations are addressed",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "An appeal to return is followed by oracles beyond Judah."
+    },
+    {
+      "label": "Jerusalem confronted and renewed",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Failed leadership gives way to purified speech, gathering, and joy."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Complacency",
+      "description": "Treating God as irrelevant is itself a form of estrangement."
+    },
+    {
+      "name": "Humility and truth",
+      "description": "The renewed community is characterized by dependence and reliable speech."
+    },
+    {
+      "name": "Gathered joy",
+      "description": "Restoration includes those who have been scattered, shamed, and vulnerable."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Josiah’s reign, 640–609 BC",
+    "context": "Late monarchic Judah",
+    "note": "The precise point within the reign is uncertain; the final restoration vision extends beyond the immediate audience."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "divided-kingdom",
+      "label": "Late monarchic Judah",
+      "dateLabel": "Josiah’s reign, 640–609 BC",
+      "note": "The precise point within the reign is uncertain; the final restoration vision extends beyond the immediate audience."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Zephaniah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Zephaniah",
+      "url": "https://bible.usccb.org/bible/zephaniah/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 18",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-18"
+    }
+  ]
+}

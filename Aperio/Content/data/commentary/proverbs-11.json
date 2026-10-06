@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 11: The Moral Architecture of a Flourishing Life",
+      "overview": [
+        "The eleventh chapter of Proverbs reveals how God has woven justice, generosity, and integrity into the very fabric of human existence—showing us that the way we live determines the kind of person we become and the world we create around us.",
+        "These thirty-one verses paint a stunning portrait of cause and effect in the moral universe. Unlike a purely random world, Proverbs assures us that pride precedes destruction while humility precedes honor (v. 2), that the righteous find deliverance while the treacherous are trapped (v. 6), and that generosity creates abundance while stinginess creates want (v. 24). This isn't magical thinking; it's the observation that human character has natural consequences. The person who builds their life on dishonesty finds themselves isolated and anxious. The one who cultivates kindness discovers themselves surrounded by reciprocal blessing.",
+        "What makes Proverbs 11 so pastorally urgent is its invitation into radical reorientation. We live in a culture promising that ruthlessness brings success, that self-interest leads to happiness, that deception is simply strategy. Proverbs counters this with an older, truer wisdom: the virtuous find their desires satisfied (v. 23), the righteous become a blessing (v. 11), and integrity becomes a shield (v. 3). This isn't prosperity theology but character theology—God designed us for flourishing through righteousness, not despite it.",
+        "The chapter particularly highlights the power of the tongue (v. 9, 11–13), reminding us that our words shape not only others' lives but our own souls. Speaking truth, offering encouragement, and guarding against slander aren't merely ethical obligations; they're practices that align us with the grain of creation itself.",
+        "What area of your life most needs the wisdom of this chapter? Where have you experienced the truth that integrity, generosity, or kindness eventually bears fruit? Consider asking God to realign one habit this week toward greater alignment with these timeless principles."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 11: Scholarly study",
+      "overview": [
+        "Proverbs 11 constitutes a significant portion of the Solomonic collection that spans chapters 10–22:16, representing the oldest stratum of material attributed to Israel's wisdom tradition. This chapter consists of antithetical parallelisms—a hallmark of Hebrew mashal literature—wherein each verse juxtaposes the righteous and the wicked, the wise and the foolish. The editorial arrangement, likely finalized during the post-exilic period though drawing on much earlier court wisdom, creates a mosaic of ethical instruction that defies systematic organization while cohering around recurring theological motifs.",
+        "The chapter opens with a condemnation of dishonest commercial practices, employing the term *mōznê mirmâ* (\"deceitful scales\"), which resonates with prophetic critiques found in Amos 8:5 and Micah 6:11. The corresponding affirmation of *ʾeben šĕlēmâ* (\"a perfect stone,\" referring to accurate weights) reflects the ancient Near Eastern context where standardized weights bore royal or divine sanction. This concern for marketplace integrity extends the covenantal ethic into quotidian economic life, suggesting that wisdom's domain encompasses all human transactions.",
+        "A pivotal term recurring throughout the chapter is *ṣĕdāqâ* (\"righteousness\"), appearing in verses 4, 5, 6, 18, and 19. This concept transcends mere legal rectitude, encompassing relational fidelity and cosmic order. The sages understood righteousness as alignment with the created moral structure, yielding prosperity and life. The antonym *rišʿâ* (\"wickedness\") denotes not simply immoral acts but a fundamental misorientation that invites destruction.",
+        "Verses 24–26 present a counterintuitive economic wisdom: generosity produces abundance while hoarding leads to poverty. The verb *pāzar* (\"to scatter\" or \"to distribute\") in verse 24 suggests that wealth functions properly only in circulation. This challenges acquisitive impulses while stopping short of the later apocalyptic critique of wealth itself.",
+        "Scholarly debate centers on whether these proverbs represent rigid retribution theology or probabilistic wisdom. The text likely operates in the indicative mood of general observation rather than the imperative of absolute promise. The community (*qiryâ*, verse 10) celebrates the downfall of the wicked, indicating that wisdom's rewards possess communal as well as individual dimensions, binding personal ethics to social flourishing."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 11: Prophetic perspective",
+      "overview": [
+        "Proverbs 11 emerges from the golden age of Israel's united monarchy, penned during Solomon's reign approximately 970–930 BC, roughly one thousand years before Christ's incarnation. This places the chapter squarely within the Kingdom era of redemptive history, that brief shining moment when David's throne stood secure in Jerusalem and the temple would soon rise as God's dwelling among His people. Yet even in this season of outward blessing, the wisdom literature was preparing Israel—and all future readers—for a kingdom far greater than Solomon's, one whose principles would not merely govern external conduct but transform the human heart entirely.",
+        "The antithetical parallelisms throughout this chapter establish a cosmic courtroom where righteousness and wickedness stand perpetually opposed. When Solomon declares that \"a false balance is an abomination to the Lord, but a just weight is His delight,\" he reveals Yahweh as the Divine Examiner of all human transactions. This concern for honest weights typologically anticipates the One who would perfectly fulfill all righteousness, who would be weighed in the balances of divine justice and found without defect. Christ becomes the true \"just weight\" against whom all humanity is measured, and in Him alone are we found acceptable.",
+        "The recurring contrast between the righteous who are delivered and the wicked who fall points toward eschatological realities that transcend temporal prosperity. When verse four declares that \"riches do not profit in the day of wrath, but righteousness delivers from death,\" Solomon peers beyond economic wisdom into the final judgment itself. This \"day of wrath\" finds its ultimate expression in the coming Day of the Lord, from which only those clothed in Christ's imputed righteousness shall escape.",
+        "The agricultural imagery of sowing and reaping establishes a principle that Paul would later invoke explicitly: \"whatever one sows, that will he also reap.\" The generous soul who waters others and is himself watered prefigures the outpouring ministry of the Spirit, through whom living water flows from believers to a parched world.",
+        "For the church dwelling between Christ's ascension and return, Proverbs 11 speaks with urgent relevance. We who possess the indwelling Spirit have resources for righteous living that Solomon's original audience could scarcely imagine. The wisdom once inscribed on tablets now dwells within us, pressing us toward integrity in commerce, generosity in community, and speech that builds rather than destroys. We await that city whose foundation is righteousness itself, where every weight shall be just and every transaction shall glorify the Lamb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.594455+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

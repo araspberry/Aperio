@@ -1,0 +1,56 @@
+{
+  "book": "2 Samuel",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Covenant for All Generations",
+      "overview": [
+        "In 2 Samuel 7, God does something unexpected: He refuses David's offer to build Him a house, and instead promises to build David a house that will last forever. This passage reveals the stunning grace of God, who chooses not to be confined by human structures but instead commits Himself to an unshakeable covenant with one man's descendants.",
+        "David's desire to construct a temple for God arises from a sincere heart. He has finally secured his kingdom, built his palace, and now wants to honor God with a permanent dwelling place. The prophet Nathan initially affirms this godly impulse. But God interrupts with a profound corrective: the King of heaven doesn't need architectural monuments. Instead, He offers something far more valuable—a promise rooted not in stone and cedar, but in faithfulness and grace.",
+        "God's covenant with David surpasses anything David could have offered. Rather than David securing God's house, God secures David's house. His throne will be established forever; his kingdom will endure; his offspring will inherit an everlasting kingdom. This promise eventually points to Jesus, the ultimate descendant of David, whose kingdom truly has no end. What began as one man's wish to serve God becomes God's gift of redemptive history itself.",
+        "This pattern echoes throughout Scripture: when we offer God our best intentions and efforts, He often responds by exceeding our hopes with His grace. We come to serve; He comes to save. We come to build; He comes to establish. David's role shifts from builder to recipient, from one seeking to honor God to one receiving God's honor upon his lineage.",
+        "For those who follow Christ today, this passage invites us to surrender our agenda to God's superior design. How often do we exhaust ourselves trying to accomplish great things for God, when what He desires is our trust in His purposes? Rather than measuring our faith by what we construct or accomplish, we're invited to rest in the covenant promises He has already secured.",
+        "What area of your life is God asking you to release, trusting instead in His faithfulness rather than your own efforts?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 7: Scholarly study",
+      "overview": [
+        "The seventh chapter of Second Samuel represents one of the most theologically significant texts in the Hebrew Bible, establishing the foundational covenant between Yahweh and the Davidic dynasty. Composed during a period when David had consolidated power in Jerusalem and achieved relative peace from surrounding enemies, this chapter records the prophetic oracle delivered through Nathan that would shape messianic expectation for centuries. The narrative emerges from David's desire to construct a permanent dwelling for the ark of the covenant, contrasting his own cedar palace with the tent housing Israel's most sacred object.",
+        "Central to the passage is the Hebrew term *bayit* (בַּיִת), which carries a deliberate double meaning throughout the oracle. While David proposes building a *bayit* (house/temple) for Yahweh, God responds by promising to establish a *bayit* (dynasty/household) for David. This literary wordplay transforms the entire theological direction of the chapter, as Yahweh redirects David's architectural ambitions toward a dynastic promise of far greater significance. The term *ʿolam* (עוֹלָם), translated \"forever\" or \"everlasting,\" appears repeatedly in verses 13, 16, and 25, emphasizing the perpetual nature of this covenant commitment.",
+        "Within the broader Deuteronomistic History, this chapter functions as the ideological center justifying Judahite royal theology. The unconditional nature of the promise—notably different from the conditional Mosaic covenant—has generated considerable scholarly discussion. Some interpreters view verses 14–15, which mention divine discipline but not covenant abrogation, as evidence of a fundamentally unconditional arrangement, while others argue the Deuteronomist has reshaped earlier traditions to address the crisis of exile.",
+        "The passage's canonical influence extends throughout Scripture, with echoes appearing in royal psalms such as Psalm 89 and Psalm 132, and finding christological application in Luke's infancy narrative and the Petrine sermon in Acts 2. The tension between Solomon's temple construction and the oracle's apparent initial rejection of temple-building has prompted various harmonization attempts, with many scholars identifying verses 13a as a later insertion accommodating Solomonic temple theology. This foundational text thus stands at the intersection of royal ideology, prophetic mediation, and Israel's evolving understanding of divine presence among the covenant community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 7: Prophetic perspective",
+      "overview": [
+        "This pivotal chapter unfolds approximately one thousand years before the incarnation of Christ, during the golden age of Israel's united monarchy around 1000 BC. David has consolidated his kingdom, captured Jerusalem, and brought the ark of the covenant to rest in a tent within his royal city. The narrative stands at a crucial juncture in redemptive history—after the Exodus deliverance and the tumultuous period of the judges, but before the tragic division of the kingdom and the eventual exile. Here, at the zenith of Davidic power, God speaks through the prophet Nathan to establish an everlasting covenant that will echo through every subsequent chapter of Scripture.",
+        "When David expresses his desire to build a house for God, the Lord graciously inverts the proposal: it is not David who will build God a house of cedar, but God who will build David a house—a dynasty. The divine promise cascades forward in breathtaking scope: a descendant will arise from David's body, his throne will be established forever, and even when sin brings discipline, God's steadfast love will never depart as it departed from Saul. This covenant represents a dramatic narrowing of the messianic line—from humanity to Abraham, from Abraham to Judah, and now from Judah to David's specific household.",
+        "The typological dimensions shine with prophetic light. Solomon partially fulfills the promise by building the temple and enjoying peace, yet his reign ultimately disappoints through idolatry and oppression. Every subsequent Davidic king becomes a living question: is this the one whose throne endures forever? The exile seemingly extinguishes the Davidic lamp, yet the prophets Jeremiah, Ezekiel, and Isaiah insist that a righteous Branch will yet emerge from Jesse's stump.",
+        "The New Testament announces the fulfillment with angelic clarity at the annunciation: \"The Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever.\" Jesus of Nazareth, son of David according to the flesh, embodies the eternal King whose dominion cannot end. His resurrection constitutes the definitive enthronement, and Pentecost inaugurates His reign over a kingdom gathering from every nation.",
+        "Yet we await the consummation when the Son of David returns to judge and reign visibly, when the tabernacling presence promised here achieves its ultimate expression in the New Jerusalem where God dwells eternally with His people. The church lives as citizens of this already-inaugurated, not-yet-consummated Davidic kingdom, proclaiming the risen King until He comes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.486031+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

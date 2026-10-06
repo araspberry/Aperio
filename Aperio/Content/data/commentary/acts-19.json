@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 19: When the Gospel Collides with Culture",
+      "overview": [
+        "The nineteenth chapter of Acts captures one of scripture's most volatile collisions between the kingdom of God and the kingdoms of this world. This is a passage about the irresistible power of Jesus to transform not just individual lives, but entire communities and their economies.",
+        "Paul arrives in Ephesus, a city dominated by the magnificent temple of Artemis, one of the seven wonders of the ancient world. What unfolds over the next months reveals how the gospel doesn't simply add a new option to the religious marketplace—it fundamentally realigns everything. When Paul baptizes believers and the Holy Spirit falls upon them with such demonstrable power that even handkerchiefs touched by Paul bring healing and deliverance, the entire spiritual climate of the city shifts. The sons of Sceva, Jewish exorcists, discover that Jesus's name cannot be borrowed or weaponized by those without genuine submission to him. More significantly, practitioners of magic publicly burn their spell books—a staggering economic loss that testifies to the Spirit's conviction that certain cultural practices cannot coexist with authentic faith.",
+        "This threatens the silversmiths who profit from selling shrines of Artemis. Demetrius, their leader, incites a riot not primarily on religious grounds, but economic ones. The gospel always endangers systems built on exploitation and idolatry. Yet notice Paul's response: wisdom, restraint, and trust in God's purposes rather than defensive anger.",
+        "For modern disciples, Acts 19 asks uncomfortable questions. Where do our own securities—professional, financial, relational—depend on maintaining spiritual compromise? What idolatries do we defend for economic reasons rather than from genuine conviction? The chapter challenges us to consider whether we truly believe Jesus deserves allegiance that transcends all other allegiances, even when that belief costs something real.",
+        "What area of your life has the gospel not yet been allowed to fully transform? Where might genuine faith require you to release something for the sake of Christ?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 19: Scholarly study",
+      "overview": [
+        "Acts 19 presents a pivotal moment in Pauline mission history, documenting the apostle's extended ministry in Ephesus, the provincial capital of Asia and one of the most significant urban centers of the Roman Empire. Luke crafts this chapter with considerable narrative artistry, weaving together episodes that demonstrate both the power of the gospel and the socio-economic tensions it created within Greco-Roman religious culture. The Ephesian ministry, lasting approximately three years according to Acts 20:31, represents the longest documented stay in any single location during Paul's missionary journeys.",
+        "The chapter opens with Paul encountering disciples who had received only the baptism of John, highlighting the transitional nature of early Christian identity and the necessity of Spirit-reception as constitutive of authentic Christian experience. The term \"disciples\" (*mathētai*) here proves interpretively challenging, as scholars debate whether these twelve individuals were Christians with incomplete understanding or followers of John the Baptist who had never formally aligned with the Jesus movement. Paul's question regarding whether they received the Holy Spirit \"when you believed\" (*pisteusantes*) employs an aorist participle that grammatically suggests simultaneous action, though Luke's pneumatology throughout Acts resists systematic categorization.",
+        "The extraordinary miracles performed through Paul, including healing via handkerchiefs and aprons (*soudarion* and *simikinthion*—the latter a Latin loanword referring to artisan's work-aprons), parallel similar phenomena associated with Peter's shadow in Acts 5:15, establishing apostolic parity between these foundational figures. The episode of the seven sons of Sceva, Jewish exorcists whose attempted manipulation of Jesus' name results in violent humiliation, underscores Luke's emphasis that divine power cannot be commodified or mechanistically manipulated.",
+        "The climactic riot instigated by Demetrius the silversmith reveals the economic dimensions of religious conversion, as the spread of Christianity threatened the lucrative trade in Artemis devotional objects. The grammatically unusual acclamation \"Great is Artemis of the Ephesians\" (*megalē hē Artemis Ephesiōn*) reflects authentic local religious vocabulary. The town clerk's intervention demonstrates Luke's recurring apologetic interest in showing that Roman authorities recognized Christianity as legally innocuous, a theme with implications for understanding Acts' broader rhetorical purposes within its late first-century compositional context."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 19: Prophetic perspective",
+      "overview": [
+        "Acts 19 unfolds approximately twenty-five years after the resurrection of Christ, during Paul's third missionary journey around AD 54-56, as the gospel penetrates the strategic city of Ephesus—the commercial and religious heart of the Roman province of Asia. This chapter stands within the Church Age, that mysterious interval between Pentecost and the Parousia when the Spirit-empowered people of God advance the kingdom through proclamation and power, fulfilling Christ's promise that His witnesses would reach the ends of the earth.",
+        "The opening scene with the disciples of John the Baptist reveals a transitional moment of profound significance. These twelve men represent the final remnant of the old covenant's last prophet, standing at the threshold of the new creation reality. When Paul lays hands on them and the Spirit descends with tongues and prophecy, we witness a mini-Pentecost—a deliberate echo of Acts 2 demonstrating that the Ephesian church shares fully in the same Spirit-baptism as Jerusalem. John's preparatory ministry finds its terminus as his disciples enter the fullness he himself foretold. The baptizer becomes a type of all that was provisional, pointing forward to One mightier who would baptize with the Holy Spirit.",
+        "The extraordinary miracles flowing through Paul—handkerchiefs and aprons carrying healing power—recall how the shadow of Peter brought restoration in Jerusalem. These signs authenticate apostolic authority and demonstrate that the kingdom inaugurated by Jesus continues advancing through His sent ones. The confrontation with the sons of Sceva exposes the bankruptcy of attempting to wield divine power apart from covenant relationship. The demon's testimony—\"Jesus I know, and Paul I recognize, but who are you?\"—reveals that spiritual authority flows only through genuine union with Christ, not magical manipulation of sacred names.",
+        "The burning of occult books worth fifty thousand pieces of silver enacts a prophetic drama of the kingdom's triumph over demonic powers. As Isaiah foresaw, the coastlands would wait for God's teaching, and here pagan darkness yields to gospel light. The riot instigated by Demetrius unveils the cosmic conflict underlying all gospel advance—Artemis of the Ephesians representing the principalities and powers that Paul would later describe to this very church in his epistle.",
+        "For the church living between the advents, Acts 19 declares that we inhabit the same Spirit-empowered age, wielding the same name above all names, advancing against the same defeated darkness until Christ returns to complete what Ephesus foreshadowed—every idol toppled, every knee bowed, every tongue confessing Jesus as Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.708867+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

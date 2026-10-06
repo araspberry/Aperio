@@ -1,0 +1,400 @@
+{
+  "books": [
+    {
+      "bookIndex": 0,
+      "book": "Genesis",
+      "words": 526,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 1,
+      "book": "Exodus",
+      "words": 534,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 2,
+      "book": "Leviticus",
+      "words": 623,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 3,
+      "book": "Numbers",
+      "words": 615,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 4,
+      "book": "Deuteronomy",
+      "words": 617,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 5,
+      "book": "Joshua",
+      "words": 610,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 6,
+      "book": "Judges",
+      "words": 619,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 7,
+      "book": "Ruth",
+      "words": 623,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 8,
+      "book": "1 Samuel",
+      "words": 605,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 9,
+      "book": "2 Samuel",
+      "words": 603,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 10,
+      "book": "1 Kings",
+      "words": 600,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 11,
+      "book": "2 Kings",
+      "words": 613,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 12,
+      "book": "1 Chronicles",
+      "words": 617,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 13,
+      "book": "2 Chronicles",
+      "words": 601,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 14,
+      "book": "Ezra",
+      "words": 606,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 15,
+      "book": "Nehemiah",
+      "words": 614,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 16,
+      "book": "Esther",
+      "words": 636,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 17,
+      "book": "Job",
+      "words": 633,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 18,
+      "book": "Psalm",
+      "words": 606,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 19,
+      "book": "Proverbs",
+      "words": 613,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 20,
+      "book": "Ecclesiastes",
+      "words": 628,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 21,
+      "book": "Song of Solomon",
+      "words": 637,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 22,
+      "book": "Isaiah",
+      "words": 766,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 23,
+      "book": "Jeremiah",
+      "words": 775,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 24,
+      "book": "Lamentations",
+      "words": 774,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 25,
+      "book": "Ezekiel",
+      "words": 756,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 26,
+      "book": "Daniel",
+      "words": 771,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 27,
+      "book": "Hosea",
+      "words": 769,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 28,
+      "book": "Joel",
+      "words": 762,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 29,
+      "book": "Amos",
+      "words": 753,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 30,
+      "book": "Obadiah",
+      "words": 739,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 31,
+      "book": "Jonah",
+      "words": 751,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 32,
+      "book": "Micah",
+      "words": 725,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 33,
+      "book": "Nahum",
+      "words": 743,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 34,
+      "book": "Habakkuk",
+      "words": 738,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 35,
+      "book": "Zephaniah",
+      "words": 735,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 36,
+      "book": "Haggai",
+      "words": 730,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 37,
+      "book": "Zechariah",
+      "words": 730,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 38,
+      "book": "Malachi",
+      "words": 747,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 39,
+      "book": "Matthew",
+      "words": 657,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 40,
+      "book": "Mark",
+      "words": 683,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 41,
+      "book": "Luke",
+      "words": 684,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 42,
+      "book": "John",
+      "words": 654,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 43,
+      "book": "Acts",
+      "words": 654,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 44,
+      "book": "Romans",
+      "words": 654,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 45,
+      "book": "1 Corinthians",
+      "words": 652,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 46,
+      "book": "2 Corinthians",
+      "words": 681,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 47,
+      "book": "Galatians",
+      "words": 671,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 48,
+      "book": "Ephesians",
+      "words": 682,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 49,
+      "book": "Philippians",
+      "words": 676,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 50,
+      "book": "Colossians",
+      "words": 677,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 51,
+      "book": "1 Thessalonians",
+      "words": 664,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 52,
+      "book": "2 Thessalonians",
+      "words": 668,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 53,
+      "book": "1 Timothy",
+      "words": 669,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 54,
+      "book": "2 Timothy",
+      "words": 683,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 55,
+      "book": "Titus",
+      "words": 682,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 56,
+      "book": "Philemon",
+      "words": 689,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 57,
+      "book": "Hebrews",
+      "words": 667,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 58,
+      "book": "James",
+      "words": 677,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 59,
+      "book": "1 Peter",
+      "words": 686,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 60,
+      "book": "2 Peter",
+      "words": 677,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 61,
+      "book": "1 John",
+      "words": 686,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 62,
+      "book": "2 John",
+      "words": 701,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 63,
+      "book": "3 John",
+      "words": 714,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 64,
+      "book": "Jude",
+      "words": 698,
+      "status": "Editorial draft"
+    },
+    {
+      "bookIndex": 65,
+      "book": "Revelation",
+      "words": 702,
+      "status": "Editorial draft"
+    }
+  ]
+}

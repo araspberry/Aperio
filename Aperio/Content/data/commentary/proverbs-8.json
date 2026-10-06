@@ -1,0 +1,55 @@
+{
+  "book": "Proverbs",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 8: The Wisdom That Calls",
+      "overview": [
+        "Wisdom stands in the streets and cries out to anyone with ears to hear—this passage reveals that divine wisdom is not hidden behind closed doors but actively seeks those who will listen. The spiritual heart of Proverbs 8 is the recognition that true wisdom, rooted in God's character and counsel, is available, valuable, and worth pursuing above all earthly treasures.",
+        "Solomon paints wisdom as a gracious teacher standing at the crossroads of human decision-making, calling to the simple and the foolish with genuine care. She speaks first of her nobility and authority, not to boast but to establish credibility—wisdom comes from God's own nature and precedes all creation. This matters deeply because it means the counsel we seek is not arbitrary human opinion but reflects the very fabric of how God has ordered the world. When wisdom speaks, she offers understanding that prevents ruin and produces blessing.",
+        "What makes this passage particularly moving is its passionate tone. Wisdom doesn't merely inform; she loves those who seek her. In verse 17, she promises, \"I love those who love me, and those who seek me find me.\" This is relational, not transactional. She invites us into genuine friendship with herself, and through that friendship, into harmony with how God has designed creation to work.",
+        "For those navigating life's complexity—career decisions, relationship choices, financial crossroads, questions about integrity—Proverbs 8 insists that the voice calling you toward godliness, humility, and truth is not a burden imposed from outside but a friend actively seeking your good. When wisdom seems costly because it requires humility or sacrifice, remember that the alternatives—foolishness, pride, deception—extract far higher prices.",
+        "What area of your life today is calling you to choose between the world's counsel and wisdom's call? Where might you need to pause and truly listen for her voice?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 8: Scholarly study",
+      "overview": [
+        "Proverbs 8 stands as one of the most theologically significant and literarily sophisticated texts in the wisdom literature of ancient Israel, presenting an extended personification of Wisdom (*ḥokmâ*) as a divine figure who addresses humanity with urgent appeal. This chapter belongs to the first major collection of the book (Proverbs 1–9), which scholars generally attribute to the post-exilic editorial shaping of earlier materials, though the antiquity of the wisdom tradition itself extends deep into Israel's monarchic period and reflects considerable interaction with broader ancient Near Eastern sapiential literature, particularly Egyptian ma'at concepts and Mesopotamian wisdom traditions.",
+        "The chapter opens with Wisdom taking her stand at the city gates and crossroads—public spaces of commerce, legal proceedings, and social gathering—thereby establishing her accessibility to all humanity rather than an elite few. The Hebrew term *qānānî* in verse 22, traditionally rendered \"possessed me\" or \"created me,\" has generated extensive scholarly debate. The verb *qānâ* carries semantic range including \"to acquire,\" \"to create,\" and \"to beget,\" and its interpretation bears significant christological weight given the New Testament's identification of Christ with divine Wisdom. The Septuagint's translation *ektisen* (\"created\") influenced early Arian arguments, while orthodox theologians emphasized alternative readings supporting Wisdom's eternal generation.",
+        "The cosmogonic imagery of verses 22–31 positions Wisdom as present before creation's foundations, functioning as what verse 30 terms an *ʾāmôn*—a word of considerable ambiguity meaning either \"master craftsman,\" \"nursing child,\" or \"constantly beside him.\" This passage establishes Wisdom not merely as an attribute of God but as a hypostatic entity delighting in creation and humanity. The literary structure moves from Wisdom's eternal preexistence through her role in cosmic ordering to her present invitation, creating a theological arc that grounds ethical instruction in ontological reality.",
+        "Within the canonical context, Proverbs 8 provides the theological foundation for the practical wisdom of subsequent chapters while anticipating developments in Second Temple literature, particularly Sirach 24 and Wisdom of Solomon 7–9. The passage's influence on Johannine logos theology and patristic Christology demonstrates its enduring significance for understanding the relationship between divine wisdom, creation, and redemption."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 8: Prophetic perspective",
+      "overview": [
+        "Proverbs 8 emerges from the reign of Solomon, approximately 950 years before the incarnation of Christ, during the golden age of Israel's united monarchy. This places the passage squarely within the Kingdom era of redemptive history—after God had established His covenant with David, promising an eternal throne, yet centuries before the exile would shatter Israel's national hope and prepare hearts for a greater deliverance.",
+        "Here Wisdom speaks as a person, crying aloud at the city gates, calling all humanity to forsake folly and embrace understanding. The passage reaches its theological apex in verses 22–31, where Wisdom declares existence before creation itself—\"The LORD possessed me at the beginning of his work, before his deeds of old. I was formed long ages ago, at the very beginning, when the world came to be.\" This primordial Wisdom rejoiced in God's presence, delighting especially in the sons of men. Such language stretches beyond mere literary personification toward something the apostolic church would later recognize with stunning clarity.",
+        "The typological significance of this passage proved so profound that the early church fathers and the New Testament writers themselves saw in personified Wisdom a foreshadowing of the eternal Logos—the Word who was with God and was God, through whom all things were made. John's Gospel opens with deliberate echoes of Proverbs 8: the preexistent One, present at creation, intimately involved in bringing all things into being. Paul explicitly names Christ as \"the wisdom of God,\" the one in whom are hidden all treasures of wisdom and knowledge. Colossians declares that by Him and for Him all things were created, and in Him all things hold together—language that directly parallels Wisdom's role as the master craftsman at Yahweh's side.",
+        "The prophetic thread running through this passage finds its fulfillment not in abstract philosophy but in a Person. Wisdom's invitation—\"Blessed are those who listen to me, watching daily at my doors\"—becomes Christ's own call: \"Come to me, all who labor and are heavy laden.\" The warning that those who hate Wisdom love death anticipates the eternal consequences of rejecting the incarnate Word.",
+        "For the church living between the advents, Proverbs 8 reveals that the Christ we worship is no afterthought in God's plan. Before the mountains were settled, before the fountains burst forth, the Father delighted in the Son. To receive Christ is to embrace the very wisdom by which galaxies were spoken into existence—and to reject Him is to choose the way of death over the source of life eternal."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.584597+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

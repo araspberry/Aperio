@@ -1,0 +1,56 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Corinthians 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Corinthians 13: The Proof of Christ's Power in Our Weakness",
+      "overview": [
+        "Paul closes his most vulnerable and honest letter with a clarion call to examine ourselves and discover that Christ genuinely lives within us. This final chapter pivots from defensive explanation to transformative invitation, reminding us that authentic Christianity proves itself not in our strength, but in the reality of Christ's presence working through our brokenness.",
+        "The apostle's repeated mention of coming for a third time carries weight—he's determined to address the Corinthian church's confusion about his authority and apostolic credibility. But rather than wielding power to crush opponents, Paul insists that true spiritual authority looks like the crucified Christ: weakness made perfect, strength born from surrender. He's not coming to show off; he's coming to shepherd those who have wandered from the gospel's foundation.",
+        "The heart of this passage sits in his invitation to self-examination: \"Examine yourselves to see whether you are in the faith; test yourselves.\" This isn't about self-condemnation or anxious introspection. Instead, Paul invites believers into honest assessment. Do we recognize Christ's presence in us? Is the Holy Spirit genuinely transforming us from within? The proof isn't our moral perfection or spiritual achievements, but the unmistakable reality that we cannot take credit for the good that flows through us. When we love sacrificially, forgive genuinely, or persevere through suffering, we discover evidence of a power beyond ourselves.",
+        "This matters desperately for us today. In a culture obsessed with personal achievement and self-improvement, Paul offers something radically different: the liberating discovery that we don't have to manufacture spiritual authority or prove ourselves worthy. We simply need to recognize that Christ already dwells in us, already works through us, already proves his reality through our transformed lives.",
+        "As you reflect on your own journey with Christ, what evidence can you point to that he genuinely lives within you? Where do you see his power working through your weakness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Corinthians 13: Scholarly study",
+      "overview": [
+        "Second Corinthians chapter thirteen constitutes the concluding segment of Paul's \"severe letter\" section, bringing to resolution the apostle's extended defense of his ministry and his warnings to the Corinthian congregation. Written approximately 55-56 CE from Macedonia, this chapter represents Paul's final appeal before his anticipated third visit to Corinth, a community he founded around 50-51 CE but which had become susceptible to rival teachers questioning his apostolic credentials.",
+        "The chapter opens with Paul invoking the Deuteronomic principle that evidence must be established \"by the mouth of two or three witnesses\" (Deuteronomy 19:15), though scholars debate whether Paul refers to his three visits as witnesses, to actual testimony from community members, or employs the legal formula rhetorically to underscore the seriousness of impending judgment. The term \"witness\" (μάρτυς, *martys*) carries juridical weight, signaling that Paul's arrival will constitute a formal adjudication of the community's spiritual condition.",
+        "Central to this passage is Paul's paradoxical theology of power. He writes that Christ was \"crucified in weakness\" (ἀσθένεια, *astheneia*) yet lives by divine power (δύναμις, *dynamis*), a formulation encapsulating the cruciform pattern governing authentic apostolic ministry. This weakness-power dialectic directly counters opponents who apparently valued impressive rhetorical presence and demonstrable spiritual prowess. Paul's self-description as sharing in Christ's weakness subverts conventional honor-shame categories prevalent in Greco-Roman society.",
+        "The imperative to \"examine yourselves\" (ἑαυτοὺς πειράζετε, *heautous peirazete*) shifts scrutiny from Paul's credentials to the Corinthians' own spiritual authenticity, asking whether Christ genuinely dwells within them. This rhetorical reversal brilliantly redirects the community's critical gaze inward while simultaneously validating Paul's ministry through their very existence as believers.",
+        "The concluding benediction invoking \"the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit\" represents one of the earliest triadic formulations in Christian literature, providing significant raw material for later Trinitarian reflection. The term \"fellowship\" (κοινωνία, *koinōnia*) emphasizes participatory communion rather than mere association. Paul thus concludes his most personal and anguished letter with a prayer that the fractured Corinthian community might experience the reconciling unity found only through divine initiative—a fitting culmination to a correspondence dominated by themes of reconciliation and restored relationship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Corinthians 13: Prophetic perspective",
+      "overview": [
+        "This epistle was written approximately twenty-three years after the resurrection of Christ, around AD 55-56, as Paul prepared for his third visit to the church at Corinth. We stand here in the early expansion of the church age, that period between Pentecost and the Parousia when the Spirit empowers the apostolic witness and the body of Christ grows amid both persecution and internal struggle. Corinth represents the tension inherent in this epoch—a community called out from paganism yet still wrestling with the flesh, possessing genuine gifts yet requiring apostolic correction.",
+        "Paul's warning that he will not spare when he comes carries the weight of covenant discipline, echoing the Deuteronomic principle that every matter must be established by two or three witnesses. This juridical standard, given first at Sinai for Israel's theocratic governance, finds its fulfillment in the church's exercise of discipline. What Moses administered through elders, Paul now administers through apostolic authority—yet the goal remains restorative rather than merely punitive. Here we glimpse the continuity between old and new covenant communities: both are called to holiness, both exercise corrective love, both anticipate final judgment while offering present mercy.",
+        "The Corinthians demanded proof that Christ was speaking through Paul, and his response unveils a profound mystery of the gospel age. Christ was crucified in weakness yet lives by the power of God, and those united to Him share this same pattern. The church between the advents exists in this paradox—bearing in mortal bodies the dying of Jesus while simultaneously manifesting resurrection power. This is the already-and-not-yet reality that defines the present age: genuine spiritual authority flows not from impressive displays but from conformity to the crucified and risen Lord.",
+        "Paul's exhortation to examine whether they are in the faith points forward to that final examination when all will stand before Christ's judgment seat. Yet this testing is gracious, offered now so that restoration might come before that day. The apostolic prayer for their restoration, comfort, unity, and peace echoes the prophetic vision of the eschatological community—the people of God dwelling together in shalom under the rule of their Messiah.",
+        "The trinitarian benediction with which Paul closes stands as the church's perpetual blessing, encompassing the fullness of salvation: grace flowing from Christ's redemptive work, love originating in the Father's eternal purpose, and fellowship created by the Spirit's indwelling presence. Until Christ returns, this benediction sustains the pilgrim church, assuring believers that the Triune God remains faithful to complete what He has begun."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "47_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.845345+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

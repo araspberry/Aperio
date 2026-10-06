@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 31: The Generosity That Flows From Wholehearted Devotion",
+      "overview": [
+        "When hearts are turned toward God in sincere worship, generosity becomes inevitable—not as obligation, but as the natural overflow of a transformed people. This chapter shows us what happens when spiritual reformation takes root deeply enough to reshape how we handle our resources and serve one another.",
+        "King Hezekiah had led Judah back to the Lord through cleansing the temple and restoring true worship. Now, in this chapter, we see the remarkable fruit: the people bring such abundance of tithes, offerings, and firstfruits that the priests and Levites cannot contain it all. Storehouses overflow. The poor are cared for. Even the resident aliens among them receive provision. What appears at first to be about administration—setting up storehouses and distributing provisions—reveals something far deeper: a people whose love for God has made them love each other well.",
+        "This speaks powerfully to our own spiritual condition. We often treat generosity and giving as a separate category of discipleship, something we do out of duty. Yet Hezekiah's reforms show that when worship becomes real, when we encounter God genuinely, our wallets follow our hearts naturally. The abundance wasn't coerced or legislated into existence; it arose because people whose eyes had been opened to God's goodness couldn't help but share that goodness with others.",
+        "The chapter also emphasizes faithfulness in the small mechanisms of daily life. Careful distribution. Orderly records. Priests and Levites serving with integrity. Spiritual revival isn't merely emotional experience; it produces people of character who steward God's gifts responsibly, seeing their practical work as an extension of their worship.",
+        "Where do you find yourself holding back resources that could be shared—whether money, time, or talents? What might change in your generosity if you more deeply grasped that giving is simply responding to God's goodness toward you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 31: Scholarly study",
+      "overview": [
+        "Second Chronicles 31 presents the culmination of Hezekiah's religious reforms, detailing the practical reorganization of Judah's cultic apparatus following the unprecedented Passover celebration described in the preceding chapter. The Chronicler, writing from a post-exilic perspective, shapes this material to demonstrate how faithful royal leadership and proper temple administration lead to divine blessing and national prosperity, offering an implicit model for the restored community of his own era.",
+        "The chapter opens with the destruction of cultic objects throughout Judah, Benjamin, Ephraim, and Manasseh, employing the Hebrew term *maṣṣēbôt* (pillars) and *ʾăšērîm* (sacred poles) to denote the Canaanite religious apparatus that had infiltrated Yahwistic worship. The geographic extension into northern territories reflects the Chronicler's persistent interest in pan-Israelite unity, though this claim raises historical questions about Hezekiah's actual jurisdiction over former northern kingdom territories under Assyrian provincial administration.",
+        "Central to the chapter's concerns is the reestablishment of priestly and Levitical divisions (*maḥălōqôt*), with detailed attention to their material support through the tithing system. The Hebrew term *terûmâ* (contribution or offering) appears repeatedly, emphasizing the people's generous response that resulted in accumulated heaps of provisions. The temporal marker situating this collection between the third and seventh months corresponds to the agricultural cycle from early grain harvest through fruit harvest, demonstrating the sustained nature of communal giving.",
+        "The figure of Conaniah the Levite and his brother Shimei overseeing the storerooms introduces administrative structures that scholars have compared with later Second Temple organizational patterns, suggesting possible anachronistic projection. The Chronicler's emphasis on faithful record-keeping and equitable distribution among priests, Levites, and their families (*ṭaf*, meaning dependents or little ones) underscores the interconnection between proper cultic maintenance and social welfare.",
+        "The concluding verses offer a theological summary characteristic of Chronicles, declaring that Hezekiah acted with faithfulness (*ʾěmet*) and wholeheartedness before God. This formulaic assessment links prosperity directly to covenantal fidelity, reinforcing the Chronicler's retributive theology while presenting Hezekiah as second only to David and Solomon among Judah's monarchs in exemplary devotion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 31: Prophetic perspective",
+      "overview": [
+        "This chapter records events during the reign of King Hezekiah, approximately 715-686 BC, some seven centuries before the incarnation of Christ. It follows immediately upon the great Passover celebration described in the previous chapter and represents the most thorough religious reformation Judah had witnessed since Solomon's temple dedication. On the grand timeline of redemption, we stand in the divided kingdom period, after the northern tribes have fallen to Assyria, with Judah alone preserving the Davidic throne and the legitimate priesthood—a remnant through whom the messianic promise must continue.",
+        "The destruction of idolatrous high places, pillars, and Asherim throughout Judah, Benjamin, Ephraim, and Manasseh demonstrates the zeal that follows true worship. Having encountered the living God through renewed Passover observance, the people cannot tolerate what previously coexisted alongside corrupted religion. This pattern recurs throughout Scripture: genuine revival produces radical separation from competing allegiances. The cleansing of the land typologically anticipates Christ's cleansing of the temple and ultimately His purification of a people for His own possession, zealous for good works.",
+        "Hezekiah's reorganization of priestly divisions and Levitical service restores the Davidic order that had fallen into disrepair. The king himself contributes from his own possessions for the regular burnt offerings, morning and evening—an image of the true King who would offer not bulls and goats but Himself as the perpetual sacrifice, the Lamb slain from the foundation of the world. The generous tithes brought by the people, heaped in abundance from the third month to the seventh, reveal hearts transformed by covenant renewal. When Azariah the chief priest declares that the Lord has blessed His people so that this great abundance remains, we witness the principle Christ would later articulate: seek first the kingdom, and all these things shall be added.",
+        "The faithful administration through appointed overseers—Conaniah, Shimei, Kore, and others who distributed portions to their brothers with equity—prefigures the apostolic church where distribution was made to each as any had need. The concern that priests in outlying cities receive their rightful portions mirrors the New Testament principle that those who proclaim the gospel should receive their living from it.",
+        "For the church awaiting Christ's return, this chapter declares that authentic worship transforms everything—our generosity, our structures, our stewardship. What Hezekiah accomplished in shadow, Christ accomplishes in substance, building a kingdom of priests who offer spiritual sacrifices acceptable to God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.849499+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

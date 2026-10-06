@@ -1,0 +1,157 @@
+{
+  "book": "Lamentations",
+  "bookIndex": 24,
+  "status": "Editorial draft",
+  "title": "Giving grief a voice before God",
+  "subtitle": "Five poems refuse to let the destruction of Jerusalem become an abstract event.",
+  "atAGlance": {
+    "genre": "Poetic laments: individual voices, communal prayer, and city mourning",
+    "setting": "The destruction of Jerusalem by Babylon and its aftermath",
+    "composition": "Anonymous poems commonly associated with the aftermath of 587/586 BC; the traditional link with Jeremiah is not an explicit author claim",
+    "audience": "Survivors and later communities remembering devastation"
+  },
+  "sections": [
+    {
+      "title": "A city has fallen, and people must speak",
+      "paragraphs": [
+        "Lamentations stands close to the catastrophe remembered in 2 Kings 25 and Jeremiah 52. Babylon has destroyed Jerusalem; the city’s public life, sanctuary, households, and sources of security have been broken. The usual historical anchor is 587/586 BC. The poems do not reconstruct a military campaign. They bring readers into the experience of hunger, bereavement, humiliation, and the bewilderment of surviving when a familiar world has disappeared.",
+        "Tradition associates the book with Jeremiah, but the Hebrew poems do not name their author. Scholars commonly locate their formation in the disaster’s aftermath, while allowing for separate poems and later collection. The precise dates are uncertain. In Jewish Scripture, Lamentations belongs among the Writings; its placement after Jeremiah in many Christian Bibles reflects a different canonical arrangement, not an authorship statement inside the poems."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "Five poems, several speaking voices",
+      "paragraphs": [
+        "Each chapter is a distinct poem. In the first, Jerusalem is personified as a bereaved woman, and the account moves between describing her and allowing her to speak. Chapter 2 intensifies the confrontation with divine anger and the collapse of the city’s institutions. Chapter 3 introduces an afflicted first-person speaker whose experience opens into reflection, prayer, and appeal. Chapter 4 returns to the changed condition of the population; chapter 5 speaks predominantly as a community.",
+        "These shifting voices are important. A statement by the narrator, the city, or an individual sufferer need not be flattened into one uninterrupted speech. Listening to each voice helps preserve the poem’s tension between guilt, protest, grief, and hope. The book is not a single explanation of disaster delivered from a safe distance. It is a gathering of testimony from within the wound."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Form holds what grief cannot easily contain",
+      "paragraphs": [
+        "The first four chapters use forms organized around the Hebrew alphabet. Chapter 3 develops that pattern with three verses associated with each letter; the fifth poem has twenty-two verses without following the same acrostic sequence. This formal observation is less visible in English translation, but it helps explain the collection’s careful construction. Intense emotion and disciplined artistry are not opposites here.",
+        "As a reading observation, the ordered form gives grief a place to be spoken without making it orderly in lived experience. Images return insistently: roads without festival crowds, children needing food, a city with no comforter, and former honors reduced to shame. The poetry asks the reader to linger over particulars. Jerusalem’s fall cannot be adequately understood only as a date in the history of empires."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro"
+      ]
+    },
+    {
+      "title": "Hope inside a lament, not outside it",
+      "paragraphs": [
+        "The familiar movement toward mercy in chapter 3 must be read within the chapter’s surrounding distress. The speaker remembers suffering and then deliberately recalls grounds for hope. Divine compassion, patience, and the possibility of seeking God become resources for endurance. Yet the chapter continues with confession, complaint, and urgent requests for help. Hope does not remove the need to name what has happened.",
+        "This setting changes how a comforting verse should be used. The poem does not instruct a grieving person to stop grieving or pretend that loss is beneficial. It models speech that can hold memory of mercy and present anguish together. Its confidence is voiced from a position of vulnerability. That is why the brighter lines remain powerful without turning the whole collection into an account of easy recovery."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Responsibility, protest, and the vulnerable",
+      "paragraphs": [
+        "The poems acknowledge wrongdoing and associate catastrophe with judgment, but they also ask God to look at suffering that seems unbearable. Leaders have failed, enemies have acted brutally, and children experience consequences they did not choose. These strands belong together. Reading only the confessions can silence the protest; reading only the protest can overlook the community’s searching examination of itself.",
+        "Lamentations gives particular attention to those with the least protection. Hunger reaches infants, families are torn apart, and ordinary dignity is stripped away. The reader is asked to see suffering people rather than use their experience as material for a detached argument. The book’s own religious explanation of Jerusalem’s fall does not authorize readers to declare that contemporary victims must have deserved whatever has happened to them."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "An ending that leaves the prayer open",
+      "paragraphs": [
+        "Chapter 5 asks for remembrance and restoration. Its final lines do not provide a narrative resolution in which the city is rebuilt and every loss repaired. The unresolved ending belongs to the book’s integrity. Survivors can address God without possessing an answer to every question or proof that their circumstances are about to change.",
+        "Read the collection slowly, noticing whose voice is speaking and where an appeal for attention interrupts description. The absence of a neat conclusion is not a failure of faith. Within the world of the poems, continuing to speak to God is itself significant. Lamentations preserves a place in Scripture for communal grief, difficult questions, and the longing that a devastated relationship might yet be renewed."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Jerusalem speaks her loss",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "A bereaved city describes isolation and appeals for attention."
+    },
+    {
+      "label": "The catastrophe confronted",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Divine anger, ruined institutions, and suffering children intensify the lament."
+    },
+    {
+      "label": "Affliction and remembered mercy",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "An individual voice moves among grief, hope, confession, and petition."
+    },
+    {
+      "label": "A society overturned",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "The poem measures the distance between former life and present devastation."
+    },
+    {
+      "label": "A shared appeal for restoration",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "The community asks God to remember it; the conclusion remains unresolved."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Honest lament",
+      "description": "Faith can speak grief and protest without pretending that the crisis has ended."
+    },
+    {
+      "name": "Attention to suffering",
+      "description": "The consequences of conquest are made visible in particular human lives."
+    },
+    {
+      "name": "Hope and uncertainty",
+      "description": "Remembered compassion sustains prayer without supplying an immediate solution."
+    }
+  ],
+  "timeline": {
+    "era": "exile",
+    "dateLabel": "After Jerusalem’s destruction in 587/586 BC",
+    "context": "The poems inhabit the aftermath of Babylonian conquest.",
+    "note": "The setting is clearer than the precise authorship and dates of individual poems."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 5,
+      "era": "exile",
+      "label": "Mourning Jerusalem",
+      "dateLabel": "Sixth century BC, after 587/586",
+      "note": "All five poems respond to devastation; their order is literary, not five successive dated events."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Lamentations, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Lamentations",
+      "url": "https://bible.usccb.org/bible/lamentations/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 20",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-20"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Romans",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 5: The Unshakeable Foundation of God's Love",
+      "overview": [
+        "The heart of Romans 5 is this: because Christ has made peace between us and God, we stand secure in hope, regardless of present suffering or future uncertainty. Paul moves from justification—the courtroom verdict of our innocence—to the transformative reality that flows from it: we are reconciled to God through Christ's death, and nothing can separate us from His love.",
+        "Paul opens with celebration. Since we are justified by faith, we have peace with God. This is not the absence of conflict but the end of hostility—God is no longer our judge but our Father. This shifts everything. Where Adam's disobedience brought condemnation and death into the world, Christ's obedience brings righteousness and life. One man's failure cascaded into universal ruin; one Man's faithfulness cascades into universal redemption for all who believe.",
+        "But Paul knows that faith doesn't exempt us from suffering. Rather, he invites us to rejoice even in trials, because suffering produces endurance, character, and hope. This isn't masochism; it's the testimony of those who have watched their faith deepen through difficulty. When pressure reveals what we're made of, and we discover Christ sustains us, hope crystallizes. We taste the reality that God's love is not theoretical but proven—sealed in Christ's blood, demonstrated at the cross when He died for us while we were still hostile to Him.",
+        "This is the scandal and miracle of grace: God loved us not because we deserved it, not because we had cleaned ourselves up, but while we were yet sinners. That love doesn't waver based on our performance or circumstances. It is the bedrock upon which every other hope rests.",
+        "The invitation Romans 5 extends to us is to stop earning God's approval and start receiving His acceptance. To bring our deepest anxieties—about failure, rejection, death itself—and place them before a God who has already proved His commitment to our redemption.",
+        "What would change in your daily choices if you truly believed that nothing could separate you from God's love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 5: Scholarly study",
+      "overview": [
+        "Romans 5 represents a pivotal transition in Paul's epistle, moving from his forensic demonstration of justification by faith (chapters 1–4) to an exploration of its experiential and cosmic implications. Written from Corinth around 57 CE to a mixed Jewish-Gentile congregation Paul had not yet visited, this chapter serves as both summation and foundation, linking the doctrinal argument preceding it with the ethical exhortations that follow in chapters 6–8.",
+        "The chapter opens with the triumphant declaration that believers, having been justified by faith, possess \"peace\" (*eirēnē*) with God—a term carrying rich connotations beyond mere psychological tranquility to encompass the Hebrew concept of *shalom*, denoting comprehensive wholeness and restored covenantal relationship. This peace comes \"through our Lord Jesus Christ,\" a mediatorial formula Paul employs repeatedly to emphasize Christ's unique role in reconciling humanity to God. The subsequent catalog of benefits—access to grace, hope of glory, and even boasting in tribulations—demonstrates that justification inaugurates an entirely new mode of existence rather than merely securing future acquittal.",
+        "Paul's treatment of suffering in verses 3–5 introduces a carefully structured chain (*sorites*) wherein tribulation produces endurance, endurance produces character, and character produces hope. The term \"character\" (*dokimē*) denotes proven genuineness, the quality of metal refined through fire. This hope, Paul insists, does not disappoint because God's love has been \"poured out\" (*ekkechytai*, perfect passive) into believers' hearts through the Holy Spirit—language suggesting abundant, permanent bestowal.",
+        "The chapter's second major movement (verses 12–21) presents the Adam-Christ typology, one of Paul's most theologically dense passages. The comparison operates asymmetrically: while Adam's transgression brought condemnation and death to all humanity, Christ's obedience brings justification and life with superabundant grace. The repeated phrase \"how much more\" (*pollō mallon*) emphasizes grace's surpassing power. Interpretive debates persist regarding verse 12's concluding phrase \"because all sinned\" (*eph' hō pantes hēmarton*)—whether Paul intends corporate participation in Adam's sin, inherited guilt, or universal personal sinning. This passage fundamentally establishes humanity's solidarity in both Adam's condemnation and Christ's redemption, providing the anthropological framework essential for understanding Paul's subsequent discussions of sanctification and the believer's union with Christ."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 5: Prophetic perspective",
+      "overview": [
+        "Romans 5 emerges from the pen of the apostle Paul around AD 57, written from Corinth to a church he had never visited, composed roughly twenty-five years after the resurrection and ascension of Christ. This places the passage squarely within the early church age, that mysterious interval between Pentecost and the Parousia when the Spirit applies what the Son accomplished. The events Paul expounds—justification, reconciliation, the reign of grace—represent fulfilled realities purchased at Calvary, now being proclaimed and received throughout the Mediterranean world.",
+        "Within the grand sweep of redemptive history, Romans 5 functions as a theological summit from which one can see backward to Eden and forward to glory. Paul anchors everything in the finished work of Christ, the hinge upon which all history turns. The chapter divides into two movements: verses 1–11 declare the present blessings of those justified by faith, while verses 12–21 unveil the cosmic drama of two Adams whose representative headships determine the destiny of all humanity.",
+        "The typological architecture of this passage stands among Scripture's most profound. Adam, Paul declares, was a \"type of the one to come\"—the original man whose single transgression plunged the entire race into condemnation and death. Yet this first Adam was but a shadow cast backward from the true substance. Where Adam's disobedience brought the reign of death, Christ's obedience unto death inaugurated the reign of grace. The parallel is not mere comparison but divine design: God structured history around these two representative heads precisely to magnify the surpassing glory of redemption over ruin.",
+        "The eschatological vision here holds together what is already accomplished and what still awaits. Justification is complete—believers possess peace with God now. Reconciliation is finished—while we were enemies, Christ died. Yet Paul speaks of future salvation from wrath and the hope of glory that does not disappoint. The Spirit poured into believing hearts serves as the guarantee that what began at the cross will consummate at the throne. Grace reigns through righteousness \"unto eternal life,\" pointing beyond present experience to resurrection and glorification.",
+        "For the church dwelling between the advents, Romans 5 provides unshakeable ground. In Adam, humanity inherited condemnation without personal consent; in Christ, believers receive righteousness as sheer gift. The sufferings of this present age produce endurance, character, and hope precisely because God's love has been poured out within. The church boasts not in herself but in God through the Lord Jesus Christ, through whom reconciliation has come and through whom the coming glory is secured."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.745423+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

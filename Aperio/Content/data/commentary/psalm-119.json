@@ -1,0 +1,54 @@
+{
+  "book": "Psalm",
+  "chapter": 119,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 119 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 119: The Sustaining Word",
+      "overview": [
+        "The longest psalm in all of Scripture stands as a towering monument to the transformative power of God's Word in the human soul. Psalm 119 is ultimately an extended love song—a declaration that the Bible is not merely information to be memorized but a lamp to our feet, a companion for the lonely, a corrective for the wayward, and a source of deepest joy.",
+        "What strikes us most profoundly is the psalmist's radical honesty about struggle. This is not a naive celebration of easy faith. The writer lives under pressure, surrounded by those who mock, forget, and twist God's commands. Yet rather than despair, the psalmist returns again and again to the same anchor: meditating on God's Word, hiding it in the heart, running toward its truth. Notice the refrain that echoes through every section—the psalmist's delight in God's statutes, ordinances, and commands. This is not legalism; it is passion.",
+        "The genius of Psalm 119 is its recognition that sustained faith requires sustained attention. We do not drift toward godliness; we walk deliberately toward it through the disciplined practice of engaging Scripture. The psalmist memorizes, meditates, and carries God's Word into every circumstance—suffering, confusion, opposition, temptation. The Word becomes both shield and sword, both comfort and conviction.",
+        "In our distracted age, this psalm invites us into countercultural devotion. When the world offers countless voices competing for our allegiance, the psalmist shows us another way: one marked by singular focus, deep roots, and the kind of joy that survives hardship because it rests not in circumstances but in God's unfailing Word.",
+        "Do you approach Scripture primarily as information to master, or as a living relationship to nurture? Consider spending time this week with one brief section of Psalm 119, allowing its meditative rhythm to slow your mind and attune your heart to God's voice."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 119: Scholarly study",
+      "overview": [
+        "The 119th Psalm stands as the most elaborate acrostic composition in the Hebrew Bible, comprising 176 verses arranged into twenty-two stanzas of eight verses each, with every verse within a given stanza beginning with the same Hebrew letter in sequential alphabetical order. This extraordinary literary architecture suggests a wisdom tradition context, likely emerging from post-exilic scribal circles deeply invested in Torah study and meditation. The anonymous psalmist crafts what might be termed a sustained meditation on divine revelation, employing eight primary synonyms for God's word throughout—*torah* (instruction), *dabar* (word), *mishpatim* (judgments), *edot* (testimonies), *mitzvot* (commandments), *huqqim* (statutes), *piqqudim* (precepts), and *imrah* (promise)—which appear with remarkable consistency across nearly every verse.",
+        "The term *torah*, appearing some twenty-five times, transcends its narrower denotation of Mosaic law to encompass the broader concept of divine instruction and guidance for life. Similarly, *hesed* (steadfast love or covenant faithfulness) appears repeatedly as the motivating ground of God's redemptive instruction, linking the psalmist's devotion to Israel's covenantal theology. The psalm's canonical placement within Book Five of the Psalter (Psalms 107–150) positions it within a collection emphasizing thanksgiving and Torah piety, serving as a theological bridge between Israel's historical experiences of exile and restoration and her ongoing life under divine guidance.",
+        "Scholars have debated whether the psalm's repetitive structure indicates liturgical use, pedagogical function, or contemplative practice. The acrostic form itself carries interpretive significance, suggesting comprehensiveness—the psalmist's devotion extends from aleph to taw, encompassing the totality of human experience brought before God's word. Throughout the composition, the speaker oscillates between declarations of fidelity, laments over persecution from the arrogant (*zedim*), and petitions for understanding and deliverance. This dynamic tension reveals a theology wherein Scripture functions not as mere legal code but as the living medium of relationship with God. The psalm thus anticipates later Jewish traditions of Torah study as worship and resonates with New Testament affirmations of Scripture's transformative power, establishing paradigmatic patterns for communities of faith across millennia."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 119: Prophetic perspective",
+      "overview": [
+        "Psalm 119 emerges from the post-exilic period of Israel's history, likely composed sometime between 500 and 300 BC, after the remnant had returned from Babylonian captivity to rebuild Jerusalem and the temple. This places the psalm in the era of restoration, that pivotal moment when God's people, chastened by exile, had learned through bitter experience the cost of covenant unfaithfulness. The anonymous psalmist writes as one who has internalized the lessons of judgment and now clings to Torah as the very breath of spiritual survival.",
+        "Within the grand narrative of redemption, Psalm 119 stands at a crucial juncture—after the exile's purifying fires but before the long prophetic silence that would precede Messiah's coming. The restored community knew they had returned to the land, yet the glory had not returned to the temple as Ezekiel had envisioned. They lived in a tension between partial restoration and promised consummation, and in that tension, the Word of God became their anchor.",
+        "The psalm's elaborate acrostic structure—twenty-two stanzas corresponding to each letter of the Hebrew alphabet—carries profound typological weight. This alphabetic completeness points forward to Christ, who declared Himself the Alpha and Omega, the Word made flesh who perfectly embodied every stroke of the Law. Where Israel failed to keep covenant, Jesus would succeed. Every cry in this psalm for understanding, for steadfastness, for deliverance from persecution finds its ultimate answer in Him who said, \"I have not come to abolish the Law but to fulfill it.\"",
+        "The psalmist's language of affliction, persecution by the proud, and longing for vindication carries eschatological resonance that extends beyond his immediate circumstances. These are the groanings of the righteous in every age who suffer for faithfulness, awaiting the day when God will finally judge the arrogant and establish His servants forever. The repeated plea \"Revive me according to Your word\" anticipates resurrection itself—the final reviving when mortality puts on immortality.",
+        "For the church dwelling between Christ's two advents, Psalm 119 speaks with penetrating relevance. We possess what the psalmist yearned for—the living Word who tabernacled among us, the Spirit who writes Torah on hearts of flesh. Yet we too walk as strangers in the earth, pressing Scripture to our chests amid hostility, praying for perseverance until the Dawn arrives."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_119",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.466693+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

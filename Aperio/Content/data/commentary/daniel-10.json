@@ -1,0 +1,55 @@
+{
+  "book": "Daniel",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 10: When Prayer Meets Resistance",
+      "overview": [
+        "Daniel's encounter in chapter 10 reveals a stunning truth: the spiritual realm is far more real and active than we typically acknowledge, and our prayers matter far more than we know. What begins as a personal search for understanding becomes a window into cosmic conflict and divine faithfulness.",
+        "Daniel fasts and prays for three weeks, troubled by a vision of Israel's future suffering. His prayers are sincere, earnest, and unrelenting. Yet no answer comes—not immediately. Instead, a heavenly messenger finally appears, explaining that demonic opposition had delayed the response from the moment Daniel's prayer began. This isn't a picture of an indifferent God or unanswered prayer; it's a revelation that spiritual warfare is real and that our intercession participates in something far greater than we see.",
+        "The messenger's words are profoundly reassuring: Daniel was \"highly esteemed\" in heaven, and his prayers were heard and answered from day one, even though circumstances obscured that reality. This speaks directly to our modern experience of unanswered-seeming prayers. We pray for healing that doesn't come immediately, for restoration in relationships that takes months to unfold, for guidance through fog that gradually clears. God's silence isn't divine neglect; it's often divine patience working through complicated spiritual and human circumstances.",
+        "Daniel's experience also teaches us about perseverance. He didn't receive an immediate answer but continued seeking. His consistency, his vulnerability about his grief and confusion, and his refusal to give up positioned him to receive not just a response but a profound spiritual encounter. The messenger came in person—an extraordinary privilege reserved for Daniel's faithfulness.",
+        "This passage invites us to trust that our prayers are always heard and that spiritual realities operate beyond what we can see. Our job isn't to understand the cosmic chess match; our job is to pray faithfully, trusting that God is working even in silence.",
+        "What persistent prayer burden are you carrying that needs renewed faith in God's hidden faithfulness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 10: Scholarly study",
+      "overview": [
+        "Daniel 10 functions as an extended prologue to the final vision unit spanning chapters 10–12, widely regarded as the most elaborate apocalyptic revelation in the book. The temporal marker places the vision in the third year of Cyrus king of Persia (approximately 536 BCE), situating Daniel as an elderly figure who has witnessed the entire exilic period and the initial return of Jews to Jerusalem. This chronological notice raises interpretive questions, as Daniel 1:21 states he continued \"until the first year of King Cyrus,\" leading some scholars to distinguish between his court service and his reception of revelations. The name given to Daniel, Belteshazzar, deliberately recalls his Babylonian identity while the Hebrew narrative framework reasserts his Israelite character.",
+        "The chapter opens with Daniel's three-week period of mourning and dietary abstinence, during which he consumed no \"choice food\" (ḥamudōt), abstained from meat and wine, and used no ointments. This ascetic preparation echoes prophetic and priestly purification practices, establishing a somatic context for visionary reception. The term ḥamudōt appears again to describe the heavenly messenger as \"a man greatly beloved\" (ʾîš ḥamudōt), creating a thematic link between Daniel's sacrificial self-denial and his reception of divine favor.",
+        "The theophanic description of the angelic figure in verses 5–6 employs imagery strikingly parallel to Ezekiel 1 and anticipating Revelation 1, featuring eyes like flaming torches, a face like lightning, and limbs resembling burnished bronze (nəḥōšet qālāl). Scholarly debate continues regarding whether this figure represents the pre-incarnate Christ, Gabriel, or another angelic being, with the subsequent reference to Michael as \"one of the chief princes\" suggesting a developed angelology with hierarchical structures.",
+        "The remarkable passage concerning the \"prince of Persia\" who resisted the heavenly messenger for twenty-one days introduces the concept of territorial spiritual powers governing nations—a theme with significant implications for later Jewish and Christian cosmology. The delayed answer to Daniel's prayer, requiring Michael's intervention, presents a theology of contested heavenly space where divine purposes encounter genuine opposition, challenging simplistic notions of immediate divine response while affirming ultimate divine sovereignty over cosmic and earthly realms."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 10: Prophetic perspective",
+      "overview": [
+        "Daniel chapter ten unfolds approximately 536 years before the birth of Christ, during the third year of Cyrus king of Persia, placing this vision roughly two years after the initial decree permitting Jewish exiles to return to Jerusalem. The Babylonian exile has ended, yet Daniel, now an aged servant approaching ninety years, remains in Mesopotamia, having served through the entire seventy-year captivity and witnessed the very transition of kingdoms he had prophesied. This passage sits at the threshold between Exile and Restoration on the redemptive timeline, yet it pulls back the curtain to reveal spiritual realities that span from that moment through the church age and into the consummation of all things.",
+        "The three weeks of mourning and fasting Daniel undertakes reveal a prophet who understands that the return from exile, though providentially significant, does not represent the fullness of Israel's restoration. His grief suggests awareness that deeper bondages remain—spiritual captivity that no Persian decree can dissolve. When the glorious figure appears by the Tigris, clothed in linen with a belt of Uphaz gold, eyes like flaming torches, arms and feet gleaming like burnished bronze, and voice like the sound of a multitude, readers encounter a theophanic vision that unmistakably prefigures the glorified Christ whom John beholds on Patmos. The parallels between Daniel's vision and Revelation chapter one are too precise for coincidence; they represent the same divine Person manifesting across the ages.",
+        "The stunning revelation of invisible warfare—the prince of Persia withstanding the angelic messenger for twenty-one days until Michael intervened—exposes the cosmic conflict underlying human history. Earthly kingdoms rise and fall according to visible politics, yet behind the veil, principalities and powers contest the outworking of God's purposes. This unveiling possesses profound implications for the church, which wrestles not against flesh and blood but against spiritual forces in heavenly places. The delay in answered prayer finds explanation not in divine reluctance but in the fierce resistance mounted against God's redemptive advance.",
+        "For the church living between Christ's ascension and return, Daniel ten establishes that intercession participates in heavenly warfare, that angelic forces minister alongside the saints, and that the glorified Christ who strengthened trembling Daniel with repeated touches and words of beloved affirmation continues to strengthen His people for the revelations and battles that remain until He comes again to establish His kingdom without opposition, when every hostile principality will be permanently cast down."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.231864+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

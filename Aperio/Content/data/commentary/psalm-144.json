@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 144,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 144 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 144: A Warrior's Song of Dependence",
+      "overview": [
+        "The deepest truth of Psalm 144 is that genuine strength comes not from self-reliance but from radical trust in God's protective care. David, a seasoned warrior, begins by blessing the Lord as his rock and fortress—words that reveal how a leader's confidence is built entirely on the foundation of God's character, not personal prowess.",
+        "What makes this psalm remarkable is its unflinching honesty about human fragility. David describes his life as a vapor, his days like a passing shadow, his years as nothing in God's sight. Rather than these words producing despair, they liberate him. When we truly grasp our own breviness and weakness, we stop trusting our skills and schemes and start trusting God. The warrior-king acknowledges that his hands are trained for war and his fingers for battle—he has real competence—yet he immediately attributes any victory to God's deliverance.",
+        "This is the paradox that shapes mature discipleship: we can be fully engaged and responsible in our callings while simultaneously being entirely dependent on God. David doesn't become passive. He trains, he strategizes, he fights. But he never mistakes his efforts for the source of his security. He asks God to bend the heavens and come down, to touch the mountains and make them smoke. The imagery is almost absurd—cosmic intervention needed for earthly battles—yet that's precisely the point. Our circumstances are never too large for God to handle.",
+        "The promise embedded here speaks to our contemporary struggles, whether we face professional challenges, relational conflicts, or spiritual battles. We live with full responsibility for our choices yet complete reliance on God's providence. We are neither paralyzed by our weakness nor puffed up by our strength.",
+        "Where in your life are you tempted to trust your own competence rather than God's character? What would change if you began this week by blessing the Lord as your rock before facing your daily battles?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 144: Scholarly study",
+      "overview": [
+        "Psalm 144 presents itself as a Davidic composition that blends elements from earlier psalms, particularly drawing extensively from Psalm 18, while incorporating unique petitionary material that distinguishes it from its source texts. The psalm's attribution to David (לְדָוִד, *ledāwid*) situates it within the royal psalm tradition, though scholars have long debated whether this superscription indicates authorship, dedication, or liturgical association with the Davidic dynasty. The composite nature of the text has led some critical scholars to propose a post-exilic dating, viewing it as an anthology piece that reappropriated earlier Davidic traditions for contemporary worship, while others maintain its antiquity based on linguistic and thematic coherence.",
+        "The opening blessing formula employs the term \"rock\" (צוּר, *tsûr*), a theophoric metaphor emphasizing Yahweh's stability and protective strength, language deeply embedded in Israelite covenant theology. The subsequent phrase describing God as one who trains the psalmist's hands for war uses the term מְלַמֵּד (*melamméd*), a piel participle suggesting intensive instruction, portraying divine pedagogy in martial skill as an extension of covenant faithfulness to the anointed king.",
+        "The anthropological reflection in verses 3–4, questioning human significance before the divine, echoes Psalm 8 yet functions differently within its royal context, establishing the king's humble posture before petitioning for theophanic intervention. The request for divine descent employing imagery of mountains smoking recalls Sinai traditions, connecting royal deliverance to foundational salvation-historical events.",
+        "The term \"strange children\" (בְּנֵי נֵכָר, *benê nēkār*) in verses 7–8 and 11 presents interpretive challenges, referring either to foreign enemies or to covenant-breakers whose deceitful speech contradicts their oath-making gestures. The pastoral vision concluding the psalm (verses 12–15) shifts dramatically to images of agricultural abundance and social flourishing, presenting the blessed community whose God is Yahweh.",
+        "Within the Psalter's final book, Psalm 144 contributes to the movement toward universal praise culminating in Psalm 150, while maintaining the tension between present struggle and eschatological hope characteristic of Davidic royal theology. The Septuagint's addition regarding Goliath in its superscription demonstrates early interpretive traditions connecting the psalm to specific Davidic narratives, though this expansion lacks Hebrew textual support."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 144: Prophetic perspective",
+      "overview": [
+        "This royal psalm of David emerges from the era of Israel's united monarchy, approximately 1000 years before the incarnation of Christ, during the period when God was establishing the Davidic throne that would become the seedbed of messianic promise. Within redemptive history, this stands at the Kingdom stage—after Exodus deliverance, after the conquest, but before the tragic division and eventual exile. David writes as warrior-king, yet his words stretch forward across millennia toward a greater King and a final victory.",
+        "The psalm opens with David blessing Yahweh as his Rock who trains his hands for war and his fingers for battle. Here stands the type of the divine warrior, the anointed king who fights not by human strength but by covenant faithfulness. Yet David himself recognized what the Spirit was revealing through him: \"What is man that You take knowledge of him?\" This meditation on human frailty amid divine condescension finds its ultimate answer not in David but in the One who, being in the form of God, emptied Himself and took the form of a servant. The eternal Son became the true Man whom God \"took knowledge of\"—the last Adam who would wage war against sin, death, and hell itself.",
+        "David's cry for theophanic intervention—that God would bow the heavens and come down, touch the mountains so they smoke, flash lightning and scatter enemies—received partial fulfillment in Israel's victories. But these temporal deliverances were shadows of the apocalyptic reality yet to come. At Sinai, God descended in fire and smoke. At Calvary, darkness covered the land and the earth shook. At the Second Coming, the heavens themselves will be torn open as the Rider on the white horse descends with armies of heaven to scatter every enemy and establish righteousness forever.",
+        "The psalm concludes with a vision of covenant blessing: sons like well-nurtured plants, daughters like corner pillars, barns full, flocks abundant, no cry of distress in the streets. This portrait of shalom points beyond any earthly prosperity David's kingdom enjoyed. It prophesies the New Creation itself—the city where death shall be no more, neither mourning nor crying nor pain. The church now lives in the already-and-not-yet, blessed to call this warrior God our Rock, awaiting the day when every enemy lies vanquished beneath the feet of David's greater Son, and every street echoes only with joy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_144",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.543081+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

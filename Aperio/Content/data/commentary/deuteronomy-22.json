@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 22: The Love of God Written Into Daily Life",
+      "overview": [
+        "God's covenant love spills over into the ordinary moments of human existence, teaching us that holiness is not confined to temples but flows through the way we treat our neighbors, our animals, and one another in the everyday world.",
+        "Moses presents a remarkable collection of commandments that reveal God's tender concern for creation and community. Whether rescuing a lost ox, helping a bird's nest, or building a parapet on a roof, these laws demonstrate that faithful living encompasses the small mercies that others might overlook. God cares about preventing unnecessary suffering. He notices when a neighbor's animal wanders and expects us to care enough to act. The prohibition against muzzling an ox reveals divine compassion toward creatures who serve us. These statutes may seem scattered to modern readers, yet they form a coherent vision: a covenant people demonstrate their agreement with God's values by showing kindness in situations where no one would necessarily know or judge them.",
+        "The passage also addresses weightier matters surrounding sexual purity and marriage, reflecting God's concern for vulnerable people, especially women. While some cultural details require careful historical interpretation, the underlying conviction remains clear: our physical lives, our commitments, and our sexuality matter deeply to God. He doesn't treat the body as irrelevant to spirituality; rather, He insists that our flesh and our choices belong to His kingdom.",
+        "What transforms these diverse laws from mere rules into spiritual disciplines is their underlying logic: if we love God with all our hearts, this love must reshape how we move through the world. We cannot claim covenant commitment while ignoring the vulnerable, whether animal or human. We cannot say we worship the Lord while being careless with our relationships or bodies.",
+        "The question each of us must face today is this: In what small, unnoticed ways might God be inviting me to demonstrate His values through acts of kindness and integrity? What would it mean to let His concern for the vulnerable reshape my daily choices?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 22: Scholarly study",
+      "overview": [
+        "Deuteronomy 22 presents a collection of casuistic laws that, while appearing disparate at first glance, cohere around the themes of communal responsibility, boundary maintenance, and the preservation of created order within the covenant community. Situated within the larger legal corpus of Deuteronomy 12–26, this chapter belongs to the detailed stipulations that follow the foundational commandments of chapters 5–11, demonstrating how covenant faithfulness manifests in quotidian circumstances. The chapter reflects the concerns of a settled agricultural society, suggesting its applicability to Israel's anticipated life in Canaan, though the laws themselves likely draw upon older Near Eastern legal traditions recontextualized for Yahwistic theology.",
+        "The opening verses (1–4) establish the principle of brotherly responsibility through laws concerning stray animals and fallen livestock. The term *'āḥîkā* (\"your brother\") appears repeatedly, extending kinship obligations beyond biological family to encompass the entire covenant community. The command not to \"hide yourself\" (*tiṯʿallēm*) from another's need employs a reflexive verbal form suggesting deliberate avoidance, thus condemning passive negligence as morally culpable. These regulations find echoes in Exodus 23:4–5 but expand the scope of obligation significantly.",
+        "The prohibition against cross-dressing in verse 5 employs the term *tôʿēḇâ* (\"abomination\"), language typically reserved for serious covenant violations. Scholarly debate continues regarding whether this prohibition addresses Canaanite cultic practices, gender boundary transgression as a threat to social order, or deceptive practices more broadly. The laws concerning mixing species, seeds, and fabrics (9–11) similarly concern the maintenance of distinctions (*kil'ayim*), reflecting a worldview where created categories possess theological significance rooted in Genesis 1's ordering of creation.",
+        "The sexual regulations dominating verses 13–30 address matters of family honor, sexual purity, and marriage legitimacy, with penalties ranging from monetary compensation to capital punishment. The distinction between cases involving consent (the urban setting where crying out would bring help) and coercion (the rural setting where no assistance was available) demonstrates sophisticated legal reasoning about culpability. These laws must be understood within their patriarchal context while recognizing their attempt to provide legal protections for women within that framework, a tension interpreters continue to navigate."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 22: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 22 stands near the end of Israel's wilderness wandering, delivered by Moses on the plains of Moab approximately 1400 years before Christ, as the second generation prepared to cross the Jordan into Canaan. This chapter belongs to the covenant renewal address that Moses gave before his death, expanding upon the Sinai legislation for life in the Promised Land. Within the grand arc of redemption, this passage sits between Exodus and Kingdom—Israel has been redeemed from Egypt but has not yet established the theocratic order that would prefigure Christ's eternal reign.",
+        "The opening commands regarding a neighbor's wandering ox or donkey establish a principle far deeper than agricultural courtesy. Here we find the heart of covenant community: responsibility for the welfare of what belongs to another, even when no one is watching. This typologically anticipates the Good Shepherd who seeks the one lost sheep, who pursues what has wandered until it is restored. The command not to \"hide yourself\" from your brother's need prophetically indicts all who pass by on the other side, while pointing to the One who did not hide Himself from our condition but entered fully into human need.",
+        "The prohibition against cross-dressing and the commands regarding distinct seeds, animals, and fabrics speak to the creation order that God established from the beginning. These laws encode the principle that God is a God of holy distinctions—light from darkness, holy from common, male from female. The eschatological trajectory here runs toward the new creation, where all confusion and disorder will be finally resolved, where boundaries will be perfectly honored, and where the unity God intends will emerge not through confusion but through redeemed diversity in harmony.",
+        "The laws concerning marriage, virginity, and sexual ethics reveal Israel as a kingdom of priests whose bodily holiness testified to their covenant status. These regulations, severe to modern readers, protected the vulnerable bride while establishing that covenant faithfulness at the household level mirrors cosmic realities. The marital bond throughout Scripture typifies Christ and the Church—thus sexual purity was never merely social convention but prophetic living, pointing toward the ultimate Bridegroom who would present to Himself a bride without spot or wrinkle.",
+        "For the church living between the advents, Deuteronomy 22 speaks with enduring power: we are called to active love for neighbor, to honor the Creator's distinctions while awaiting their eschatological perfection, and to live as those whose daily faithfulness testifies to the coming Kingdom where all wandering will cease and all covenant bonds will be eternally secured."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.149675+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

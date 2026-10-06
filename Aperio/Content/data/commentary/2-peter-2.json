@@ -1,0 +1,55 @@
+{
+  "book": "2 Peter",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Peter 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional Commentary on 2 Peter 2",
+      "overview": [
+        "Peter's second chapter confronts a truth that disturbs the comfortable: false teachers will arise within the church itself, not merely from without. This passage is fundamentally about spiritual discernment and the cost of remaining faithful when corruption seeps into the household of God.",
+        "The weight of Peter's concern becomes clear as he catalogs the dangers these deceivers pose. They exploit weakness, leverage freedom as license, and prioritize personal gain over the flock's welfare. Yet what makes this passage more than mere warning is its underlying conviction: God sees, God judges, and God will vindicate the faithful. Peter reaches back to Noah and Lot, examples of righteous souls preserved amid widespread corruption. These aren't random historical references but anchoring truths—God has always protected His people even when surrounded by those who reject Him.",
+        "Living in our own time of spiritual confusion, this passage speaks urgently. We face not distant heresies but seductive distortions that sound sophisticated, feel inclusive, and align with cultural momentum. False teaching rarely announces itself as such; it whispers through platforms, podcasts, and pulpits with just enough truth mixed in to deceive. Peter urges us toward vigilance rooted not in paranoia but in careful attention to who teaches us and whether their lives reflect Christ's humility, not self-advancement.",
+        "The comfort here is profound: we're not left defenseless. We have Scripture, the Spirit, and the communion of faithful believers to test what we hear. We're invited to live as Lot did—grieved by surrounding godlessness yet unmoved by it, maintaining integrity even when compromise seems safer.",
+        "How might you strengthen your own spiritual discernment this week? Consider asking: Does this teaching draw me toward Christ's humility or toward something else? Who in your life models faithful discernment, and how might you grow in that alongside them?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Peter 2: Scholarly study",
+      "overview": [
+        "Second Peter chapter two stands as one of the most rhetorically charged polemical passages in the New Testament, drawing extensively on Jewish apocalyptic traditions and sharing remarkable parallels with the Epistle of Jude. The authorship question significantly affects interpretation; whether attributed to the apostle Peter or a later Petrine disciple writing pseudonymously in the late first or early second century, the chapter addresses communities facing internal threats from those the author considers dangerous teachers. The Greco-Roman context illuminates the concern, as itinerant philosophers and religious teachers frequently competed for adherents, and the early church struggled to establish boundaries of acceptable teaching.",
+        "The chapter opens with a prophetic warning that false teachers (*pseudodidaskaloi*) will arise, introducing destructive heresies (*haireseis apōleias*). The term *hairesis*, from which \"heresy\" derives, originally denoted simply a choice or school of thought but here carries decidedly negative connotations of divisive, damaging doctrine. These teachers are accused of denying the \"Master who bought them\" (*ton agorasanta autous despotēn*), employing marketplace imagery suggesting Christ's redemptive purchase of believers—a denial that likely involved christological or ethical deviance rather than explicit apostasy.",
+        "The author marshals three paradigmatic examples of divine judgment from Jewish tradition: the rebellious angels, the flood generation, and Sodom and Gomorrah. This triad, paralleled in Jude and various intertestamental texts, establishes the certainty of eschatological punishment while simultaneously affirming God's ability to rescue the righteous, as exemplified by Noah and Lot. The extended description of the false teachers' behavior—their sensuality (*aselgeia*), greed (*pleonexia*), and arrogance toward celestial beings—reflects conventional vice catalogues while suggesting specific libertine tendencies in the opponents' teaching.",
+        "The vivid imagery of dogs returning to vomit and washed pigs to mud, drawn from Proverbs 26:11 and broader ancient Near Eastern wisdom tradition, underscores the author's view that these teachers represent not merely doctrinal error but moral regression. Scholarly debate continues regarding whether the chapter addresses proto-Gnostic movements, antinomian interpretations of Pauline freedom, or general moral laxity. The passage's canonical function establishes apostolic authority against competing claims while providing the church enduring categories for discerning authentic from counterfeit teaching."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Peter 2: Prophetic perspective",
+      "overview": [
+        "Second Peter chapter two emerges from the apostolic period, written approximately thirty to thirty-five years after Christ's resurrection, likely in the mid-60s AD, shortly before Peter's martyrdom under Nero. This urgent epistle addresses churches scattered throughout Asia Minor who face an imminent threat—not from external persecution alone, but from false teachers arising within their own assemblies. Peter writes as one who knows his departure is near, leaving this letter as a prophetic testament warning the church about deception that will intensify until the Lord's return.",
+        "Within the grand arc of redemption, this chapter stands in the Church Age, that extended period between Pentecost and the Second Coming when the kingdom advances through the Spirit's power while simultaneously enduring satanic opposition through counterfeit gospels and corrupt shepherds. Peter anchors his warning in historical precedent, reaching back through salvation history to demonstrate God's pattern of preserving the righteous while reserving the ungodly for judgment. The fallen angels who rebelled before the flood, the ancient world destroyed by water, and the cities of Sodom and Gomorrah all serve as types of the final judgment awaiting those who corrupt God's truth.",
+        "Noah stands forth as a powerful type—a preacher of righteousness in an age of universal apostasy, preserved through divine judgment that destroyed the impenitent world. Lot, though weak and compromised, represents the righteous soul vexed by surrounding lawlessness, delivered from Sodom's destruction as the church will be delivered from the coming wrath. These historical deliverances typologically anticipate God's ability to rescue the godly from trial while holding the unrighteous for the day of judgment.",
+        "The false teachers Peter describes bear marks that echo throughout church history and intensify as the age closes: they deny the Master who bought them, exploit believers through fabricated words, indulge in sensuality, despise authority, and speak blasphemously of things they do not understand. Their portrait matches Paul's warning about the last days and Christ's own predictions about deception multiplying before His return. What Peter prophesied has found repeated fulfillment across twenty centuries, yet the pattern intensifies as the end approaches.",
+        "For the church living between the advents, this chapter provides both warning and comfort. The same God who preserved Noah and rescued Lot watches over His people today. False teaching must be recognized, named, and rejected. Yet believers rest in sovereign assurance: the Lord knows how to rescue the godly. Until Christ appears, the church must contend earnestly for the faith while trusting the Righteous Judge who will bring all things to their appointed end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "61_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.026685+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

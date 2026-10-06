@@ -1,0 +1,56 @@
+{
+  "book": "1 Samuel",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 26: The Power of Restraint",
+      "overview": [
+        "This chapter reveals the quiet strength of a man who chooses mercy over vindication, demonstrating that true power lies not in seizing what we deserve, but in releasing what we claim.",
+        "David's situation seems tailor-made for revenge. Saul pursues him relentlessly across the wilderness, and now the king sleeps defenseless in David's grasp. Even David's companions see it as divine providence—surely God is handing the kingdom to him now. Yet David refuses. He sneaks into Saul's camp, takes only a spear and water jug as proof of his access, and leaves. What restrains him? Not fear, but conviction. David will not raise his hand against \"the Lord's anointed,\" even though Saul has forfeited every moral claim to that title.",
+        "This choice costs David something real. He could settle the conflict that night. Instead, he chooses the harder path: trust. He trusts that God's promises about the kingdom are not dependent on David's murderous intervention. He trusts that restraint, not retaliation, reflects the character of the God who called him. In our own lives, we face similar moments—when we could \"solve\" a problem through manipulation, bitter words, or revenge. We could destroy a rival, expose a critic, or punish someone who hurt us. The spiritual discipline is the same: learning that God's purposes for us don't require our schemes.",
+        "What's remarkable is how this choice actually moves Saul. David's restraint breaks through years of jealous rage in a way that violence never could. Standing at a distance, David calls out, reminding Saul of his own mortality and God's sovereignty. Saul weeps and acknowledges his sin. Restraint does what rage cannot—it opens a door to repentance and reconciliation.",
+        "When have you faced an opportunity to take justice into your own hands, and what did trust in God look like in that moment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 26: Scholarly study",
+      "overview": [
+        "The narrative of 1 Samuel 26 presents David's second opportunity to take Saul's life, an episode that bears striking structural parallels to chapter 24 while exhibiting distinctive theological emphases that reward careful examination. Composed during the monarchic period and drawing upon earlier traditions about David's rise to power, this chapter functions within the larger apologetic narrative demonstrating David's legitimacy as Saul's successor precisely through his refusal to seize power by violence.",
+        "The geographical setting in the wilderness of Ziph recalls the earlier betrayal by the Ziphites (23:19), establishing a pattern of repeated testing that intensifies David's characterization as one who honors Yahweh's anointed. The term *mashiach* (מָשִׁיחַ, \"anointed one\") appears with particular theological weight in verse 9, where David's rhetorical question—\"Who can stretch out his hand against the LORD's anointed and be guiltless?\"—articulates a principle of sacral kingship that transcends personal grievance. The verb *shalach* (שָׁלַח, \"to stretch out/send\") coupled with *yad* (\"hand\") forms a idiom denoting violent action, which David emphatically rejects.",
+        "Abishai's offer to dispatch Saul with a single spear thrust presents the theological crux of the narrative. David's response introduces the concept of divine timing through the phrase *yom* (יוֹם, \"day\"), suggesting that Yahweh himself will determine the moment of Saul's death—whether by natural causes, battle, or divine stroke. This theological conviction distinguishes legitimate succession from usurpation within deuteronomistic thought.",
+        "The symbolic appropriation of Saul's spear and water jug—items signifying royal authority and sustenance—demonstrates David's capacity to harm while simultaneously proving his restraint. David's subsequent dialogue with Abner, conducted across the valley, publicly shames the royal bodyguard and establishes witnesses to David's innocence. Saul's confession in verse 21, employing the verb *chata'* (חָטָאתִי, \"I have sinned\"), represents his acknowledgment of wrongdoing, though the narrative trajectory suggests this repentance remains superficial.",
+        "Interpreters have debated whether chapters 24 and 26 represent variant traditions of a single event or genuinely separate incidents. The distinctive details—cave versus encampment, robe versus spear—suggest the latter, with the repetition serving to emphasize David's consistent character under divine testing."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 26: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before Christ, during the turbulent final years of Saul's reign over Israel, likely around 1013 BC. Within the grand redemptive arc, we stand in the era of the kingdom—that pivotal period when God was establishing through Israel's monarchy a throne that would ultimately belong to His eternal Son. David, though anointed by Samuel years earlier, remains a fugitive, hunted by the very king whose dynasty he is destined to replace. The kingdom promises given to Judah in Genesis 49 and expanded through the Davidic covenant in 2 Samuel 7 cast their shadow backward over these wilderness years.",
+        "Here in the wilderness of Ziph, David is handed a second opportunity to slay his persecutor. Saul lies vulnerable in the center of his encampment, spear thrust into the ground beside his head, three thousand soldiers deep in a divine slumber. Abishai interprets the moment through the lens of holy war: \"God has delivered your enemy into your hand.\" Yet David refuses to stretch forth his hand against Yahweh's anointed, recognizing that the Lord who installed Saul must also remove him. David takes only the spear and water jug—symbols of royal power and sustenance—proving his innocence while leaving judgment entirely to God.",
+        "The typological resonance with Christ burns brightly here. David, the rightful king rejected by the ruling powers, wanders in wilderness exile, suffering unjustly while refusing to grasp the kingdom through violence. He commits his cause to the One who judges righteously. When Satan offered Jesus all the kingdoms of this world through a shortcut of compromise, the true Son of David likewise refused to seize by illegitimate means what the Father had promised to give. Christ's kingdom comes not through the sword but through the cross, not through destroying enemies but through dying for them.",
+        "Saul's fleeting confession—\"I have sinned... I have played the fool\"—stands as a warning of repentance that produces no lasting fruit. His tears evaporate like morning dew, and he returns unchanged to his throne. This prefigures all who taste the goodness of God's word yet fall away, whose emotional responses mask hearts of stone.",
+        "For the church awaiting Christ's return, this passage summons us to patient endurance. The kingdom is already ours by promise though not yet fully manifest. Like David, we are called to overcome evil with good, entrusting vindication to the righteous Judge who will surely come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.453841+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

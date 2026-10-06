@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 13: The Gospel Breaking Barriers",
+      "overview": [
+        "When the Spirit of God directs his church toward its calling, ordinary people become instruments of extraordinary grace. Acts 13 captures this beautiful tension as the Holy Spirit separates Barnabas and Saul for missionary work, launching what will reshape the Christian movement forever.",
+        "What strikes the heart immediately is how the Spirit moves through a worshipping community. The church at Antioch was simply gathered, fasting and worshipping, when the Holy Spirit interrupted their devotion with direction. This reminds us that God's great commissions often come not through grand announcements but through faithful gathering, prayer, and receptive hearts. The sending of missionaries emerges from the church's worship life, not from strategic planning committees alone. Saul, once a persecutor of believers, now carries the gospel to distant lands. Barnabas, the encourager, stands beside him. Their partnership demonstrates how the church's gifts—prophecy, teaching, intercession—work together in God's plan.",
+        "The account of Paul's preaching in Synagogues and his confrontation with Elymas the sorcerer shows the gospel advancing against real resistance. Paul's message to the Pisidian Antioch is particularly instructive: he traces God's faithfulness through Israel's history, reveals Jesus as the fulfillment of every promise, and offers bold forgiveness to those who respond. Yet not everyone receives this good news. Some reject it, even becoming hostile. This is the faithful reality—the gospel transforms some hearts while hardening others, depending on how people respond to grace.",
+        "For believers today, Acts 13 invites profound reflection. We live in the same Spirit who commissioned Barnabas and Paul. We belong to a church called to send, support, and celebrate those God raises up for kingdom work. We also face our own Elymas figures—opposition, resistance, hostility—but we serve the same Jesus who stood with Paul then and stands with his followers now.",
+        "Where is the Spirit inviting you to move beyond your comfort? Who in your church might God be calling to expand his kingdom work?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 13: Scholarly study",
+      "overview": [
+        "Acts 13 marks a pivotal transition in Luke's narrative, shifting the geographic and theological center of the early church from Jerusalem to Antioch and inaugurating the Pauline mission to the Gentiles. The Antiochene church, established by Hellenistic Jewish believers fleeing persecution, had already demonstrated remarkable ethnic diversity, as evidenced by the leadership roster including Barnabas the Levite from Cyprus, Simeon called Niger (suggesting African origin), Lucius of Cyrene, Manaen (a childhood companion of Herod Antipas), and Saul of Tarsus. This cosmopolitan assembly provided the ideal launching point for a universal gospel mission.",
+        "The chapter opens with the community engaged in worship and fasting when the Holy Spirit commands the separation (ἀφορίσατε, aphorisate) of Barnabas and Saul for divinely appointed work. This verbal form carries significant weight, echoing Paul's later self-description in Galatians 1:15 and establishing the missionary enterprise as fundamentally theocentric rather than humanly conceived. The laying on of hands that follows represents commissioning rather than ordination, acknowledging the Spirit's prior call while extending ecclesial recognition and fellowship.",
+        "The missionaries' strategy of beginning proclamation in synagogues reflects both practical wisdom and theological conviction. Paul's sermon at Pisidian Antioch constitutes the longest recorded Pauline speech in Acts and serves as Luke's paradigmatic example of Jewish evangelism. The address rehearses salvation history from the patriarchs through David, culminating in Jesus as the promised Davidic descendant. Particularly significant is the declaration that through Jesus, forgiveness of sins is proclaimed and justification (δικαιωθῆναι, dikaiōthēnai) is available for everything from which the Mosaic law could not justify—a distinctly Pauline theological emphasis that scholars debate whether Luke fully understood or merely reported.",
+        "The Jewish rejection and subsequent Gentile receptivity at Pisidian Antioch establishes a pattern repeated throughout Acts. Paul's citation of Isaiah 49:6, applying the Servant's mission to himself and Barnabas as \"a light for the Gentiles,\" represents a bold hermeneutical move with profound implications for early Christian self-understanding. The chapter concludes with expulsion from the region yet notes paradoxically that disciples were filled with joy and the Holy Spirit, demonstrating Luke's consistent theme that opposition cannot thwart divine purposes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 13: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately fifteen years after the resurrection of Christ, around AD 47-48, marking a pivotal hinge in the grand narrative of redemption. We stand here at the threshold of the gospel's deliberate expansion beyond Jerusalem and Judea into the uttermost parts of the earth—the fulfillment of Christ's final commission before His ascension. Within the great arc of salvation history, this moment represents the flowering of the Abrahamic promise that in his seed all nations would be blessed, now bearing fruit through the Holy Spirit's sovereign direction of the early church.",
+        "At Antioch, the Spirit speaks to a gathered community of prophets and teachers, setting apart Barnabas and Saul for a work to which He had called them. Here we witness the divine initiative that has always characterized redemption—God seeking, God sending, God accomplishing. Just as the Father sent the Son, and the Son breathed forth the Spirit, now the Spirit sends forth messengers bearing the word of reconciliation. The laying on of hands echoes the consecration of Levitical priests, yet now the entire church participates in commissioning ambassadors of a greater priesthood.",
+        "Paul's sermon in the synagogue at Pisidian Antioch stands as a masterwork of prophetic interpretation, sweeping from the exodus through David to the promised Messiah. He declares that what God promised to the fathers He has fulfilled for their children by raising Jesus—the psalm of enthronement finding its ultimate meaning in resurrection. The type of David, the shepherd-king after God's own heart, yields to the antitype: great David's greater Son, who unlike His ancestor would not see corruption. The tomb that could not hold Him stands as heaven's vindication of every prophetic word.",
+        "Yet embedded in this triumph lies solemn warning. Paul quotes Habakkuk's ancient oracle against scoffers, originally fulfilled in Babylon's devastating judgment, now finding fresh application to those who reject the risen Lord. The pattern of exile and restoration that marked Israel's history becomes the spiritual paradigm for all humanity—those who believe are justified from all things, freed from a bondage Moses' law could never break.",
+        "For the church living between the advents, this chapter establishes our identity and mission. We are a Spirit-sent people, carrying the message that the crucified and risen Christ offers forgiveness to Jew and Gentile alike. The jealousy of unbelieving Israel and the joy of receiving Gentiles foreshadow the mystery Paul would later unfold—a partial hardening until the fullness of the nations comes in. We labor in that already-but-not-yet reality, proclaiming the light to the nations until He who began this work returns to complete it."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.69311+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Numbers",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 22: The Donkey and the Blind Eyes",
+      "overview": [
+        "When a pagan king hires a prophet to curse God's people, the real battle becomes not about words but about seeing. Numbers 22 opens our eyes to a spiritual reality: we are often the least aware of God's protection when it matters most.",
+        "Balak, king of Moab, is terrified of Israel's advancing army. His desperate solution is to contract Balaam, a seer with a reputation for effective words, to pronounce a curse. The problem is that Balaam cannot curse what God has blessed, no matter how much gold changes hands. What unfolds is a peculiar mercy: a donkey sees an angel three times before her master does. The irony is striking—the animal meant to carry Balaam toward his hired rebellion becomes the instrument of his rescue. Each time the donkey refuses to move, Balaam strikes her in frustration, unable to perceive what she perceives: the angel of the Lord blocking the way with drawn sword.",
+        "Finally, the Lord opens Balaam's eyes, and he sees what his donkey has known all along. In that moment, Balaam recognizes that his path toward disobedience was being hedged in by divine protection. The angel's words are clear: \"Why have you beaten your donkey these three times? I have come here to oppose you because your path is a reckless one.\"",
+        "This passage teaches us something humbling about spiritual blindness. Often, our obstacles are actually God's mercies. The plans we cannot seem to execute, the doors that won't open, the resistance we encounter—these may be the kindest refusals God offers. Balaam's stubbornness almost cost him his life. Instead, God graciously opened his eyes to see protection as opposition, and opposition as love.",
+        "Where might God be hedging in your path right now? What resistance in your life could actually be the angel protecting you from a reckless road?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 22: Scholarly study",
+      "overview": [
+        "Numbers 22 marks a significant narrative shift in the book of Numbers, transitioning from Israel's wilderness wanderings and military victories over Sihon and Og to an extended account of Balaam son of Beor, a non-Israelite diviner summoned to curse the advancing Israelites. The chapter belongs to a larger literary unit spanning chapters 22–24, often identified as the Balaam Cycle, which scholars recognize as containing some of the oldest poetry in the Hebrew Bible based on archaic linguistic features. The historical setting places Israel encamped in the plains of Moab, poised to enter Canaan, while Balak king of Moab perceives an existential threat requiring supernatural intervention.",
+        "The narrative introduces Balaam as a figure of considerable reputation, dwelling in Pethor near the Euphrates River, suggesting connections to Mesopotamian mantic traditions. The Hebrew term *qāsam* (to divine) and its cognates, applied to Balaam's profession, typically carry negative connotations elsewhere in the Pentateuch, creating immediate narrative tension regarding his legitimacy. Remarkably, however, YHWH communicates directly with this foreign seer, using the divine name throughout the encounter. This presents interpreters with the complex question of how a pagan diviner becomes a vehicle for authentic Israelite prophecy.",
+        "The famous episode of Balaam's donkey (verses 22–35) introduces the *malʾak YHWH* (angel of the LORD) who obstructs Balaam's path. The donkey's ability to perceive divine presence when the professional seer cannot creates pointed irony, raising questions about true spiritual perception. The term *śāṭān* appears in verse 22, meaning \"adversary\" or \"one who opposes,\" describing the angel's function rather than serving as a proper name—a distinction crucial for understanding the development of this term in later biblical literature.",
+        "Canonical placement of this narrative serves theological purposes: demonstrating YHWH's sovereignty over foreign powers and his protection of Israel through unexpected means. The tension between Balaam's apparent compliance with divine instruction and the angel's fierce opposition has generated extensive scholarly discussion, with some proposing originally independent traditions that were later combined. The Deir Alla inscription, discovered in 1967, confirms Balaam's reputation in Transjordanian tradition, providing rare extrabiblical attestation for a biblical figure and suggesting his historical significance extended beyond Israelite memory."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 22: Prophetic perspective",
+      "overview": [
+        "Numbers 22 unfolds approximately 1400 years before the birth of Christ, near the conclusion of Israel's forty-year wilderness wandering. The nation now encamps on the plains of Moab, east of the Jordan River, poised to enter the promised land under Moses' leadership. This moment arrives after the conquest of the Amorite kings Sihon and Og, victories that have struck terror into the surrounding nations. Within the grand redemptive arc, this passage stands between the Exodus deliverance and the fulfillment of the Abrahamic promise—Israel is about to possess the land sworn to their fathers, and the nations tremble before the unstoppable purposes of God.",
+        "Balak, king of Moab, perceives what the pagan world has always sensed when confronted with God's covenant people: a force that cannot be defeated by conventional means. His summons to Balaam the diviner reveals humanity's age-old attempt to manipulate the spiritual realm against God's chosen ones. Balaam emerges as a tragic and complex figure—a man with genuine prophetic capacity who nonetheless harbors a covetous heart. He knows the Lord's voice yet repeatedly tests the boundaries of divine permission, hoping God might relent and allow him to secure Balak's riches. Here stands a type of every false teacher who possesses spiritual knowledge without spiritual transformation, who speaks truth while loving the wages of unrighteousness, as Peter and Jude later warn.",
+        "The episode of the speaking donkey carries profound prophetic weight. The Lord opens the animal's mouth to rebuke the prophet's madness, demonstrating that God will use even the lowliest instruments to accomplish His purposes and expose human folly. The Angel of the LORD standing with drawn sword in the path prefigures the pre-incarnate Christ, who guards the way of His people and opposes all who would curse what heaven has blessed. Balaam's blindness contrasts with the donkey's sight—a prophetic indictment against spiritual leaders who cannot perceive what simple faith readily sees.",
+        "The chapter establishes an immutable prophetic principle: no enchantment, no divination, no earthly power can prevail against those whom God has blessed. What the Lord has purposed, no creature can reverse. For the church dwelling between Christ's advents, this truth anchors every generation facing opposition. The principalities and powers rage, worldly authorities conspire, and false prophets arise, yet the blessing pronounced over Abraham's seed remains irrevocable. Those hidden in Christ stand under an unbreakable covenant, shielded by the same sovereign hand that silenced Balaam and transformed intended curses into prophetic benediction."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.060155+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

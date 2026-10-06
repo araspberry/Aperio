@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 57,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 57 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 57: Refuge in God's Shadow",
+      "overview": [
+        "The spiritual heart of Psalm 57 is the discovery that God's faithful love reaches us even in our darkest, most desperate moments—when we are literally hiding for our lives. David, fleeing from Saul into caves, transforms terror into trust by anchoring his soul in the character of God rather than the circumstances that surround him.",
+        "Notice how David begins: \"Be merciful to me, O God, be merciful to me, for in you I take refuge.\" He doesn't deny his danger or pretend the threat isn't real. Instead, he plants himself beneath the shadow of God's wings—a powerful image of protection and presence. This is vulnerability transformed into faith. The cave becomes not a prison but a chapel, where the hunted man discovers that no human power can touch the deepest part of his soul if God holds it safe.",
+        "What makes this psalm so transferable to our own struggles is David's refusal to let external circumstances define his reality. Yes, his enemies surround him. Yes, lions prowl. But in the same breath, he proclaims that God's love and faithfulness are higher than the heavens, and his praise will rise above his panic. This isn't denial; it's perspective. When we're trapped by grief, failure, sickness, or rejection, we face the same choice David did: Will we let our circumstances have the final word, or will we let God's character rewrite our story?",
+        "The remarkable conclusion shows David moving from asking for rescue to declaring confidence: \"Be exalted, O God, above the heavens; let your glory be over all the earth.\" He doesn't wait for deliverance to praise. He praises God while still in the cave, discovering that worship itself becomes the wings beneath which his soul finds refuge.",
+        "What cave are you hiding in today, and how might acknowledging God's faithful love there transform your fear into faith?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 57: Scholarly study",
+      "overview": [
+        "Psalm 57 presents itself as a Davidic composition associated with his flight from Saul into a cave, likely referencing the episodes at Adullam (1 Sam 22) or En-gedi (1 Sam 24). The superscription designates it as a *miktam*, a term of uncertain etymology that appears in Psalms 16 and 56–60, possibly indicating a particular liturgical function or musical style. The instruction \"al-tashḥet\" (Do not destroy) may reference a known melody or serve as a thematic marker connecting this psalm to others bearing the same notation.",
+        "The psalm divides into two parallel stanzas (vv. 1–5 and 6–11), each concluding with an identical refrain calling for God's exaltation above the heavens. This structural repetition creates both theological emphasis and liturgical symmetry, suggesting possible antiphonal performance in temple worship. The movement from desperate petition to confident praise reflects the characteristic trajectory of individual laments throughout the Psalter.",
+        "Central to the psalm's imagery is the term *ḥāsâ* (to take refuge), appearing in the opening verse where the psalmist seeks shelter \"in the shadow of your wings.\" This metaphor carries covenantal overtones, evoking both the protective cherubim overshadowing the ark and the maternal imagery of divine protection found elsewhere in Hebrew poetry. The \"shadow of wings\" (*ṣēl kĕnāpêkā*) suggests intimate nearness and security amid existential threat.",
+        "The enemies are characterized through leonine imagery—their teeth are spears and arrows, their tongues sharpened swords (v. 4). This anatomical focus on instruments of speech indicates that the threat involves verbal attack, whether false accusation, conspiracy, or curse. The term *lōhaṭîm* (burning/flaming ones) in verse 4 intensifies the predatory imagery, possibly drawing on ancient Near Eastern conceptions of destructive supernatural beings.",
+        "Interpreters debate whether verses 7–10 represent anticipatory praise offered before deliverance or thanksgiving following rescue. The perfect tense verbs in verse 6, describing enemies falling into their own pit, may function as prophetic perfects expressing confidence in future divine action. The psalm concludes with universal scope—praise extending \"among the peoples\" and \"among the nations\"—situating personal deliverance within Israel's broader vocation as witnesses to divine faithfulness among all humanity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 57: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the darkest chapter of David's fugitive years, composed while he hid in a cave—likely Adullam or En Gedi—fleeing from King Saul's murderous pursuit, approximately one thousand years before Christ's advent. We stand here in the era of the united monarchy's birth pangs, after Samuel's anointing of David but before the shepherd-king could claim his throne, a period when God's chosen vessel lived as a hunted animal while the rejected king still wore the crown.",
+        "Within redemption's grand narrative, this moment falls in the Kingdom epoch, yet it carries the ache of exile within it. David, though anointed, dwells in the shadow of death, surrounded by lions and ravenous beasts—his vivid metaphors for Saul's soldiers whose teeth are spears and arrows. Here the typological pattern blazes forth: David in the cave prefigures Christ in the tomb. The anointed king, rejected by the ruling powers, descends into darkness and apparent defeat. The cave becomes a womb of resurrection hope, for David emerges not destroyed but singing. His cry \"Be exalted, O God, above the heavens\" anticipates the ascension glory of great David's greater Son, who descended into death's domain only to rise triumphant over every enemy.",
+        "The refrain—\"Be exalted, O God, above the heavens; let Your glory be above all the earth\"—carries eschatological weight that stretches from David's cave to the final consummation. This prayer was partially answered when David assumed the throne, more fully answered when Christ ascended to the Father's right hand, and awaits ultimate fulfillment when every knee bows and God's glory covers the earth as waters cover the sea. The \"steadfast love reaching to the heavens\" and \"faithfulness to the clouds\" speak of covenant certainty that transcends David's immediate crisis, pointing to that faithful love demonstrated supremely at Calvary.",
+        "David's fixed heart, awakening the dawn with praise, models the posture of those who trust God amid tribulation. The lions' teeth will be broken; the pit dug for the righteous swallows the wicked instead—prophetic reversals that find their ultimate expression in Christ's victory over Satan's schemes.",
+        "For the church dwelling between advents, this psalm offers a cave-song for the already-not-yet. We are anointed yet often rejected, promised thrones yet presently persecuted. Like David, we take refuge under the shadow of divine wings until destruction passes, our hearts fixed, our mouths filled with praise that awakens hope in darkness."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_057",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.279936+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

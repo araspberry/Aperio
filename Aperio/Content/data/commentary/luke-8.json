@@ -1,0 +1,58 @@
+{
+  "book": "Luke",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 8: The Power of Jesus Over All Things",
+      "overview": [
+        "At the heart of Luke 8 lies a profound invitation to trust Christ's authority over every force that threatens our peace—whether external storms, internal torment, or the uncertainty of tomorrow. Through remarkable miracles and transformative teaching, Jesus demonstrates that his power extends over nature, darkness, disease, and death itself.",
+        "The chapter opens with Jesus teaching from a boat, using the parable of the sower to reveal how God's Word takes root differently in human hearts depending on the soil of our receptivity. This isn't mere agricultural instruction; Jesus is asking whether we are truly listening, truly opening ourselves to transformation. Our spiritual condition matters deeply. Then, as if to prove the point, Jesus sleeps while the disciples face a terrifying storm. Their panic gives way to amazement when Jesus speaks peace to the chaos around them. How often do we forget that the same Jesus who calmed those waves is present in our present turmoil?",
+        "What follows is a cascade of deliverance: a demoniac freed from thousands of oppressive spirits, a hemorrhaging woman healed by her faith, and a child restored to life. Each miracle echoes the same message—nothing lies beyond Christ's redemptive reach. The woman with the chronic bleeding, rejected by society and depleted by futile treatments, discovers that wholeness comes through touching Jesus in vulnerable faith. Jairus, a synagogue leader, must abandon dignity and social standing to plead for his daughter's life.",
+        "These stories normalize desperation as the gateway to discipleship. They tell us that coming to Jesus doesn't require us to have our lives arranged first. Our brokenness, our fear, our deepest needs—these are the very things that position us to encounter his transforming power.",
+        "As you reflect on your own journey, where are you still resisting Christ's authority? What storm, what torment, what lingering illness of the soul awaits his healing word?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 8: Scholarly study",
+      "overview": [
+        "Luke 8 represents a pivotal chapter in the Third Gospel, marking a transition from Jesus' Galilean teaching ministry to a series of dramatic demonstrations of divine authority. Writing to Theophilus and a broader Gentile audience, Luke the physician-historian carefully arranges this material to establish Jesus' comprehensive sovereignty over nature, the demonic realm, disease, and death itself. The chapter opens with a distinctive Lukan contribution—the identification of women who supported Jesus' ministry financially, including Mary Magdalene, Joanna (wife of Herod's steward Chuza), and Susanna. This inclusion reflects Luke's characteristic attention to marginalized figures and provides important sociohistorical evidence for early patronage networks surrounding itinerant teachers.",
+        "The Parable of the Sower and its interpretation occupy the central teaching section, where Jesus employs the Greek term *logos* (word) to describe the divine message that produces varying responses depending on the condition of human hearts. Luke's version emphasizes the importance of hearing correctly, using the verb *akouō* repeatedly, while the good soil represents those who hold fast to the word with a \"noble and good heart\" (*kardia kalē kai agathē*), terminology resonating with Hellenistic moral philosophy that would appeal to Luke's intended readership. The enigmatic saying about the purpose of parables presents interpretive challenges, with scholars debating whether the *hina* clause indicates purpose or result regarding those \"outside\" who do not understand.",
+        "The subsequent miracle narratives form a carefully structured sequence demonstrating escalating displays of power. The stilling of the storm reveals authority over cosmic chaos, employing the verb *epitimaō* (rebuke)—the same term used for exorcisms—suggesting Luke understands nature's disorder as quasi-demonic. The Gerasene demoniac episode, the longest exorcism account in the Synoptics, features the demon identifying itself as \"Legion\" (*Legiōn*), a Latin loanword carrying unmistakable Roman military connotations that scholars interpret as political commentary on imperial occupation. The chapter concludes with intertwined healing narratives—Jairus's daughter and the hemorrhaging woman—both involving twelve years and ritual impurity, demonstrating Jesus' power to restore individuals to covenant community through physical touch, a theme particularly significant within Luke's theology of inclusive salvation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 8: Prophetic perspective",
+      "overview": [
+        "Luke chapter eight unfolds during the second year of Christ's public ministry, approximately AD 28–29, roughly fifteen hundred years after the Exodus and a thousand years after David's throne was established. This places us at the hinge point of all redemptive history—the long-awaited Messiah walks among His people, and the kingdom of God has drawn near in His very person. We stand here at the culmination of every prophetic hope, watching the seed of the woman finally crushing the serpent's head through His authoritative words and miraculous deeds.",
+        "The chapter opens with women who accompany Jesus, having been healed of evil spirits and infirmities. Mary Magdalene, from whom seven demons departed, embodies Israel herself—possessed, tormented, yet liberated by the true Deliverer greater than Moses. These women supporting Jesus from their means reverse the pattern of Eve; where the first woman was deceived and brought death, these daughters of Eve minister to the One who brings life.",
+        "The parable of the sower reveals the mystery of the kingdom's present hiddenness. Isaiah prophesied that Israel's heart would grow dull, their ears heavy, and their eyes closed. Jesus announces that this judicial hardening has arrived, yet simultaneously the word goes forth as seed, finding good soil in the humble remnant. The lamp set on a stand declares that what is hidden shall be manifest—the concealed glory of the incarnate Word will blaze forth in resurrection light.",
+        "When Jesus calms the tempest, the disciples behold what Psalm 107 celebrated: the Lord who stills the storm and husks the waves to silence. The Creator sleeps in the boat like Jonah, yet unlike Jonah, this prophet commands wind and water as their Maker. Here is YHWH in flesh, exercising the divine prerogative over chaos.",
+        "The Gerasene demoniac presents a living portrait of Gentile humanity—naked, dwelling among tombs, bound yet uncontrollable, utterly possessed by Legion. Christ's deliverance of this man anticipates the gospel's advance into all nations. The man sent back to proclaim what God has done becomes a firstfruits of Gentile witness.",
+        "The intertwined healings of Jairus's daughter and the hemorrhaging woman unite the themes of death, uncleanness, and desperate faith. Both represent twelve years—the girl's age and the woman's affliction—symbolic of Israel's tribes awaiting restoration. Jesus touches the unclean and the dead, absorbing impurity and releasing life, foreshadowing His cross where He becomes sin that we might become righteousness.",
+        "The church today lives as those who have received the word in good soil, commissioned like the delivered demoniac to proclaim Christ's mighty works."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.565367+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-042"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

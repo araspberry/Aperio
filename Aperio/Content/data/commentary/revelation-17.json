@@ -1,0 +1,55 @@
+{
+  "book": "Revelation",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 17: The Fall of False Authority",
+      "overview": [
+        "The seventeenth chapter of Revelation pulls back the curtain on spiritual deception and the ultimate powerlessness of systems that oppose God's kingdom. This vision unmasks the woman called Babylon—a haunting symbol of worldly power dressed in the trappings of religious authority—and reveals her inevitable collapse beneath Christ's sovereign reign.",
+        "John's vision shows us a woman \"drunk with the blood of the saints,\" adorned with every luxury, commanding the allegiance of nations and kings. She appears magnificent, invincible even, yet she rides upon the beast—a telling detail. Here lies the passage's deepest truth: all earthly power that resists God's rule is ultimately unstable, dependent on forces destined for destruction. The ten horns and seven heads represent political and spiritual authorities that seem eternal in their moment but carry within them the seeds of their own dissolution.",
+        "This vision speaks directly to our experience of living in a world where false authorities demand our worship and allegiance. We see it in cultural movements that promise fulfillment through material gain, in ideologies that elevate human reason above divine truth, in systems that exploit the vulnerable while celebrating their own supremacy. Babylon represents any power structure—political, economic, or spiritual—that seduces us away from singular devotion to Christ and His kingdom.",
+        "The stunning revelation is that this dazzling empire will be utterly destroyed. The very powers that sustain her will turn and devour her. God uses even rebellious forces to accomplish His purposes. This should steady our hearts when we feel overwhelmed by the apparent strength of worldly systems. We are not called to fear them or capitulate to them, but to remain faithful to the One who holds all authority in heaven and earth.",
+        "What false authorities in your life demand allegiance that belongs only to Christ? How might viewing them through the lens of Revelation 17 reshape your response to them?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 17: Scholarly study",
+      "overview": [
+        "Revelation 17 presents one of the Apocalypse's most elaborate symbolic visions, depicting the judgment of \"the great prostitute\" seated upon many waters and riding a scarlet beast. This chapter belongs to a larger unit (chapters 17–18) that expands upon the seventh bowl judgment, providing detailed imagery of Babylon's fall before the final eschatological consummation. The vision employs rich intertextual connections to Old Testament prophetic literature, particularly Jeremiah's oracles against Babylon and Ezekiel's pronouncements against Tyre, while simultaneously engaging the socio-political realities of first-century Roman imperial cult and commerce.",
+        "The central figure is designated with the Greek term *pornē* (πόρνη), traditionally rendered \"prostitute\" or \"harlot,\" a prophetic metaphor with deep roots in Israel's scriptures where it consistently represents religious infidelity and alliance with pagan powers. The woman's identification as \"Babylon the great\" (*Babylōn hē megalē*) functions as a cipher that early Christian communities would have readily understood as referencing Rome, given the widespread Jewish and Christian practice of employing \"Babylon\" as a cryptogram for the imperial capital following 70 CE. Her intoxication with \"the blood of the saints\" establishes her as the persecuting power par excellence.",
+        "The beast bearing seven heads occasions explicit interpretive guidance rare in apocalyptic literature: the heads represent both seven mountains—an unmistakable allusion to Rome's famous topography—and seven kings. Scholarly debate persists regarding the identification of these rulers, with proposals ranging from literal Roman emperors to symbolic representations of imperial power throughout history. The enigmatic eighth king who \"belongs to the seven\" has generated extensive discussion, with some interpreters connecting this figure to the Nero redivivus legend circulating in the late first century.",
+        "The ten horns representing kings \"who have not yet received a kingdom\" likely symbolize client rulers or future hostile powers. Significantly, the chapter anticipates internal conflict within the evil alliance, as these kings ultimately turn against the prostitute—a theme reflecting prophetic traditions where God employs hostile nations as instruments of judgment against one another. The chapter thus demonstrates divine sovereignty orchestrating even rebellious powers toward the fulfillment of God's purposes, preparing readers for Babylon's comprehensive destruction detailed in chapter 18."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 17: Prophetic perspective",
+      "overview": [
+        "Revelation 17 emerges from the pen of the aged apostle John near the close of the first century, approximately sixty years after Christ's ascension, written during a period of intensifying persecution under Roman imperial power. This vision belongs to the final section of canonical Scripture, standing at the threshold between the church age and the consummation of all things. The prophecy contained here stretches across time—partially fulfilled in the fall of ancient empires, progressively unveiled throughout church history, yet awaiting ultimate realization in the days preceding Christ's return.",
+        "Within the grand arc of redemption, this chapter occupies the penultimate movement—the church age groaning toward the Second Coming. John is carried into the wilderness to witness what the prophets of old glimpsed only in shadow: the full exposure and judgment of that spiritual reality which has opposed God's people since Babel's tower rose against heaven. The great prostitute seated upon many waters represents the seductive convergence of false religion, economic exploitation, and political idolatry that has intoxicated the nations throughout human history. She is Babel's daughter, Egypt's sorcery, Jezebel's corruption, and Rome's imperial cult woven into one symbolic figure.",
+        "The typological patterns here reach backward and forward simultaneously. As ancient Babylon carried Judah into exile and defiled the temple vessels, so this mystery Babylon corrupts worship and persecutes the saints. The beast upon which she rides—with seven heads and ten horns—echoes Daniel's terrible visions of successive world empires, yet transcends any single historical manifestation. This is the spirit of antichrist that John elsewhere declared was already present in his day, yet which builds toward a final, concentrated expression before the end.",
+        "The prophetic trajectory reveals a stunning reversal: the very powers that once served the harlot system will turn upon her in divinely orchestrated judgment. The ten kings who gave their authority to the beast will strip her naked and consume her with fire. Heaven's sovereignty stands behind even this destruction—God placing it in their hearts to fulfill His purpose. What appears as chaos is actually the outworking of eternal decree.",
+        "For the church living between the advents, this chapter sounds both warning and comfort. The call to discernment echoes across centuries: recognize Babylon's seductions in every age, whether dressed in imperial purple or contemporary sophistication. Yet take heart—the Lamb conquers, for He is Lord of lords and King of kings, and those called, chosen, and faithful share in His certain victory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.093695+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

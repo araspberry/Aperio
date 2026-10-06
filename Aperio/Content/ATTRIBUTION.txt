@@ -1,0 +1,36 @@
+Aperio data sources — retrieved September 29, 2026
+
+Berean Standard Bible text and translation tables
+Produced in cooperation with Bible Hub, Discovery Bible, unfoldingWord,
+Bible Aquifer, OpenBible.com, and the Berean Bible Translation Committee.
+https://berean.bible/downloads.htm
+https://berean.bible/licensing.htm
+The publisher dedicates the Bible texts to the public domain.
+Inputs: https://bereanbible.com/bsb.txt and https://bereanbible.com/bsb_tables.tsv
+Aperio keeps the verse text unchanged. Study phrases are linked only where an
+exact sequential phrase match can be located in that verse. Unmatched table
+phrases are omitted, so this is an initial, incomplete alignment import.
+
+Strong's Hebrew and Greek dictionaries
+By James Strong. JSON editions copyright 2010 (Hebrew) and 2009 (Greek),
+Open Scriptures. CC-BY-SA, as stated in the upstream file headers.
+https://github.com/openscriptures/strongs
+Full original files and notices are provided in sources/ and in the
+hebrew-dictionary-notice.txt and greek-dictionary-notice.txt files.
+Aperio's data/hebrew.json and data/greek.json are format conversions from
+those editions with dictionary entries unmodified, under the same CC-BY-SA
+terms. Dictionary content is distinct from Aperio application code.
+The dictionaries provide historical glosses, not definitive contextual
+interpretations. Original-language forms and transliterations come from
+the BSB tables; dictionary headwords may differ from inflected forms.
+
+Passage cross-references: extracted from the public-domain BSB translation
+published tables at https://bereanbible.com/bsb_tables.tsv, linked from
+https://berean.bible/downloads.htm. This import includes 2,018 validated,
+explicit single-chapter verse references; 15 ambiguous or mismatched links
+were omitted. Coverage is 632 chapters. References are distinct from lexical
+occurrence matches. The publisher's attachment verse may introduce a passage.
+
+Aperio commentary: new original Genesis 12 and Psalm 23 editorial drafts, with three
+perspectives and passage-level sections. This content has not completed
+editorial or theological review. Scripture sources are linked within it.

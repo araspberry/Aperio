@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 26: When Human Pride Meets Divine Authority",
+      "overview": [
+        "The prophecy against Tyre reveals a fundamental spiritual reality: no earthly kingdom, however magnificent or fortified, stands beyond the reach of God's sovereign judgment. When Tyre celebrated Jerusalem's fall as profitable opportunity rather than occasion for humility, the city exposed the spiritual disease that ultimately destroys all human power—unchecked pride masquerading as prudence.",
+        "Tyre was the ancient world's economic powerhouse, a merchant city so wealthy and strategically positioned that its people had come to believe themselves untouchable. Yet Ezekiel announces God's verdict with relentless detail: the great city would be scraped bare, reduced to nothing. This wasn't arbitrary divine violence but measured response to a nation that had made itself an enemy of God's people and, in doing so, revealed its fundamental refusal to acknowledge God's authority over history.",
+        "The prophecy strikes with particular force because Tyre's ruin seemed economically inexplicable at the time. Who would choose to destroy their most lucrative trading partner? But God's logic operates on different grounds than market calculations. He sees not just what nations do, but who they are becoming—hardened in self-sufficiency, indifferent to justice, intoxicated by profit margins and military security. This is precisely the spiritual condition that invites His judgment.",
+        "The passage invites us to examine our own hearts regarding security and significance. In what ways do we construct our own \"Tyre\"—building confidence in wealth, reputation, or position while remaining practically independent from God? The comfortable lie we tell ourselves is that we can acknowledge God on Sundays while building our kingdoms Monday through Saturday. Ezekiel insists this fracture cannot hold.",
+        "God's sovereignty over history remains the deepest security available, more reliable than any fortress, more enduring than any fortune. When we align ourselves with His purposes rather than against them, we build on the only foundation that cannot be shaken.",
+        "What fortress of self-reliance might God be inviting you to release?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 26: Scholarly study",
+      "overview": [
+        "Ezekiel 26 stands as one of the most detailed prophetic oracles against a foreign nation in the Hebrew Bible, directed specifically against the Phoenician city-state of Tyre. The prophecy is dated to the eleventh year, first day of the month (approximately 587-586 BCE), situating it in the immediate aftermath of Jerusalem's fall to Nebuchadnezzar II. Ezekiel, himself a priest exiled to Babylon in 597 BCE, delivers this oracle as part of a larger collection of oracles against foreign nations spanning chapters 25-32, positioning Tyre's judgment within Yahweh's comprehensive sovereignty over all peoples.",
+        "The indictment against Tyre centers on the city's opportunistic response to Jerusalem's destruction, expressed through the term *ha'āh* (\"Aha!\"), an exclamation of malicious satisfaction. Tyre viewed Jerusalem's fall as commercial opportunity, anticipating that trade routes formerly passing through Judah would now redirect through Phoenician ports. The phrase *daltōt hā'ammîm* (\"gates of the peoples\") metaphorically describes Jerusalem's role as a commercial crossroads, which Tyre believed would now transfer to itself. This economic exploitation of covenant Israel's tragedy forms the theological basis for divine judgment.",
+        "The oracle employs the striking image of many nations rising against Tyre *kahalōt hayyām* (\"like waves of the sea\"), a particularly ironic metaphor given Tyre's identity as a maritime power. The prophecy describes siege warfare with remarkable specificity—siege walls, ramps, and the thundering of cavalry—details consistent with ancient Near Eastern military operations. Significantly, the text names Nebuchadnezzar as Yahweh's instrument of judgment, though historically the Babylonian siege lasted thirteen years without achieving complete conquest.",
+        "This historical complexity has generated considerable scholarly discussion regarding prophetic fulfillment. Some interpreters note that Ezekiel 29:17-20 appears to acknowledge Nebuchadnezzar's incomplete victory, while the complete destruction described in chapter 26 was ultimately realized through Alexander the Great's conquest in 332 BCE. Others emphasize the telescoping nature of prophetic literature, where near and distant fulfillments merge within a single oracle. The passage ultimately functions theologically to assert Yahweh's lordship over international commerce and his vindication of covenant relationship against those who exploit Israel's suffering for material gain."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 26: Prophetic perspective",
+      "overview": [
+        "This oracle against Tyre was delivered around 586 BC, during the final siege of Jerusalem, when Nebuchadnezzar's armies were crushing the kingdom of Judah. Ezekiel prophesied from Babylonian exile, where he had been taken eleven years earlier. The prophecy spans centuries of fulfillment—partially accomplished through Nebuchadnezzar's thirteen-year siege, more fully realized when Alexander the Great scraped the island city into the sea in 332 BC, and finding ultimate completion in the age to come when all proud centers of human commerce are finally judged.",
+        "Within the grand arc of redemptive history, this chapter stands in the period of Exile—that devastating epoch when God removed His glory from the temple and scattered His covenant people among the nations. Yet even in judgment, the Lord reveals Himself as sovereign over all peoples, not Israel alone. Tyre had gloated over Jerusalem's fall, seeing commercial opportunity in Judah's ruin: \"I shall be filled, now that she is laid waste.\" This exposure of Tyre's predatory heart becomes the occasion for divine verdict.",
+        "The imagery employed carries profound typological weight. Tyre, the queen of maritime trade, adorned with beauty and drunk on wealth, stands as an archetype of Babylon the Great in Revelation—that final world system of commerce that traffics in the souls of men. The \"many nations\" rising against Tyre like waves of the sea prefigures the divine judgment that crashes upon all human systems built on pride and exploitation. When Ezekiel declares that Tyre will become \"a bare rock\" and \"a place for spreading nets,\" he announces the absolute reversal awaiting all earthly glory that exalts itself against God's purposes.",
+        "The descent into \"the pit\" and \"the land of the nether world\" in the closing verses opens an eschatological window into death and Sheol—the realm of shadows where the proud are brought low. This foreshadows Christ's own descent and triumphant resurrection, by which He conquered the grave that swallows all human empires.",
+        "For the church dwelling between the advents, Ezekiel 26 sounds a sober warning and a steadfast hope. The warning: do not envy the prosperity of systems that profit from others' destruction. The hope: the Lord of history brings down every Tyre, every Babylon, every proud tower of human achievement that stands against His kingdom. The bare rocks of ancient Tyre still testify—God's Word does not return void, and His saints shall inherit what the merchants of the earth could never possess."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.150928+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

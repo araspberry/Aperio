@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 25: When Injustice Tests Our Faith",
+      "overview": [
+        "When the mechanisms of justice become weapons against truth, God remains sovereign over human systems and superintends the vindication of His servants. Acts 25 shows Paul caught in a maze of political manipulation, yet reveals how faith persists when earthly courts fail us.",
+        "Paul stands before Festus, the new Roman governor, with the Jewish leaders still determined to eliminate him. Rather than grant them their request for a trial in Jerusalem—where ambush awaited—Festus summons Paul to Caesarea. What unfolds is a study in how human power, pride, and political calculation often trample the innocent. Festus, new to his post, seems eager to ingratiate himself with the Jewish leadership. Paul watches as justice becomes a commodity traded for favor.",
+        "Yet notice Paul's remarkable composure. He appeals directly to Caesar, not from fear or desperation, but from confidence in God's purposes. This appeal, born from Roman law itself, becomes the very instrument that carries the gospel toward Rome. Paul's chains become his destiny. He refuses to be silent or compromised, maintaining his innocence while trusting the God who works through—and sometimes despite—human institutions.",
+        "This passage speaks powerfully to anyone who has experienced injustice, whether in workplaces, relationships, or systems designed to silence them. We live in a world where truth is sometimes unwelcome, where doing right doesn't guarantee favorable outcomes, and where political calculations outweigh righteousness. In such moments, faith isn't about winning in the courtroom of public opinion; it's about alignment with God's purposes that transcend our immediate circumstances.",
+        "Paul's example teaches us that faithfulness doesn't mean the system will work fairly. But it does mean God's purposes cannot be thwarted by human schemes. Our calling is to speak truth, maintain integrity, and entrust outcomes to the One who ultimately judges all judges.",
+        "Where are you facing institutional injustice, and how might trusting God's larger purposes change how you respond?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 25: Scholarly study",
+      "overview": [
+        "Acts 25 presents a pivotal moment in the Pauline narrative as the apostle's case transitions from the provincial jurisdiction of Caesarea to the imperial court in Rome, fulfilling both the divine commission announced in Acts 23:11 and the broader Lukan theme of the gospel's movement from Jerusalem to the ends of the earth. The chapter opens with Porcius Festus assuming the procuratorship from Felix, likely in 59 or 60 CE, though the precise date remains debated among historians. Festus inherited not only administrative responsibilities but also the unresolved case of Paul, who had languished in custody for approximately two years under Felix's dilatory governance.",
+        "The renewed accusations brought by the Jerusalem leadership before Festus demonstrate the persistent hostility toward Paul, with their request to transfer him to Jerusalem masking a plot for ambush (*enedra*). Luke's vocabulary here echoes the earlier conspiracy of Acts 23:16, creating literary cohesion while underscoring the unrelenting opposition Paul faced. Festus's offer to conduct the trial in Jerusalem, ostensibly as a favor (*charis*) to the Jewish authorities, placed Paul in a precarious position requiring decisive action.",
+        "Paul's appeal to Caesar (*Kaisara epikaloumai*) invokes the *provocatio ad Caesarem*, a legal right available to Roman citizens facing capital charges. This appeal transferred jurisdiction to the emperor's tribunal and proved irrevocable once accepted by the governor. The technical legal terminology Luke employs throughout this passage demonstrates his familiarity with Roman judicial procedures and serves his apologetic purpose of showing that Roman authorities consistently found no legitimate charge against Paul.",
+        "The arrival of Agrippa II and Bernice introduces Herodian royalty into the narrative, providing Festus an opportunity to clarify the charges before dispatching Paul to Rome. Agrippa, son of Agrippa I and great-grandson of Herod the Great, possessed recognized expertise in Jewish religious matters. Festus's confession that the dispute concerned \"a certain Jesus who had died but whom Paul asserted to be alive\" represents a remarkably concise summary of the resurrection proclamation from an outsider's perspective. The chapter thus advances Luke's dual purpose: demonstrating Paul's innocence before Roman law while simultaneously presenting the resurrection as the theological center of early Christian proclamation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 25: Prophetic perspective",
+      "overview": [
+        "This passage unfolds approximately twenty-five years after the resurrection and ascension of Christ, during the transition of Roman procurators in Judea around AD 59-60. Paul has languished in Caesarean imprisonment for two years, and now Porcius Festus succeeds Felix as governor. Within the grand redemptive arc, we stand firmly in the early Church Age, that mysterious epoch between Pentecost and the Parousia when the gospel races toward the ends of the earth even as the powers of this age rage against its messengers.",
+        "The chapter opens with a conspiracy that echoes ancient patterns of murderous intent against God's servants. The Jewish leadership seeks Paul's transfer to Jerusalem, plotting assassination along the way—a dark mirror of the plots against Joseph by his brothers, against David by Saul, and ultimately against Christ Himself by the Sanhedrin. Yet divine providence thwarts human scheming as it always has. Festus, unwitting instrument of heaven's purposes, insists the trial remain in Caesarea. Here we witness the sovereign hand that guards the covenant seed and protects the vessels chosen for kingdom advance.",
+        "When Paul appeals to Caesar, he invokes the machinery of Rome for purposes Rome cannot fathom. This appeal initiates the prophetic fulfillment of Christ's own declaration that Paul must bear witness in Rome itself. The eternal decree moves through the very structures of earthly empire. Caesar's tribunal becomes the unlikely vehicle for gospel proclamation to the heart of Gentile power—a stunning reversal wherein the prisoner becomes the herald, the accused becomes the witness, and the judgment seat becomes a pulpit.",
+        "The arrival of King Agrippa II and Bernice introduces the final remnant of the Herodian dynasty, that family which had opposed the Christ from His infancy when Herod the Great slaughtered Bethlehem's children. Now a descendant of that murderous house will hear the gospel from Paul's lips. The typological irony runs deep: earthly kings convene to examine the ambassador of the true King, yet they possess no authority to condemn or release one whom heaven has commissioned.",
+        "For the church dwelling between the advents, this chapter declares that no imprisonment can hinder the Word, no conspiracy can thwart divine purpose, and no earthly throne can impede the advance of Christ's kingdom. The saints may stand before governors and kings, yet these very trials become the ordained means of testimony. Rome thought it held Paul; in truth, the gospel was holding Rome."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.724027+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

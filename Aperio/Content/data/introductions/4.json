@@ -1,0 +1,140 @@
+{
+  "book": "Deuteronomy",
+  "bookIndex": 4,
+  "status": "Editorial draft",
+  "title": "Remembering Before the Next Step",
+  "subtitle": "Moses teaches a new generation how to live with the gift of the land",
+  "atAGlance": {
+    "genre": "Covenant speeches, law, exhortation, poetry, and farewell narrative",
+    "setting": "The plains of Moab, as Moses’s life ends and Israel prepares to cross the Jordan",
+    "composition": "Traditionally Mosaic teaching; many scholars identify later shaping in the monarchy and exile, with details debated",
+    "audience": "Israel called to remember its deliverance and renew its allegiance across generations"
+  },
+  "sections": [
+    {
+      "title": "A voice at the border",
+      "paragraphs": [
+        "Deuteronomy places Israel at a threshold. The wilderness lies behind the people, the Jordan ahead, and Moses will not accompany them into the land. His speeches reach backward and forward at once. He retells the journey so that the next generation can understand the choices now before it. Memory is a form of preparation: a people who forget why they were delivered may misunderstand what their freedom is for.",
+        "Moses speaks with urgency because he knows that settled life brings dangers of its own. Houses, harvests, and increasing possessions may encourage Israel to imagine that its strength alone produced its security. The book repeatedly asks the community to remember dependence, hardship, and grace while life is becoming more comfortable."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Love that becomes a way of life",
+      "paragraphs": [
+        "The confession in chapter 6 calls Israel to undivided allegiance to the LORD and to love Him with the whole of life. Its teaching is to accompany children, conversation, home, and travel. Faithfulness is learned through repeated practices, including the explanations adults give when children ask what the community’s observances mean. The home becomes a place where memory is kept alive.",
+        "Love in Deuteronomy has public substance. The God who delivered Israel from slavery requires attention to those with less protection: the foreign resident, orphan, widow, servant, and poor neighbor. Remembering Egypt should change the way power is exercised. A past experience of vulnerability is meant to form a people capable of recognizing vulnerability in others."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Law for life together",
+      "paragraphs": [
+        "The central laws address worship, leadership, debts, festivals, courts, households, and the use of the land. These instructions belong to an ancient covenant society and should be read in that setting. Some laws are difficult, particularly those involving warfare and penalties. They require close attention to their stated circumstances and to the way later Scripture engages the life of God’s people. An introduction cannot dissolve those questions by turning every provision into a general life lesson.",
+        "One notable concern is the restraint of authority. The king is not to multiply the usual instruments of prestige and power, and he must remain a student of the instruction that governs his people. Prophets and judges also face standards of accountability. Israel’s institutions matter, but none of its offices places a human being beyond God’s claim."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Consequences, return, and a death outside the land",
+      "paragraphs": [
+        "Blessings and curses give covenant choices their communal weight. Deuteronomy anticipates disobedience, loss, and exile, yet it also speaks of return and renewed responsiveness to God. The demand for obedience is therefore accompanied by an awareness of the people’s need for inward change. The future cannot be secured by possession of the land alone.",
+        "In the closing chapters, Joshua receives responsibility, Moses teaches a song and blesses the tribes, and the old leader views the land from a distance. The final account of his death introduces loss into a moment of expectation. God’s promise continues, but a beloved servant’s part in it has limits. The Torah ends with the people still looking toward what God has pledged."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The speeches and the book’s formation",
+      "paragraphs": [
+        "The narrated setting is the end of Moses’s life. Questions about the book’s composition concern how these speeches and laws were transmitted and shaped. Jewish and Christian tradition places Moses at their foundation. Many modern scholars connect important stages of the book with later covenant reform and reflection on exile. The extent and timing of those stages remain debated; the story’s setting should not be silently replaced by a proposed composition date.",
+        "Read Deuteronomy aloud when possible. Its repetitions belong to persuasive speech: remember, listen, love, choose. Watch how laws emerge from an account of who God is and what He has done. The book asks whether a community can carry gratitude into ordinary institutions, and whether inherited faith can become a deliberate allegiance in the lives of those who receive it."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Remembering the journey",
+      "startChapter": 1,
+      "endChapter": 4,
+      "description": "Moses reviews the wilderness experience and calls Israel to faithful attention."
+    },
+    {
+      "label": "Covenant allegiance",
+      "startChapter": 5,
+      "endChapter": 11,
+      "description": "The commandments, love of God, and the dangers of forgetting prepare the central instruction."
+    },
+    {
+      "label": "Life in the land",
+      "startChapter": 12,
+      "endChapter": 26,
+      "description": "Laws address worship, public responsibility, household life, and care for vulnerable neighbors."
+    },
+    {
+      "label": "Covenant choice and renewal",
+      "startChapter": 27,
+      "endChapter": 30,
+      "description": "Blessings, curses, exile, and return set the community’s future before it."
+    },
+    {
+      "label": "Moses’s farewell",
+      "startChapter": 31,
+      "endChapter": 34,
+      "description": "Succession, song, blessing, and death bring the Torah to its close."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Remembering",
+      "description": "Retelling deliverance protects the community from self-sufficient pride."
+    },
+    {
+      "name": "Wholehearted allegiance",
+      "description": "Love of God takes shape in teaching, worship, and practical obedience."
+    },
+    {
+      "name": "Responsible freedom",
+      "description": "Land and prosperity carry obligations toward those with less power."
+    }
+  ],
+  "timeline": {
+    "era": "exodus",
+    "dateLabel": "At the close of the wilderness journey",
+    "context": "Moses addresses Israel before its entry into Canaan.",
+    "note": "Narrative setting and proposed later stages of composition are distinct."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 34,
+      "era": "exodus",
+      "label": "Moses’s final teaching",
+      "dateLabel": "Before the Jordan crossing",
+      "note": "Retrospective speeches cover earlier events while the present setting remains Moab."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Deuteronomy · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Deuteronomy",
+      "url": "https://bible.usccb.org/bible/deuteronomy/0"
+    }
+  ]
+}

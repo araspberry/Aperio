@@ -1,0 +1,139 @@
+{
+  "book": "Genesis",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "title": "A Promise That Reaches Beyond Abram",
+  "sources": [
+    { "id": "gen12", "label": "Genesis 12 · Berean Standard Bible", "url": "https://biblehub.com/bsb/genesis/12.htm" },
+    { "id": "gen15", "label": "Genesis 15:1–6 · Berean Standard Bible", "url": "https://biblehub.com/bsb/genesis/15.htm" },
+    { "id": "gal3", "label": "Galatians 3:7–16, 26–29 · Berean Standard Bible", "url": "https://biblehub.com/bsb/galatians/3.htm" },
+    { "id": "heb11", "label": "Hebrews 11:8–10 · Berean Standard Bible", "url": "https://biblehub.com/bsb/hebrews/11.htm" },
+    { "id": "ex12", "label": "Exodus 12:29–36 · Berean Standard Bible", "url": "https://biblehub.com/bsb/exodus/12.htm" }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Trust That Makes Room for Others",
+      "overview": [
+        "Abram leaves home because God speaks. Before the chapter ends, he asks Sarai to conceal their marriage because he is afraid. Scripture lets both moments stand together. We meet a person capable of costly trust and damaging self-protection, held within a promise whose reach is far greater than his own life."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 3,
+          "title": "Blessing has a destination beyond you",
+          "paragraphs": [
+            "God's call reaches into the places where Abram belongs: country, relatives, and his father's household. Leaving will change his daily life. Yet God's words give the journey a purpose beyond departure. Abram will receive blessing, and through him blessing will reach the families of the earth. His future matters within God's concern for others.",
+            "That outward movement invites us to examine what we hope to receive. A secure home, useful work, time, wisdom, and friendship can all become gifts we share. Faith takes a practical shape when we ask who might be helped by what has been entrusted to us. Abram's particular promise gives us a generous direction for reflection: received goodness can become offered goodness."
+          ],
+          "sourceIds": ["gen12"]
+        },
+        {
+          "start": 4,
+          "end": 9,
+          "title": "Worship while the story is unfinished",
+          "paragraphs": [
+            "Abram reaches Canaan, but arrival is still a beginning. Other people live in the land, and the promise names his offspring as its future recipients. He builds an altar where the LORD appears to him, then builds another as he travels. His worship takes place along the way, before he can see the whole promise accomplished.",
+            "Waiting often makes gratitude feel premature. We tell ourselves that we will rest, pray, or give thanks when the situation finally settles. Abram's altars suggest another possibility: acknowledge God in the middle of an unfinished life. A quiet moment of prayer, a shared meal, or an act of generosity can express trust while important questions remain open."
+          ],
+          "sourceIds": ["gen12"]
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "title": "Notice who bears the cost of your fear",
+          "paragraphs": [
+            "Famine brings the household to Egypt. Abram fears for his life and asks Sarai to say she is his sister. His plan benefits him materially while she is taken into Pharaoh's household. The account gives no speech to Sarai here; we should still notice what happens to her. Abram's fear has consequences for someone he should protect.",
+            "God intervenes, Pharaoh confronts Abram, and Sarai is returned. Deliverance does not make the deception admirable. This ending invites honest self-examination: when we feel threatened, do we conceal the truth or let another person absorb the danger? Trust grows through truthful responsibility. We can bring our fear before God and attend carefully to the people affected by our choices."
+          ],
+          "sourceIds": ["gen12"]
+        }
+      ],
+      "reflection": "Where can you share a blessing this week, and where might fear be making someone else carry a burden that belongs to you?"
+    },
+    "scholarly": {
+      "title": "Promise, Journey, and a Troubling Deliverance",
+      "overview": [
+        "Genesis 12 develops through three movements: God's call and promises, Abram's journey through Canaan, and the crisis involving Sarai in Egypt. The chapter's tension comes from reading these together. The man entrusted with blessing acts faithfully in one scene and causes harm in another. Divine commitment and human conduct remain distinct throughout the account."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 3,
+          "title": "The scope of the promise",
+          "paragraphs": [
+            "The opening command names three settings Abram must leave: country, kindred, and his father's household. God's promises then concern a nation, blessing, a great name, protection in relation to others, and blessing extending to all the earth's families. The passage brings a particular household into a much wider purpose. Readers should keep that relationship in view rather than reducing the promise to Abram's personal advancement.",
+            "These verses introduce promises developed in later chapters. The image of descendants compared with the stars belongs to Genesis 15:5; it is not part of the wording here. Following those developments in sequence helps preserve the chapter's own emphasis. Genesis 12 gives a summons and an expansive promise before describing how Abram responds."
+          ],
+          "sourceIds": ["gen12", "gen15"]
+        },
+        {
+          "start": 4,
+          "end": 9,
+          "title": "Arrival and deferred possession",
+          "paragraphs": [
+            "The narrative identifies Abram as seventy-five when he leaves Haran. Sarai, Lot, their possessions, and the people acquired in Haran accompany him. The group enters Canaan, reaching Shechem and then the hill country east of Bethel before continuing toward the Negev. These place names locate the promise within a concrete journey rather than an abstract account of faith.",
+            "Verse 6 notes the Canaanites' presence; verse 7 records God's promise of the land to Abram's offspring. Those statements sit beside each other without an immediate transfer of possession. Abram responds by building an altar. Another altar and his calling on the LORD's name follow in verse 8. The narrative pairs movement through the land with worship, leaving the promise's completion ahead."
+          ],
+          "sourceIds": ["gen12"]
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "title": "Who acts, who benefits, who suffers?",
+          "paragraphs": [
+            "The stated reason for going to Egypt is severe famine. The text does not explicitly condemn the journey itself. Its moral difficulty emerges through Abram's strategy concerning Sarai: he anticipates danger to himself, asks her to identify as his sister, and receives favorable treatment after she enters Pharaoh's household. Keeping those events distinct avoids supplying a judgment the narrator has not made.",
+            "The LORD afflicts Pharaoh and his household because of Sarai. Pharaoh then questions Abram, returns his wife, and orders their departure. The narrator does not explain how Pharaoh discovered the marriage, and Abram gives no recorded reply. Those gaps should remain gaps. The chapter closes with rescue alongside rebuke, leaving readers to hold God's preservation of the household together with Abram's responsibility for its peril."
+          ],
+          "sourceIds": ["gen12"]
+        }
+      ],
+      "reflection": "Read the chapter again, distinguishing the narrator's statements, the characters' fears, and conclusions you have supplied yourself. What becomes clearer?"
+    },
+    "prophetic": {
+      "title": "The Promise Opens Toward Christ",
+      "overview": [
+        "Genesis 12 gives readers a promise with a horizon beyond Abram's lifetime. This reading follows its later biblical development and asks how Christians may respond today. An explicit New Testament interpretation, a pattern noticed across biblical narratives, and a present-day application each contribute something different; their strength comes from keeping the connection to Scripture visible."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 3,
+          "title": "Biblical fulfillment · Blessing for the nations",
+          "paragraphs": [
+            "Galatians 3:8 explicitly connects the blessing of the nations with the gospel announced beforehand to Abraham. Paul reads this promise in light of God bringing Gentiles into a right relationship with Himself through faith. This gives the Christian reading a clear biblical foundation: the promise looks beyond one man's welfare toward God's saving work among the nations.",
+            "Galatians 3:14 locates the blessing's arrival to the Gentiles in Christ Jesus and connects it with receiving the Spirit through faith. For Christians today, that connection gives blessing a generous, outward purpose. Sharing the gospel and welcoming people across familiar boundaries fit the direction of the promise. Its fulfillment calls a community to make room for others."
+          ],
+          "sourceIds": ["gen12", "gal3"]
+        },
+        {
+          "start": 4,
+          "end": 9,
+          "title": "Promise and application · Faith across generations",
+          "paragraphs": [
+            "In verse 7, God promises the land to Abram's offspring. Galatians 3:16 identifies Christ as the promised seed in Paul's interpretation of the promises to Abraham. Read together, the passages connect Abram's journey with the larger Christian account of fulfillment in Christ. Genesis retains its concrete setting of land, family, and descendants; Galatians shows how Paul draws those promises into his argument about Christ.",
+            "Hebrews 11:8–10 remembers Abraham's departure and life in tents as expressions of faith, with his hope directed toward the city God builds. The present-day application is patient trust. Some faithful work bears fruit beyond our own timetable: raising children, repairing relationships, serving a community. We can value that work without claiming that Abram's land promise guarantees a particular property, promotion, or outcome for us."
+          ],
+          "sourceIds": ["gen12", "gal3", "heb11"]
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "title": "Narrative pattern and application · Rescue with accountability",
+          "paragraphs": [
+            "Abram's departure from Egypt after divine affliction of Pharaoh's household invites comparison with Israel's later deliverance. Exodus 12:29–36 also describes affliction in Egypt followed by Pharaoh ordering a departure. Reading the earlier event as anticipating the later one is a typological interpretation based on narrative resemblance. Genesis 12 does not itself announce that this scene predicts the exodus, and the two accounts have different circumstances.",
+            "For present-day reflection, the scene presses a searching question about how people entrusted with a calling treat others. Abram's place in God's purpose does not place his conduct beyond criticism. Pharaoh's rebuke remains in the story. Christians who speak about divine calling should welcome truthful correction and protect those affected by their decisions. Hope in God's faithfulness and accountability for our actions belong together."
+          ],
+          "sourceIds": ["gen12", "ex12"]
+        }
+      ],
+      "reflection": "How might Christ's blessing reach someone through your life this week—and what correction would help your conduct reflect the hope you profess?"
+    }
+  },
+  "crossReferences": [
+    { "book": "Genesis", "chapter": 15, "start": 1, "end": 6, "label": "Genesis 15:1–6", "relationship": "Promise developed", "note": "God addresses Abram's concern about an heir and compares his future offspring with the stars; this develops the promise beyond Genesis 12." },
+    { "book": "Galatians", "chapter": 3, "start": 7, "end": 14, "label": "Galatians 3:7–14", "relationship": "Explicit New Testament interpretation", "note": "Paul connects the promised blessing of the nations with justification by faith and the blessing reaching Gentiles through Christ." },
+    { "book": "Galatians", "chapter": 3, "start": 16, "end": 16, "label": "Galatians 3:16", "relationship": "Fulfillment in Christ", "note": "Paul identifies Christ as the promised seed in his interpretation of the promises to Abraham." },
+    { "book": "Hebrews", "chapter": 11, "start": 8, "end": 10, "label": "Hebrews 11:8–10", "relationship": "Faith and patient hope", "note": "Abraham's departure and life in tents are remembered as expressions of faith directed toward what God would provide." },
+    { "book": "Exodus", "chapter": 12, "start": 29, "end": 36, "label": "Exodus 12:29–36", "relationship": "Narrative parallel", "note": "Affliction in Egypt followed by Pharaoh ordering a departure recalls a pattern in Genesis 12; the connection is typological rather than an explicit prediction there." }
+  ]
+}

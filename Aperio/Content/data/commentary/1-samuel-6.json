@@ -1,0 +1,54 @@
+{
+  "book": "1 Samuel",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 6: The Return of God's Presence",
+      "overview": [
+        "When God's people have lost His presence through disobedience, restoration comes not through human effort alone but through humble submission to His way. First Samuel 6 shows us what genuine repentance and surrender look like in practice, and how God honors those who approach Him with reverence.",
+        "The Philistines had captured the ark of the covenant—the very symbol of God's dwelling among Israel—yet this treasure became a curse in their hands. Tumors, death, and fear plagued them wherever they moved it. Remarkably, these pagan enemies recognized what Israel sometimes forgot: the ark belongs to the God of Israel, and His presence demands respect. In their desperation, they consulted their priests and diviners, who advised returning the ark with a guilt offering—a gold model of the tumors and mice destroying them. More striking still, they constructed a new cart and yoked untrained cows to pull it, trusting that the God of Israel would somehow guide these animals back to Israelite territory.",
+        "What unfolds is breathtaking. The cows, defying all natural instinct to return to their calves, walked the entire route to Beth Shemesh, lowing as they went. The Israelites reaped their harvest in the fields when they saw the ark coming. Joy erupted. Yet the passage doesn't end in simple celebration. When some of Bethshemites carelessly looked into the ark—a violation of holiness—God struck them down. Even in restoration, there are boundaries.",
+        "This account teaches us that God's presence is both infinitely gracious and genuinely holy. He wants to dwell with His people, but He must be approached with reverence and obedience. Repentance is real, and restoration is possible, yet holiness is not negotiable. The cows walking backward up that road became God's witnesses to His faithfulness—a sign that He would reclaim His people even when they'd failed.",
+        "Where in your own life do you need to invite God's presence back through humble obedience?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 6: Scholarly study",
+      "overview": [
+        "The sixth chapter of 1 Samuel continues the ark narrative (1 Samuel 4–6), recounting the Philistines' decision to return the captured ark of Yahweh after experiencing divine judgment through plagues and tumors. This episode demonstrates the theological conviction that Israel's God exercises sovereignty even in foreign territory, subverting ancient Near Eastern assumptions that deities were geographically limited in power.",
+        "The Philistine priests and diviners recommend sending the ark back with a guilt offering, employing the Hebrew term *ʾāšām* (אָשָׁם), typically associated with Israel's sacrificial system but here appropriated within a pagan framework. This offering of five golden tumors and five golden mice—corresponding to the five Philistine lords—represents sympathetic magic common in ancient Near Eastern ritual practice, wherein representations of afflictions were offered to appease offended deities. The narrative thus portrays even pagan religious specialists recognizing Yahweh's power, explicitly referencing the exodus tradition and Pharaoh's hardened heart, creating deliberate intertextual resonance with Israel's foundational deliverance narrative.",
+        "The test devised by the Philistines—using nursing cows separated from their calves—serves as an empirical verification of divine causation. The Hebrew *miqreh* (מִקְרֶה), meaning \"chance\" or \"accident,\" appears in verse nine, highlighting the theological stakes: either Israel's God orchestrated the plagues, or they occurred randomly. When the cows proceed directly to Beth-shemesh, lowing as they go yet not turning aside, the narrative confirms Yahweh's direct intervention.",
+        "The chapter concludes with a troubling episode wherein Yahweh strikes down men of Beth-shemesh for looking upon—or according to some textual traditions, into—the ark. The Hebrew verb *rāʾâ* (רָאָה) in this context suggests inappropriate gazing or perhaps cultic violation. The notoriously difficult textual problem regarding the number of casualties (fifty thousand and seventy versus seventy) has generated extensive scholarly discussion, with many considering the larger figure a scribal corruption. This severe judgment reinforces the ark's dangerous holiness and anticipates subsequent narratives concerning proper treatment of sacred objects, ultimately pointing toward the necessity of appropriate cultic mediation between the holy God and human communities."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 6: Prophetic perspective",
+      "overview": [
+        "The events of 1 Samuel 6 unfold approximately 1100 years before the incarnation of Christ, during the turbulent period of the judges when Israel had no king and \"everyone did what was right in his own eyes.\" The ark of the covenant has been in Philistine captivity for seven months following Israel's devastating defeat at Ebenezer, and now the pagan lords seek desperately to return this terrible prize that has brought plague and devastation upon their cities. This moment stands within the redemptive arc between the Exodus and the Kingdom—God's glory dwelling among His covenant people, yet His people proving faithless, and the nations learning through judgment that Yahweh alone is God.",
+        "The Philistine priests and diviners devise a test: place the ark on a new cart drawn by two nursing cows that have never been yoked, separate them from their calves, and see whether they go toward Beth Shemesh in Israel or turn back to their young. The cows' unnatural journey—leaving their calves, following an unknown road, lowing as they go yet never turning aside—becomes a profound testimony that the hand of the Lord orchestrates all things. Even unreasoning beasts submit to divine sovereignty while rational men resist. Here emerges a pattern the prophets would later amplify: \"The ox knows its owner, and the donkey its master's crib, but Israel does not know, my people do not understand.\"",
+        "The golden tumors and golden mice sent as guilt offerings reveal pagan recognition of divine judgment, a shadow of the truth that sin demands propitiation. Yet the Philistines' offering, though sincere in its terror, cannot truly atone—only the blood of the coming Lamb would satisfy divine justice. The ark's return on a cart rather than upon Levitical shoulders foreshadows the tragedy at Beth Shemesh, where seventy men die for looking into the ark. God's holiness cannot be approached on human terms, even by His covenant people.",
+        "The trembling question—\"Who is able to stand before the Lord, this holy God?\"—echoes across the centuries until Calvary answers it. Christ became the true mercy seat, the place where holy wrath and covenant love meet. The church now lives as those granted access by blood into the holiest place, no longer asking who can stand before God but proclaiming that in Christ, sinners may draw near with confidence to the throne of grace."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.404119+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

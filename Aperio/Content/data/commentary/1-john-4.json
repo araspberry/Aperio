@@ -1,0 +1,55 @@
+{
+  "book": "1 John",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 John 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 John 4: Love as the Proof of God",
+      "overview": [
+        "The spiritual heart of 1 John 4 is this: authentic faith in God is inseparable from genuine love for others, and this love is the truest evidence that the Spirit of God dwells within us.",
+        "John opens by warning against false spirits—spiritual counterfeits that claim divine authority while denying Jesus as God made flesh. In a world of competing claims about who God is and what God wants, John gives us the simplest test: does this spirit, does this teaching, does this person lead us toward love? The spirit of antichrist withdraws from incarnational reality, from the messy particularity of Jesus. The Spirit of God draws us into the concrete work of loving one another. This is not sentimental or abstract. When John insists that \"God is love,\" he is not making love into a vague ideal. He is saying that the God who loved us enough to send Jesus into the world to die for our sins is the very definition and source of sacrificial, other-focused devotion.",
+        "Notice the radical claim: we cannot truly know God and harbor hatred in our hearts. If someone claims to love God while despising their brother or sister, they are deceiving themselves. Love for God and love for people are not two separate virtues but two expressions of the same Spirit. Where one is absent, both are absent. This cuts through so much of our spiritual pretense. Our prayers, our doctrinal precision, our church attendance—none of these substitute for the humble, daily work of loving those around us.",
+        "But there is tremendous encouragement here too. John reminds us that \"God's love has been revealed among us\" in Christ, and that love is not contingent on our worthiness. This frees us. Because we are loved completely, we can love imperfectly yet genuinely. The Spirit empowers us to love beyond ourselves.",
+        "Where is God inviting you this week to move from abstract faith into concrete love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 John 4: Scholarly study",
+      "overview": [
+        "The fourth chapter of First John represents a crucial theological exposition within the Johannine corpus, likely composed in Ephesus during the final decade of the first century. The epistle addresses a community fractured by schism, as certain teachers had departed from the congregation while promulgating christological views the author deemed heretical. This chapter divides naturally into two interconnected sections: a discourse on testing spirits and discerning true prophecy (4:1–6), followed by a profound meditation on divine love as the essential characteristic of authentic Christian existence (4:7–21).",
+        "The opening imperative to \"test the spirits\" (*dokimazete ta pneumata*) reflects the charismatic environment of early Christianity where prophetic utterances required communal discernment. The criterion offered is decidedly christological: authentic spirits confess Jesus Christ as having come \"in the flesh\" (*en sarki*), a formulation targeting proto-docetic teachings that denied the material reality of the incarnation. The term *antichristos* appears here as a designation for spirits embodying opposition to Christ's true nature, continuing terminology introduced in 2:18–22.",
+        "The chapter's second movement develops the epistle's most sustained reflection on love (*agapē*), asserting the ontological claim that \"God is love\" (*ho theos agapē estin*). This predication has generated considerable theological discussion; scholars debate whether this constitutes a definition of divine essence or rather describes God's fundamental mode of self-revelation. The author grounds this assertion in the historical sending of the Son as a \"propitiation\" (*hilasmos*) for human sin, thereby anchoring abstract theological claims in concrete salvific action.",
+        "The reciprocal indwelling language—believers abiding in God and God in believers—echoes themes prominent in the Fourth Gospel, particularly John 15. The assertion that \"perfect love casts out fear\" (*hē teleia agapē exō ballei ton phobon*) introduces a psychological dimension, contrasting the servile fear associated with judgment against the confident boldness (*parrēsia*) characterizing those perfected in love. The chapter concludes with a pointed ethical challenge: claims of loving God ring hollow apart from tangible love for fellow believers, establishing an inseparable connection between vertical devotion and horizontal community life that remains central to Johannine ethics."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 John 4: Prophetic perspective",
+      "overview": [
+        "The epistle we know as 1 John emerges from the close of the first century, likely penned around 85–95 AD, some six decades after Christ's resurrection and ascension. The beloved apostle John, now aged and serving as the last living eyewitness of the incarnate Word, writes to churches facing an early form of Gnostic heresy that denied Christ's true humanity. This letter belongs to the Church Age, that prolonged era between Pentecost and the Parousia when the Spirit indwells believers, the gospel advances among the nations, and the people of God await their Lord's return.",
+        "Within the grand redemptive narrative, 1 John stands as apostolic testimony to the incarnation's eternal significance—the hinge point of all history when the eternal Son took flesh and dwelt among humanity. John had touched this Word of life with his own hands; now he transmits what he witnessed so that later generations might have fellowship with the Father and the Son through the Spirit.",
+        "Chapter four unfolds two interwoven themes: the testing of spirits and the perfection of love. The command to \"test the spirits\" recognizes that the Church Age is marked by spiritual warfare—false prophets operate under demonic inspiration, and the \"spirit of antichrist\" actively opposes the confession that Jesus Christ has come in the flesh. This Christological confession functions as the watershed dividing truth from deception. The incarnation was no mere theophany like those granted to Abraham or Moses; rather, the eternal Logos permanently united himself to human nature, and any spirit denying this foundational reality stands exposed as operating from the spirit of antichrist that Scripture promises will intensify as history moves toward its consummation.",
+        "Yet John pivots from warning to worship, declaring that \"God is love\" and demonstrating this love supremely in the sending of His Son as propitiation for sins. Here the cross stands central—the once-for-all sacrifice that satisfies divine justice while unleashing divine love toward condemned sinners. This love, poured into believing hearts, now flows outward toward fellow believers as evidence of genuine spiritual birth. The indwelling Spirit becomes both seal and down payment of coming glory.",
+        "The chapter's closing declaration that \"perfect love casts out fear\" speaks to believers awaiting the Day of Judgment. Those abiding in love possess boldness before the coming tribunal because the Judge Himself loved them and gave Himself for them. For the Church living between the advents, this truth transforms daily existence: we love because He first loved us, and this love both authenticates our confession and anticipates the unveiled fellowship we shall enjoy when faith becomes sight."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "62_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.039822+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

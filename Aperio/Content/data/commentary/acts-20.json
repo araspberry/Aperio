@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 20: The Cost and Calling of Faithful Service",
+      "overview": [
+        "This chapter reveals the heartbeat of apostolic ministry—a life poured out completely for Christ and His church, regardless of personal cost or comfort. Paul's journey toward Jerusalem, his address to the Ephesian elders, and his steadfast resolve despite warnings all testify to a faith that counts loss as gain.",
+        "Paul's three-year investment in Ephesus demonstrates the reality of discipleship: true spiritual work requires sustained presence and vulnerable relationship. He didn't simply preach and move on; he lived among the believers, taught them publicly and from house to house, and labored with his own hands. This pattern invites us to ask whether our faith is lived out relationally or merely consumed individually. The riots that erupted showed the power of his influence—the gospel genuinely threatened the spiritual bankruptcy of idolatry.",
+        "The farewell address to the Ephesian elders pierces the soul with its honesty. Paul speaks of tears, trials, and the Holy Spirit's witness that \"bonds and afflictions await me.\" Yet he expresses no regret, declaring that finishing his race and testifying to the gospel matters infinitely more than personal safety. This challenges our modern tendency to compartmentalize faith into a manageable life area while protecting our comfort and security.",
+        "What strikes most deeply is Paul's willingness to embrace uncertainty for the sake of faithfulness. He didn't know exactly what awaited him in Jerusalem, but he knew his calling. The elders' emotional response—falling on their knees, embracing him, grieving that they would see his face no more—shows how genuine love and costly commitment bind people together in ways that casual religion never could.",
+        "The passage invites us into a profound question about our own priorities. Are we building a life that protects our interests while maintaining religious respectability, or are we willing to pour ourselves out for others and for Christ? What fears keep us from deeper faithfulness, and what might God be calling us to surrender?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 20: Scholarly study",
+      "overview": [
+        "Acts 20 represents a pivotal transitional chapter in Luke's second volume, marking Paul's final journey through the Aegean region before his fateful return to Jerusalem. The chapter divides naturally into three movements: the continuation of Paul's third missionary journey through Macedonia and Greece (vv. 1–6), the dramatic Eutychus episode at Troas (vv. 7–12), and the emotionally charged farewell address to the Ephesian elders at Miletus (vv. 17–38). This latter section constitutes the only Pauline speech in Acts directed to a Christian audience, providing invaluable insight into Luke's presentation of Paul's pastoral theology and self-understanding.",
+        "The Troas narrative introduces significant liturgical details, noting the gathering \"on the first day of the week to break bread\" (κλάσαι ἄρτον, *klasai arton*), language that likely indicates early eucharistic practice alongside communal meals. The young man Eutychus (Εὔτυχος, meaning \"fortunate\"), overcome by sleep during Paul's extended discourse, falls from a third-story window. Paul's response echoes the prophetic resuscitation narratives of Elijah and Elisha, positioning Paul within Israel's prophetic succession while demonstrating divine power attending apostolic ministry.",
+        "The Miletus discourse (vv. 18–35) employs the conventions of Greco-Roman farewell speeches, incorporating autobiographical defense, warnings about future threats, and moral exhortation. Paul's reference to the church purchased \"with his own blood\" (διὰ τοῦ αἵματος τοῦ ἰδίου, *dia tou haimatos tou idiou*) presents a textual difficulty—the antecedent could be God or Christ, affecting both translation and theological interpretation. The term \"overseers\" (ἐπισκόπους, *episkopous*) used interchangeably with \"elders\" (πρεσβυτέρους, *presbyterous*) suggests that ecclesiastical office remained fluid in this period, a point debated among scholars examining early church polity.",
+        "The pervasive atmosphere of impending suffering and separation pervades the chapter, with Paul repeatedly acknowledging the Spirit's testimony regarding coming afflictions. The weeping and embracing at Miletus, particularly the pathos surrounding Paul's declaration that they would \"see his face no more,\" creates a literary foreshadowing of the passion narrative that will unfold in subsequent chapters. Luke portrays Paul as one consciously completing his course, faithful to his calling regardless of personal cost."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 20: Prophetic perspective",
+      "overview": [
+        "Acts chapter twenty unfolds approximately twenty-five years after the resurrection of Christ, around AD 57, during the third missionary journey of the apostle Paul. The church has now spread from Jerusalem through Asia Minor and into Europe, and we find ourselves firmly within the age of the Spirit's outpouring that began at Pentecost. This passage sits in the redemptive timeline between the ascension of Christ and His promised return—the era when the kingdom advances not through political conquest but through the proclamation of the gospel and the planting of communities of the new covenant scattered among the nations.",
+        "Paul's journey through Macedonia and Greece, his lengthy discourse at Troas, and his tearful farewell to the Ephesian elders together form a prophetic portrait of apostolic ministry that shadows Christ's own pattern. As Jesus set His face toward Jerusalem knowing suffering awaited Him, so Paul travels \"bound in the Spirit\" toward the holy city, compelled by divine necessity despite chains and afflictions. Here we witness the typological reality that those who follow the Lamb will walk the road of suffering before glory, the way of the cross before the crown.",
+        "The raising of Eutychus from death carries profound significance beyond a mere miracle. In the upper room, amid the breaking of bread and the apostolic word, life conquers death—a sign that the powers of the age to come are breaking into the present through the gathered church. This young man's restoration previews the final resurrection while demonstrating that where Christ's word is proclaimed in the power of the Spirit, death itself must retreat.",
+        "Paul's address to the Ephesian elders at Miletus constitutes one of Scripture's most poignant prophetic warnings. He speaks of \"fierce wolves\" entering the flock and of men arising from within, speaking twisted things to draw away disciples. This prophecy began its fulfillment within a generation—the letters to Timothy address Ephesian troubles, and Revelation records Christ's rebuke to Ephesus for abandoning her first love. Yet this warning echoes across every subsequent century, for the pattern of infiltration and departure remains until Christ returns.",
+        "The elders are charged to shepherd the church \"which He purchased with His own blood\"—a stunning declaration of divine sacrifice that anchors pastoral ministry in Calvary's completed work. For the church living between the advents, this chapter summons believers to faithful stewardship, courageous witness, and vigilant watchfulness, knowing that the same Lord who raised Eutychus will raise all who sleep in Him at the last day."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.711168+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

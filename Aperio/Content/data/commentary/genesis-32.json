@@ -1,0 +1,57 @@
+{
+  "book": "Genesis",
+  "chapter": 32,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 32 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 32: Wrestling with God",
+      "overview": [
+        "Jacob's night at the Jabbok is one of Scripture's most compelling portraits of faith transformed through struggle—a wrestling match with God that leaves Jacob limping but blessed, broken but renamed. This passage speaks to the deep truth that our encounters with the divine often come not in moments of comfort, but in the wrestling, the doubt, the desperate midnight struggle when we find ourselves alone at the edge of everything we've built.",
+        "Jacob stands on the precipice of reconciliation with his estranged brother Esau, and he is terrified. He has spent two decades running from consequences, building wealth and family, yet his past still haunts him. In his fear, he prays with remarkable honesty, reminding God of His promises while confessing his own unworthiness. Then, in the darkness, a man—whom Jacob recognizes as God Himself—engages him in wrestling. They grapple through the night, neither gaining clear victory, until the man touches Jacob's hip and dislocates it. In his pain, Jacob refuses to let go. He demands a blessing.",
+        "This is not the prayer of someone comfortable in their faith. This is the cry of someone who will not accept hollow answers, who insists on wrestling until something shifts. Jacob emerges from that night with a new name—Israel, meaning \"he who wrestles with God\"—and a permanent limp. His victory looks like defeat. His blessing comes through brokenness.",
+        "We live in a time that often sanitizes faith, offering only triumphalism and smooth answers. Yet Jacob teaches us that authentic encounter with God often feels like struggle, like losing control, like being marked by the encounter. Our limps become testimonies. Our wrestling becomes the place where we discover who we truly are.",
+        "Where in your life right now are you wrestling with God? Rather than resisting that struggle, might you ask Him for the blessing hidden within it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 32: Scholarly study",
+      "overview": [
+        "Genesis 32 presents one of the most theologically dense narratives in the patriarchal cycle, recounting Jacob's return to Canaan after twenty years of service to Laban and his dramatic nocturnal encounter at the Jabbok River. The chapter divides naturally into two movements: Jacob's elaborate preparations for meeting Esau (vv. 1–21) and the mysterious wrestling match at Peniel (vv. 22–32). The Yahwist and Elohist sources appear interwoven here, contributing to the narrative's rich texture and occasional tensions.",
+        "The chapter opens with Jacob encountering divine messengers (*malʾăkîm*), prompting him to name the place Mahanaim, meaning \"two camps\"—a designation whose precise referent remains debated, whether indicating the dual presence of heavenly and earthly companies or anticipating Jacob's strategic division of his own household. This theophanic moment frames the subsequent narrative, signaling divine activity surrounding Jacob's vulnerable journey.",
+        "The wrestling account employs the Hebrew verb *ʾābaq* (to wrestle or grapple), appearing only here in the Hebrew Bible, possibly chosen for its assonance with \"Jabbok\" (*yabbōq*) and \"Jacob\" (*yaʿăqōb*). The identity of Jacob's opponent remains deliberately ambiguous—called simply \"a man\" (*ʾîš*) yet possessing authority to rename and bless. Hosea 12:3–4 later identifies this figure with both God and an angel, while Jacob's own declaration that he has seen God \"face to face\" (*pānîm ʾel-pānîm*) generates the etiology for Peniel.",
+        "The renaming from Jacob (\"supplanter\" or \"heel-grasper\") to Israel (*yiśrāʾēl*) carries disputed etymology, traditionally rendered \"he strives with God\" or \"God strives,\" though some scholars propose \"God rules\" or \"El persists.\" This transformation marks Jacob's transition from the cunning trickster of earlier narratives to the eponymous ancestor of the covenant people.",
+        "The concluding dietary prohibition regarding the sciatic sinew (*gîd hannāšeh*) represents one of Scripture's rare etiological explanations for Israelite practice, grounding communal memory in patriarchal experience. Throughout this chapter, physical vulnerability—Jacob's isolation, his injured hip, his bowing before Esau—paradoxically accompanies spiritual triumph, establishing a paradigm wherein encounter with the divine involves both blessing and wounding, victory achieved through acknowledged dependence."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 32: Prophetic perspective",
+      "overview": [
+        "Genesis 32 unfolds approximately 1900 years before Christ, during the patriarchal era when God was establishing His covenant promises through the line of Abraham, Isaac, and Jacob. This chapter occurs roughly twenty years after Jacob fled from Esau's murderous wrath, and now the deceiver must return to the land of promise. Within redemptive history, we stand in the period of covenant formation—after Abraham's call but centuries before the Exodus would birth Israel as a nation. The promises given to Abraham remain suspended in the loins of this one flawed man wrestling his way back to Canaan.",
+        "The chapter divides dramatically: Jacob first encounters the angels of God at Mahanaim, a heavenly host bookending his journey just as angels met him at Bethel when he departed. Yet between these angelic visitations, Jacob must face his brother and, more significantly, face God Himself. His elaborate preparations to appease Esau—dividing camps, sending waves of gifts—reveal a man still scheming, still relying on cunning rather than covenant. The old Jacob dies hard.",
+        "Then comes the mysterious night at Jabbok, where divine violence shatters human self-sufficiency. The \"man\" who wrestles Jacob until dawn is no mere angel but a theophany—the pre-incarnate Son appearing in human form. This becomes unmistakable when Jacob declares, \"I have seen God face to face, and yet my life has been delivered.\" Here is profound typology: the God who will one day take permanent human flesh first grapples with human flesh in the darkness. Christ the wrestler becomes Christ the crucified—both encounters leaving permanent marks on the body.",
+        "Jacob's dislocated hip prophetically declares that victory with God comes through wounding. The blessing Jacob craved his entire life—stolen from Esau, bargained from Isaac—now comes only when he is broken. His new name, Israel, meaning \"he strives with God,\" becomes the identity of an entire nation and, by extension, the church that wrestles in prayer through the long night of history.",
+        "The Jabbok crossing foreshadows every threshold of transformation in Scripture: the Red Sea, the Jordan, baptismal waters. God meets His people at the crossings, demanding surrender before granting passage.",
+        "For the church awaiting Christ's return, Peniel teaches that blessing flows through brokenness. We limp toward glory, bearing in our bodies the marks of divine encounter, clinging to the God who wounds in order to heal, who conquers us that we might finally prevail."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_032",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.716445+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

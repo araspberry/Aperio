@@ -1,0 +1,57 @@
+{
+  "book": "John",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 4: The Living Water and the Woman at the Well",
+      "overview": [
+        "Jesus meets us in our deepest thirst—not with judgment, but with transforming grace that sees us fully and loves us anyway.",
+        "The encounter between Jesus and the Samaritan woman at the well stands as one of Scripture's most profound pictures of spiritual awakening. On the surface, it's a story about a midday conversation and a request for water. But beneath the heat of the Judean afternoon runs a current of radical acceptance and redemptive love. This woman, who came to draw water alone while others came in community, carried the weight of relational brokenness and social shame. She had known five husbands and now lived with a man not her own. Yet in her isolation, the Messiah himself chose to appear.",
+        "What makes this encounter revolutionary is Jesus's method. He doesn't condemn; he creates conversation. He doesn't preach; he asks her to think. When he speaks of \"living water,\" he invites her into a spiritual reality beyond her comprehension—water that doesn't merely satisfy thirst temporarily but transforms the thirsty one from within. In revealing knowledge of her marital history, Jesus demonstrates that he knows her completely, yet his tone carries no condemnation, only compassionate honesty.",
+        "The woman's response unfolds gradually. She moves from confusion to curiosity, from defensiveness to conviction, from isolation to witness. She becomes the first evangelist in John's Gospel, running back to her village not despite her past but in the power of an encounter with grace that transcends judgment. Her neighbors, the very people who knew her shame, heard her testimony and many believed.",
+        "This passage invites us to recognize our own thirst—for acceptance, belonging, wholeness—and to trust that Jesus meets us in those places with living water rather than condemnation. Our past does not disqualify us from his presence; it often becomes the very context where his grace shines most brilliantly.",
+        "What \"thirst\" are you carrying into this day, and what would it mean to offer it to Jesus in honest conversation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 4: Scholarly study",
+      "overview": [
+        "The fourth chapter of John's Gospel presents one of the most theologically rich narratives in the New Testament, recounting Jesus's encounter with a Samaritan woman at Jacob's well near Sychar. This passage, unique to the Fourth Gospel, demonstrates the Johannine author's sophisticated literary artistry while advancing crucial christological and missiological themes. The historical tension between Jews and Samaritans, rooted in the post-exilic period and exacerbated by the Samaritans' construction of a rival temple on Mount Gerizim, provides the essential backdrop for understanding the radical nature of this encounter.",
+        "The conversation pivots on the term \"living water\" (ὕδωρ ζῶν, *hydōr zōn*), which operates on multiple semantic levels. While the woman initially understands this phrase in its ordinary sense of flowing spring water as opposed to cistern water, Jesus transforms the expression into a metaphor for eternal spiritual sustenance. This technique of misunderstanding, characteristic of Johannine discourse, serves to elevate the narrative from mundane concerns to revelatory theology. The verb \"worship\" (προσκυνέω, *proskyneō*), appearing prominently in verses 20–24, carries connotations of physical prostration and complete devotion, becoming central to Jesus's declaration that authentic worship transcends geographical location and requires spirit and truth.",
+        "The literary structure reveals careful Johannine construction, with the dialogue progressing from physical thirst to spiritual revelation, culminating in Jesus's self-identification as Messiah. The phrase ἐγώ εἰμι (*egō eimi*), rendered \"I am he\" in verse 26, resonates with the divine self-disclosure language found throughout this Gospel and echoing Exodus 3:14. Scholars debate whether the woman's testimony constitutes genuine faith or tentative inquiry, as her question \"Could this be the Christ?\" employs the Greek particle μήτι, which grammatically expects a negative answer yet functionally opens space for positive response.",
+        "The concluding declaration by the Samaritans that Jesus is \"Savior of the world\" (σωτὴρ τοῦ κόσμου, *sōtēr tou kosmou*) represents a striking universal claim that challenges imperial Roman theology, where this title belonged to the emperor. Within the canonical context, this chapter anticipates the post-resurrection mission to all peoples, positioning the Samaritan encounter as programmatic for the church's boundary-crossing proclamation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 4: Prophetic perspective",
+      "overview": [
+        "The events of John chapter four unfold approximately three years before the crucifixion, during the early phase of Christ's public ministry, likely around AD 27. Jesus has left Judea and is traveling northward through Samaria toward Galilee, a journey most Jews avoided by crossing the Jordan to circumvent this despised territory. This passage sits at the threshold of the messianic age, where the promises spoken through Moses and the prophets are finding their embodied fulfillment in the person of Jesus of Nazareth.",
+        "The encounter at Jacob's well in Sychar pulsates with typological significance. Jacob, the patriarch who dug this well, had met his bride Rachel at a well in a foreign land. Moses encountered Zipporah at a well in Midian. Now the greater Jacob, the true Israel, meets a woman who represents the estranged bride—the lost sheep scattered among the nations. Jesus comes as the divine Bridegroom seeking His wayward beloved, and He finds her at noon, the hour of full light, when her shame drove her to draw water alone.",
+        "The woman's five husbands and her current unlawful union carry prophetic weight beyond mere biography. After the Assyrian conquest in 722 BC, five foreign nations were resettled in Samaria, each bringing their gods, creating the syncretistic worship that defined Samaritan religion for centuries. Jesus addresses not merely one woman's sin but an entire people's spiritual adultery—and offers restoration.",
+        "When Christ declares Himself the source of living water, He fulfills what Jeremiah lamented: Israel had forsaken the fountain of living waters to dig broken cisterns. The prophetic vision of Ezekiel, where water flows from the temple to bring life to the Dead Sea, finds its personal incarnation here. Jesus Himself is the temple from whom rivers of living water flow—a reality He will proclaim openly at the Feast of Tabernacles.",
+        "The hour is coming and now is when true worshipers worship in Spirit and truth—this prophetic announcement marks the transition from the shadows of Gerizim and Jerusalem to the universal worship of the messianic age. The temple made with hands is giving way to the temple of His body and, by extension, to His people indwelt by the Spirit.",
+        "For the church awaiting Christ's return, this passage reveals our mission: we carry living water to Samaritan places, to despised peoples, to those bound in religious confusion and moral shame. The harvest is already ripe. The fields are white. The Bridegroom is still seeking His bride from every tribe and tongue until that final day when He returns to consummate what He initiated at a well in Sychar."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.618062+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

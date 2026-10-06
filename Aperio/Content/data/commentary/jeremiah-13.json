@@ -1,0 +1,55 @@
+{
+  "book": "Jeremiah",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 13: The Linen Belt and the Stubbornness of the Heart",
+      "overview": [
+        "The heartbreak of this chapter lies in God's patient demonstration of a truth His people refuse to accept: pride and disobedience inevitably lead to ruin, yet repentance remains possible for those who will listen. Through the strange visual parable of a linen belt buried in the earth, Jeremiah confronts Judah's willful blindness to the consequences of their unfaithfulness.",
+        "God commands the prophet to purchase a linen belt, wear it without washing, then bury it in a rock crevice for days. When Jeremiah retrieves it, the belt is ruined—good for nothing. The message stings with clarity: just as the belt has become useless through exposure and neglect, so too has Judah become worthless through spiritual corruption. They were meant to cling to God as intimately as a belt clings to a body, yet they have abandoned Him for worthless idols. Their glory, their security, their purpose—all spoiled by refusing to listen.",
+        "What strikes us in our own time is how this pattern repeats in human hearts. We embrace habits and relationships that slowly erode our spiritual vitality. We tell ourselves the compromise won't matter, that we're strong enough to bend without breaking. Yet pride blinds us to the incremental damage. The voice of conscience—represented here by Jeremiah himself—becomes an unwelcome irritant rather than a loving warning. We resist the very people and messages God sends to save us.",
+        "Yet embedded in this judgment is an invitation. God doesn't hide His disappointment; He speaks it plainly because He still desires response. The graphic imagery serves mercy, not mere condemnation. It's as though God says, \"Do you see what you're becoming? Turn back while there's time.\"",
+        "In your own life, where might you be ignoring a persistent warning? What has pride made you deaf to? The God who speaks through Jeremiah still speaks today, grieving not because He delights in judgment, but because He longs to see His people restored."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 13: Scholarly study",
+      "overview": [
+        "Jeremiah 13 presents a complex literary unit combining symbolic action, prophetic oracle, and impassioned divine lament, all directed toward Judah during the tumultuous final decades before Jerusalem's destruction in 587 BCE. The chapter divides naturally into three interconnected sections: the enacted parable of the linen waistcloth (vv. 1–11), the saying concerning wine jars (vv. 12–14), and a series of warnings culminating in a lament over Jerusalem personified as a woman (vv. 15–27).",
+        "The opening symbolic act centers on a linen waistcloth (*ʾēzôr*), a garment worn close to the body, representing intimate relationship. The Hebrew term *dābaq* (\"cling\") in verse 11 carries covenantal overtones, echoing Deuteronomy 10:20 where Israel is commanded to cling to YHWH. The geographical reference to Perath, traditionally rendered \"Euphrates,\" has generated scholarly debate; some propose the nearby Wadi Farah (Parah) as a more practical location, though the Euphrates reading reinforces Babylon's role in Judah's coming judgment. The ruined, worthless (*šāḥat*) waistcloth symbolizes Judah's corrupted state through idolatry and covenant unfaithfulness.",
+        "The wine jar oracle (vv. 12–14) employs what appears initially as a proverbial saying about vessels filled with wine, subverting audience expectations with an announcement of divine judgment. The term *šikkārôn* (\"drunkenness\") metaphorically depicts the confusion and helplessness that will overtake all social strata—kings, priests, prophets, and common citizens—when YHWH shatters them against one another.",
+        "The chapter's concluding section intensifies in rhetorical force, employing the striking image of the Ethiopian's skin and leopard's spots (v. 23) to convey Judah's habituated sinfulness. The passage culminates with Jerusalem portrayed as an adulterous woman whose shameful exposure (*gillâ*) constitutes fitting punishment for spiritual infidelity. This disturbing imagery, while reflecting ancient Near Eastern conventions for depicting conquered cities, raises important hermeneutical questions about gendered violence in prophetic rhetoric that contemporary interpreters must address thoughtfully. Throughout, Jeremiah 13 demonstrates the prophet's characteristic interweaving of judgment announcement with underlying grief over covenant betrayal, pointing toward but not yet articulating the restoration themes that emerge later in the book."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 13: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter thirteen unfolds during the final decades before Jerusalem's destruction in 586 BC, approximately a century after Isaiah's ministry and during the reign of the last kings of Judah. The Babylonian threat looms on the horizon, and Jeremiah speaks to a nation that has perhaps fifteen to twenty years remaining before the temple lies in ruins. This passage stands within the arc of redemptive history at the precipice of exile, that devastating chapter when God's visible kingdom collapses under divine judgment, yet which paradoxically prepares the way for the remnant's purification and ultimate restoration.",
+        "The prophetic sign-act of the linen belt carries profound typological weight. Jeremiah buries the belt at the Euphrates—the very river of Babylon—and retrieves it ruined and worthless. The belt that once clung intimately to the prophet's waist represents Israel and Judah, created to cling to the Lord in covenant intimacy, designed to be His treasured possession bringing Him renown, praise, and glory. Yet through persistent idolatry, the nation has become corrupted beyond use. This imagery anticipates the later prophetic vision in Ezekiel of God's glory departing the temple, and shadows the great mystery that Paul would later unveil: the church as Christ's bride, bone of His bone, called to cling to her Lord in that intimacy which Israel forfeited.",
+        "The oracle concerning the wine jars speaks of judgment as intoxication—God filling every inhabitant with drunkenness so that they stumble against one another in mutual destruction. This terrible image finds its counterpoint at Pentecost, when another kind of intoxication comes upon God's people, this time the new wine of the Spirit bringing not confusion but prophetic clarity.",
+        "The weeping for the flock taken captive reveals the heart of God even in judgment. Jeremiah's tears over the proud flock led away prefigure the greater Prophet who would weep over Jerusalem, longing to gather her children as a hen gathers chicks. The rhetorical question—\"Can the Ethiopian change his skin or the leopard its spots?\"—exposes the impossibility of self-reformation, the bondage of habituated sin, and thus whispers the necessity of new creation, new birth, new hearts that only the coming covenant could provide.",
+        "For the church awaiting Christ's return, this chapter warns against the slow corruption of covenant unfaithfulness while pointing toward the grace that alone transforms the incorrigibly stained into garments washed white in the Lamb's blood."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.939493+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

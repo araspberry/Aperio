@@ -1,0 +1,56 @@
+{
+  "book": "Amos",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 9: The God Who Judges and Restores",
+      "overview": [
+        "The book of Amos closes with a vision that traces the arc of God's justice—from thorough judgment to surprising, lavish restoration. Even as the prophet pronounces destruction on the northern kingdom of Israel for its exploitation of the poor and hollow worship, God's final word is not abandonment but renewal.",
+        "Amos opens this chapter with an unforgettable image: the Lord stands beside the altar, and wherever the people try to flee—to heaven, to Sheol, into hiding—they cannot escape God's righteous judgment. The language is severe because the sin is severe. The wealthy have trampled the poor; the powerful have perverted justice; the religious have substituted ritual for righteousness. God sees it all, and His judgment is certain. Yet even in pronouncing exile and devastation, something remarkable happens: the prophet's words shift. The sifting of Israel among the nations will not be total destruction. \"Not a grain will fall to the ground\" (9:9)—meaning the faithful remnant will be preserved.",
+        "This is the pastoral genius of the ending. God's judgment is real and necessary, but it is never the final word for those who belong to Him. The restoration that follows speaks of revival so abundant that the reapers cannot keep pace with the planters. Mountains will drip with new wine. The restoration of David's fallen tent means that God restores His people to their inheritance, to their true identity, to their intended blessing.",
+        "For those who follow Jesus, this pattern resonates deeply. We too face the mirror of judgment—where do we exploit others, worship emptily, ignore the vulnerable? But judgment in Scripture is always designed to lead us home. God's severity is the underside of His commitment to restore us to right relationship.",
+        "Where in your life might God's judgment be actually an act of love, calling you back toward justice and authentic faith?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 9: Scholarly study",
+      "overview": [
+        "Amos 9 constitutes the climactic conclusion to the oracles of the eighth-century Judean prophet who ministered primarily to the northern kingdom of Israel during the prosperous reign of Jeroboam II (circa 760–750 BCE). This chapter divides naturally into two distinct literary movements: a devastating vision of judgment (vv. 1–10) and an unexpected oracle of restoration (vv. 11–15), creating a tension that has generated considerable scholarly debate regarding compositional unity.",
+        "The chapter opens with Amos's fifth and final vision, distinguished from the preceding four by its unmediated character—YHWH stands beside the altar commanding destruction rather than presenting symbolic imagery for prophetic interpretation. The divine instruction to strike the capitals (*kaptōr*) initiates total architectural collapse, symbolizing the comprehensive dismantling of Israel's religious and political institutions. The following verses employ merismus to emphasize the inescapability of divine judgment: whether one descends to Sheol or ascends to heaven, flees to Carmel's heights or the sea's depths, YHWH's sovereign reach extends universally. This theological assertion directly challenges any notion of geographical limitation to Israel's deity.",
+        "The term *ʿênay* (\"my eyes\") appears with striking frequency, shifting from watchful judgment in verse 4 to the culminating declaration that sinful kingdoms cannot escape divine scrutiny. Yet verses 8b–10 introduce a crucial qualification: destruction will not be total (*hashmed lo' ashmîd*), as YHWH will sift (*hanîaʿ*) Israel among nations like grain in a sieve, preserving a remnant while eliminating sinners.",
+        "The restoration oracle beginning at verse 11 presents interpretive challenges regarding its relationship to the preceding judgment material. The rebuilding of David's fallen booth (*sukkah*) envisions dynastic and territorial restoration, language that Acts 15:16–17 applies christologically to Gentile inclusion. The agricultural imagery of verses 13–15—mountains dripping sweet wine, gardens and vineyards flourishing—reverses the covenant curses previously announced and echoes Edenic abundance.",
+        "Whether these concluding verses represent Amos's own words, later Judean redaction during the exile, or post-exilic expansion remains contested. Nevertheless, the canonical form presents judgment and hope as theologically inseparable: divine discipline serves ultimately restorative purposes, and Israel's covenant relationship, though severely tested, remains YHWH's enduring commitment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 9: Prophetic perspective",
+      "overview": [
+        "Amos chapter nine stands at the culmination of the prophet's ministry, delivered approximately 760 years before Christ's birth during the reign of Jeroboam II over the northern kingdom of Israel. This was an era of unprecedented prosperity and military expansion, yet beneath the surface lay spiritual rot that would bring divine judgment within forty years when Assyria would scatter the ten tribes in 722 BC. The chapter divides into two movements: inescapable judgment and glorious restoration, placing it at the hinge point between the Kingdom era and the approaching Exile, while simultaneously casting its vision forward to the Church Age and the final consummation.",
+        "The vision opens with the Lord standing beside the altar, commanding destruction from the very place where mercy should flow. This terrifying reversal signals that corrupt worship brings condemnation rather than blessing. The passage emphasizes the impossibility of escape from divine justice—neither Sheol below nor heaven above, neither Carmel's heights nor the sea's depths can hide the guilty. Here we encounter the sobering truth that the covenant God who delivered Israel from Egypt possesses the same sovereign power over all nations, having brought the Philistines from Caphtor and the Arameans from Kir. Election brings heightened accountability, not immunity from judgment.",
+        "Yet from verse eleven onward, the prophetic horizon expands dramatically. The restoration of David's fallen tent constitutes one of Scripture's most significant eschatological promises. The booth or tabernacle of David had become a ruin, yet God pledges to raise it up. James, at the Jerusalem Council recorded in Acts 15, authoritatively interprets this prophecy as finding its fulfillment in the inclusion of Gentiles into the people of God through Christ. The resurrection of Jesus, David's greater Son, rebuilt what had collapsed. The Davidic kingdom, seemingly ended by Babylon, was reconstituted not as an earthly political entity but as the universal reign of the Messiah over Jew and Gentile alike.",
+        "The closing imagery of agricultural superabundance—mountains dripping sweet wine, hills flowing with milk—employs creation language that anticipates the new heavens and new earth. Israel's return to their land, planting and never again being uprooted, finds partial fulfillment in post-exilic restoration but ultimately points to the eternal inheritance secured for all who belong to Christ.",
+        "The church today lives within this prophecy's unfolding reality, grafted into restored Israel, awaiting the final harvest when every promise reaches its consummate expression in the age to come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.316916+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

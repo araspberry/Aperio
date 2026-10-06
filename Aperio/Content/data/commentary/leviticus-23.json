@@ -1,0 +1,56 @@
+{
+  "book": "Leviticus",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 23: The Rhythm of Remembrance",
+      "overview": [
+        "God establishes a sacred calendar not to burden his people with endless rules, but to weave remembrance and worship into the very fabric of their ordinary lives. In Leviticus 23, we encounter an invitation to step out of time's relentless march and meet with the Lord in purposeful, rhythmic ways.",
+        "The chapter opens with the Sabbath—a weekly pause that declares the Lord's creative power and our need for rest. Then comes an annual cycle of feasts: Passover and Unleavened Bread recall deliverance from Egypt; Firstfruits celebrates the hope of harvest; Pentecost honors the grain harvest and God's covenant; the Feast of Trumpets awakens the people to God's presence; the Day of Atonement strips away pretense and invites honest reconciliation; and Tabernacles reminds them of wilderness wandering and God's faithful provision. Each festival carries spiritual memory into corporate celebration.",
+        "What strikes the modern believer is that these observances weren't private devotions but communal rhythms. Families gathered, work ceased, and generations encountered God together. In our contemporary world of fragmented schedules and isolated spirituality, we've largely lost this intentional consecration of time. We worship when convenient, gather when schedules permit, and rarely align our calendars with spiritual purpose. Yet the pattern here suggests something profound: our relationship with God deepens when we build him into our rhythm, not squeeze him into margins.",
+        "The feasts also teach that God doesn't ask us to escape the world's cycles of planting and harvesting, labor and rest. Rather, he sanctifies them. Work becomes worship when it's bounded by Sabbath. Harvest becomes thanksgiving when it's framed as festival. Even our ordinary time gains meaning through remembrance.",
+        "What rhythms of worship and remembrance mark your own year? Where might you build sacred pauses into your family's calendar to ensure that faith is not something you do, but something you live?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 23: Scholarly study",
+      "overview": [
+        "Leviticus 23 presents a comprehensive liturgical calendar that codified Israel's annual sacred assemblies, functioning as a foundational text for understanding Israelite worship patterns and theological anthropology. Situated within the Holiness Code (Leviticus 17–26), this chapter follows naturally from discussions of priestly duties and precedes regulations concerning sanctuary provisions, thus embedding festival observance within the broader framework of maintaining covenantal holiness. The chapter's attribution to Mosaic mediation (\"The LORD spoke to Moses\") reflects the Priestly source's characteristic concern for divine authorization of cultic practice, though the collection likely represents a composite tradition developed over centuries of Israelite worship.",
+        "The term \"appointed times\" (*môʿădîm*) governing the chapter's structure denotes not merely calendar dates but divinely designated encounters between Yahweh and his people. This lexeme carries connotations of meeting by appointment, suggesting that these festivals constitute cosmic appointments where sacred and ordinary time intersect. Similarly, the recurring phrase \"holy convocation\" (*miqrāʾ qōdeš*) emphasizes the communal dimension of worship—a summoned assembly set apart from profane activities.",
+        "The calendar proceeds through Sabbath, Passover and Unleavened Bread, Firstfruits, the Feast of Weeks (Shavuot), the Day of Trumpets, the Day of Atonement, and finally Tabernacles (Sukkot). Scholars note the agricultural substratum underlying several festivals, particularly the harvest celebrations, while recognizing their reinterpretation through the lens of salvation history. The tension between agricultural and historical commemoration has generated considerable scholarly discussion regarding the festivals' origins and development.",
+        "The chapter's emphasis on \"afflicting oneself\" (*ʿinnāh nepeš*) during Yom Kippur, traditionally understood as fasting, underscores the penitential character distinguishing this observance from the predominantly joyful festivals. The severe penalty of being \"cut off\" for non-compliance reveals the gravity attached to proper observance.",
+        "Canonically, Leviticus 23 provides essential background for understanding New Testament appropriation of festival imagery, particularly in Johannine literature and Hebrews. The chapter's theological contribution lies in its articulation of sanctified time as essential to covenant identity, establishing rhythms of remembrance, gratitude, and anticipation that structured Israelite existence around divine encounter rather than merely agricultural necessity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 23: Prophetic perspective",
+      "overview": [
+        "Leviticus 23 stands at the heart of the Mosaic covenant, given approximately 1450 years before the birth of Christ during Israel's wilderness wandering between Egypt and Canaan. This sacred calendar was delivered at Sinai, establishing the rhythmic heartbeat of Israel's worship for fifteen centuries until the coming of the One to whom every feast pointed. Within the grand arc of redemption, this chapter occupies the Exodus movement—after deliverance from bondage but before entrance into the promised inheritance—yet its prophetic reach extends from the cross to the consummation of all things.",
+        "The seven appointed feasts unfold as a divine prophetic calendar, each a shadow cast backward from eternal realities into time. Passover, observed on the fourteenth day of the first month, finds its substance in Christ our Passover Lamb, sacrificed at the precise hour when lambs were being slain throughout Jerusalem. The Feast of Unleavened Bread, following immediately, speaks of the sinless body of Christ laid in the tomb and the church's call to purge the leaven of malice from her midst. Firstfruits, celebrated on the day after the Sabbath, was fulfilled to the hour when Christ rose as the firstfruits of those who sleep, guaranteeing the harvest of resurrection for all who belong to Him.",
+        "Fifty days later, the Feast of Weeks—Pentecost—marked the wheat harvest with two leavened loaves waved before the Lord. This was fulfilled when the Spirit fell upon Jewish and Gentile believers, forming one new humanity as a kind of firstfruits offering to God. These four spring feasts have been gloriously accomplished in Christ's first advent.",
+        "A significant gap separates the spring feasts from the fall feasts, corresponding to the present church age in which the prophetic calendar pauses. The Feast of Trumpets awaits fulfillment in the trumpet call that will gather God's people at Christ's return. The Day of Atonement points to that coming day when all Israel shall look upon Him whom they pierced and experience national cleansing and restoration. The Feast of Tabernacles, the final and most joyous celebration, anticipates the millennial kingdom and ultimately the New Jerusalem, where God will tabernacle with humanity forever and every tear shall be wiped away.",
+        "The church lives in the interval between fulfilled feasts and awaited ones, keeping festival not with the old leaven but with the unleavened bread of sincerity and truth, watching for the trumpet, longing for the final ingathering when we shall dwell in His presence eternally."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.994762+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

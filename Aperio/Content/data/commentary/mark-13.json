@@ -1,0 +1,54 @@
+{
+  "book": "Mark",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 13: Vigilance in an Uncertain Future",
+      "overview": [
+        "Jesus invites his followers into a radical reorientation toward the future—one marked not by anxiety but by vigilance grounded in hope. This chapter reminds us that uncertainty about tomorrow need not paralyze believers today, because our confidence rests not in predicting events but in trusting the one who holds all events in his hands.",
+        "The discourse begins with the disciples' fascination with the temple's grandeur, but Jesus redirects their gaze toward what truly matters: the kingdom of God advancing through suffering and witness. Wars, earthquakes, and persecution will come, but these are not signs of God's absence—they are labor pains announcing something new. Jesus doesn't ask us to map the future or calculate when he'll return. Instead, he calls us to something far more difficult and beautiful: faithfulness in the present moment.",
+        "The repeated command to \"watch\" threads through this passage like a lifeline. Watching means staying spiritually awake, remaining honest about our susceptibility to deception, and maintaining hearts postured toward Christ's return. It means serving our neighbors not because we know the day or hour, but because love doesn't look at clocks. The servants in Jesus's parable aren't rewarded for their predictions—they're praised for their steadiness at their post.",
+        "This passage speaks directly to our contemporary anxiety. We live in a world of breaking news and doomsday predictions, yet Jesus offers something countercultural: peace through attentiveness rather than through control. We cannot manufacture certainty about the future, but we can choose obedience today. We can speak truth boldly, love sacrificially, and serve faithfully, knowing that Christ's return is both certain and gloriously outside our management.",
+        "What does it look like in your life to \"watch\"—to stay spiritually awake and present—rather than becoming consumed with predictions about tomorrow?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 13: Scholarly study",
+      "overview": [
+        "Mark 13 constitutes the longest continuous discourse attributed to Jesus in the Second Gospel, commonly designated the Olivet Discourse due to its setting on the Mount of Olives opposite the Jerusalem temple. This eschatological address responds to the disciples' dual inquiry concerning both the timing of the temple's destruction and the signs accompanying its fulfillment. Composed likely in the late 60s CE, possibly during or shortly after the Jewish revolt against Rome, Mark's community would have heard these words with acute existential urgency as they witnessed the unfolding catastrophe in Judea.",
+        "The discourse opens with Jesus' pronouncement that the magnificent Herodian temple will be utterly demolished, employing the emphatic double negative (οὐ μὴ, ou mē) to underscore the certainty of this devastation. The term \"desolating sacrilege\" (τὸ βδέλυγμα τῆς ἐρημώσεως, to bdelygma tēs erēmōseōs) in verse 14 deliberately echoes Daniel 9:27 and 11:31, creating intertextual resonance with earlier temple profanations while pointing toward an imminent desecration. The parenthetical \"let the reader understand\" represents a rare narratorial intrusion, signaling encoded communication requiring interpretive discernment from Mark's audience.",
+        "Structurally, the chapter interweaves warnings against deception, predictions of persecution, cosmic upheaval, and exhortations to vigilance. The repeated imperatives to \"watch\" (γρηγορεῖτε, grēgoreite) and \"beware\" (βλέπετε, blepete) create a hortatory framework emphasizing ethical readiness rather than chronological calculation. Scholarly debate persists regarding whether verses 24-27, depicting the Son of Man's parousia with imagery drawn from Daniel 7:13-14 and Isaiah 13:10, refer to events contemporaneous with Jerusalem's fall or to a temporally distinct eschatological consummation.",
+        "The enigmatic declaration that \"this generation will not pass away\" (verse 30) alongside the confession that neither angels nor the Son knows the day or hour (verse 32) has generated extensive interpretive discussion. Some scholars understand \"generation\" (γενεά, genea) as referring to the Jewish people or to humanity generally, while others maintain Jesus anticipated an imminent fulfillment partially realized in 70 CE. This tension between imminence and delay reflects the characteristic \"already-not yet\" eschatological framework pervading early Christian thought, calling readers to sustained alertness regardless of temporal calculations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 13: Prophetic perspective",
+      "overview": [
+        "Mark 13 emerges from the final week of Jesus's earthly ministry, spoken approximately AD 30–33, just days before His crucifixion. The setting is momentous: Jesus sits on the Mount of Olives, overlooking the magnificent temple that Herod had been beautifying for nearly fifty years, and He delivers what scholars call the Olivet Discourse—His most extended prophetic teaching in Mark's Gospel. This prophecy operates on multiple horizons, with the near fulfillment occurring in AD 70 when Roman legions under Titus utterly destroyed Jerusalem and the temple, while its fuller dimensions stretch toward the end of the age and remain partially future.",
+        "Within redemptive history, this chapter stands at the hinge point between the old covenant's final hours and the inauguration of the church age through the cross and resurrection. Jesus speaks as the Prophet greater than Moses, the Son of David whose kingdom will never end, and the Son of Man from Daniel's vision who will come on the clouds with power and glory. The temple itself functions typologically throughout Scripture—from Eden as God's dwelling with humanity, through the tabernacle and Solomon's temple, to Jesus Himself as the true Temple destroyed and raised in three days. When Christ pronounces that not one stone will remain upon another, He signals the obsolescence of the entire sacrificial system that His death will fulfill.",
+        "The \"abomination of desolation\" recalls Daniel's prophecy and points to the desecration of holy things—historically realized when Roman standards entered the temple precincts, yet carrying overtones of a final eschatological desecration before Christ's return. The cosmic signs—sun darkened, moon failing, stars falling—echo Isaiah, Joel, and Ezekiel's language of divine judgment and the unmaking of the old order before new creation dawns. The gathering of the elect from the four winds fulfills the ancient promises of Israel's regathering while expanding to encompass the full harvest of God's people from every nation.",
+        "The fig tree's lesson teaches the church perpetual watchfulness. We live in the tension Jesus creates: \"this generation\" witnessed Jerusalem's fall, confirming His prophetic authority, yet \"that day and hour\" of His glorious return remains hidden even from the Son in His incarnate state. The threefold command to watch frames the chapter's conclusion, placing every generation of believers in the posture of doorkeepers awaiting their Master. The church lives in the already of Christ's victory and the not-yet of His visible reign, called to faithful endurance, gospel proclamation to all nations, and vigilant hope until He appears."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.53665+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

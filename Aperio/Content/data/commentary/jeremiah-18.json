@@ -1,0 +1,55 @@
+{
+  "book": "Jeremiah",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 18: The Potter's Hands",
+      "overview": [
+        "God's sovereignty and our responsibility exist in beautiful, humbling tension—and Jeremiah discovers this truth not in a dusty theological treatise but in a potter's workshop, where clay yields to the master's touch.",
+        "The prophet is called to the house of a potter and watches him work. When the vessel he's shaping becomes marred, the potter simply begins again, reworking the clay into something new. This ordinary scene becomes an extraordinary revelation: just as the potter has absolute authority over the clay, God has absolute authority over nations and individuals. Yet the message Jeremiah hears pierces deeper than abstract sovereignty. God declares that if a nation repents of evil, He will relent from the disaster He planned. Conversely, if a nation abandons righteousness, He will reverse His promised blessing. Our choices genuinely matter. God's predetermined purposes do not erase human responsibility; they work *through* it.",
+        "This hits at the heart of a question that haunts every believer: If God is sovereign, why do my choices matter? Why pray, why repent, why labor for righteousness? Jeremiah's potter's house offers comfort, not certainty. The answer isn't logical formula; it's relational trust. A good potter doesn't merely impose his will on unfeeling clay—he shapes with purpose and care. Similarly, God invites us into partnership. When we repent, when we turn from evil, we're not thwarting God's will; we're cooperating with it. Our decisions are the means through which God accomplishes His purposes.",
+        "The sobering reality is that we can harden ourselves, resist the Potter's hand, and find ourselves marred and remolded in judgment rather than blessing. But the hopeful reality is that God never gives up on His vessel—He continuously offers us the chance to yield, to repent, to be reshaped into something beautiful and useful in His hands.",
+        "Where are you resisting the Potter's touch in your own life right now, and what might it look like to yield?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 18: Scholarly study",
+      "overview": [
+        "Jeremiah 18 presents one of the most theologically significant symbolic actions in prophetic literature, recording the prophet's visit to a potter's workshop during the reign of either Jehoiakim or Zedekiah, approximately 609–586 BCE. This chapter functions as a pivotal text in understanding the Jeremianic conception of divine sovereignty and human responsibility, themes that dominated Judah's final decades before the Babylonian exile.",
+        "The central metaphor emerges from the Hebrew verb *yatsar* (יָצַר), meaning \"to form\" or \"to fashion,\" the same term used in Genesis 2:7 for God's creation of humanity from dust. This deliberate intertextual connection establishes the potter-clay imagery within the broader canonical framework of divine creative authority. When the vessel becomes \"spoiled\" (*nishḥat*), the potter does not discard the clay but reworks it according to his sovereign design. The noun *homer* (חֹמֶר), denoting the malleable clay, emphasizes the material's complete submission to the artisan's will, though the passage complicates any simplistic determinism.",
+        "Verses 7–10 introduce a crucial conditional element that has generated considerable scholarly debate. The passage articulates what some interpreters term \"conditional prophecy\"—divine pronouncements that remain responsive to human repentance or rebellion. The verbal construction employing *shub* (שׁוּב), meaning \"to turn\" or \"to repent,\" appears repeatedly, underscoring that Judah's fate remains undetermined. This theological position stands in tension with other Jeremianic passages suggesting inevitable judgment, leading scholars to debate whether these represent different redactional layers or a sophisticated dialectical theology holding sovereignty and contingency in creative tension.",
+        "The chapter concludes with communal rejection of Jeremiah's message and a disturbing imprecatory prayer (verses 19–23) wherein the prophet invokes covenant curses upon his persecutors. This harsh conclusion illustrates the psychological toll of prophetic ministry and raises interpretive questions about the relationship between prophetic emotion and divine speech. Within the book's macrostructure, chapter 18 connects to the subsequent potter's flask narrative in chapter 19, where the vessel, once shattered, cannot be remade—suggesting Judah's window for repentance was rapidly closing as Jerusalem approached its catastrophic destruction in 586 BCE."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 18: Prophetic perspective",
+      "overview": [
+        "This passage emerges from the ministry of Jeremiah approximately 600 years before the incarnation of Christ, during the final decades of Judah's existence as a sovereign kingdom. The northern tribes had already fallen to Assyria a century earlier, and now the southern kingdom stood under the looming shadow of Babylonian conquest. Jeremiah received this word during the reign of either Jehoiakim or Zedekiah, when the covenant people had so thoroughly corrupted themselves that judgment had become inevitable, though the Lord still extended invitations to repentance.",
+        "Within the grand redemptive arc, this chapter stands at the threshold between Kingdom and Exile, that painful hinge where God's discipline would scatter His people among the nations yet preserve a remnant for restoration. The potter's house becomes sacred ground where Jeremiah receives one of Scripture's most profound revelations of divine sovereignty wedded to human responsibility.",
+        "The image of the potter reshaping marred clay carries typological weight that stretches across both Testaments. Here stands the Creator God of Genesis, whose hands formed Adam from the dust, now demonstrating His unchanged prerogative over the nations. The spoiled vessel represents not merely Judah but all humanity marred by sin, unable to fulfill its created purpose. Yet the potter does not discard the clay; he presses it down and begins again. This prefigures what Paul would later celebrate—that God has mercy on whom He wills, forming vessels for honorable use from the same lump that might have been destined for destruction.",
+        "The prophetic word contains both immediate and eschatological dimensions. The announcement that God would \"pluck up, pull down, and destroy\" found terrible fulfillment in 586 BC when Nebuchadnezzar razed Jerusalem. Yet woven through judgment gleams the promise of replanting and rebuilding—a hope partially realized in the return under Zerubbabel but awaiting fuller expression in Christ, who declared He would build His church against which hell's gates cannot prevail. The ultimate fulfillment awaits the New Jerusalem, where God's dwelling with humanity becomes permanent and uncorrupted.",
+        "For the church living between the advents, this passage speaks with urgent relevance. The same sovereign Potter shapes His people now through Word and Spirit, sometimes through painful pressing down of our self-constructed identities, always with resurrection purpose. The warning to those who harden themselves remains active; the invitation to repentance remains open. Until Christ returns, the clay is still on the wheel, and the Potter's hands have lost none of their skill or mercy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.951868+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

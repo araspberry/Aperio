@@ -1,0 +1,57 @@
+{
+  "book": "Matthew",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 6: The Hidden Life of Faith",
+      "overview": [
+        "The spiritual heart of Matthew 6 is the call to perform our faith for God's eyes alone, not for human approval. Jesus invites us into a counterintuitive kingdom where the greatest acts are those done in secret, where true wealth is invisible, and where anxiety has no place in a heart that trusts the Father.",
+        "This chapter presents three profound invitations: to give, pray, and fast as an audience of One. When Jesus warns against practicing righteousness \"to be seen by others,\" He cuts to the deepest human vulnerability—our hunger for recognition. We live in an age that amplifies this temptation exponentially; every good deed can be photographed, shared, and celebrated. Yet Jesus proposes something radical: the reward of hidden righteousness is the Father's knowledge of us. There is unspeakable freedom in learning that our worth doesn't depend on others' applause.",
+        "The Lord's Prayer that follows models authentic communion with God—honest, simple, direct. It teaches us that prayer isn't performance but relationship, that provision and forgiveness flow together, and that spiritual protection matters as much as daily bread. Then comes the great paradox: \"No one can serve two masters.\" We cannot worship both God and money, or God and anxiety. Jesus isn't condemning the pursuit of legitimate needs but exposing how worry becomes a false god, a cruel taskmaster that promises security but delivers exhaustion.",
+        "The passage culminates in an astonishing invitation: \"Seek first his kingdom and his righteousness, and all these things will be given to you as well.\" The lilies and birds aren't meant to shame us into passivity but to awaken us to the Father's attentive care. When we truly believe that God notices the sparrow, sees the secret gift, and knows what we need before we ask, we can exhale. We can release the stranglehold of self-promotion and anxiety.",
+        "What hidden act of faith is the Spirit inviting you toward today—something done purely for the Father's eyes?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 6: Scholarly study",
+      "overview": [
+        "Matthew 6 constitutes the central section of the Sermon on the Mount, continuing Jesus's radical reinterpretation of righteousness that began in chapter 5. Situated within Matthew's carefully structured discourse material, this chapter addresses the internal disposition behind religious practice, contrasting authentic piety with performative religiosity characteristic of certain first-century Jewish expressions. The Matthean community, likely composed of Jewish Christians in Antioch during the 80s CE, would have recognized these teachings as directly relevant to their own struggles with religious identity and practice within both synagogue and emerging ecclesial contexts.",
+        "The chapter opens with Jesus's warning against practicing righteousness \"before people to be seen by them,\" employing the term *dikaiosynē* (δικαιοσύνη), which in Matthew carries the fuller sense of covenant faithfulness rather than mere legal rectitude. The three traditional pillars of Jewish piety—almsgiving, prayer, and fasting—are each examined through the lens of motivation. Jesus's repeated critique targets the *hypokritai* (ὑποκριταί), a term originally denoting theatrical actors but here signifying those whose religious performance lacks internal correspondence. The reward terminology (*misthos*) establishes an eschatological economy where divine recognition supersedes human acclaim.",
+        "The Lord's Prayer (6:9-13) occupies the structural and theological center of the chapter, presenting a model of prayer addressing God as *Patēr* (Πατήρ), reflecting the intimate Aramaic *Abba* tradition while maintaining reverent distance through \"in heaven.\" The prayer's petitions move from God-centered concerns (name, kingdom, will) to human needs (bread, forgiveness, deliverance), establishing proper theological ordering.",
+        "The chapter's latter portion addresses anxiety (*merimnate*, μεριμνᾶτε) regarding material provision, employing wisdom traditions and natural theology to argue for trust in divine providence. The command to seek first the kingdom represents Matthew's characteristic emphasis on prioritizing eschatological realities over temporal concerns.",
+        "Scholars debate whether these teachings represent authentic *ipsissima verba* of Jesus or Matthean redaction of earlier traditions, though the underlying theology likely reflects primitive Christian catechesis. The chapter's careful literary structure—with its triadic patterns and central prayer—demonstrates sophisticated compositional artistry serving Matthew's larger theological program of presenting Jesus as the authoritative interpreter of Torah for the eschatological community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 6: Prophetic perspective",
+      "overview": [
+        "Matthew chapter six emerges from the lips of Christ during His Galilean ministry, approximately AD 28-29, delivered on a hillside near Capernaum. This teaching comes at the midpoint between the covenants—some 1,500 years after Sinai, yet before Calvary's great redemption. The kingdom Jesus announces here has arrived in His person, yet awaits its consummation when He returns to make all things new.",
+        "Within the grand sweep of redemptive history, the Sermon on the Mount stands as the manifesto of the inaugurated kingdom. Where Moses descended Sinai with tablets of stone, Christ ascends this mount to inscribe the law upon hearts. Here is One greater than Moses, the Prophet promised in Deuteronomy, who speaks not merely *for* God but *as* God, authoritatively reinterpreting the righteousness the Father seeks. This chapter addresses the inner life of kingdom citizens—their giving, praying, fasting, and trusting—revealing that the new covenant transforms not merely external conformity but the hidden springs of the heart.",
+        "The Lord's Prayer stands as the temple of this chapter, teaching the redeemed community to address the Sovereign Creator as \"Our Father\"—an intimacy the old covenant only whispered. In crying \"Your kingdom come,\" the church voices the great eschatological hope that spans from this moment until Christ's appearing. This petition acknowledges that while the kingdom has broken into history through Jesus, its fullness tarries until the Son of Man descends in glory to establish righteousness over all the earth.",
+        "Christ's teaching on treasures in heaven and the impossibility of serving two masters echoes the ancient Shema's call to undivided loyalty. Where Israel perpetually divided her heart between Yahweh and Baal, Jesus calls forth a people wholly consecrated to the Father's purposes. The exhortation against anxiety over provision points back to the wilderness, where manna fell daily and Israel learned that man lives by every word from God's mouth. What the Father did for wandering Israel, He will do for His children in every age.",
+        "The birds of the air and lilies of the field become parables of divine providence, testifying that the Creator who sustains the least creature will surely care for those made in His image and redeemed by His Son's blood.",
+        "For the church dwelling between the advents, this chapter calls us to live as those whose citizenship is already registered in heaven. We pray, give, and fast not to earn standing but because we possess it through Christ. We refuse anxiety because our Father knows our needs, and we seek first His kingdom, confident that the One who began this good work will complete it at the day of Jesus Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.445266+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

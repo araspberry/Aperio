@@ -1,0 +1,59 @@
+{
+  "book": "Exodus",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 23: Living as God's Covenant People",
+      "overview": [
+        "The heart of Exodus 23 is God's design for a community shaped by justice, compassion, and trust in his provision—a people whose daily practices reflect their covenant relationship with him.",
+        "After receiving the Ten Commandments and detailed laws, Israel now encounters God's expectations for how they treat one another and the vulnerable among them. These commands aren't arbitrary rules but expressions of God's character. When God forbids exploiting the poor, muzzling the ox, or favoring the wealthy in court, he reveals that justice matters deeply to him. He cares about the widow, the orphan, the stranger—those with the least power. His people must mirror this concern in their own communities.",
+        "What's remarkable is how practical this covenant is. God addresses the farmer leaving corners of fields unharvested, trusting that he'll provide enough while caring for those in need. He commands rest—a Sabbath for the land itself, reflecting that stewardship and sustainability matter. Even animals deserve dignity. These commands weren't meant to be burdensome; they were meant to transform how God's people understood their relationship with him and with each other.",
+        "The passage culminates in God's promises: he will send an angel to guide them, give them victory over enemies, and bring them into the promised land. These assurances aren't rewards for perfect obedience but invitations to trust. God asks his people to release their grip on resources and security, knowing he holds both.",
+        "This text speaks powerfully to modern disciples. How do we treat the vulnerable in our circles? Are our workplace practices, our generosity, our care for creation reflecting that we belong to God? Do we genuinely believe he provides, or do we hoard from anxiety?",
+        "What small way might you practice covenant living this week—showing unexpected kindness to someone overlooked, protecting someone vulnerable, or releasing something you're gripping too tightly?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 23: Scholarly study",
+      "overview": [
+        "Exodus 23 concludes the Covenant Code (Exodus 20:22–23:33), the oldest legal collection in the Hebrew Bible, which Moses received following the Decalogue at Sinai. This chapter weaves together ethical injunctions, cultic regulations, and promissory epilogue, demonstrating the inseparability of social ethics and religious obligation in ancient Israelite thought. The material likely reflects a pre-monarchic agrarian society, though its final form emerged through centuries of transmission and redaction within priestly and Deuteronomistic circles.",
+        "The chapter opens with prohibitions against false testimony and judicial corruption, employing the term *shema shav* (שֵׁמַע שָׁוְא, \"false report\" or \"empty rumor\"), which connects linguistically to the Decalogue's prohibition against bearing false witness. The command not to follow the *rabbim* (רַבִּים, \"many\" or \"majority\") for evil purposes presents interpretive challenges; rabbinic tradition understood this as prohibiting judicial decisions based merely on majority opinion when justice demands otherwise, though the syntax remains notoriously difficult. Remarkably, these laws mandate impartiality even toward enemies, requiring assistance to one's adversary whose donkey has collapsed—a striking ethic that transcends mere reciprocity.",
+        "The agricultural calendar prescribed here—the festivals of Unleavened Bread, Harvest (*qatsir*, קָצִיר), and Ingathering (*asip*, אָסִיף)—reflects Canaan's agricultural rhythms and likely predates the full historicization of these festivals as commemorations of the Exodus. The enigmatic prohibition against boiling a kid in its mother's milk has generated extensive scholarly discussion, with proposals ranging from anti-Canaanite polemic to humanitarian concern, though no consensus exists.",
+        "The concluding section shifts to divine promise, introducing the *mal'ak* (מַלְאָךְ, \"messenger\" or \"angel\") who will guide Israel's conquest. This figure, bearing God's name \"within him,\" occupies an ambiguous theological space between divine presence and distinct agency. The gradual dispossession of Canaan's inhabitants—lest the land become desolate and wild animals multiply—reflects theological realism about Israel's capacity and divine patience. The chapter thus moves from law to eschatological hope, grounding covenant obedience in promised blessing while establishing boundaries that will define Israel's distinctive identity among the nations of the ancient Near East."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 23: Prophetic perspective",
+      "overview": [
+        "Exodus 23 emerges approximately 1450 years before Christ's advent, standing at the foot of Sinai mere months after Israel's liberation from Egyptian bondage. This chapter forms the concluding portion of the Book of the Covenant, delivered in the immediate aftermath of the Red Sea crossing and positioned within the grand redemptive arc at the Exodus stage—that pivotal moment when God constitutes a nation from the seed of Abraham, creating a kingdom of priests through whom blessing would flow to all nations.",
+        "The laws governing justice, Sabbath, and sacred feasts reveal the character of the Holy One who redeems. When God commands Israel not to spread false reports, to refuse bribes, and to defend the cause of the poor, He discloses His own nature as the righteous Judge of all the earth. These ordinances find their ultimate embodiment in Christ Jesus, who as the True Israelite fulfilled every righteous requirement of the Law, who spoke no falsehood, who could not be corrupted, and who became the Advocate of the oppressed and the Friend of sinners.",
+        "The Sabbath rest commanded here—extending even to the land every seventh year—casts a long prophetic shadow toward that greater rest proclaimed in Hebrews. The land's sabbath pointed beyond agricultural renewal to the cosmic restoration when creation itself would be liberated from its bondage to decay. Christ announced Himself as Lord of the Sabbath because He is the substance of which all sabbaths were merely anticipatory shadows.",
+        "The three annual feasts prescribed in this chapter—Unleavened Bread, Harvest (Pentecost), and Ingathering—constitute a prophetic calendar that traces redemption's contours. The Feast of Unleavened Bread was fulfilled when Christ our Passover was sacrificed, His sinless body placed in the tomb during that sacred week. Pentecost found its appointed fulfillment when the Spirit descended upon the gathered disciples, inaugurating the harvest of souls. The Feast of Ingathering yet awaits its consummation when the full number of the Gentiles comes in and all Israel is saved, when the great harvest is completed at the age's end.",
+        "The closing promise of the Angel who bears God's Name, sent before Israel to guard them and bring them into the prepared inheritance, presents a theophanic figure whom the church recognizes as the pre-incarnate Son. He who led Israel through the wilderness now leads His pilgrim church through this present age toward the heavenly country.",
+        "The church today walks between fulfilled promise and awaited consummation, keeping festival not with the old leaven but with the unleavened bread of sincerity and truth, awaiting the final ingathering when every enemy is placed beneath Christ's feet and the inheritance becomes eternal."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.82023+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-004"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "book": "Ecclesiastes",
+  "bookIndex": 20,
+  "status": "Editorial draft",
+  "title": "Receiving Life Without Possessing Its Answers",
+  "subtitle": "The Teacher examines work, time, pleasure, and the limits of human control",
+  "atAGlance": {
+    "genre": "Reflective wisdom, poetic meditation, sayings, and a concluding editorial frame",
+    "setting": "Human life observed through a royal literary perspective and everyday experience",
+    "composition": "Traditionally associated with Solomon; many scholars place composition after the exile, with date and authorship debated",
+    "audience": "People questioning what achievement can secure in a world marked by injustice and death"
+  },
+  "sections": [
+    {
+      "title": "A voice willing to question familiar assurances",
+      "paragraphs": [
+        "Ecclesiastes introduces the Teacher as a son of David and king in Jerusalem, inviting readers into a perspective associated with Solomon’s wisdom and resources. From that vantage point, he investigates what a person can truly gain through labor, pleasure, wealth, and understanding. The experiment is unusually searching because lack of opportunity cannot provide a simple explanation for its disappointment.",
+        "The Teacher looks at the world as it is experienced, including what resists comforting conclusions. People work and leave the results to others. Wise and foolish people alike die. Oppression can persist without an immediate remedy. The book gives these observations room within Scripture rather than requiring them to disappear behind a quick assurance that everything is already clear."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The word that keeps returning",
+      "paragraphs": [
+        "The Hebrew word hebel lies behind the BSB’s repeated language of futility. Its literal range includes breath or vapor, and its figurative uses communicate what is fleeting, insubstantial, or frustratingly without lasting gain. Context matters. The word should not be reduced either to a blanket claim that nothing has value or to an entirely gentle reminder that life passes quickly. Some of the Teacher’s judgments carry real anguish.",
+        "The recurring image of chasing the wind gives that frustration a bodily shape. Human beings reach for a lasting mastery that keeps escaping their grasp. The book’s question concerns the kind of security our achievements can actually provide. It repeatedly exposes the distance between having something and being able to keep, enjoy, or control it."
+      ],
+      "sourceIds": [
+        "text",
+        "hebel"
+      ]
+    },
+    {
+      "title": "Time, injustice, and the limits of wisdom",
+      "paragraphs": [
+        "The poem of times in chapter 3 names the changing circumstances of human life. Its beauty should not conceal its difficulty: people do not command every season they must endure. The Teacher recognizes an order larger than himself while confessing that he cannot comprehend the whole of God’s work. Awareness of the larger picture is not the same as possession of it.",
+        "Wisdom remains preferable to folly, yet it cannot guarantee safety or explain every outcome. The Teacher sees situations where the righteous suffer and the wicked receive what appears to be the reward of righteousness. Such observations correct a careless use of proverbial patterns. They do not make conduct irrelevant; they prevent success from becoming a reliable public measure of someone’s moral worth."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Enjoyment as a received gift",
+      "paragraphs": [
+        "Amid its searching questions, the book repeatedly commends eating, drinking, work, companionship, and the enjoyment of one’s portion. These passages are not an invitation to stop caring about injustice. They describe a way of receiving life without requiring it first to supply a complete account of itself. A meal shared today need not become permanent to be genuinely good.",
+        "The closing movement urges action despite uncertainty, enjoyment with awareness of judgment, and remembrance of the Creator before the losses of old age. The poem in chapter 12 makes frailty vivid. Its force lies partly in refusing to let mortality remain an abstract fact about other people. The life we are deciding how to live is a life with limits."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The voice, the frame, and the reader",
+      "paragraphs": [
+        "The final verses speak about the Teacher and bring the book to a conclusion centered on reverence for God and accountability. Readers debate how every part of this frame relates to the main voice, but both belong to the received book. The questions should be heard fully, and the conclusion should not be omitted simply because it resists a favorite reading.",
+        "Traditional association with Solomon differs from the question of the work’s actual composition. Many scholars understand its royal presentation as a literary perspective and place the book after the exile; precise dating remains disputed. Its chapters therefore belong on a wisdom shelf, not under a sequence of events in Solomon’s reign. Read slowly enough to hear its tensions. Ecclesiastes can loosen the demand that achievement make us invulnerable and teach a more honest gratitude for a life we receive but cannot finally command."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The investigation begins",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The Teacher tests wisdom, pleasure, work, and the prospect of lasting gain."
+    },
+    {
+      "label": "Time and the conditions of life",
+      "startChapter": 3,
+      "endChapter": 6,
+      "description": "Changing seasons, injustice, companionship, worship, and wealth reveal the limits of control."
+    },
+    {
+      "label": "Wisdom under pressure",
+      "startChapter": 7,
+      "endChapter": 10,
+      "description": "Observations about conduct and outcomes challenge easy confidence in human understanding."
+    },
+    {
+      "label": "Living before the end",
+      "startChapter": 11,
+      "endChapter": 12,
+      "description": "Action, joy, aging, remembrance, and the final conclusion bring the inquiry home."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Human limits",
+      "description": "Knowledge and achievement cannot secure mastery over time, outcomes, or death."
+    },
+    {
+      "name": "Received enjoyment",
+      "description": "Ordinary gifts can be honored without requiring them to become permanent."
+    },
+    {
+      "name": "Moral seriousness",
+      "description": "Uncertainty does not erase responsibility before God."
+    }
+  ],
+  "timeline": {
+    "era": "wisdom",
+    "dateLabel": "Reflective setting; composition debated",
+    "context": "The Teacher uses a royal perspective to consider experiences shared across eras.",
+    "note": "Solomonic association is not a secure calendar date for the book’s composition."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 12,
+      "era": "wisdom",
+      "label": "Wisdom amid life’s limits",
+      "dateLabel": "No single narrated historical period",
+      "note": "The argument follows observations and reflections rather than a datable sequence of events."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Ecclesiastes · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Ecclesiastes",
+      "url": "https://bible.usccb.org/bible/ecclesiastes/0"
+    },
+    {
+      "id": "hebel",
+      "label": "Hebel · Brown–Driver–Briggs Hebrew lexicon",
+      "url": "https://biblehub.com/bdb/1892.htm"
+    }
+  ]
+}

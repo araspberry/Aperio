@@ -1,0 +1,63 @@
+{
+  "book": "Jeremiah",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 4 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Jeremiah 4 · Scripture",
+      "url": "https://biblehub.com/bsb/jeremiah/4.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 4: The Cost of Returning to God",
+      "overview": [
+        "Jeremiah 4 presents a passionate call to repentance, revealing that returning to God requires genuine transformation, not merely external compliance. The prophet urges Judah to remove the idols from their hearts and live in authentic covenant with the Lord—a summons that exposes how deeply sin has embedded itself in the national consciousness.",
+        "The chapter opens with a beautiful promise: if Judah returns to God with sincerity, they will find restoration and blessing. Yet what follows is a sobering description of the devastation coming upon those who refuse. Jeremiah's language grows increasingly urgent and visceral—he describes calamity sweeping through the land like a destructive wind, and his own anguish at witnessing his people's self-imposed judgment. The prophet's heart breaks because he sees what could be: a people reconciled to their God, living in the safety and abundance of His covenant. Instead, he watches them stumble toward ruin because they cling to their idols and their pride.",
+        "What makes this passage so relevant to our own lives is its diagnosis of spiritual stubbornness. Repentance, as Jeremiah presents it, is not a quick apology followed by business as usual. It demands that we \"circumcise\" our hearts—to cut away the hardened, resistant places within us that prevent genuine transformation. It means removing the idols we've constructed: the pursuits, relationships, and images of success that we've elevated above our devotion to God.",
+        "The prophet's anguish reminds us that our sin is never merely personal. When we resist God's call to return, we wound the heart of the Father, and we model rebellion to those around us. Yet the opening verses also assure us that the way back is always open. God's grace meets us in our brokenness, inviting us home.",
+        "What idols might be hidden in your heart, preventing the wholehearted return that brings true peace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 4: Scholarly study",
+      "overview": [
+        "Jeremiah chapter four presents a complex prophetic oracle that transitions from conditional promises of restoration to vivid depictions of impending catastrophe, reflecting the turbulent period of Josiah's reforms and the looming Babylonian threat in the late seventh century BCE. The chapter functions as a hinge within the larger unit of Jeremiah 2–6, moving from accusation to announcement of judgment while maintaining the urgent call for genuine repentance.",
+        "The opening verses (1–4) continue the covenant lawsuit imagery, employing the agricultural metaphor of fallow ground with the imperative to \"break up\" (*nîrû*) unplowed soil, suggesting that superficial religious observance without interior transformation remains insufficient. The command to \"circumcise yourselves to the LORD and remove the foreskin of your hearts\" anticipates the Deuteronomic theology of heart circumcision and foreshadows the new covenant promise in Jeremiah 31:31–34. This internalization of covenant faithfulness distinguishes Jeremianic theology from mere cultic compliance.",
+        "The chapter's central section (5–18) announces invasion from the north, employing the term *šôdēd* (destroyer) and comparing the approaching army to a lion emerging from its thicket. Scholarly debate continues regarding whether this northern foe represents a genuine Scythian incursion, as Herodotus later described, or serves as theological typology for divine judgment transcending specific historical identification. The cosmic imagery of verses 23–26, where creation returns to *tōhû wābōhû* (formlessness and void), deliberately echoes Genesis 1:2, presenting judgment as de-creation—a reversal of divine ordering that leaves the land desolate and the heavens without light.",
+        "The prophet's visceral response in verses 19–21, with repeated references to internal anguish (*mēʿay mēʿay*, \"my bowels, my bowels\"), demonstrates the characteristic Jeremianic pathos that distinguishes this book's prophetic persona. The feminine personification of Jerusalem as a woman in labor and then as one adorned for lovers who will ultimately murder her (30–31) employs jarring imagery that subverts expectations of beauty and fertility. This rhetorical strategy forces hearers to recognize that covenant infidelity transforms blessing into curse, rendering even religious confidence (*ʾôy-nāʾ lî*, \"woe is me\") a death cry rather than liturgical expression."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 4: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter four thunders from approximately 627–605 BC, during the final decades before Babylon's devastation of Jerusalem. The prophet ministered under Kings Josiah, Jehoiakim, and Zedekiah, standing at the hinge point between the last flickers of Judah's independence and the catastrophic exile that would empty the land of God's covenant people. This passage thus belongs to the Exile phase of redemptive history, where divine judgment falls upon the failed kingdom, yet seeds of future restoration are already being planted through prophetic promise.",
+        "The chapter opens with a conditional call to repentance—\"If you will return, O Israel, return to Me\"—echoing the covenant structure established at Sinai and renewed in Deuteronomy. Here the Lord appeals to His wayward bride, offering restoration if genuine heart-circumcision occurs. This language of circumcising the heart rather than merely the flesh anticipates the new covenant promise Jeremiah himself will articulate in chapter thirty-one, where God pledges to write His law on hearts of flesh. What Moses commanded externally, what Jeremiah pleads for urgently, Christ accomplishes through the Spirit at Pentecost and beyond.",
+        "The prophet then beholds a terrifying vision of cosmic unraveling: \"I looked on the earth, and behold, it was without form and void; and to the heavens, and they had no light.\" This deliberate echo of Genesis 1:2 presents judgment as de-creation, a reversal of God's ordering work. Sin does not merely break rules; it unravels reality itself. Mountains quake, birds flee, and fruitful lands become wilderness. The invader from the north—historically Babylon—becomes an instrument of divine justice, yet the imagery transcends that single historical moment. Throughout Scripture, the Day of the Lord bears these same features: cosmic darkness, fleeing creatures, and collapsed human institutions. Joel, Zephaniah, and Revelation's trumpet judgments all drink from this same prophetic stream.",
+        "Jerusalem is depicted as a woman in labor, gasping for breath as destroyers approach. This birth-agony imagery threads through prophetic literature and finds its culmination in Revelation twelve, where the woman travails to bring forth the Messiah while the dragon threatens destruction. Judgment brings forth new life through anguish.",
+        "For the church awaiting Christ's return, Jeremiah four serves as sobering reminder and urgent hope. The same God who judged covenant unfaithfulness in Judah remains holy, yet the heart-circumcision Jeremiah demanded has been accomplished through Christ's atoning work. Believers now live as new-covenant people, awaiting final de-creation and re-creation when the heavens and earth are made new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.913803+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-028"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

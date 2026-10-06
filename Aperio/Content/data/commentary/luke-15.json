@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 15: The Heart of God for the Lost",
+      "overview": [
+        "The spiritual heartbeat of Luke 15 is Jesus's breathtaking insistence that God feels—deeply and personally—when one soul strays and then returns. In three parables of escalating intimacy, Jesus reveals a God who abandons comfort to search, who celebrates recovery, and who stands vulnerable before those He loves, waiting to welcome them home.",
+        "The lost sheep teaches us that God's concern for the one matters as much as the ninety-nine. The shepherd doesn't grudgingly tally losses; he leaves the entire flock to pursue the wanderer. This overturns our human calculus of efficiency and worth. Then the lost coin adds something precious: a woman turning her whole house upside down, lighting lamps in darkness, searching with the intensity of someone for whom this loss is personal, not statistical. But the prodigal son—this is where Jesus breaks open the full tenderness of God's character.",
+        "The father in this parable does what Middle Eastern dignity would forbid: he runs. His robe billows behind him as he races to meet his son still at a distance. He doesn't wait for the boy's prepared speech. He doesn't offer conditional forgiveness or a probationary period. He throws a celebration. The father has been waiting, watching the road, and when he finally sees the silhouette of his lost child, mercy moves his feet faster than shame can move the son's lips.",
+        "What arrests the heart here is that this is how God actually is. Not reluctantly forgiving, but eagerly pursuing. Not keeping score, but throwing parties over repentance. Jesus speaks these parables into a room where religious leaders are grumbling that Jesus eats with sinners—as if proximity to the broken somehow contaminates holiness. Jesus insists the opposite is true: God's holiness consists precisely in this extravagant, undignified, searching, celebrating love.",
+        "Where are you today? Are you the sheep that has wandered? The coin hidden in shadow? The prodigal still rehearsing your confession? The invitation stands: turn toward home, and you'll find the Father already running toward you."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 15: Scholarly study",
+      "overview": [
+        "Luke 15 constitutes one of the most theologically significant chapters in the Third Gospel, presenting a triadic parable sequence that Jesus delivers in response to Pharisaic criticism of his table fellowship with sinners. The narrative setting established in verses 1-2 is crucial: tax collectors and sinners are drawing near to hear Jesus, prompting the Pharisees and scribes to grumble using the imperfect verb *diegongyzon*, indicating persistent, ongoing complaint. This murmuring echoes Israel's wilderness complaints and establishes the religious leaders as those who, like the elder brother in the final parable, fail to comprehend divine grace.",
+        "The three parables—the lost sheep, the lost coin, and the lost son—exhibit careful literary escalation. The ratio of loss intensifies from one in a hundred to one in ten to one in two, while the relational intimacy deepens from animal to possession to child. Each parable employs the verb *apollymi* (to lose, destroy, perish), creating lexical cohesion throughout the chapter. The term *metanoia* (repentance) appears strategically, though notably the sheep and coin cannot repent themselves—they are simply found—suggesting that divine initiative precedes human response in the economy of salvation.",
+        "The parable of the prodigal son, occupying verses 11-32, represents Luke's longest parable and demonstrates remarkable narrative artistry. The younger son's request for his inheritance portion (*meros*) effectively treats the father as dead, constituting a profound social offense in Mediterranean honor-shame culture. His subsequent degradation to feeding pigs—animals ritually unclean in Jewish law—marks the nadir of his apostasy. The father's response subverts patriarchal convention entirely: he runs (*dramon*, from *trechō*), an action considered undignified for elderly men, kisses his son repeatedly, and restores him fully without requiring the rehearsed servitude speech.",
+        "The chapter's conclusion remains deliberately open-ended, with the elder brother's response unresolved. This literary strategy directly addresses the Pharisees, inviting them to recognize themselves in the elder son's resentment. The father's final appeal—\"this brother of yours was dead and is alive\"—employs resurrection language (*nekros ēn kai ezēsen*), connecting personal restoration to eschatological hope and emphasizing that divine joy over repentant sinners should characterize the covenant community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 15: Prophetic perspective",
+      "overview": [
+        "This beloved chapter emerges approximately thirty years into the first century, during the earthly ministry of Jesus as He journeys toward Jerusalem and the cross. We stand here at the very hinge of redemptive history—the long-awaited Messiah walks among His people, and the kingdom of God has drawn near in His person. The promises given to Abraham, sung by the prophets, and yearned for through centuries of exile and occupation now take flesh in the One who speaks these three parables.",
+        "Luke sets the scene with Pharisees and scribes grumbling that Jesus receives sinners and eats with them. In their complaint, they unwittingly identify the very heart of God's eternal purpose. From Eden's gate to this Galilean hillside, the entire biblical narrative has bent toward this moment: God seeking the lost, pursuing the wandering, welcoming the wayward home. What Moses glimpsed in the tabernacle, what the prophets proclaimed in oracles of restoration, Jesus now embodies and enacts.",
+        "The shepherd leaving ninety-nine to seek one lost sheep unveils the divine pattern running through Scripture. This is the God who pursued Adam in the garden, who called Abraham from Ur, who descended to deliver Israel from Egypt. The shepherd typology reaches back to David, whom God took from following sheep to shepherd His people, and forward to Ezekiel's promise that God Himself would search for His scattered flock. Jesus claims this identity: He is the Good Shepherd whose seeking will cost Him everything.",
+        "The woman searching for her lost coin illuminates the Spirit's relentless work, sweeping through the dark house of this fallen world, bringing light until what was lost is found. The rejoicing in heaven over one repentant sinner reveals that salvation is no mere legal transaction but a cosmic celebration, the very joy set before Christ for which He endured the cross.",
+        "The parable of the prodigal son stands as the gospel in miniature. The younger son's journey—from the father's house into a far country, to destitution among swine, to repentance and return—mirrors humanity's fall and redemption. The father's response shatters religious expectation: he runs, embraces, kisses, robes, and feasts. Here is the God who clothes the shamed, who kills the fattened calf, who makes the spiritually dead alive again.",
+        "The elder brother's resentment exposes the Pharisees' hearts but also warns every generation of believers against loveless religion. The Father's final appeal remains open-ended, an invitation echoing still.",
+        "The church now lives as those found, robed, and feasting—commissioned to seek others until the great celebration is complete."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.584264+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

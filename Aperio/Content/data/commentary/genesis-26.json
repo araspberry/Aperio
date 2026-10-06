@@ -1,0 +1,56 @@
+{
+  "book": "Genesis",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 26: Blessing in the Wilderness",
+      "overview": [
+        "The heart of this passage rests in God's faithfulness to keep His covenant promises not just to one generation, but to the next. Isaac inherits not merely land and wealth, but the assurance that the God of Abraham remains his God.",
+        "During a famine in Canaan, Isaac faces the same temptation his father did: the choice between trusting God's promises and taking matters into his own hands. Like Abraham before him, Isaac deceives Abimelech about his wife Rebekah, claiming she is his sister. Yet even in this failure—even when Isaac's faith wavers—the Lord appears to him with a remarkable word: \"I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to your father Abraham.\" God meets Isaac not in his strength but in his weakness, surrounded by famine and fear.",
+        "What follows illustrates the reality of living under God's covenant protection. Despite his sin and despite the surrounding scarcity, Isaac prospers. He plants crops that yield a hundredfold return. His herds multiply. His enemies become envious. This is not because Isaac deserves blessing, but because God has bound Himself to His promise. The Philistines repeatedly stop up the wells that Isaac's father had dug, yet he persists in digging new ones. Each obstruction becomes an opportunity to practice faith and obedience.",
+        "This narrative speaks powerfully to those who inherit faith passed down through generations. Perhaps you are a second or third-generation believer, wondering if God's promises apply as fully to you as they did to your spiritual ancestors. Genesis 26 assures us that God's covenant is not exhausted by one generation but extends to those who follow. Blessing flows through obedience, even imperfect obedience, when we trust in God's character rather than our circumstances.",
+        "What inherited promise of God are you called to live into, and how might obedience in small things today deepen your trust in His faithfulness tomorrow?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 26: Scholarly study",
+      "overview": [
+        "Genesis 26 stands as a remarkable literary unit within the patriarchal narratives, presenting Isaac as the central figure in his only extended narrative in the book of Genesis. The chapter operates on multiple levels simultaneously: it establishes Isaac's legitimacy as Abraham's heir, addresses the perpetual tensions between semi-nomadic herders and settled agricultural communities, and reaffirms the divine promises that constitute the theological backbone of Genesis.",
+        "The chapter opens with a famine that echoes the experience of Abraham in Genesis 12:10, creating deliberate intertextual resonance. The Hebrew term *ra'av* (רָעָב) appears throughout Genesis as a narrative catalyst forcing the patriarchs into vulnerable circumstances among foreign peoples. Yahweh's prohibition against descent into Egypt distinguishes Isaac's journey from his father's, directing him instead to Gerar under Abimelech's jurisdiction. The divine speech in verses 3–5 employs covenantal vocabulary, with the verb *shava'* (שָׁבַע, \"to swear\") connecting Isaac explicitly to the Abrahamic promises of land, descendants, and blessing to the nations.",
+        "The wife-sister episode in verses 6–11 presents interpretive challenges, as it constitutes the third such narrative in Genesis (cf. 12:10–20; 20:1–18). Rather than viewing these as mere doublets, contemporary scholarship increasingly recognizes their distinct theological functions within the final form of the text. Isaac's use of the term *'achot* (אָחוֹת, \"sister\") for Rebekah lacks even the technical accuracy present in Abraham's deception regarding Sarah's half-sister status.",
+        "The well disputes occupying verses 17–22 reflect authentic ancient Near Eastern concerns over water rights, with each well's naming (*'Eseq*, *Sitnah*, *Rehoboth*) encoding the narrative of conflict and eventual resolution. The chapter concludes with a covenant ceremony between Isaac and Abimelech at Beersheba, legitimating Israelite claims to this significant southern location.",
+        "The Esau marriage notice in verses 34–35 functions as narrative foreshadowing, introducing domestic discord that will culminate in the blessing deception of chapter 27. Throughout, the chapter demonstrates the Yahwist's sophisticated literary artistry while grounding Israel's ancestral claims in both divine promise and diplomatic agreement."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 26: Prophetic perspective",
+      "overview": [
+        "Genesis 26 unfolds approximately 1900 years before Christ, during the patriarchal age when God's covenant promises to Abraham were being tested and transmitted to the second generation. This chapter stands between the establishment of the Abrahamic covenant and its ultimate flowering in the nation of Israel, positioned in that critical early moment when the seed of promise might have perished in famine or been absorbed into Canaanite culture.",
+        "Isaac, the child of miraculous promise, now becomes the carrier of covenant hope. When famine strikes the land, Isaac faces the same test his father faced—the temptation to abandon the promised land for the security of Egypt. Yet God appears and commands Isaac to remain, explicitly renewing the Abrahamic promises of land, seed, and blessing to all nations. Here the covenant demonstrates its unconditional character: it does not depend on the worthiness of the recipient but on the faithfulness of the Promiser. God declares He will fulfill these things \"because Abraham obeyed my voice\"—pointing forward to that greater obedience of Christ through which all covenant blessings would flow to spiritual descendants.",
+        "Isaac's repetition of his father's failure—calling Rebekah his sister out of fear—reveals both human weakness and divine preservation. The covenant line survives not through human virtue but through sovereign protection. Abimelech, the Philistine king, becomes an unwitting guardian of the messianic lineage, demonstrating that God conscripts even pagan rulers to preserve His redemptive purposes.",
+        "The conflict over wells carries rich typological significance. Isaac re-digs the wells his father had dug, wells the Philistines had stopped with earth. These wells, named Esek (contention), Sitnah (enmity), and finally Rehoboth (broad places), trace the pattern of the people of God throughout history—facing opposition, enduring hostility, yet ultimately finding that God makes room for them. Christ Himself would offer living water that the world could neither give nor take away, and the church has re-dug ancient wells of truth that hostile forces continually seek to fill with the dirt of false teaching.",
+        "The chapter closes with covenant oath between Isaac and Abimelech, establishing peace—a faint echo of that ultimate peace the Seed of Isaac would bring between God and humanity, between Jew and Gentile. For the church awaiting Christ's return, Genesis 26 speaks assurance: the God who preserved the covenant through famine, failure, and hostility will preserve His people until every promise finds its consummation in the age to come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.700774+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

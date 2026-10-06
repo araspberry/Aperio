@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 25: The Kingdom's Call to Faithful Stewardship",
+      "overview": [
+        "Matthew 25 presents Jesus's most sobering and searching words about the future—not to frighten us, but to awaken us to what truly matters. Three parables thread through this chapter like a cord binding together a single, urgent message: the kingdom of heaven demands active vigilance, faithful management of what we've been entrusted, and a radically generous love that extends to the suffering and forgotten.",
+        "The parable of the ten virgins opens with a piercing question about readiness. Five carried extra oil; five did not. The bridegroom's delay tests not just patience but preparedness. There's a prophetic warning here: spiritual laziness masquerades as faith. We cannot borrow someone else's vigilance or assume we'll find grace at the final hour. The Christian life requires intentional, sustained faithfulness—filling our lamps daily through prayer, Scripture, community, and obedience.",
+        "The parable of the talents shifts focus from waiting to working. The master distributes resources according to ability, then departs. The two faithful servants double what they've been given; the third buries his gift in fear. Jesus's perspective is stunning: he doesn't scold the fearful servant for losing money, but for failing to risk, to steward courageously, to invest the master's wealth in the world. Our gifts—time, talents, relationships, resources—are not primarily for our security but for kingdom expansion.",
+        "Then comes the final judgment scene, where Jesus reveals the stunning criterion: our eternal destiny hinges on whether we fed the hungry, clothed the naked, visited the imprisoned. \"Whatever you did for the least of these brothers and sisters of mine, you did for me.\" Here is the gospel made flesh in our neighborhoods. Here is where abstract faith becomes concrete love.",
+        "These three passages don't offer prosperity promises or easy comfort. They demand we ask ourselves: Am I spiritually awake and ready? Am I stewarding faithfully what God has entrusted? Am I seeing Christ in the vulnerable and responding with urgent, humble love?",
+        "What area of your life does Jesus seem to be calling you toward greater faithfulness today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 25: Scholarly study",
+      "overview": [
+        "Matthew 25 constitutes the final major discourse in Matthew's Gospel, concluding the Olivet Discourse that began in chapter 24. This extended teaching, delivered on the Mount of Olives during Jesus's final week in Jerusalem, addresses the disciples' questions about the destruction of the temple and the signs of the parousia. The evangelist, writing to a predominantly Jewish-Christian audience likely in the late first century, structures this chapter around three distinct yet thematically unified pericopes: the Parable of the Ten Virgins, the Parable of the Talents, and the judgment of the nations. Together these passages address the ethical imperatives incumbent upon the community awaiting the delayed return of their Lord.",
+        "The opening parable introduces ten virgins (*parthenoi*) awaiting a bridegroom, with the critical distinction between the wise (*phronimoi*) and foolish (*mōrai*) resting upon their preparedness with oil. The term *phronimos* carries connotations of practical wisdom and appears throughout Matthew as a marker of authentic discipleship. The cry at midnight—\"Behold, the bridegroom!\"—employs *idou*, a characteristic Matthean interjection signaling dramatic divine intervention. Scholarly debate persists regarding whether the oil symbolizes good works, the Holy Spirit, or faithful perseverance, though the narrative emphasis falls decisively on vigilant readiness rather than allegorical precision.",
+        "The Parable of the Talents presents a master distributing varying sums—a *talanton* representing an enormous sum equivalent to approximately fifteen years' wages—to servants according to their ability (*dynamis*). The wicked servant's characterization of the master as \"harsh\" (*sklēros*) introduces tension regarding whether this represents accurate perception or self-justifying deflection.",
+        "The climactic judgment scene employs royal and shepherd imagery deeply rooted in Ezekiel 34 and Daniel 7. The criterion for judgment—care for \"the least of these my brothers\" (*tōn elachistōn toutōn tōn adelphōn mou*)—has generated substantial interpretive controversy. Some scholars restrict \"brothers\" to Christian missionaries, while others understand it universally. The passage's placement as Jesus's final public teaching before the Passion narrative underscores Matthew's conviction that eschatological readiness manifests not in apocalyptic speculation but in concrete acts of mercy toward the vulnerable."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 25: Prophetic perspective",
+      "overview": [
+        "Matthew twenty-five emerges from the lips of Jesus during Passion Week, spoken on the Mount of Olives just two days before His crucifixion, approximately AD 30. This discourse represents Christ's final extended teaching before the cross, delivered at the hinge point of redemptive history—the Incarnation is complete, the Cross is imminent, and the King Himself unveils the shape of the age to come and the consummation of all things. Within the grand arc of salvation history, this chapter stands at the threshold between the kingdom's inauguration and its final manifestation, addressing the long interval between Christ's departure and return.",
+        "The parable of the ten virgins opens a window into the nature of the church age itself—a time of apparent delay, of midnight darkness, of waiting that tests the authenticity of profession. The wise and foolish appear identical until the critical hour; only the oil of genuine spiritual life, the indwelling presence of the Holy Spirit, distinguishes true disciples from mere professors. The cry \"Behold, the bridegroom!\" echoes the ancient covenant imagery where Yahweh was Israel's husband, now fulfilled in Christ who comes for His bride. The shut door speaks with terrible finality: there comes a moment when opportunity ceases and destiny is sealed.",
+        "The parable of the talents reveals that the interim between advents is no passive waiting but active stewardship. The master entrusts his possessions before departing—a clear type of Christ who, having accomplished redemption, ascends and distributes gifts to His church through the Spirit. The reckoning that follows demonstrates that faithfulness, not merely fruitfulness in absolute terms, determines reward. The unprofitable servant's condemnation exposes a heart that never truly knew the master's character.",
+        "The judgment of the nations presents the Son of Man enthroned in glory, separating humanity as a shepherd divides sheep from goats. Here eschatological fulfillment remains entirely future—the gathering of all nations, the public verdict, the eternal destinies pronounced. The \"least of these my brothers\" points to the identification between Christ and His suffering people, particularly those who carry His gospel to the nations during the tribulation of the last days.",
+        "For the church living between the advents, Matthew twenty-five sounds an urgent summons: watch with genuine faith, work with faithful diligence, and love with tangible compassion. The King has come, the King will come again, and how we live in this tension reveals whose we truly are."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.495882+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

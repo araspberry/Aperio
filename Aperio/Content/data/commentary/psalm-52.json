@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 52,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 52 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 52: The Folly of Trusting in Wealth",
+      "overview": [
+        "This psalm exposes the spiritual bankruptcy of those who trust in power and possessions rather than in God, inviting believers into a deeper understanding of what true security actually means. The psalmist watches someone boast in wickedness and relies on dishonest gain, and rather than becoming envious, he becomes prophetic—declaring that such a foundation will crumble.",
+        "The opening words capture something we all recognize: the human tendency to glory in what is evil. The wealthy evildoer in this psalm uses his tongue \"like a sharp razor,\" cutting down others through lies and deception. Yet the psalmist's response is remarkable. Instead of despairing at injustice, he points toward the inevitable judgment of God. The mighty man will be brought down, uprooted from the land of the living. What seemed solid—money, influence, the respect of corrupt companions—dissolves like morning mist before God's reality.",
+        "This speaks directly to our modern anxieties about security. How much energy do we pour into accumulating things that cannot ultimately protect us? How easily do we slip into admiring those who have \"made it\" through questionable means? The psalmist invites us to wake up to a dangerous illusion. True confidence cannot rest on a foundation of theft, slander, or selfish gain. These things carry their own judgment built in.",
+        "But notice the psalm's turn in verse nine. The righteous \"will see\" and \"will fear,\" not with terror but with clarity. They will mock—not cruelly, but with the sanity of those who recognize foolishness for what it is. In contrast, the psalmist himself declares his trust in God's steadfast love and his willingness to wait on God's name. He has chosen the slow, humble path of faith over the glittering shortcuts of corruption.",
+        "The deepest security comes not from what we can grab or control, but from abandoning ourselves to God's mercy.",
+        "What foundation am I building my life and peace upon—and would it survive if everything else were stripped away?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 52: Scholarly study",
+      "overview": [
+        "Psalm 52 bears the superscription attributing its composition to David following Doeg the Edomite's report to Saul concerning David's presence at the house of Ahimelech, an episode narrated in 1 Samuel 21–22. While the historical reliability of such superscriptions remains debated among scholars, this particular attribution provides an interpretive lens through which the psalm's denunciation of treacherous speech gains concrete exemplification. The psalm functions as a prophetic indictment against a powerful individual who weaponizes language for destructive purposes, followed by a confident declaration of divine justice.",
+        "The opening address to the \"mighty one\" (gibbôr) carries deliberate irony, as this term typically denotes a warrior of valor or strength, yet here describes one whose supposed might manifests through verbal treachery rather than honorable combat. The accused boasts in \"evil\" (rāʿâ), establishing immediately the moral inversion at the psalm's center. The tongue is characterized as a \"sharpened razor\" practicing \"deceit\" (mirmâ), imagery that exposes how speech intended for communication becomes an instrument of violence. This metaphorical connection between tongue and blade appears throughout wisdom literature and prophetic texts, underscoring the ancient Near Eastern recognition that words possess destructive potential comparable to weapons.",
+        "Structurally, the psalm divides into three movements: accusation against the evildoer (verses 1–4), announcement of divine judgment (verses 5–7), and the psalmist's contrasting self-identification with the righteous community (verses 8–9). The judgment section employs four emphatic verbs describing God's decisive action—\"break down,\" \"snatch,\" \"tear away,\" and \"uproot\"—presenting comprehensive destruction using architectural and agricultural metaphors. The term \"tent\" (ʾōhel) likely signifies household and lineage, indicating that consequences extend beyond the individual.",
+        "The psalm concludes with the striking image of the righteous one as a flourishing olive tree planted in God's house, contrasting dramatically with the uprooted fate of the wicked. This botanical imagery connects to broader biblical traditions of the righteous flourishing under divine blessing, as developed extensively in Psalm 1. The final declaration of trust and thanksgiving \"before your faithful ones\" situates individual piety within communal worship, demonstrating that personal vindication ultimately serves the congregation's recognition of divine justice."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 52: Prophetic perspective",
+      "overview": [
+        "This psalm bears the historical superscription linking it to David's flight from Saul, when Doeg the Edomite betrayed the priests of Nob—an event recorded in 1 Samuel 21-22, placing its composition approximately 1000 years before Christ, during the tumultuous period when David was anointed but not yet enthroned. This situates the psalm within the kingdom era, after God's covenant with Abraham and the Exodus deliverance, but centuries before the exile and the coming of Messiah.",
+        "Doeg stands as a dark type throughout Scripture—the treacherous tongue, the violent betrayer who loves evil more than good, whose strength is found in destruction rather than in the Lord. In him we see the spirit of antichrist that runs like a crimson thread through redemptive history: Cain rising against Abel, Judas selling the Son of Man with a kiss, and ultimately the man of lawlessness who will exalt himself against all that is called God. The \"mighty man\" of verse one is not mighty at all but represents the boasting of flesh against Spirit, the arrogance of the serpent's seed perpetually at war with the woman's offspring.",
+        "David prophetically declares the certain end of all who make wealth and wickedness their stronghold rather than the living God. The uprooting, the snatching from the tent, the tearing from the land of the living—this judgment fell partially on Doeg himself, but stretches forward to encompass every proud tongue that rises against the righteous. The righteous will witness this vindication and laugh, not with cruelty but with holy wonder at God's justice finally displayed. This finds its ultimate fulfillment when Christ returns and every knee bows, when the saints judge angels and witness the overthrow of all that exalted itself against the knowledge of God.",
+        "Against this withering judgment stands the flourishing olive tree in the house of God—David's prophetic self-portrait that becomes the portrait of every believer grafted into Christ. The olive tree evokes covenant blessing, the oil of anointing, the lampstand of testimony. Where the wicked are uprooted, the righteous are planted; where the deceiver trusted in riches, the saints trust in God's steadfast love forever and ever.",
+        "The church today dwells in this tension—surrounded by boastful tongues and treacherous powers, yet rooted in mercy that endures eternally. We wait for His name, for it is good, knowing that what David saw dimly, we shall see face to face."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_052",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.265846+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

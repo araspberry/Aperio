@@ -1,0 +1,55 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 2: Building with Purpose and Partnership",
+      "overview": [
+        "King Solomon's request for cedar and skilled workers to build God's house reveals a profound spiritual truth: building the kingdom of God requires both humility and collaboration. This chapter shows us that the grandest divine purposes are never accomplished in isolation, but through honest partnerships and the willingness to acknowledge our own limitations.",
+        "Solomon writes to Hiram of Tyre with remarkable vulnerability. Though he is Israel's king, he admits that no one is truly adequate to build a house for the God of heaven and earth. This confession strikes at the heart of authentic faith. We often approach God's work as though we possess all we need—all the resources, skills, and strength required. Solomon knew better. His greatness lay not in self-sufficiency but in recognizing that the God he served transcended any earthly dwelling, yet deserved the very best humans could offer.",
+        "Notice how Solomon offers fair compensation and clear communication to Hiram. This reflects biblical stewardship and integrity in relationships. The proposed trade—wheat, barley, oil, and wine for precious cedar and skilled craftsmen—was mutually beneficial and honest. There's a lesson here about how God's kingdom advances through relationships marked by respect and justice, not through exploitation or corner-cutting.",
+        "The assembly of workers demonstrates another principle: excellence for God's house requires excellence in people. The craftsmen Hiram sent were genuinely skilled. Solomon didn't settle for less. Too often we assume that spiritual work requires only good intentions, but God deserves our very best efforts and the best people we can find and support.",
+        "This passage invites us to examine our own partnerships and priorities. Where are we building with genuine excellence? Where might we be too proud to ask for help? The magnificent temple that resulted from this collaboration became a dwelling place for God's presence. When we approach kingdom work with humility, honesty, and high standards, we create space for God to do immeasurable things.",
+        "What would change in your life if you approached your current responsibilities with Solomon's combination of humility and excellence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 2: Scholarly study",
+      "overview": [
+        "The second chapter of 2 Chronicles marks a pivotal transition from Solomon's divine commission to the practical inauguration of the temple construction project, establishing both the theological significance and the international dimensions of Israel's most ambitious sacred building endeavor. The Chronicler, writing to the post-exilic community, carefully shapes this narrative to emphasize the continuity of Davidic promises and the temple's role as the cosmic meeting place between Yahweh and his people. Unlike the parallel account in 1 Kings 5, this version highlights Solomon's personal piety and theological sophistication, presenting him as the ideal king whose wisdom manifests not merely in administrative capability but in profound understanding of divine worship.",
+        "Solomon's opening declaration to Hiram (Hebrew: *Ḥuram*) contains a remarkable theological statement that the heavens cannot contain God, raising the question of why a temple should be built at all. The Hebrew term *bayit* (house) carries multivalent significance throughout this chapter, denoting both the physical structure and the dynastic household, thereby linking architectural and covenantal themes. Solomon's answer resolves this tension by defining the temple's purpose not as divine habitation but as a place for burning incense \"before him\" (*lĕpānāyw*), emphasizing liturgical function over spatial containment. This nuanced theology reflects sophisticated post-exilic reflection on divine transcendence and immanence.",
+        "The exchange with Hiram of Tyre demonstrates the international recognition of Israel's God while simultaneously establishing the Phoenician contribution to the temple's construction. The skilled craftsman *Ḥuram-abi* (distinguished from the king by this patronymic addition) embodies the artistic excellence required for sacred space, his expertise in purple, crimson, and blue fabrics recalling the tabernacle traditions of Exodus. The Chronicler's census of resident aliens (*gērîm*) totaling 153,600 workers connects this narrative to earlier Davidic preparations mentioned in 1 Chronicles 22, while raising questions about the social dynamics of conscripted labor that scholars continue to debate. The chapter thus establishes the temple project as simultaneously a fulfillment of Davidic promises, an international collaborative achievement, and a theological statement about appropriate worship of the transcendent yet accessible God of Israel."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 2: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 966 years before Christ's birth, at the threshold of Israel's golden age under Solomon's reign. The united kingdom stands at its zenith of power and peace, the promises to David still fresh, and the task of constructing the Temple about to commence. Within the grand arc of redemption, this passage sits firmly in the Kingdom epoch—that brief, glorious season when God's people dwelt securely in the land, ruled by a Davidic heir, anticipating the permanent dwelling of God among His people.",
+        "Solomon's preparation to build a house for the name of the Lord represents far more than architectural ambition. Here stands the son of David, the prince of peace whose very name means \"peaceful one,\" undertaking the supreme work his warrior-father could not complete. In this, Solomon functions as a profound type of Christ—the greater Son of David who would declare, \"Destroy this temple, and in three days I will raise it up.\" What Solomon built with cedar, gold, and the labor of thousands, Christ would build with His own body, raising an eternal dwelling not made with hands.",
+        "The correspondence with Hiram of Tyre bears eschatological weight often overlooked. Gentile hands shaping materials for God's house foreshadows the mystery Paul would later unveil—that the nations would be fellow heirs, members of the same body, built together into a dwelling place for God by the Spirit. The cedars of Lebanon, the skilled craftsmen of Phoenicia, the international commerce of precious materials—all whisper of that day when the wealth of nations would stream toward Zion and peoples from every tongue would contribute to God's eternal temple.",
+        "Solomon's stunning confession to Hiram pierces through the ages: \"The heaven and the heaven of heavens cannot contain Him. Who am I then, that I should build Him a house?\" This theological clarity guards against any notion that the Infinite could be domesticated within human structures. The Temple would be for sacrifice, for the Name, for meeting—never for containing. This truth finds its ultimate expression in the Incarnation, when the Word who fills all things tabernacled in human flesh, and now in the church, where living stones comprise the habitation of God.",
+        "For those dwelling between the advents, this chapter reminds us that we labor on a temple still under construction. Every soul added, every act of worship offered, every sacrifice of praise given builds upon the foundation of apostles and prophets, with Christ Himself as the cornerstone—until He returns to fill the completed dwelling with glory surpassing Solomon's wildest imagination."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.765749+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 1: The God Who Breaks Silence",
+      "overview": [
+        "Luke opens his gospel by inviting us into a story of divine interruption—a God who refuses to remain silent in human history, who draws near to the ordinary and overlooked with extraordinary news. In these opening verses, we witness heaven's messenger arriving in a priest's service with tidings that will reshape all of history, yet delivered first to a man whose faith has grown weary with waiting.",
+        "The beauty of Luke's prologue rests in its careful attention to detail and its honoring of those whom society easily dismisses. We meet Zechariah and Elizabeth, righteous people walking faithfully in an age when God seemed distant. We encounter Mary, a young woman of humble station in a backwater village, yet chosen to bear the Savior. These are not the powerful or celebrated; they are the waiting, the wondering, the ones whose prayers have gone unanswered long enough that they've learned to live without expectation. And yet, it is to them that God sends his angel.",
+        "This pattern speaks directly to our own spiritual condition. We live in times of uncertainty and disappointment, moments when God's presence feels less like overwhelming presence and more like patient absence. Luke reminds us that the silence of heaven does not mean the absence of heaven. The very people whose lives seemed to have reached their conclusion—Zechariah and Elizabeth past childbearing years—find themselves written into God's unfolding narrative in ways they could never have scripted.",
+        "Mary's response, too, teaches us something vital about faith. Her \"How will this be?\" is not the doubt of unbelief but the honest question of one genuinely encountering the divine. She trusts the messenger even when the message seems impossible, and her obedience costs her everything—her reputation, her certainty, her comfort.",
+        "What silent place in your own life might God be approaching with his disruptive mercy right now? Where have you learned to live without expecting his intervention?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 1: Scholarly study",
+      "overview": [
+        "The opening verses of Luke's Gospel constitute one of the most formally sophisticated prologues in the New Testament, deliberately employing the conventions of Hellenistic historiography to establish the work's credentials within educated literary circles. The author, traditionally identified as Luke the physician and companion of Paul, addresses a certain Theophilus—a name meaning \"lover of God\" or \"friend of God\"—which may designate either an actual patron of high social standing (as suggested by the honorific \"most excellent,\" κράτιστε) or serve as a literary device addressing any reader who loves God. The prologue's periodic sentence structure mirrors the prefaces of historians like Thucydides and medical writers such as Dioscorides, signaling Luke's intention to produce a work of serious historical inquiry grounded in careful investigation (ἀκριβῶς, akribōs, meaning \"accurately\" or \"with precision\").",
+        "The term παρηκολουθηκότι (parēkolouthēkoti), indicating that Luke has \"followed\" or \"investigated\" matters closely, suggests both personal involvement and diligent research among eyewitnesses and earlier written sources. Luke acknowledges predecessors who have \"undertaken to compile a narrative\" (ἀνατάξασθαι διήγησιν), likely referring to Mark's Gospel and perhaps the hypothetical Q source, while positioning his own account as offering something distinctively ordered (καθεξῆς, kathexēs) for the purpose of providing \"certainty\" (ἀσφάλειαν, asphaleian) concerning the things Theophilus has been taught.",
+        "The infancy narrative that follows interweaves the announcements and births of John the Baptist and Jesus in a carefully constructed literary parallelism, with Jesus consistently shown as superior. The angel Gabriel's annunciation to Zechariah in the temple sanctuary establishes connections with Old Testament theophany narratives, particularly recalling the announcements of Isaac's and Samson's births. The characterization of Elizabeth and Zechariah as righteous yet barren echoes the pattern of Abraham and Sarah, positioning John within prophetic succession while simultaneously subordinating him to the coming Messiah.",
+        "Mary's Magnificat, drawing heavily upon Hannah's prayer in 1 Samuel 2, articulates themes of eschatological reversal that will pervade Luke's Gospel: the proud scattered, the mighty dethroned, the hungry filled. Scholars debate whether this hymn represents pre-Lukan Jewish-Christian liturgical material or Lukan composition imitating Septuagintal style. Either interpretation underscores Luke's theological emphasis on divine favor extended to the lowly and marginalized."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 1: Prophetic perspective",
+      "overview": [
+        "Luke's opening chapter unfolds approximately four centuries after the voice of prophecy had fallen silent in Israel, when the last of the Old Testament prophets had spoken and the people of God waited in the long night between Malachi's final oracle and the dawning of messianic hope. This narrative stands at the hinge point of all redemptive history—the very threshold where promise yields to fulfillment, where the old covenant groans in expectation and the new covenant prepares to break forth like the morning sun.",
+        "Within the grand arc of God's saving work, Luke 1 occupies the sacred moment of transition between Restoration and Incarnation. The exile had ended centuries earlier, yet Israel remained under Gentile dominion, the throne of David empty, the temple rebuilt but lacking its former glory. Into this vacuum of apparent divine absence, God suddenly moves with breathtaking purpose. The angel Gabriel, who had once revealed to Daniel the timeline of seventy weeks leading to Messiah, now appears to announce that the appointed time has fully come.",
+        "The typological richness of this chapter cascades like a waterfall. Zechariah ministers in the temple as a priest of the division of Abijah, representing the entire Aaronic priesthood that had offered countless sacrifices pointing toward a greater offering. His barren wife Elizabeth echoes Sarah, Rebekah, Rachel, and Hannah—each miraculous birth in Israel's history foreshadowing this climactic moment when barrenness would yield to supernatural life. John the Baptist emerges as the new Elijah, the voice crying in the wilderness that Isaiah had prophesied, the messenger of Malachi who would prepare the way before the Lord.",
+        "Mary's Magnificat thunders with prophetic declaration, reaching back to Hannah's song while stretching forward to the eschatological reversal when the proud are scattered, the mighty brought low, and the humble exalted. Her words describe not merely what God will do but what He has already accomplished in the eternal counsels of heaven, now breaking into time.",
+        "The Benedictus of Zechariah proclaims the horn of salvation raised up in David's house—the fulfillment of covenant promises made to Abraham, the dawn from on high visiting those dwelling in darkness and death's shadow. These prophecies found their initial fulfillment in Christ's first advent, continue through the church age as the gospel reaches the nations, and await their consummation when every enemy lies beneath His feet.",
+        "For the church living between the advents, Luke 1 declares that God keeps His ancient words, that no promise falls to the ground void, and that the same faithful Lord who remembered His covenant then shall surely complete what He has begun."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.547163+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

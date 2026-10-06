@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 16: The Comforter's Promise in Sorrow",
+      "overview": [
+        "When Jesus speaks of His departure and the coming of the Spirit, He addresses the deepest loneliness the disciples will ever face—the loss of physical presence with their risen Lord. Yet in this chapter lies one of Scripture's most tender promises: that grief itself becomes the doorway to an even more intimate relationship with God.",
+        "Jesus prepares His followers for persecution and misunderstanding, yet He does not leave them orphaned. The promise of the Holy Spirit—the Paraclete, the Counselor, the One called alongside—reframes suffering not as abandonment but as the condition for transformation. When Jesus says \"it is to your advantage that I go away,\" this seems impossible to the disciples. How could His departure be better? Yet His ascension enables the Spirit's indwelling presence in every believer's heart, every place, every moment. This is not a consolation prize but a deeper union than physical proximity could ever provide.",
+        "The Spirit's work unfolds in three dimensions: He convicts the world of sin, righteousness, and judgment, reshaping how people see reality itself. He guides believers into all truth, not through remote instruction but through intimate knowing. And He glorifies Christ by taking what belongs to the Son and revealing it in our hearts. This is the Spirit's ministry—not to draw attention to Himself but to deepen our communion with Jesus.",
+        "For disciples then and now, this passage speaks to our deepest fear: that God's presence depends on our performance or understanding, that sorrow signals His distance. Instead, John reveals that the Spirit meets us precisely in our confusion and grief, teaching us what we cannot yet grasp, interceding in prayers we cannot form. Our seasons of loss become seasons of deepening trust.",
+        "What area of your life feels most uncertain right now? Might the Spirit be inviting you into a deeper trust precisely where you feel most alone?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 16: Scholarly study",
+      "overview": [
+        "The sixteenth chapter of John's Gospel continues Jesus' Farewell Discourse, delivered on the eve of his passion to prepare his disciples for his departure and the coming of the Paraclete. This extended teaching, spanning chapters 14–17, represents the Fourth Evangelist's distinctive theological reflection on Jesus' final instructions, likely composed for a late first-century community experiencing tension with synagogue authorities and grappling with the delayed parousia. The discourse setting—an intimate meal with the Twelve—creates a literary context of profound pastoral concern as Jesus addresses the fear, grief, and confusion his departure will occasion.",
+        "Central to this chapter is the term παράκλητος (*paraklētos*), appearing in verses 7–15, which defies simple translation. Variously rendered \"Advocate,\" \"Helper,\" \"Comforter,\" or simply transliterated as \"Paraclete,\" the term carries forensic connotations of legal advocacy while also suggesting consolation and teaching functions. The Spirit's threefold work of convicting the world concerning sin, righteousness, and judgment (16:8–11) presents interpretive challenges, particularly whether ἐλέγχω (*elenchō*) means \"convict,\" \"expose,\" or \"prove wrong.\" The preposition περί (*peri*, \"concerning\") rather than direct accusation suggests the Spirit's work involves revelation of truth rather than mere condemnation.",
+        "The metaphor of childbirth in verses 20–22 employs λύπη (*lypē*, \"grief\" or \"sorrow\") and χαρά (*chara*, \"joy\") to characterize the disciples' experience through passion and resurrection. This imagery echoes prophetic descriptions of eschatological tribulation, particularly Isaiah 26:17–19 and 66:7–14, situating Jesus' death and resurrection within Israel's messianic expectations. The permanent joy promised—\"no one will take your joy from you\"—transcends circumstantial happiness to describe transformed existence in relationship with the risen Christ.",
+        "The chapter concludes with Jesus' declaration of victory: \"I have overcome (νενίκηκα, *nenikēka*) the world\" (16:33). This perfect tense verb indicates completed action with continuing results, theologically asserting that the cross itself constitutes triumph rather than defeat. Johannine scholarship debates whether this confidence reflects the historical Jesus or the evangelist's post-resurrection perspective, though the two need not be mutually exclusive within John's sophisticated understanding of realized eschatology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 16: Prophetic perspective",
+      "overview": [
+        "John chapter sixteen unfolds in the upper room on the night before Calvary, mere hours before the arrest in Gethsemane. This sacred discourse takes place approximately AD 33, at the climax of the incarnation, when the eternal Word made flesh stands on the threshold between His earthly ministry and His sacrificial death. Within the grand arc of redemption, this passage occupies the hinge point of all history—the hours preceding the Cross, that central event toward which all previous covenants pointed and from which all subsequent blessings flow.",
+        "Jesus speaks here as both Prophet and the One prophesied, preparing His disciples for the seismic shift about to transform the cosmos. He foretells persecution that would begin within a generation and extend throughout the church age—believers expelled from synagogues, martyred by those convinced they serve God. This prophecy found immediate fulfillment in the stoning of Stephen, the scattering from Jerusalem, and the relentless opposition Paul faced in every city. Yet it continues fulfilling itself wherever the church bears witness in a world that has not known the Father.",
+        "The promised Paraclete emerges as the great theme woven throughout this chapter. Jesus speaks of the Holy Spirit as Advocate, Convictor, and Guide who would come precisely because the Son departs. Here stands a profound typological reversal: where once the divine presence dwelt in tabernacle and temple, now the Spirit would indwell living temples—each believer becoming a sanctuary of the Most High. The Spirit's ministry of conviction concerning sin, righteousness, and judgment represents the continuing prophetic work of Christ through His people, extending the courtroom of divine truth into every generation until the final assize.",
+        "The mysterious words about sorrow turned to joy find their first fulfillment in resurrection morning, when weeping women encountered the risen Lord. Yet this pattern of travail yielding to glory typifies the entire church age—the labor pains preceding the birth of the new creation. The little while of absence gives way to the joy no one can take away, pointing ultimately to that day when every tear shall be wiped from every eye.",
+        "For the church living between the advents, this chapter establishes the pattern of present sorrow and coming glory, of opposition overcome by the Spirit's power, of asking in Jesus' name and receiving from the Father. Christ has overcome the world—this victory, already secured at Calvary, awaits its full manifestation when the Overcomer returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.647923+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

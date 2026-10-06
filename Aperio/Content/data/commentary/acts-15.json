@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 15: The Church Learning to Make Room",
+      "overview": [
+        "The spiritual heart of Acts 15 is the church's discovery that Jesus belongs to all people, and that belonging to Jesus doesn't require abandoning one's identity. When Jerusalem's believers wrestle with whether gentiles need to become Jewish to become Christian, they're wrestling with something every generation must face: how much of our way must others adopt to truly belong?",
+        "The tension is real and understandable. Peter, James, and the Jerusalem elders had centuries of covenant practice embedded in their faith. Circumcision wasn't arbitrary—it was the sign of God's ancient promise. Yet as they listen to testimonies of gentile conversion, they encounter something that reorders their categories. The Holy Spirit had already made his decision, moving among uncircumcised believers with undeniable power. The council doesn't ignore tradition; they reinterpret it in light of what God is actually doing.",
+        "This confrontation between tradition and the Spirit's movement speaks directly to our modern churches. We too inherit practices, preferences, and unexamined assumptions about how \"real\" Christians should look, worship, and live. We may not debate circumcision, but we debate music styles, dress codes, cultural expressions, and ways of praying. Acts 15 invites us to ask: where might the Spirit be working beyond the boundaries of our comfort? Whose testimonies of transformed lives are we dismissing because they don't match our template?",
+        "The resolution James proposes isn't capitulation but wisdom—a few basic boundaries that preserve both conscience and communion. They make space for difference while maintaining unity around Christ. It's a model of how churches can hold firm conviction without hardening into exclusivity.",
+        "Where in your own heart might God be calling you to enlarge your category of who truly belongs to his kingdom? What witness of faith from someone different than you have you struggled to fully honor?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 15: Scholarly study",
+      "overview": [
+        "Acts 15 represents one of the most pivotal moments in early Christian history, recording the Jerusalem Council convened around 49–50 CE to address the contentious question of Gentile inclusion in the nascent messianic community. Luke, writing to Theophilus with evident historiographical concerns, presents this gathering as the definitive resolution to tensions that had been building since Peter's encounter with Cornelius and the establishment of the Antiochene church. The council emerges at a critical juncture when the Pauline mission had demonstrated remarkable success among non-Jews, forcing the Jerusalem leadership to adjudicate whether Gentile believers must undergo circumcision and observe Torah to participate fully in the covenant community.",
+        "The theological crux appears in the demand of certain Pharisaic believers that Gentiles must be circumcised (*peritemnein*) and keep the law of Moses. This position represented a coherent reading of Israel's scriptures, making the apostolic response all the more remarkable. Peter's speech invokes divine initiative through the verb *eklexasthai* (to choose), emphasizing that God himself selected Gentiles for inclusion, purifying their hearts through faith rather than through ceremonial observance. James's subsequent citation of Amos 9:11–12, following a Septuagintal reading that differs notably from the Masoretic text, grounds the decision in prophetic expectation of Gentile inclusion.",
+        "The fourfold decree—abstaining from food polluted by idols, from sexual immorality (*porneia*), from strangled animals, and from blood—has generated substantial scholarly debate. Some interpreters view these as minimal moral requirements; others identify them as Levitical purity laws from Leviticus 17–18 applicable to resident aliens. The decree likely functioned to facilitate table fellowship between Jewish and Gentile believers, addressing practical concerns of communal life rather than establishing salvific requirements.",
+        "Within Luke's larger narrative, Acts 15 serves as the structural center authorizing the subsequent Gentile mission. The irenic portrait Luke presents may smooth over tensions evident in Galatians 2, where Paul describes a more contentious exchange. Nevertheless, the council's essential decision—that Gentiles need not become Jews to follow the Jewish Messiah—constituted a theological watershed whose implications continue to shape Christian self-understanding regarding law, grace, and the boundaries of God's covenant people."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 15: Prophetic perspective",
+      "overview": [
+        "Acts 15 unfolds approximately two decades after the resurrection of Christ, around AD 49, during the explosive early expansion of the church into Gentile territories. This momentous gathering in Jerusalem—often called the first church council—takes place within the Church Age, that pivotal era between Pentecost and the Second Coming when the Spirit is building a new covenant community from every nation, tribe, and tongue.",
+        "Here the ancient promises to Abraham reach a critical juncture. God had declared to the patriarch that through his seed all nations would be blessed, and now that blessing was flooding outward through the preaching of Paul and Barnabas. Yet a crisis emerged: must Gentiles become Jews to become Christians? Must they bear the yoke of Moses to receive the grace of Messiah? The Jerusalem Council answered with thunderous clarity—salvation comes through the grace of the Lord Jesus alone, not through circumcision or ceremonial law.",
+        "This decision reveals the eschatological nature of the present age. James, quoting Amos 9, declares that God is rebuilding David's fallen tent so that the remnant of humanity might seek the Lord. What appeared as a practical dispute about Gentile inclusion was actually the prophetic fulfillment of Israel's restoration promises—but in an unexpected form. The true tabernacle of David is Christ Himself, and His kingdom encompasses Jew and Gentile united in one body. The wall of partition prophesied in Ezekiel's temple vision finds its antitype not in physical architecture but in the demolition of hostility through the cross.",
+        "Peter's testimony forms the theological center: God gave the Holy Spirit to Gentiles just as to Jewish believers, making no distinction, cleansing their hearts by faith. Here is the fulfillment of Joel's prophecy that the Spirit would be poured out on all flesh. Here is the realization of Jeremiah's new covenant promise—law written on hearts rather than tablets of stone.",
+        "The apostolic decree—abstaining from idolatry, sexual immorality, and blood—represents not salvific requirements but wisdom for fellowship between communities with vastly different backgrounds, echoing the Noahic covenant's universal moral foundations while setting aside Moses' ceremonial particulars.",
+        "For the church living between the advents, Acts 15 stands as perpetual testimony that we are saved by grace through faith, that the Spirit creates unity across ethnic boundaries, and that the Gentile mission is not an afterthought but the fulfillment of God's eternal purpose to gather one people for His Son from every corner of creation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.698093+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 147,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 147 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 147: The God Who Heals and Sustains",
+      "overview": [
+        "The heart of this psalm beats with wonder at a God who is both transcendently powerful and tenderly attentive to human brokenness. Here we encounter the paradox that defines authentic faith—the Almighty who counts the stars also binds up the brokenhearted.",
+        "The psalmist invites us into praise by calling attention to what God does. He rebuilds Jerusalem's walls, gathers the scattered exiles, heals the wounded and brokenhearted. This is not praise of God's distant majesty alone, but gratitude for his intimate involvement in restoration. The God who spoke the cosmos into existence bends low to notice our fractured places. This rhythm—from cosmic power to personal healing—reminds us that nothing falls outside God's care. The wounds we carry, the scattered pieces of our lives, the rebuilding we desperately need—all of this captures God's attention and energizes his action.",
+        "The middle sections celebrate God's providential governance over nature itself. He determines the snow and ice, commands the wind, provides fodder for the animals. This isn't abstract theology but an invitation to notice God's fingerprints on daily provision. When we see our needs met, when winter's harsh season eventually passes, when unexpected blessing appears—we are witnessing the sustained attention of One who knows our frame and cares for our continuance.",
+        "What makes this psalm dangerous to nominal faith is its refusal to separate worship from wholeness. The psalmist doesn't praise God's power while ignoring suffering, nor does he fixate on suffering while forgetting God's dominion. Instead, he holds both truths simultaneously: the God of infinite reach is also the God of infinite tenderness.",
+        "The final invitation calls us to sing to the Lord with thanksgiving, to make music that acknowledges both his greatness and his goodness. This is the posture that transforms broken things into offerings.",
+        "What area of your life needs rebuilding today, and how might you practice trusting the God who specializes in restoration?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 147: Scholarly study",
+      "overview": [
+        "Psalm 147 stands as a magnificent hymn of praise that scholars widely date to the post-exilic period, evidenced by its explicit reference to the rebuilding of Jerusalem and the gathering of dispersed Israelites. The psalm appears as a unified composition in the Masoretic Text, though the Septuagint divides it into two separate psalms (146 and 147), suggesting early uncertainty about its compositional boundaries. This liturgical piece likely functioned within Second Temple worship, celebrating Yahweh's restoration of the covenant community following the Babylonian exile.",
+        "The Hebrew term *halleluyah* frames the psalm, establishing its doxological character from the outset. Particularly striking is the verb *boneh* (building) in verse 2, presenting God as the active architect of Jerusalem's restoration—a theological affirmation that the city's reconstruction under Nehemiah represented divine rather than merely human achievement. The pastoral imagery of verse 3, where God binds up the wounds (*'atstsevotam*) of the brokenhearted, employs medical terminology that portrays Yahweh as the physician of a traumatized people, addressing both physical displacement and spiritual devastation.",
+        "The psalm's structure moves through three interconnected movements: cosmic praise emphasizing God's sovereign knowledge of the stars (verses 1-6), providential care for creation including both animals and humanity (verses 7-11), and particular blessing upon Zion (verses 12-20). This progression from universal to particular reflects a characteristic pattern in Israelite theology wherein Yahweh's cosmic lordship grounds his covenantal faithfulness to Israel.",
+        "The climactic declaration that God has not dealt thus with any other nation (verse 20) raises interpretive questions about theological exclusivism. Some scholars read this as triumphalistic nationalism, while others understand it as genuine thanksgiving for Torah revelation—the *mishpatim* (ordinances) mentioned here signifying Israel's unique vocation rather than divine favoritism. The juxtaposition of God's power over weather phenomena—snow like wool, frost like ashes, hail like morsels—with his tender care for Jerusalem creates a theological tension that the psalmist resolves through covenant: the same God who commands cosmic forces speaks intimate words (*devarav*) to his people."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 147: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the post-exilic period, likely composed after 538 BC when the Persian king Cyrus permitted the Jewish remnant to return from Babylonian captivity and rebuild Jerusalem's walls. The specific reference to God gathering \"the outcasts of Israel\" and rebuilding Jerusalem places this hymn in the era of restoration under Zerubbabel, Ezra, and Nehemiah—approximately five centuries before Christ's incarnation. Within redemptive history, Psalm 147 stands at the threshold of the Restoration period, that bittersweet season when Israel had returned to the land yet remained under Gentile dominion, awaiting the promised Messiah who would bring full and final deliverance.",
+        "The psalm unveils God as the covenant-keeping Redeemer who heals the brokenhearted and binds up their wounds. Here the prophetic eye glimpses the ministry of Christ Himself, who would stand in the synagogue at Nazareth and declare Isaiah's prophecy fulfilled: He had come to heal the brokenhearted and proclaim liberty to captives. The physical restoration of Jerusalem's walls typologically shadows the greater rebuilding—Christ constructing His church, a spiritual temple composed of living stones gathered from every nation. Where Nehemiah labored with mortar and stone, Christ builds with redeemed souls, and the gates of hell shall not prevail against His construction.",
+        "The psalmist's vision ascends from earthly Jerusalem to cosmic sovereignty, declaring that God counts the stars and calls them each by name. This same God who orchestrates galaxies stoops to lift the humble and cast down the wicked. Such divine condescension reaches its apex in the incarnation, when the One who determines the number of stars was wrapped in swaddling clothes in Bethlehem. The theological tension—infinite power wedded to intimate care—finds resolution only at the manger and the cross.",
+        "Psalm 147 closes with Israel's unique privilege: God declared His word to Jacob, His statutes and ordinances to Israel as He had done to no other nation. Yet this exclusivity contained within it the seed of universal blessing. Through Israel's scriptures, through Israel's Messiah, the word of the Lord has now gone forth to all peoples. The church lives as heir to this declared word, possessing not merely statutes written on stone but the living Word inscribed on hearts by the Spirit.",
+        "Between the advents, the church sings this psalm as those whose broken hearts have found healing, whose scattered lives have been gathered into one body, and whose hope remains fixed on that final restoration when the heavenly Jerusalem descends and God makes all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_147",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.553141+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Ezekiel",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 22: The Refiner's Fire",
+      "overview": [
+        "God's heart in Ezekiel 22 is to expose what is hidden in the hearts of His people so that He might purify them—and when they refuse purification, He must execute justice. This chapter presents Jerusalem as a crucible where the true composition of God's people is revealed: mixed metal, impurity upon impurity, corruption flowing through every level of society.",
+        "What strikes us most is how thoroughly God catalogs the sins of Jerusalem. The prophet lists bloodshed, idolatry, sexual immorality, economic exploitation, and abuse of power among rulers, priests, and prophets alike. No group escapes indictment. Yet notice that God's anger is not arbitrary cruelty; it is the necessary response of a holy God to a people who have systematically betrayed their covenant and harmed one another. The leaders were supposed to stand in the gap (verse 30), but instead they had deepened the corruption, using their authority to exploit the vulnerable.",
+        "The refiner's fire metaphor is key. Just as a metalworker must heat precious metal to extreme temperatures to burn away dross, God uses exile and judgment as purification. This is not pleasant, but it is purposeful. The heat serves a goal beyond itself: a people restored to their original design, useful and beautiful again.",
+        "This passage confronts us with an uncomfortable reality: the people closest to God, the community bearing His name, are just as capable of deep corruption as anyone else. We cannot assume our church background, our religious knowledge, or our position of leadership makes us immune to the patterns of injustice, greed, and self-deception that Ezekiel condemns. The gap-standers he mentions—those willing to intercede and call their communities toward repentance—remain desperately needed today.",
+        "Where do you see yourself in this passage—among the exploiters or among those willing to stand in the gap? What impurities might God be calling you to acknowledge?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 22: Scholarly study",
+      "overview": [
+        "Ezekiel 22 constitutes a comprehensive prophetic indictment against Jerusalem, structured as three distinct oracles (vv. 1–16, 17–22, 23–31) unified by the theme of comprehensive moral corruption necessitating divine judgment. Composed during the exilic period, likely between 593–586 BCE, this chapter represents Ezekiel's prosecutorial rhetoric at its most intense, employing the covenant lawsuit genre to demonstrate the totality of Judah's covenantal violations.",
+        "The opening oracle designates Jerusalem as \"the city of bloodshed\" (*ʿîr haddāmîm*), a phrase emphasizing both literal violence and cultic defilement through blood guilt. The catalog of sins in verses 6–12 systematically addresses violations spanning the Decalogue and Holiness Code, including dishonoring parents, oppressing the vulnerable, profaning the Sabbath, sexual transgressions, and economic exploitation through usury (*nešek*) and extortion (*tarbît*). This comprehensive enumeration demonstrates that corruption has permeated every social stratum, from princes to priests to common citizens.",
+        "The metallurgical imagery of the second oracle (vv. 17–22) employs the term *sîg* (dross) to characterize the entire nation as worthless residue from the smelting process. Significantly, this reverses the conventional prophetic use of refining imagery, which typically envisions purification of a remnant; here, the entire populace constitutes dross destined for the furnace of divine wrath. The gathering into Jerusalem's \"midst\" (*tôk*) anticipates the siege conditions that would concentrate the population for judgment.",
+        "The third oracle's systematic indictment of social classes—prophets, priests, officials, and landowners—reveals institutional failure at every level. The poignant conclusion in verse 30, where Yahweh seeks one to \"stand in the breach\" (*ʿōmēd bapereṣ*) and finds none, echoes intercessory traditions associated with Moses and Abraham while declaring the exhaustion of mediatorial possibilities. The phrase *gādar gādēr*, \"build up a wall,\" employs cognate accusative construction emphasizing the completeness of the needed but absent repair.",
+        "Interpretive debates center on whether this chapter reflects actual historical conditions or employs hyperbolic prophetic rhetoric. The canonical placement between chapters addressing Oholah and Oholibah reinforces the theological argument that Jerusalem's fate parallels and even exceeds Samaria's earlier judgment, establishing grounds for the exile's theological legitimacy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 22: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter twenty-two thunders forth from approximately 593 to 571 BC, during the agonizing final years before Jerusalem's destruction in 586 BC. The prophet speaks from Babylonian exile, where he had been carried in the second deportation of 597 BC, and his words arrive as a divine indictment against a city racing toward judgment. This passage stands within the Exile phase of redemptive history, that dreadful season when God's patience with covenant-breaking Israel reached its appointed limit, and the visible tokens of His presence—temple, throne, and holy city—were about to be swept away in devastating fulfillment of the curses Moses had pronounced centuries before.",
+        "The chapter unfolds as a courtroom prosecution in three movements. First, the Lord commands Ezekiel to \"judge the bloody city\" and catalog her abominations: idolatry, bloodshed, oppression of the foreigner, abuse of parents, violation of the Sabbath, and unspeakable sexual perversions. Jerusalem, meant to be the dwelling place of the Holy One, had become indistinguishable from Sodom. Second, the city appears as a smelting furnace where base metals—silver mixed with dross—await the consuming fire of divine wrath. This metallurgical imagery reveals that judgment is not arbitrary destruction but purposeful refinement, though tragically this generation had become all dross with no silver worth preserving. Third, the indictment broadens to encompass every stratum of society: princes who devour souls, priests who profane holy things, prophets who whitewash wickedness with false visions, nobles who shed blood for gain, and common people who practice extortion.",
+        "The chapter's most haunting verse pierces through time: \"I sought for a man among them who would make up the wall and stand in the gap before Me on behalf of the land, that I should not destroy it; but I found no one.\" Here the typological shadow lengthens toward Calvary. Where no mere mortal could be found, Christ Himself would become the ultimate gap-stander, the true Intercessor who placed His body in the breach between holy wrath and guilty humanity.",
+        "The prophecy of Jerusalem's furnace-judgment was fulfilled literally when Nebuchadnezzar's armies breached the walls in 586 BC. Yet the pattern recurs: every generation that abandons covenant faithfulness invites similar refinement. For the church dwelling between Christ's advents, this chapter sounds an urgent call to genuine holiness, warns against the corruption of spiritual leadership, and magnifies the preciousness of Christ—the One who stood in the gap that no other could fill, bearing in Himself the fire we deserved."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.139118+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

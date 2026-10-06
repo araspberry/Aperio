@@ -1,0 +1,56 @@
+{
+  "book": "Job",
+  "chapter": 28,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 28 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 28: The Hidden Wisdom",
+      "overview": [
+        "In the midst of his profound suffering, Job pauses to contemplate something that transcends his pain: the nature of true wisdom and where it is ultimately found. This chapter cuts through the noise of theological debate with a haunting reality—that human ingenuity can accomplish remarkable things, yet the deepest treasure of all remains beyond our reach.",
+        "Job observes that men extract riches from the earth with great skill and determination. They tunnel through mountains, redirect rivers, and uncover hidden treasures. Yet with all this capacity to find precious metals and gemstones, humanity stumbles when seeking wisdom itself. The implicit question becomes searching: Why can we find what glitters in stone but not what illuminates the soul?",
+        "The answer Job arrives at cuts to the heart of discipleship. Wisdom is not discovered through human effort alone or intellectual prowess, but through relationship with God. \"The fear of the Lord—that is wisdom,\" he declares, \"and to shun evil is understanding.\" This fear is not terror but reverent awe, a recognition that God alone holds the blueprints of creation and the answers to life's deepest questions.",
+        "This wisdom remains hidden from human sight, unknown to the birds of the air, beyond the reach of pride. Job acknowledges what his suffering has taught him: some answers cannot be mined or manufactured. They come only through humility and submission to God's authority.",
+        "For those walking through confusion or loss, this passage offers both comfort and reorientation. We need not have all answers figured out. The wisest posture is not striving to solve every mystery but rather to orient ourselves toward God with reverent trust. Our small understanding is not a failure—it is precisely where faith begins.",
+        "What area of your life are you trying to \"mine\" for answers when perhaps what you need is to bow before God's wisdom instead?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 28: Scholarly study",
+      "overview": [
+        "Job 28 stands as one of the most remarkable poems in the Hebrew Bible, a sophisticated wisdom hymn that many scholars identify as an interlude or independent composition inserted between Job's dialogues with his friends and his final defense. The chapter's literary polish, consistent tone, and thematic distinctiveness have prompted considerable debate regarding its original authorship and placement, though its canonical position serves a crucial theological function by reframing the entire dispute about innocent suffering within the larger question of cosmic wisdom.",
+        "The poem opens with an extended meditation on human technological achievement, specifically the mining operations that extract precious metals and gems from the earth's depths. The Hebrew term *ḥāqar* (to search out, explore) captures humanity's relentless investigation of the physical world, penetrating places where no falcon's eye has seen and no lion has trodden. This celebration of human ingenuity, however, serves a contrastive purpose: while mortals can discover silver, gold, and sapphires through extraordinary effort, wisdom (*ḥokmâ*) remains inaccessible through such methods. The repeated refrain \"where shall wisdom be found?\" (*wĕhaḥokmâ mēʾayin timmāṣēʾ*) in verses 12 and 20 structures the poem and intensifies its central paradox.",
+        "The personification of cosmic elements—the deep (*tĕhôm*) and the sea (*yām*) declaring that wisdom is not with them, and Abaddon and Death claiming only to have heard rumors of it—employs ancient Near Eastern mythological imagery while subordinating these forces to Yahweh's sovereignty. The term *bînâ* (understanding), appearing alongside *ḥokmâ*, emphasizes not merely intellectual knowledge but discernment of the moral order underlying creation.",
+        "The poem's climactic declaration that God alone comprehends wisdom's way, having established it when ordering creation, anticipates the divine speeches in chapters 38–41. The concluding verse—\"the fear of the Lord, that is wisdom\"—has generated interpretive controversy, with some viewing it as a later orthodox addition that domesticates the poem's more radical agnosticism. Yet this conclusion may represent the author's acknowledgment that human access to transcendent wisdom comes not through discovery but through relationship, positioning reverent trust rather than intellectual mastery as humanity's appropriate epistemological posture before the divine mystery."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 28: Prophetic perspective",
+      "overview": [
+        "Job 28 emerges from the ancient patriarchal era, likely placing it among the oldest writings in Scripture, possibly contemporary with or even predating Abraham around 2000 BC. This wisdom poem stands at a pivot point in Job's speeches, following his anguished dialogues with his friends and preceding his final defense before God speaks from the whirlwind. Within redemptive history, this chapter belongs to the primeval and patriarchal period, after the Fall's devastation of human knowledge and before the covenantal structures of law and prophecy that would progressively unveil divine wisdom through Israel's history.",
+        "The passage presents a magnificent contrast between human technological achievement and the inaccessibility of transcendent wisdom. Job describes miners descending into earth's depths, extracting silver, gold, iron, and copper with astonishing skill, yet this same humanity that conquers the subterranean darkness cannot purchase or discover wisdom by any natural means. Here stands a type of humanity's perpetual condition after Eden: capable of mastering creation's material elements while remaining utterly impoverished regarding the knowledge that leads to life. The mines of Ophir yield their treasures, but wisdom's dwelling place remains hidden from the eyes of all living.",
+        "The refrain \"where shall wisdom be found?\" echoes through this chapter as a prophetic cry that reverberates across the centuries until its answer arrives in Bethlehem. When Job declares that wisdom is hidden from the eyes of all living and concealed from the birds of the air, he unknowingly prophesies the mystery Paul would later proclaim: Christ, in whom are hidden all the treasures of wisdom and knowledge. The wisdom that no creature could discover had to be revealed through incarnation.",
+        "God alone understands wisdom's way and knows its place, for He established it when He weighed the wind, measured the waters, and decreed laws for rain and thunderstorm. This divine wisdom, present at creation, prefigures the Logos of John's prologue—the Word who was with God and through whom all things were made. The closing declaration that \"the fear of the Lord, that is wisdom\" points forward to the full revelation in Christ, where holy reverence meets saving knowledge.",
+        "For the church awaiting Christ's return, Job 28 reminds us that all human searching—philosophical, scientific, technological—cannot ultimately satisfy the soul's hunger for wisdom. True wisdom remains gift, not achievement; revelation, not discovery. We who possess Christ possess wisdom itself, yet we await the day when we shall know fully, even as we are fully known."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_028",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.040788+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

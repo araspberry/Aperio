@@ -1,0 +1,56 @@
+{
+  "book": "Numbers",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 20: When Faithfulness Falters",
+      "overview": [
+        "The spiritual heart of this passage is the tragic reality that even the greatest leaders can stumble when they respond to pressure with impatience rather than trust. Moses and Aaron's failure to honor God's instruction at Meribah reveals how easily circumstances can erode our faith, regardless of our history with God.",
+        "The scene is heartbreaking in its familiarity. Israel once again complains about water—the very issue God miraculously provided at the beginning of their wilderness journey. By now, the people should have learned to trust. And Moses, after four decades of God's faithful provision, should have known better. Yet when facing the congregation's anger, Moses acts in exasperation. He strikes the rock twice instead of speaking to it as God commanded. The consequence is severe: neither he nor Aaron will enter the promised land.",
+        "This isn't arbitrary punishment. God's instruction demanded that Moses trust Him publicly and visibly. The rock-striking represented God's judgment and power; speaking to it would have demonstrated Moses' faith and God's grace. By striking it, Moses suggested God's power needed human force to work. He let the people's murmuring override God's clear direction.",
+        "What makes this passage so painfully instructive is its ordinariness. We recognize ourselves here—the parent who snaps at their child when exhausted, the leader who takes shortcuts when pressure mounts, the believer whose faith erodes under repeated difficulty. The wilderness doesn't break our faith in one dramatic moment; it does so gradually, through small surrenders to fear and frustration.",
+        "Yet God's mercy is evident even in judgment. The water still flows. The people are still sustained. And God honors Moses' decades of faithful service even while marking this failure. He is neither indulgent nor merciless.",
+        "What areas of your life reveal hidden impatience with God's methods? Where might you be tempted to act from frustration rather than faith?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 20: Scholarly study",
+      "overview": [
+        "Numbers 20 represents a pivotal transitional chapter in Israel's wilderness narrative, marking both temporal and generational shifts as the community moves from the first generation's wandering to preparation for conquest. The chapter opens with the notation that the congregation arrived at the wilderness of Zin \"in the first month,\" though the year remains unspecified—a textual ambiguity that has generated considerable scholarly discussion. Most interpreters understand this as the fortieth year, meaning nearly four decades have elapsed since the previous chapter's events, during which the condemned generation has been dying in the desert. The death of Miriam, recorded tersely in verse 1, signals that the old guard is passing; by chapter's end, Aaron too will be gathered to his people.",
+        "The water crisis at Meribah (from the Hebrew *rîb*, meaning \"strife\" or \"contention\") presents exegetical difficulties that have occupied commentators for millennia. God instructs Moses to \"speak to the rock\" (*sela'*), yet Moses strikes it twice with his staff. The precise nature of Moses' sin—whether disobedience, anger, lack of faith, or failure to sanctify God before the people—remains contested. The divine verdict employs the term *he'ĕmantem* (\"you did not believe/trust\"), suggesting a fundamental failure of faith rather than mere procedural error. Some scholars argue Moses' actions implied the water came through his own power rather than God's word alone, thereby failing to \"treat as holy\" (*qādaš*) the divine name before Israel.",
+        "The Edomite refusal to grant passage carries profound ironic weight, as Edom descends from Esau, Jacob's brother. Israel's self-identification as \"your brother\" (*'āḥîkā*) and the recounting of Egyptian suffering appeals to kinship obligations that Edom summarily rejects. This episode foreshadows the enduring enmity between these peoples throughout biblical history.",
+        "Aaron's death on Mount Hor, with the careful transfer of priestly garments to Eleazar, demonstrates the institutionalization of Israelite worship. The thirty-day mourning period indicates Aaron's significance while the seamless succession ensures cultic continuity. The chapter thus orchestrates multiple endings and beginnings, preparing readers for the new generation's imminent entry into Canaan."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 20: Prophetic perspective",
+      "overview": [
+        "Numbers 20 unfolds approximately 1,400 years before the birth of Christ, near the close of Israel's forty years of wilderness wandering. The generation that rebelled at Kadesh has now perished, and a new generation stands poised to inherit the promises. This chapter marks a pivotal transition in redemptive history—situated after the Exodus deliverance and before the conquest of Canaan—as God prepares His covenant people to enter the land promised to Abraham centuries earlier.",
+        "The death of Miriam opens this solemn chapter, and the death of Aaron closes it, signaling the passing of the old guard. Between these two deaths stands one of Scripture's most tragic moments: Moses striking the rock in anger rather than speaking to it as commanded. Here the typological significance is profound and deliberately patterned by divine wisdom. At Horeb, in Exodus 17, Moses was commanded to strike the rock, and water flowed forth—a picture of Christ smitten once for sin, His side pierced that living water might flow to dying souls. But at Meribah, God commanded Moses only to speak to the rock. The rock need not be struck twice; Christ's sacrifice is unrepeatable, finished, and complete. Moses' transgression was not merely impatience but a disruption of sacred typology, a marring of the gospel portrait God was painting across Israel's history.",
+        "The water that gushed forth despite Moses' disobedience reveals both divine judgment and divine mercy dwelling together. God would discipline His servant, barring him from Canaan, yet He would not withhold provision from His thirsty people. The apostle Paul later unveils the mystery: \"That rock was Christ.\" Every wilderness provision pointed forward to the One who would declare, \"If anyone thirsts, let him come to Me and drink.\"",
+        "Aaron's death on Mount Hor, with his priestly garments transferred to Eleazar, demonstrates the inadequacy of the Levitical priesthood. Aaron could not complete the journey; his priesthood was provisional, pointing to a greater High Priest who would pass through death and emerge victorious, leading His people not merely to an earthly inheritance but to the heavenly country.",
+        "For the church dwelling between Christ's two advents, Numbers 20 speaks with urgent clarity. The rock has been struck once for all at Calvary; we need only speak to Him in faith. Our wilderness journey, though marked by failure and loss, remains saturated with grace sufficient for each day until we reach our eternal rest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.054687+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

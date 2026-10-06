@@ -1,0 +1,142 @@
+{
+  "book": "Ezra",
+  "bookIndex": 14,
+  "status": "Editorial draft",
+  "title": "Coming Home Is a Beginning",
+  "subtitle": "The return from exile, the rebuilding of worship, and the difficult work of communal identity",
+  "atAGlance": {
+    "genre": "Restoration narrative, official correspondence, lists, and first-person memoir material",
+    "setting": "Judah under Persian rule after the Babylonian exile",
+    "composition": "An anonymous compilation of return traditions, documents, and Ezra material; its relationship to Nehemiah is close",
+    "audience": "A community rebuilding its worship and identity while living within an empire"
+  },
+  "sections": [
+    {
+      "title": "An opened door and a costly journey",
+      "paragraphs": [
+        "Ezra begins with a proclamation by Cyrus and people preparing to return to Jerusalem. The restoration is initiated through an imperial decision, yet the narrator sees God stirring both the king and those who make the journey. Political circumstances and divine purpose are held together. The return requires actual movement, resources, and a willingness to rebuild where earlier generations experienced destruction.",
+        "The list of returnees gives households and groups a place in the story. Priests, Levites, singers, gatekeepers, and temple servants appear beside other families. Their names insist that restoration is carried by a community, not simply by its most visible leaders. Questions of ancestry and recognized service also reveal how important continuity has become after displacement."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Joy and grief at the same foundation",
+      "paragraphs": [
+        "The altar is restored before the temple is complete. Worship begins amid exposure and fear, rather than waiting for every condition to become secure. When the temple’s foundation is laid, some celebrate and others weep because they remember what stood there before. Ezra allows those sounds to mingle. A genuine new beginning can awaken grief as well as gratitude.",
+        "Opposition then slows the work. Letters and royal decisions occupy considerable space because the community’s future is entangled with the administration of an empire. Chapter 4 includes later examples of opposition before returning to the earlier temple story. Reading those documents as an uninterrupted chronological sequence would make the narrative confusing. The arrangement gathers evidence of a recurring problem."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Prophetic encouragement and a finished temple",
+      "paragraphs": [
+        "Haggai and Zechariah encourage the builders, and the account of renewed work combines prophetic speech with practical effort and official inquiry. The temple is eventually completed during Darius’s reign. Dedication and Passover place the achievement within the larger memory of Israel’s relationship with God. The building is important because it supports a recovered communal life.",
+        "Yet the conclusion of chapter 6 is not the conclusion of restoration. The next movement introduces Ezra, a priest and scribe devoted to studying, practicing, and teaching the Torah. The transition shifts attention from a place of worship to the formation of the people who will worship there. A repaired structure cannot by itself repair a community’s habits."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Ezra’s mission and the painful final chapters",
+      "paragraphs": [
+        "Ezra’s journey includes careful handling of entrusted gifts and a concern for dependence on God. When he arrives, the question of marriages across the community’s boundaries brings grief, confession, and a severe response. The narrator frames the issue through covenant identity and fear of repeating earlier unfaithfulness. The consequences for women and children must remain visible when the passage is read.",
+        "These chapters require more than a quick modern analogy. They belong to a vulnerable postexilic community’s particular struggle over belonging and faithfulness. They should not be converted into a general prohibition of interracial marriage. Read them alongside the book’s stated concerns and the wider scriptural witness, including passages where foreigners are welcomed into Israel’s story. The final list leaves the resolution with a human weight that easy summaries can miss."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Dates, documents, and an unfinished renewal",
+      "paragraphs": [
+        "The first return and temple rebuilding belong to the late sixth century BC. Ezra’s mission is commonly placed in the fifth century under Artaxerxes I, though the chronology and relationship between Ezra and Nehemiah remain debated. The books were transmitted together, and their present arrangement includes material from different moments. The date of a narrated event should not be mistaken for the date when the whole work was compiled.",
+        "Read Ezra as a story of recovery that asks increasingly demanding questions. What must be rebuilt? What must be taught? How does a community preserve a received identity while living under foreign power? Its hopeful opening and difficult ending belong together. Restoration makes new life possible, but it also exposes decisions that cannot be settled by enthusiasm alone."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The first return",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "Cyrus’s proclamation and the returnee lists establish a community preparing to rebuild."
+    },
+    {
+      "label": "Worship, opposition, and the completed temple",
+      "startChapter": 3,
+      "endChapter": 6,
+      "description": "The altar and temple are restored amid grief, resistance, prophetic encouragement, and imperial decisions."
+    },
+    {
+      "label": "Ezra’s arrival and commission",
+      "startChapter": 7,
+      "endChapter": 8,
+      "description": "A teacher of the Torah leads a further journey and brings entrusted resources to Jerusalem."
+    },
+    {
+      "label": "A crisis of covenant identity",
+      "startChapter": 9,
+      "endChapter": 10,
+      "description": "Confession and the response to intermarriage reveal the painful stakes of communal boundaries."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Restoration",
+      "description": "Return requires people, resources, worship, and teaching as well as a changed political situation."
+    },
+    {
+      "name": "Mixed memory",
+      "description": "New beginnings can hold gratitude and mourning in the same gathering."
+    },
+    {
+      "name": "Community and identity",
+      "description": "The recovered people wrestle with difficult questions about belonging and covenant faithfulness."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "Late sixth–fifth centuries BC",
+    "context": "The return and temple rebuilding precede Ezra’s later mission.",
+    "note": "Ezra’s precise chronology is debated, and chapter 4 groups opposition from different reigns."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 6,
+      "era": "return",
+      "label": "Return and temple rebuilding",
+      "dateLabel": "Late sixth century BC, with later material in chapter 4",
+      "note": "The account pauses for later examples of opposition before returning to the reign of Darius."
+    },
+    {
+      "start": 7,
+      "end": 10,
+      "era": "return",
+      "label": "Ezra’s mission",
+      "dateLabel": "Commonly placed in the fifth century BC",
+      "note": "Identification of the relevant Artaxerxes and the sequence with Nehemiah remain debated."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Ezra · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Ezra",
+      "url": "https://bible.usccb.org/bible/ezra/0?bk=Ezra&ch="
+    }
+  ]
+}

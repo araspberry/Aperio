@@ -1,0 +1,141 @@
+{
+  "book": "Romans",
+  "bookIndex": 44,
+  "status": "Editorial draft",
+  "title": "Romans: Mercy Creates One People",
+  "subtitle": "Paul explains the gospel that brings Jews and Gentiles into a shared life of faith, hope, and love.",
+  "atAGlance": {
+    "genre": "Apostolic letter with sustained theological argument",
+    "setting": "Christian communities in Rome, addressed as Paul prepares for Jerusalem and hopes to travel west to Spain.",
+    "composition": "Pauline authorship is widely accepted; written in the mid-to-late AD 50s, probably from Corinth.",
+    "audience": "Believers in Rome, including people with Jewish and Gentile backgrounds."
+  },
+  "sections": [
+    {
+      "title": "A letter with a journey behind it",
+      "paragraphs": [
+        "Romans is a substantial explanation of the gospel, written for people Paul hopes to meet. He wants mutual encouragement and support for a mission farther west. Before that journey, he intends to carry a contribution to Jerusalem. Those plans matter because the letter’s theology concerns the shared life of Jews and Gentiles within the mercy of God.",
+        "Paul opens by describing his calling and the good news concerning God’s Son. He soon declares the gospel to be God’s power for salvation. What follows explores the need for that salvation, its source in Christ, and the community it creates. The argument is demanding, yet its purpose remains pastoral. Paul wants people who differ in background and practice to recognize the grace that has brought them together."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Paul, Rome, and the letter’s occasion",
+      "paragraphs": [
+        "Romans identifies Paul as its sender, and his authorship is broadly accepted. The letter is usually dated to the mid-to-late AD 50s and associated with a stay in Corinth. Tertius identifies himself as the person who wrote down the letter, reminding us that ancient authors could work through a secretary. Phoebe is commended to the Roman believers and is commonly understood to have carried it.",
+        "Paul had not yet visited Rome when he wrote. His greetings nevertheless reveal a substantial network of acquaintances and coworkers, including women whose service he values. The audience contained differing histories and convictions. The later discussion of foods and days shows that common faith did not erase those differences. Romans addresses the theological foundations of belonging alongside the habits required for fellowship to remain generous."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "From human need to life in the Spirit",
+      "paragraphs": [
+        "Chapters 1–3 bring human wrongdoing under searching examination. Paul’s argument turns toward those tempted to judge others, removing any comfortable position of superiority. God’s faithfulness and the work of Christ then become the ground of hope. Abraham’s story contributes to the argument about faith, promise, and the place of Gentiles within God’s family.",
+        "Chapters 5–8 widen the view through Adam and Christ, baptism, freedom from sin’s mastery, the struggle involving law and desire, and life in the Spirit. The vocabulary is rich: justification concerns being set right before God; grace names His undeserved generosity; redemption speaks of release. These images illuminate one another. Follow Paul’s argument across paragraphs instead of expecting a single English term to carry the entire meaning of salvation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Israel remains within the argument",
+      "paragraphs": [
+        "Chapters 9–11 address Paul’s grief and hope concerning Israel. They are integral to his account of God’s faithfulness. If God has made promises, the question of those promises cannot be left behind when the mission reaches Gentiles. Paul draws on Scripture, wrestles with unbelief and mercy, and warns Gentile believers against arrogance.",
+        "The olive-tree image makes dependence visible. Gentiles share in a life whose roots they did not create. Interpretations of these chapters differ on important questions, but Paul’s warning against boasting is direct. The section ends in worship before the depth of God’s wisdom. Read its difficult claims alongside its grief, its insistence on mercy, and its refusal to make Gentile privilege the final word."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Mercy takes social form",
+      "paragraphs": [
+        "Chapter 12 turns toward embodied worship: renewed thinking, varied gifts, sincere love, patient endurance, hospitality, and a refusal to repay evil with evil. The discussion of governing authorities in chapter 13 belongs within that larger call to honorable conduct and love of neighbor. It should be considered within the letter’s full moral vision rather than detached as an unlimited approval of whatever a government does.",
+        "Chapters 14–15 bring the argument to disagreements about practices. Paul asks the strong to bear with others and each person to pursue what builds up the community. Freedom has a neighbor. The letter concludes with travel plans, commendations, greetings, and warnings, returning its great theological argument to actual relationships.",
+        "A fruitful first reading follows the movement from mercy received to mercy practiced. Mark repeated connections—faith, promise, righteousness, Spirit, Israel, love—and allow each to develop. Romans invites deep thought, but its desired outcome includes a table where people can welcome one another because Christ has welcomed them."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The gospel and the need for mercy",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Paul’s mission, human sin, and God’s saving righteousness."
+    },
+    {
+      "label": "Promise, grace, and renewed life",
+      "startChapter": 4,
+      "endChapter": 8,
+      "description": "Abraham, Christ, baptism, struggle, and the Spirit."
+    },
+    {
+      "label": "Israel and God’s faithfulness",
+      "startChapter": 9,
+      "endChapter": 11,
+      "description": "Grief, election, Gentile humility, and hope in mercy."
+    },
+    {
+      "label": "A community shaped by mercy",
+      "startChapter": 12,
+      "endChapter": 15,
+      "description": "Worship, love, public conduct, mutual welcome, and mission."
+    },
+    {
+      "label": "The people within the mission",
+      "startChapter": 16,
+      "endChapter": 16,
+      "description": "Commendations, greetings, warnings, and praise."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "God’s righteousness",
+      "description": "God acts faithfully and graciously to set people right through Christ."
+    },
+    {
+      "name": "Jew and Gentile together",
+      "description": "Shared mercy challenges superiority and creates mutual responsibility."
+    },
+    {
+      "name": "Life in the Spirit",
+      "description": "Hope and obedience grow within the life God gives."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Mid-to-late AD 50s",
+    "context": "The letter addresses churches in Rome during Paul’s mission. Its references to Abraham, Adam, and Israel supply theological history rather than a change in the letter’s own period.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 16,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Mid-to-late AD 50s",
+      "note": "The letter addresses churches in Rome during Paul’s mission. Its references to Abraham, Adam, and Israel supply theological history rather than a change in the letter’s own period."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Romans · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Romans · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/romans/lessons/summary-of-romans/"
+    }
+  ]
+}

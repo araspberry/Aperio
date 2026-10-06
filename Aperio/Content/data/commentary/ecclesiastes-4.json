@@ -1,0 +1,56 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 4: The Grace of Companionship in a Weary World",
+      "overview": [
+        "The heart of this chapter beats with a surprising warmth amid life's disappointments: we are not meant to walk alone. The Teacher has spent chapters exposing the futility woven through human effort and ambition, and now he offers an unexpected gift—not a grand solution, but the sustaining power of genuine companionship.",
+        "The chapter opens with a haunting observation about isolation. The Teacher sees the oppressed with no comforter, recognizing that loneliness intensifies every other pain life inflicts. But rather than sink into despair, he pivots to something concrete and hopeful: \"Two are better than one\" (4:9). This isn't wishful thinking. It's wisdom born from careful observation. When two people work together, they accomplish more. When one stumbles, the other can help him up. A single person who falls has no one to lift him—a stark reminder that independence is not the same as strength.",
+        "In our contemporary culture of self-reliance and personal achievement, this word cuts against the grain. We're told to be self-sufficient, to need no one, to climb our own mountains. But the Teacher speaks a different language. He understands something modern life often ignores: our deepest needs cannot be met in isolation. Friendship, partnership, and community aren't luxuries for the weak; they're necessities for the human soul.",
+        "This becomes especially vital when we consider how weary the world can make us. The grinding disappointments the Teacher described earlier—vanity, injustice, endless labor—wear us down. But a friend's presence, a companion's encouragement, the warmth of shared struggle: these things sustain us in ways individual achievement never can. Folly and ambition isolate us; wisdom invites us into genuine relationship.",
+        "As you reflect on your own journey, who are the people who lift you up when you fall? More importantly, are you that person for someone else? Consider how you might intentionally deepen one relationship this week, becoming a true companion in someone's struggle."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 4: Scholarly study",
+      "overview": [
+        "Ecclesiastes 4 continues the Preacher's (Qoheleth's) penetrating social critique, shifting from the cosmic observations of earlier chapters to concrete observations about human community and its discontents. The chapter divides into four distinct yet thematically unified sections addressing oppression, labor, companionship, and political advancement, all bound together by the recurring refrain that identifies various human pursuits as *hebel* (הֶבֶל), that vapor-like transience that defies permanent satisfaction.",
+        "The chapter opens with Qoheleth's observation of systemic oppression, employing the Hebrew term *'ashuqim* (עֲשׁוּקִים) to describe those who are crushed by injustice. The repetition of \"tears\" (*dim'ah*) and the absence of a \"comforter\" (*menaḥem*) creates a literary doubling that intensifies the pathos. Remarkably, Qoheleth concludes that the dead are more fortunate than the living, and those never born more blessed still—a sentiment that echoes Job's lament yet arises from social observation rather than personal suffering.",
+        "The examination of toil in verses 4–6 introduces *qin'ah* (קִנְאָה), typically rendered \"envy\" or \"rivalry,\" as the fundamental motivation behind human labor. This psychological insight anticipates modern discussions of status competition and positional goods. The fool who folds his hands consumes his own flesh through idleness, yet Qoheleth's proverbial response in verse 6 commends the quiet contentment of sufficiency over the anxious striving of acquisition.",
+        "The passage on companionship (verses 7–12) contains some of Scripture's most memorable imagery regarding human solidarity. The practical benefits of partnership—mutual assistance, shared warmth, collective defense—culminate in the threefold cord metaphor, which later Jewish and Christian interpreters have applied variously to marriage, community, and divine-human relationship, though Qoheleth himself leaves the third strand unidentified.",
+        "The concluding political parable (verses 13–16) demonstrates the fleeting nature of popular acclaim. The syntax here proves notoriously difficult, with scholarly debate centering on how many figures the narrative contains and whether the youth represents the king's successor or usurper. Regardless, Qoheleth's conclusion remains clear: even spectacular ascent from poverty to power cannot escape the relentless cycle of replacement and forgetting that characterizes human political memory."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 4: Prophetic perspective",
+      "overview": [
+        "Ecclesiastes 4 emerges from the pen of Solomon approximately 950 years before the incarnation of Christ, during the golden age of Israel's united monarchy. This places the passage squarely within the Kingdom era of redemptive history—that brief, glorious window when David's throne reached its zenith under his son, foreshadowing the eternal reign of great David's greater Son. Yet even at this apex of Israelite prosperity, the Preacher's eyes pierce through temporal splendor to expose the vanity lurking beneath all human striving under the sun.",
+        "The chapter opens with Solomon beholding the tears of the oppressed, those who have no comforter. Twice he repeats this haunting phrase—\"no comforter\"—and in doing so, he prophetically articulates the ache of a world awaiting the Paraclete. Here is the groaning of creation before Pentecost, the cry of humanity before the Spirit of comfort descended. What Solomon observed as absence, Christ promised as presence: \"I will send you another Comforter.\" The oppressed whom Solomon pitied would find their Advocate, their Defender, their ever-present Help in the One who stood with the marginalized and pronounced blessing upon those who mourn.",
+        "Solomon's meditation on lonely toil—the man with neither son nor brother, laboring endlessly for wealth he cannot enjoy—exposes the curse of isolated existence that has plagued humanity since Eden's exile. \"Two are better than one,\" he declares, and \"a threefold cord is not quickly broken.\" These words transcend mere practical wisdom; they echo the triune fellowship at creation's dawn and anticipate the koinonia of Christ's body. The church, born from the pierced side of the last Adam, exists as God's answer to the solitary striving Solomon laments. Believers are woven together as living stones, members one of another, a threefold cord of Father, Son, and Spirit binding them into unbreakable communion.",
+        "The chapter concludes with the sobering rise and fall of kings—a poor wise youth replacing an old foolish monarch, only to be forgotten by subsequent generations. This endless cycle of human kingdoms rising and crumbling typologically awaits the Kingdom that cannot be shaken. Every earthly throne proves temporary, every human dynasty fades, but One comes whose dominion is everlasting, whose throne endures through all generations.",
+        "For the church dwelling between advents, Ecclesiastes 4 reminds us that our Comforter has come, our companionship is secured in Christ's body, and our King shall never be supplanted. The vanity Solomon observed finds its answer in the One who makes all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.669082+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

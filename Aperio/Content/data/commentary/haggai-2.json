@@ -1,0 +1,54 @@
+{
+  "book": "Haggai",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Haggai 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Haggai 2: The Glory That Remains",
+      "overview": [
+        "The heart of this chapter pulses with divine encouragement for God's people in their weakness—a reminder that the Lord's presence and purpose transcend our circumstances and our limitations.",
+        "Haggai begins by addressing the discouragement that had settled over the returned exiles. Some among them had seen Solomon's first temple in its magnificence, and the rebuilt structure seemed pale by comparison. Yet God's word arrives not with condemnation but with compassion: \"Who is left among you that saw this house in its former glory? And how do you see it now? Is it not in your sight as nothing?\" Rather than dismissing their grief, the Lord meets them there and speaks words that reshape their perspective entirely. The physical building matters far less than the presence of God that fills it. The promised glory of the latter house will be greater than the former—not necessarily in architectural splendor, but in spiritual significance and eternal purpose.",
+        "This distinction cuts to the heart of our own struggles. We live in a culture that measures worth by visible metrics—numbers, status, prosperity, impressive results. But God invites us into a different calculus. When our church feels small, our ministry fruitful in ways only heaven sees, or our personal influence limited, we can still encounter the undiminished presence of God. The exiles could not control the kingdom's political circumstances or muster resources for a building that rivaled Solomon's. What they could do was remain faithful, keep building, and trust that God's purposes would not be thwarted by human inadequacy.",
+        "The promise extends to blessing: \"From this day I will bless you.\" This assurance arrives not because the circumstances have changed dramatically, but because the people have resumed their obedience. God's favor follows faithfulness, even small faithfulness, even faithfulness expressed through limitation.",
+        "What area of your life feels too small, too weak, too insignificant? Where might God be calling you to resume faithful obedience, trusting that His presence and purposes are not dependent on your visible strength?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Haggai 2: Scholarly study",
+      "overview": [
+        "The second chapter of Haggai comprises three distinct prophetic oracles delivered in 520 BCE, each introduced by precise chronological markers that anchor the prophecy within the historical context of the early Persian period. Haggai ministered during the reign of Darius I, addressing a demoralized Jewish community that had returned from Babylonian exile and struggled to complete the Second Temple reconstruction initiated in 536 BCE but subsequently abandoned. This chapter addresses the community's discouragement over the temple's modest appearance compared to Solomon's edifice, while simultaneously offering eschatological hope and covenantal assurance.",
+        "The opening oracle (verses 1-9) responds to the despondency of elders who remembered the Solomonic temple's glory. The term \"glory\" (כָּבוֹד, *kavod*) carries theological weight beyond mere architectural splendor, denoting the divine presence that once filled the tabernacle and temple. Haggai's declaration that the latter house's glory would exceed the former points beyond immediate circumstances to messianic fulfillment. The phrase \"I will shake the heavens and the earth\" employs cosmic upheaval language characteristic of theophanic traditions, later cited in Hebrews 12:26 as eschatological expectation. The \"treasures of all nations\" (חֶמְדַּת כָּל־הַגּוֹיִם, *ḥemdat kol-haggoyim*) has generated significant interpretive discussion, with some traditions reading this messianically as \"the desired one of all nations,\" though the plural verb form suggests material wealth flowing to Jerusalem.",
+        "The second oracle (verses 10-19) employs priestly torah instruction regarding ritual contamination to illustrate how the community's neglect had rendered their offerings ineffectual. The agricultural curses described—blight, mildew, and hail—echo Deuteronomic covenant sanctions, establishing that economic hardship resulted from spiritual disobedience. The temporal marker \"from this day onward\" signals a turning point where blessing replaces curse.",
+        "The final oracle (verses 20-23) addresses Zerubbabel individually, employing signet-ring imagery (חוֹתָם, *ḥotam*) that deliberately reverses the rejection pronounced upon his grandfather Jehoiachin in Jeremiah 22:24. This restoration of Davidic legitimacy, though Zerubbabel himself never assumed royal power, points toward messianic expectation that the New Testament genealogies fulfill by tracing Jesus through this very line."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Haggai 2: Prophetic perspective",
+      "overview": [
+        "Haggai chapter two was delivered in 520 BC, approximately five centuries before the incarnation of Christ, during the early years of Persian rule following Judah's return from Babylonian exile. This prophetic word came through Haggai in the second year of King Darius, just weeks after the foundation of the second temple had been laid. The exiles who had returned under Zerubbabel's leadership found themselves discouraged, for the modest structure rising before them seemed pathetically inferior to Solomon's glorious temple, which Babylon had reduced to rubble seventy years prior. Within this context of disappointment and diminished expectations, God spoke words that would echo through the centuries into eternity.",
+        "The Lord's message through Haggai situates itself precisely at the Restoration phase of redemptive history, that period when the remnant returned to rebuild Jerusalem and await the promised Messiah. Yet remarkably, this chapter catapults beyond mere temple construction toward eschatological fulfillment. When God declares He will \"shake the heavens and the earth, the sea and the dry land,\" and that \"the desire of all nations shall come,\" prophetic vision pierces through the centuries to behold Christ Himself entering that very temple precincts. This shaking finds partial fulfillment in the upheavals attending Christ's first advent and the destruction of Jerusalem in AD 70, while its ultimate completion awaits the cosmic renovation described in Hebrews 12 and Revelation 21.",
+        "The typological dimensions of this chapter shimmer with messianic significance. Zerubbabel, the Davidic governor who oversees temple reconstruction, functions as a type of the Greater Son of David who would build an eternal temple not made with hands. God's declaration that He will make Zerubbabel \"like a signet ring\" reverses the curse pronounced upon his grandfather Jeconiah and signals the restoration of the Davidic line through which Messiah would come. The temple itself typifies Christ's body, the church being built as living stones, and ultimately the new heavens and new earth where God dwells with His people without mediation.",
+        "The promise that \"the glory of this latter house shall be greater than the former\" found its definitive fulfillment when Jesus of Nazareth walked those courts, the very glory of God tabernacled in human flesh. For the church awaiting the second advent, Haggai chapter two offers profound encouragement: our present labors, though seemingly insignificant, participate in an eternal building project whose completion will surpass all earthly imagination when Christ returns and God's dwelling place encompasses all creation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "37_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.380832+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "2 Kings",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Kings 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional on 2 Kings 3",
+      "overview": [
+        "At the heart of this passage lies a profound question about how we seek God when we've made our own poor choices—and how His compassion still extends to us even when our circumstances are largely self-inflicted.",
+        "The story finds Jehoram, king of Israel, in serious trouble. He has allied with Judah to attack Moab, and after days of marching through the desert, the armies face a water crisis that threatens to destroy them all. In desperation, Jehoram turns not to his own conscience but to the wisdom of others. One of his servants mentions Elisha, the prophet who served under Elijah. What follows is remarkable: Elisha agrees to help, not because Jehoram deserves it, but because of his respect for the righteous king of Judah who stands nearby.",
+        "This teaches us something essential about grace. Our foolish choices often create real consequences, yet God's mercy can still work through our circumstances—sometimes because of the faithful people around us, sometimes simply because His compassion extends even to the stubborn and straying. Jehoram didn't deserve Elisha's help, yet received it anyway.",
+        "When Elisha seeks God's presence, calling for a musician to prepare his heart, we see that encountering God requires us to slow down and create space for His voice. In our rushed, distracted lives, this remains countercultural wisdom. The prophet's willingness to intercede shows us the power of standing in the gap for others, even when they haven't yet recognized their own spiritual need.",
+        "Most stirring is that God provides water for the armies—not because Jehoram repented or became righteous, but out of pure covenant kindness. He even grants military victory beyond what was asked. This is grace operating in ways we cannot manipulate or earn, only receive with humility.",
+        "What spiritual drought in your life might God be ready to address, not because you've earned it, but because His mercy simply overflows? What faithful people around you might be standing in the gap, interceding for your growth?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Kings 3: Scholarly study",
+      "overview": [
+        "The third chapter of 2 Kings presents a complex military narrative set during the reign of Jehoram son of Ahab over Israel, whose rule is introduced with a qualified moral assessment—he did evil, though not as egregiously as his parents, having removed the sacred pillar of Baal his father had made. This subtle distinction reflects the Deuteronomistic historian's nuanced evaluation of Israelite monarchs against the standards of covenant faithfulness. The campaign against Moab provides the immediate historical backdrop, corroborated by the famous Mesha Stele, which offers a Moabite perspective on the turbulent relations between these kingdoms following Ahab's death.",
+        "The narrative pivots on the Hebrew term *pasha'* (פָּשַׁע), translated as \"rebelled\" in verse 5, denoting Mesha king of Moab's refusal to continue tributary obligations. This rebellion precipitates the allied campaign of Israel, Judah, and Edom through the wilderness of Edom, a circuitous route that nearly proves fatal when water supplies fail. The desperate appeal to Elisha introduces prophetic mediation into royal politics, with the prophet's sharp rebuke to Jehoram—directing him instead to his parents' prophets—underscoring the theological tension between Yahwistic prophecy and Omride religious syncretism.",
+        "Elisha's oracle employs the term *nachal* (נַחַל), referring to the valley or wadi that would be filled with pools despite the absence of visible rain, demonstrating divine provision through unexpected means. The military victory promised extends beyond mere survival to comprehensive triumph, including instructions to devastate Moabite agriculture and water sources—actions reflecting ancient Near Eastern siege warfare practices.",
+        "The chapter's troubling conclusion, wherein Mesha sacrifices his firstborn son upon the wall, precipitating a \"great wrath\" (*qetseph gadol*) against Israel that causes their withdrawal, remains one of Scripture's most debated passages. Scholars dispute whether this wrath emanates from Chemosh, from Yahweh's displeasure, or represents Israelite demoralization at witnessing such desperate devotion. This interpretive crux reveals the text's theological complexity, refusing easy resolution while honestly depicting the ambiguities of war and divine action in Israel's contested religious landscape during the divided monarchy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Kings 3: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 850 years before the incarnation of Christ, during the divided monarchy when Israel and Judah existed as separate kingdoms following Solomon's death. Jehoram son of Ahab now reigns over the northern kingdom, and the righteous Jehoshaphat still sits on David's throne in the south. Within the grand redemptive narrative, we stand in the troubled era of the kings—that long season between the establishment of David's throne and the catastrophic exiles that would eventually scatter both nations. The promises to Abraham remain alive but imperiled by persistent idolatry, and the prophetic office increasingly mediates between heaven and an unfaithful people.",
+        "The rebellion of Moab against Israel sets the stage for a military campaign that draws together an unlikely alliance: apostate Israel, compromised Jehoshaphat, and vassal Edom. Yet even in this morally ambiguous moment, the prophet Elisha emerges as the true king behind the kings, the voice of Yahweh in a wilderness of spiritual drought. When the allied armies face death by thirst, it is not royal strategy but prophetic intercession that brings deliverance. Elisha's declaration—\"You shall not see wind or rain, yet that valley shall be filled with water\"—announces salvation that defies natural explanation, provision that comes entirely from God's sovereign intervention.",
+        "Here we glimpse a pattern that reaches its fullness in Christ. The water filling the trenches without rain typologically anticipates the living water Jesus offers—salvation flowing not from earthly sources but from divine abundance. Elisha himself stands as a type of Christ: despised by the king of Israel yet essential for deliverance, speaking God's word into impossible circumstances, bringing life where death seemed certain. The prophet's scorn for Jehoram—\"What have I to do with you?\"—echoes forward to Jesus's words at Cana, marking a separation between worldly power and kingdom authority.",
+        "The chapter's disturbing conclusion, where Moab's king sacrifices his son and mysterious wrath falls upon Israel, leaves readers in genuine tension. This unresolved horror points toward the ultimate sacrifice that would come—not of a desperate pagan king but of the Father offering His own Son. What Mesha enacted in demonic desperation, God would accomplish in holy love.",
+        "The church today lives in this same dynamic: surrounded by hostile powers, dependent entirely upon the prophetic Word, and sustained by waters we did not summon. Our Elisha has come, and the valley of death itself now flows with resurrection life."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "12_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.604798+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

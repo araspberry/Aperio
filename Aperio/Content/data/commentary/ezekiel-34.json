@@ -1,0 +1,55 @@
+{
+  "book": "Ezekiel",
+  "chapter": 34,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 34 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 34: The Shepherd's Heart",
+      "overview": [
+        "God's deepest complaint against Israel's leaders is not their outright rebellion but their negligence—they have become shepherds who care nothing for the flock. In this powerful indictment, the Lord reveals His tender passion for people who have been abandoned, scattered, and left vulnerable to predators. The passage unfolds God's heart: He grieves over shepherds who feed themselves instead of feeding the sheep, and He promises to step in personally where human leaders have failed.",
+        "The image of sheep without a shepherd captures something true about our world. People are genuinely lost—not necessarily because they've chosen darkness, but because those entrusted to guide them have been indifferent. Sick sheep go unhealed. The lost are never searched for. The strong dominate the weak. This was Israel's tragic reality, and it remains a challenge whenever leaders prioritize their own comfort, reputation, or advancement over the wellbeing of those they serve.",
+        "What makes this passage breathtaking is that God doesn't simply execute judgment—He becomes the Shepherd Himself. He will seek out His scattered sheep, gather them from all the places they've been driven, and lead them to good pasture. This isn't distant, administrative care; it's intimate, hands-on tending. God will feed them, strengthen them, and establish a covenant of peace. Most remarkably, in verse 24, God promises to raise up \"David my servant\"—a messianic promise pointing to Jesus, who embodies the faithful Shepherd.",
+        "For those who have felt abandoned or neglected, Ezekiel 34 offers profound assurance: you have not been forgotten. Your true Shepherd knows you by name and will pursue you with relentless love. For those in leadership—in church, family, or community—this passage calls us to humility and sacrifice, remembering that we shepherd on behalf of the Good Shepherd Himself.",
+        "What areas of your life do you need the Shepherd's personal care and restoration? Bring that need to Him now."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 34: Scholarly study",
+      "overview": [
+        "Ezekiel 34 stands as one of the most theologically significant shepherd discourses in the Hebrew Bible, composed during the Babylonian exile when the prophet addressed the displaced Judean community regarding the failures of their former leadership and the promise of divine restoration. The chapter divides naturally into two movements: an indictment against Israel's shepherds (vv. 1-10) and an extended promise of Yahweh's direct shepherding intervention (vv. 11-31). The shepherd metaphor for kingship was ubiquitous throughout the ancient Near East, appearing in Mesopotamian royal inscriptions and Egyptian literature, making Ezekiel's appropriation of this imagery both politically charged and culturally resonant for his audience.",
+        "The Hebrew term *rō'îm* (shepherds) functions throughout as a transparent cipher for the Davidic kings and ruling elite whose mismanagement precipitated national catastrophe. The prophetic accusation centers on their self-enrichment at the expense of the flock, employing the verb *rā'āh* (to shepherd/feed) with bitter irony—these shepherds have fed themselves rather than the sheep. Particularly striking is the description of the neglected sheep as *hanniphrāṣôt* (the scattered ones), a term carrying connotations of violent dispersion that captures the trauma of exile itself.",
+        "The theological pivot occurs in verse 11 with Yahweh's dramatic self-insertion as Israel's true shepherd, a motif later developed extensively in Johannine Christology. This divine shepherding encompasses gathering, feeding, healing, and judging between sheep—notably distinguishing between fat sheep and lean, between rams and goats, suggesting internal social stratification requiring divine adjudication. The promise of \"one shepherd, my servant David\" (v. 23) has generated substantial interpretive discussion regarding whether this indicates a restored Davidic monarchy or an idealized messianic figure transcending historical kingship.",
+        "The chapter concludes with covenant renewal language, promising the *bərît šālôm* (covenant of peace) that transforms the very landscape into paradisiacal abundance. This eschatological vision integrates themes of security, fertility, and divine presence that recur throughout Ezekiel's restoration oracles. The passage fundamentally reconceptualizes political theology by subordinating human governance to divine sovereignty while simultaneously promising renewed Davidic leadership under Yahweh's ultimate rule—a tension that would prove generative for later Jewish and Christian messianic reflection."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 34: Prophetic perspective",
+      "overview": [
+        "This prophecy came through Ezekiel approximately 585 years before the birth of Christ, delivered during the darkest chapter of Israel's history—the Babylonian exile. The temple lay in ruins, Jerusalem was devastated, and God's people languished in a foreign land. Within the grand redemptive arc, this passage emerges from the ashes of the failed monarchy, when the shepherds God had appointed over Israel had utterly betrayed their sacred trust, scattering the flock rather than gathering it.",
+        "The indictment opens with devastating precision against the shepherds of Israel—the kings, priests, and prophets who fed themselves rather than the sheep. They consumed the fat, clothed themselves with wool, and slaughtered the choice animals while leaving the weak unstrengthened, the sick unhealed, the injured unbandaged, the strayed unreturned, and the lost unsought. This is not merely political critique but covenantal prosecution. Because of their failure, the sheep were scattered across every mountain and hill, becoming food for wild beasts—a portrait of Israel dispersed among the nations.",
+        "Yet from this judgment rises one of Scripture's most radiant messianic promises. The LORD Himself declares: \"I Myself will search for My sheep and seek them out.\" Here prophecy leaps across centuries toward Bethlehem. The Good Shepherd whom Jesus claimed to be in John 10 is no new figure—He is the One promised here, the divine Shepherd who leaves heaven's glory to seek the lost sheep of Israel. When Christ said, \"I am the good shepherd who lays down His life for the sheep,\" He was announcing that Ezekiel 34 had found its fulfillment in His own flesh.",
+        "The prophecy then unveils \"My servant David,\" a single shepherd to tend them. This cannot mean the historical David, dead for centuries, but David's greater Son—the Messiah who unites the offices of king and shepherd in one person. The covenant of peace promised here, where dangerous beasts are removed and showers of blessing fall, began its inauguration at Christ's first coming and awaits its consummation when He returns.",
+        "For the church dwelling between the advents, this chapter speaks both comfort and calling. Christ has gathered us as His flock, binding our wounds and strengthening our weakness. Yet we await the day when every scattered sheep hears His voice, when the final harvest is complete, and when the everlasting covenant of peace transforms all creation into pastures of perfect shalom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_034",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.172701+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on Deuteronomy 6",
+      "overview": [
+        "The deepest command God gives His people is not to perform rituals or follow endless rules, but to love Him with an undivided heart—and to pass that love to the next generation with intentional devotion and daily conversation.",
+        "When Moses speaks these words to Israel on the edge of the Promised Land, he is essentially saying: \"Your life depends on one thing.\" The Shema—\"Hear, O Israel: The Lord our God, the Lord is one\"—has echoed through centuries as Judaism's central affirmation of faith. But notice what follows: love Him with all your heart, soul, and strength. This is not sentimental affection. It is allegiance, trust, and the ordering of every desire around His supremacy.",
+        "What makes this passage eternally alive is its vision of faith as a woven fabric of daily life. These commands are not meant to be compartmentalized into Sunday services or quiet prayer times, though those matter. Rather, Moses instructs parents to speak of God's faithfulness when sitting at home, when walking along the road, when lying down and when getting up. Faith happens in the car line, at the dinner table, in conversations about what we've seen and what troubles us. A parent who casually mentions God's goodness during ordinary moments may plant deeper roots of faith than a hundred formal lessons.",
+        "The practice of binding God's word to your hand and wearing it as a sign on your forehead speaks to making God's truth visible and tangible in your actions and thoughts. When we live in conscious awareness of His presence, our choices change. Our speech shifts. Our priorities realign.",
+        "Today's world pressures us to divide our lives into compartments. But Deuteronomy 6 calls us back to integration—a life so thoroughly surrendered to God that faith is not something we do on Sundays but something that flavors everything.",
+        "What one conversation or practice could you begin this week to weave God's presence more intentionally into your daily rhythms?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 6: Scholarly study",
+      "overview": [
+        "Deuteronomy 6 stands as one of the most theologically significant chapters in the entire Hebrew Bible, containing what Jewish tradition calls the Shema, the foundational confession of Israelite faith. The chapter belongs to the second major discourse of Moses, delivered on the plains of Moab as Israel prepared to enter Canaan, likely compiled in its final form during the late monarchic period though preserving much older covenantal traditions. The literary setting establishes Moses as covenant mediator, transmitting divine instruction to a new generation that had not witnessed Sinai firsthand.",
+        "The chapter opens with the term *mitsvah* (מִצְוָה), rendered \"commandment,\" which encompasses the entire corpus of statutes and ordinances that follow, emphasizing the singular nature of covenantal obligation despite its many applications. Verse 4 presents the Shema proper, where the declaration that YHWH is \"one\" (*ʾeḥad*, אֶחָד) has generated substantial interpretive discussion. While some scholars understand this as an assertion of monotheism proper, others argue it declares YHWH's uniqueness or Israel's exclusive loyalty to him alone, functioning as a covenant formula rather than a metaphysical claim about divine nature. The immediate context, warning against worship of other gods, supports reading *ʾeḥad* as emphasizing YHWH's sole claim on Israel's devotion.",
+        "The command to love YHWH with heart (*lēḇāḇ*, לֵבָב), soul (*nepeš*, נֶפֶשׁ), and strength (*meʾōḏ*, מְאֹד) employs terms demanding attention. The *lēḇāḇ* in Hebrew anthropology represents the seat of will and intellect rather than emotion alone, while *nepeš* denotes the entire living self rather than an immortal soul in Greek philosophical terms. The term *meʾōḏ*, unusually functioning as a noun meaning \"muchness\" or \"abundance,\" is often interpreted as referring to material resources.",
+        "The pedagogical instructions in verses 7-9 mandate perpetual teaching within household and public life, later interpreted literally in the phylacteries and mezuzot of Jewish practice. The chapter concludes with warnings against forgetting YHWH amid Canaan's prosperity, establishing a pattern of memory and gratitude that pervades Deuteronomic theology. This emphasis on intergenerational transmission and total devotion positions chapter 6 as programmatic for understanding Deuteronomy's vision of covenant faithfulness and its enduring influence on both Jewish and Christian theological reflection."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 6: Prophetic perspective",
+      "overview": [
+        "Deuteronomy chapter six was delivered approximately 1400 years before the birth of Christ, as Israel stood poised on the eastern bank of the Jordan River, about to enter the land promised to Abraham six centuries earlier. This passage sits at the threshold between wilderness wandering and inheritance, between the Exodus narrative and the conquest of Canaan. Within the grand redemptive arc, Moses speaks as a dying prophet to a new generation that must carry forward the covenant promises, standing at the hinge point between deliverance from Egypt and the establishment of the kingdom in the land.",
+        "The Shema, that thundering declaration \"Hear, O Israel: The LORD our God, the LORD is one,\" constitutes the theological bedrock upon which all subsequent revelation builds. This confession of divine unity would echo through synagogues for millennia, would be upon the lips of Christ when He named it the greatest commandment, and remains the fountain from which Trinitarian monotheism flows. When Jesus quoted this very passage in Mark twelve, He revealed Himself as the One who perfectly fulfilled what Israel could never accomplish—loving God with totality of heart, soul, and strength. The command that Israel repeatedly failed to keep found its complete fulfillment in the incarnate Son.",
+        "The instruction to bind these words upon hands and foreheads, to write them on doorposts and gates, prophetically anticipates the new covenant promise of Jeremiah thirty-one, where God declares He will write His law upon hearts of flesh rather than tablets of stone. What was external command becomes internal reality through the Spirit's work. The phylacteries and mezuzot of Judaism shadow the deeper truth that Christ's people would become living epistles, the word dwelling richly within them.",
+        "Moses warns against forgetting the LORD amid prosperity, a prophetic word that traces through the entire Old Testament narrative of blessing, forgetfulness, idolatry, and judgment. This pattern of amnesia would lead to exile, yet it also points forward to the One who would remember the covenant perfectly, the faithful Israelite who never forgot His Father even unto death.",
+        "The promise that obedience brings life in the land typologically foreshadows the greater reality that those who love Christ inherit not merely Canaan but the new heavens and new earth. The church today lives as pilgrims between the advents, called to that same wholehearted devotion, teaching these realities to spiritual children, awaiting the day when knowledge of the LORD covers the earth as waters cover the sea."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.109825+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

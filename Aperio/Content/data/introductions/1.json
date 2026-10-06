@@ -1,0 +1,135 @@
+{
+  "book": "Exodus",
+  "bookIndex": 1,
+  "status": "Editorial draft",
+  "title": "Freedom for Life in God’s Presence",
+  "subtitle": "From Pharaoh’s labor camps to the tent at the center of the camp",
+  "atAGlance": {
+    "genre": "Deliverance narrative, covenant instruction, law, and sanctuary description",
+    "setting": "Egypt, the wilderness, and Mount Sinai before Israel’s settlement in Canaan",
+    "composition": "Traditionally Mosaic; the book’s literary formation and later editing are debated",
+    "audience": "Israel learning to remember its deliverance and live as a covenant people"
+  },
+  "sections": [
+    {
+      "title": "The cry that begins the journey",
+      "paragraphs": [
+        "Exodus opens with names and then with a regime that tries to turn those people into a supply of labor. Pharaoh fears Israel’s growth and orders violence against its children. Before Moses stands before the king, women resist the machinery of death: the midwives refuse his command, Moses’s mother acts to preserve her son, and Pharaoh’s daughter receives him. Deliverance begins amid threatened households, with decisions made by people who possess very different kinds of power.",
+        "God hears Israel’s groaning and remembers His covenant. In this setting, remembering means moving toward people in their distress. Moses’s call at the burning bush joins the God of the ancestors to the suffering of the present generation. Moses hesitates, argues, and needs help; God’s purpose does not depend on his beginning as a confident public figure."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Leaving Egypt is only the beginning",
+      "paragraphs": [
+        "The confrontation with Pharaoh exposes a ruler who treats other lives as possessions. The plagues intensify that conflict, while Passover gives Israel a practice through which later generations will remember deliverance. The crossing of the sea becomes a decisive break with slavery, followed by a song that names God as rescuer. The narrative also contains severe judgment and grief; reading carefully means allowing its weight to remain.",
+        "Beyond the sea, freedom becomes a daily education. Hunger, thirst, exhaustion, and uncertainty test the people’s trust. Manna teaches dependence without removing the need to gather, share a household’s provision, and observe rest. Jethro’s counsel reminds Moses that leadership also requires other people’s wisdom and a sustainable distribution of responsibility. Israel must learn how to live after the emergency of escape."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A covenant that reaches ordinary life",
+      "paragraphs": [
+        "At Sinai, God addresses a people already delivered. The commandments describe the loyalties and practices of a community belonging to Him: worship, family relationships, truthful testimony, possessions, and the protection of life. The surrounding laws bring those commitments into concrete disputes and social arrangements. Their ancient setting matters, especially where they regulate institutions that readers find troubling. Careful study asks what a law says, whom it addresses, and how it relates to the wider covenant.",
+        "The golden calf interrupts the sanctuary instructions with a crisis of allegiance. Aaron’s failure and the people’s impatience show that proximity to remarkable events does not guarantee faithfulness. Moses intercedes, the covenant is renewed, and God’s character becomes central to Israel’s hope. Mercy makes continued relationship possible without pretending the breach was harmless."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Why the book ends with a dwelling",
+      "paragraphs": [
+        "The long descriptions of fabrics, wood, lamps, and skilled labor can feel surprising after the urgency of the escape. Yet they bring the story toward its goal: God’s presence among His people. The work involves artisans and willing contributions, and its completion is described with close attention. Exodus closes with the cloud over the tabernacle, ready to guide a people who are still traveling.",
+        "The narrative setting precedes Israel’s life in Canaan; the date and route of the exodus remain debated. Traditional Mosaic authorship and scholarly accounts of the book’s formation should be distinguished from that setting. As you read, watch the movement from forced labor for Pharaoh to willing service within a community. Later biblical reflection repeatedly returns to this deliverance. Its enduring questions concern who commands our allegiance, how freedom is practiced, and what it means for God to dwell among a people."
+      ],
+      "sourceIds": [
+        "text",
+        "torah"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Oppression and deliverance",
+      "startChapter": 1,
+      "endChapter": 15,
+      "description": "God calls Moses, confronts Pharaoh, institutes Passover, and brings Israel through the sea; wilderness travel begins."
+    },
+    {
+      "label": "Learning in the wilderness",
+      "startChapter": 16,
+      "endChapter": 18,
+      "description": "Food, water, conflict, and the demands of leadership expose the needs of a newly freed people."
+    },
+    {
+      "label": "Covenant and sanctuary instructions",
+      "startChapter": 19,
+      "endChapter": 31,
+      "description": "Sinai brings commandments and a detailed plan for life around God’s dwelling."
+    },
+    {
+      "label": "Breach and renewal",
+      "startChapter": 32,
+      "endChapter": 34,
+      "description": "The calf, Moses’s intercession, and the renewed covenant make mercy central to the story."
+    },
+    {
+      "label": "The dwelling completed",
+      "startChapter": 35,
+      "endChapter": 40,
+      "description": "The community contributes and builds, and God’s glory fills the tabernacle."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Deliverance",
+      "description": "God hears the oppressed and confronts the power that holds them."
+    },
+    {
+      "name": "Covenant",
+      "description": "Freedom takes shape through worship, justice, and responsibility to neighbors."
+    },
+    {
+      "name": "Presence",
+      "description": "The journey leads toward life with God at the center of the community."
+    }
+  ],
+  "timeline": {
+    "era": "exodus",
+    "dateLabel": "The exodus and Sinai era",
+    "context": "Israel leaves Egypt and enters covenant at Sinai.",
+    "note": "Exact calendar dates and the route remain debated; this label follows the narrative setting."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 40,
+      "era": "exodus",
+      "label": "Deliverance and covenant",
+      "dateLabel": "Before settlement in Canaan",
+      "note": "Events move from Egyptian oppression through the first establishment of the tabernacle."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Exodus · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Exodus",
+      "url": "https://bible.usccb.org/bible/exodus/0"
+    },
+    {
+      "id": "torah",
+      "label": "Pentateuch · authorship and composition traditions",
+      "url": "https://bible.usccb.org/bible/thepentateuch/0"
+    }
+  ]
+}

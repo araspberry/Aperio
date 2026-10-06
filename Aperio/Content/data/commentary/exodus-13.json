@@ -1,0 +1,57 @@
+{
+  "book": "Exodus",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 13: Remembering God's Deliverance",
+      "overview": [
+        "The heart of Exodus 13 is this: God's redemption demands remembrance. What He has accomplished for us must become embedded in our memory, our worship, and the daily rhythms of our families, or we risk drifting from the truth that has saved us.",
+        "After Egypt's devastation, God commands Israel to consecrate their firstborn and establish the Festival of Unleavened Bread. These weren't arbitrary rituals. They were memory anchors—ceremonies designed to interrupt ordinary life and say, \"Stop. Remember. God did this.\" The unleavened bread wasn't just food; it was edible history, a taste of deliverance that each household would experience together year after year. When children asked what these practices meant, parents would rehearse the story. Remembrance became relational, generational, embodied.",
+        "This speaks profoundly to our own spiritual lives. We live in a culture of forgetting, where busyness crowds out reflection and the ordinary easily obscures the extraordinary. Yet we too have been redeemed—ransomed from slavery to sin, brought into freedom through Christ's self-sacrifice. Without intentional remembrance, that truth becomes abstract, distant, powerless.",
+        "God also leads Israel personally: \"The Lord went ahead of them in a pillar of cloud by day and a pillar of fire by night.\" Even as they were instructed to remember, they were also invited to trust the present guidance of God. Remembrance and trust work together—we remember what He has done so we can trust what He is doing.",
+        "The question for us is the same: How are we building remembrance into our lives? Are our worship gatherings, our family conversations, our personal disciplines actually anchored in what God has accomplished? Do we take time to rehearse His faithfulness, or do we drift into treating faith as mere obligation?",
+        "What specific moment of God's deliverance in your life needs to become a living memory again—something you rehearse, celebrate, and share with those you love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 13: Scholarly study",
+      "overview": [
+        "Exodus 13 occupies a pivotal position in the narrative of Israel's liberation, functioning as a theological bridge between the climactic tenth plague and the subsequent journey toward Sinai. The chapter comprises two distinct yet interconnected units: the legislation concerning the consecration of the firstborn and the feast of unleavened bread (vv. 1–16), followed by the narrative of Israel's departure from Egypt via an unexpected route (vv. 17–22). Moses serves as the mediating figure who receives divine instruction and transmits it to the people, establishing a pattern that will characterize his prophetic office throughout the Pentateuch.",
+        "The opening divine command introduces the concept of consecration through the Hebrew verb *qadash*, meaning to set apart as holy or dedicate exclusively to God. The firstborn (*bekhor*) of both human and animal must be sanctified to Yahweh as a perpetual memorial of the death of Egypt's firstborn, transforming the plague narrative into lasting liturgical practice. This requirement creates a theological economy wherein Israel's deliverance generates ongoing obligation, embedding salvation history into domestic and communal ritual.",
+        "The instructions regarding unleavened bread (*matzot*) reiterate material from Exodus 12 while emphasizing the catechetical function of religious observance. The repeated phrase \"when your son asks\" (vv. 8, 14) establishes intergenerational transmission as essential to Israelite faith, transforming ritual into pedagogy. The \"sign upon your hand\" and \"memorial between your eyes\" (v. 9) employs bodily metaphor to express total devotion, language later interpreted literally in the practice of wearing phylacteries.",
+        "The geographical notice that God led Israel not through Philistine territory but via the wilderness toward the Red Sea (*yam suph*, literally \"sea of reeds\") reveals divine providence operating through apparent inefficiency. The narrator explains this circuitous route as divine accommodation to Israel's spiritual immaturity, preventing premature confrontation that might provoke return to Egypt.",
+        "The chapter concludes with the theophanic pillar of cloud and fire, representing Yahweh's continuous presence guiding the newly formed community. This visible manifestation of divine accompaniment establishes the pattern of God dwelling among the people that reaches fulfillment in the tabernacle construction and anticipates broader canonical themes of divine presence culminating in incarnational theology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 13: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1446 years before Christ, in the immediate aftermath of the tenth plague, when the death angel passed through Egypt and struck down every firstborn not sheltered beneath the blood of the lamb. We stand at a pivotal hinge in redemptive history—Israel is being birthed as a nation, delivered from the house of bondage, and set on the path toward Sinai where covenant will be formalized. In the grand arc of God's redemptive plan, this moment belongs to the Exodus epoch, that foundational salvation event that would echo through every subsequent act of divine deliverance until it finds its ultimate fulfillment in Christ.",
+        "The consecration of the firstborn stands as one of the most profound typological realities in all of Scripture. Every firstborn male, whether of man or beast, belongs to the Lord because God struck Egypt's firstborn while sparing Israel's under the blood. This principle of redemption—that life is preserved through substitutionary death—becomes the theological heartbeat of the entire sacrificial system and points with unmistakable clarity to Christ, the firstborn over all creation, the firstborn from the dead, who consecrates Himself wholly to the Father that He might redeem a people for God's own possession.",
+        "The command to observe the Feast of Unleavened Bread carries perpetual prophetic weight. Leaven, representing sin and corruption, must be purged from the household. Paul explicitly applies this to the church: \"Christ, our Passover lamb, has been sacrificed. Therefore let us keep the feast, not with the old leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.\" What was instituted in Egypt finds its true observance in the holy living of the redeemed community.",
+        "The pillar of cloud by day and fire by night reveals God's visible, abiding presence guiding His people through wilderness uncertainty. This theophanic glory would later fill the tabernacle and temple, would become flesh and tabernacle among us in Christ, and now dwells within believers through the Holy Spirit. The church journeys not by sight but by the indwelling presence of God Himself.",
+        "For those living between the advents, this chapter declares that we too are the redeemed firstborn, purchased not with silver or gold but with precious blood. We journey through our own wilderness, led by the Spirit, purging the leaven of sin, awaiting that final exodus when Christ returns to lead His people into the true Promised Land—the new creation, where pilgrimage ends in eternal rest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.794387+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

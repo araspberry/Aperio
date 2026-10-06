@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 37,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 37 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 37: When Providence Hides Behind Pain",
+      "overview": [
+        "The heart of this passage lies in discovering that God's purposes often unfold through circumstances that feel like abandonment. Joseph's betrayal by his brothers—sold into slavery after being thrown into a pit—introduces a pattern that will shape not only his life but the salvation of a nation. What appears to be the shattering of a young man's dreams is actually the mysterious hand of God redirecting history toward redemption.",
+        "Joseph enters this chapter as a favored son, perhaps even arrogant in his youthful proclamation of his dreams. His brothers' jealousy ignites quickly, and their hatred becomes the furnace in which God will refine both Joseph and his family. The cruelty is real—the fear in that pit, the anguish of separation, the degradation of slavery. Yet beneath this dark narrative runs an undercurrent of divine providence. Even Potiphar, Joseph's Egyptian master, will find that \"the Lord was with Joseph.\" Suffering here is never casual; it serves purposes beyond what anyone can see.",
+        "This passage teaches us something difficult but essential: God does not promise to prevent our pain, but He promises never to abandon us within it. The brothers intend evil, but God is weaving their malice into the threads of a larger salvation story. Joseph cannot see this yet. He only knows the darkness of the cistern, the confusion of captivity, the loss of everything familiar. That's where most of us live too—not in the epilogue where we can see how everything turned out, but in the middle, where meaning is obscured and suffering seems pointless.",
+        "The invitation here is to trust the character of God when His purposes remain hidden. Joseph's story reminds us that betrayal, loss, and exile are not evidence of God's absence but sometimes the peculiar way He works toward our flourishing and others' salvation.",
+        "What circumstance in your life currently feels like abandonment rather than providence? Can you entrust it to God's hidden purposes?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 37: Scholarly study",
+      "overview": [
+        "Genesis 37 marks a pivotal transition in the patriarchal narratives, shifting focus from Jacob to his son Joseph and initiating the extended Joseph cycle that will occupy the remainder of Genesis. The chapter's superscription, \"These are the generations of Jacob\" (*tôlĕdôt ya'ăqōb*), paradoxically introduces a narrative centered on Joseph, suggesting that the son's story represents the culmination of the father's legacy. Composed from what source critics have identified as primarily Yahwist and Elohist traditions, the chapter exhibits certain tensions—notably whether Reuben or Judah advocates for Joseph's life, and whether Midianites or Ishmaelites transport him to Egypt—though final-form readers recognize these as contributing to the narrative's theological complexity.",
+        "The Hebrew term *kĕtōnet passîm*, traditionally rendered \"coat of many colors,\" more likely denotes a long-sleeved or ornamented tunic signifying elevated status, perhaps marking Joseph for administrative rather than manual labor. This garment functions symbolically throughout the chapter, representing both Jacob's preferential love and the brothers' murderous resentment; its violent removal and subsequent bloodying constitute a grotesque inversion of Jacob's own deception of Isaac using goat skins. The narrative thus establishes intergenerational patterns of deception and favoritism that Genesis traces through the patriarchal households.",
+        "Joseph's dreams employ royal imagery—sheaves bowing and celestial bodies prostrating—that ancient Near Eastern readers would recognize as claims to sovereignty. The verb *mālak* (\"to reign\") appears in the brothers' accusatory question, revealing their perception of Joseph's aspirations. These dreams, while ultimately prophetic, function narratively to intensify fraternal hatred, raising theological questions about divine providence operating through human jealousy.",
+        "The chapter concludes with profound irony: Jacob mourns a living son while Joseph descends to Egypt, the place of future bondage and deliverance. The Hebrew *wayyēred*, \"he went down,\" anticipates the broader descent-ascent pattern structuring Israel's Egyptian sojourn. Jacob's inconsolable grief and refusal of comfort (*niḥam*) stand in tension with the reader's knowledge that God's purposes advance precisely through this apparent tragedy. The chapter thus establishes the theological framework governing the Joseph narrative: human malevolence unwittingly serves divine providence, a theme Joseph himself will articulate explicitly in the narrative's resolution."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 37: Prophetic perspective",
+      "overview": [
+        "Genesis 37 stands near the beginning of sacred history, approximately 1900 years before the incarnation of our Lord, in the age of the patriarchs when God was still building the covenant family through which blessing would flow to all nations. We are positioned between the promises given to Abraham and the great deliverance from Egypt, in that mysterious period when the seed of Abraham must descend into the furnace of affliction before their redemption can dawn.",
+        "This chapter initiates the Joseph narrative, which serves as the great bridge between the patriarchal wanderings in Canaan and the Exodus that would birth Israel as a nation. Here God orchestrates what appears to be tragedy—a beloved son rejected, stripped, cast into a pit, and sold for silver—yet hidden within these dark providences lies the salvation of the very brothers who despise him. Joseph emerges as one of Scripture's most luminous types of Christ, the beloved Son sent by the Father to his brethren, who receive him not.",
+        "The parallels thunder across the centuries. Joseph, clothed in the robe of favor, is hated for his exalted position and prophetic words concerning his future reign. The brothers conspire against him, saying \"let us slay him.\" He is stripped of his garment, cast into a pit—a death-like descent—and sold for pieces of silver by Judah's counsel to Gentile merchants. The coat dipped in blood deceives the father into mourning as one dead. Yet Joseph is alive, hidden in Egypt, destined to rise to the right hand of power, from which throne he will dispense bread to a starving world, including the very brothers who betrayed him.",
+        "Christ, the eternal Beloved, came unto His own and His own received Him not. Delivered for silver by one bearing Judah's name, stripped and cast into the pit of death, He descended before ascending to the Father's right hand. From that throne He now dispenses the bread of life to famished humanity, offering salvation even to the nation that rejected Him.",
+        "The dreams given to Joseph reveal God's sovereign purposes: every knee shall bow. What brothers meant for evil, God meant for the preservation of life. So too, the cross—history's greatest crime—becomes history's greatest salvation. The church now lives in the time when Christ, like Joseph, sits enthroned yet remains unrecognized by many of His kinsmen according to the flesh, until the day of revelation when Israel shall look upon Him whom they pierced and mourn, and Joseph shall make himself known to his brothers."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_037",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.729009+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

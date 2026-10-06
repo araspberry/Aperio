@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 11: The Resurrection and the Life",
+      "overview": [
+        "The entire Gospel of John culminates in this passage: Jesus reveals himself as the source of eternal life by raising Lazarus from the dead, yet this miraculous display becomes the catalyst for his own death. Here we witness faith being tested at its deepest point—when belief must persist not despite loss, but through it.",
+        "When Jesus delays his journey to Bethany, he deliberately waits for Lazarus to die. This is not cruelty but purposeful love. Martha and Mary both voice the same complaint: \"If you had been here, my brother would not have died.\" Their pain is real, their faith is present, yet their vision is limited. They believe in resurrection as a future doctrine, something that happens at the last day. Jesus gently corrects this abstraction by making a stunning claim: \"I am the resurrection and the life.\" He is not merely someone who will raise the dead; he *is* the very power of resurrection walking among them, alive and present in their darkest moment.",
+        "The weeping Jesus shows us that faith never requires us to suppress our grief. Standing before the tomb, Jesus groans in his spirit and weeps. He grieves with those who grieve. Yet in that very moment of vulnerability, he commands the stone to be rolled away and calls forth the dead man into life. This is the paradox of following Christ: we do not escape suffering, but we discover that suffering is never the final word.",
+        "For those trusting Jesus, death has lost its absolute power. Not because we won't experience it, but because he has become our resurrection. In whatever deadness you face—spiritually, emotionally, relationally—Christ offers himself as the source of new life. He doesn't promise to prevent suffering, but he promises to walk through it and transform it.",
+        "What area of your life feels most \"dead\" right now? Can you invite Jesus into that grief, and ask him to speak resurrection over it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 11: Scholarly study",
+      "overview": [
+        "The eleventh chapter of John's Gospel presents the culminating sign in Jesus' public ministry, the raising of Lazarus from the dead, which serves as both the theological apex of the Johannine sign narratives and the immediate catalyst for the Jerusalem authorities' decision to execute Jesus. This carefully constructed narrative, unique to the Fourth Gospel, likely draws upon early tradition known to the Johannine community, though the evangelist has shaped it with characteristic theological sophistication. The setting in Bethany, approximately two miles from Jerusalem, positions this miracle in dangerous proximity to Jesus' opponents while establishing geographical continuity with the passion narrative that follows.",
+        "Central to understanding this passage is the Greek term *sēmeion* (sign), which in Johannine theology denotes not merely a miraculous deed but a revelatory event disclosing Jesus' divine identity. The raising of Lazarus thus functions as the supreme demonstration of Jesus' earlier claim to possess life in himself and authority over death. Equally significant is the verb *embrimaomai* (verses 33, 38), typically rendered \"deeply moved\" but carrying connotations of indignation or agitation. Scholars debate whether Jesus' emotional response reflects anger at death's dominion, frustration with the mourners' incomplete faith, or profound grief at human mortality—a tension the evangelist may intentionally preserve.",
+        "The declaration \"I am the resurrection and the life\" (*egō eimi hē anastasis kai hē zōē*) constitutes the fifth of seven \"I am\" statements with predicates in this Gospel, positioning Jesus not merely as one who performs resurrection but as its ontological source. Martha's subsequent confession remarkably anticipates the Gospel's stated purpose in 20:31, creating a structural inclusio around the passion narrative.",
+        "The chapter's literary architecture interweaves dialogue, narrative delay, and dramatic irony. Jesus' deliberate two-day postponement ensures Lazarus has been entombed four days, countering contemporary Jewish beliefs that the soul lingered near the body for three days. Caiaphas's unwitting prophecy (verses 49–52) exemplifies Johannine irony, as the high priest unknowingly articulates substitutionary atonement theology. This narrative thus bridges Christological revelation with soteriological consequence, making Jesus' life-giving power inseparable from his impending death."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 11: Prophetic perspective",
+      "overview": [
+        "John 11 unfolds approximately three years into Christ's public ministry, mere weeks before the Passover that would witness His crucifixion—placing this event around 30-33 AD, during the final approach to Jerusalem that would culminate in the cross. This chapter stands at the hinge point of redemptive history, where the long-awaited Messiah demonstrates His authority over humanity's final enemy even as He moves deliberately toward His own death.",
+        "Within the grand arc of Scripture, this passage occupies the climactic moment of the Incarnation phase, where the eternal Word made flesh reveals what the prophets had only glimpsed from afar. Isaiah had declared that God would swallow up death forever and wipe away tears from all faces. Ezekiel had envisioned the valley of dry bones raised to life by the breath of the Almighty. Daniel had proclaimed that those who sleep in the dust would awaken. In the village of Bethany, standing before a sealed tomb, Jesus declares Himself to be the fulfillment of every resurrection promise: \"I am the resurrection and the life.\"",
+        "The raising of Lazarus operates as a profound type of the greater resurrection to come. Lazarus emerges from four days of death still bound in grave clothes, requiring human hands to loose him—a resuscitation to mortal life that would end again in death. Christ's own resurrection three chapters later will be categorically different: He rises never to die again, passing through grave clothes that remain undisturbed, the firstfruits of an entirely new order of existence. Lazarus thus functions as a sign pointing beyond itself, a preview of coming glory offered to eyes that would see.",
+        "The eschatological threads here weave through past, present, and future. Martha confesses the standard Jewish hope: \"I know he will rise again in the resurrection at the last day.\" Jesus shatters the merely future tense of that hope by announcing that the resurrection power stands before her in flesh. What Israel anticipated at history's end has invaded the middle of history in the person of the Son. Yet the full harvest remains outstanding—believers still die, still await the trumpet sound, still groan for the redemption of their bodies.",
+        "For the church living between advents, John 11 offers unshakeable confidence. The One who wept at Lazarus's tomb feels the weight of every grave we stand beside. The One who commanded death to release its captive holds the same authority over every saint who sleeps in Christ. The resurrection is not merely an event we await; He is a Person we already possess."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.634899+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

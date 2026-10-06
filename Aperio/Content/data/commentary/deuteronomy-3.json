@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on Deuteronomy 3",
+      "overview": [
+        "The heart of this passage is Moses recounting God's faithfulness in military victory while simultaneously showing us the pain of personal limitation—the reminder that even the most obedient servants of God sometimes encounter closed doors we cannot pass through.",
+        "Moses recounts how God defeated Og of Bashan and gave the Israelites victory over giants and walled cities. The language is vivid and personal: \"The Lord our God delivered him over to us.\" Notice how often the pronoun appears—\"we defeated,\" \"we took,\" \"we conquered.\" Moses wants the people to remember their own agency and courage within God's protection. This matters deeply. God does not work around our faithfulness but through it. When we face obstacles that feel insurmountable, we can move forward knowing that God goes ahead of us, that our efforts matter, and that His help is not divorced from our participation.",
+        "Yet the passage concludes with something bittersweet. God told Moses he could not cross the Jordan, though He showed him the land from Mount Pisgah. Moses had struck the rock in anger rather than speaking to it as commanded, and consequences followed. This is not punishment in the sense of revenge—it is the natural weight of disobedience. Yet even here, God's tenderness shows. He did not abandon Moses or leave him hopeless. He permitted him to see the promised land, to know that His promises would be fulfilled, even if Moses would not personally enter.",
+        "This teaches us something crucial about the Christian life: obedience matters, consequences are real, but God's love never withdraws. Sometimes we face limitations in our own promised lands. We may not lead a certain ministry, reach a particular goal, or see a cherished dream fulfilled. The question is not whether God's purpose is thwarted, but whether we can trust His goodness even when our particular role reaches its end.",
+        "What dream or vision have you released to God, and how have you found His faithfulness even in that letting go?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 3: Scholarly study",
+      "overview": [
+        "Deuteronomy 3 continues Moses's historical retrospective before the assembled Israelites on the plains of Moab, forming part of the extended recollection that spans chapters 1–3. This passage recounts the victory over Og king of Bashan and the subsequent allocation of Transjordanian territories, concluding with Moses's poignant plea to enter Canaan and Yahweh's definitive refusal. The literary function of this chapter serves both to validate Israel's territorial claims and to prepare for the transition of leadership to Joshua.",
+        "The defeat of Og receives considerable attention, with the text emphasizing that Israel captured sixty fortified cities belonging to Argob in Bashan. The term *mibtsar* (מִבְצָר), denoting a fortified or inaccessible stronghold, underscores the magnitude of this military achievement against seemingly impregnable defenses. The parenthetical notice regarding Og's enormous iron bedstead—nine cubits by four cubits—has generated substantial scholarly discussion. Some interpreters view this as an authentic antiquarian detail preserved in Rabbah of the Ammonites, while others suggest it may reference a basalt sarcophagus or dolmen, with \"iron\" (*barzel*) possibly indicating the dark volcanic stone common to the region.",
+        "The territorial distribution to Reuben, Gad, and the half-tribe of Manasseh in verses 12–17 establishes important precedent for understanding Israelite geography and tribal obligations. Moses employs the term *yarash* (יָרַשׁ), meaning to possess or dispossess, which carries theological weight throughout Deuteronomy as expressing divinely sanctioned inheritance. The stipulation that armed men must cross over to assist their brothers before returning to their allotment anticipates tensions that will surface in Joshua 22.",
+        "The chapter's emotional climax occurs in Moses's personal appeal to enter the promised land (verses 23–28). Yahweh's response employs the emphatic *rav-lak* (\"enough for you\"), definitively closing the matter while redirecting Moses to commission Joshua. The verb *tsavah* (צָוָה), meaning to command or charge, appears prominently here, establishing Joshua's authority as divinely mandated rather than merely humanly appointed. This interplay between Moses's unfulfilled longing and his obedient commissioning of a successor provides profound theological reflection on faithful leadership that prioritizes God's purposes over personal aspirations, a theme that resonates throughout the Deuteronomistic tradition."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 3: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 3 stands at a pivotal threshold in Israel's journey, spoken by Moses approximately 1400 years before Christ's birth, on the plains of Moab as the second generation prepares to cross the Jordan into Canaan. This moment occurs near the close of the wilderness wandering period, positioned within redemptive history between the Exodus deliverance and the conquest—that crucial transition from wandering to inheritance, from promise to possession.",
+        "The chapter recounts the decisive victories over Og king of Bashan and the allocation of Transjordan territories to Reuben, Gad, and the half-tribe of Manasseh. These military triumphs were not mere territorial acquisitions but covenant fulfillments, as Yahweh systematically dismantled the Amorite kingdoms that stood between His people and their promised rest. The destruction of sixty fortified cities with walls, gates, and bars demonstrates that no human stronghold can resist the advance of God's redemptive purposes. Og himself, whose iron bedstead measured thirteen feet, represents the last of the Rephaim giants—ancient enemies whose defeat signals the crushing of serpentine opposition to God's kingdom.",
+        "Here we witness a profound typological pattern: Joshua emerges as Moses's successor, commissioned to lead Israel into rest. Moses declares, \"The LORD your God Himself crosses over before you. He will destroy these nations before you... Joshua is the one who will cross over before you.\" This transfer of leadership foreshadows the greater transition from law to grace, from Moses who could bring Israel to the border but not into rest, to Yeshua—the very name Joshua bears—who alone leads God's people into their eternal inheritance. The writer of Hebrews explicitly develops this typology, revealing that Joshua's conquest provided only a shadow of the Sabbath rest Christ secures.",
+        "Moses's exclusion from Canaan, glimpsing Pisgah's view but prohibited from entry, carries profound prophetic weight. The law, personified in Moses, cannot bring the people into ultimate rest. It leads to the threshold, reveals the promise, but requires Another to complete the journey. This is not punishment alone but prophetic pattern—the old covenant serves its purpose and yields to the new.",
+        "For the church dwelling between advents, Deuteronomy 3 speaks assurance: the God who fought for Israel fights for us. The giants of our age—however imposing—fall before the advancing kingdom. Christ has already crossed over before us, and where our Joshua leads, we shall certainly follow into everlasting rest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.102164+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 2: The Weight of Succession",
+      "overview": [
+        "At the threshold of a new kingdom, Solomon receives not a crown but a charge—words that transform leadership from power into stewardship. The opening chapter of 1 Kings shows us that genuine authority flows not from self-assertion but from faithfulness to what has been entrusted to us.",
+        "David's deathbed counsel to his son carries surprising weight. Rather than inspirational rhetoric, the aging king offers practical wisdom wrapped in spiritual conviction. He tells Solomon to \"be strong, show yourself a man,\" then immediately grounds this strength in covenant obedience: \"keep the requirements of the Lord your God, walking in obedience to him.\" This sequence matters deeply. True strength is not autonomous confidence but dependent alignment with God's purposes. Solomon is called not to carve his own path but to walk the path already marked by God's Law.",
+        "The stabilization of Solomon's reign—securing the kingdom through difficult but necessary decisions—reveals a harder truth about responsibility. Leadership often requires making choices that hurt people. The removal of threats, the consolidation of power, the execution of Joab and Shimei appear ruthless by modern sensibilities. Yet within the ancient Near Eastern context and Israel's covenant framework, Solomon is establishing order and justice. There is a difference between cruelty born of ambition and firmness born of responsibility to protect what God has given you to steward.",
+        "What strikes the pastoral heart is how quickly Solomon moves from receiving the kingdom to securing it to—in the very next chapter—asking God for wisdom. He understands that inheriting authority means nothing without the character and discernment to exercise it well. His first instinct is not to consolidate power but to kneel before God and ask for a listening heart.",
+        "For those entrusted with any measure of responsibility—in family, work, or church—this passage invites honest reflection: Am I building on the foundation that has been given to me? Do I lead with strength rooted in obedience rather than self-promotion?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 2: Scholarly study",
+      "overview": [
+        "The second chapter of 1 Kings narrates the decisive transition of power from David to Solomon, presenting what scholars have termed the \"testament of David\" alongside the violent consolidation of Solomonic authority. This passage concludes the Succession Narrative (2 Samuel 9–20; 1 Kings 1–2), a masterwork of ancient Near Eastern court literature that traces the tumultuous question of who would succeed David. The chapter divides naturally into David's deathbed instructions (vv. 1–12) and Solomon's systematic elimination of potential threats to his throne (vv. 13–46), concluding with the formulaic statement that \"the kingdom was established in the hand of Solomon.\"",
+        "David's charge to Solomon employs covenantal language reminiscent of Deuteronomistic theology, urging him to walk in God's ways and keep his statutes (*ḥuqqôt*), commandments (*miṣwôt*), and testimonies (*ʿēdôt*)—technical terminology drawn from Israel's legal traditions. This theological framework conditions the dynastic promise upon covenantal fidelity, reflecting the Deuteronomistic historian's characteristic concern with Torah observance as determinative for royal success. Yet the chapter presents an interpretive tension: David's pious exhortation stands alongside pragmatic, even ruthless, instructions regarding Joab and Shimei, raising questions about whether these represent genuine concern for justice or calculated political maneuvering cloaked in religious language.",
+        "The Hebrew term *ḥesed* (covenant loyalty) appears significantly in David's instruction regarding Barzillai's sons, contrasting mercy shown to allies with vengeance reserved for enemies. Solomon's subsequent actions against Adonijah, Abiathar, Joab, and Shimei demonstrate the consolidation typical of ancient Near Eastern succession, yet the narrator presents these eliminations as responses to the victims' own transgressions rather than mere political expedience. The banishment of Abiathar to Anathoth notably fulfills the prophetic word against Eli's house (1 Samuel 2:27–36), illustrating the Deuteronomistic concern for prophetic fulfillment.",
+        "Scholars debate whether this chapter portrays Solomon sympathetically as wisely securing his kingdom or critically as ruthlessly eliminating rivals. The concluding formula—\"the kingdom was established\"—uses *nākôn*, suggesting firmness and legitimacy, yet the bloodshed required raises enduring questions about the relationship between divine providence and human political violence in Israel's monarchic theology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 2: Prophetic perspective",
+      "overview": [
+        "The events of 1 Kings 2 unfold approximately 970 years before the incarnation of Christ, marking the final days of David's forty-year reign and the consolidation of Solomon's throne over united Israel. This chapter stands at a pivotal hinge in redemptive history—the kingdom era has reached its zenith, and the Davidic covenant given in 2 Samuel 7 now passes to its first successor. Within the grand arc of God's plan, we stand between the establishment of the monarchy and its coming division, watching as the eternal promises made to David's house take their next step toward ultimate fulfillment in great David's greater Son.",
+        "David's deathbed charge to Solomon carries profound typological weight. The dying king commands his son to walk in the statutes of the Lord, keeping His commandments \"that you may prosper in all that you do.\" Here echoes the Deuteronomic pattern—covenant faithfulness yields blessing, while apostasy brings judgment. David himself could not perfectly embody this call, yet he points forward to One who would fulfill every righteous requirement of the Law, prospering eternally because He never deviated from the Father's will.",
+        "The bloody consolidation that follows—Adonijah's execution, Abiathar's banishment, Joab's death at the altar horns, Shimei's delayed judgment—reveals the severe mercy required to establish an uncontested throne. These acts, troubling to modern sensibilities, demonstrate that the kingdom of peace must first be secured through the removal of all rivals and rebels. Typologically, this shadows the absolute authority Christ receives at His exaltation. Every knee shall bow; every enemy shall be placed beneath His feet. The usurpers who grasped at David's throne find their counterpart in the principalities and powers that Christ has disarmed and put to open shame.",
+        "Abiathar's removal from the priesthood particularly arrests the prophetic eye, for the narrator explicitly states this fulfilled the word spoken against Eli's house at Shiloh. Here Scripture interprets Scripture—prophecy spoken generations earlier reaches its completion, demonstrating that no divine word falls to the ground void. The Zadokite priesthood now ascends, itself a shadow of the coming High Priest after the order of Melchizedek.",
+        "For the church dwelling between the advents, this chapter declares that our King's throne is eternally established. Every enemy has been judged at the cross or awaits final sentencing at His return. We serve a Solomon greater than Solomon—the Prince of Peace whose kingdom suffers no rivals and whose reign knows no end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.534794+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

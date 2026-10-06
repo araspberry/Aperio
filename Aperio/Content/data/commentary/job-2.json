@@ -1,0 +1,56 @@
+{
+  "book": "Job",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 2: When Faith Faces the Furnace",
+      "overview": [
+        "At the heart of Job 2 lies a profound mystery: God permits suffering to test and refine genuine faith, and Satan's accusations about the nature of our devotion reveal how deeply we misunderstand both ourselves and God's character. This chapter strips away Job's wealth and health, asking the piercing question that every believer eventually faces: Do we love God because of his blessings, or for himself alone?",
+        "The adversary's challenge cuts to the bone of our spiritual identity. Satan suggests that Job's righteousness was merely transactional—serve God, receive benefits, maintain faith. But this test reveals that authentic worship cannot be purchased by prosperity. When Job sits in ashes, scraping his boils with broken pottery, he occupies the place where pretense dies. Here, without comfort or explanation, his faith must choose its true object.",
+        "What strikes us most is Job's wife's question: \"Do you still hold fast your integrity? Curse God and die\" (2:9). She voices the logic of despair that tempts us all. When suffering persists without meaning, when loss seems pointless, the human heart grows weary. Yet Job refuses to translate his pain into bitterness toward God. His \"though he slay me\" faith—though the text hasn't revealed his full response yet—already points toward a trust deeper than circumstance.",
+        "This passage speaks powerfully to those enduring inexplicable suffering. It validates that pain is real, that loss wounds genuinely, and that the questions arising from suffering are neither sinful nor weak. But it also insists that our relationship with God must transcend our circumstances. The goal of faith isn't explaining suffering away but learning to trust God through it, discovering that his character remains constant when everything else crumbles.",
+        "Where in your life are you being invited to love God not for what he gives, but for who he is?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 2: Scholarly study",
+      "overview": [
+        "Job 2 continues the narrative prologue that began in the preceding chapter, presenting a second heavenly council scene that intensifies the testing of the protagonist. The passage belongs to the prose framework of the book, likely composed in classical Hebrew prose distinct from the poetic dialogues that follow. Ancient Near Eastern parallels, particularly the Babylonian \"Ludlul Bēl Nēmeqi\" and the Sumerian \"Man and His God,\" provide comparative context for understanding theodicy literature, though Job's treatment remains theologically distinctive in its radical questioning.",
+        "The chapter opens with another assembly of the \"sons of God\" (bĕnê hāʾĕlōhîm), heavenly beings who present themselves before Yahweh. The śāṭān again appears among them, and the divine dialogue reprises the earlier exchange with significant escalation. God's assertion that Job \"still holds fast his integrity\" employs the term tummâ, denoting wholeness, completeness, or moral blamelessness—a quality the adversary now proposes to test through physical affliction. The phrase \"skin for skin\" (ʿôr bĕʿad-ʿôr) in verse 4 remains enigmatically debated; it likely represents a proverbial expression suggesting that humans will sacrifice anything external to preserve their own bodies, thus predicting Job will curse God when his flesh is threatened.",
+        "The divine permission granted in verse 6—\"he is in your hand; only spare his life\" (napšô)—establishes boundaries that paradoxically affirm both divine sovereignty and the genuine nature of the test. Job's subsequent affliction with \"loathsome sores\" (šĕḥîn raʿ) recalls the plague terminology of Deuteronomy 28:35, situating his suffering within covenantal curse language while the narrative simultaneously denies any covenantal violation on Job's part.",
+        "Job's wife introduces the crucial verb bārak, typically meaning \"bless\" but functioning euphemistically here for \"curse\"—the same term the śāṭān predicted Job would employ. Job's response characterizes her speech as that of the \"foolish women\" (nĕbālôt), invoking wisdom tradition categories. His rhetorical question about receiving good and evil from God employs the verb qibbēl, anticipating the book's ultimate concern with proper reception of divine mystery.",
+        "The arrival of the three friends—Eliphaz, Bildad, and Zophar—from geographically dispersed locations establishes the universal scope of the wisdom dialogue to follow, their seven days of silence marking the solemnity befitting profound grief."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 2: Prophetic perspective",
+      "overview": [
+        "Job 2 unfolds during the patriarchal era, likely around the time of Abraham or shortly after, making it one of the oldest narratives in Scripture—perhaps 2,000 years before the coming of Christ. The land of Uz places Job in the ancient Near East, outside the covenant community of Israel, yet firmly within the sovereign knowledge of the God who would later call Abraham and establish a people through whom blessing would flow to all nations. This passage stands near the beginning of redemptive history, after the Fall has unleashed sin and suffering into creation but before the formal covenants that would structure God's rescue plan.",
+        "Here in this second heavenly council, the adversary returns before the throne, and God again initiates the conversation about His servant Job. The intensification of suffering—from possessions and children to Job's own flesh and bone—reveals a profound typological pattern that stretches forward across millennia to Golgotha. Job, the blameless sufferer who loses everything yet refuses to curse God, stands as a shadow of the greater Righteous One who would endure not merely permitted affliction but the full weight of divine wrath, who would be struck in His body, forsaken by companions, and sit in ashes of humiliation—yet without sin.",
+        "The wife's counsel to \"curse God and die\" echoes the serpent's original temptation: to define good and evil apart from divine wisdom, to grasp at autonomy in the face of suffering. Job's response—\"Shall we receive good from God, and shall we not receive evil?\"—demonstrates a theology of divine sovereignty that the Scriptures will progressively unfold through exile, through the cross, and into the mystery of the suffering church.",
+        "The arrival of Job's three friends, sitting seven days in silence, initiates the long dialogue that will occupy most of this book. Their initial wordless grief models something beautiful—presence in suffering—before their theology tragically fails them in the chapters ahead.",
+        "For the church dwelling between Christ's ascension and return, Job 2 speaks with enduring power. Believers still suffer in bodies marked for resurrection, still face the accuser's insinuations that faith is merely transactional, still must choose whether to curse or to trust. Yet we possess what Job longed for: the revelation of a Redeemer who lives, who Himself sat in our ashes, who transforms innocent suffering into redemptive participation in His own story. The patience of Job finds its fulfillment in the faithfulness of Christ, and in Him, every tear is gathered for the day when suffering itself shall be no more."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.967745+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

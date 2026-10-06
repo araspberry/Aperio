@@ -1,0 +1,140 @@
+{
+  "book": "Job",
+  "bookIndex": 17,
+  "status": "Editorial draft",
+  "title": "Faith Speaking from the Place of Pain",
+  "subtitle": "Job challenges easy explanations and asks to be heard by God",
+  "atAGlance": {
+    "genre": "Wisdom drama with a prose frame, extended poetic debate, and divine speeches",
+    "setting": "The land of Uz; no secure historical date for the narrated setting",
+    "composition": "Author unknown; proposed dates vary, and the relationship among the book’s parts is debated",
+    "audience": "People wrestling with undeserved suffering, divine justice, and the limits of human explanation"
+  },
+  "sections": [
+    {
+      "title": "What the reader knows and Job does not",
+      "paragraphs": [
+        "Job begins as a man whose integrity is affirmed. His suffering is not introduced as the exposure of a hidden wickedness. The heavenly scenes give readers a perspective unavailable to Job, while raising the question of whether faithfulness can exist apart from the benefits it receives. Disaster then reaches his possessions, household, and body. The book asks us to remain with the person who experiences those losses rather than rushing to turn the opening into a complete explanation of suffering.",
+        "Job’s friends initially do something deeply appropriate: they come, grieve, and sit with him in silence. The trouble begins when they decide they can explain his condition. Their need to defend an orderly account of the world gradually overwhelms their responsibility to listen to the man before them."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Why the arguments must be heard in sequence",
+      "paragraphs": [
+        "The long central debate gives Job and his friends repeated turns to speak. The friends insist in different ways that suffering reveals wrongdoing and that repentance will restore Job’s position. Job knows that this account does not fit his life. He protests, grieves, questions, and seeks an audience with God. His language can be extreme because the stakes are personal, not merely theoretical.",
+        "Individual speeches should not be lifted out as though every line expresses the book’s settled teaching. At the end, God rebukes Job’s three friends for what they have said about Him. Their words belong to a dramatic argument in which confident religious claims are being tested. Read who is speaking, what has just been said, and how the claim relates to the whole conversation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Wisdom is larger than a successful explanation",
+      "paragraphs": [
+        "Chapter 28 interrupts the debate with a poem about the search for wisdom. Human ingenuity reaches deep into the earth for precious materials, yet wisdom cannot be acquired in the same way. The poem widens the question beyond which speaker can win an argument. There are limits to what human beings can obtain through skill, wealth, or persistence.",
+        "Job’s final defense recalls the life he knew and the ethical commitments he has tried to keep. His memories include care for people whose need was visible to him. Elihu then enters with further speeches, insisting that he has something the older men have missed. The extended sequence makes readers feel the pressure of many words spoken around a suffering person. More speech is not automatically deeper understanding."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "God answers, but the answer changes the scale",
+      "paragraphs": [
+        "When God speaks from the whirlwind, He does not disclose the heavenly conversation from the opening. Instead, the speeches lead Job through a creation whose breadth, creatures, dangers, and patterns exceed human management. Job is addressed within a world he cannot fully survey. The encounter challenges his claims without endorsing his friends’ accusations.",
+        "Readers differ over how best to understand every feature of Job’s final response. The book nevertheless brings him into direct encounter with the God he has sought. Its conclusion includes the correction of the friends, Job’s prayer for them, and restored life. The new gifts should not be read as a promise that every sufferer will receive equivalent compensation, or as though the children who died have become interchangeable with those later born."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A book that requires patience from its readers",
+      "paragraphs": [
+        "Job’s setting is not securely dated. Its household world has sometimes encouraged readers to place it near the ancestors in Genesis, but the text does not establish that chronology. The unnamed author’s own period is another disputed question. Aperio therefore places Job on the wisdom shelf rather than assigning its chapters invented years.",
+        "Read with enough space to hear the differences among grief, accusation, counsel, and prayer. The book gives suffering a voice before God and exposes the cruelty of explanations that make the wounded person responsible for preserving everyone else’s certainty. Its wisdom includes the humility to recognize what we do not know, the courage to keep addressing God, and the obligation to remain present to another person when a satisfying answer is beyond us."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Integrity and catastrophe",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The prose opening establishes Job’s character, the testing, and his friends’ arrival."
+    },
+    {
+      "label": "The debate",
+      "startChapter": 3,
+      "endChapter": 27,
+      "description": "Job’s lament and repeated exchanges test competing accounts of suffering and justice."
+    },
+    {
+      "label": "Wisdom and Job’s final defense",
+      "startChapter": 28,
+      "endChapter": 31,
+      "description": "A wisdom poem and Job’s account of his life bring the central dispute toward its close."
+    },
+    {
+      "label": "Elihu speaks",
+      "startChapter": 32,
+      "endChapter": 37,
+      "description": "A new voice offers further arguments about suffering, justice, and God’s greatness."
+    },
+    {
+      "label": "God and Job",
+      "startChapter": 38,
+      "endChapter": 42,
+      "description": "Divine speeches, Job’s response, the rebuke of his friends, and restored life conclude the book."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Undeserved suffering",
+      "description": "The opening prevents readers from treating Job’s pain as proof of secret guilt."
+    },
+    {
+      "name": "Responsible speech",
+      "description": "Religious explanations can become harmful when they refuse to hear a sufferer."
+    },
+    {
+      "name": "Human limits",
+      "description": "Encounter with God stretches beyond the possession of a complete explanation."
+    }
+  ],
+  "timeline": {
+    "era": "wisdom",
+    "dateLabel": "Setting undated; composition uncertain",
+    "context": "Job belongs to the Bible’s sustained reflection on suffering and wisdom.",
+    "note": "Neither a patriarchal date nor a precise authorial period can be established securely."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 42,
+      "era": "wisdom",
+      "label": "Wisdom in the face of suffering",
+      "dateLabel": "No secure narrative date",
+      "note": "The debate is organized as a literary whole, not as a sequence of datable historical periods."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Job · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Job",
+      "url": "https://bible.usccb.org/bible/job/0"
+    }
+  ]
+}

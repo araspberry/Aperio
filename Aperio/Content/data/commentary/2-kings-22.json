@@ -1,0 +1,54 @@
+{
+  "book": "2 Kings",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Kings 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Kings 22: The Power of God's Word to Transform a Nation",
+      "overview": [
+        "When King Josiah discovered the Book of the Law hidden in the temple, he encountered the same transformative power that God's Word still holds today—the ability to awaken conscience, restore direction, and redirect an entire life toward faithfulness.",
+        "The discovery itself is remarkable. Years of neglect had left God's written Word forgotten, literally buried beneath the accumulated dust of spiritual indifference. Yet when the high priest brought it to light and it was read before the young king, something profound shifted. Josiah's response was immediate and visceral: he tore his clothes, recognizing the gap between what God required and how his nation had been living. This wasn't performative grief but genuine conviction—the kind that comes when we suddenly see ourselves clearly against God's standard.",
+        "What strikes us most is that Josiah didn't dismiss what he heard or minimize it. Instead, he sought wise counsel from the prophetess Huldah, wanting to understand God's will more fully. He took responsibility not as a self-righteous reformer but as a humble servant wanting to realign his kingdom with God's revealed truth. This is discipleship in its truest form: encountering Scripture, allowing it to expose our drift, and then actively positioning ourselves to obey.",
+        "The passage invites us to ask ourselves difficult questions. How often do we hear God's Word without truly hearing it? We have unprecedented access to Scripture, yet spiritual numbness can still creep in through familiarity or distraction. Josiah teaches us that renewed encounter with God's Word requires both honest reflection and willing action. When we let Scripture speak to us afresh—not as abstract doctrine but as God's living instruction for our lives—it has power to transform us just as it transformed a kingdom.",
+        "What area of your life has drifted from what you know God's Word teaches, and what would it mean to tear your garments in genuine repentance and recommitment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Kings 22: Scholarly study",
+      "overview": [
+        "The narrative of 2 Kings 22 represents a pivotal moment in the Deuteronomistic History, recounting the discovery of \"the book of the law\" (סֵפֶר הַתּוֹרָה, *sepher hattorah*) during Temple renovations under King Josiah of Judah, who reigned approximately 640–609 BCE. This chapter initiates the account of the most thoroughgoing religious reform in Judean history, presenting Josiah as the ideal Davidic monarch who fulfills the deuteronomic prescription for kingship outlined in Deuteronomy 17:18–20. The Deuteronomistic historian portrays Josiah in superlative terms, declaring that no king before or after turned to YHWH with such complete devotion—a striking assessment given the similar accolades bestowed upon Hezekiah in 2 Kings 18:5.",
+        "The term employed for the Temple repair work, *badeq* (בֶּדֶק), denotes structural damage or breach, indicating that the sanctuary had fallen into considerable disrepair during the lengthy reign of Manasseh and the brief tenure of Amon. The discovery of the scroll during these renovations raises questions that have occupied scholars for centuries: Was this document genuinely lost, or was its \"finding\" a literary or political device? Most critical scholars identify the discovered scroll with some form of Deuteronomy, particularly its legal core, though debate continues regarding whether it represents proto-Deuteronomy, the entire book, or a related document.",
+        "Josiah's dramatic response of tearing his garments (*qara'*, קָרַע) upon hearing the scroll's contents signals profound distress and penitential grief, recognizing the accumulated covenant violations of his ancestors. His consultation of the prophetess Huldah rather than Jeremiah or Zephaniah—both active during his reign—remains puzzling. Huldah's oracle delivers a dual message: inevitable judgment upon Judah for its idolatries, yet respite for Josiah himself due to his tender heart (*rakh*, רַךְ) and genuine humility before YHWH. The chapter thus functions theologically to validate both the coming catastrophe of 586 BCE and the exceptional righteousness of Josiah, maintaining divine justice while honoring individual piety. Within the canonical structure, this narrative bridges the accumulated sins catalogued throughout Kings with the final chapters depicting Judah's demise, positioning Josiah's reform as the last significant spiritual awakening before exile."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Kings 22: Prophetic perspective",
+      "overview": [
+        "The events of 2 Kings 22 unfold approximately 622 years before the birth of Christ, during the final decades of the kingdom of Judah's existence. King Josiah ascends to the throne as a boy of eight years and by his eighteenth year initiates repairs to the temple that had fallen into disrepair under the idolatrous reigns of his father Amon and grandfather Manasseh. Within the grand arc of redemption, this chapter stands at the precipice of exile—the covenant people have wandered so far that the very Book of the Law has been lost within the temple itself, buried beneath decades of apostasy and neglect.",
+        "The discovery of the Book of the Law by Hilkiah the high priest constitutes one of Scripture's most poignant moments. Here is the Word of God, given through Moses at Sinai, entrusted to priests for perpetual reading and instruction, now found as though it were a forgotten relic. When the scribe Shaphan reads its words before Josiah, the king tears his robes in anguish—the proper response of a heart still tender before divine truth. This tearing of garments prophetically contrasts with the tearing of the kingdom that looms ahead, yet it also anticipates another tearing: the temple veil rent from top to bottom when the true King dies to establish a new and better covenant.",
+        "Josiah himself stands as a type of the righteous king who turns his heart wholly toward the Lord, who trembles at God's Word and leads his people in covenant renewal. Yet his reforms, however genuine, cannot ultimately avert the judgment decreed against Judah. The prophetess Huldah confirms this tension—because Josiah's heart was tender and he humbled himself, he will be gathered to his grave in peace before the full measure of wrath falls. This reveals a profound pattern: individual repentance brings personal deliverance even when corporate judgment remains certain.",
+        "The lost and found Scriptures prefigure seasons in church history when God's Word has been obscured by tradition, neglect, or outright suppression, only to be recovered and spark reformation. The Reformation itself echoed Josiah's rediscovery, as the Bible was returned to common hands and hearts were again torn by its piercing truth.",
+        "For the church living between the advents, this chapter calls us to examine whether we have lost the Word even while possessing it—whether Scripture remains a living authority or a forgotten scroll within our own temples."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "12_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.666337+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

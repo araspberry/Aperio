@@ -1,0 +1,57 @@
+{
+  "book": "Mark",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 14: The Weight of Betrayal and Faithfulness",
+      "overview": [
+        "In the final chapter before his crucifixion, Mark presents Jesus moving toward his passion with resolute clarity, even as those closest to him stumble into denial, betrayal, and fear. This is the human cost of redemption—not only Christ's suffering, but the fracturing of the relationships he held most dear.",
+        "The chapter opens with religious leaders plotting against Jesus while a woman anoints him with costly perfume, an act of devotion that contrasts sharply with Judas's agreement to betray him for thirty pieces of silver. Mark is showing us something profound: in the same breath, we encounter both extravagant love and calculated treachery. This is not distant history but a mirror held to our own hearts. We too live in this tension between moments of genuine worship and moments when we sell out what matters most for comfort, fear, or compromise.",
+        "The Last Supper transforms ordinary bread and wine into covenant language, Jesus establishing a new relationship with his people sealed in his blood. Yet even as he feeds them with this sacred meal, he announces that one of them will betray him. Peter's bold promise—\"I will not deny you\"—rings hollow against Jesus's prediction of his threefold denial. Peter genuinely believed in his own faithfulness; he didn't anticipate how fear would unmake him.",
+        "Gethsemane shows Jesus in agony, sweating drops of blood as he faces what lies ahead. He asks his Father if there is another way, yet submits: \"Not what I will, but what you will.\" This is faithfulness not as immunity from struggle, but as obedience that costs everything. His disciples, meanwhile, sleep through his greatest battle. They cannot watch with him even one hour.",
+        "Mark invites us into honest reckoning: Where do we promise more than we can deliver? Where does fear silence our witness? Yet he also shows us a Savior whose love is not diminished by our failures, who moves toward the cross not despite our betrayals but because of them, to redeem what we cannot redeem ourselves.",
+        "Where do you see yourself in this chapter—in devotion, denial, or something between?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 14: Scholarly study",
+      "overview": [
+        "Mark 14 constitutes a pivotal narrative unit within the Second Gospel, encompassing the conspiracy against Jesus, the anointing at Bethany, the Last Supper, Gethsemane, and the arrest—events that inaugurate the Passion narrative proper. Composed likely in Rome during the late 60s CE, Mark's account reflects both urgency and theological intentionality, presenting Jesus as one who moves deliberately toward his appointed suffering while those around him consistently fail to comprehend.",
+        "The chapter opens with the religious authorities seeking to arrest Jesus \"by stealth\" (δόλῳ, *dolō*), a term carrying connotations of cunning and treachery that Mark employs to characterize the opposition's moral bankruptcy. This conspiracy frames the subsequent anointing scene, where an unnamed woman performs what Jesus interprets as anticipatory burial preparation. The tension between the disciples' indignation over the costly nard (valued at three hundred denarii) and Jesus' commendation of the woman's act illustrates a recurring Markan theme: insiders frequently misunderstand while unlikely figures demonstrate genuine discipleship.",
+        "The Last Supper narrative introduces crucial eucharistic vocabulary, particularly the identification of bread as \"body\" (σῶμα, *sōma*) and wine as \"blood of the covenant\" (αἷμα τῆς διαθήκης, *haima tēs diathēkēs*), language evoking Exodus 24:8 and establishing Jesus' death as inaugurating a new covenantal relationship. Scholarly debate continues regarding whether Mark depicts a Passover meal or a meal occurring before Passover, with chronological tensions between the Synoptics and John's Gospel remaining unresolved.",
+        "The Gethsemane pericope presents Jesus addressing God as \"Abba\" (Ἀββά), the Aramaic familiar term for father, revealing intimate divine relationship amid profound anguish. The disciples' repeated failure to remain watchful—sleeping three times despite Jesus' explicit instructions—prefigures Peter's threefold denial and exemplifies the human incapacity to accompany Jesus into suffering.",
+        "The chapter concludes with the arrest and the enigmatic figure of the young man fleeing naked, a detail unique to Mark that some interpreters read as authorial signature while others see symbolic representation of discipleship failure. Throughout, Mark crafts a narrative wherein divine necessity and human agency intersect, with Jesus maintaining sovereign awareness even as events spiral toward the cross."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 14: Prophetic perspective",
+      "overview": [
+        "Mark chapter fourteen unfolds during the final week of Jesus' earthly ministry, approximately AD 30, mere days before the crucifixion that would divide all human history. This passage stands at the climactic hinge of redemptive history—the long-anticipated moment toward which every sacrifice, every prophetic utterance, and every covenant promise had been pointing since the Fall in Eden. We have moved through Creation's glory, humanity's rebellion, Abraham's call, Israel's exodus, the rise and collapse of the Davidic kingdom, the bitter centuries of exile, and the silent years of waiting. Now, in an upper room in Jerusalem, the Son of God prepares to accomplish what the entire Old Testament had foreshadowed in blood and symbol.",
+        "The anointing at Bethany opens this chapter with profound typological resonance. The woman who breaks her alabaster flask and pours costly nard upon Jesus' head performs unwittingly the anointing of the true King-Priest for His burial. Where Samuel once anointed David, and Zadok anointed Solomon, this unnamed woman anoints the greater David, the eternal Solomon, the Messiah whose throne knows no end. Her act of lavish worship anticipates the costly redemption about to be purchased—not with silver or gold, but with precious blood.",
+        "The institution of the Lord's Supper reveals Jesus as the fulfillment of Passover itself. The original Passover lamb, slain in Egypt, protected Israel's firstborn from the angel of death; now the Lamb of God, slain from the foundation of the world, offers His body and blood to deliver all who believe from eternal death. When Jesus declares the bread His body and the cup His blood of the new covenant, He announces that Jeremiah's prophecy is finding its consummation. The old covenant, written on stone, sealed with animal blood, is giving way to the new covenant, written on hearts, sealed with divine blood.",
+        "In Gethsemane, we witness the Son wrestling with the cup of divine wrath that Israel's prophets had foretold—the cup Jerusalem would drink, now drunk by Jerusalem's Lord on behalf of His people. His arrest fulfills His own words and the ancient Scriptures: the Shepherd struck, the sheep scattered.",
+        "For the church living between the advents, this chapter calls us to faithful remembrance. Each celebration of the Lord's Table proclaims His death until He comes. We live as those who have been purchased by the blood of the new covenant, awaiting the day when Christ drinks the fruit of the vine anew in the Father's kingdom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.540108+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

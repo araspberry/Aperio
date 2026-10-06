@@ -1,0 +1,54 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Chronicles 21: The Weight of Our Choices",
+      "overview": [
+        "The sin of David—his decision to number Israel—reveals something every believer must confront: our choices carry consequences we cannot always foresee, and pride has a way of disguising itself as innocent action. This passage shows us that even great leaders stumble, and that true greatness is measured not by avoiding failure, but by how we respond when we fall.",
+        "David's census wasn't inherently sinful, but his motivation was. He wanted to know his military strength, to count his resources and glory in human numbers rather than trust God's protection. Satan exploited this opening, and David moved forward with the count despite Joab's reluctant resistance. When the reality of his sin hit him, David experienced the anguish of conviction—not the defensive shame that hides, but the honest repentance that runs toward God rather than away.",
+        "What strikes the pastoral heart is God's mercy within the consequences. Three judgments were offered: famine, military defeat, or pestilence. David chose the pestilence because he recognized that falling into human hands meant falling away from God's direct control. Even in discipline, he wanted to remain tethered to mercy rather than human judgment. Seventy thousand people died for David's pride, yet even this isn't the final word. When David saw the angel's sword drawn over Jerusalem, he interceded with desperate prayer. God responded with compassion, and David built an altar on the threshing floor of Ornan—the very place where substitution and atonement would later find their deepest meaning in Christ.",
+        "This narrative teaches us that authentic leadership isn't immunity from failure but willingness to take full responsibility and stand in the gap for those we've harmed. Our pride may bring real pain to others, but humility and intercession open the door to restoration.",
+        "What pride in your own life might be disguising itself as innocent action? How might God be calling you toward honest repentance?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 21: Scholarly study",
+      "overview": [
+        "The narrative of David's census in 1 Chronicles 21 presents one of the most theologically complex passages in the Chronicler's history, particularly when read alongside its parallel in 2 Samuel 24. The Chronicler, writing in the post-exilic period to a community rebuilding its identity around the Jerusalem temple, reshapes this earlier tradition to emphasize both divine sovereignty and human culpability while simultaneously establishing the theological foundation for Solomon's temple. Most striking is the Chronicler's attribution of the incitement to \"Satan\" (śāṭān), whereas 2 Samuel 24:1 attributes it to Yahweh's anger. This divergence has generated extensive scholarly discussion, with some viewing the change as evidence of developing Jewish angelology and demonology during the Persian period, while others understand śāṭān here not as a proper name but as \"an adversary\" functioning as an agent of divine testing within Yahweh's sovereign will.",
+        "The term for numbering the people, *sāpar*, carries covenantal weight, as census-taking in ancient Israel implied military conscription and, by extension, royal reliance on human strength rather than divine provision. Joab's resistance to the census underscores its perceived impiety, and his counsel employs the significant phrase \"all of them my lord's servants\" (*ʿăbādîm*), reminding David that the people belong ultimately to Yahweh, not to the king's administrative calculation. The Hebrew *nāgap* (\"plague\" or \"strike\") that follows David's confession describes Yahweh's judicial response through pestilence, a covenantal curse familiar from Deuteronomic tradition.",
+        "The passage reaches its theological climax at Ornan's threshing floor, which the Chronicler identifies as the future temple site, a detail absent from Samuel. David's insistence on paying full price (*kesep māleʾ*) rather than offering what cost him nothing establishes a paradigm of costly worship that reverberates throughout Scripture. The Chronicler uniquely adds that fire descended from heaven upon David's altar, paralleling Mosaic tabernacle and Solomonic temple dedications, thereby legitimizing this location as divinely chosen sacred space. Thus, what begins as royal sin transforms through repentance and sacrifice into the providential preparation for Israel's central sanctuary, demonstrating the Chronicler's masterful theological interpretation of Israel's monarchic history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 21: Prophetic perspective",
+      "overview": [
+        "This chapter records events that took place approximately 1000 years before the birth of Christ, during the zenith of David's reign over the united kingdom of Israel. Within the grand arc of redemption, we stand at the height of the Davidic kingdom—that crucial epoch between the establishment of the monarchy and the eventual exile, when God was shaping the royal lineage through which Messiah would come. Yet this very chapter reveals how even the greatest king was utterly dependent upon divine mercy.",
+        "When Satan incited David to number Israel, the king succumbed to a subtle temptation that strikes at the heart of human leadership: the desire to trust in visible strength rather than the invisible God. The census was not merely administrative; it represented a fundamental shift in confidence from Yahweh, who had made Israel as innumerable as the stars, to military might that could be calculated and controlled. Even Joab, hardly a paragon of spiritual sensitivity, recognized the danger. David's sin thus becomes a prophetic warning echoing across the ages—the perpetual temptation of God's people to number their resources, measure their influence, and trust in earthly power rather than divine promise.",
+        "The prophet Gad presented David with three judgments, and the king chose to fall into the hands of the Lord rather than into human hands. Here we glimpse the heart of authentic faith: better the discipline of a merciful Father than the cruelty of a merciless world. The pestilence that followed, cutting down seventy thousand, demonstrated the terrible seriousness of sin while simultaneously revealing divine compassion when the destroying angel was restrained at the threshing floor of Ornan the Jebusite.",
+        "This location becomes the prophetic pivot of the entire narrative. Where judgment was halted, David built an altar and offered sacrifice—and this very site would become Mount Moriah, where Solomon's temple would rise, where generations would meet God through blood atonement, and where, typologically, we see Calvary itself foreshadowed. The threshing floor—a place of separation, of wheat from chaff—became the place of mercy. David insisted on paying full price because true worship costs something; substitutionary sacrifice is never cheap.",
+        "The church living between the advents finds here both warning and comfort. We are tempted to measure success by worldly metrics, yet our confidence must rest solely in Christ. And we worship knowing that where judgment was due, mercy triumphed—at an altar, on a mountain, through costly sacrifice."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.735515+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

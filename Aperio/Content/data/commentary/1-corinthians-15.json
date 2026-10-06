@@ -1,0 +1,56 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 15: The Gospel's Greatest Victory",
+      "overview": [
+        "The resurrection of Christ is not a footnote to the gospel—it is the gospel's entire power and purpose, the pivot point upon which all Christian faith hangs and all human destiny turns.",
+        "Paul opens this magnificent chapter by grounding his readers in the apostolic tradition they have received: Christ died for our sins, was buried, and rose on the third day according to Scripture. This is not mystical speculation or theological decoration. It is the historical bedrock of Christian hope. Without the resurrection, Paul insists with stunning clarity, Christian faith is futile, believers remain in their sins, and those who have died in Christ have perished. The resurrection is not an afterthought—it is Christianity's irreplaceable center.",
+        "But then Paul moves beyond defending the resurrection to unveiling its scope. Christ's resurrection is the first fruits of a great harvest to come. His rising is not isolated history; it is the pattern and guarantee of our own. When Christ returns, all who belong to him will be raised in glory, their mortal bodies transformed into imperishable ones. Death itself—that ancient enemy that has haunted humanity since Eden—will finally be defeated. The sting of death is sin, and sin's power is the law, but God has given us victory through our Lord Jesus Christ.",
+        "This truth should shape how we live now. If we truly believe that Christ has conquered death and that we will be raised incorruptible, our present sufferings shrink into perspective. Our labor for the Lord is not in vain. Every act of faithfulness, every sacrifice made in Jesus's name, carries eternal weight. We are not working toward oblivion but toward glory.",
+        "In a world obsessed with mortality and decay, the resurrection whispers a revolutionary truth: death is not final, despair is not destiny, and love—God's redeeming love—will have the last word.",
+        "How does believing in your own future resurrection change the way you spend your time, effort, and resources today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 15: Scholarly study",
+      "overview": [
+        "The fifteenth chapter of First Corinthians stands as the most extensive and systematic treatment of resurrection theology in the Pauline corpus, addressing a crisis of belief that had emerged within the Corinthian congregation. Writing from Ephesus around 53–55 CE, Paul responds to reports that some members were denying the future bodily resurrection of believers, a denial that threatened the very foundations of the gospel he had proclaimed. The cultural context proves illuminating here, as Corinth's Greco-Roman population would have been shaped by philosophical traditions—particularly Platonic dualism—that denigrated the material body and rendered bodily resurrection philosophically absurd.",
+        "Paul opens with a carefully constructed creedal formula (verses 3–5) that most scholars recognize as pre-Pauline tradition, employing the technical rabbinic terms \"received\" (parelabon) and \"delivered\" (paredōka) to establish authoritative transmission. The repeated phrase \"according to the Scriptures\" anchors Christ's death and resurrection in Israel's prophetic expectations, though Paul leaves the specific texts unidentified. The term \"resurrection\" (anastasis) itself carried distinctly Jewish eschatological freight, distinguishing the Christian proclamation from Greek notions of immortal souls escaping bodily existence.",
+        "The chapter's literary structure moves from historical testimony through logical argumentation to eschatological exposition. Paul's argument proceeds by reductio ad absurdum: if there is no resurrection of the dead, then Christ has not been raised, and the entire edifice of Christian faith collapses into futility. The designation of Christ as \"firstfruits\" (aparchē) in verse 20 draws on agricultural and cultic imagery, presenting his resurrection as the inaugurating portion of a larger harvest yet to come.",
+        "Significant interpretive debate surrounds Paul's description of the resurrection body as \"spiritual\" (pneumatikon) rather than \"natural\" (psychikon) in verses 44–46. This terminology does not denote immateriality but rather describes the animating principle—a body wholly vivified and transformed by the divine Spirit. The Adam-Christ typology structuring verses 21–22 and 45–49 situates resurrection within Paul's broader understanding of salvation history as moving from the old humanity to the new. The chapter concludes with triumphant declaration and ethical exhortation, demonstrating that resurrection hope possesses immediate implications for present Christian labor and moral steadfastness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 15: Prophetic perspective",
+      "overview": [
+        "This magnificent chapter was penned by the apostle Paul around AD 55, approximately twenty-five years after the resurrection of Christ and during the flourishing expansion of the early church throughout the Roman Empire. We stand here in the full light of the new covenant era, after the cross and resurrection have accomplished redemption, yet before the consummation of all things at Christ's return. Within the grand arc of redemptive history, this passage occupies the Church Age—that pregnant interval between the first advent, which secured salvation, and the second advent, which will complete it.",
+        "Paul anchors the entire Christian faith to a historical event: Christ died, was buried, and rose again on the third day according to the Scriptures. This phrase \"according to the Scriptures\" reaches backward through the centuries, gathering up every prophetic thread—Jonah's three days in the great fish, Isaac's figurative resurrection on Moriah, Joseph's emergence from the pit to reign in glory. The resurrection of Jesus is no isolated miracle; it is the culmination toward which all of Israel's story was traveling. Adam himself appears here as a prophetic type: the first man brought death to all his descendants, but the last Adam, Christ, brings resurrection life to all who are united to Him. What was lost in Eden is not merely restored but surpassed—the first man was a living soul, but the last Adam became a life-giving Spirit.",
+        "The eschatological structure of this chapter reveals the divine order of resurrection: Christ the firstfruits, then those who belong to Him at His coming, then the end when He delivers the kingdom to the Father after abolishing every hostile power. The language of firstfruits echoes the Levitical feasts—Christ's resurrection occurred during the Feast of Firstfruits, guaranteeing the full harvest of resurrection that will follow. Death, humanity's final enemy introduced in Genesis 3, will be swallowed up in victory. This remains gloriously future; the sting of death still wounds us now, but its ultimate destruction is as certain as Christ's emergence from the tomb.",
+        "Paul's vision of the resurrection body addresses the church's deepest longing: we shall be changed. The perishable will put on the imperishable; the mortal will clothe itself with immortality. This is new creation breaking into the present order.",
+        "For the church living between the advents, this chapter is both anchor and compass. We labor knowing our work is not in vain, for the resurrection validates all kingdom effort. Christ is risen; therefore, everything has changed, and everything will change."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.810796+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

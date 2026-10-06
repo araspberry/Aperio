@@ -1,0 +1,56 @@
+{
+  "book": "Mark",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 15: The Suffering King",
+      "overview": [
+        "The crucifixion of Jesus stands as the pivotal moment where God's love breaks through human cruelty, where the innocent King absorbs the weight of human sin, and where apparent defeat becomes the foundation of eternal redemption.",
+        "Mark presents the cross with stark, unadorned realism. There are no grand theological explanations here—just the raw facts of Roman execution, the mockery of soldiers, the darkness at noon, and a dying man's cry of abandonment. This rawness matters because it invites us into the genuine human suffering of Christ. He didn't float above the pain or maintain spiritual detachment. He endured genuine thirst, real abandonment, authentic death. The centurion standing at the foot of the cross—a man trained in death—recognizes something extraordinary in how Jesus dies: \"Surely this man was the Son of God.\"",
+        "What transforms this account from tragedy into gospel is that Jesus went willingly into this darkness for us. He spoke of his life being \"a ransom for many,\" and here we see that ransom paid in full. The temple curtain tearing from top to bottom signals that the barrier between God and humanity has been torn open. The way to the Holy of Holies—once reserved for the high priest alone—is now accessible to everyone, purchased by Christ's blood.",
+        "Yet Mark doesn't end with despair. Joseph of Arimathea, a member of the council that condemned Jesus, reverently handles his body and places it in a tomb. Even in death, Christ receives honor. And the women who follow—watching, waiting, keeping vigil—will soon discover something impossible: an empty tomb and an angel announcing resurrection.",
+        "The cross invites us to follow a King who conquers not through domination but through sacrificial love. This is the scandal and power of the gospel: God identified with our suffering and conquered death from within human experience.",
+        "What does it mean for you to embrace a Savior who suffered, and to follow him in your own seasons of pain?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 15: Scholarly study",
+      "overview": [
+        "Mark 15 presents the culmination of the Markan passion narrative, depicting Jesus's trial before Pilate, crucifixion, and burial with characteristic Markan brevity and theological intensity. Writing likely from Rome in the late 60s CE, Mark addresses a community familiar with persecution, and this chapter's portrayal of innocent suffering would resonate deeply with readers who had witnessed Nero's brutalities against Christians.",
+        "The chapter opens with the Jewish leadership delivering Jesus to Pilate, the Roman prefect of Judea from 26–36 CE. Pilate's question regarding Jesus's kingship introduces the politically charged title \"King of the Jews\" (basileus tōn Ioudaiōn), which appears with remarkable frequency throughout the chapter, functioning as both accusation and unwitting confession of Jesus's true identity. The Barabbas episode presents interpretive challenges; some scholars question its historicity given the lack of extrabiblical attestation for such an amnesty custom, while others note that ad hoc releases were within a governor's prerogative. The name Barabbas itself, meaning \"son of the father\" in Aramaic, creates profound irony as the crowd chooses this figure over the true Son of the Father.",
+        "The crucifixion account (15:22–41) demonstrates Mark's restrained yet theologically dense narration. The term \"Golgotha\" (Golgotha), Aramaic for \"skull,\" locates the execution at a site outside Jerusalem's walls. Mark's temporal markers—third hour, sixth hour, ninth hour—structure the narrative around Jesus's progressive abandonment. The cry of dereliction, \"Eloi, Eloi, lema sabachthani\" (15:34), preserved in Aramaic, quotes Psalm 22:1 and represents one of the most debated utterances in Gospel scholarship. Some interpreters emphasize its expression of genuine forsakenness, while others note that citing a psalm's opening evokes its entirety, including its resolution in divine vindication.",
+        "The centurion's confession that Jesus was \"Son of God\" (huios theou) forms the narrative climax, echoing Mark's opening verse and demonstrating that Jesus's identity, hidden throughout the Gospel, is paradoxically revealed at the cross. The notice of watching women (15:40–41) prepares for the resurrection narrative while emphasizing the disciples' absence. Joseph of Arimathea's burial of Jesus fulfills Jewish law regarding executed persons while setting the stage for the empty tomb discovery."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 15: Prophetic perspective",
+      "overview": [
+        "Mark 15 unfolds in the early hours of a Friday morning in approximately AD 30–33, during the Passover festival in Jerusalem, mere hours before the crucifixion that would divide all history into \"before\" and \"after.\" This chapter records the climactic moment toward which all Scripture had been pointing—the death of the Son of God. We stand here at the absolute center of redemptive history, where the long arc from Eden's curse through Abraham's near-sacrifice of Isaac, through the Passover lamb's blood, through the Day of Atonement's scapegoat, through Isaiah's suffering servant, finally reaches its terminus in the broken body of Jesus of Nazareth.",
+        "The typological density of this chapter is staggering. Jesus stands before Pilate as the true Passover Lamb being examined and found without blemish, yet condemned nonetheless. Barabbas—whose name means \"son of the father\"—goes free while the true Son of the Father takes his place, enacting the great exchange that lies at the heart of substitutionary atonement. The scarlet robe, the crown of thorns, the mocking homage—Rome intended cruelty, but heaven orchestrated coronation, for this suffering King was being enthroned precisely through His humiliation. Simon of Cyrene, compelled to carry the cross, becomes an unwitting picture of every disciple who would follow—taking up the cross behind Jesus.",
+        "Golgotha itself fulfills the shadow cast by Mount Moriah, where Abraham lifted the knife over Isaac and God declared He would Himself provide the lamb. The darkness from the sixth to ninth hour echoes the plague of darkness over Egypt, signaling that a greater exodus was being accomplished—liberation not from Pharaoh but from sin, death, and the domain of darkness itself. The cry of dereliction—\"My God, my God, why have you forsaken me?\"—quotes Psalm 22, a psalm that moves from abandonment to vindication, from suffering to universal worship. Jesus was not merely dying; He was being made sin, bearing the covenant curse, drinking the cup of wrath to its dregs.",
+        "The tearing of the temple veil from top to bottom declares that the entire sacrificial system has reached its fulfillment. What generations of priests could never accomplish through endless offerings, this one sacrifice achieved forever. The centurion's confession—\"Truly this man was the Son of God\"—voices what all creation groaned to declare.",
+        "The church now lives in the light of this finished work, proclaiming a crucified and risen Lord, awaiting the day when every knee shall bow before the Lamb who was slain."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.542275+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

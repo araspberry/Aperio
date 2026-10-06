@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 31: The Architecture of a Life Well-Lived",
+      "overview": [
+        "The portrait of the Proverbs 31 woman reveals how a life ordered by wisdom becomes a dwelling place of strength and beauty for everyone it touches. This passage isn't a checklist for perfection but an invitation to understand how character, diligence, and faith weave together into something transcendent.",
+        "What strikes the careful reader is that this woman's excellence flows from an internal well. She \"fears the Lord\"—this is her foundation stone. Everything else—her industriousness, generosity, business acumen, and strength—springs from reverence for God. She rises early not from anxious striving but from purposeful devotion. She works with her hands not to prove her worth but because meaningful work matters. She extends herself to the poor and needy because she understands that a life hidden with Christ naturally overflows toward others.",
+        "This passage also shatters the notion that faithfulness means passivity. This woman is entrepreneurial, strategic, and productive. She evaluates a field and purchases it. She runs a household and manages commerce. She dresses well, not from vanity but from self-respect and dignity. Her strength and honor come from the integration of her faith with her engagement in the real world. She is neither withdrawn from life nor consumed by it.",
+        "Perhaps most humanly, she faces an uncertain future with quiet confidence because her trust is in God, not in circumstances. \"Many women do noble things, but you surpass them all\"—these words suggest that excellence is not about competition or comparison but about the unmistakable radiance of a life aligned with wisdom.",
+        "The deepest invitation here is for each of us—whatever our station or season—to order our lives by the fear of the Lord. Such fear becomes freedom. It becomes the architecture that holds everything else in place.",
+        "What would it look like for you to build your day, your decisions, your relationships from the foundation of reverence for God?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 31: Scholarly study",
+      "overview": [
+        "Proverbs 31 presents a distinctive conclusion to the book of Proverbs, comprising two discrete literary units that together form a fitting capstone to the wisdom tradition. The chapter opens with the \"words of King Lemuel\" (verses 1–9), an oracle his mother taught him, followed by the celebrated acrostic poem describing the \"woman of valor\" (verses 10–31). The identity of Lemuel remains obscure, with some rabbinic traditions identifying him with Solomon, though the name itself appears nowhere else in Scripture, and the designation \"king of Massa\" may indicate an Arabian provenance, connecting this material to the broader ancient Near Eastern wisdom tradition that transcended Israelite boundaries.",
+        "The maternal instruction to Lemuel employs the Hebrew term *massa* (מַשָּׂא), which functions as both a geographical marker and a literary designation meaning \"oracle\" or \"burden,\" creating intentional ambiguity. The queen mother's counsel against wine and strong drink (*shēkār*, שֵׁכָר) and the pursuit of promiscuous women reflects standard ancient Near Eastern royal advice literature, emphasizing that kings must maintain clarity of judgment to advocate for the poor and dispossessed.",
+        "The acrostic poem beginning at verse 10 has generated substantial interpretive discussion. The opening question \"who can find a woman of valor?\" employs *ēshet ḥayil* (אֵשֶׁת חַיִל), a phrase appearing also in Ruth 3:11 and connoting strength, capability, and moral excellence rather than mere domesticity. The twenty-two verses following the Hebrew alphabet create a comprehensive portrait that some scholars read as describing an actual wife, while others interpret the figure as personified Wisdom herself, forming an inclusio with the personified Woman Wisdom of Proverbs 1–9.",
+        "The woman's activities—trading, planting vineyards, manufacturing textiles, engaging in commerce—reflect considerable economic agency within the household economy of ancient Israel. Her husband's presence \"in the gates\" (verse 23) indicates civic leadership, while her own reputation is established through productive labor and charitable deeds. The concluding verses explicitly connect her praise to \"fear of the LORD\" (*yir'at YHWH*), thereby grounding feminine virtue in covenantal piety and linking this practical wisdom portrait to the theological foundation established in Proverbs 1:7. The canonical placement invites readers to understand all preceding proverbs through the lens of embodied, faithful practice."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 31: Prophetic perspective",
+      "overview": [
+        "Proverbs 31 stands near the close of Israel's wisdom literature, compiled during the united monarchy and early divided kingdom period, roughly 950-700 years before Christ's incarnation. This chapter preserves instruction given to King Lemuel by his mother, concluding with the famous acrostic poem celebrating the woman of valor. Within redemptive history, this passage belongs to the Kingdom era, when God's people lived under davidic rule and wisdom was codified for covenant faithfulness—a period anticipating both the exile that would come through unfaithfulness and the greater kingdom that would arrive in Christ.",
+        "The opening oracle warns kings against dissipation and calls them to defend the afflicted, the poor, and the voiceless. Here wisdom theology intersects with prophetic concern: the true king must embody justice. This maternal instruction points beyond Lemuel to the Son of David who would perfectly champion the cause of the needy, the King who would not give His strength to that which destroys but would lay down His life for His bride.",
+        "The woman of valor in verses 10-31 functions typologically on multiple levels. She images forth the wisdom personified earlier in Proverbs, who calls from the heights and offers life to all who embrace her. More profoundly, she shadows the Bride of Christ—the Church in her eschatological fullness. Her tireless labor, her clothing of strength and dignity, her lamp that does not go out, her hands extended to the poor, her household prepared for winter's assault—all these portray the faithful covenant community laboring while the Bridegroom tarries, clothed in righteousness, maintaining vigilance through the long night of this age.",
+        "Her husband trusts her completely and lacks nothing good—here we glimpse Christ's confidence in His blood-bought people, those He presents to Himself in splendor. She laughs at the time to come, fearing no future, because she has made provision; so the Church, rooted in resurrection hope, faces the approaching Day with joy rather than terror. Her children rise and call her blessed—the generations of the faithful who inherit the fruit of covenant faithfulness.",
+        "For the Church living between the advents, Proverbs 31 calls us to embody wisdom in practical holiness while lifting our eyes toward consummation. We are the Bride adorning ourselves with good works, keeping our lamps burning, extending mercy to the suffering world, trusting that when our Bridegroom appears, we shall hear the ultimate blessing: \"Many daughters have done excellently, but you surpass them all.\""
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.658123+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

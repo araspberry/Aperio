@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 10: When God Seems Far Away",
+      "overview": [
+        "This psalm cries out from the depths of abandonment, asking the most honest question a sufferer can ask: \"Why, Lord, do you stand far off?\" In these raw verses, we encounter the very heart of lament—the sacred right to bring our confusion, anger, and fear directly before God when evil seems to flourish and righteousness appears powerless.",
+        "The psalmist watches the wicked prosper with shameless pride. They pursue the vulnerable, devise cunning plots, and strut about as though God either cannot see them or does not care. This is not mere theological speculation; this is lived experience. The innocent are suffering. The powerful are exploiting. And God appears absent. Yet notice what the psalmist does not do: he does not pretend to faith he does not feel. Instead, he names the apparent distance and demands God's attention.",
+        "What makes this psalm spiritually vital is its refusal to accept the lie that silence means abandonment. The prayer itself becomes an act of faith. Even in questioning God's location, the psalmist speaks to God—he has not stopped believing in God's existence or capacity to act. He simply refuses to accept that the current moment defines God's character or future response.",
+        "This speaks powerfully to our modern experience. When injustice prevails in our workplaces, communities, or nations; when we care for the sick and they worsen; when faithfulness goes unrewarded and dishonesty thrives—these are not signs that God has left. Rather, they are invitations to join the psalmist in honest prayer, to bring our entire selves, our rage and confusion included, before the God who sees all and promises final vindication.",
+        "The psalm ends with confidence restored: \"You hear, Lord, the desire of the afflicted\" (v. 17). This is not denial of present pain. It is the conviction that God's character will ultimately prove true.",
+        "What situation in your life right now tempts you to believe God is absent? What would change if you brought that honest question directly to Him in prayer?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 10: Scholarly study",
+      "overview": [
+        "Psalm 10 presents interpreters with an immediate literary question, as it appears to form an acrostic continuation with Psalm 9, a connection preserved in the Septuagint and Vulgate, which treat them as a single composition. The incomplete acrostic pattern spanning both psalms, where certain Hebrew letters are missing or displaced, suggests either textual corruption over transmission or deliberate artistic variation. Whether originally unified or not, Psalm 10 functions as an individual lament addressing the apparent prosperity of the wicked and the seeming absence of divine intervention.",
+        "The psalm opens with a haunting question that echoes throughout Israel's wisdom tradition: \"Why, O LORD, do you stand far off?\" The Hebrew verb *ta'amod* (you stand) combined with *b'raḥoq* (at a distance) conveys not divine absence but perceived inaction, a theological tension the psalmist refuses to resolve prematurely. This spatial metaphor for divine hiddenness during times of trouble (*etsarah*) recurs throughout the Psalter and finds resonance in Job's complaints and Habakkuk's prophetic wrestling.",
+        "The extended portrait of the wicked occupying verses 2–11 employs remarkably vivid language. The term *rasha'* (wicked one) denotes not merely a sinner but one who actively disrupts the covenant community's social fabric. The psalmist depicts this figure as predatory, using hunting imagery where the poor (*'ani*) become prey. Particularly striking is verse 4, where the wicked person's arrogance manifests in practical atheism: \"In all his thoughts there is no God.\" This represents not philosophical denial but functional dismissal of divine accountability.",
+        "The petition beginning at verse 12 marks a dramatic shift as the psalmist calls upon God to \"arise\" (*qumah*), employing ancient Near Eastern throne-room language that summons the divine warrior to action. The affirmation that \"the LORD is king forever and ever\" in verse 16 provides the theological foundation for the preceding complaint—precisely because YHWH reigns, the current disorder demands rectification.",
+        "Within canonical context, Psalm 10 contributes to the Psalter's honest engagement with theodicy, refusing to offer superficial comfort while maintaining covenantal hope that God ultimately defends the orphan and oppressed against human arrogance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 10: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the tumultuous period of David's life, likely during his years of persecution under Saul or amid the internal treacheries of his reign, placing it roughly one thousand years before Christ's incarnation. It stands within the era of the united kingdom, that pivotal epoch between the judges and the exile when God was establishing the Davidic throne as the shadow of an eternal kingdom yet to come. Here the psalmist gives voice to the perennial cry of the righteous who witness wickedness flourishing while heaven seems silent.",
+        "The opening lament—\"Why do You stand afar off, O LORD?\"—echoes through every generation of God's people who have watched the arrogant prosper and the humble suffer. This is the theodicy of the already-and-not-yet, the tension that defines existence between Eden lost and Eden restored. The wicked one described here, who boasts in his heart \"There is no God,\" who lurks to catch the poor, who crouches like a lion in secret places, is more than a historical oppressor. He is the archetypal enemy, foreshadowing the spirit of antichrist that works throughout the age until its final manifestation in the lawless one whom Christ will destroy with the breath of His mouth.",
+        "The detailed portrait of the wicked man's schemes reveals the very methodology of the serpent from Eden forward: deception, violence against the vulnerable, and the delusion that God neither sees nor remembers. This blindness to divine justice characterizes every Pharaoh, every Herod, every system that grinds the faces of the poor while congratulating itself on its wisdom. Yet the psalm turns on a hinge of faith. The psalmist declares what he cannot yet see: \"The LORD is King forever and ever.\" This prophetic confession anticipates the coronation that occurred at Calvary and the empty tomb, where Christ was exalted far above all rule and authority.",
+        "The closing verses prophesy the vindication that began at the resurrection and consummates at the return. God has heard. God will arise. He will break the arm of the wicked and call every deed into account. The fatherless find their defender, and the man of the earth—mere mortal dust asserting himself against the Almighty—will terrify no more.",
+        "For the church awaiting her Lord's appearing, this psalm teaches patient endurance. The wicked still prowl, systems still oppress, and heaven can seem distant. Yet we hold this prophetic word: the King reigns, the poor are remembered, and justice, though delayed, is never denied."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.104888+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

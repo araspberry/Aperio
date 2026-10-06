@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 10: The Allure of Abundance and the Subtle Drift from God",
+      "overview": [
+        "This passage reveals the seductive nature of blessing—how God's favor can gradually eclipse God himself in a person's heart. Solomon's wealth and wisdom have become legendary, attracting the Queen of Sheba and demonstrating his unparalleled power and influence. Yet beneath this glittering narrative lies a cautionary tale about the human tendency to rest in gifts rather than in the Giver.",
+        "Solomon's splendor was real and ordained by God, a reflection of divine blessing upon his reign. The magnificence of his kingdom—the palace, the temple furnishings, his administration—all testified to God's faithfulness. When the Queen of Sheba witnesses his glory, she declares that his God must be great indeed. This is the moment when material blessing should have deepened Solomon's devotion, reminding him that everything he possessed was a stewardship, not an entitlement.",
+        "But here is where the text whispers its warning. As Solomon accumulates horses, gold, and wives, the reader familiar with Deuteronomy hears echoing prohibitions against precisely these accumulations. The king was forbidden to multiply horses, gold, or wives—commandments designed to keep his trust anchored in God rather than in military might, wealth, or political alliances. Solomon is crossing lines that seemed invisible because the blessings felt so good.",
+        "This is profoundly human. We receive a promotion and gradually our confidence shifts from God to our capability. A financial windfall arrives, and we begin to believe our security rests in the account balance. A platform grows, and we subtly begin performing for the applause rather than for the One who sees in secret.",
+        "The deepest question Solomon's story poses to us is simple: When your circumstances improve, does your trust in God deepen, or does your reliance on the blessings themselves increase? Where have the good gifts in your life begun to crowd out grateful worship of the Giver?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 10: Scholarly study",
+      "overview": [
+        "The account of the Queen of Sheba's visit to Solomon in 1 Kings 10 represents the literary and theological apex of the Solomon narrative, functioning as external validation of Israelite wisdom and wealth before the sharp decline chronicled in chapter 11. The passage likely draws upon royal annalistic traditions, though its present form reflects the Deuteronomistic historian's theological shaping to demonstrate the fulfillment of divine promises made at Gibeon (1 Kgs 3:12-13). The Queen of Sheba (*malkath-shĕbāʾ*) probably ruled over the Sabean kingdom in southwestern Arabia (modern Yemen), a region renowned for its spice trade, gold, and precious stones—precisely the commodities she brings as gifts.",
+        "The narrative opens with the queen arriving to \"test\" Solomon with \"riddles\" (*ḥîdôt*), a term denoting enigmatic sayings or perplexing questions that probe the depths of wisdom. This motif of wisdom testing appears throughout ancient Near Eastern royal ideology, where monarchs demonstrated fitness to rule through intellectual prowess. Solomon's comprehensive answers leave \"no matter hidden\" (*lōʾ-hāyāh dābār neʿlām*) from him, employing terminology that elsewhere describes divine omniscience. The queen's breathless assessment encompasses not merely Solomon's wisdom but the comprehensive ordering of his kingdom—the food, seating arrangements, servants' attire, and cultic provisions—suggesting that true wisdom manifests in administrative excellence and cosmic ordering.",
+        "The chapter's extensive inventory of wealth, including the 666 talents of gold and the throne of ivory overlaid with gold, serves a dual literary function. While demonstrating the fulfillment of Deuteronomy's vision of blessing, the accumulation of horses from Egypt and gold from Ophir simultaneously foreshadows violation of the Deuteronomic king law (Deut 17:16-17). Scholars debate whether the 666 figure carries symbolic significance or simply records administrative data; its later appearance in Revelation 13:18 suggests subsequent interpreters found it meaningful.",
+        "The structural positioning proves significant: this foreign queen's confession that Yahweh established Solomon \"to execute justice and righteousness\" (*laʿăśôt mišpāṭ ûṣĕdāqāh*) stands in tragic juxtaposition to chapter 11's apostasy narrative. The text thus functions as both celebration and indictment, marking the moment of greatest glory immediately preceding catastrophic failure."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 10: Prophetic perspective",
+      "overview": [
+        "The visit of the Queen of Sheba to Solomon's court occurred approximately 950 years before Christ, during the zenith of Israel's united monarchy. This moment represents the apex of the Davidic kingdom—that brief, golden interlude when Israel most closely approximated the promised reality of a righteous king reigning over a blessed and prosperous people, with the nations streaming to Zion to behold the glory of God.",
+        "Within the grand arc of redemption, this chapter stands at the summit of the Kingdom period, after the Exodus deliverance and before the tragic division and eventual exile. God had promised Abraham that through his seed all nations would be blessed, and here a Gentile queen from the distant ends of the earth travels to witness that blessing embodied in Solomon's wisdom, wealth, and worship. She comes with hard questions and leaves with her breath taken away, confessing that the half had not been told her. This is the Abrahamic promise in embryonic fulfillment—the nations drawn to Israel's light.",
+        "Yet Solomon functions here as a profound type of One greater who was to come. Jesus Himself declared that \"the queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.\" Christ identified Himself as the antitype—the true Wisdom of God incarnate, the greater King whose glory infinitely surpasses the gold and splendor of Solomon's throne. Where Sheba's queen encountered earthly magnificence that pointed beyond itself, those who come to Christ encounter the very radiance of the Father's glory.",
+        "The lavish description of Solomon's wealth—the gold shields, the ivory throne, the silver made as common as stones—whispers of the New Jerusalem where the streets are gold and the glory of God provides all light. Yet even here, shadows gather. The accumulation of horses from Egypt and the multiplication of wealth hint at departures from Deuteronomy's royal charter that will bear bitter fruit.",
+        "For the church awaiting Christ's return, this passage calls us to recognize that we serve a King whose wisdom, wealth, and wonder exceed all that eye has seen or ear heard. Like Sheba's queen, we have traveled from afar—Gentiles once without hope—and have found that the testimony of the gospel, far from exaggerating, could not capture the half of His surpassing worth."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.557645+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

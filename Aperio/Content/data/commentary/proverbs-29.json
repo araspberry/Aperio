@@ -1,0 +1,57 @@
+{
+  "book": "Proverbs",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 29: The Character That Shapes Our Destiny",
+      "overview": [
+        "Proverbs 29 invites us into the deep connection between our inner character and our outer circumstances, teaching that the kind of person we become fundamentally determines the quality of our lives and communities.",
+        "Throughout this chapter, Solomon explores a theme that reverberates through all of Proverbs: wisdom shapes destiny. A person who refuses correction becomes stubborn and hardened (verses 1, 15), while one who listens to rebuke gains understanding and eventually glory. This isn't mere behavior modification—it's the cultivation of a heart that remains open to truth. When we resist the painful gift of correction, we're not protecting ourselves; we're calcifying our souls. The alternative, embracing reproof, is the narrow path to genuine flourishing.",
+        "The chapter also reveals that our character inevitably ripples outward. \"When the righteous are in authority, the people rejoice; when the wicked rule, they groan\" (verse 2). This applies not just to political rulers but to parents, managers, and anyone with influence. The person shaped by wisdom brings life to those around them; the person shaped by selfishness brings burden.",
+        "Particularly striking is verse 25: \"The fear of man is a snare, but whoever trusts in the Lord is secure.\" How easily we shape our choices by glancing sideways at others' opinions rather than upward toward God's truth. This fear paralyzes us, forcing us into inauthenticity and compromise. Trust in God, by contrast, creates the deep security from which genuine freedom flows.",
+        "The chapter closes by weaving together justice, wisdom, and mercy—reminding us that an ordered life isn't sterile or rigid but balanced and humane. Discipline without wisdom becomes cruelty; wisdom without discipline becomes mere sentiment.",
+        "As you reflect on your own journey, where might you be resisting correction? What would change if you truly trusted God more than the judgment of others?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 29: Scholarly study",
+      "overview": [
+        "Proverbs 29 constitutes the final chapter of the \"Solomonic collection\" transmitted by Hezekiah's scribes (25:1–29:27), representing court wisdom literature that underwent editorial compilation during Judah's late monarchic period. This chapter exhibits the classic māšāl form—antithetical parallelisms contrasting the righteous and wicked, the wise and foolish—while addressing themes particularly relevant to governance, discipline, and social order. The collection likely served didactic purposes within royal administrative training, though its aphoristic wisdom transcends its original Sitz im Leben.",
+        "The chapter opens with a striking warning about the one who \"stiffens his neck\" (maqšeh ʿōrep), an idiom drawn from agricultural imagery of an ox refusing the yoke, metaphorically applied throughout the Hebrew Bible to obstinate resistance against divine correction (Exodus 32:9; Deuteronomy 10:16). This bodily metaphor establishes the chapter's overarching concern with receptivity to discipline versus hardened rebellion. The term tôkaḥat (reproof, correction) appears repeatedly throughout the chapter, underscoring the pedagogical framework wherein wisdom is transmitted through corrective instruction rather than mere information transfer.",
+        "Verses 12–14 form a thematic unit addressing royal governance, with verse 14's assertion that a king who \"judges the poor with truth\" (ʾemet) establishes his throne permanently. The Hebrew ʾemet encompasses reliability, faithfulness, and cosmic order, suggesting that just governance participates in maintaining divine-human covenantal stability. This perspective aligns with broader ancient Near Eastern royal ideology while distinctively grounding legitimate authority in treatment of society's vulnerable members.",
+        "The pedagogical vocabulary in verses 15 and 17 employs mûsār (discipline, instruction) alongside tôkaḥat, presenting parental correction as essential for producing wisdom. Notably, verse 18 introduces ḥāzôn (vision, prophetic revelation), creating an interpretive crux regarding the relationship between proverbial wisdom and prophetic tradition. Some scholars argue this represents later editorial harmonization, while others contend wisdom literature always acknowledged divine revelation as wisdom's ultimate source.",
+        "The chapter concludes by contrasting human fear with trust in Yahweh (verse 25), employing the term miśgāb (high refuge, stronghold) to characterize divine protection—military imagery domesticated for the wisdom tradition's ethical purposes. Throughout, Proverbs 29 maintains the conviction that moral order is woven into creation's fabric, discernible through observation, tradition, and divine instruction."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 29: Prophetic perspective",
+      "overview": [
+        "Proverbs 29 emerges from the wisdom tradition of Israel's united monarchy, compiled during Solomon's reign around 950 BC and later transcribed by the scribes of King Hezekiah approximately two centuries later, as the superscription of chapter 25 indicates. This places the wisdom contained here roughly one thousand years before Christ's incarnation, during the golden age when Israel enjoyed her greatest earthly glory under Davidic rule. Within the grand arc of redemption, these proverbs stand in the Kingdom era—that brief shining moment between the establishment of David's throne and the coming exile, when Israel was meant to display God's wisdom to the nations as a light on a hill.",
+        "The prophetic significance of this chapter becomes apparent when we recognize that Solomon himself functions as a type of the greater Solomon to come. Every proverb concerning the righteous king who establishes justice, who gives stability to the land, and who champions the cause of the poor points beyond the failing monarchy of Israel toward Christ, the King whose throne is established forever in righteousness. When verse 4 declares that \"by justice a king gives a country stability,\" we hear an echo of Isaiah's later prophecy that the government would rest on Messiah's shoulders and that of the increase of His peace there would be no end.",
+        "The contrast between the righteous and the wicked woven throughout this chapter anticipates the great separation that Christ Himself will execute at His return. Verse 16 announces that \"when the wicked thrive, so does sin, but the righteous will see their downfall\"—a truth that finds its ultimate fulfillment not in temporal judgments alone but in the final apocalyptic reversal when every proud thing shall be brought low. The promise that the righteous will \"see\" the downfall of wickedness connects to Revelation's vision where the saints witness Babylon's collapse.",
+        "Particularly striking is verse 18's declaration that \"where there is no revelation, the people cast off restraint.\" This prophetic word finds tragic fulfillment throughout Israel's history of covenant unfaithfulness and reaches forward to explain humanity's darkness apart from divine light. Yet it also announces the glorious necessity of Christ, the living Word, the final and complete revelation of the Father.",
+        "For the church dwelling between Christ's ascension and return, this chapter calls us to embody kingdom wisdom now, governing our households, communities, and hearts with the righteousness that will one day cover the earth as waters cover the sea."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.651953+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

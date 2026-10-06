@@ -1,0 +1,57 @@
+{
+  "book": "John",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 15: Remaining in the Vine",
+      "overview": [
+        "The deepest desire of Jesus in his final hours with the disciples centers on one vital truth: spiritual fruitfulness flows entirely from intimate connection with him. This passage reveals the secret to a life that matters—not striving, performing, or climbing, but simply abiding.",
+        "The image of the vine and branches captures something our modern productivity-obsessed hearts desperately need to hear. A branch cannot produce fruit through willpower or good intentions. It bears fruit through one primary action: remaining connected to the vine, allowing the vine's life to flow through it. Jesus uses this agricultural reality to reframe the Christian life from achievement-oriented to relationship-oriented. He is not demanding more effort; he is inviting deeper rest.",
+        "Notice what happens when we truly abide in Jesus. The Father prunes us—cutting away the dead wood of sin, distraction, and self-reliance—so we might bear more fruit. This pruning feels painful in the moment, but it is the gardener's expression of care, not punishment. Our struggles, disciplines, and seasons of loss are often the Father's loving hand shaping us into vessels of greater fruitfulness.",
+        "Jesus also names a stunning consequence: \"Ask whatever you wish, and it will be done for you.\" This is not a blank check for selfish desires. When someone truly abides in Jesus, their desires align with his heart. What you want begins to reflect what the vine wants. Your prayers become his prayers.",
+        "The passage culminates in a revolutionary command: love one another as I have loved you. This is not sentimental affection but sacrificial, persistent, choosing-to-remain-present kind of love. It flows naturally from branches that stay connected to the vine that is love itself.",
+        "The Christian life is not about proving your worth or earning your significance. It is about learning to rest in connection, to let divine life flow through you, and to become increasingly fruitful without strain.",
+        "What does it feel like in your life right now to truly abide rather than strive?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 15: Scholarly study",
+      "overview": [
+        "The fifteenth chapter of John's Gospel belongs to the extended Farewell Discourse delivered by Jesus on the eve of his crucifixion, likely situated between the Last Supper and the departure to Gethsemane. This discourse material, spanning chapters 13–17, represents some of the most theologically dense teaching in the Fourth Gospel and reflects the Johannine community's developed christological and ecclesiological understanding, likely composed in the final decade of the first century. The literary setting creates an atmosphere of intimacy and urgency as Jesus prepares his disciples for his imminent departure and their subsequent mission.",
+        "The chapter opens with the celebrated \"I am the true vine\" declaration (*egō eimi hē ampelos hē alēthinē*), the final of seven \"I am\" statements with predicates in this Gospel. The term *alēthinē* (true, genuine) carries the Johannine nuance of heavenly reality as opposed to earthly shadow, suggesting Jesus supersedes Israel's identity as God's vineyard, a metaphor deeply rooted in prophetic literature such as Isaiah 5 and Ezekiel 15. The Father as vinedresser (*geōrgos*) emphasizes divine sovereignty over the covenant community's fruitfulness and discipline.",
+        "The crucial verb *menō* (to abide, remain, dwell) appears eleven times in verses 4–10 alone, establishing the chapter's theological heartbeat. This term connotes not merely static presence but dynamic, reciprocal indwelling between Christ and believers—a participatory union that produces fruit (*karpos*), a term encompassing both ethical transformation and missional productivity. The conditional nature of this relationship introduces pastoral tension: branches failing to abide face removal and burning, language that has generated considerable debate regarding the perseverance of believers versus the possibility of apostasy.",
+        "The discourse transitions in verse 12 to the love commandment, where *agapaō* defines the community's distinguishing characteristic. Jesus grounds this imperative in his own sacrificial paradigm, declaring no greater love exists than laying down one's life for friends (*philoi*). This remarkable redesignation of disciples from servants to friends signals a transformed covenantal relationship characterized by intimate knowledge and shared purpose. The chapter concludes with sobering warnings about the world's hatred, preparing the community for persecution while grounding their identity in divine election."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 15: Prophetic perspective",
+      "overview": [
+        "John chapter fifteen emerges from the lips of Christ on the night before His crucifixion, placing these words at the hinge point of all redemptive history—approximately AD 33, in the upper room discourse that spans chapters thirteen through seventeen. Within hours, the Lamb slain from the foundation of the world will offer Himself as the final sacrifice. This is the threshold moment when old covenant shadows dissolve into new covenant substance, when the true and better everything stands bodily before His disciples, preparing them for the age to come.",
+        "The vine imagery Jesus employs carries the weight of prophetic centuries. Israel had been planted as God's vine, brought out of Egypt and established in Canaan, yet the prophets lamented her failure to produce fruit. Isaiah's vineyard song declared Israel a vine yielding wild grapes. Jeremiah mourned her as a degenerate plant. Ezekiel pronounced the vine wood worthless for anything but burning. Now, in breathtaking fulfillment, Jesus declares Himself the True Vine—the faithful Israel, the obedient Son, the fruitful Branch that Isaiah foretold. Where Adam failed in the garden, where Israel failed in the land, the Second Adam succeeds as the source of all life and fruitfulness.",
+        "The Father appears as the vinedresser, actively cultivating His vineyard in this present age. Every branch receives His attention—pruning for the fruitful, removal for the barren. This agricultural patience reveals the nature of the church age: a time of cultivation, abiding, fruit-bearing, and purification before the harvest. The command to abide echoes throughout as the defining posture for those living between Pentecost and Parousia. Apart from vital union with Christ, the church can produce nothing of eternal value; connected to Him, she bears fruit that remains into the age to come.",
+        "The hatred of the world that Jesus prophesies has found continuous fulfillment across two millennia. The servant is not greater than the master; those united to the rejected King share His rejection. Yet Jesus also promises the coming Advocate, the Spirit of Truth proceeding from the Father—a prophecy fulfilled at Pentecost and ongoing in the church's witness.",
+        "For believers today, this passage defines existence in the already-and-not-yet. The True Vine has come; union with Him is present reality. Yet the full harvest awaits. The church abides, bears fruit, endures hatred, and testifies by the Spirit until the Vinedresser completes His work and the branches are gathered into eternal joy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.644946+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 11: The Weight of Compromise",
+      "overview": [
+        "King Solomon's descent into idolatry reveals a sobering truth: spiritual faithfulness isn't sustained by past victories or present wisdom, but by ongoing devotion to the God we promised to follow. This chapter traces how even the wisest human ruler falls when he chooses his own desires over God's clear commands.",
+        "Solomon begins by taking many foreign wives—a direct violation of God's law for Israel's kings (Deuteronomy 17:17). What makes this tragedy particularly piercing is that Solomon knows better. He built the temple, composed psalms, received divine wisdom. Yet knowledge alone cannot protect us from the slow erosion of faith. The text tells us Solomon's wives turned his heart toward their gods, and he built altars to Ashtoreth, Milcom, and Chemosh. The man who once prayed for wisdom to distinguish good from evil now chooses evil because he loves the women who request it.",
+        "This narrative speaks directly to our modern condition. We often assume our spiritual maturity will automatically guard us, yet Solomon models how subtle compromise works. It begins with one permitted thing (many wives was technically legal for kings), progresses through cultural accommodation, and ends in spiritual rebellion. We do this too—with entertainment choices, friendships, ambitions, and time investments. We tell ourselves it's manageable, that we can handle it, that our faith is strong enough. Then we wake to discover our hearts have drifted far from home.",
+        "Yet God's response demonstrates His faithfulness even in judgment. He doesn't destroy Solomon but promises to preserve David's dynasty and leave Solomon one tribe for His name's sake. This is grace within consequence—not canceling the punishment, but not abandoning the promise either.",
+        "What areas of your life have you rationalized as manageable compromises? Where might you be drifting from wholehearted devotion without fully realizing it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 11: Scholarly study",
+      "overview": [
+        "The eleventh chapter of 1 Kings represents a pivotal theological and narrative turning point in the Deuteronomistic History, marking the tragic denouement of Solomon's reign and establishing the ideological foundation for the subsequent division of the monarchy. Composed during or after the Babylonian exile, this text reflects the Deuteronomistic editors' concern to demonstrate that covenant unfaithfulness inevitably precipitates divine judgment, even upon Israel's wisest and most prosperous king.",
+        "The chapter opens with a striking accusation: Solomon's foreign wives \"turned his heart\" (*wayyaṭṭû*) after other gods. The Hebrew verb *nāṭâ* carries connotations of inclining, bending, or perverting, suggesting a gradual apostasy rather than sudden abandonment. The narrator's emphasis on Solomon's heart (*lēḇāḇ*) proves particularly significant given that Deuteronomic theology identifies wholehearted devotion as the essential covenant requirement. The contrast with David, whose heart was \"complete\" or \"wholly devoted\" (*šālēm*), establishes the theological criterion against which all subsequent Judean monarchs will be measured.",
+        "The list of deities—Ashtoreth, Milcom, and Chemosh—represents the principal gods of Israel's immediate neighbors, and Solomon's construction of high places (*bāmôt*) on the mountain east of Jerusalem constitutes a direct affront to centralized Yahwistic worship. Scholars debate whether these cultic installations reflect historical memory or retrospective theological explanation for Jerusalem's later religious pluralism, though archaeological evidence confirms widespread syncretism during the Iron Age IIA period.",
+        "The divine response through prophetic oracle introduces Ahijah the Shilonite and the symbolic act of garment-tearing, a powerful enacted prophecy signifying the kingdom's rupture. The retention of one tribe \"for David's sake\" demonstrates the persistent tension between unconditional Davidic promises and conditional Mosaic covenant, a dialectic that animates much of the subsequent Kings narrative. The adversaries raised against Solomon—Hadad the Edomite and Rezon of Damascus—function as instruments of divine discipline, transforming political threats into theological statements about covenant consequences. This chapter thus serves as both historical transition and theological theodicy, explaining Israel's fractured political reality through the lens of cultic fidelity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 11: Prophetic perspective",
+      "overview": [
+        "The events of 1 Kings 11 unfold approximately 930 years before Christ's birth, at the close of Solomon's forty-year reign, marking the final chapter of Israel's united monarchy. Within the grand redemptive arc, this passage stands at the apex and fracture point of the Davidic kingdom—the very moment when the promises of 2 Samuel 7 begin their tortured journey through judgment toward ultimate restoration in the Son of David who would never fail.",
+        "Solomon's fall constitutes one of Scripture's most sobering reversals. The king who received divine wisdom at Gibeon, who built the temple where Yahweh's glory descended, who prayed that all peoples might know the Lord—this very king turns his heart after Ashtoreth, Milcom, and Chemosh. The seven hundred wives and three hundred concubines represent not merely sensual indulgence but political alliances sealed by religious compromise. Each foreign marriage brought foreign altars, until the high places surrounding Jerusalem became a grotesque parody of the temple below. Here is Adam in Eden again, led astray through feminine influence into covenant betrayal. Here is Israel at Sinai, turning to golden calves while the covenant still echoed in their ears.",
+        "The prophetic announcement through Ahijah the Shilonite introduces a pattern that will govern Israel's history for centuries: the tearing of garments symbolizing the tearing of kingdoms. The ten pieces given to Jeroboam foreshadow the division that will leave David's line with only Judah and Benjamin—and even this remnant exists solely \"for the sake of David my servant and for the sake of Jerusalem.\" The divine commitment to David's house persists through and despite Solomon's apostasy, pointing toward a covenant whose fulfillment depends not on human faithfulness but on divine oath.",
+        "This chapter establishes the typological framework for understanding Christ by negation. Where Solomon multiplied horses, wives, and gold in direct violation of Deuteronomy 17, the true King would ride a donkey, remain unmarried for His bride the Church, and become poor that many might become rich. Where Solomon's wisdom culminated in idolatry, Christ—the greater than Solomon—remained faithful unto death. The kingdom torn in 1 Kings 11 would remain fractured until One came whose robe soldiers would not tear, whose kingdom cannot be divided, and whose throne endures forever.",
+        "For the Church awaiting Christ's return, Solomon's collapse warns that no measure of spiritual gifting immunizes against apostasy. Only the King who kept covenant perfectly can present His Bride without spot or wrinkle."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.561018+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

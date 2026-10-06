@@ -1,0 +1,58 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Corinthians 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional on 2 Corinthians 5",
+      "overview": [
+        "At the heart of this chapter lies a breathtaking truth: the resurrection changes everything about how we understand ourselves, our suffering, and our purpose. Paul invites us into a radical reorientation of identity that transforms fear into hope and earthly trouble into eternal perspective.",
+        "Paul begins by describing our present condition with tender honesty. We are like people living in temporary housing, groaning under the weight of mortality, longing for something solid and eternal. This is not pessimism but realism—the acknowledgment that our bodies wear down, our strength fails, and death waits for us all. Yet into this darkness comes the promise of a permanent dwelling, a resurrection body that will be our true home. The Holy Spirit, Paul tells us, is like an earnest payment, a down payment guaranteeing what God will finish in us.",
+        "This hope reshapes how we live now. Because we believe in resurrection, we don't live for ourselves alone. Instead, we live \"for him who died and rose again\"—for Christ. This is the watershed truth: the cross and resurrection of Jesus aren't just historical facts to assent to; they're the center around which our entire existence should revolve. When we grasp that Christ paid the ultimate price to redeem us, allegiance to him becomes the natural response.",
+        "Perhaps most strikingly, Paul declares that we are now \"ambassadors for Christ.\" God has entrusted us with the message of reconciliation. We're not called to judge or condemn the world, but to plead with people on Christ's behalf: be reconciled to God. This role carries both weight and privilege. Our lives and words carry the authority of heaven's court.",
+        "The groaning, the temporary dwelling, the dying—all of it gains meaning when directed toward Christ and others. We suffer not as victims of meaninglessness but as people entrusted with eternity's message.",
+        "What would shift in your decisions this week if you truly lived as Christ's ambassador, knowing that resurrection awaits?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Corinthians 5: Scholarly study",
+      "overview": [
+        "Second Corinthians chapter five stands as one of the most theologically dense passages in the Pauline corpus, written during a period of significant tension between the apostle and the Corinthian congregation, likely composed from Macedonia around 55-56 CE. The chapter addresses fundamental questions of eschatological hope, embodiment, and the nature of Christian ministry that had become pressing concerns in a community influenced by Hellenistic skepticism about bodily resurrection.",
+        "The chapter opens with Paul's extended metaphor of the earthly body as a tent (*skēnos*), a term deliberately chosen for its connotations of impermanence and transience, contrasting with the eternal dwelling (*oikodomon*) awaiting believers. This imagery resonates with both Jewish tabernacle traditions and Greco-Roman philosophical discussions about the soul's relationship to the body, though Paul notably departs from Platonic dualism by expressing not a desire to be unclothed but rather to be \"further clothed\" (*ependysasthai*), affirming the continuity of embodied existence in the resurrection.",
+        "The pivotal declaration in verse seventeen introduces the concept of \"new creation\" (*kainē ktisis*), a phrase carrying profound Jewish apocalyptic overtones that echo Isaiah's vision of cosmic renewal. Scholarly debate continues regarding whether Paul intends this primarily as individual transformation or as participation in God's eschatological restoration of all things; the passage likely encompasses both dimensions, with personal transformation serving as the inauguration of universal renewal.",
+        "Central to the chapter's argument is the ministry of reconciliation (*katallagē*), a term drawn from diplomatic vocabulary denoting the restoration of peaceful relations between formerly hostile parties. Paul's assertion that God was \"in Christ reconciling the world to himself\" has generated extensive christological discussion, particularly concerning the nature of divine agency in the incarnation. The subsequent reference to Christ being \"made sin\" (*hamartian epoiēsen*) for humanity remains among the most contested phrases in Pauline literature, with interpretations ranging from penal substitution to representative identification with sinful humanity.",
+        "The chapter culminates in Paul's appeal as an ambassador (*presbeuomen*) for Christ, grounding apostolic authority not in personal credentials but in the message of reconciliation itself, thereby directly addressing the challenges to his legitimacy that pervade this epistle's broader argumentative framework."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Corinthians 5: Prophetic perspective",
+      "overview": [
+        "This epistle emerges from the apostolic era, written approximately AD 55–56, some twenty-five years after the resurrection and ascension of Christ. Paul writes from Macedonia to the church at Corinth during the early expansion of the church age, that mysterious interval between Pentecost and the Parousia when the Spirit indwells believers as the guarantee of future glory. Within the grand arc of redemption, this chapter stands firmly in the \"already but not yet\"—after the Cross and Resurrection have accomplished salvation, yet before the consummation when mortality will be swallowed up in life everlasting.",
+        "Paul opens with the profound typology of dwelling places. The earthly tent—our mortal body—echoes Israel's wilderness tabernacle, that portable, temporary structure awaiting the permanent temple. Just as the tabernacle pointed forward to Solomon's temple and ultimately to Christ Himself as the true dwelling of God with man, so our fragile bodies anticipate the eternal house not made with hands. Here the apostle reaches back to the Exodus pattern: God's people journeying through wilderness, groaning for the promised land, sustained by divine presence. The \"building from God\" awaiting believers fulfills what the temple typified—permanent, glorious, resurrection embodiment in the new creation.",
+        "The Spirit given as a deposit represents the firstfruits of eschatological harvest. What Israel celebrated in offering the initial sheaves to Yahweh, the church now experiences spiritually—the Spirit's indwelling guarantees the full inheritance yet to come. We walk by faith, not by sight, as pilgrims between the advents, much as Abraham sojourned in the land of promise dwelling in tents, looking for the city whose architect and builder is God.",
+        "The judgment seat of Christ reveals that accountability remains even for the redeemed. This is not the Great White Throne judgment of the unbelieving dead but rather the assessment of believers' works, burning away wood, hay, and stubble while preserving gold, silver, and precious stones.",
+        "Most magnificently, Paul unveils the great exchange accomplished at Calvary: Christ was made sin—He who knew no sin—so that we might become the righteousness of God in Him. This is substitutionary atonement in its most concentrated expression, the antitype to every Levitical sacrifice, the reality behind every slain lamb from Abel's offering through the Passover to the Day of Atonement.",
+        "The church now serves as ambassadors of reconciliation, carrying heaven's message to a world still in rebellion, beseeching humanity to be reconciled to God before the day of salvation closes and judgment falls."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "47_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.82532+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

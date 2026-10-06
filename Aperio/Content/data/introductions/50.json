@@ -1,0 +1,135 @@
+{
+  "book": "Colossians",
+  "bookIndex": 50,
+  "status": "Editorial draft",
+  "title": "Colossians: Rooted in the Fullness of Christ",
+  "subtitle": "A community learns to find its security in the Son and to let His peace shape ordinary life.",
+  "atAGlance": {
+    "genre": "Letter of theological proclamation and ethical instruction",
+    "setting": "Believers in Colossae and neighboring communities confronted by rival claims to spiritual fullness.",
+    "composition": "Presented as a letter from Paul in prison, with Timothy. Pauline authorship is debated; proposals range from Paul’s lifetime into the later first century.",
+    "audience": "The church at Colossae, with instructions for sharing the letter with Laodicea."
+  },
+  "sections": [
+    {
+      "title": "A large vision for a local church",
+      "paragraphs": [
+        "Colossians begins with gratitude for faith, love, and hope in a particular congregation. Epaphras has brought news of the believers and their life together. The opening prayer asks for understanding expressed in a worthy walk, fruitful work, endurance, and thanksgiving. Knowledge is valued because it is meant to become a way of living.",
+        "The letter then presents Christ in language of extraordinary scope. He is the image of the invisible God, the One through whom and for whom all things were created, and the One in whom they hold together. The passage joins creation to reconciliation through His cross. This vision gives the congregation a center of gravity. Their life rests in a Lord whose significance reaches beyond any local pressure or claim to superior spiritual access."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The sender, setting, and unanswered questions",
+      "paragraphs": [
+        "Paul and Timothy are named in the greeting, and the letter closes with a signature attributed to Paul. Traditional interpretation locates it during Paul’s imprisonment. Many scholars accept that setting; others argue that its vocabulary and theological emphases suggest a later writer developing Paul’s teaching. Proposed dates therefore extend from the AD 50s or 60s into the later first century.",
+        "The teaching being challenged is difficult to reconstruct. The letter mentions regulations concerning food and festivals, severe treatment of the body, visions, and the worship of angels. These clues do not provide a complete description of a single organized movement. It is better to follow the claims actually answered than to supply an elaborate system behind them. The central pastoral concern is that the believers remain rooted in Christ."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Fullness and the meaning of freedom",
+      "paragraphs": [
+        "Chapter 2 repeatedly brings the discussion back to what believers have received in Christ. They are described as buried and raised with Him in baptism, made alive through God’s action, and released from a condemning debt. The images are varied, but each emphasizes the sufficiency and generosity of God’s work.",
+        "The word “fullness” is especially important. The letter locates divine fullness in Christ and describes believers’ fullness in relation to Him. Spiritual security therefore cannot be made dependent on submitting to every impressive claim about hidden powers or additional regulations. The warning is directed toward practices that detach people from the head of the body. Freedom grows through a continuing relationship with Christ, from whom the whole community receives its life and growth."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A renewed humanity takes visible form",
+      "paragraphs": [
+        "Chapter 3 describes the practical consequences of having been raised with Christ. The old patterns to be put away include greed, anger, malice, and falsehood. The new self is being renewed in the Creator’s image. The imagery of clothing makes the change tangible: compassion, kindness, humility, patience, forgiveness, and love are to become the community’s recognizable habits.",
+        "The instruction concerns shared life. Christ’s peace is to govern a body whose members teach, admonish, sing, and give thanks together. Differences of background and social status lose their power to determine worth in that renewed humanity. The chapter then turns to households, where ancient patterns of authority require careful interpretation. Its demands upon husbands, fathers, and masters must remain visible alongside its instructions to those with less power."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading toward maturity and attentive witness",
+      "paragraphs": [
+        "The household passage assumes institutions, including slavery, that belong to its historical world. The text should not be used to justify owning people or protecting abusive authority. Its placement within the call to compassion, justice, and a shared Lord is essential for responsible Christian reflection. The same Christ addresses every member of the household and judges without favoritism.",
+        "The conclusion calls for persistent prayer, wise conduct toward outsiders, and gracious speech. A series of named coworkers reveals the relationships sustaining the mission: messengers, fellow prisoners, hosts, and people laboring in prayer. The letter is to be exchanged with another congregation, showing that teaching travels through networks of fellowship.",
+        "Read Colossians by asking how each instruction grows from its account of Christ. The passage about creation and the advice about conversation belong to one vision. A church grounded in His fullness is called to become less anxious about status and more attentive to the quality of its common life. Its confidence should be heard in gracious words and seen in patient, responsible care."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Christ and the prayer for maturity",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Thanksgiving, the supremacy of the Son, reconciliation, and ministry."
+    },
+    {
+      "label": "Remaining rooted in Christ",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Fullness, baptism, freedom, and warnings against rival claims."
+    },
+    {
+      "label": "The renewed life together",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "A new humanity, compassion, worship, and household conduct."
+    },
+    {
+      "label": "Prayer, witness, and coworkers",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Justice, gracious speech, the mission’s network, and shared reading."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Christ’s fullness",
+      "description": "Creation, reconciliation, and the church’s life are centered in the Son."
+    },
+    {
+      "name": "Renewed humanity",
+      "description": "Compassion and forgiveness make new identity visible."
+    },
+    {
+      "name": "Freedom with roots",
+      "description": "Maturity grows by remaining connected to Christ."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century Christian communities",
+    "context": "The letter’s address belongs to the Pauline mission and its continuing influence. References to creation and future glory serve its theological argument.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 4,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century Christian communities",
+      "note": "The letter’s address belongs to the Pauline mission and its continuing influence. References to creation and future glory serve its theological argument."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Colossians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Colossians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/colossians/lessons/summary-of-colossians/"
+    }
+  ]
+}

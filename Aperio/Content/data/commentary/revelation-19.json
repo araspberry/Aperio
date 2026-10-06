@@ -1,0 +1,55 @@
+{
+  "book": "Revelation",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 19: The Victory Feast and the King Enthroned",
+      "overview": [
+        "The spiritual heart of Revelation 19 beats with one thundering truth: Christ's kingdom is not a distant hope but a glorious, unfolding reality that demands our allegiance and celebration now. This chapter sweeps us into heaven's throne room where worship erupts and the Lamb receives the honor that is eternally his.",
+        "The passage opens with the multitude in heaven crying \"Hallelujah!\"—a word that means \"praise the Lord.\" Their rejoicing is not abstract; it celebrates God's judgment against evil and his vindication of the oppressed. There is a gospel urgency here: the wedding supper of the Lamb is coming, and those invited are the church, the bride adorned in righteous acts. This is not escapism but invitation. We are being drawn into something beautiful and unfinished. Our present obedience, our choices for faithfulness today, are being woven into an eternal garment of righteousness. Every act of love, every word of gospel truth, every sacrifice made in weakness—these are not forgotten but gathered up and celebrated.",
+        "The vision of the rider on the white horse carrying the sword of his mouth reminds us that Jesus conquers through truth, not coercion. His return is not a surprise to those who know him; it is the fulfillment of his promise. The nations will see him, and all will be held accountable to his justice and mercy.",
+        "For the local church, this passage invites us into a peculiar freedom. We are not anxious about the future's shape because the outcome is secure. Christ wins. But this security is meant to free us for greater courage and generosity now. We serve not in fear or desperation but in the joy of already belonging to the victorious king.",
+        "What area of your life needs the encouragement that Christ's victory is already certain? How might this confidence reshape your choices this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 19: Scholarly study",
+      "overview": [
+        "Revelation 19 marks a decisive turning point in the Apocalypse, transitioning from the extended judgment sequences against Babylon (chapters 17–18) to the triumphal consummation of divine victory. The chapter divides naturally into two major sections: the heavenly celebration over Babylon's fall and the announcement of the marriage supper of the Lamb (vv. 1–10), followed by the theophanic appearance of Christ as divine warrior (vv. 11–21). John of Patmos, writing during a period of escalating tension between the early church and Roman imperial claims, draws upon a rich tapestry of Old Testament imagery, particularly from Isaiah, Ezekiel, and the Psalms, to articulate the ultimate vindication of God's people.",
+        "The chapter opens with the fourfold \"Hallelujah\" (hallēlouia), a transliteration of the Hebrew expression meaning \"Praise Yah[weh],\" appearing in the New Testament exclusively in this passage. This liturgical acclamation, familiar from the Psalter's concluding hymns, frames the heavenly worship as the eschatological fulfillment of Israel's doxological tradition. The great multitude celebrates that God has judged (ekrinen) the great prostitute, employing juridical language that emphasizes the righteousness of divine retribution rather than arbitrary vengeance.",
+        "The marriage supper of the Lamb introduces nuptial imagery with deep covenantal resonance, echoing prophetic depictions of Yahweh's spousal relationship with Israel. The bride's fine linen, interpreted as the \"righteous deeds\" (dikaiōmata) of the saints, has generated scholarly discussion regarding the relationship between divine gift and human response in Johannine soteriology, though the passive construction \"it was given to her\" maintains the priority of grace.",
+        "The Christophanic vision of the mounted warrior in verses 11–16 presents perhaps the most militaristic portrayal of Christ in the New Testament canon. The designation \"Faithful and True\" (pistos kai alēthinos) recalls the letter to Laodicea, creating an inclusio within the book's structure. The sword proceeding from Christ's mouth indicates that divine conquest occurs through proclamation rather than conventional warfare—a detail often overlooked in literalistic readings. The mysterious \"name written that no one knows\" has occasioned considerable interpretive debate, likely signifying the ultimately ineffable nature of divine identity that transcends human comprehension even in revelation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 19: Prophetic perspective",
+      "overview": [
+        "Revelation 19 stands at the threshold of consummation, written through the apostle John approximately sixty-five years after Christ's resurrection, during the reign of Emperor Domitian. Yet the visions recorded here pierce beyond the first-century horizon to events that remain largely unfulfilled—the final phase of redemptive history when heaven's patient silence gives way to triumphant action. This chapter depicts what the entire biblical narrative has been straining toward since Genesis 3:15 promised that the seed of the woman would crush the serpent's head.",
+        "The fourfold \"Hallelujah\" that opens this chapter—the only occurrence of this Hebrew praise word in the New Testament—answers the cry of the martyrs under the altar in Revelation 6 who asked, \"How long, O Lord?\" Babylon the Great, that ancient system of human rebellion stretching back to Babel's tower, finally receives her judgment. What Nebuchadnezzar's empire typified, what Rome embodied in John's day, and what every God-defying system since has perpetuated meets its decisive end. The smoke of her destruction rises as a dark mirror of the incense-prayers of the saints, demonstrating that heaven never forgot a single tear shed by the persecuted church.",
+        "The marriage supper of the Lamb unveils what Israel's prophets glimpsed through shadows. Isaiah's feast on the mountain, Hosea's restoration of the adulterous bride, the Song of Solomon's mysterious love—all find their ultimate meaning here. The church, adorned in the righteous deeds granted her by grace, becomes what Eve was meant to be: a bride without blemish presented to the Last Adam. The fine linen speaks of imputed and imparted righteousness woven together through faith's perseverance.",
+        "Then heaven opens for the second time in Revelation—but now the Lamb appears as Lion. The rider on the white horse bears the names that span eternity: Faithful and True, the Word of God, King of kings and Lord of lords. His robe dipped in blood recalls Isaiah 63's treader of the winepress, the suffering Servant now revealed as conquering Sovereign. The sword proceeding from His mouth confirms that creation's King needs no human weaponry—His word that spoke galaxies into existence speaks Armageddon's armies into oblivion.",
+        "For the church living between the advents, this chapter transforms present suffering into future-oriented hope. The beast and false prophet—those perennial counterfeits of Christ and Spirit—face irreversible doom. Every faithful believer enduring temporal defeat walks toward eternal victory. The marriage feast awaits; the King is coming."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.098257+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

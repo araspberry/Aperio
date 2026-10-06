@@ -1,0 +1,179 @@
+{
+  "book": "Genesis",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "title": "The World God Calls Good",
+  "sources": [
+    { "id": "gen1", "label": "Genesis 1 · BSB text and translation notes", "url": "https://biblehub.com/bsb/genesis/1.htm" },
+    { "id": "heb2", "label": "Genesis 1:2 · Hebrew text and grammar", "url": "https://biblehub.com/text/genesis/1-2.htm" },
+    { "id": "bara", "label": "Bara · Brown–Driver–Briggs lexicon", "url": "https://biblehub.com/bdb/1254.htm" },
+    { "id": "ruach", "label": "Ruach · Brown–Driver–Briggs lexicon", "url": "https://biblehub.com/bdb/7307.htm" },
+    { "id": "image", "label": "Tselem · Brown–Driver–Briggs lexicon", "url": "https://biblehub.com/bdb/6754.htm" },
+    { "id": "day", "label": "Yom · Brown–Driver–Briggs lexicon", "url": "https://biblehub.com/bdb/3117.htm" },
+    { "id": "netnotes", "label": "Genesis 1 · NET translation notes on creation and the Spirit", "url": "https://bible.org/sites/bible.org/resources/netbible/gen1_notes.htm" },
+    { "id": "john1", "label": "John 1:1–18 · Creation, life, and the Word", "url": "https://biblehub.com/bsb/john/1.htm" },
+    { "id": "col1", "label": "Colossians 1:15–20 · Creation and reconciliation in Christ", "url": "https://biblehub.com/bsb/colossians/1.htm" },
+    { "id": "col3", "label": "Colossians 3:9–14 · Renewal in the Creator’s image", "url": "https://biblehub.com/bsb/colossians/3.htm" },
+    { "id": "rev21", "label": "Revelation 21 · God’s new creation", "url": "https://biblehub.com/bsb/revelation/21.htm" },
+    { "id": "rev22", "label": "Revelation 22:1–5 · Life in God’s presence", "url": "https://biblehub.com/bsb/revelation/22.htm" }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Learning to Receive a Good World",
+      "overview": [
+        "Genesis begins with God. Before any human achievement, failure, or prayer, He is already giving life its setting. The chapter moves from darkness and unformed earth toward a world filled with light, food, movement, and human voices. Again and again, God sees goodness in what He has made. Learning to share His attention changes how we inhabit an ordinary day: we begin to notice the gifts that have been sustaining us all along."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "The first voice in the story",
+          "paragraphs": [
+            "God speaks into the opening darkness, and light appears. His command is followed by its fulfillment with a simplicity that gives the account its quiet authority. He sees the light, calls it good, and establishes the rhythm of day and night. Everything that follows unfolds under His care.",
+            "Prayer can begin with that larger view. Our concerns matter, and they belong within a world whose life begins with God’s generosity. Before trying to solve every uncertainty, we can acknowledge the One who gives us breath and another morning. Gratitude makes room for trust to grow."
+          ],
+          "sourceIds": ["gen1"]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "A place where life can flourish",
+          "paragraphs": [
+            "God separates the waters, gathers the seas, and brings dry ground into view. Plants and fruit trees follow. The account lingers over seed: the vegetation bears within it the capacity for further growth. God’s provision reaches beyond the first moment of life toward its continuing nourishment.",
+            "This makes a meal worth noticing. Bread, fruit, water, and the ground beneath our feet belong to the world God is preparing here. Giving thanks can become wonderfully specific. It can also become practical: food shared with a neighbor, less carelessness with what nourishes us, and patient attention to a small piece of the earth."
+          ],
+          "sourceIds": ["gen1"]
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "title": "The abundance God enjoys",
+          "paragraphs": [
+            "The lights mark days, seasons, and years. The waters teem, birds cross the sky, and animals fill the land. God blesses the creatures of sea and sky with fruitfulness before humanity receives its own commission. Their lives already have a place in His generous purpose.",
+            "Genesis invites us to slow down enough to see that abundance. A bird’s movement or the changing evening light can recall something easily forgotten: much of God’s good world exists beyond our schedules and demands. Wonder gives our attention back to Him. Care for living things then becomes part of gratitude, a fitting response to the Creator who delights in what He has made."
+          ],
+          "sourceIds": ["gen1"]
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "title": "Dignity received, responsibility entrusted",
+          "paragraphs": [
+            "God creates humanity in His image. The Hebrew צֶלֶם, tselem, means “image” or “likeness”; the passage joins that identity to a responsibility within creation. Male and female share the gift and the calling. Human worth is present from the beginning, before anyone has accumulated possessions or proved useful.",
+            "God also blesses humanity, provides food, and entrusts the earth to human rule. That authority is exercised within a world He has called good. It gives us reason to ask what our influence does to the lives around us: whom it protects, what it nourishes, and whether it honors the dignity God has given. The chapter closes with His delight in the whole. Our daily work can become a grateful response to that vision."
+          ],
+          "sourceIds": ["gen1", "image"]
+        }
+      ],
+      "reflection": "What gift of creation can you receive with fresh gratitude today, and whose dignity could your words or actions honor more carefully?"
+    },
+    "scholarly": {
+      "title": "Creation, Order, and the Human Calling",
+      "overview": [
+        "Genesis 1 presents creation through a carefully repeated sequence: God speaks, His command takes effect, and the developing world receives His evaluation. Evening and morning mark the days. The first three days establish light, sky, sea, and fruitful land; the next three introduce the lights and creatures associated with those settings. This broad correspondence helps us follow the chapter’s movement toward a populated world and humanity’s responsibility within it."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "Creation and the presence of God",
+          "paragraphs": [
+            "The verb בָּרָא, bara, means “create.” In its creation sense, biblical Hebrew uses it for divine activity. The verb identifies God as Creator; by itself, it does not specify a material process or establish the doctrine of creation from nothing. That larger theological question requires attention to the sentence, the chapter, and other biblical texts.",
+            "In verse 2, רוּחַ אֱלֹהִים, ruach Elohim, is rendered “the Spirit of God” in the BSB. Ruach can mean spirit, breath, or wind, which explains why some translations understand a wind from God here. The BSB follows the traditional Spirit reading. With God’s command in verse 3, the narrative begins its repeated pattern of speech and fulfillment. God then distinguishes light from darkness and names day and night, establishing the ordered rhythm of the account."
+          ],
+          "sourceIds": ["gen1", "bara", "ruach", "heb2", "netnotes"]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "Separation makes room for life",
+          "paragraphs": [
+            "The second and third days develop the setting for living creatures. God establishes the expanse called sky, gathers the waters, and brings dry land into view. The BSB’s note gives “firmament” and “vault” among the alternatives for “expanse.” The text describes an ordered world through the sky, waters, and ground of ordinary human experience.",
+            "Vegetation makes the land fruitful. Repeated references to seed and kinds emphasize reproduction and continuing life. The third day receives the declaration of goodness twice, after the appearance of land and seas and again after the growth of plants. Those evaluations connect the chapter’s order with its capacity to sustain life."
+          ],
+          "sourceIds": ["gen1"]
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "title": "Time, living creatures, and blessing",
+          "paragraphs": [
+            "The greater and lesser lights govern day and night and mark seasons and years. They receive their functions from God. The sequence then moves through sea creatures, birds, and land animals, repeatedly describing their variety and goodness. God’s blessing in verse 22 explicitly concerns the fruitfulness of the creatures of sea and sky.",
+            "The Hebrew יוֹם, yom, is the word for “day.” Verse 5 uses it for the lighted portion of the cycle and then in the day’s concluding formula. The repeated evening and morning language is therefore important when considering the account’s chronology. How the narrative’s pattern relates to elapsed time requires interpretation of the whole passage; the word’s dictionary range alone cannot settle that question."
+          ],
+          "sourceIds": ["gen1", "day"]
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "title": "Humanity in God’s image",
+          "paragraphs": [
+            "צֶלֶם, tselem, means “image” or “likeness.” Verse 26 connects bearing God’s image with rule over other creatures, giving the language a representative purpose: humanity exercises authority within God’s world. Verse 27 explicitly includes male and female in the creation of humanity in that image.",
+            "The commission follows God’s blessing and is accompanied by His provision of food. Human rule thus belongs inside the Creator’s wider generosity toward living things. The final evaluation, “very good,” concerns everything God has made together. Humanity has a distinctive responsibility within that whole, and the chapter gives no basis for treating the rest of it as worthless."
+          ],
+          "sourceIds": ["gen1", "image"]
+        }
+      ],
+      "reflection": "Follow the repeated actions of God—speaking, separating, naming, blessing, and evaluating. How do they prepare for humanity’s responsibility in verses 26–28?"
+    },
+    "prophetic": {
+      "title": "The Beginning and the Hope of New Creation",
+      "overview": [
+        "Genesis 1 supplies the language of creation that later Scripture brings into the revelation of Christ and the hope of a renewed world. John returns to the beginning; Paul describes the Son’s relation to everything created; Revelation looks toward God dwelling with His people. These are connections developed across the biblical story. Genesis itself is recounting creation, while the later passages reveal how Christians understand its beginning in relation to its promised future."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "The Word who gives life",
+          "paragraphs": [
+            "John opens his Gospel with the same words that open Genesis: “In the beginning.” He identifies the Word as present with God and as the One through whom everything came into being. Life and light belong to Him. John then tells us that this Word became flesh, bringing creation’s story into his account of Jesus Christ.",
+            "Genesis describes the arrival of light; John uses light to speak of the life revealed in Christ. Reading the two together directs Christian hope toward Jesus. His coming makes God known within the world that came into being through Him. Receiving His truth and grace becomes a response to the Creator’s personal approach."
+          ],
+          "sourceIds": ["gen1", "john1"]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "Life received and life renewed",
+          "paragraphs": [
+            "The waters, land, and fruitful plants establish a world in which life can flourish. At the far end of Scripture, Revelation 22 portrays water flowing from God’s throne and a tree bearing fruit, with leaves associated with the healing of the nations. The shared imagery gathers Christian hope around life sustained in God’s presence.",
+            "Revelation’s vision gives the promise of renewal its future setting. Today, that hope can shape our care for what sustains a community: food, clean water, and places where people can live in peace. Such service is a fitting response to God’s promised abundance."
+          ],
+          "sourceIds": ["gen1", "rev22"]
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "title": "Creation held together in Christ",
+          "paragraphs": [
+            "Genesis assigns the lights their functions and fills sea, sky, and land with living creatures. Colossians 1:16–17 widens the confession to everything visible and invisible, declaring that all things were created through the Son and for Him and continue to hold together in Him. Christ’s significance reaches the whole created order.",
+            "Revelation 21 carries the theme of light forward: the holy city is illuminated by God’s glory, with the Lamb as its lamp. The vision places the future under God’s own presence. Christian worship can hold together these two horizons—the ordinary light by which we live now and the promised fullness of life with Him."
+          ],
+          "sourceIds": ["gen1", "col1", "rev21"]
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "title": "The image and the life it calls forth",
+          "paragraphs": [
+            "Genesis describes humanity as made in God’s image. Colossians 1:15 identifies the Son as the image of the invisible God, and Colossians 3:10 speaks of people being renewed in their Creator’s image. Paul gives that renewal a practical shape: truthful speech, compassion, kindness, forgiveness, and love. In Christ, the human calling comes into view through a transformed way of living with others.",
+            "Revelation 21 promises a world where God dwells with His people and death and grief pass away. That hope gives weight to present acts of care. Honoring a person’s dignity, repairing a damaged relationship, and using authority to protect the vulnerable bear witness to the goodness of the God who makes all things new."
+          ],
+          "sourceIds": ["gen1", "col1", "col3", "rev21"]
+        }
+      ],
+      "reflection": "Where could the hope of God’s new creation become visible in your life through compassion, careful stewardship, or the repair of a relationship?"
+    }
+  },
+  "crossReferences": [
+    { "book": "John", "chapter": 1, "start": 1, "end": 5, "label": "John 1:1–5", "relationship": "Creation, the Word, and light", "note": "John echoes Genesis’s opening and identifies the Word as the One through whom all things came into being, joining creation with the themes of life and light." },
+    { "book": "John", "chapter": 1, "start": 14, "end": 18, "label": "John 1:14–18", "relationship": "The Creator’s Word becomes flesh", "note": "The prologue identifies the Word who was present at creation with the Son who becomes flesh and makes God known." },
+    { "book": "Colossians", "chapter": 1, "start": 15, "end": 20, "label": "Colossians 1:15–20", "relationship": "Creation and reconciliation through the Son", "note": "Paul describes the Son as God’s image, the One through whom and for whom all things were created, and the One through whose cross God makes peace." },
+    { "book": "Colossians", "chapter": 3, "start": 9, "end": 14, "label": "Colossians 3:9–14", "relationship": "Human life renewed in the Creator’s image", "note": "Renewal in the Creator’s image is connected with truthful speech, compassion, forgiveness, and love within the Christian community." },
+    { "book": "Revelation", "chapter": 21, "start": 1, "end": 5, "label": "Revelation 21:1–5", "relationship": "The promised new creation", "note": "The vision of a new heaven and earth gives creation a future horizon in which God dwells with His people and removes death and grief." },
+    { "book": "Revelation", "chapter": 21, "start": 22, "end": 25, "label": "Revelation 21:22–25", "relationship": "God and the Lamb illuminate the city", "note": "The city receives its light from God’s glory and the Lamb, developing the theme of divine light in the vision of life with God." },
+    { "book": "Revelation", "chapter": 22, "start": 1, "end": 5, "label": "Revelation 22:1–5", "relationship": "Water, fruitfulness, and enduring life", "note": "The river of life and the fruitful tree contribute to Revelation’s portrayal of life sustained in God’s presence; His servants see His face and reign." }
+  ],
+  "revision": "Fresh Aperio commentary with continuous passage coverage and verified Hebrew notes"
+}

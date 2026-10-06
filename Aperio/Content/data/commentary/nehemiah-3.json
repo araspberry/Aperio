@@ -1,0 +1,56 @@
+{
+  "book": "Nehemiah",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 3: The Power of Small Hands Working Together",
+      "overview": [
+        "Nehemiah 3 reveals a profound spiritual truth: God accomplishes His greatest purposes not through the prominence of a few, but through the faithful contribution of many ordinary people working in concert. This chapter, which reads like a construction roster of names and locations, is actually a stunning portrait of what becomes possible when a community unites around a holy vision.",
+        "The wall's reconstruction required every kind of person—goldsmiths and perfumers, rulers and common folk, priests and merchants. Some repaired sections near their own homes, investing personally in the work. Others worked beside family members, their labor intertwined with love. What strikes the careful reader is not the elegance of their names or the magnificence of individual accomplishments, but rather the phrase repeated throughout: \"next to him\" and \"after him.\" The grammar itself teaches theology. No one rebuilt the wall alone. Each person's contribution found meaning only in relation to another's.",
+        "This speaks directly to how God still works in our communities today. The church accomplishes its mission not when a charismatic leader heroically carries the load, but when the quiet accountant, the faithful nursery worker, the person with the gift of encouragement, and the one who simply shows up each week all place their hands on the same work. Often we minimize our own callings, thinking our section of the wall too small to matter. Yet Nehemiah 3 whispers to us across the centuries: your faithfulness in your place, connected to others' faithfulness in theirs, builds something that will stand.",
+        "The spiritual enemy often tries to convince us that our contributions are insignificant or that unity is optional. The wall says otherwise. When God's people grasp that their individual obedience finds its fullest meaning in community, something immovable rises—not despite our ordinariness, but because of it.",
+        "What corner of God's work in your church or community needs your faithful hands right now?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 3: Scholarly study",
+      "overview": [
+        "The third chapter of Nehemiah presents one of the most detailed topographical documents in the Hebrew Bible, offering an architectural survey of Jerusalem's wall reconstruction under Persian authorization circa 445 BCE. This administrative record, likely derived from official building registers, provides invaluable data for understanding both the physical layout of post-exilic Jerusalem and the social organization of the restoration community. The chapter functions as a literary hinge between the narrative of opposition introduced in chapter two and its intensification in chapter four, demonstrating that despite external threats, the community mobilized with remarkable efficiency.",
+        "The verbal framework of the chapter centers on the term *bānāh* (בָּנָה, \"to build\"), appearing throughout as the primary activity, alongside *ḥāzaq* (חָזַק, \"to strengthen\" or \"to repair\"), which carries connotations of both physical reinforcement and covenantal commitment. The repeated use of *yād* (יָד, \"hand\" or \"section,\" literally \"beside\") to designate work assignments reveals an organizational strategy that distributed responsibility across family units, professional guilds, and geographic districts.",
+        "The circuit begins at the Sheep Gate in the northeast, proceeding counterclockwise through ten gates total, creating a literary encirclement that mirrors the physical reconstruction. Notably, the priests initiated work at the Sheep Gate, appropriately positioned near the temple complex, and consecrated (*qiddĕšûhû*) their section—the only portion explicitly sanctified, perhaps indicating its liturgical significance for sacrificial animals. The participation of diverse social groups—perfumers, goldsmiths, merchants, temple servants, and district rulers—underscores the communal nature of the enterprise, though the conspicuous absence of Tekoite nobles who \"would not put their necks to the work\" (3:5) introduces a note of social criticism.",
+        "Scholarly discussion has focused on whether this list reflects actual fifth-century topography or contains anachronistic elements. The mention of the \"Broad Wall\" likely references the eighth-century fortification discovered archaeologically in the Jewish Quarter. The chapter's canonical function establishes that restoration involves collective labor across social boundaries, a theological statement about covenant community that transcends mere urban planning. This democratization of sacred labor prefigures the covenant renewal ceremony in chapters eight through ten."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 3: Prophetic perspective",
+      "overview": [
+        "Nehemiah chapter three unfolds approximately 445 years before the birth of Christ, during the Persian period when God's exiled people had returned to their ancestral homeland under the decree of foreign kings. This meticulous account of Jerusalem's wall reconstruction takes place roughly ninety years after the first wave of exiles returned under Zerubbabel and some thirteen years after Ezra's reforms. Within the grand redemptive arc, we stand in the Restoration period—that bittersweet era when Israel dwelt again in the land yet remained under Gentile dominion, awaiting the promised Messiah who would establish an everlasting kingdom.",
+        "What appears as mere administrative record—a catalog of gates, workers, and wall sections—pulses with prophetic significance. The rebuilding of Jerusalem's walls represents far more than urban restoration; it embodies God's faithfulness to preserve a people through whom the Seed of Abraham would come. Every stone laid was a declaration that the covenant promises still stood, that the line leading to Christ remained intact despite Babylon's devastation.",
+        "The structure of this chapter reveals a profound typology of the Body of Christ. Priests labor beside perfume makers, rulers work alongside daughters, and goldsmiths repair walls next to servants of the temple. Here is the holy priesthood of all believers prefigured—each member essential, none insignificant, all contributing to the building of God's dwelling place. The forty-two distinct groups working in unified purpose foreshadow the church, that living temple built from every tribe and tongue, with Christ Himself as the cornerstone.",
+        "The ten gates mentioned carry symbolic weight that echoes through redemptive history. The Sheep Gate, where the work begins and ends, points to Christ the Lamb through whom we enter salvation. The Fish Gate speaks of gospel mission. The Old Gate suggests ancient paths of righteousness. The Valley Gate and Dung Gate remind us that the way to glory passes through humility and the casting off of all that defiles.",
+        "Yet observe the Noblemen of Tekoa who \"would not put their shoulders to the work\"—a sobering warning that privilege never exempts from kingdom labor, and that some who bear honored names will refuse their calling.",
+        "For the church dwelling between the advents, Nehemiah three declares that God builds through ordinary hands consecrated to extraordinary purpose. Until Christ returns to establish the New Jerusalem descending from heaven, we remain wall-builders—repairing breaches, guarding gates, laboring shoulder to shoulder until the city whose architect is God stands complete in glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.900083+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "book": "Luke",
+  "bookIndex": 41,
+  "status": "Editorial draft",
+  "title": "Luke: Salvation Draws Near",
+  "subtitle": "Jesus brings God’s mercy into households, roads, tables, and the lives of people easily overlooked.",
+  "atAGlance": {
+    "genre": "Gospel: ordered narrative, first volume of Luke–Acts",
+    "setting": "Jesus’ birth and ministry, His journey from Galilee toward Jerusalem, and His death, resurrection, and ascension.",
+    "composition": "Anonymous within the text; tradition attributes Luke–Acts to Luke, a companion of Paul. Commonly dated to the later first century; exact date remains debated.",
+    "audience": "Addressed to Theophilus, with a wider audience being instructed in the significance of Jesus."
+  },
+  "sections": [
+    {
+      "title": "An account written to deepen confidence",
+      "paragraphs": [
+        "Luke begins by explaining why the account has been written. Earlier narratives and eyewitness testimony already exist; the author has investigated the traditions and presents an ordered account for Theophilus. That opening invites thoughtful trust. The Gospel intends to help its audience understand the significance of what they have been taught about Jesus.",
+        "The opening chapters then move into the lives of Zechariah, Elizabeth, Mary, Joseph, Simeon, and Anna. Waiting, disappointment, promise, and joy become personal. Their prayers and songs place Jesus within Israel’s hope for God’s faithfulness. When the narrative later reaches people living at the edges of public respectability, those opening songs still matter: God’s mercy lifts the lowly and unsettles the assumptions of the powerful."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The author and the world of the story",
+      "paragraphs": [
+        "The same writer produced Luke and Acts. Neither work names its author, although Christian tradition identifies him as Luke, a companion of Paul. The Gospel’s prologue distinguishes the writer from the original eyewitnesses. Many scholars place Luke’s composition in the later first century, often in the AD 80s, while other dates continue to be proposed. Theophilus is named, but his precise identity is unknown.",
+        "Jesus’ story is set within Jewish life under Roman and Herodian rule. Luke names rulers and places to locate the narrative in public history. At the same time, the story repeatedly enters settings absent from political chronicles: a village home, a meal with social tension, a sick person’s bedside. The book’s historical interest and its concern for these ordinary encounters belong together. God’s saving work reaches people inside the world they actually inhabit."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The journey toward Jerusalem",
+      "paragraphs": [
+        "A major turn comes when Jesus sets His course toward Jerusalem in chapter 9. Much of the Gospel’s distinctive teaching appears along that journey. Parables about a compassionate Samaritan, a father and two sons, a rich man and Lazarus, and a persistent widow explore mercy, repentance, wealth, judgment, and prayer. They work through memorable characters whose choices invite reflection.",
+        "Meals provide another important pattern. Who welcomes Jesus, who is welcomed beside Him, and who objects to the company all become theological questions. Zacchaeus’s encounter with Jesus brings restoration into economic conduct as well as personal joy. Salvation acquires visible consequences. Luke’s interest in forgiveness never removes the need to examine the way possessions, status, and exclusion shape a community."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The Spirit, prayer, and the meaning of salvation",
+      "paragraphs": [
+        "The Holy Spirit is active from the opening scenes through Jesus’ ministry and the promise that closes the Gospel. Prayer accompanies decisive moments: Jesus’ baptism, the choice of the Twelve, His transfiguration, and His suffering. His followers are taught to ask, persist, and trust the Father. Luke presents dependence on God as part of the shape of faithful action.",
+        "“Salvation” in this narrative includes forgiveness, rescue, restored belonging, and the fulfillment of God’s promises. Different scenes reveal different dimensions. A person healed from disease, someone welcomed after public rejection, and a condemned man receiving Jesus’ assurance do not have identical experiences, yet each encounter displays His mercy. Read the particular story before turning its language into an abstract formula. Luke’s careful attention to people allows the meaning to grow through their encounters with Jesus."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The Scriptures opened and the mission continued",
+      "paragraphs": [
+        "Jerusalem brings the journey to its crisis. Jesus shares a final meal, prays in anguish, is arrested, and faces the cross. His death is accompanied by forgiveness and the promise of life with Him. Luke also records the failures of disciples and the faithfulness of the women who attend to His burial and first report the empty tomb.",
+        "In the resurrection scenes, Jesus opens the Scriptures and helps His followers understand suffering and glory within God’s purpose. The travelers to Emmaus move from disappointment toward recognition, and the gathered disciples are commissioned as witnesses. The ascension concludes the Gospel with worship and expectation; Acts will continue the story through the promised Spirit.",
+        "Read Luke with attention to reversals and to the people who prompt them. Ask who receives mercy, who resists it, and what a changed response requires. The Gospel invites confidence in God’s faithfulness together with a generous, searching examination of our own habits of welcome. Its good news reaches deeply into the way people pray, share resources, forgive, and make room for one another."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Promise, birth, and preparation",
+      "startChapter": 1,
+      "endChapter": 4,
+      "description": "Israel’s hope, the births of John and Jesus, and the beginning of ministry."
+    },
+    {
+      "label": "Ministry in Galilee",
+      "startChapter": 5,
+      "endChapter": 9,
+      "description": "Calling, teaching, healing, and the decisive turn toward Jerusalem."
+    },
+    {
+      "label": "Teaching along the journey",
+      "startChapter": 10,
+      "endChapter": 19,
+      "description": "Mercy, possessions, prayer, repentance, and welcome on the road."
+    },
+    {
+      "label": "Jerusalem and the final days",
+      "startChapter": 20,
+      "endChapter": 23,
+      "description": "Public teaching, the last meal, arrest, trial, and crucifixion."
+    },
+    {
+      "label": "Resurrection and commission",
+      "startChapter": 24,
+      "endChapter": 24,
+      "description": "The empty tomb, Emmaus, opened Scriptures, and ascension."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Mercy with consequences",
+      "description": "Salvation changes relationships, belonging, and the use of possessions."
+    },
+    {
+      "name": "Prayer and the Spirit",
+      "description": "Jesus’ mission unfolds in dependence on the Father and the Spirit."
+    },
+    {
+      "name": "Promise reaching outward",
+      "description": "Israel’s hope opens toward a mission to all nations."
+    }
+  ],
+  "timeline": {
+    "era": "jesus",
+    "dateLabel": "Late first century BC–early first century AD",
+    "context": "The narrative moves from birth traditions to Jesus’ ministry, death, resurrection, and ascension. Broad period placement avoids forcing disputed infancy chronology into a single exact date.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 2,
+      "era": "jesus",
+      "label": "The births and childhood of John and Jesus",
+      "dateLabel": "Late first century BC–early first century AD",
+      "note": "Luke opens under Herod the Great and follows Jesus into childhood. The census chronology remains disputed; these chapters should not receive a single precise date."
+    },
+    {
+      "start": 3,
+      "end": 24,
+      "era": "jesus",
+      "label": "Jesus’ ministry, death, and resurrection",
+      "dateLabel": "First century AD; ministry approximately late AD 20s–early 30s",
+      "note": "These broad dates describe the narrative setting, not the later composition of the Gospel."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Luke · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Luke · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/luke/lessons/summary-of-luke/"
+    },
+    {
+      "id": "infancy-setting",
+      "label": "Luke 1:5 · historical setting and note",
+      "url": "https://bible.usccb.org/bible/luke/1"
+    }
+  ]
+}

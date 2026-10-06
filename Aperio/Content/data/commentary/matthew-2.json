@@ -1,0 +1,57 @@
+{
+  "book": "Matthew",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 2: The Journey of Seeking and Submission",
+      "overview": [
+        "The arrival of the Magi and the flight to Egypt reveal the radical nature of God's kingdom: it disrupts earthly power, demands costly discipleship, and secures salvation through humble obedience.",
+        "When wise men from the East follow a star to seek the newborn King, they do so with genuine worship in mind. Yet their innocent inquiry—\"Where is the child who has been born king of the Jews?\"—unwittingly exposes Herod's anxious grip on power. Herod's response is telling: when threatened by truth, he schemes to destroy rather than submit. The Magi's encounter with the Christ child reveals what Herod refuses to see—that true kingship looks nothing like what the world expects. A baby in a borrowed place, surrounded by animals, holds more genuine authority than all of Herod's fortress and armies.",
+        "The Magi's worship teaches us something essential about discipleship. They traveled across deserts, abandoned certainty, and brought costly gifts. Seeking Jesus requires both vulnerability and sacrifice. But notice too their obedience: warned in a dream not to return to Herod, they immediately departed another way. There is no resistance, no second-guessing, only trust in God's instruction.",
+        "Joseph's obedience mirrors the Magi's faith. When an angel warns him to flee to Egypt, he rises immediately—abandoning home, security, and livelihood for his child's safety. The incarnate God depends on human obedience. This is staggering. No calculation precedes Joseph's response, only prompt submission to God's word. In this, Joseph models what it means to follow Jesus: to relinquish control, to move when called, to protect what God has entrusted to us.",
+        "The flight to Egypt reminds us that following Jesus sometimes means suffering, displacement, and confusion. Yet God's purposes never fail. He secures His Son, uses foreign nations, and works through dreams and visions to accomplish salvation.",
+        "What would it cost you to truly seek Jesus as the Magi did? What area of your life is God inviting you to \"depart another way\" from?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 2: Scholarly study",
+      "overview": [
+        "Matthew's second chapter presents a carefully constructed narrative that establishes Jesus's messianic credentials through geographic and prophetic fulfillment while simultaneously introducing themes of opposition and divine protection that will pervade the entire Gospel. Writing primarily for a Jewish-Christian audience, Matthew demonstrates remarkable sophistication in weaving together at least four fulfillment citations that connect Jesus's infancy to Israel's scriptural heritage, presenting the child as the culmination of prophetic expectation.",
+        "The narrative opens with the arrival of μάγοι (magoi), a term designating not magicians in the pejorative sense but rather learned astrologers or priestly sages, likely from Persia or Babylon, where Jewish communities had maintained presence since the exile. Their inquiry about one \"born king of the Jews\" employs the significant term τεχθείς (techtheis), emphasizing the nativity as the moment of royal designation, which stands in deliberate contrast to Herod, who was merely appointed king by Rome. The unsettling of \"all Jerusalem\" alongside Herod reveals Matthew's theological point that Israel's leadership and populace fail to recognize their own Messiah while Gentile seekers journey to worship him.",
+        "The Bethlehem citation from Micah 5:2 anchors Jesus's birth in Davidic territory, while the subsequent flight to Egypt and return occasions Matthew's citation of Hosea 11:1, applying corporate Israel's exodus typology to Jesus as the true Son. The massacre of innocents, though unattested in other historical sources, coheres with Josephus's portrait of Herod's paranoid brutality. Matthew's invocation of Jeremiah 31:15, placing Rachel's weeping at Ramah, operates on multiple typological levels, connecting the exile's tragedy to this moment of suffering while anticipating ultimate restoration.",
+        "The chapter concludes with the holy family's settlement in Nazareth, fulfilling what Matthew cryptically attributes to \"the prophets\" regarding the designation Ναζωραῖος (Nazoraios). Scholars debate whether this reflects wordplay on נֵצֶר (netser, \"branch\") from Isaiah 11:1, a connection to Nazirite terminology, or a broader prophetic theme of messianic hiddenness and humble origins. This geographic notation positions Jesus in Galilee, preparing for the ministry that will unfold in subsequent chapters while emphasizing that divine providence orchestrates every movement of the infant king through dreams, journeys, and prophetic correspondence."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 2: Prophetic perspective",
+      "overview": [
+        "Matthew 2 unfolds approximately four to six years after the birth of Christ, during the final years of Herod the Great's reign, placing these events around 6–4 BC by modern reckoning. The incarnate Son has entered human history, and we stand at the hinge point of all redemptive history—the long-awaited seed of Abraham, the promised son of David, has arrived in flesh to inaugurate the kingdom of God and accomplish what Israel could never achieve.",
+        "This chapter pulses with the rhythm of fulfilled prophecy, demonstrating that Jesus does not merely continue Israel's story but consummates it. The Magi's arrival from the East echoes the ancient promise that nations would stream toward Zion's light, that Gentile kings would bring gifts to Israel's Messiah. Isaiah's vision of camels bearing gold and frankincense finds its initial realization as these Eastern sages lay their treasures before the child-king. Here is the firstfruits of the Gentile harvest, wise men bowing where proud Jerusalem remains indifferent.",
+        "The typological density of this passage is staggering. When Herod's murderous jealousy drives the holy family into Egypt, Matthew declares that Jesus recapitulates Israel's history: \"Out of Egypt I called my son.\" What Hosea spoke of national Israel now finds its ultimate referent in the true Israel, the faithful Son who will succeed where the nation failed. Jesus descends into Egypt not in famine but in flight, and His exodus will be not through the Red Sea but through death itself into resurrection life. He is the greater Moses, the true Israel, the obedient Son.",
+        "Herod's slaughter of Bethlehem's infants invokes Rachel weeping for her children—the ancient mother of Israel mourning as her descendants marched into Babylonian exile. Yet this darker-than-Exodus moment carries resurrection hope within it, for this child escaped death to conquer it. The Exile's tears will be answered by this infant who will himself enter death's domain and emerge victorious.",
+        "The return to Nazareth fulfills the prophetic word that Messiah would be called a Nazarene—despised, from a place of no reputation—yet this very lowliness becomes the platform for glory.",
+        "For the church awaiting Christ's return, Matthew 2 declares that heaven's King has invaded hostile territory. The powers of this age—political, demonic, systemic—raged against Him from the manger. Yet God's purposes cannot be thwarted. The child survived; the kingdom advances; and what began with Magi bowing will culminate when every knee bends before the Nazarene who is Lord of all."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.434932+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

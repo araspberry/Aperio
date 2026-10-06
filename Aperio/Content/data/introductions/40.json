@@ -1,0 +1,152 @@
+{
+  "book": "Mark",
+  "bookIndex": 40,
+  "status": "Editorial draft",
+  "title": "Mark: Following Jesus on the Way",
+  "subtitle": "A vivid account of the Messiah whose authority is revealed through service and suffering.",
+  "atAGlance": {
+    "genre": "Gospel: concentrated narrative",
+    "setting": "Jesus’ public ministry in Galilee and surrounding regions, the journey to Jerusalem, and His death and resurrection.",
+    "composition": "Anonymous within the narrative; traditionally linked with Mark and Peter’s witness. Often dated near AD 70, with both earlier and later proposals.",
+    "audience": "Followers of Jesus learning endurance and the meaning of His suffering; the exact destination is uncertain."
+  },
+  "sections": [
+    {
+      "title": "A beginning that asks for a response",
+      "paragraphs": [
+        "Mark begins in the wilderness. John announces a coming figure, Jesus is baptized, and the Spirit leads Him into testing. There is no infancy narrative to delay the arrival of His public mission. Jesus proclaims that God’s kingdom has drawn near and calls people to turn and believe the good news. Fishermen leave their work, crowds gather, and the story quickly moves into homes, synagogues, boats, and deserted places.",
+        "That movement gives Mark its urgency. Yet the Gospel repeatedly makes space for an individual: a man lowered through a roof, a woman reaching through a crowd, a father struggling to believe. Jesus’ authority becomes visible in encounters that restore people and disturb settled expectations. From the start, good news raises questions about who He is and what following Him will cost."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Tradition, writing, and historical pressure",
+      "paragraphs": [
+        "The Gospel does not name its author. Christian tradition associated it with Mark and with the preaching of Peter. Scholars usually consider it the earliest of the four canonical Gospels, while continuing to discuss its precise relationship to the traditions it preserves. Composition is often placed near the destruction of Jerusalem’s temple in AD 70, though a date before or after that event remains possible.",
+        "The narrative itself concerns Jesus’ ministry several decades earlier. Keeping those two horizons distinct helps explain why memories of Jesus could speak so urgently to a later community. Mark includes warnings about conflict, persecution, and false claims of deliverance. The book offers a way to remain faithful when events are frightening. Its account of the disciples also acknowledges how easily fear can unsettle people who sincerely intend to follow."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Recognition that must become understanding",
+      "paragraphs": [
+        "The question of Jesus’ identity runs through the Gospel. Demons recognize Him, crowds are astonished, opponents challenge Him, and the disciples struggle to understand what they have seen. Peter’s confession that Jesus is the Christ marks a major turn. Immediately afterward, Jesus explains that His path leads through rejection, death, and resurrection. Peter can name Him correctly while resisting what His mission means.",
+        "From that point, three predictions of suffering shape the journey toward Jerusalem. Each is accompanied by a failure of understanding and further teaching about discipleship. Greatness is expressed through service; welcoming a child matters; ambition must yield to care for others. Mark 10:45 gathers this pattern around the Son of Man, whose service reaches its fullest expression in the giving of His life."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "How Mark’s storytelling teaches",
+      "paragraphs": [
+        "Mark often places one episode inside another. The interruption asks us to interpret the stories together. The woman healed while Jesus travels to Jairus’s house, for example, brings faith, fear, touch, and restored life into a shared scene. Slow reading reveals connections that a quick summary would lose.",
+        "Notice the contrast between sight and blindness, hearing and failing to understand. These are bodily realities in the healing stories and also important descriptions of the disciples’ perception. Jesus repeatedly calls people to listen. The Greek word translated “gospel,” euangelion, means good news; Mark gives that announcement narrative substance through the whole course of Jesus’ life. A miracle separated from the journey to the cross can leave His identity only partly understood."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The cross, the tomb, and the unfinished response",
+      "paragraphs": [
+        "The final chapters slow the pace. Anointing, a shared meal, prayer, betrayal, abandonment, trial, and crucifixion receive close attention. A Roman centurion’s response at Jesus’ death provides a striking recognition of His sonship. The women who have followed Him remain important witnesses to His death, burial, and the discovery of the empty tomb.",
+        "The BSB notes that some early manuscripts end at Mark 16:8, with the women frightened by the announcement that Jesus has risen. Other manuscripts include additional endings, including verses 9–20. That textual history deserves to remain visible. Even at verse 8, resurrection has been proclaimed and a meeting in Galilee promised. The narrative presses the question toward those who hear it: how will the news be received?",
+        "Read Mark as an invitation to keep following when understanding is incomplete. Its disciples fail badly, yet the resurrection message specifically includes Peter. The way of Jesus exposes human weakness and opens a future beyond it. Courage in this Gospel grows through attention to the One who goes ahead of His followers."
+      ],
+      "sourceIds": [
+        "text",
+        "ending"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The ministry begins",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Announcement, calling, healing, and mounting controversy."
+    },
+    {
+      "label": "The kingdom revealed in word and deed",
+      "startChapter": 4,
+      "endChapter": 8,
+      "description": "Parables, crossings, meals, healings, and the question of Jesus’ identity."
+    },
+    {
+      "label": "Learning the way of service",
+      "startChapter": 9,
+      "endChapter": 10,
+      "description": "Glory, suffering, discipleship, and the journey toward Jerusalem."
+    },
+    {
+      "label": "Jerusalem and confrontation",
+      "startChapter": 11,
+      "endChapter": 13,
+      "description": "Temple action, public disputes, and teaching about coming distress."
+    },
+    {
+      "label": "Death and resurrection",
+      "startChapter": 14,
+      "endChapter": 16,
+      "description": "The final meal, arrest, cross, burial, and empty tomb."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "The suffering Messiah",
+      "description": "Jesus’ identity is interpreted through His self-giving mission."
+    },
+    {
+      "name": "Learning to follow",
+      "description": "Recognition develops through listening, failure, and renewed trust."
+    },
+    {
+      "name": "Urgent good news",
+      "description": "God’s reign calls for a response amid real uncertainty."
+    }
+  ],
+  "timeline": {
+    "era": "jesus",
+    "dateLabel": "First century AD; Jesus’ public ministry",
+    "context": "The narrated events belong to Jesus’ ministry and culminate in His death and resurrection around AD 30–33; the Gospel’s composition is a separate question.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 16,
+      "era": "jesus",
+      "label": "Jesus’ life and ministry",
+      "dateLabel": "First century AD; Jesus’ public ministry",
+      "note": "The narrated events belong to Jesus’ ministry and culminate in His death and resurrection around AD 30–33; the Gospel’s composition is a separate question."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Mark · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Mark · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/mark/lessons/summary-of-mark/"
+    },
+    {
+      "id": "ending",
+      "label": "Mark 16 · BSB text and manuscript note",
+      "url": "https://biblehub.com/bsb/mark/16.htm"
+    },
+    {
+      "id": "issues",
+      "label": "Mark · introductory issues, Luther Seminary",
+      "url": "https://enterthebible.org/courses/mark/lessons/introductory-issues-in-mark/"
+    }
+  ]
+}

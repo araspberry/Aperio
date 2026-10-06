@@ -1,0 +1,57 @@
+{
+  "book": "Isaiah",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 25: The God Who Keeps His Promises",
+      "overview": [
+        "In this chapter, Isaiah celebrates the Lord's faithfulness as the ultimate deliverer—a God whose mercy outlasts every enemy and whose care extends to all who trust him. This is the heart of Isaiah's vision: there is a God who not only defeats what threatens us, but who transforms our deepest sorrows into joy.",
+        "The prophet opens with his own song of praise, recognizing that God's plans, formed long ago, are trustworthy and true. He has abolished death's power, and his salvation covers all peoples. Notice the universal scope of Isaiah's hope—salvation isn't merely for Israel alone, but for \"all peoples.\" This glimpse of God's heart reveals something profound: the Lord takes no pleasure in watching humanity suffer under sin's dominion. Instead, he moves toward us with purpose to rescue and restore.",
+        "The imagery becomes wonderfully tender. God is described as a fortress for the poor and needy, a refuge from the storm and a shade from the heat. When we are weakest, most vulnerable, and most afraid, he draws near. These are not abstract theological promises but intimate descriptions of God's presence during our actual suffering. The image of shade on a scorching day captures something real about how God's protection feels when life becomes unbearable.",
+        "Perhaps most movingly, Isaiah speaks of the great feast God will prepare, where death itself is swallowed up forever and tears are wiped from every face. This speaks to the ultimate redemption—not just personal rescue, but cosmic restoration where sorrow itself is abolished.",
+        "For those walking through seasons of loss, fear, or grief, Isaiah 25 invites us to trust in a God whose plans transcend our circumstances. He sees our tears and bends toward us with love. His promises, like his ancient plans, remain unshaken.",
+        "What grief or fear in your life needs to feel the shade of God's protection today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 25: Scholarly study",
+      "overview": [
+        "Isaiah 25 constitutes a hymnic response to the apocalyptic oracles of chapters 24–27, often designated by scholars as the \"Isaiah Apocalypse.\" This literary unit, while debated in terms of its precise dating, likely reflects post-exilic theological development, though it builds upon authentic Isaianic themes of divine sovereignty and the humiliation of proud nations. The chapter divides naturally into a thanksgiving psalm (vv. 1–5), a prophetic announcement of eschatological salvation (vv. 6–8), and a communal response of praise (vv. 9–12), with the final verses addressing Moab as representative of hostile powers.",
+        "The opening verse employs the Hebrew term *pele'* (wonder) to characterize divine actions, a term carrying connotations of miraculous intervention that transcends natural expectation. The reference to counsels \"from of old\" (*me'az*) establishes continuity between prophetic promise and fulfillment, anchoring present praise in covenantal faithfulness. Verses 2–5 celebrate the destruction of an unnamed fortified city, which interpreters have variously identified with Babylon, Moab, or an eschatological symbol of human arrogance opposing divine rule.",
+        "The banquet imagery in verses 6–8 represents the theological apex of the chapter. Mount Zion becomes the site of a *mishteh* (feast) featuring aged wines and rich fare, symbolizing covenant restoration and divine abundance. The removal of the \"covering\" (*hallot*) and \"veil\" (*massekah*) cast over all peoples likely signifies the elimination of mourning customs, spiritual blindness, or death itself. Most remarkably, verse 8 announces that YHWH will \"swallow up\" (*billa'*) death forever—a stunning reversal wherein the great devourer becomes devoured. This passage profoundly influenced later Jewish apocalypticism and receives direct citation in Revelation 21:4 and 1 Corinthians 15:54.",
+        "The concluding oracle against Moab (vv. 10–12) has puzzled commentators given its harsh tone following universal salvation themes. Some view Moab typologically as embodying persistent opposition to divine purposes, while others detect later redactional expansion. The graphic imagery of Moab trampled like straw in a dung pit (*madmenah*) may involve wordplay with the Moabite city Madmen, demonstrating Isaiah's characteristic rhetorical sophistication while underscoring the certain defeat of all who oppose YHWH's redemptive purposes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 25: Prophetic perspective",
+      "overview": [
+        "Isaiah 25 emerges from the prophetic ministry of Isaiah ben Amoz, written approximately seven centuries before the incarnation of Christ, during the tumultuous period when Assyria threatened to swallow the nations whole and Judah trembled under the shadow of impending judgment. Yet this chapter transcends its immediate historical moment, standing as one of the most breathtaking prophetic visions in all Scripture, a window into the consummation of God's redemptive purposes that spans from the prophet's day to the age yet to come.",
+        "Within the grand arc of redemption, this passage functions as a prophetic summit, looking backward to God's faithful judgments and forward to the final restoration that exceeds even Eden's glory. The ruined city mentioned here typologically represents all human kingdoms built in defiance of God—Babel's proud tower, Egypt's oppressive throne, Babylon's gilded arrogance—each destined for rubble while the city of God endures forever. The ruthless nations who oppressed God's people find their songs silenced, their pride brought low, anticipating that final day when every knee shall bow.",
+        "The feast prepared on Mount Zion carries immense typological weight. This banquet of rich food and aged wine shadows forth the Messianic feast inaugurated when Christ ate with sinners and tax collectors, when He broke bread in the upper room, declaring the cup to be His blood of the new covenant. Yet the feast remains partially veiled; its full manifestation awaits the marriage supper of the Lamb when the redeemed from every tribe gather at the table of the King.",
+        "Most gloriously, the prophecy declares that God will swallow up death forever and wipe away tears from all faces. The apostle Paul seizes this very text in his resurrection proclamation, announcing that what Isaiah glimpsed from afar erupted into history on Easter morning. Death's defeat began at the empty tomb, yet tears still flow in this present age. The church lives in the tension—death is conquered but not yet fully destroyed, tears are being wiped but the final comfort awaits.",
+        "The shroud covering all peoples and the veil spread over nations speak of that spiritual blindness which only Christ removes. When the veil is taken away, Gentiles stream to Zion alongside Israel, fulfilling the Abrahamic promise that all families of the earth would be blessed.",
+        "For the church awaiting Christ's return, Isaiah 25 stands as covenant certainty: the God who promised has already begun, and He who swallowed death in victory will surely complete what He started."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.78568+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

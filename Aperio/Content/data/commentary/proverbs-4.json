@@ -1,0 +1,55 @@
+{
+  "book": "Proverbs",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 4: The Treasured Heart of Wisdom",
+      "overview": [
+        "The heart of this passage pulses with a father's urgent plea: guard your inner life above all else, for from it flows everything that matters. Solomon presses upon his son an inheritance not of gold or land, but of wisdom—the priceless capacity to live well, to discern truth, and to walk a straight path through a crooked world.",
+        "What makes this passage so compelling is its cascading metaphor of protection and pursuit. Solomon doesn't merely suggest wisdom is nice to have; he demands that his son \"guard [his] heart above all else, for it is the wellspring of life.\" The image is striking: within us dwells a spring, a source from which life continually flows—into our relationships, our work, our integrity, our joy. When that spring is corrupted or neglected, everything downstream becomes polluted. When it flows from wisdom, everything flourishes.",
+        "The passage also captures something profoundly true about how wisdom actually enters a human life. It is both a gift and a pursuit. Solomon received wisdom as a treasure from his father; now he offers it as an inheritance to his son. Yet he also exhorts his son to actively \"get wisdom\" and \"get understanding\"—to grasp it, embrace it, exalt it. This paradox reflects discipleship itself. We do not earn God's grace, yet we must hunger for it. We inherit spiritual riches, yet we must choose to claim them daily.",
+        "For those of us stumbling through complicated decisions, fractured relationships, and unclear seasons, this word arrives as mercy. We need not navigate life on our own wisdom alone. The cumulative insights of faithful living, God's revealed character, and the Spirit's gentle guidance offer us a better way—the way of the upright, which grows \"brighter and brighter until full daylight.\"",
+        "What area of your heart most needs guarding today? Where have you felt wisdom's protecting and directing power in your own life?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 4: Scholarly study",
+      "overview": [
+        "Proverbs 4 constitutes a pivotal instructional discourse within the first major collection of the book (chapters 1–9), attributed to Solomon and addressed from father to son in the traditional wisdom pedagogy of ancient Israel. This chapter preserves the intergenerational transmission of wisdom, echoing the educational practices of both Israelite households and ancient Near Eastern scribal traditions, where knowledge passed through familial and institutional channels. The chapter divides naturally into three exhortations: verses 1–9 recall the grandfather's teaching, verses 10–19 contrast the paths of wisdom and wickedness, and verses 20–27 conclude with practical guidance for embodied wisdom.",
+        "The Hebrew term *ḥokmâ* (wisdom) appears with striking frequency throughout this chapter, reinforced by the parallel term *bînâ* (understanding) in verses 1 and 7. The father's opening imperative to \"hear\" (*šimʿû*) employs a verb that connotes not mere auditory reception but obedient attention and covenantal responsiveness, the same term central to the Shema of Deuteronomy 6:4. This linguistic connection situates proverbial instruction within Israel's broader covenantal framework, suggesting that wisdom acquisition participates in faithful response to Yahweh.",
+        "The personification of wisdom as a bride to be loved and embraced (verses 6–9) anticipates the fuller personification in chapters 8–9 and creates deliberate contrast with the seductive foreign woman of chapters 5–7. Scholars debate whether this feminine portrayal reflects goddess imagery adapted from Egyptian Ma'at traditions or emerges organically from Hebrew grammatical gender, though most contemporary interpreters recognize a complex interplay of linguistic and cultural factors.",
+        "The path imagery dominating verses 10–19 employs *ʾōraḥ* (path) and *derek* (way) to construct a moral geography where physical movement represents ethical orientation. The luminous path of the righteous (*ṣaddîqîm*) progresses toward full daylight, while the darkness shrouding the wicked renders them stumbling and blind. This two-ways theology finds canonical resonance in Psalm 1 and Deuteronomy 30:15–20, establishing a consistent biblical anthropology of moral choice.",
+        "The concluding verses ground wisdom in bodily discipline—guarding the heart (*lēb*), which in Hebrew anthropology represents the volitional and intellectual center rather than merely the emotional seat as in modern Western conception."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 4: Prophetic perspective",
+      "overview": [
+        "This chapter emerges from the wisdom tradition of ancient Israel, likely compiled during Solomon's reign around 950 BC, though drawing upon instruction passed down through generations—from David to Solomon and now offered to the next generation. We stand here roughly a thousand years before Christ's incarnation, in the era of the united monarchy, when Israel enjoyed her greatest earthly glory under the Davidic covenant. Within the grand arc of redemption, this passage occupies the Kingdom phase, when God's people possessed the land, the temple was being built, and the promises to Abraham seemed to be flowering. Yet even in this golden age, wisdom literature pointed beyond temporal prosperity toward something deeper—a righteousness that transcends circumstance and anticipates the coming of Wisdom incarnate.",
+        "The father's urgent plea to \"get wisdom, get understanding\" reverberates with typological significance that the original hearers could not fully grasp. When wisdom is personified as worthy of supreme pursuit, as something to embrace and crown the seeker with glory, we hear faint echoes of the eternal Logos who existed before creation. The New Testament would later reveal that Christ Jesus \"became to us wisdom from God\" and that in Him \"are hidden all the treasures of wisdom and knowledge.\" The father in Proverbs 4 unknowingly prophesies the posture every soul must take toward the Son—embracing Him, refusing to let go, treasuring His words as life itself.",
+        "The contrast between the path of the righteous and the way of the wicked presents an eschatological trajectory spanning all of human history. The righteous path shines \"brighter and brighter until full day\"—language that anticipates the progressive revelation of God's purposes through the prophets, their culmination in Christ, and the final consummation when believers shall see Him face to face in uncreated light. The way of the wicked remains perpetual darkness, stumbling toward a judgment they cannot perceive. This ancient dichotomy finds its ultimate expression in the two destinations Christ proclaimed: eternal life and eternal perdition.",
+        "The command to guard the heart \"with all vigilance, for from it flow the springs of life\" anticipates the new covenant promise of transformed hearts, written upon by the Spirit rather than merely instructed by law. For the church living between the advents, this chapter calls us to embrace Christ as our Wisdom, to walk in the light we have received, and to guard hearts now indwelt by the Spirit—knowing the path grows ever brighter as we approach the dawning of eternal day."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.572256+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 29: A Covenant Sealed with Open Eyes",
+      "overview": [
+        "The heart of this passage beats with an urgent call to covenant fidelity grounded in clear-eyed awareness of who God is and what He requires. Moses stands with Israel on the threshold of the promised land, not simply reviewing ancient promises, but inviting a people to enter relationship with God with full consciousness of both His goodness and His demands.",
+        "What strikes us here is Moses' repeated refrain: \"You have seen.\" He recalls the plagues, the wilderness journey, the miracles that sustained them. Yet seeing God's works doesn't automatically translate into knowing God's heart. There's a profound difference between witnessing divine power and truly understanding covenant love. Moses warns that eyes may see wonders without hearts grasping their meaning—a caution as relevant to us today as to ancient Israel. We can attend church, read Scripture, and still keep God at a comfortable distance.",
+        "The covenant Moses presents is neither coercive nor ambiguous. Israel enters freely, but with complete information. There are blessings for obedience and curses for rebellion. This isn't divine capriciousness; it's the natural consequence of relationship. When we bind ourselves to God, we're not signing up for a transaction but a covenant that reshapes our entire existence. The stakes are real, the choice is ours, and the responsibility is genuine.",
+        "Living under covenant today means we too must see clearly—not just intellectually assent to God's existence, but genuinely understand that our choices matter, that obedience flows from love, and that drifting from God has real consequences. The invitation isn't to fear-based servitude but to joyful allegiance rooted in remembrance of grace.",
+        "Where in your life right now are you called to move beyond merely \"seeing\" God's work toward truly understanding what He's asking of your heart? What would it mean for you to enter more consciously into covenant with Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 29: Scholarly study",
+      "overview": [
+        "Deuteronomy 29 marks a pivotal transition in the Mosaic corpus, introducing what scholars frequently identify as the third address of Moses or, alternatively, the commencement of a distinct covenant renewal ceremony on the plains of Moab. The superscription in verse 1 (numbered as 28:69 in the Hebrew versification) explicitly designates this section as \"the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb,\" thereby establishing a supplementary covenantal framework that complements rather than supersedes the Sinai covenant. This geographical and theological distinction has generated considerable scholarly discussion regarding the relationship between these two covenantal moments and whether Moab represents renewal, extension, or a fundamentally new agreement.",
+        "The passage opens with Moses recounting the exodus and wilderness experiences, employing the theologically significant phrase that the LORD had not given Israel \"a heart to understand, eyes to see, and ears to hear\" (*lev lada'at*, *einayim lir'ot*, *oznayim lishmo'a*) until \"this day.\" This language of spiritual perception resonates with prophetic texts, particularly Isaiah 6 and Ezekiel's vision of renewed hearts, raising questions about divine sovereignty in spiritual comprehension and the timing of Israel's collective understanding.",
+        "The covenant assembly described encompasses the entire community—leaders, elders, officers, men, women, children, and resident aliens (*ger*)—establishing an inclusive covenantal polity that transcends social stratification. The term *ger* here indicates the incorporation of non-Israelites into the covenant community, anticipating later discussions of proselyte status in Second Temple Judaism.",
+        "Particularly striking is the warning against the \"root bearing poisonwood and wormwood\" (*rosh v'la'anah*), metaphorical language describing those who presume upon divine patience while harboring idolatrous intentions. The passage culminates in the celebrated declaration that \"the secret things belong to the LORD our God, but the things revealed belong to us and to our children forever.\" This verse has generated extensive interpretive tradition, functioning variously as a boundary marker for theological speculation, an affirmation of Torah's sufficiency, and a reminder of human epistemological limitations before divine mystery."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 29: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 29 stands at a pivotal threshold in redemptive history, spoken by Moses on the plains of Moab approximately 1406 BC, forty years after the exodus from Egypt and mere weeks before Israel would cross the Jordan under Joshua's leadership. This chapter records the covenant renewal ceremony for the second generation—those who had grown up in the wilderness after their parents' rebellion at Kadesh Barnea. Within the grand arc of Scripture, this moment falls between the Exodus deliverance and the Kingdom establishment, as Israel prepares to receive her inheritance in the land promised to Abraham six centuries earlier.",
+        "Moses opens with a haunting assessment: \"Yet to this day the LORD has not given you a heart to understand or eyes to see or ears to hear.\" Here lies the central mystery of this chapter—God had performed mighty wonders before Israel, yet the people remained spiritually blind. This divine observation exposes a fundamental truth that would echo through centuries of prophetic literature: external signs, however spectacular, cannot produce internal transformation. Only God Himself can circumcise the heart, a promise Moses will make explicit in the following chapter.",
+        "The covenant structure presented here—with its blessings for obedience and curses for disobedience—establishes a pattern that the entire subsequent history of Israel would painfully fulfill. When Moses speaks of a future generation seeing the land devastated \"like the overthrow of Sodom and Gomorrah,\" he prophesies with terrible accuracy what would befall the nation in 586 BC under Babylon and again in AD 70 under Rome. The covenant curses were not merely warnings but prophecies.",
+        "Most striking is the figure of one who would arise with \"a root bearing poisonous and bitter fruit,\" leading Israel into idolatry while presuming upon grace. This typological pattern finds ultimate expression in every false teacher who would corrupt God's people, even as it shadows by contrast the true Root of Jesse who would come bearing life rather than death.",
+        "The chapter's mysterious closing—\"The secret things belong to the LORD our God, but the things that are revealed belong to us and to our children forever\"—marks the boundary between prophetic revelation and divine mystery. The church living between Christ's advents walks in this tension: knowing the revealed purposes of God in the gospel while awaiting the consummation of all things yet hidden in His sovereign counsel. What Moses could only glimpse from Moab, believers now see clearly—salvation comes not through covenant-keeping but through the Covenant-Keeper Himself."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.168217+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

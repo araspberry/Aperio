@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 90,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 90 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 90: Learning to Number Our Days",
+      "overview": [
+        "In this ancient prayer, Moses invites us into the profound reality that God's eternity stands in stark contrast to our fleeting moments—and this awareness, rather than crushing us, is meant to reshape how we live.",
+        "The psalm opens with a timeless truth: God has been our dwelling place before the mountains were born. While everything around us changes, fails, and crumbles into dust, there exists a refuge that never shifts. This is not an escape from reality but the deepest reality, the unmoved foundation beneath all movement. Yet Moses doesn't let us stay in abstract contemplation. He brings us down to earth with brutal honesty: our years pass away like a sigh; we live seventy or eighty years if we're strong, yet most of them are trouble and sorrow. There's no pretense here, no toxic positivity. Life is genuinely short and genuinely hard.",
+        "But then comes the turning point. \"So teach us to number our days, that we may gain a heart of wisdom.\" The prayer doesn't ask for longer lives—it asks for wiser living within the span we have. When we genuinely grasp our mortality, something holy happens. We stop postponing forgiveness. We prioritize what actually matters. We hold achievements loosely and people closely. We wake up to what's already precious instead of chasing what won't satisfy.",
+        "The psalm closes with a plea: \"Let the favor of the Lord our God be upon us, and establish the work of our hands.\" After accepting our finitude, we don't despair—we ask God to make our limited work count. Our days become a canvas for His purpose.",
+        "This isn't morbid reflection but liberating mathematics. Every year you've lived is a mercy you didn't earn. Every year ahead is a gift you don't deserve. When that settles into your bones, priorities clarify, relationships deepen, and your \"few days under the sun\" become deeply meaningful.",
+        "What would change in your life if you truly believed your days are numbered and therefore precious?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 90: Scholarly study",
+      "overview": [
+        "Psalm 90 stands as the sole composition attributed to Moses in the Psalter, bearing the superscription \"A Prayer of Moses, the man of God.\" This attribution connects the psalm to Israel's wilderness wanderings and the generation that perished before entering Canaan, though scholarly opinion remains divided on whether Mosaic authorship reflects historical reality or later liturgical association. The psalm occupies a pivotal position as the opening of Book IV of the Psalter, which many scholars view as a theological response to the crisis of exile raised at the conclusion of Book III, particularly the lament over the apparent failure of the Davidic covenant in Psalm 89.",
+        "The psalm's theological architecture rests upon a profound meditation on divine eternality contrasted with human transience. The opening declaration establishes YHWH as \"dwelling place\" (*maʿon*), a term suggesting refuge and habitation, affirming that God has been Israel's existential home across all generations. The poet's cosmological reflection in verse 2 employs the verb \"to give birth\" (*ḥûl*) to describe the mountains' emergence, presenting creation through imagery of divine parturition before asserting God's existence \"from everlasting to everlasting\" (*mēʿôlām ʿad-ʿôlām*).",
+        "The central section articulates human mortality with unflinching clarity. The term *tešēb* in verse 3, meaning \"you turn back,\" depicts God returning humanity to dust, echoing Genesis 3:19. Human life appears as a night watch, as grass flourishing briefly before withering, as a sigh (*hegeh*). This mortality stands connected not merely to creatureliness but to divine wrath against human iniquity—secret sins illuminated before God's countenance.",
+        "The psalm transitions in verse 12 toward petition, requesting wisdom to \"number our days\" (*limnôt yāmênû*), transforming the preceding lament into instruction for covenant living. The concluding petitions seek divine favor, the establishment of human labor, and restoration of joy proportionate to days of affliction. This movement from cosmic reflection through mortality's recognition toward practical wisdom exemplifies the psalm's enduring liturgical function. Its placement at Book IV's threshold suggests the editors understood that Israel's hope amid historical catastrophe required reorientation toward the eternal God who transcends and sustains all generations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 90: Prophetic perspective",
+      "overview": [
+        "This psalm stands as the oldest composition in the Psalter, attributed to Moses the man of God, placing its origin approximately 1400 years before the incarnation of Christ, during the wilderness wanderings after the Exodus from Egypt. Written while Israel sojourned between redemption from bondage and entrance into the Promised Land, this prayer emerges from the generation that witnessed God's mighty deliverance yet faced the sobering reality of divine judgment—the entire adult generation perishing in the desert over forty years because of unbelief.",
+        "Within the grand sweep of redemptive history, Psalm 90 occupies the liminal space following the Exodus but before the conquest, a period of testing and transition that typologically shadows the church's present pilgrimage between Christ's first advent and His return. Moses gazes backward to creation itself, declaring that before mountains were brought forth, before earth and world were formed, God existed as the eternal refuge of His people. This theological reach—from everlasting to everlasting—establishes the Creator's absolute sovereignty over time while simultaneously exposing human frailty within it.",
+        "The contrast drawn between divine eternality and human brevity carries profound prophetic weight. A thousand years appear as yesterday in God's sight, as a watch in the night. Humanity, swept away like a flood, flourishes briefly like grass that springs up in morning but withers by evening. Moses locates the cause not in mere creatureliness but in sin—God's anger responds to iniquity, His wrath to secret sins set in the light of His countenance. The seventy or eighty years allotted to human life pass swiftly, filled with labor and sorrow.",
+        "Yet within this meditation on mortality emerges a prophetic cry that anticipates the gospel: \"Return, O LORD! How long?\" This plea for divine relenting, for morning satisfaction with covenant love, for gladness commensurate with days of affliction, yearns toward the day when God would tabernacle among His people in flesh. The request that God establish the work of human hands finds its ultimate answer in Christ, whose finished work endures eternally.",
+        "For the church living between the advents, this psalm teaches us to number our days rightly, gaining hearts of wisdom. We who have received the eternal life that Moses could only glimpse now understand that though our earthly tent is destroyed, we possess a building from God, eternal in the heavens. The God who was Israel's dwelling place across all generations remains our refuge until time itself gives way to unending day."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_090",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.366676+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

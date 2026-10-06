@@ -1,0 +1,55 @@
+{
+  "book": "Job",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 4 Devotional Commentary",
+      "overview": [
+        "The spiritual heart of Job 4 lies in how easily our theology hardens into judgment when we encounter suffering we don't understand. Eliphaz, Job's first comforter, speaks with eloquence and apparent wisdom, yet his words reveal a dangerous assumption: that suffering is always the direct result of sin, and that the righteous never fall.",
+        "Eliphaz begins by reminding Job of his past integrity and faith, which seems kind enough. But then he pivots with brutal logic: \"Who, being innocent, has ever perished? Where were the upright ever destroyed?\" The implication cuts deep. If you're suffering, Job, something must be wrong with your faith or your character. Eliphaz claims his insight comes from a night vision—spiritual authority he assumes adds weight to his diagnosis. He speaks of God's mysterious ways and the insignificance of humanity before the Almighty, yet he uses these truths as weapons rather than windows into God's mercy.",
+        "This passage stings because we recognize ourselves in Eliphaz. When friends suffer—illness, loss, crisis—we often scramble to explain it. We want to restore order to a chaotic world by assigning blame, even unintentionally. We suggest that more faith, better choices, or deeper prayer would have prevented the tragedy. In doing so, we shift suffering from mystery into moral calculus, from something that requires compassion into something that requires judgment.",
+        "The real tragedy is that Eliphaz isn't entirely wrong theologically. His observations about sin having consequences are true. But he wields correct theology like a club against a wounded man. He mistakes theological certainty for spiritual maturity, never considering that Job's suffering might have nothing to do with secret sin—that sometimes the righteous do suffer inexplicably, and they need comfort, not lectures.",
+        "This passage invites us to examine how we respond to others' pain. Do we listen long enough to sit in the mystery with them, or do we rush to explain it? What would it look like to bring presence instead of explanations to those who suffer?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 4: Scholarly study",
+      "overview": [
+        "The fourth chapter of Job marks a significant transition in the book's literary architecture, introducing the first cycle of dialogues between Job and his three companions. Eliphaz the Temanite, whose name suggests Edomite origin and whose geographical association with Teman connects him to a region renowned for wisdom traditions (cf. Jeremiah 49:7; Obadiah 8–9), emerges as the eldest and most diplomatic of Job's interlocutors. His speech in chapters 4–5 establishes the theological framework that will characterize all three friends throughout the dialogue cycles.",
+        "Eliphaz opens with notable pastoral sensitivity, acknowledging Job's former role as a counselor to others before gently challenging him to apply his own wisdom to his present circumstances. The Hebrew term *yasar* (\"discipline, instruct\") in verse 3 carries pedagogical weight, suggesting Job's previous ministry of moral formation among the suffering. Eliphaz's rhetorical question in verses 6–7 encapsulates the retribution theology that pervades his counsel: the innocent (*naqi*) do not perish, nor are the upright (*yashar*) destroyed. This binary moral calculus, while containing partial truth, proves inadequate for Job's exceptional situation, which the prologue has already revealed transcends simple cause-and-effect morality.",
+        "The chapter's climactic section (verses 12–21) recounts a nocturnal vision of extraordinary literary power. The term *shemutsah* in verse 12 (rendered variously as \"whisper\" or \"word\") suggests clandestine revelation, while the description of physical terror—trembling bones, bristling hair—employs conventional theophanic language. The spirit's rhetorical question, \"Can a mortal be righteous before God?\" introduces the doctrine of universal human frailty that Eliphaz will develop throughout his speeches. The Hebrew *enosh* (mortal, frail humanity) rather than *adam* emphasizes human weakness and transience.",
+        "Scholars debate whether this vision represents authentic divine revelation, demonic deception, or Eliphaz's psychological projection. The vision's theology, while superficially orthodox, subtly undermines the possibility of innocent suffering by establishing categorical human guilt. This positions Eliphaz's comfort as ultimately accusatory—a tension the book will explore with increasing intensity. The chapter thus establishes the inadequacy of conventional wisdom when confronting theodicy's deepest mysteries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 4: Prophetic perspective",
+      "overview": [
+        "Job chapter four transports us to the patriarchal era, likely contemporaneous with Abraham or perhaps even earlier, placing this dialogue approximately two thousand years before Christ and predating the giving of the Law at Sinai. This ancient setting matters profoundly, for here we encounter humanity grappling with suffering and divine justice without the fuller revelation that would come through Moses, the prophets, and ultimately the Son. The Book of Job stands as primordial wisdom literature, addressing questions that would echo through every subsequent epoch of redemptive history.",
+        "In this chapter, Eliphaz the Temanite breaks the seven-day silence with words that initially drip with pastoral concern before hardening into theological accusation. His opening appeal to Job's former ministry of strengthening the weak carries ironic weight, for Eliphaz cannot extend to his friend the same grace Job once showed others. Here we witness the emergence of a theological system that would plague God's people for millennia—the rigid calculus of retributive justice that assumes all suffering flows directly from personal sin. Eliphaz articulates what seems reasonable: the innocent do not perish, and those who sow trouble reap it. Yet this very logic would later be demolished at Calvary, where the only truly innocent One perished for the guilty.",
+        "The nocturnal vision Eliphaz recounts carries an unsettling quality. A spirit glides past, hair bristles, and a voice questions whether mortal man can be righteous before God. While the content contains partial truth—humanity indeed cannot claim righteousness before the Holy One—the source and application remain suspect. This whispered theology, received in darkness and dread, typologically shadows the half-truths that the serpent employed in Eden and would later use against Christ in the wilderness. The enemy delights in weaponizing fragments of truth, severing them from covenant context and redemptive hope.",
+        "Eliphaz's vision crushes without offering resurrection. It acknowledges human frailty—dwelling in houses of clay, crushed like moths—yet provides no mediator, no redeemer, no daysman to stand between trembling humanity and transcendent deity. The passage aches with prophetic longing for what Job himself would later cry out to see: a living Redeemer who stands upon the earth.",
+        "For the church dwelling between Christ's advents, Eliphaz serves as perpetual warning. We who possess the full counsel of God must resist reducing pastoral care to moral arithmetic. The cross has forever shattered simplistic formulas, revealing that God's purposes in suffering transcend punishment, weaving instead toward glory yet to be revealed."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.972614+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

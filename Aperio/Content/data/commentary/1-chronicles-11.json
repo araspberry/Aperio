@@ -1,0 +1,56 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional Commentary on 1 Chronicles 11",
+      "overview": [
+        "The spiritual heart of this passage is the gathering of God's people around a covenant king—a beautiful picture of how believers find their unity and strength through shared loyalty to God's anointed leader, David.",
+        "First Chronicles 11 records a turning point in Israel's history: the anointing of David as king over all Israel and the establishment of Jerusalem as the nation's capital. What strikes the heart here is not merely the political detail but the deep hunger evident in these gathered warriors and leaders. They come to David saying, \"We are your bone and flesh,\" recognizing in him a shepherd who will lead them and fight their battles. This language speaks to belonging—to finding one's place in something larger than oneself.",
+        "The passage also introduces us to David's mighty men, those warriors so devoted to their king that they would risk their lives for him. When three of these soldiers broke through enemy lines to bring David water from a well, he poured it out rather than drink it, recognizing that their blood and his blood were one. This is covenant relationship at its deepest: mutual sacrifice, shared destiny, and honor for those called alongside the leader.",
+        "This speaks powerfully to the local church today. Believers are called to gather under Christ, our ultimate King, united by shared faith rather than ethnic identity or military might. The church finds its strength not in numbers or resources but in collective devotion to Jesus and to one another. That sense of being \"bone and flesh\" with fellow believers—of truly belonging to a body with a common mission—is something many modern disciples hunger for in an age of disconnection.",
+        "The question worth sitting with is this: Do you experience your local church as a covenant community, a people bound together by loyalty to Christ and genuine sacrifice for one another? What would deepen that sense of belonging in your own faith community?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 11: Scholarly study",
+      "overview": [
+        "The eleventh chapter of 1 Chronicles marks a pivotal transition in the Chronicler's narrative, moving from genealogical prologue to historical account proper. This passage parallels 2 Samuel 5:1–10 and 23:8–39, though the Chronicler's selective adaptation reveals distinct theological priorities. Writing in the post-exilic period, likely during the late fifth or fourth century BCE, the Chronicler addresses a community seeking to understand their identity through David's idealized monarchy. The chapter divides naturally into three sections: David's anointing at Hebron (vv. 1–3), the capture of Jerusalem (vv. 4–9), and the catalog of mighty warriors (vv. 10–47).",
+        "The Hebrew term *māšaḥ* (\"to anoint,\" v. 3) carries profound covenantal significance, establishing David's divine legitimation before \"all Israel\" (*kol-yiśrāʾēl*), a phrase the Chronicler employs with remarkable frequency to emphasize national unity—a concern particularly relevant to his fragmented post-exilic audience. Unlike Samuel's account, which records a seven-year reign in Hebron before Jerusalem's conquest, Chronicles telescopes events to present David's kingship as immediately unified and Jerusalem-centered.",
+        "The Jebusite taunt and subsequent conquest introduces Joab's elevation through military prowess (vv. 6–8). The term *mĕṣûdâ* (\"stronghold\") designating Jerusalem's fortress becomes theologically laden, as the city transforms from Canaanite citadel to divinely chosen capital. The Chronicler's omission of the problematic reference to \"the blind and the lame\" found in 2 Samuel 5:8 reflects characteristic tendencies toward idealization.",
+        "The warrior catalog presents interpretive challenges regarding textual transmission, as variations between Chronicles and Samuel suggest independent access to military archives or deliberate editorial modification. The designation *gibbôrîm* (\"mighty men\") connects these warriors to ancient Near Eastern heroic traditions while subordinating their exploits to David's greater purpose. The extended list in verses 41–47, absent from Samuel, possibly preserves authentic traditions or reflects the Chronicler's expansionist tendencies.",
+        "Scholarly debate continues regarding whether the Chronicler utilized Samuel directly or accessed common source material. Regardless, the theological reshaping remains evident: David emerges not as the complex figure of Samuel's narrative but as the archetypal faithful king whose reign anticipates messianic hope and whose warriors embody covenant loyalty."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 11: Prophetic perspective",
+      "overview": [
+        "This chapter records events occurring approximately 1000 years before the incarnation of Christ, at the pivotal moment when David assumes kingship over all Israel at Hebron and subsequently conquers Jerusalem. Within the grand arc of redemptive history, we stand at the establishment of the Davidic kingdom—that crucial stage between the chaos of the judges and the glory of Solomon's temple, when God begins consolidating His people under a single shepherd-king whose throne would become the pattern for Messiah's eternal reign.",
+        "The tribes gather at Hebron declaring to David, \"We are your bone and flesh\"—covenantal language echoing Adam's recognition of Eve and foreshadowing the church's mystical union with Christ, who is bone of our bone through the incarnation. Their confession that David shepherded Israel even under Saul's reign unveils the hidden providence of God, who prepares His anointed ones in obscurity before their public manifestation. So Christ, the true Son of David, shepherded Israel through law and prophet before His appearing in the fullness of time.",
+        "The conquest of Jebus stands as a prophetic watershed. This Canaanite stronghold, unconquered since Joshua's day, yields to David's anointed authority. Joab's bold ascent through the water shaft to take the city pictures the aggressive advance of the kingdom of God, which suffers violence as the violent take it by force. Jerusalem—soon to be called Zion—becomes David's city, and here the typology burns bright: the king establishes his throne in the very place where Abraham offered Isaac, where the temple would rise, where Christ would be crucified, and where He shall return to reign. Jerusalem thus becomes the geographic anchor of redemptive history, the city whose name means \"foundation of peace,\" pointing to that New Jerusalem descending from heaven as a bride adorned for her husband.",
+        "The catalog of David's mighty men reveals a profound pattern: outcasts, debtors, and the distressed became champions around the rejected king. These warriors who broke through Philistine lines to bring David water from Bethlehem's well prefigure that company of redeemed sinners who, transformed by allegiance to great David's greater Son, accomplish exploits through faith. David's refusal to drink water purchased at such cost, pouring it out as an offering, whispers of blood more precious than water—freely poured out, never to be treated as common.",
+        "The church militant today gathers around her enthroned King, awaiting His visible triumph over every Jebusite stronghold of rebellion against God's anointed."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.706771+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

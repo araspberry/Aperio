@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 4: Courage Under Pressure",
+      "overview": [
+        "The beating heart of Acts 4 is the discovery that authentic faith produces boldness, not fear—and that threats to our convictions only deepen our commitment to Christ. Peter and John stand before the very council that condemned Jesus, yet they speak with unshakeable conviction about the resurrection. This is the measure of a transformed life: not the absence of opposition, but the presence of a greater allegiance.",
+        "What makes their courage remarkable is its simplicity. They don't argue sophisticatedly or negotiate with their judges. They simply cannot help speaking about what they've seen and heard. The religious authorities assume that imprisonment will intimidate them into silence, but they've misunderstood the nature of faith. Peter and John have met the risen Jesus, and no threat from earthly powers can undo that reality. Their statement—\"We must obey God rather than human authority\"—establishes a principle that will echo through the ages: loyalty to Christ transcends loyalty to the systems of this world.",
+        "The apostles return to the church and report what happened. Rather than asking for protection, the community gathers to pray, and their prayer is stunning. They don't request safety; they ask God to give them boldness to speak his word despite the opposition. Then the building shakes, they're filled with the Spirit, and they go forward speaking God's message with fearlessness. This is the rhythm of faithful discipleship—encountering opposition, gathering with believers, seeking the Spirit's empowerment, and stepping back into witness.",
+        "What Luke captures here is the counterintuitive reality of the Christian life: pressure doesn't diminish faith; it reveals it. When our convictions are tested, we discover what we actually believe. The early church didn't survive and grow despite opposition; in many ways, opposition clarified and strengthened what they believed.",
+        "Where do you sense God calling you to speak truth despite social pressure? What would it look like to ask him, like the apostles did, for boldness rather than comfort?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 4: Scholarly study",
+      "overview": [
+        "Acts 4 presents a pivotal moment in the nascent Christian movement, depicting the first direct confrontation between the apostolic community and the Jerusalem authorities following Pentecost. Luke, writing probably in the 80s CE and demonstrating considerable familiarity with both Jewish institutional structures and Greco-Roman literary conventions, constructs this narrative to illustrate the fulfillment of Jesus's warnings about persecution while simultaneously demonstrating the irrepressible nature of Spirit-empowered witness. The chapter divides naturally into three movements: the arrest and interrogation of Peter and John (vv. 1–22), the community's prayer response (vv. 23–31), and a summary of communal life (vv. 32–37).",
+        "The term παρρησία (parrēsia), appearing in verses 13, 29, and 31, carries substantial theological weight throughout this chapter. Originally denoting the political right of free speech in Athenian democracy, Luke appropriates this concept to characterize the apostolic proclamation as bold, uninhibited testimony that transcends social expectations. The Sanhedrin's astonishment that \"uneducated and untrained men\" (ἀγράμματοι καὶ ἰδιῶται, agrammatoi kai idiōtai) could speak with such confidence subverts conventional assumptions about religious authority and rhetorical competence, suggesting that divine empowerment supersedes human credentials.",
+        "The quotation of Psalm 2 in the community prayer (vv. 25–26) represents one of the earliest examples of christological interpretation of royal psalms, with Herod and Pilate explicitly identified as the \"kings\" and \"rulers\" who rage against the Lord's anointed (χριστός, christos). This hermeneutical move demonstrates how the early church read Israel's scriptures through the lens of Jesus's death and resurrection, finding prophetic validation for otherwise scandalous events.",
+        "The chapter's concluding description of property sharing (vv. 32–37) has generated considerable scholarly debate regarding its historicity and sociological implications. Some interpreters view this as an idealized portrait drawing on Greek philosophical ideals of friendship, while others emphasize continuities with Jewish practices of charitable distribution. The introduction of Barnabas, a Levite from Cyprus, prepares readers for his significant role in subsequent chapters while exemplifying the generosity that will be negatively contrasted with Ananias and Sapphira in chapter 5. Luke thus presents economic sharing not as compulsory legislation but as Spirit-generated unity expressing itself in tangible solidarity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 4: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds in the earliest days of the church age, mere weeks after the resurrection of Christ and the outpouring of the Spirit at Pentecost. We stand at the threshold of a new era in redemptive history—the kingdom has been inaugurated through the finished work of the Messiah, and now the Spirit-empowered community bears witness to that reality before the very powers that crucified their Lord. The timeline places us approximately AD 30-33, in Jerusalem, where the same Sanhedrin that condemned Jesus now confronts His apostles.",
+        "Here we witness the dramatic fulfillment of Christ's own prophecy that His disciples would stand before councils and be given words by the Spirit in that hour. Peter, who weeks earlier denied his Lord before a servant girl, now stands filled with the Holy Spirit before the highest religious court in Israel, proclaiming with unshakeable boldness that the stone rejected by the builders has become the cornerstone. This imagery, drawn from Psalm 118, reveals Jesus as the typological fulfillment of every rejected servant in Israel's history—Joseph cast into the pit, David hunted by Saul, the prophets stoned and killed—all pointing toward the ultimate rejection at Calvary that became the foundation of God's eternal temple.",
+        "The rulers' astonishment at these \"uneducated, common men\" echoes the pattern established when God chose Moses the stammerer, Gideon the least, and David the youngest. Divine wisdom consistently confounds human expectation, and the power manifested through the apostles bears witness not to their credentials but to their companionship with the risen Christ.",
+        "The prayer of the gathered church in verses 24-31 reveals a community that reads present persecution through the lens of Psalm 2's prophetic vision. They recognize Herod, Pilate, Gentiles, and Israel as unwitting actors in a divine drama predetermined before the ages. Yet this recognition breeds not fatalism but bold petition—they ask not for deliverance from suffering but for greater boldness in proclamation.",
+        "The shaking of the place and fresh filling of the Spirit demonstrates that Pentecost was not a singular event but the inauguration of an ongoing reality. The Spirit continues to empower, the Word continues to advance, and opposition continues to serve God's sovereign purposes. For the church living between Christ's ascension and return, this chapter stands as both pattern and promise: the same Spirit who filled those first witnesses fills us still, the same opposition that arose then arises now, and the same Lord who reigns over all remains sovereign until every enemy becomes His footstool."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.671853+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

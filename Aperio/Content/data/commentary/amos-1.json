@@ -1,0 +1,55 @@
+{
+  "book": "Amos",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 1: The Voice of Justice Awakens",
+      "overview": [
+        "The heart of this passage is the call to righteousness that echoes from the smallest prophet in Scripture—a simple shepherd and fig-picker who speaks God's word with unflinching authority against the nations' cruelty and sin.",
+        "Amos opens by announcing judgment not only against Israel and Judah, but against the surrounding nations: Damascus, Gaza, Tyre, Edom, Ammon, and Moab. This concentric approach is brilliant in its strategy. The original hearers—Israel especially—would have nodded in satisfied agreement as their enemies were condemned. They would have loved hearing that Damascus faced ruin for its brutality, that Gaza would burn for enslaving entire communities, that Tyre's greed would be punished. The comfortable could afford to applaud the judgment of the wicked.",
+        "But there's something crucial happening beneath the surface. Amos is establishing that God's justice operates on a universal scale. He cares about the vulnerable everywhere. He despises cruelty, oppression, and the violation of human dignity regardless of which nation commits these acts. The God of Israel is not a tribal deity indifferent to suffering beyond his borders. He is the Judge of all the earth, and his moral order spans every kingdom.",
+        "This matters profoundly for us today because it means God's concern for justice isn't abstract theology—it's passionate and particular. He notices the enslaved, the displaced, the brutalized. He sees when power is weaponized against the weak. And though Amos's contemporaries didn't yet know it, this cascade of judgment would eventually reach their own doorstep, for they too were guilty of the very injustices they condemned in others.",
+        "The passage invites us to examine where we might be applauding judgment against distant evils while remaining blind to complicity in injustice closer to home. Where might God be calling you to see the suffering around you with His eyes?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 1: Scholarly study",
+      "overview": [
+        "The book of Amos opens with a superscription that situates the prophet within a specific historical and social matrix, identifying him as one \"among the shepherds of Tekoa\" who received visions concerning Israel during the reigns of Uzziah of Judah and Jeroboam II of Israel, approximately 760-750 BCE. This period represented the zenith of Israelite prosperity and territorial expansion, making Amos's message of impending judgment particularly jarring. The reference to \"two years before the earthquake\" anchors the prophecy in collective memory, as this seismic event was significant enough to be remembered centuries later by Zechariah. Tekoa, located in the Judean wilderness about ten miles south of Jerusalem, places Amos as a southern prophet delivering oracles against the northern kingdom—a detail that likely complicated his reception.",
+        "The theophanic introduction in verse 2 employs the Hebrew verb *yišʾag* (to roar), depicting YHWH as a lion whose voice emanates from Zion, causing agricultural devastation from Carmel to the shepherd pastures. This leonine imagery establishes divine sovereignty before the oracles against the nations commence. The formulaic structure \"for three transgressions... and for four\" (*ʿal-šəlōšâ pišʿê... wəʿal-ʾarbāʿâ*) employs a graded numerical pattern common in wisdom literature, suggesting completeness of guilt rather than literal enumeration.",
+        "The nations indicted—Damascus, Gaza, Tyre, Edom, Ammon—form a geographical encirclement of Israel, with each oracle following a consistent pattern: accusation, announcement of fire judgment, and declaration of consequences. The term *pešaʿ* (transgression/rebellion) denotes covenant violation or treaty breach, indicating that even foreign nations are accountable to moral standards transcending Israelite law. Scholars debate whether this reflects an early concept of international law or appeals to creation-based ethics.",
+        "The crimes enumerated involve violations of human dignity: Damascus's brutal threshing of Gilead, Gaza's slave trading, Tyre's betrayal of covenant brotherhood, Edom's relentless fraternal hostility, and Ammon's atrocities against pregnant women during territorial expansion. This rhetorical strategy draws Israelite listeners into agreement before the devastating pivot in subsequent chapters toward Israel's own indictment, demonstrating Amos's sophisticated homiletical technique of entrapping his audience in their own moral judgments."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 1: Prophetic perspective",
+      "overview": [
+        "The prophecy of Amos was delivered approximately 760 years before the birth of Christ, during a period of deceptive prosperity under King Jeroboam II of Israel. The northern kingdom had expanded its borders and accumulated wealth, yet this outward flourishing masked profound spiritual decay. Amos, a shepherd and dresser of sycamore trees from Tekoa in Judah, was summoned by God to pronounce judgment upon the nations and upon His own covenant people who had abandoned justice and righteousness.",
+        "Within the grand arc of redemption, this chapter stands in the Kingdom era, specifically during the divided monarchy's latter days—roughly two centuries before the Babylonian exile. The prophetic office here intensifies as God raises up messengers outside the professional prophetic guilds to call Israel back from the precipice of destruction. Amos opens with a theophanic declaration: \"The LORD roars from Zion.\" This roaring lion imagery anticipates the Lion of Judah who would one day come both to judge and to save.",
+        "The structure of chapter one reveals a stunning prophetic pattern. God pronounces judgment upon six surrounding nations—Damascus, Gaza, Tyre, Edom, Ammon, and Moab—using the formulaic phrase \"for three transgressions and for four.\" This numerical construction indicates sins that have reached their fullness, the cup of iniquity overflowing. Each nation faces condemnation for crimes against humanity: brutal warfare, slave trading, covenant treachery, and ruthless violence. The God of Israel here reveals Himself as sovereign over all nations, not merely a tribal deity. He holds every people accountable to moral law written on the human conscience.",
+        "Yet this oracular procession serves a deeper purpose. The prophetic spiral draws ever closer to Israel itself, like the tighthat encloses prey. The pagan nations are condemned, and Amos's Israelite audience would have nodded approvingly at their enemies' coming doom—unaware that the prophet's gaze would soon turn upon them with even greater intensity. Herein lies eschatological truth: judgment begins with the household of God.",
+        "The nations' judgment foreshadows the final assize when Christ returns to judge all peoples according to their deeds. For the church dwelling between the advents, this chapter establishes that God's justice is universal and inescapable, that prosperity without righteousness invites divine intervention, and that those who know God's covenant bear greater accountability. The Lion who roars from Zion still watches, still waits, and will surely come again."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.294827+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

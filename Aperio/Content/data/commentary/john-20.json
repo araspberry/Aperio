@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 20: The Resurrection Changes Everything",
+      "overview": [
+        "The resurrection of Jesus stands as the hinge upon which all history turns, and John's account invites us into the disorientation, fear, and ultimate joy that accompanies meeting the risen Lord face-to-face. This chapter pulses with the power of new life breaking into our ordinary, broken world.",
+        "John captures something profoundly human in his telling. Mary Magdalene arrives at the tomb while it is still dark—a detail that speaks both to the literal hour and to the spiritual darkness that had settled over the disciples after crucifixion. She discovers the stone rolled away, and her first response is not joy but confusion and concern. Even when she encounters the risen Jesus, she mistakes him for a gardener. This is no Hollywood production of resurrection where everything becomes immediately clear. Instead, recognition dawns slowly, intimately, when Jesus speaks her name: \"Mary.\" In that moment, she understands that death has not won and that her Lord knows her still.",
+        "The disciples huddled behind locked doors face a similar journey from fear to faith. When Jesus appears to them, he breathes peace into their terror and shows them his wounded hands and side—proof that this resurrection body is connected to his crucified humanity. He sends them just as the Father sent him, empowering them with the Holy Spirit for the work of forgiveness and reconciliation. Thomas, absent in that first appearance, becomes the voice of our own doubts. Yet even his skepticism finds resolution not in argument but in encounter: \"My Lord and my God.\"",
+        "What makes John's account unique is its emphasis on personal recognition and relationship. The resurrection is not merely a doctrine to defend but a presence to encounter. Jesus calls us by name. He invites us to touch him and know him. He commissions us for purposeful living.",
+        "Where in your life right now do you need to encounter the risen Jesus anew? What fear or locked door might he be asking you to open?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 20: Scholarly study",
+      "overview": [
+        "John 20 constitutes the climactic resurrection narrative of the Fourth Gospel, representing the evangelist's carefully constructed theological testimony to the risen Christ. Written likely in the last decade of the first century from within the Johannine community, this chapter demonstrates the author's distinctive approach to the Easter traditions, emphasizing personal encounter, progressive revelation, and the nature of authentic faith. The evangelist draws upon eyewitness tradition, possibly including the testimony of the Beloved Disciple mentioned explicitly in this narrative, while shaping the material to address the spiritual needs of believers who would come to faith without physical sight of the risen Lord.",
+        "The chapter opens with Mary Magdalene's discovery of the empty tomb in darkness, a detail rich with Johannine symbolism given this Gospel's sustained light-darkness motif. The term for tomb, *mnēmeion* (μνημεῖον), appears repeatedly, anchoring the narrative in concrete historical memory while simultaneously pointing beyond mere memorial to living presence. Peter and the Beloved Disciple's footrace to the tomb has generated considerable scholarly discussion regarding its symbolic significance, with many interpreters seeing representative figures of different modes or speeds of coming to faith. The Beloved Disciple \"saw and believed\" (*eiden kai episteusen*), though the precise content of this belief remains debated given the narrator's subsequent note about their incomplete understanding of Scripture.",
+        "Mary's encounter with the risen Jesus in the garden evokes creation imagery, with some scholars noting Edenic resonances in her initial mistaking of Jesus for the gardener (*kēpouros*). Jesus' prohibition \"do not cling to me\" (*mē mou haptou*) has puzzled interpreters; the present imperative with negation suggests cessation of an ongoing action, indicating perhaps that the old mode of physical relationship must yield to a new pneumatic communion.",
+        "The commission to the disciples, featuring Jesus' breathing (*enephysēsen*) upon them, deliberately recalls Genesis 2:7 and Ezekiel 37, presenting the resurrection as new creation. Thomas's subsequent confession, \"My Lord and my God\" (*ho kyrios mou kai ho theos mou*), represents the Gospel's supreme christological declaration, forming an inclusio with the Prologue's assertion of the Word's divinity. The concluding beatitude extends blessing to future believers, directly addressing the Gospel's intended readership across generations."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 20: Prophetic perspective",
+      "overview": [
+        "The resurrection of Jesus Christ stands at the hinge of history, the event toward which all prior revelation pointed and from which all subsequent redemption flows. This chapter records what occurred on the first day of the week following the crucifixion, approximately AD 30-33, some forty days before the ascension. We stand here at the culmination of the incarnation, the vindication of the cross, and the dawn of the new creation age. In the grand arc of redemptive history, this is the moment where exile ends forever, where the curse of Eden meets its mortal wound, where the true Israel emerges from the tomb as the firstfruits of a restored humanity.",
+        "Mary Magdalene comes while it is still dark—a detail pregnant with meaning. The darkness that covered the earth at Golgotha has not yet yielded to the light of the risen Son. She finds the stone removed, and in her confusion runs to Peter and the beloved disciple. The grave clothes lying undisturbed, the face cloth folded separately, speak of no frantic escape but a sovereign departure. Death could not hold what it had no rightful claim upon.",
+        "Here unfolds the great antitype of creation's seventh day. God rested after His first creation; now, after accomplishing the greater work of new creation through His death, Christ rises on the eighth day—the first day of an entirely new order. The tomb becomes the womb of resurrection life. Where Adam's garden yielded thorns and exile, this garden yields the risen Lord and restoration.",
+        "Mary mistakes Jesus for the gardener, and the irony resounds through Scripture. He is indeed the Gardener, the second Adam who tends the new Eden. When He speaks her name, the sheep recognizes her Shepherd's voice. This is the intimacy the Fall destroyed, now restored.",
+        "Thomas's confession—\"My Lord and my God\"—voices what the entire Gospel has aimed to reveal. The Word who was with God and was God stands embodied before doubting humanity, and faith awakens. Jesus pronounces blessing upon those who believe without seeing, extending the reach of this resurrection across all subsequent ages.",
+        "The church now lives in the already and not-yet—the resurrection has occurred, guaranteeing our own, yet we await the final manifestation. Christ's breathing of the Spirit upon His disciples anticipates Pentecost and echoes Genesis, where God breathed life into Adam. A new humanity is being formed. We proclaim the risen Lord until He comes again to make all things visibly new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.658238+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

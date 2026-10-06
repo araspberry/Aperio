@@ -1,0 +1,56 @@
+{
+  "book": "Hosea",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hosea 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Hosea 14: The Open Door of Return",
+      "overview": [
+        "At the heart of Hosea's prophecy stands an invitation almost too generous to believe: God opens a door for His wayward people to come home. After chapters of heartbreak, judgment, and consequences for unfaithfulness, this final chapter breathes forgiveness into the story and shows us that returning to God always begins with a simple choice to turn.",
+        "The prophet calls Israel to repentance with words that feel like an embrace: \"Return, O Israel, to the Lord your God, for you have stumbled because of your iniquity.\" Notice the tenderness here. God doesn't demand perfection before welcoming us back; He invites us to return precisely because we have fallen. He knows the pattern of human failure and extends grace before we've earned it. When we come with honest confession—admitting our sin and our need—God promises not judgment but healing, not rejection but love.",
+        "What makes this return real is that it flows from changed affection. Hosea urges Israel to abandon their idols and replace empty pursuits with dependence on God alone. This is the nature of true repentance: it's not merely saying sorry, but redirecting our heart's loyalty. We stop looking for life in the broken cisterns of this world—success, status, relationships, achievement—and return to the spring that never runs dry.",
+        "The promise that follows is breathtaking. God vows to heal our waywardness and love us freely. He becomes like dew and rain to parched ground, restoration following restoration. This is what happens when we stop running and turn toward home.",
+        "The Christian life is marked by repeated cycles of wandering and returning. Each time we drift, each time we stumble, the door remains open. God's heart has not changed toward us. Healing waits for those willing to turn.",
+        "What would it look like for you to return to God today, in whatever area of your life has drifted from Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hosea 14: Scholarly study",
+      "overview": [
+        "Hosea 14 constitutes the magnificent conclusion to one of the most emotionally charged prophetic books in the Hebrew canon, bringing to resolution the tumultuous marriage metaphor that has dominated the preceding chapters. Composed in the latter half of the eighth century BCE during the twilight of the Northern Kingdom, this chapter represents Hosea's final appeal to Israel before the Assyrian conquest that would scatter the ten tribes in 722 BCE. The prophet, whose own marriage to Gomer served as a living parable of divine covenant love, here transitions from judgment oracles to an extended invitation for repentance and restoration.",
+        "The chapter opens with an imperative to return, employing the verb *shub* (שׁוּב), which carries the dual sense of physical turning and spiritual repentance. This term appears with remarkable frequency throughout Hosea, functioning as the theological hinge upon which Israel's fate turns. The prophet instructs the people to bring not animal sacrifices but \"words\" (*debarim*), suggesting that authentic liturgical confession takes precedence over cultic performance—a theme resonating with the earlier declaration that God desires steadfast love rather than sacrifice. The phrase \"fruit of our lips\" (*parim sephatenu*) presents a textual difficulty, as the Masoretic reading *parim* (\"bulls\") appears to be a scribal adjustment of an original *peri* (\"fruit\"), a reading supported by the Septuagint and preserved in the New Testament quotation in Hebrews 13:15.",
+        "The divine response in verses 4–8 employs extraordinarily rich botanical imagery, with God promising to be like dew (*tal*) causing Israel to blossom like the lily, take root like the cedars of Lebanon, and flourish with olive-like splendor and vineyard fragrance. This agricultural language reverses the earlier curse imagery of withered roots and blighted harvests, depicting covenant restoration in terms of Edenic abundance. The concluding verse functions as a wisdom postscript, characteristic of editorial additions that reframe prophetic material for didactic purposes, inviting readers to discern the righteous ways of Yahweh. This sapential conclusion transforms the passionate prophetic poetry into instruction for subsequent generations, ensuring that Hosea's message of judgment and redemption would continue guiding the faithful remnant."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hosea 14: Prophetic perspective",
+      "overview": [
+        "Hosea chapter fourteen stands as the concluding oracle of a prophecy delivered approximately 750 to 720 years before the incarnation of Christ, during the final tumultuous decades of the northern kingdom of Israel before Assyria's devastating conquest in 722 BC. This passage represents the prophetic call to repentance and the divine promise of restoration that would find its ultimate fulfillment not in the immediate return from exile but in the coming of Messiah and the gathering of a people from every nation into the new covenant community.",
+        "Within the grand arc of redemptive history, Hosea fourteen occupies the space between kingdom and exile, yet its prophetic vision stretches forward to anticipate restoration, incarnation, and the full flowering of God's saving purposes in Christ. The northern kingdom had fractured the Davidic covenant, embraced Baal worship, and trusted in foreign alliances rather than Yahweh. Yet here, at the precipice of judgment, the prophet extends an astonishing invitation to return.",
+        "The prescribed prayer of repentance carries profound typological weight. When the prophet instructs Israel to bring words rather than bulls, to offer the fruit of lips rather than animal sacrifice, the shadow of a greater priesthood emerges. This anticipates what the author of Hebrews would later celebrate—the sacrifice of praise that flows from hearts transformed by the once-for-all offering of Christ. The renunciation of Assyria's horses and the work of human hands prefigures the church's call to abandon all false saviors and manufactured religion.",
+        "The divine response overflows with gospel promise. God will heal their apostasy, love them freely, and turn away His anger. Here is the very heart of new covenant grace—unmerited favor poured out upon the faithless. The imagery of dew, lilies, cedars of Lebanon, grain, and vine paints a portrait of Edenic restoration. What Adam forfeited, what Israel squandered, God Himself would restore through the True Israel, the faithful Son who would embody both the vine and its life-giving fruit.",
+        "The prophecy finds partial fulfillment in the post-exilic restoration but presses beyond toward eschatological completion. The flourishing described here characterizes the church age, where Gentiles are grafted into Israel's olive tree, yet awaits consummation when creation itself will be liberated from bondage.",
+        "For the church living between the advents, Hosea fourteen speaks with urgent relevance. The same God who pursued wayward Israel pursues His people still, offering healing for every return, transforming barren hearts into fruitful gardens through the indwelling Spirit until the final harvest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "28_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.283851+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

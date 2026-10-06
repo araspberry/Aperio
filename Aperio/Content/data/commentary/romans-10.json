@@ -1,0 +1,55 @@
+{
+  "book": "Romans",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 10: The Nearness of God's Word",
+      "overview": [
+        "The spiritual heart of Romans 10 is the stunning accessibility of salvation—God's word and his way of faith are not distant or complicated, but near and available to all who call upon the name of Jesus. Paul strips away every excuse and barrier, inviting us into the simplicity of trusting in Christ.",
+        "Throughout this chapter, Paul addresses a profound tension: his Jewish kinsmen possessed zeal for God but lacked knowledge of his righteousness. They pursued salvation through their own efforts rather than submitting to God's righteousness revealed in Christ. This distinction matters deeply because it reveals a fundamental human tendency—we would rather earn our standing with God than receive it as a gift. We complicate what God has made simple. We build elaborate systems of self-improvement and moral achievement when Christ offers something far more liberating: acceptance through faith.",
+        "Paul's famous declaration—\"The word is near you; it is in your mouth and in your heart\"—echoes Deuteronomy to show that God's salvation is never obscured or unreachable. We don't need to climb to heaven or descend into the abyss to find God's favor. Christ has come. The gospel is proclaimed. The way of faith stands open to all. For those of us who believe, this is profoundly encouraging. We live not under the weight of perpetual self-improvement but under the grace of the one who has already achieved what we never could.",
+        "Yet Paul also emphasizes that faith comes by hearing the word of Christ and that hearing requires preachers, teachers, and witnesses. We who know Christ bear responsibility to make his nearness known to others. Our everyday conversations, our faithful presence, our willingness to speak about Jesus—these become the means by which the word remains near to those around us.",
+        "What keeps you from trusting Jesus more fully in a particular area of your life? How might embracing the simplicity of faith reshape that struggle?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 10: Scholarly study",
+      "overview": [
+        "Romans 10 occupies a pivotal position within Paul's extended theological treatment of Israel's relationship to the gospel in chapters 9–11, addressing the painful paradox of Jewish unbelief despite their privileged covenantal status. Writing to the Roman church around 57 CE, Paul here transitions from his defense of divine sovereignty in chapter 9 to examine human responsibility in responding to God's righteousness revealed in Christ. The apostle's deep personal anguish over his kinspeople, expressed at the outset with his affirmation of their zeal for God, frames the entire discussion with pastoral sensitivity rather than mere polemical critique.",
+        "Central to the chapter's argument is the distinction between two forms of righteousness: that pursued through Torah observance and that received through faith. Paul's quotation of Leviticus 18:5 alongside his christological rereading of Deuteronomy 30:12–14 creates a hermeneutical framework where Christ becomes the *telos* (τέλος) of the law—a term generating substantial interpretive debate regarding whether it signifies \"termination,\" \"goal,\" or \"fulfillment.\" The semantic range of *telos* permits multiple readings, though the immediate context emphasizing righteousness for all who believe suggests Paul intends at minimum that Christ represents the law's intended culmination and the point at which its purpose achieves completion.",
+        "The confession formula in verses 9–10 presents the dual requirements of oral confession that Jesus is Lord (*kyrios*, κύριος) and heart-belief in his resurrection, employing *kyrios* with its rich Septuagintal associations where it translates the divine name YHWH. This linguistic connection implies a remarkably high Christology within earliest Christianity. Paul's universalizing emphasis—\"everyone who calls upon the name of the Lord will be saved\"—draws from Joel 2:32, extending salvation's availability beyond ethnic boundaries.",
+        "The chapter's concluding catena of quotations from Isaiah and Deuteronomy establishes the logical chain of salvation: sending, preaching, hearing, believing, and calling. Paul's deployment of Isaiah 52:7 (\"How beautiful are the feet of those who bring good news\") anchors the missionary imperative in prophetic expectation while simultaneously indicting Israel's failure not of hearing but of believing. The chapter thus balances divine initiative with human accountability, preparing for chapter 11's eschatological resolution."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 10: Prophetic perspective",
+      "overview": [
+        "Romans 10 emerges from the pen of the Apostle Paul around AD 57, written from Corinth during his third missionary journey, approximately twenty-five years after the resurrection and ascension of Christ. This places the passage squarely within the early church age, that pivotal era when the implications of Messiah's completed work were being unpacked under apostolic authority and the gospel was spreading from Jerusalem to the ends of the earth.",
+        "Within the grand arc of redemptive history, this chapter stands at a crucial juncture—the transition from Israel's national stewardship of covenant promises to the universal proclamation of salvation to all nations. Paul writes with a heart broken over his kinsmen according to the flesh, Israel, who possessed zeal for God but stumbled over the very stumbling stone their prophets had foretold. The tragic irony reverberates through these verses: those who received the law, the prophets, and the promises failed to recognize that Christ is the *telos*—the goal and fulfillment—of the law for righteousness to everyone who believes.",
+        "Paul's declaration that \"the word is near you, in your mouth and in your heart\" reaches back to Deuteronomy 30, where Moses prophesied of a day when covenant nearness would transcend Sinai's thundering distance. What Moses glimpsed through shadows, Paul proclaims as present reality: the incarnate Word has descended and ascended, and now salvation comes through confessing with the mouth and believing in the heart. The typological pattern is breathtaking—as Israel once confessed the Shema, the church now confesses Jesus as Lord, the very name bearing divine authority.",
+        "The prophetic thread running through this chapter weaves together Isaiah and Joel, demonstrating that what those ancient seers foretold has found its \"yes\" in Christ. \"How beautiful are the feet of those who preach good news\" finds its fulfillment in the apostolic mission. \"Whoever calls on the name of the Lord shall be saved\" opens the covenant door to Gentile and Jew alike. Yet Paul also quotes Isaiah's lament over Israel's unbelief, indicating that prophetic Scripture anticipated this hardening even as it promised future restoration.",
+        "For the church dwelling between Christ's two advents, Romans 10 declares both mandate and comfort. The mandate: faith comes by hearing, and hearing by the word of Christ—therefore we must send, preach, and proclaim. The comfort: there is no distinction, for the same Lord is rich to all who call upon Him. Until the fullness of the Gentiles comes in and all Israel is saved, the church stands as living testimony that God's word has not failed but is accomplishing His eternal purposes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.759301+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

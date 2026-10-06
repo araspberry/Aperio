@@ -1,0 +1,55 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional on 2 Chronicles 9",
+      "overview": [
+        "The heart of this passage is that genuine wisdom and faithfulness bear fruit that captures the attention of the world, and the greatest blessing is recognizing that all we possess comes from God's hand.",
+        "When the Queen of Sheba travels from the ends of the earth to witness Solomon's wisdom, she discovers something that mere rumors could not convey. She sees not just intellectual brilliance but a kingdom ordered by justice, prosperity grounded in faith, and a life entirely oriented toward the Lord. Her astounded declaration—\"The half was not told me\"—reminds us that God's work in a faithful life exceeds what can be rumored or imagined by observers. Solomon had built something that could not be explained by human effort alone.",
+        "Yet nestled within Solomon's extraordinary blessing is a subtle warning. Second Chronicles tells us his wealth and honor surpassed all other kings, his throne was unrivaled, and precious metals were as common as stones in his city. But the passage also notes what his own eyes saw and his heart took in. There's a whisper here about the human tendency to become enamored with our own success, to gradually shift our gaze from the Giver to the gifts themselves.",
+        "This tension speaks to our own experience. When faithfulness is rewarded, when our work flourishes, when others notice our lives, we face a crucial moment. Will we, like Solomon initially, recognize that every good thing is from God's gracious hand? Or will we subtly begin to trust in our own wisdom, our own strength, our own reputation?",
+        "The invitation before us is to consider what signs of blessing God has allowed in our lives—material security, respect, answered prayers, spiritual growth—and to pause regularly before Him in gratitude rather than self-congratulation. Success can be a profound spiritual test.",
+        "What blessings in your life are calling you to deeper gratitude and deeper humility before God?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 9: Scholarly study",
+      "overview": [
+        "Second Chronicles 9 concludes the Chronicler's portrait of Solomon's reign by presenting the visit of the Queen of Sheba and a summary of the king's unprecedented wealth and wisdom, forming an inclusio with the divine promises granted at Gibeon in chapter 1. The Chronicler, writing to the postexilic community in the fifth or fourth century BCE, draws substantially from 1 Kings 10 while making subtle modifications that emphasize theological themes pertinent to restored Judah, particularly the relationship between faithfulness, wisdom, and material blessing.",
+        "The narrative opens with the Queen of Sheba arriving to test Solomon with \"riddles\" (ḥîdôt), a term denoting enigmatic questions requiring exceptional insight to unravel. Her confession that \"the half was not told me\" functions as external, Gentile validation of Israelite claims about their king, a literary device reinforcing Solomon's international reputation. The queen's declaration that Yahweh placed Solomon on \"his throne\" (kissēʾô) is theologically significant; the Chronicler uniquely emphasizes that Israel's throne belongs ultimately to God, with the king serving as divine regent—a perspective more pronounced here than in the Kings parallel.",
+        "The catalog of Solomon's wealth—including the 666 talents of gold, the ivory throne overlaid with pure gold, and the fleet of ships bringing exotic goods—serves not merely as historical record but as theological testimony. The term \"algum\" wood (ʾalgûmmîm), likely a variant of almug, refers to a precious timber possibly sandalwood, imported for temple and palace construction. This abundance fulfills the Deuteronomic promise of blessing for covenant faithfulness while simultaneously presenting Solomon as the ideal monarch whose reign anticipates eschatological hopes.",
+        "Scholars debate whether the Chronicler's omission of Solomon's apostasy (detailed in 1 Kings 11) reflects theological tendentiousness or simply adherence to his thematic purpose of presenting models for proper worship. The chapter concludes with Solomon's death notice, transitioning to the divided monarchy. Within the Chronicler's broader canonical framework, Solomon's reign represents the apex of united Israel's glory, establishing the temple cult that would define Judean identity through exile and restoration. The passage thus functions paradigmatically, offering the postexilic community a vision of flourishing contingent upon faithfulness to Yahweh and proper temple worship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 9: Prophetic perspective",
+      "overview": [
+        "The chronicler pens this account during the post-exilic period, likely around 400 BC, yet the events described transport us back to approximately 950 BC, the zenith of Israel's monarchical glory under Solomon. This chapter captures the visit of the Queen of Sheba and summarizes Solomon's unprecedented wealth—a moment standing roughly midway between Abraham's covenant and Christ's incarnation, at the apex of the Davidic kingdom before its tragic division. Within the grand sweep of redemptive history, we stand at the high watermark of the Kingdom era, that brief golden age when Israel most fully embodied the promises of blessing, dominion, and international testimony that God had sworn to Abraham.",
+        "The Queen of Sheba arrives from the ends of the earth, drawn by the fame of Solomon's wisdom, and she comes with hard questions. When she beholds the king in his glory—his wisdom, his house, his servants' splendor, his ascending approach to the temple—she confesses breathlessness: \"There was no more spirit in her.\" Here stands a pagan monarch bowing before the son of David, acknowledging that the half was never told, blessing the God of Israel who delights in placing His chosen one upon the throne. This remarkable scene functions as prophetic typology of the highest order. Jesus Himself interpreted this moment eschatologically when He declared that the Queen of the South would rise in judgment against His generation, for \"one greater than Solomon is here.\" What Sheba witnessed in shadow, the nations now behold in substance: a King whose wisdom is unfathomable, whose wealth is the inheritance of all creation, whose throne endures forever.",
+        "The gold of Ophir, the ivory throne overlaid with pure gold, the silver counted as common as stones, the exotic imports from Tarshish—all this material abundance typifies the inexhaustible riches of Christ in whom are hidden all treasures of wisdom and knowledge. Solomon's throne with its twelve lions upon six steps prefigures the governmental perfection of the Messianic kingdom, while the nations streaming tribute to Jerusalem anticipates that day when kings shall bring their glory into the New Jerusalem.",
+        "Yet discerning readers know what follows this chapter: the kingdom divides, the glory departs, exile ensues. Solomon's splendor, magnificent as it was, proved unsustainable under the weight of human sin. For the church dwelling between the advents, this stands as both promise and warning. We have tasted of a greater kingdom, yet we await its full manifestation when every knee shall bow before the true and greater Solomon, whose reign shall know no end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.786244+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 20: The Refuge of Prayer Before Battle",
+      "overview": [
+        "When life presses us into narrow places and we face decisions that feel too large for our own strength, God invites us into the posture of prayer—not as a last resort, but as our primary weapon and deepest resource.",
+        "Psalm 20 captures a community gathered to intercede for their king before he enters battle. Yet what strikes the heart is not the military strategy or the warrior's prowess, but the absolute confidence that victory belongs to the Lord. The psalm opens with a stunning promise: \"May the Lord answer you when you are in distress\" (verse 1). This God is not distant during our crisis; He leans close to listen. The people cry out blessings upon their king—may God protect him, strengthen him, remember his offerings. They are speaking faith into his future before the outcome is known.",
+        "What makes Psalm 20 so profoundly relevant for us is its assumption that prayer changes our posture toward difficulty. We do not face our battles—whether relational conflicts, financial pressure, health crises, or spiritual doubt—by gripping the situation with our own white knuckles. Instead, we release our anxiety into the hands of the God who has never abandoned His people. Notice the shift that occurs by verse 6: \"Now I know that the Lord saves his anointed\" (emphasis mine). Confidence replaces worry. This isn't magical thinking but rather the settled assurance that comes from entrusting ourselves to a faithful God.",
+        "The final verse offers the stunning reversal: \"Give victory to our king, O Lord; answer us when we call.\" We call. He answers. We trust. He delivers.",
+        "In the midst of whatever battles you face today—obvious conflicts or quiet struggles with doubt and fear—you are invited into this same posture of trusting prayer. What \"battle\" are you facing right now, and how might laying it before the Lord's throne change not the circumstances alone, but your heart within them?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 20: Scholarly study",
+      "overview": [
+        "Psalm 20 constitutes a royal liturgy composed for occasions when the Davidic king prepared for military engagement, functioning as a communal intercession offered by the congregation on behalf of their sovereign. The superscription attributes the psalm to David, though its liturgical character suggests it was employed repeatedly throughout the monarchic period, likely within the Jerusalem temple cultus. The psalm divides naturally into two movements: verses 1-5 present the congregation's petitions for the king, while verses 6-8 shift to confident declarations of divine response, with verse 9 serving as a concluding acclamation that may have involved antiphonal response.",
+        "The opening petition invokes \"the name of the God of Jacob\" (šēm ʾĕlōhê yaʿăqōb), a phrase rich with covenantal resonance linking the present monarchy to patriarchal promises. The Hebrew term for \"answer\" (yaʿănekā) appears repeatedly, establishing the psalm's central concern with divine responsiveness to royal and national need. Particularly significant is the verb \"support\" or \"sustain\" (yisʿādekā) in verse 2, derived from the root sāʿad, which carries connotations of strengthening and upholding, suggesting both spiritual fortification and practical military reinforcement emanating from Zion and the sanctuary.",
+        "The theological heart of the psalm emerges in the contrast articulated in verse 7 between those who trust in \"chariots\" (reḵeḇ) and \"horses\" (sûsîm) versus those who invoke Yahweh's name. This antithesis reflects broader Deuteronomic concerns regarding Israel's distinctive identity among nations and resonates with prophetic critiques of military alliances, particularly those with Egypt, renowned for chariotry. The passage thus participates in a canonical conversation spanning Deuteronomy 17:16, Isaiah 31:1, and numerous prophetic oracles concerning misplaced confidence.",
+        "Interpretive discussion has centered on whether verse 6 represents a prophetic oracle delivered mid-liturgy by a cultic official or a confident anticipation voiced by the congregation. The shift from petition to assurance mirrors patterns found in individual lament psalms, suggesting a moment of received certainty regarding divine favor. The psalm's lasting significance extends beyond its original monarchic setting, as later Jewish and Christian traditions have reappropriated its language for messianic expectation and ongoing reflection on the nature of legitimate trust amid human vulnerability."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 20: Prophetic perspective",
+      "overview": [
+        "This royal psalm emerges from the period of the united monarchy, likely composed during the reign of David approximately one thousand years before Christ's birth. It functioned as a liturgical prayer offered by the congregation on behalf of the king as he prepared for battle, situating it firmly within the era of the Davidic kingdom—that pivotal epoch when God established through covenant a throne that would endure forever and through which all nations would ultimately be blessed.",
+        "Standing within the grand arc of redemption, Psalm 20 occupies the Kingdom phase, where the anointed son of David serves as mediator between Yahweh and His people. The congregation's intercession for their king reveals something profound: Israel's hope was bound to their monarch's success, for in him their national destiny rested. Yet every limitation of these earthly kings—their mortality, their failures, their ultimate inability to deliver lasting salvation—whispered of Another who would come.",
+        "The typological resonance here is unmistakable. The anointed one who goes forth to battle, sustained by divine power rather than horses and chariots, prefigures Christ the true King. When the psalmist declares \"May He grant you your heart's desire and fulfill all your counsel,\" we hear an echo that finds its ultimate answer in Gethsemane, where the Son prayed and the Father heard. The burnt offerings and sacrifices mentioned in verse three find their consummation in Christ's once-for-all offering, the sacrifice that truly secures victory over every enemy.",
+        "The eschatological trajectory is striking: \"Some trust in chariots and some in horses, but we trust in the name of the LORD our God.\" This confession transcends its original military context to become the perpetual anthem of God's people awaiting final deliverance. The victory celebrated here was partially realized in David's conquests, more fully accomplished at the cross where Christ disarmed principalities and powers, yet awaits ultimate consummation when every knee shall bow.",
+        "For the church dwelling between the advents, this psalm instructs us in holy confidence. Our King has already won the decisive battle; the empty tomb stands as heaven's answer to the prayer \"May the LORD answer you in the day of trouble.\" We now pray with even greater boldness, knowing that the Father always hears His Son, and in Him, hears us. The final verse becomes our cry across the ages: \"Save, LORD! May the King answer us when we call.\""
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.132546+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

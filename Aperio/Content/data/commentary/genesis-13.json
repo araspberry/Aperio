@@ -1,0 +1,56 @@
+{
+  "book": "Genesis",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 13: The Grace of Generous Letting Go",
+      "overview": [
+        "When Abram and Lot must part ways because the land cannot sustain both their flocks and servants, we witness a profound spiritual lesson about surrendering control and trusting God's abundance. This moment teaches us that true faith means releasing what we grip too tightly, even when we have the right to claim it.",
+        "Abram's generosity in allowing Lot first choice of the land is remarkable precisely because Abram was the covenant bearer, the one God had promised to make great. By any measure of earthly ambition, Abram should have kept the best territory for himself. Instead, he chooses peace and relationship over property and precedence. He watches Lot claim the fertile Jordan Valley—the choicest land—and remains at peace. This isn't passive resignation; it's active trust in a God who has promised to multiply his descendants like the dust of the earth.",
+        "What strikes us most is what happens immediately after. God speaks to Abram and says, \"Lift up your eyes from where you are and look north and south, east and west. All the land that you see I will give to you.\" The promise becomes more expansive, not diminished. Abram's willingness to let go created space for God's abundance to flow more fully.",
+        "This speaks directly to our modern anxieties about security and provision. We live in a culture that teaches us to grasp, accumulate, and protect our assets with fierce determination. Yet Scripture suggests something countercultural: that open hands receive more blessing than clenched fists. When we release our death grip on what we think we deserve, we discover God's faithfulness is more reliable than our own scheming.",
+        "Abram teaches us that generosity isn't about having excess to give away—it's about the spiritual posture we adopt toward what we do have. His example invites us to examine our own reluctance to yield, our fear of missing out, our need to be proved right over being at peace.",
+        "What are you gripping too tightly, believing you must control to be secure?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 13: Scholarly study",
+      "overview": [
+        "Genesis 13 marks a pivotal transition in the patriarchal narrative, depicting the resolution of conflict between Abram and Lot while advancing the theological themes of divine promise and faithful pilgrimage. The chapter follows immediately upon Abram's sojourn in Egypt (12:10–20), where his deception regarding Sarai resulted in expulsion from Pharaoh's court. The narrative now returns the patriarch to Canaan, specifically to the Negeb and subsequently to Bethel, the site of his earlier altar construction, creating an inclusio that frames the Egyptian episode as a deviation from his proper calling.",
+        "The wealth accumulated by both Abram and Lot—described through the term *miqneh* (מִקְנֶה), denoting livestock as moveable property—generates the central conflict. The text emphasizes that the land could not \"bear\" (*nasa'*) them dwelling together, employing language that anticipates later discussions of the land's capacity to sustain its inhabitants (Leviticus 25:35). The strife between their respective herdsmen threatens the covenantal community's integrity, made more acute by the narrator's notation that \"the Canaanite and the Perizzite were then dwelling in the land\" (v. 7), highlighting the precarious position of these semi-nomadic sojourners among established populations.",
+        "Abram's generous offer to Lot demonstrates the patriarch's growth in faith since the Egyptian debacle. The term *hippared* (הִפָּרֶד), \"separate yourself,\" initiates a geographical and theological divergence. Lot's choice of the Jordan plain, described with Edenic and Egyptian resonances as \"well-watered everywhere\" (*mashqeh*), proves deeply ironic given the immediate foreshadowing of Sodom's destruction. Lot's movement \"east\" (*miqqedem*) echoes the expulsion narratives of Genesis 3–4, suggesting spiritual regression.",
+        "The chapter culminates in Yahweh's reaffirmation of the land promise (vv. 14–17), now expanded with directional totality—north, south, east, and west—and the perpetual nature of the grant. The command to \"walk through\" (*hithallek*) the land constitutes a symbolic act of possession, anticipating legal practices of territorial survey. Scholars debate whether this represents a distinct covenant renewal or elaboration of the original Abrahamic promise, though most recognize the intensification of earlier commitments following Abram's faithful conduct in the separation narrative."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 13: Prophetic perspective",
+      "overview": [
+        "Genesis 13 unfolds approximately 2,000 years before Christ, in the early patriarchal period following Abram's call out of Ur and his sojourn in Egypt. This chapter marks a pivotal moment in the Abrahamic covenant narrative, occurring after the patriarch's failure in Egypt and his return to Bethel—the place of the altar, the place of renewed worship. Within the grand arc of redemption, we stand at the foundational stage of God's covenant with Abraham, through whom all nations would ultimately be blessed, and through whose seed the Messiah would come.",
+        "The separation between Abram and Lot carries profound typological significance. Lot, choosing by sight, lifts his eyes toward the well-watered plain of Jordan, seeing what appeared \"like the garden of the LORD\"—an Eden-like paradise. Yet this choice moved him toward Sodom, a city whose judgment was already determined in the divine counsel. Here we witness the ancient pattern that would repeat throughout Scripture: the way that seems right to human eyes leads to destruction, while the path of faith—though appearing less advantageous—leads to blessing. Lot represents those who walk by sight; Abram, those who walk by faith.",
+        "After Lot's departure, the LORD commands Abram to lift his own eyes—but now God directs the seeing. The land stretching north, south, east, and west becomes the inheritance promised to Abram's seed forever. This promise reaches far beyond Canaan's borders; it anticipates the meek inheriting the earth, the new creation where Abraham's true children—those of faith from every nation—will possess an eternal homeland. The innumerable seed \"as the dust of the earth\" finds its ultimate fulfillment not merely in ethnic Israel but in the vast multitude from every tribe and tongue who belong to Christ, Abraham's singular Seed.",
+        "Abram's response reveals the posture of genuine faith: he moves his tent and builds an altar at Hebron, at the oaks of Mamre. The pilgrim patriarch dwells in tents, for he seeks a city with foundations whose architect is God Himself. His altar-building establishes worship as the center of covenant life—a pattern that points forward to the greater worship inaugurated through Christ's sacrifice.",
+        "For the church dwelling between the advents, Genesis 13 calls us to choose by promise rather than appearance, to walk as strangers and pilgrims, and to trust that what God has spoken He will surely bring to pass in the fullness of time."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.668721+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

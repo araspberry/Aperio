@@ -1,0 +1,57 @@
+{
+  "book": "Numbers",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 31: The Cost of Obedience and the Heart of Redemption",
+      "overview": [
+        "At its deepest level, Numbers 31 wrestles with the terrifying reality that following God sometimes demands we participate in difficult judgments—and invites us to consider how we steward victory when it comes.",
+        "This account of Israel's war against the Midianites reads like harsh ancient history. Yet beneath the narrative lies a profound theological truth: God holds nations accountable for their sins, and He uses His people as instruments of His justice. The Midianites had deliberately seduced Israel into idolatry and sexual immorality through Balaam's counsel, threatening to destroy the covenant community from within. This wasn't random violence; it was God protecting His people's spiritual inheritance. Even in judgment, we see God's protective love for His own.",
+        "What often strikes modern readers is how the passage handles the spoils of war. After the battle, Moses institutes a purification process and distributes the plunder according to God's specific instructions. This reveals something crucial about the spiritual life: victory without consecration becomes corruption. The soldiers must be cleansed. A portion must be set apart as an offering to the Lord. Even in conquest, God teaches that nothing we gain is truly ours—all belongs to Him, and we are merely stewards.",
+        "The mathematical precision of the accounting—every animal counted, every person listed—demonstrates that God sees and cares about the details of His people's obedience. There is no carelessness in following Him, no corners to cut, no \"close enough.\"",
+        "For us today, this passage invites deeper reflection. When have we experienced God's protection, even through circumstances that challenged our understanding? How do we consecrate our victories to Him rather than treating them as personal triumphs? The Christian life calls us to recognize that our battles—whether internal struggles with sin or external challenges—belong ultimately to God's redemptive purposes.",
+        "What area of victory in your life needs fresh consecration to the Lord?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 31: Scholarly study",
+      "overview": [
+        "Numbers 31 presents one of the most challenging passages in the Hebrew Bible, recounting Israel's military campaign against Midian as commanded by Yahweh through Moses. This chapter must be understood within the broader narrative of Numbers 25, where Midianite women, at Balaam's counsel, enticed Israelite men into idolatry and sexual immorality at Baal Peor, resulting in a devastating plague that killed twenty-four thousand Israelites. The campaign described here thus functions as divinely mandated retribution, termed \"the vengeance of Yahweh\" (*niqmat YHWH*, v. 3), a phrase indicating that the offense was ultimately against God himself rather than merely Israel.",
+        "The Hebrew term *ṣābāʾ* (\"army\" or \"host\") appears prominently throughout the chapter, emphasizing the organized, holy-war character of the expedition. Notably, only one thousand men from each tribe participated, accompanied by Phinehas the priest carrying sacred vessels—a detail underscoring the religious rather than merely military nature of the campaign. The complete victory, with no Israelite casualties (v. 49), signals divine intervention and approval within the narrative's theological framework.",
+        "Moses's anger at the officers for sparing the Midianite women (vv. 14–18) reflects the Deuteronomic concern that foreign women would lead Israel into apostasy. The term *ḥērem* (complete destruction or devotion to Yahweh) hovers implicitly over these instructions, though the text permits the survival of virgin women who presumably had no involvement in the Baal Peor incident.",
+        "The elaborate purification rituals (vv. 19–24) and detailed distribution of spoils (vv. 25–54) occupy substantial narrative space, demonstrating priestly concerns with corpse contamination and proper allocation of war gains. The tribute to Yahweh (*mekes*, vv. 28, 37) establishes that even military victory ultimately belongs to God.",
+        "Interpreters have long struggled with the ethical dimensions of this passage. Some scholars view it as late, idealized warfare never actually conducted; others emphasize its function within ancient Near Eastern conventions of holy war. Whatever historical reconstruction one adopts, the canonical placement forces readers to grapple with divine judgment, covenant fidelity, and the severe consequences the text attributes to religious syncretism—themes that resonate throughout the Pentateuch's broader theological architecture."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 31: Prophetic perspective",
+      "overview": [
+        "Numbers 31 unfolds approximately 1406 years before the birth of Christ, at the close of Israel's forty-year wilderness wandering, as the generation of unbelief has perished and a new generation stands poised to enter Canaan under Joshua's impending leadership. Moses himself will not cross the Jordan; this chapter records one of his final acts of leadership. Within the grand arc of redemption, we stand between the Exodus deliverance and the Kingdom establishment, in that liminal season where God is preparing a holy people to possess the land of promise—a land that itself foreshadows the eternal inheritance secured by Christ.",
+        "The war against Midian is no ordinary military campaign but a divinely commanded act of holy judgment. Midian had seduced Israel into sexual immorality and Baal worship at Peor, bringing a plague that slew twenty-four thousand. This was spiritual warfare made visible—the serpent's ancient strategy of corrupting the covenant community through compromise. The command to execute vengeance belongs not to human wrath but to the Lord's righteous defense of His holiness and His people's purity. Phinehas the priest leads this army, carrying the holy vessels and trumpets, signaling that this is sacred service, not mere conquest.",
+        "Here typology runs deep. The Midianite seduction mirrors every subsequent attempt of the world to draw God's people into idolatrous union—a pattern that continues through Babylon's allurements in Revelation. The total destruction of corrupting influences prefigures the final judgment when Christ returns to purify His bride and destroy all that defiles. Phinehas, whose zeal earlier turned back God's wrath, stands as a priestly-warrior type, foreshadowing the One who is both our Great High Priest and the coming King who wages righteous war against His enemies.",
+        "The meticulous purification of soldiers and spoil, the offering of gold to make atonement, the careful counting and division—all demonstrate that even victory belongs wholly to God and must be sanctified. Every detail preaches that nothing unclean may enter His presence or corrupt His inheritance.",
+        "For the church living between Christ's advents, this passage sounds a sober warning: we too are called to holy warfare against spiritual seduction. The weapons have changed—we wield the sword of the Spirit—but the enemy's tactics remain. What Midian was to Israel, Babylon is to the church. We must remain vigilant, for our Bridegroom is jealous for an undefiled bride whom He will present spotless at His appearing."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.081079+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

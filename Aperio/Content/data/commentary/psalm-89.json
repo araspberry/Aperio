@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 89,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 89 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 89: When God's Promises Feel Forgotten",
+      "overview": [
+        "The spiritual heart of Psalm 89 pulses with the tension between God's eternal covenant and the psalmist's present suffering—a raw prayer that dares to hold both unwavering faith and honest doubt in the same breath.",
+        "This psalm opens with a declaration of God's steadfast love and faithfulness, rehearsing the covenant made with David: his throne will be established forever, his descendants will endure, and God's mercy will never depart from him. But then something shifts. The psalm moves from lyrical praise into lament. The writer watches the promises crumble. Enemies have broken through, cities are plundered, and the anointed king—David's heir—seems abandoned. The pain cuts deeper because the promises were so clear, so certain. How can God's word fail? Where is the God who swore an oath?",
+        "This collision between promise and present reality mirrors our own deepest struggles. We believe God's word about provision, protection, or peace, yet we find ourselves in seasons of want, danger, or turmoil. The temptation in such moments is either to abandon faith altogether or to pretend the pain doesn't exist. But the psalmist does something wiser: he brings both to God simultaneously. He says, in effect, \"Your promises are true, and right now, they feel impossible.\"",
+        "This is what mature faith looks like. It's not blind certainty that ignores real suffering. It's the courage to stay in relationship with God even when we don't understand His timing or methods. The psalm ends without a neat resolution, without God swooping in to fix everything immediately. Instead, it closes with a plea: \"How long, O Lord? Will you hide yourself forever?\" The question remains, but it's asked in the presence of the One who made the promise.",
+        "What promise from God are you holding right now that feels distant from your current reality? How might you bring both your faith and your frustration to Him in prayer?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 89: Scholarly study",
+      "overview": [
+        "Psalm 89 stands as one of the most theologically significant royal psalms in the Psalter, attributed to Ethan the Ezrahite, a figure associated with wisdom traditions in Israel (1 Kings 4:31). The psalm presents a profound meditation on the Davidic covenant while simultaneously wrestling with an apparent crisis of divine faithfulness, likely composed in the aftermath of a catastrophic military defeat or even the fall of the Davidic monarchy itself, possibly during or shortly after the Babylonian exile of 586 BCE.",
+        "The psalm opens with an emphatic declaration of covenant loyalty, employing the term *ḥesed* (חֶסֶד), appearing seven times throughout the composition, signifying God's steadfast covenantal love that endures through generations. This keyword establishes the theological framework against which the entire psalm must be read. Equally significant is the term *ʾemûnâ* (אֱמוּנָה), rendered as \"faithfulness,\" which functions as a near-synonym paired repeatedly with *ḥesed* to emphasize divine reliability. The psalm also develops the concept of *bĕrît* (בְּרִית), the covenant sworn to David, which the psalmist claims God has established forever with cosmic witnesses.",
+        "Structurally, the psalm divides into three major movements: a hymnic celebration of Yahweh's cosmic sovereignty and incomparability (vv. 1–18), a recitation of the Davidic covenant promises drawn from 2 Samuel 7 (vv. 19–37), and a startling lament over the apparent rejection and humiliation of the anointed king (vv. 38–51). This tripartite structure creates deliberate theological tension, as the unconditional covenant language of the middle section stands in stark contradiction to the experienced reality described in the closing lament.",
+        "Scholars debate whether the psalm's conclusion represents genuine theological crisis or functions as a sophisticated covenant lawsuit, calling upon Yahweh to honor divine commitments. The juxtaposition of eternal promises with temporal failure raises profound questions about prophetic interpretation and the nature of divine faithfulness that later traditions, particularly New Testament writers, resolved through messianic reinterpretation. The psalm's concluding doxology (v. 52) actually belongs to the editorial framework marking the end of Book III of the Psalter, leaving the lament intentionally unresolved and inviting readers into ongoing theological reflection on the mystery of divine providence amid historical tragedy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 89: Prophetic perspective",
+      "overview": [
+        "This psalm was composed during the monarchic period of Israel, likely in the aftermath of a devastating national crisis—possibly the Babylonian destruction of Jerusalem in 586 BC or an earlier humiliation of the Davidic throne. It stands approximately midway through redemptive history, centuries after God's covenant with David yet centuries before its ultimate fulfillment in Christ. The psalm captures Israel at a breaking point, when the promises made to David seemed crushed beneath the weight of historical catastrophe.",
+        "Within the grand arc of redemption, Psalm 89 occupies the tension between Kingdom and Exile. God had established David's throne with unconditional promises—his seed would endure forever, his kingdom would be as permanent as the sun and moon. Yet the psalmist witnesses the crown defiled in the dust, the walls broken down, the anointed one covered with shame. This is the crisis of the exile in miniature: how can God's eternal word fail? How can the covenant with David lie shattered while heaven remains silent?",
+        "The opening movement rehearses the everlasting covenant with magnificent theological precision. God swore by His holiness that David's throne would be established to all generations. The typological significance radiates outward—David stands as the shadow of a greater King. When God declares \"I will make him my firstborn, the highest of the kings of the earth,\" the language strains beyond any historical monarch. No son of David fully bore this weight. The psalm prophesies without knowing it prophesies, pointing toward One whose throne truly cannot be moved.",
+        "The psalm's anguished middle section voices the apparent failure of the covenant. But this very failure becomes prophetically essential. The humiliated king, the broken crown, the reproach of the anointed—these images find their ultimate expression not in Zedekiah's blinded eyes but in Christ's thorned brow. The Davidic covenant appeared to fail so that it might be fulfilled through suffering. What seemed like divine abandonment became the pathway to resurrection enthronement.",
+        "The eschatological threads remain partially unwoven. Christ has been raised and seated at the Father's right hand, the firstborn from the dead, the highest of kings. Yet the church still prays \"How long, O Lord?\" as she awaits His visible reign. The new creation alone will reveal the full answer to the psalmist's cry. Until then, believers live in the tension the psalm voices—trusting that the same faithfulness established in the heavens will complete what it began in a Bethlehem stable and an empty Jerusalem tomb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_089",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.364035+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

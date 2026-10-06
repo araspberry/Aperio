@@ -1,0 +1,55 @@
+{
+  "book": "Zechariah",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Zechariah 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Zechariah 4: The Power of God's Spirit",
+      "overview": [
+        "The Spirit of God accomplishes what human effort alone cannot, and this ancient vision speaks directly to the weariness of our contemporary souls. Zechariah beholds a golden lampstand fed by two olive trees, a symbol that God's work proceeds not through might or power, but through His Spirit working in and through His people.",
+        "The prophet has been wrestling with discouragement. The temple lies in ruins, Jerusalem's walls are broken, and the people's resources are meager. When questioned about the mountain of obstacles before them, Zechariah receives one of Scripture's most liberating words: \"Not by might, nor by power, but by my Spirit, says the Lord of hosts.\" This isn't a call to passivity but an invitation to radical trust. The olive trees continuously pour oil into the lampstand, never running dry, representing God's inexhaustible supply of grace for those who depend on Him rather than their own depleted strength.",
+        "We live with similar discouragement. Churches face declining resources, families weather relentless trials, and believers often sense their own inadequacy for the calling before them. In these moments, Zechariah's vision becomes our lifeline. We are not called to manufacture success through sheer determination or strategic brilliance. Rather, we're invited to become vessels through which God's Spirit flows, accomplishing what transcends our capabilities. The lampstand shines brightest not when we strain hardest, but when we surrender most completely to the Spirit's filling.",
+        "Notice the quietness of this image. There's no straining, no frantic activity—only steady, supernatural supply. This reflects the paradox of Christian life: our greatest effectiveness comes through dependence, not self-reliance. When we acknowledge our weakness and yield to the Spirit's empowering, God's purposes advance not despite our limitations, but often because of them.",
+        "What mountain stands before you right now that your own might cannot move? How might God be inviting you to exchange your strength for His Spirit's power?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Zechariah 4: Scholarly study",
+      "overview": [
+        "Zechariah 4 constitutes the fifth of eight night visions granted to the prophet during the second year of Darius I (520 BCE), a pivotal moment when the Jewish remnant struggled to rebuild the Jerusalem temple amid political uncertainty and diminished resources. The vision centers on a golden lampstand flanked by two olive trees, imagery that would have resonated deeply with a community attempting to restore cultic worship after decades of Babylonian exile. The prophet's dialogue with the interpreting angel reveals both the immediate historical referent—the completion of the Second Temple under Zerubbabel's leadership—and eschatological dimensions that transcend the sixth-century context.",
+        "The central oracle declares that the temple will be completed \"not by might nor by power, but by my Spirit\" (*ruach*), employing two Hebrew terms for human strength—*chayil* (military force or wealth) and *koach* (physical power)—to emphasize divine rather than human agency in accomplishing Yahweh's purposes. This theological affirmation addressed the community's discouragement over their modest resources compared to Solomon's original construction. The lampstand (*menorah*) itself evokes both tabernacle and temple imagery, while the continuous oil supply from the olive trees suggests uninterrupted divine empowerment without human intermediation.",
+        "The identity of the \"two anointed ones\" (*bene-hayyitshar*, literally \"sons of fresh oil\") standing before the Lord of all the earth has generated considerable scholarly discussion. The immediate referent appears to be Zerubbabel the governor and Joshua the high priest, representing the dual leadership of restored Judah. This diarchic model reflects Persian-period administrative realities while also developing messianic expectations that later interpreters, including the author of Revelation, would appropriate christologically.",
+        "The mountain becoming a plain before Zerubbabel and the capstone (*ha'eben harosh'ah*) brought forth with shouts of \"Grace, grace to it\" celebrate the assured completion of rebuilding efforts. The rhetorical question about despising \"the day of small things\" directly confronts community despair, asserting that Yahweh's \"seven eyes\" survey the entire earth, ensuring that this seemingly insignificant restoration participates in cosmic divine purposes. The passage thus weaves together immediate pastoral encouragement with broader theological claims about divine sovereignty and eschatological hope."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Zechariah 4: Prophetic perspective",
+      "overview": [
+        "Zechariah received this vision approximately 520 years before the birth of Christ, during the early Persian period when a remnant of exiled Jews had returned to Jerusalem under Zerubbabel's leadership. The temple lay half-finished, its reconstruction stalled by opposition and discouragement. Within the grand sweep of redemption, this chapter stands at the threshold of restoration—after the catastrophe of Babylonian exile but before the full flowering of messianic hope. The people had returned to the land, yet the glory had not returned to the temple, and the Davidic throne remained empty under foreign rule.",
+        "The vision opens with a golden lampstand flanked by two olive trees, an image laden with covenantal memory. The menorah recalls the tabernacle and Solomon's temple, that sevenfold light representing Israel's calling to shine God's presence among the nations. Yet this lampstand possesses a feature unprecedented in the Mosaic design: a continuous supply of oil flowing directly from living trees through golden pipes. Here typology deepens into prophecy. The oil throughout Scripture signifies the Spirit's anointing—upon priests, kings, and prophets. This self-sustaining lamp proclaims that what human effort could not accomplish, divine empowerment would complete.",
+        "The two olive trees, identified as \"sons of oil\" standing before the Lord of all the earth, point immediately to Zerubbabel the governor and Joshua the high priest—the twin offices sustaining post-exilic Israel. Yet their prophetic reach extends far beyond that generation. These anointed ones prefigure the final union of king and priest in Messiah, and Revelation 11 explicitly retrieves this imagery for the two witnesses who prophesy during the tribulation. The vision thus spans from Zechariah's moment through the church age into the final conflict.",
+        "The central oracle thunders across centuries: \"Not by might, nor by power, but by my Spirit, says the LORD of hosts.\" Zerubbabel's hands laid the foundation; Zerubbabel's hands would complete it. Yet the mountain of opposition would become a plain—not through military conquest or political maneuvering but through the sovereign breath of God. The capstone would be set with shouts of \"Grace, grace to it!\" This finds ultimate fulfillment in Christ, the rejected stone become the cornerstone, the temple destroyed and raised in three days.",
+        "The church today labors between the advents, often facing mountains of impossibility. This vision reminds the people of God that every completed work of redemption—from rebuilt temples to resurrected bodies—comes by grace alone, through Spirit alone, to the glory of Christ alone."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "38_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.390899+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

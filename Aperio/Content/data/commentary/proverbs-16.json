@@ -1,0 +1,55 @@
+{
+  "book": "Proverbs",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 16: The Heart's Posture Before the Lord",
+      "overview": [
+        "The heart of Proverbs 16 is simple yet profound: our plans matter, but God's purposes are infinitely larger, and true wisdom means aligning our deepest intentions with His sovereign will. This chapter teaches us that the orientation of our inner life—our thoughts, motivations, and desires—is where genuine spiritual transformation begins.",
+        "The opening verse sets the tone beautifully: \"The plans of the heart belong to man, but the answer of the tongue is from the Lord.\" We are creators of purpose and intention. God has given us imagination, ambition, and the capacity to dream. But our words, our outcomes, and ultimately our destiny rest in His hands. This is not meant to paralyze us into passivity. Rather, it invites us into a posture of humble stewardship. We prepare, we plan, we speak—but we do so while holding our agendas loosely, knowing that God's wisdom surpasses ours.",
+        "Throughout this chapter, we encounter recurring themes: pride leads to downfall, while humility opens us to blessing. The Lord detests pride in all its forms—arrogance, dishonesty, haughtiness—because pride is fundamentally a turning away from Him. It is the heart saying \"I will be my own source of truth and security.\" Conversely, the fear of the Lord, which is reverential awe and trust in His character, becomes the foundation for avoiding evil and living well.",
+        "What's striking is how relational this wisdom is. Our words shape relationships; our decisions ripple through the lives of others. A soft answer turns away wrath. Truthful lips endure forever. These aren't abstract principles but invitations to live as people whose inner alignment with God's heart naturally overflows into love for others.",
+        "In our frantically paced world, Proverbs 16 calls us to pause and ask: What truly reigns in my heart? Am I trusting my own schemes, or am I submitting my deepest longings to the One whose ways are higher?",
+        "Where do you sense God inviting you to release control and trust His purposes more fully?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 16: Scholarly study",
+      "overview": [
+        "Proverbs 16 occupies a pivotal position within the second major collection of Solomonic proverbs (10:1–22:16), marking the beginning of what scholars identify as a distinct subsection characterized by an unusual concentration of sayings concerning Yahweh and kingship. The chapter opens with a series of proverbs emphasizing divine sovereignty over human planning, establishing a theological framework that pervades the entire unit. The Hebrew term *ma'aneh* (answer, response) in verse 1 creates a striking juxtaposition between human preparation of the heart and Yahweh's ultimate governance of speech, suggesting that even articulate human expression remains under divine superintendence. This tension between human agency and divine sovereignty constitutes one of the most sophisticated theological contributions of wisdom literature to the Hebrew canon.",
+        "The concept of *tôʿăbat YHWH* (abomination to Yahweh) appears in verse 5, deployed here against the proud in heart, employing the term *gěbah-lēb* (literally \"high of heart\"), which denotes arrogance as a fundamental misorientation of the human person before God. The assurance that such individuals will not go unpunished employs the idiom \"hand to hand\" (*yād lěyād*), possibly referring to a gesture of solemn agreement, ironically emphasizing the certainty of judgment. Verses 10–15 comprise an extraordinary cluster of royal sayings, presenting an idealized portrait of kingship where the monarch serves as an instrument of divine justice. The term *qesem* (divination, oracle) applied to royal speech in verse 10 has generated interpretive debate, with some scholars viewing it as a bold appropriation of divinatory language to describe inspired royal judgment, while others suggest polemical undertones critiquing royal pretensions.",
+        "The chapter's wisdom vocabulary intensifies in verses 16–24, where *ḥokmâ* (wisdom) and *těbûnâ* (understanding) are elevated above gold and silver, reinforcing the programmatic priority of wisdom established in Proverbs 1–9. The agricultural metaphor in verse 26 concerning the worker's appetite driving labor reflects the practical, observational character of Israelite wisdom, demonstrating how these sages discerned theological principles embedded within quotidian experience. Throughout the chapter, the interweaving of divine sovereignty, royal justice, and practical wisdom creates a unified theological vision where righteous living aligns human existence with cosmic order."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 16: Prophetic perspective",
+      "overview": [
+        "Proverbs 16 emerges from the golden age of Israel's united monarchy, compiled during or shortly after Solomon's reign around 950 BC—roughly one thousand years before Christ's incarnation. This places the chapter squarely within the Kingdom era of redemptive history, that brief and glorious period when David's throne stood secure in Jerusalem and the temple worship had been established. Solomon, the son of promise through whom God's covenant with David found initial expression, gathered and composed these wisdom sayings as Israel reached its zenith of peace and prosperity. Yet even in this moment of apparent fulfillment, these proverbs point beyond themselves toward a greater Wisdom and a more enduring Kingdom.",
+        "The chapter opens with a profound mystery that finds resolution only in Christ: \"The preparations of the heart belong to man, but the answer of the tongue is from the LORD.\" Here lies the ancient tension between divine sovereignty and human responsibility that the incarnation alone can reconcile. When the eternal Word became flesh, heaven's answer finally descended to human hearts, and the tongue that spoke creation into being took up residence among us.",
+        "Solomon himself stands as a type, for he was called the wisest of men, yet his wisdom ultimately failed him. Throughout Proverbs 16, we encounter wisdom personified—directing kings, weighing spirits, guiding paths—and we recognize the shadow of One greater than Solomon who would come. Christ Jesus, whom Paul declares to be \"wisdom from God,\" embodies every principle here articulated. He is the just weight and balance of verse 11, measuring all things with perfect equity. He is the righteous lips that kings should love, speaking truth before Pilate and Herod alike.",
+        "The sovereignty declarations scattered throughout this chapter—\"The LORD has made all for Himself,\" \"The lot is cast into the lap, but its every decision is from the LORD\"—find their eschatological fulfillment in the Lamb who opens the sealed scroll of Revelation. What Solomon perceived dimly, the church now sees clearly: all history moves toward Christ's purposes.",
+        "The call to humility before the LORD, the warnings against pride that precedes destruction, and the promise that those who trust in the LORD find blessing all remain prophetically active. The church dwelling between Christ's advents lives within these very tensions, walking by wisdom not yet fully revealed, trusting a sovereign God whose eternal purposes shall culminate when the knowledge of the LORD covers the earth as waters cover the sea."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.61089+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

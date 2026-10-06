@@ -1,0 +1,56 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 7: The Wisdom of Honest Realism",
+      "overview": [
+        "The spiritual heart of this chapter beats with a paradoxical truth: genuine wisdom often looks different from what the world celebrates, embracing sorrow alongside joy and weakness alongside strength. Solomon invites us into a counterintuitive way of seeing that transforms how we navigate life's complexity.",
+        "What strikes the reader immediately is Solomon's celebration of \"a good name\" above perfume, and his preference for \"the day of death\" over the day of birth. This is not pessimism but clarity. He knows that funerals teach us what really matters—they strip away pretense and reveal what endures. A person's reputation, their character, the legacy of love they leave behind—these are not conquered by death but completed by it. Sorrow accomplishes what pleasure cannot; it produces wisdom. When we sit in grief, we sit in truth.",
+        "Solomon then critiques the self-righteous person who considers himself wise and the godless person consumed by fear and anger. The middle way—neither self-satisfied nor despairing—is where authentic faith grows. He acknowledges the bewildering reality that sometimes the righteous perish young and the wicked prosper long, yet he anchors faith not in explaining this injustice but in reverence. \"Fear God,\" he says, which is not trembling but trusting submission.",
+        "This passage calls us to maturity. Our culture sells happiness as the highest good, but Solomon knows better. A quiet heart shaped by honest reflection about loss, mortality, and human limitation is far richer than constant stimulation. When we allow sorrow to teach us, when we release our need to defend ourselves as \"good people,\" when we replace self-righteousness with reverence, we find freedom.",
+        "What area of your life right now is inviting you to choose honest wisdom over comfortable self-deception? Where might sorrow be teaching you what joy cannot?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 7: Scholarly study",
+      "overview": [
+        "Ecclesiastes 7 marks a significant transition in Qoheleth's discourse, moving from the programmatic observations of chapters 1–6 toward a collection of wisdom sayings that blend traditional proverbial forms with the Teacher's characteristic skepticism. The chapter likely preserves material from the late postexilic period, when Jewish sages engaged critically with both Israelite wisdom traditions and Hellenistic philosophical currents, though the precise dating remains contested among scholars.",
+        "The chapter opens with a series of \"better than\" (טוֹב...מִן, *tov...min*) proverbs, a form well-attested in ancient Near Eastern wisdom literature. The striking declaration that the day of death surpasses the day of birth challenges conventional assumptions about blessing and prosperity, inverting expectations found in texts like Job 3. Qoheleth's reasoning becomes apparent through the term \"heart\" (לֵב, *lev*), which appears repeatedly throughout the chapter, signifying not merely emotion but the seat of intellectual and moral discernment. The wise heart, paradoxically, dwells in the house of mourning rather than feasting because confrontation with mortality yields genuine understanding.",
+        "The Hebrew term \"wisdom\" (חָכְמָה, *chokmah*) undergoes complex treatment here. While verses 11–12 extol wisdom's protective value alongside inheritance, verses 23–25 confess its ultimate inaccessibility. This tension reflects Qoheleth's dialectical method: wisdom remains valuable yet cannot penetrate life's fundamental mysteries. The phrase \"far off and exceedingly deep\" (verse 24) employs spatial metaphors to express epistemological limitation, echoing Job 28's meditation on wisdom's hiddenness.",
+        "The chapter's conclusion presents interpretive challenges, particularly the controversial statement about finding \"one man among a thousand\" but no woman (verse 28). Some scholars read this as straightforward misogyny reflecting patriarchal contexts; others interpret it as Qoheleth's failure to find *any* truly upright person, with the numerical rhetoric emphasizing universal human corruption rather than gender hierarchy. The term \"schemes\" or \"devices\" (חִשְּׁבֹנוֹת, *chishvonot*) in verse 29 suggests calculated departures from created goodness, connecting human moral failure to the broader theme of life's perplexing inequities.",
+        "Within Ecclesiastes' canonical structure, chapter 7 provides the philosophical groundwork for the ethical exhortations that follow, demonstrating that wisdom, while limited, nonetheless guides the sage through an inscrutable world."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 7: Prophetic perspective",
+      "overview": [
+        "Ecclesiastes chapter seven emerges from the pen of Solomon approximately 950 years before the incarnation of Christ, during the zenith of Israel's united monarchy. This wisdom literature arrives after the establishment of the Davidic covenant but before the kingdom's division, positioned in that brief golden age when Israel enjoyed unprecedented peace and prosperity under Solomon's reign. Yet precisely from this pinnacle of human achievement, the Preacher declares the vanity of earthly wisdom pursued apart from God—a message that would echo through centuries of exile, return, and waiting until Wisdom Himself appeared in flesh.",
+        "Within the grand redemptive arc, Ecclesiastes stands as a profound interlude between kingdom glory and coming collapse. Solomon, son of David, embodiment of covenant blessing, finds that even royal wisdom cannot penetrate the veil of death or resolve the injustices that plague existence under the sun. The chapter's opening declaration—that the day of death surpasses the day of birth and the house of mourning exceeds the house of feasting—anticipates the great reversal that only resurrection can accomplish. Here is wisdom recognizing its own limits, the crown of creation confessing that thorns still pierce, that curse still reigns.",
+        "The typological threads are striking. Solomon, the wise king who cannot find ultimate answers, points forward to a greater than Solomon who would declare Himself the way, the truth, and the life. The Preacher's counsel to avoid extremes of self-righteousness and self-destruction foreshadows the gospel's demolition of both legalism and license. When Solomon laments that he found one upright man among a thousand but not one woman, he voices the universal condemnation that Paul would later articulate: none is righteous, no not one. The chapter groans with the weight of a fallen world awaiting its deliverer.",
+        "The eschatological tension pulses throughout. Wisdom remains elusive, righteousness proves impossible to maintain, and even the wise die with the fool. These are prophecies of human inability now fulfilled in Christ, who became for us wisdom from God, righteousness, sanctification, and redemption. Yet the final adjudication of crooked things made straight awaits the age to come.",
+        "For the church living between advents, this chapter serves as sacred preparation. We are called neither to despair at the world's brokenness nor to pretend earthly wisdom suffices. Rather, we acknowledge that all Solomon's searching finds its answer in Christ, and we wait with patient hope for the day when every crooked thing shall be made eternally straight."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.677906+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

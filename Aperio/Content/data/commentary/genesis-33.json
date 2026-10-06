@@ -1,0 +1,56 @@
+{
+  "book": "Genesis",
+  "chapter": 33,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 33 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 33: The Grace of Reconciliation",
+      "overview": [
+        "Jacob's encounter with Esau stands as one of Scripture's most luminous portraits of grace meeting fear, and restoration blooming where only bitterness should have taken root. After decades of separation, theft, and the weight of his own deception, Jacob finally faces the brother he wronged—only to discover that forgiveness flows more freely than he ever dared imagine.",
+        "What makes this passage so remarkable is Jacob's posture. He approaches his brother with profound humility, bowing himself to the ground seven times. This is not mere etiquette; it is repentance made visible. Jacob has spent twenty years learning that his clever schemes and self-reliance cannot secure what only God's grace can give. His wrestling match with God at Peniel transformed him—limping, broken, renamed Israel, he comes not as a supplanter but as a supplicant. He offers gifts not to buy forgiveness but as tokens of genuine remorse and honor. He calls Esau \"my lord\" and himself \"your servant.\"",
+        "Yet Esau's response teaches us something equally vital about the nature of God's kingdom. Running to embrace his brother, Esau weeps. He refuses the gifts, asks nothing of Jacob, seeks no explanation or apology beyond what Jacob has already embodied. This is what authentic forgiveness looks like when it meets genuine repentance—not scorekeeping, not lingering suspicion, but the generous restoration of relationship.",
+        "For those of us carrying old wounds and fractured relationships, this passage speaks with tender authority. Reconciliation is possible. The hurts we carry need not define our future or our faith. The road back to estranged loved ones, though terrifying, may lead not to judgment but to embrace.",
+        "Where in your own life is God calling you toward the humility of Jacob or the generosity of Esau? What relationship might be waiting for the grace that genuine reconciliation brings?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 33: Scholarly study",
+      "overview": [
+        "Genesis 33 presents the dramatic culmination of the Jacob-Esau narrative, depicting their reconciliation after twenty years of estrangement following Jacob's deception in obtaining the patriarchal blessing. The chapter functions as the resolution to tensions established in Genesis 27 and heightened by Jacob's fearful preparations in Genesis 32, including his nocturnal encounter at Peniel. The narrative artistry of the Yahwist tradition is evident throughout, with careful attention to gesture, speech, and spatial arrangement that conveys theological meaning through human interaction.",
+        "The chapter opens with Jacob arranging his family in a hierarchy that reflects both his anxiety and his preferential attachments, placing Rachel and Joseph in the position of greatest safety. His sevenfold prostration before Esau employs the verb *hishtachawah*, a term denoting homage typically rendered to superiors or royalty, effectively reversing the blessing's promise that brothers would bow to Jacob. This dramatic irony underscores the complex relationship between divine promise and human agency that pervades the patriarchal narratives.",
+        "Esau's response—running, embracing, falling on Jacob's neck, and kissing him—employs the Hebrew *wayyishshaqehu*, though the Masoretic text places dots above this word, prompting rabbinic debate about whether the kiss was wholehearted or reluctant. This textual peculiarity has generated extensive interpretive discussion, with some traditions reading Esau's forgiveness as genuine while others detect lingering hostility. The narrative itself suggests authentic reconciliation, as Esau's actions mirror the father's response to the prodigal son in later biblical tradition.",
+        "Jacob's theologically charged statement that seeing Esau's face is \"like seeing the face of God\" (*ki al-ken raiti paneka kir'ot pene elohim*) creates a deliberate verbal connection to the Peniel encounter, where Jacob saw God \"face to face.\" This linking of divine and human encounter suggests that reconciliation with one's brother participates in the experience of divine presence.",
+        "The chapter concludes with the brothers parting peacefully, though Jacob's journey to Succoth rather than Seir introduces narrative tension that interpreters have variously explained as prudence, deception, or simply different destinies. The purchase of land near Shechem foreshadows the troubling events of Genesis 34 while establishing Jacob's presence in Canaan."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 33: Prophetic perspective",
+      "overview": [
+        "Genesis 33 unfolds approximately 1900 years before the birth of Christ, during the patriarchal age when God was establishing His covenant promises through the family of Abraham. This chapter occurs after Jacob's transformative wrestling with the Angel of the Lord at Peniel, where he received both a new name—Israel—and a permanent limp marking him as one who had encountered God face to face. Within the grand arc of redemption, we stand in the early chapters of the Abrahamic covenant, watching the formation of the people through whom blessing would flow to all nations.",
+        "The meeting of Jacob and Esau reverberates with prophetic meaning that spans Scripture. Here is a man approaching his offended brother, bowing seven times to the ground—the posture of complete submission and repentance. Esau runs to meet him, falls on his neck, and kisses him. The one who had every right to execute vengeance instead extends embrace. What the law would demand—justice for the stolen blessing—grace overwhelms with reconciliation. This foreshadows the greater reconciliation accomplished at Calvary, where God in Christ was reconciling the world to Himself, not counting their trespasses against them. Jacob's words pierce with typological significance: \"I have seen your face as one sees the face of God, and you have accepted me.\" Having just seen God's face at Peniel, Jacob now perceives divine mercy reflected in human forgiveness.",
+        "The gifts Jacob sets before Esau—droves of livestock sent ahead in waves—prefigure the offerings that precede worship, yet also whisper of a greater gift. Jacob insists Esau accept his blessing, using the Hebrew word *berakah*—the very thing stolen now freely returned. What was taken by deception is restored through grace, anticipating how Christ restores what humanity forfeited in Eden.",
+        "Jacob's journey to Succoth, where he builds booths, and then to Shechem, where he purchases land and erects an altar called \"El Elohe Israel\"—God, the God of Israel—marks the transformed supplanter now worshiping under his covenant name. The land purchase echoes Abraham's acquisition of Machpelah: these patriarchs stake claims in Canaan, acting on promises that would require centuries to fulfill.",
+        "For the church dwelling between Christ's advents, Genesis 33 proclaims that the God who transforms deceivers into princes also reconciles enemies into brothers. The peace Jacob feared impossible became the embrace that dissolved decades of enmity—a foretaste of the peace secured eternally through the blood of the cross."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_033",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.719368+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

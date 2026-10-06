@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 31: When Trust Becomes Our Refuge",
+      "overview": [
+        "When life collapses into crisis, David models something profoundly countercultural: he runs toward God, not away. Psalm 31 is a prayer born in desperate circumstances, yet it teaches us that our security rests not in favorable conditions but in the character of the God who holds us.",
+        "Notice how David opens: \"In you, O Lord, I take refuge\" (v. 1). These aren't the words of someone pretending things are fine. His enemies surround him; his bones ache with anguish; his eyes grow weak with sorrow (v. 10). Yet even as he names each terror with honest vulnerability, he anchors himself to God's faithfulness. This is not denial. This is defiant trust—the choice to believe God's nature remains unchanged even when circumstances scream otherwise.",
+        "The middle section reveals the texture of David's faith. He doesn't suppress his fears; he admits them while simultaneously redirecting his focus. \"My times are in your hands\" (v. 15)—this breathtaking statement acknowledges that David's future belongs to God, not to his enemies or his circumstances. In the same moment he admits he is despised and rejected, he declares his confidence will not be shaken.",
+        "This pattern speaks directly to modern disciples. We face seasons of genuine loss—health crises, relational betrayal, professional failure, spiritual confusion. The psalmic invitation isn't to manufacture positive feelings but to practice what David practices: simultaneous honesty and hope. We can acknowledge the weight of our struggle while refusing to camp there permanently.",
+        "The psalm closes not with the crisis resolved but with community invited to join the confidence: \"Love the Lord, all his faithful people!\" (v. 23). David's personal deliverance becomes a testimony that strengthens the watching faithful.",
+        "Where in your life are you tempted to choose either false cheerfulness or despair, rather than honest trust in God's hands?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 31: Scholarly study",
+      "overview": [
+        "Psalm 31 stands as a profound individual lament attributed to David, though its precise historical setting remains debated among scholars. The superscription \"To the choirmaster\" indicates its liturgical function within Israel's worship, suggesting that what may have originated as a personal prayer became incorporated into the community's repertoire of sacred song. The psalm exhibits the characteristic movement of the lament genre, oscillating between desperate plea and confident trust, between the articulation of distress and the anticipation of divine deliverance.",
+        "The opening verse employs the Hebrew term *ḥasah* (to take refuge), a metaphor drawn from the ancient Near Eastern imagery of seeking sanctuary, whether in a fortified city or under the protective wings of a deity. This concept pervades the Psalter and establishes the covenantal relationship between the supplicant and YHWH as fundamentally one of protection and loyalty. The psalmist's declaration \"In you, O LORD, I have taken refuge\" presupposes both vulnerability and trust, acknowledging human limitation while affirming divine reliability.",
+        "Particularly significant is the phrase in verse 5, \"Into your hand I commit my spirit\" (*ruaḥ*), which the Lukan passion narrative places on the lips of the dying Jesus. The term *ruaḥ* here denotes not merely breath but the essential life-force, the totality of one's being entrusted to God's sovereign care. This intertextual connection has profoundly shaped Christian interpretation, reading the psalm typologically as anticipating Christ's suffering and vindication.",
+        "The middle sections describe the psalmist's affliction using vivid somatic language—eyes wasting from grief, bones growing weak—demonstrating the Hebrew understanding of psychosomatic unity. The social dimension of suffering emerges prominently: the speaker has become an object of scorn, forgotten like the dead, broken like a vessel. Yet this descent into isolation is met with the counter-movement of divine *ḥesed* (steadfast love, covenantal faithfulness), the term appearing at the psalm's climax as the ground of hope for all who wait upon YHWH.",
+        "The psalm concludes with exhortation to the community of the faithful, transforming individual experience into communal instruction. This movement from personal lament to corporate praise exemplifies how Israel's worship continuously integrated private suffering into the larger narrative of divine faithfulness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 31: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the crucible of his years as a fugitive, likely during the dark period when Saul hunted him through the wilderness of Judah, approximately one thousand years before Christ's advent. It stands within the epoch of the united kingdom's formation, after God's covenant with Abraham and the Exodus deliverance, yet before the exile that would scatter Israel among the nations. Here David speaks as both suffering king and prophetic voice, his personal anguish becoming a template for all who would trust Yahweh through tribulation.",
+        "The opening cry—\"In You, O LORD, I put my trust\"—establishes the covenantal foundation upon which all prophetic hope rests. David's declaration that God is his \"rock\" and \"fortress\" echoes the wilderness generation's experience of the smitten rock that gave water, pointing forward to Christ, the Rock from whom living waters flow. When David prays \"Into Your hand I commit my spirit,\" he speaks words that would cross a millennium to rest upon the lips of the dying Messiah. Here typology reaches its apex: the anointed king of Israel, rejected by his own people, hunted unto death, entrusting his life to the Father—all this shadows the greater David who would hang upon a Roman cross and breathe these very words as He completed redemption's work.",
+        "The psalm's middle sections catalog afflictions that transcend David's personal experience. The consuming grief, the bones wasting away, the reproach among enemies, the terror on every side—these paint the portrait of One who would be despised and rejected, a man of sorrows acquainted with grief. When David speaks of being forgotten \"like a dead man out of mind,\" he prophetically anticipates the three days when Hope itself lay buried in a borrowed tomb.",
+        "Yet the psalm turns triumphantly toward covenant faithfulness. \"Blessed be the LORD, for He has shown me His marvelous kindness in a strong city\" points beyond Jerusalem's walls to that eternal city whose builder and maker is God. The closing exhortation to \"be of good courage\" addresses all who wait for the LORD—language that spans from David's generation through the exile's darkness, into the church age where believers still await the consummation.",
+        "For the church dwelling between resurrection and return, this psalm teaches that our sufferings find voice in David's words, meaning in Christ's cross, and resolution in the coming kingdom. Every whispered \"Into Your hands I commit my spirit\" joins an eternal chorus spanning from David's cave to Calvary's hill to the moment when faith becomes sight."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.209298+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "book": "Mark",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 6: The Cost and Compassion of Kingdom Work",
+      "overview": [
+        "Mark 6 opens a window into the demanding yet deeply compassionate reality of following Jesus and spreading His kingdom. Throughout this chapter, we encounter a Jesus who is simultaneously rejected and revered, finite in His physical reach yet infinite in His concern for the crowd.",
+        "The rejection Jesus experiences in His hometown strikes at something deeply human—the sting of familiarity breeding contempt. We see how proximity can blind us to truth. The people who knew Jesus as a carpenter cannot accommodate the possibility that the divine works through the ordinary. This passage invites us to examine where we resist seeing God at work, especially in the familiar places and people around us.",
+        "Yet contrast this with the disciples' mission. Jesus sends them out with radical simplicity and complete dependence on God's provision. They are given authority over evil spirits, told to travel light, and instructed to shake the dust off their feet if rejected. This isn't cruelty; it's spiritual protection and clarity. Some doors will close, and that's okay. Kingdom work requires both courage and the wisdom to know when to move forward.",
+        "The beheading of John the Baptist interrupts our narrative with sobering reminder: following Jesus and speaking truth can cost everything. Yet even in grief, when Jesus hears of John's death and the disciples report their successful mission, He seeks solitude to pray and grieve.",
+        "The chapter culminates with Jesus feeding the five thousand and walking on water—moments when His compassion overwhelms His exhaustion, when His power sustains both the hungry and the fearful. The repeated refrain is clear: Jesus sees His people, knows their need, and moves toward them with abundance.",
+        "This is the rhythm of discipleship: rejection and acceptance, sending and sustenance, sorrow and miracle. God's work in the world never depends solely on our success or acclaim, but on His faithful presence.",
+        "Where are you experiencing rejection that might actually be an invitation to move forward in faith? What would it look like to trust Jesus's provision more deeply this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 6: Scholarly study",
+      "overview": [
+        "Mark 6 presents a pivotal chapter in the Second Gospel's narrative architecture, marking a significant transition in Jesus's Galilean ministry while introducing themes of rejection, mission, and mounting opposition that will culminate in the passion narrative. The chapter divides into four major pericopes: Jesus's rejection at Nazareth (vv. 1–6a), the commissioning of the Twelve (vv. 6b–13), the intercalated account of John the Baptist's death (vv. 14–29), and the twin miracle narratives of the feeding of the five thousand and the walking on water (vv. 30–52), concluding with a summary of healings at Gennesaret (vv. 53–56).",
+        "The rejection at Nazareth introduces the crucial Markan theme of misunderstanding and unbelief. The townspeople's question regarding Jesus's *sophia* (σοφία, wisdom) and *dynameis* (δυνάμεις, mighty works) reveals their inability to reconcile his extraordinary powers with his ordinary origins. The designation \"son of Mary\" has generated considerable scholarly debate, as patronymic identification was standard in Jewish culture; some interpreters suggest this unusual matronymic reference carries pejorative implications regarding Jesus's legitimacy, while others view it as simply identifying Jesus through his surviving parent.",
+        "The mission discourse in verses 7–13 reflects early Christian missionary practice, with instructions regarding *exousia* (ἐξουσία, authority) over unclean spirits and the command to travel with minimal provisions emphasizing dependence on divine provision and local hospitality. The shaking off of dust (v. 11) constitutes a prophetic symbolic action signifying judgment.",
+        "The Herodian banquet scene forms a dark literary counterpoint to the feeding miracle that follows. Mark's detailed account of Herod Antipas, designated with the popular but technically inaccurate title *basileus* (βασιλεύς, king), serves multiple functions: it explains the Baptist's fate, foreshadows Jesus's own death, and illustrates the corruption of political power. The feeding narrative employs eucharistic language—taking, blessing, breaking, giving—that early Christian communities would immediately recognize as prefiguring the Lord's Supper.",
+        "The disciples' hardened hearts (v. 52) following the sea-walking theophany underscores Mark's persistent portrayal of apostolic incomprehension, a theme distinguishing this Gospel from its Synoptic parallels and emphasizing that true understanding comes only through the cross."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 6: Prophetic perspective",
+      "overview": [
+        "Mark chapter six unfolds during the middle years of Christ's public ministry, approximately AD 29–30, some thirty years into the incarnation and roughly three years before the crucifixion. This places us squarely in the era of the Kingdom's inauguration—that decisive moment in redemptive history when the long-awaited Messianic age breaks into the present, though not yet in its fullness. Standing between the promises made to Abraham and David and their ultimate consummation at the Second Coming, this chapter captures the tension of the \"already but not yet\" that defines the church age.",
+        "The rejection at Nazareth that opens this chapter carries profound typological weight. Just as Joseph was rejected by his brothers yet became their deliverer, just as David was despised before his enthronement, so the Greater Prophet, the True King, finds no honor among His own kin. This rejection foreshadows the nation's ultimate refusal of her Messiah, yet it also establishes a pattern the church would inherit: the servants are not above their Master, and proclamation of the Kingdom will always meet resistance in a world still groaning under the curse.",
+        "The sending of the Twelve echoes Moses commissioning Joshua and the seventy elders, yet transcends it. These apostles go forth with authority over unclean spirits, prefiguring the church's mission after Pentecost. Their dependence on divine provision—no bread, no bag, no money—typifies the faith by which God's people have always been called to live, from Israel in the wilderness to the New Testament church awaiting her Lord's return.",
+        "Herod's execution of John the Baptist reveals the violent opposition that greets the prophetic word. John stands in the line of Elijah, whose ministry also faced royal hatred, and his death anticipates the crucifixion itself. The kingdoms of this world consistently war against the Kingdom of God, yet their apparent victories are swallowed up in resurrection.",
+        "The feeding of the five thousand deliberately recalls the manna in the wilderness. Yet here is One greater than Moses—the Bread of Life Himself who multiplies provision from His own hands. This miracle points forward to the Messianic banquet and backward to Eden's abundance, revealing Jesus as the true source of all sustenance.",
+        "Christ walking on water and declaring \"I AM\" unveils His divine identity, the same Presence that parted the Red Sea. For the church today, navigating turbulent waters between the advents, this remains our anchor: the risen Lord still comes to His storm-tossed people, commanding peace until He brings us safely to the eternal shore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.518342+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "book": "Psalm",
+  "chapter": 123,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 123 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Psalms 123 · Scripture",
+      "url": "https://biblehub.com/bsb/psalms/123.htm"
+    },
+    {
+      "id": "correction-2",
+      "label": "Psalms 123:2 · Original-language text",
+      "url": "https://biblehub.com/text/psalms/123-2.htm"
+    },
+    {
+      "id": "correction-3",
+      "label": "Psalms 123:3 · Original-language text",
+      "url": "https://biblehub.com/text/psalms/123-3.htm"
+    },
+    {
+      "id": "correction-4",
+      "label": "Psalm 123 · Text and notes",
+      "url": "https://bible.usccb.org/bible/psalms/123"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 123: Eyes Lifted to Mercy",
+      "overview": [
+        "In this brief but penetrating psalm, the psalmist teaches us that worship begins with a posture of humble dependence—lifting our eyes toward heaven in honest admission that we cannot sustain ourselves. This is the spiritual heart that anchors every authentic prayer: we are servants looking to our Master, waiting for grace rather than demanding it.",
+        "The opening image is unforgettable: \"To you I lift up my eyes, to you who sit enthroned in the heavens.\" There is vulnerability in this gesture. The psalmist does not approach God with entitlement but with the posture of household servants watching their master's hands, or a maidservant watching her mistress's hands. Such servants are attentive, responsive, ready to obey. They do not speak until spoken to; they do not presume to know what will be given. They simply wait, with patient expectation, for mercy to come.",
+        "This waiting, however, is not passive resignation. It is active trust. By lifting our eyes upward, we consciously redirect our attention away from the contempt of the world, away from the mockery of those who oppose us, away from our own fears and self-pity. We position ourselves to receive what only God can give. The psalmist then names the specific burden: \"Have mercy on us, O Lord, have mercy on us, for we have endured no end of contempt.\"",
+        "This speaks to the actual pain of rejection and scorn that followers of Christ inevitably face. Whether from a secular culture, hostile relationships, or inner self-doubt, contempt can slowly erode our sense of worth. But the psalm reminds us that contempt from others cannot touch us when our eyes are fixed upward. Our status is not determined by human approval but by belonging to the God enthroned in heaven.",
+        "What would it look like today to lift your eyes in this way—to deliberately turn from the voices of contempt around you and focus instead on waiting for God's mercy?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 123: Scholarly study",
+      "overview": [
+        "Psalm 123 belongs to the collection known as the Songs of Ascents (Psalms 120–134), liturgical compositions likely sung by pilgrims ascending to Jerusalem for the great festivals or possibly by Levitical choirs on the temple steps. This brief psalm of four verses moves seamlessly from individual supplication to communal lament, reflecting the characteristic flexibility of Hebrew worship poetry. The historical setting remains debated, though the references to contempt and scorn from the proud suggest a period of national humiliation, perhaps during the post-exilic era when the restored community faced opposition from neighboring peoples.",
+        "The psalm opens with a striking image of the worshiper lifting eyes heavenward, employing the verb *nasa'* (נָשָׂא), which carries connotations of both physical and spiritual elevation. The phrase \"enthroned in the heavens\" (*hayyoshevi bashamayim*) establishes divine sovereignty as the theological foundation for the supplication that follows. This spatial imagery—the petitioner below, YHWH above—creates a posture of dependent humility that pervades the entire composition.",
+        "The central simile in verse two proves particularly evocative: servants watching their master's hand, a maidservant attending her mistress. The Hebrew form *'adoneihem* (\"their masters\") belongs to the comparison between servants looking to their masters and the community looking to YHWH. The hand (*yad*) in ancient Near Eastern context signified provision, protection, and directive authority. This extended comparison emphasizes patient, expectant waiting rather than passive resignation—the servants anticipate gracious action from one who holds power over their circumstances.",
+        "The twice-repeated cry for grace (*channenu*, from the root *chanan*) in verse three intensifies the plea's urgency. The psalm identifies the source of suffering as *buz* (contempt) and *la'ag* (scorn) from those characterized as *sha'anan* (at ease, complacent) and *ge'im* (proud). These terms suggest not merely political opposition but the theological affront of those who mock covenant faithfulness.",
+        "Within the Psalter's broader theology, Psalm 123 exemplifies the tension between present suffering and confident appeal to divine mercy. The psalm offers no resolution within its verses, ending instead with the community's cry still echoing—a deliberate rhetorical choice that invites ongoing trust in YHWH's ultimate response."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 123: Prophetic perspective",
+      "overview": [
+        "Psalm 123 belongs to the Songs of Ascents and speaks from a community enduring contempt. Its exact historical setting is not stated. A post-exilic setting, when the restored community faced opposition, is one possible context, but the prayer can be read without assigning it a precise century.",
+        "Within the wider biblical story, its upward gaze gives language to people who depend on God while facing hostility. If heard alongside the accounts of return from exile, it resonates with a community whose restoration remained incomplete and whose hope reached beyond its present circumstances.",
+        "The psalm's central image presents profound typological significance: servants fixing their eyes upon the hand of their master, a maidservant watching her mistress, waiting for the slightest gesture of provision or command. This posture of utter dependence and expectant watching shadows the disposition Christ Himself embodied perfectly—the Son who did nothing except what He saw the Father doing, whose food was to accomplish the will of the One who sent Him. Here is the pattern of true humanity restored: creature oriented entirely toward Creator, finding identity and sustenance in attentive obedience.",
+        "The cry \"Have mercy upon us, O LORD, have mercy upon us\" echoes forward through centuries until it becomes the prayer of blind Bartimaeus, the plea of ten lepers, the heart-cry of every soul awakened to its desperate need. The contempt and scorn mentioned by the psalmist—the derision of \"those who are at ease\" and the proud—foreshadows the reproach Christ bore and the opposition His body continues to face from a world comfortable in its rebellion.",
+        "For the church dwelling between the advents, this brief psalm offers both instruction and consolation. Believers are called to the same upward gaze, the same posture of dependent watching, the same persistent cry for mercy amid a culture increasingly contemptuous of covenant faithfulness. The psalm assures that the throne remains occupied, that the eyes lifted heavenward find a Master whose hand moves in steadfast love. The contempt of the proud is temporary; the mercy of the enthroned Lord is eternal. Until Christ returns to vindicate His waiting people, this remains the church's prayer and posture."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_123",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.478126+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-068",
+      "patch-069",
+      "patch-070",
+      "patch-071"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

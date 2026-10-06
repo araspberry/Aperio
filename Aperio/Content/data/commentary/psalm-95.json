@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 95,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 95 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 95: The Call to Worship and Obedience",
+      "overview": [
+        "At the heart of Psalm 95 lies an invitation to wholehearted worship combined with a sobering warning about spiritual hardness. The psalmist calls us to joyful celebration of God's greatness, then turns to caution us about the subtle dangers of resistance and doubt that can quietly settle in our hearts.",
+        "The psalm opens with exuberant commands: come, let us sing, let us shout for joy. This isn't polite, restrained religion. The psalmist invites us into genuine delight in who God is—our Rock, our Maker, our King over all things. There's an almost irresistible momentum in these opening verses, pulling us toward the throne room of heaven with abandon. We're invited to remember that we belong to the God who made the mountains, fashioned the sea, and holds everything together. When we truly grasp this, worship becomes not an obligation but an overflow.",
+        "Yet the tone shifts dramatically in verses 7 through 11. Here the psalmist references Israel's wilderness wandering, reminding us of Meribah and Massah—places where the people tested God despite witnessing His miracles. Though they had seen His works, they hardened their hearts and didn't trust His promises. It's a stark reminder that proximity to God's grace doesn't guarantee soft hearts; familiarity can sometimes breed indifference or doubt.",
+        "This juxtaposition speaks to our everyday experience. We can sing God's praises with genuine joy one moment, then grow rigid with worry or cynicism the next. The warning isn't harsh condemnation but loving counsel—a shepherd's voice calling us away from the cliff edge. God desires responsive, malleable hearts that trust Him even when circumstances confuse us.",
+        "The invitation stands: Come worship with all your being, remembering both God's faithful power and your own tendency toward stubborn unbelief. Ask yourself: Where have I been singing God's praise while harboring secret doubts? What would it look like to truly listen to His voice today, letting it soften rather than harden my heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 95: Scholarly study",
+      "overview": [
+        "Psalm 95 stands as a liturgical masterpiece that likely functioned within Israel's temple worship, calling the covenant community to joyful adoration followed by solemn warning. The psalm divides naturally into two distinct movements: verses 1–7a constitute an exuberant summons to worship Yahweh as Creator and Shepherd, while verses 7b–11 shift dramatically to prophetic admonition rooted in wilderness memory. This structural transition from praise to warning has led some scholars to classify the psalm as a prophetic liturgy, though its precise cultic setting remains debated.",
+        "The opening imperative employs the Hebrew term *ranan* (רָנַן), denoting a ringing cry of joy rather than subdued reverence, establishing the psalm's initial exuberant tone. The theological grounding for such worship appears in verses 3–5, where Yahweh is proclaimed as \"a great God and a great King above all gods,\" language reflecting ancient Near Eastern royal theology while simultaneously asserting Yahweh's incomparability. The cosmic scope of divine sovereignty encompasses the depths of the earth (*meḥqĕrê-āreṣ*) and mountain heights, sea and dry land—totality language affirming comprehensive creative authority.",
+        "Verse 7 presents the pivotal transition, employing shepherd imagery that resonates throughout Israel's theological vocabulary. The phrase \"people of his pasture\" (*ʿam marʿîtô*) evokes covenant intimacy while preparing for the pastoral failure recounted in the warning section. The crucial temporal marker \"today\" (*hayyôm*) introduces prophetic urgency, transforming historical retrospective into present moral demand.",
+        "The warning section recalls Meribah and Massah, sites of Israel's testing of Yahweh during wilderness wandering (Exodus 17; Numbers 20). The term *massâ* means \"testing\" while *mĕrîbâ* signifies \"quarreling,\" together epitomizing covenant unfaithfulness. Yahweh's oath that the rebellious generation would not enter \"my rest\" (*mĕnûḥātî*) originally referenced Canaan but acquired eschatological dimensions in later interpretation.",
+        "The New Testament appropriation in Hebrews 3–4 demonstrates the psalm's enduring canonical significance, where the author applies the \"today\" of verse 7 to the Christian community, understanding divine \"rest\" as both present spiritual reality and future consummation. This interpretive trajectory reveals how liturgical texts transcend their original settings to address successive generations of the faithful."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 95: Prophetic perspective",
+      "overview": [
+        "Psalm 95 emerges from the worship life of ancient Israel, likely composed during the monarchic period between 1000 and 500 BC, though its precise date remains uncertain. What is certain is its enduring prophetic weight, for the Spirit of God breathed into these verses a warning that would echo across a thousand years until the writer of Hebrews seized upon it as urgent counsel for the church. This psalm stands within the post-Sinai, pre-exile portion of redemptive history, when Israel dwelt in the land of promise yet remained perpetually vulnerable to the hardness of heart that had destroyed their ancestors in the wilderness.",
+        "The psalm opens with exuberant summons to worship—\"Come, let us sing to the LORD\"—grounding adoration in the theological reality that Yahweh reigns as the great King above all gods. Here is no tribal deity but the sovereign Creator who holds the depths of the earth and the mountain heights in His hands. This confession of divine kingship typologically anticipates the kingdom inaugurated by Christ, who is Himself the Rock of our salvation, the cornerstone rejected by builders yet chosen by God. When Israel sang of the LORD as shepherd and themselves as the sheep of His pasture, they unknowingly prophesied the Good Shepherd who would lay down His life for the flock.",
+        "Yet the psalm pivots dramatically at verse 7 with the solemn word \"Today\"—a hinge upon which eternal destinies swing. The Spirit transports worshippers back to Meribah and Massah, those wilderness sites where Israel tested God despite witnessing forty years of miraculous provision. God's response burns with grieved intensity: \"For forty years I was angry with that generation.\" The divine oath follows—\"They shall never enter My rest\"—sealing an entire generation outside the promised land.",
+        "The writer of Hebrews, under apostolic inspiration, reveals that this warning transcended its original context. The \"rest\" forfeited in the wilderness was but a shadow of the eternal sabbath rest secured through Christ's finished work. Canaan typified not merely geographical territory but the consummated kingdom, the new creation where God dwells with His people forever. The wilderness generation's exclusion prophetically warned that even those who witness God's mighty acts may perish through unbelief.",
+        "For the church living between Christ's advents, Psalm 95 thunders with present urgency. \"Today, if you hear His voice, do not harden your hearts.\" The prophetic \"today\" extends until the Day of the Lord, summoning each generation to respond in faith, pressing toward that final rest which remains for the people of God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_095",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.385909+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

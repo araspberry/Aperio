@@ -1,0 +1,56 @@
+{
+  "book": "2 Samuel",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 24: The Weight of Counting and the Grace of Confession",
+      "overview": [
+        "The Spirit of God moves David to do what his heart knew was wrong, and in that mysterious permission lies a profound lesson about pride, accountability, and God's patient discipline of His beloved. This chapter traces how quickly a leader's confidence can shift from trust to self-reliance, and how honest confession becomes the pathway to restoration.",
+        "David's decision to count Israel's fighting men reveals a subtle spiritual erosion. The numbering itself wasn't inherently sinful—kings needed military assessment—but David's motivation exposed a dangerous heart posture. He had begun trusting in the size of his army rather than the faithfulness of his God. Even Joab, his hardened commander, sensed something amiss and resisted. Yet David pressed forward, revealing how thoroughly his perspective had shifted from dependence on God's provision to confidence in human strength. The Lord permitted this desire to surface not as punishment, but as an act of love—allowing David to see his own drift before it deepened into something irreversible.",
+        "The consequences arrive swiftly: a plague that claims seventy thousand lives. But notice what happens next. Rather than defending himself or demanding explanations, David immediately confesses: \"I have sinned greatly.\" There is no excuse-making, no blaming circumstances or advisors. This is the mark of a truly humble heart—a leader willing to absorb the weight of his own failure and stand before God in transparent repentance.",
+        "What follows is even more remarkable. God offers David a choice of three punishments, and David chooses to fall into the hands of the Lord rather than into the hands of human judgment. His final act is one of profound generosity: purchasing the threshing floor of Araunah and offering sacrifices there. This very location would become the site of Solomon's temple, ensuring that David's moment of deepest failure would forever be connected to the place of greatest worship.",
+        "What area of your life have you begun trusting in your own strength rather than God's provision? How might confession open a door to unexpected blessing?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 24: Scholarly study",
+      "overview": [
+        "Second Samuel 24 presents one of the most theologically provocative narratives in the Deuteronomistic History, recounting David's census of Israel and the subsequent divine punishment through pestilence. The chapter functions as the conclusion to the so-called appendix of 2 Samuel (chapters 21–24), forming an inclusio with chapter 21 through their shared themes of national calamity and atonement. The account raises profound questions about divine sovereignty, human culpability, and the nature of righteous kingship in ancient Israel.",
+        "The opening verse immediately confronts interpreters with a textual and theological crux: the subject who incites David to number Israel. The Hebrew states that Yahweh's anger \"burned\" (*wayyiḥar*) against Israel, yet the parallel account in 1 Chronicles 21:1 attributes the incitement to \"Satan.\" This discrepancy has generated extensive scholarly discussion regarding the development of Israelite angelology and demonology, with many scholars suggesting Chronicles reflects later theological refinement that distances God from morally problematic agency. The verb *sūt* (\"to incite\" or \"to move against\") appears in contexts of provocation toward harmful action, intensifying the tension.",
+        "David's command to Joab to conduct a census (*sĕpōr*, \"to count/number\") raises questions about why enumeration constituted sin. Several interpretations prevail: the census represented military conscription without divine sanction, violated trust in Yahweh as Israel's true defender, or encroached upon divine prerogative since numbering the people belonged exclusively to God. Joab's surprising moral clarity in objecting underscores the transgression's severity.",
+        "The narrative's resolution centers on the threshing floor of Araunah the Jebusite, where David purchases the site for sacrifice. The term *gōren* (\"threshing floor\") carries cultic significance throughout the Hebrew Bible as liminal sacred space. David's insistence on paying full price—refusing sacrifice that \"costs nothing\"—articulates a principle of authentic worship requiring genuine sacrifice.",
+        "This location's identification with the future Temple Mount transforms a narrative of judgment into one of foundational promise. The chapter thus bridges Davidic failure with Solomonic fulfillment, demonstrating how divine wrath ultimately serves redemptive purposes within the broader canonical narrative of Israel's covenantal relationship with Yahweh."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 24: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds near the end of David's reign, approximately 970 years before the coming of Christ, as the united monarchy of Israel approaches its zenith under Solomon's impending succession. Within the grand arc of redemption, we stand in the Kingdom era—that period when God's rule over His people takes visible, institutional form through anointed kings who serve as shadows of the greater King to come. Yet even this golden age bears the marks of sin's corruption, and here at the close of David's story, we encounter a profound mystery that illuminates the entire sacrificial system pointing toward Calvary.",
+        "The Lord's anger burns against Israel, and David is incited to number the people—a census revealing the king's heart drifting toward trust in military might rather than covenant faithfulness. Whether Satan or the Lord's permissive will stands behind this incitement, Scripture holds both truths together as it does in Job's trial, revealing that even evil intentions serve the sovereign purposes of God. David's conscience smites him, yet the prophetic word through Gad offers only a choice between judgments, not escape from them. The pestilence that follows claims seventy thousand lives in three days—a sobering reminder that the wages of sin is death, and that one man's transgression brings corporate consequence, foreshadowing how one Man's righteousness would bring corporate blessing.",
+        "The climax unfolds at the threshing floor of Araunah the Jebusite, where David beholds the destroying angel with sword drawn over Jerusalem. Here typology blazes forth with unmistakable clarity. This very location—Mount Moriah—is where Abraham raised the knife over Isaac before God provided a ram. This same threshing floor will become the site of Solomon's temple, where countless sacrifices will be offered. And ultimately, just outside these walls, the true and final sacrifice will be made when God's own Son bears the sword of divine justice that we deserved.",
+        "David's declaration rings through the ages: \"I will not offer burnt offerings to the LORD my God that cost me nothing.\" True worship requires costly sacrifice. The altar erected here, the oxen slain, the plague stayed—all these point forward to the One whose costly offering would stay divine wrath forever.",
+        "The church now lives in that purchased peace, yet we await the day when the heavenly Jerusalem descends, and no destroying angel will ever threaten God's people again. Until then, we worship at an altar where the costliest sacrifice has already been made."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.529466+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

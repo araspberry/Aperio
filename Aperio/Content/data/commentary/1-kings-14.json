@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 14: The Cost of Divided Hearts",
+      "overview": [
+        "The heart of this passage reveals how a kingdom divided against itself cannot stand—and how the consequences of spiritual compromise ripple through generations, touching not only a king's own soul but his entire household and legacy.",
+        "Jeroboam's story is one of tragic irony. Though God had chosen him to lead the northern kingdom and promised him a dynasty if he would walk faithfully, he surrendered to fear. Anxious that his people might return to Jerusalem and abandon him, he constructed golden calves and established alternative worship centers. The very thing he feared—losing his kingdom—he set in motion through his disobedience. His son Abijah becomes fatally ill, and Jeroboam sends his wife to seek word from the prophet Ahijah, hoping against hope for mercy. But the prophet's words are devastating: the boy will die, and because Jeroboam has \"done more evil than all who were before you,\" his line will be cut off entirely. The kingdom he grasped at through human scheming will be ripped from his hands through divine judgment.",
+        "What strikes us most painfully is how Jeroboam's spiritual choices became his son's death sentence. The child dies and is buried, but not before being described as the only one in Jeroboam's household \"in whom there is found something pleasing to the Lord.\" His brief mention suggests a flicker of faithfulness amid widespread corruption—a poignant reminder that our compromises affect those we love most deeply.",
+        "Yet Jeroboam's story also whispers a merciful warning to us: our divided hearts, our strategic compromises, our fears that drive us to take matters into our own hands—these exact us a price we cannot afford. Real security comes not from protecting ourselves through cleverness but from wholehearted trust in God's promises.",
+        "Where in your life are you trying to secure something through your own maneuvering rather than trusting God's guidance? What might He be inviting you to surrender?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 14: Scholarly study",
+      "overview": [
+        "The fourteenth chapter of 1 Kings presents a pivotal narrative in the Deuteronomistic historian's account of the divided monarchy, documenting the decline of Jeroboam I's dynasty and providing a brief notice of Rehoboam's reign in Judah. Composed within the broader theological framework that evaluates Israel's kings according to their fidelity to Yahwistic worship, this chapter exemplifies the interpretive lens through which the Deuteronomistic editors assessed monarchic failure. The text likely incorporates earlier prophetic traditions, particularly the Ahijah narrative, which the compiler has shaped to demonstrate the consequences of cultic apostasy.",
+        "The chapter opens with Jeroboam dispatching his wife in disguise to consult the prophet Ahijah at Shiloh concerning their ailing son Abijah. The Hebrew term *ḥālâ* (חָלָה, \"to be sick\") appears with theological significance, as illness in Deuteronomistic theology frequently signals divine displeasure. Ahijah, though physically blind, receives divine revelation exposing the queen's identity, demonstrating that prophetic insight transcends natural perception. The oracle delivered through Ahijah employs the characteristic messenger formula and constitutes one of the most comprehensive judgment speeches against a northern king. The prophet's language describing Jeroboam's sins uses the vivid expression that he has done evil \"more than all who were before you\" (*mikkōl ʾăšer-hāyûləp̄ānêkā*), establishing a pattern of escalating condemnation that recurs throughout Kings.",
+        "The announcement that dogs will consume Jeroboam's descendants who die in the city while birds devour those dying in the field represents conventional ancient Near Eastern curse language denoting the ultimate disgrace of improper burial. The death of the child Abijah upon his mother's crossing the threshold (*mip̄tān*) carries symbolic weight, as thresholds held liminal significance in Israelite thought. Notably, this child alone receives proper burial because \"something good toward Yahweh\" was found in him—a rare glimmer of divine favor within the condemned household.",
+        "The chapter's latter portion shifts to Judah, where Rehoboam's reign is summarized with attention to cultic corruption, including high places, pillars, and *ʾăšērîm* (sacred poles). The Egyptian campaign by Shishak (Shoshenq I), corroborated by extrabiblical evidence including the Bubastite Portal at Karnak, grounds this theological narrative in verifiable historical events."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 14: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 930 years before the incarnation of Christ, shortly after the united kingdom of Israel fractured into two rival nations following Solomon's death. We stand at the threshold of a dark era—the period of the divided monarchy—when the northern kingdom under Jeroboam has already plunged into systematic idolatry, establishing golden calves at Bethel and Dan to prevent his subjects from returning to Jerusalem's temple. Within God's redemptive timeline, we have passed through Creation, Fall, the Abrahamic covenant, Exodus deliverance, and the Davidic kingdom's brief golden age; now we witness the tragic unraveling that will ultimately lead both kingdoms into exile.",
+        "The chapter opens with devastating irony: Jeroboam, who instituted false worship throughout Israel, sends his wife in disguise to Ahijah the prophet seeking a word about their sick son. Yet the God who sees through all pretense reveals her approach to the blind prophet before she arrives. Here we glimpse a profound typological pattern—the false king who leads God's people into apostasy stands as the anti-type of the true King who would come from David's line. Where Jeroboam established counterfeit worship for political convenience, Christ would establish true worship in spirit and truth. Where Jeroboam's dynasty receives the sentence of utter destruction, David's throne receives the promise of eternal continuation.",
+        "Ahijah's prophecy carries immense eschatological weight. He announces that God will raise up a king who will cut off Jeroboam's house—fulfilled two generations later when Baasha executed this judgment. More significantly, Ahijah prophesies Israel's eventual scattering \"beyond the Euphrates,\" a word that would await fulfillment for two centuries until Assyria's conquest. This pattern of prophetic word followed by historical fulfillment establishes the trustworthiness of all divine promises, including those concerning Messiah and the age to come.",
+        "The chapter's contrast between Jeroboam's condemned house and Rehoboam's diminished but continuing Davidic line preserves the thread of messianic hope. Though Rehoboam likewise embraced idolatry and suffered Egyptian invasion, the lamp in Jerusalem remained lit.",
+        "For the church dwelling between Christ's advents, this chapter thunders with warning and comfort alike. Apostasy brings certain judgment; no disguise conceals us from the All-Seeing One. Yet through every failure of earthly kings, God preserved the lineage through which the true and final King would come—He who will never lead His people astray but brings them at last into the true promised land."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.568486+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

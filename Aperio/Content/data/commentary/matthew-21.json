@@ -1,0 +1,57 @@
+{
+  "book": "Matthew",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 21: The King's Arrival and the Cost of True Worship",
+      "overview": [
+        "Matthew 21 presents the stunning paradox of Jesus's kingship—He enters Jerusalem as the prophesied Messiah yet is met with rejection, anger, and ultimately conspiracy toward His death. This chapter reveals that following Jesus demands honest reckoning with our own resistance to His authority and authentic transformation of our hearts.",
+        "The passage opens with Jesus's triumphal entry, where crowds wave palms and cry \"Hosanna\" while remaining blind to who He truly is. They want a political liberator, but He comes as the world's rightful King bearing a cross. This should humble us. How often do we welcome Jesus on our own terms while resisting His actual lordship over our finances, relationships, or ambitions? The cheering crowds of Sunday can become the silent crowds of Monday when discipleship costs us something real.",
+        "What strikes most forcefully is Jesus's cleansing of the temple. His anger isn't arbitrary; it burns against the desecration of His Father's house into a marketplace of convenience. He then performs miracles for the blind and lame—those society had discounted—demonstrating that His kingdom inverts human categories. The sick, the outcast, the humble receive His healing touch while the powerful religious leaders plot against Him.",
+        "The parables Jesus teaches here—the two sons, the wicked tenants—expose the human heart's tragic tendency toward self-deception. We can appear obedient while harboring rebellion. We can claim God's kingdom while rejecting God's Son.",
+        "Yet Matthew includes this account not to condemn but to awaken. Every reader faces the same choice as those crowds and leaders: Will we welcome Jesus as He actually is, or construct a version we prefer? True worship requires surrendering our agendas to His kingdom. It means becoming like the children and tax collectors Jesus praised—humble enough to receive Him as He comes.",
+        "What part of your life are you still trying to negotiate with Jesus rather than surrender to His actual kingship?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 21: Scholarly study",
+      "overview": [
+        "Matthew 21 represents a pivotal transition in the First Gospel's narrative structure, marking Jesus' entry into Jerusalem and the commencement of his final week before crucifixion. This chapter initiates what scholars often term the \"Jerusalem ministry,\" a concentrated period of escalating conflict between Jesus and the religious establishment. Writing primarily for a Jewish-Christian audience, Matthew carefully arranges these episodes to demonstrate Jesus' messianic credentials while simultaneously explaining why Israel's leaders rejected their promised king.",
+        "The chapter opens with the triumphal entry, where Matthew's unique inclusion of both a donkey and a colt reflects his characteristic attention to fulfillment quotations, here citing Zechariah 9:9. The crowd's acclamation \"Hosanna\" (*hōsanna*), a transliteration of the Hebrew *hoshi'a na* meaning \"save, please,\" carried profound messianic implications drawn from Psalm 118, a text associated with Sukkot celebrations and eschatological expectation. The designation \"Son of David\" (*huios Dauid*) appears throughout Matthew as a distinctly messianic title, connecting Jesus to covenant promises regarding Davidic kingship.",
+        "The temple cleansing that follows employs the term *hieran* (temple precincts) rather than *naos* (sanctuary proper), indicating Jesus' actions occurred in the Court of the Gentiles. Jesus' conflation of Isaiah 56:7 and Jeremiah 7:11 transforms the prophetic critique into an indictment of commercialized religion that excluded marginalized worshipers. Matthew's placement of the fig tree cursing after the temple incident, unlike Mark's intercalation, creates a more straightforward symbolic judgment against unfruitful Israel.",
+        "The subsequent controversy narratives—concerning Jesus' authority, the parable of two sons, and the wicked tenants—escalate tension through increasingly pointed challenges to religious leadership. The term *exousia* (authority) becomes central, as Jesus refuses direct answer while implicitly claiming divine authorization. The vineyard parable, drawing on Isaiah 5's imagery, culminates in the transferred inheritance theme: the kingdom given to a nation producing its fruits (*karpos*), a term carrying ethical implications throughout Matthew.",
+        "Interpreters debate whether Matthew's harsh portrayal of Jewish leaders reflects intra-Jewish polemic or later Gentile anti-Judaism. The chapter's theological architecture, however, emphasizes not ethnic supersession but accountability—fruitfulness remains the criterion for covenant participation, a warning extending to Matthew's own community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 21: Prophetic perspective",
+      "overview": [
+        "Matthew 21 unfolds during the final week of Jesus' earthly ministry, approximately AD 30, as He enters Jerusalem for the Passover feast that will culminate in His crucifixion. This chapter marks the dramatic turning point where the long-awaited Messiah publicly presents Himself to Israel, deliberately triggering the confrontation that will lead to the cross. Within redemptive history, we stand at the hinge moment between promise and fulfillment—the offspring of Abraham, the Son of David, the prophet greater than Moses now arrives at the holy city to accomplish what all previous covenants anticipated.",
+        "The triumphal entry thunders with prophetic weight. Jesus orchestrates His arrival to fulfill Zechariah 9:9, written five centuries earlier, presenting Himself as the humble King riding on a donkey. The crowds unwittingly echo Psalm 118, crying \"Hosanna to the Son of David\"—the very psalm that speaks of the rejected stone becoming the cornerstone. Here is David's greater Son entering David's city, yet this King comes not to establish an earthly throne but to be lifted up on a Roman cross. The palm branches and cloaks strewn before Him mirror the royal coronations of old, yet His true coronation will involve thorns, mockery, and a wooden throne of execution.",
+        "The cleansing of the temple carries staggering typological significance. Jesus identifies the temple as \"My house,\" asserting divine authority over the very dwelling place of God among His people. He quotes Isaiah 56 and Jeremiah 7, invoking the prophetic tradition that warned Israel of judgment for corrupt worship. The fig tree cursed the following morning becomes a prophetic sign of Israel's spiritual barrenness—leaves of religious observance but no fruit of genuine faith. Within a generation, in AD 70, this temple would lie in ruins, the old covenant administration giving way to the true Temple, Christ Himself, and His body the church.",
+        "The parables that follow—the two sons, the wicked tenants—pronounce covenant judgment while announcing covenant expansion. The vineyard will be given to a nation producing its fruits. Here Jesus prophesies the ingathering of Gentiles into God's kingdom and the temporary hardening of Israel, mysteries Paul would later expound.",
+        "For the church awaiting Christ's return, Matthew 21 demands self-examination. The King who came in humility will return in glory. The question posed to Israel echoes across the ages: will we receive Him with genuine fruit-bearing faith, or merely the withered leaves of empty religion? The stone the builders rejected has indeed become the cornerstone—and upon our response to Him rests our eternal destiny."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.484946+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

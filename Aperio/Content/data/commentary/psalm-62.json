@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 62,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 62 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 62: Finding Rest in God Alone",
+      "overview": [
+        "The deepest peace available to the human soul comes not from solving our problems, but from resting in the sufficiency of God himself. Psalm 62 is a meditation on this liberating truth, written when the psalmist's enemies circle and circumstances press hard, yet his spirit remains settled in an unmovable confidence.",
+        "Notice how the passage opens: \"Truly my soul finds rest in God; my salvation comes from him.\" Not \"my salvation might come\" or \"someday my salvation will come,\" but a declaration of present possession. This is faith speaking not from solved circumstances but from established relationship. The psalmist knows who God is, and that knowing is enough. Even as adversaries plot and doubters whisper, \"How long will you assault him?\" the believer's anchor holds. He will not be shaken because his foundation rests not on external stability but on the Rock himself.",
+        "What makes this psalm so pastoral is its honest acknowledgment of struggle alongside unwavering trust. The psalmist does not deny that enemies exist or that danger is real. He simply refuses to let circumstances dictate his inner peace. This models something many of us desperately need: the spiritual maturity to say, \"Yes, this is hard, and my God is enough.\"",
+        "The repetition in verse 5—\"Find rest, O my soul, in God alone; my hope comes from him\"—suggests this truth needs repeating. We forget it. We drift toward trusting our own strength, our circumstances, or other people. The psalmist is essentially preaching to himself, reminding his own weary heart where safety truly lives.",
+        "In our fractured age, when we desperately seek rest through productivity, relationships, or achievement, this psalm invites us to a counterintuitive rest. A rest that is not earned but received, not dependent on circumstances changing but on our hearts quieting before the unchanging God.",
+        "What would it mean for you this week to preach this truth to your own soul when anxiety rises?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 62: Scholarly study",
+      "overview": [
+        "The sixty-second psalm stands as one of the most profound expressions of quiet trust in the Hebrew Psalter, attributed to David and designated for Jeduthun, one of the chief Levitical musicians during the united monarchy. This superscription connects the psalm to established temple worship while the content itself reveals an intensely personal meditation on divine sufficiency amid human opposition. The historical occasion remains unspecified, though the references to enemies seeking to topple the psalmist from his \"high position\" suggest a period of political vulnerability, perhaps during Absalom's rebellion or Saul's persecution.",
+        "The psalm opens with a striking declaration employing the Hebrew particle *'ak* (אַךְ), meaning \"only\" or \"surely,\" which appears six times throughout the composition, creating a rhetorical structure emphasizing exclusivity of trust. The term *dumiyyah* (דּוּמִיָּה), rendered variously as \"silence,\" \"rest,\" or \"waiting,\" describes not passive resignation but active, expectant quietude before God. This concept finds its theological grounding in the ancient Near Eastern understanding of the suppliant positioning themselves in reverent stillness before the divine sovereign.",
+        "Central to the psalm's theology is the metaphorical cluster in verses 2 and 6, where God is described as \"rock\" (*tsur*), \"salvation\" (*yeshu'ah*), and \"fortress\" (*misgab*). These images, drawn from Judean topography and military architecture, collectively portray Yahweh as an unassailable refuge. The repetition of this cluster with slight variation—\"I will not be greatly shaken\" becoming \"I will not be shaken\"—demonstrates the psalmist's movement toward deeper confidence through meditation.",
+        "The wisdom instruction in verses 9–10 introduces a broader audience, warning against trust in human schemes, whether through oppression or wealth. The term *hebel* (הֶבֶל), meaning \"breath\" or \"vapor,\" echoes Ecclesiastes' assessment of human endeavor and establishes humanity's fundamental insubstantiality against divine permanence. The concluding affirmation that power and covenant loyalty (*chesed*) belong to God resolves the tension between human frailty and divine reliability, presenting the theological foundation for the preceding exhortations to exclusive trust in Israel's God."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 62: Prophetic perspective",
+      "overview": [
+        "This psalm flows from the pen of David, likely composed during the tumultuous period of Absalom's rebellion, approximately one thousand years before the incarnation of Christ. It emerges from that era of Israel's united monarchy when God was establishing the Davidic covenant—that pivotal promise positioning David's throne as the eternal seat from which Messiah would reign. Within redemptive history, this psalm stands in the kingdom phase, after Exodus deliverance and before exile, yet it prophetically reaches forward to truths that would find their fullest expression only in Christ.",
+        "David's declaration \"my soul waits in silence for God alone\" carries typological weight far exceeding his personal circumstances. Here stands the anointed king, hunted and betrayed, yet anchoring himself not in military strength or political maneuvering but in the God who alone is rock, salvation, and fortress. This posture of radical dependence prefigures the greater David who would demonstrate perfect trust in Gethsemane, waiting in submission before the Father even as enemies conspired. Where David's trust preserved his earthly throne, Christ's surrender secured an eternal kingdom.",
+        "The psalm's central imagery—God as rock and fortress—threads through Scripture's prophetic tapestry. Moses struck the rock in the wilderness; Isaiah proclaimed the stone of stumbling; Daniel beheld the stone cut without hands that would crush earthly kingdoms. David grasped what apostolic revelation later confirmed: this Rock is Christ himself, the foundation upon which all true security rests. Every lesser refuge crumbles; only the Rock of Ages stands immovable.",
+        "The eschatological dimensions emerge strikingly in verses 9-12, where David unveils the ultimate instability of human power. Those of low and high estate alike prove lighter than breath when weighed in divine scales. This prophetic insight awaits final vindication at the judgment seat, when every pretension of human autonomy dissolves before sovereign majesty. The declaration that power belongs to God alone, coupled with steadfast love, points toward Calvary's hill where omnipotent power and covenant love converged in redemptive sacrifice.",
+        "For the church dwelling between advents, this psalm offers essential instruction. Believers inhabit a world still ruled by those who assault and batter, who bless with mouths while cursing inwardly. Yet the waiting posture David modeled—soul silenced before God, expectation fixed on Him alone—remains the church's proper stance. We wait not passively but prophetically, knowing the Rock who sheltered David has become our cornerstone, and the salvation he anticipated has been accomplished and will be consummated when every knee bows before the returning King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_062",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.292196+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

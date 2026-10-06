@@ -1,0 +1,141 @@
+{
+  "book": "Hebrews",
+  "bookIndex": 57,
+  "status": "Editorial draft",
+  "title": "Hebrews: Draw Near and Keep Going",
+  "subtitle": "Jesus’ faithful priesthood gives a weary community confidence to approach God and endure together.",
+  "atAGlance": {
+    "genre": "Sermon or “word of exhortation” with a letter-like conclusion",
+    "setting": "An established Christian community experiencing weariness, pressure, and the danger of drifting from its confession.",
+    "composition": "Anonymous. Often dated between approximately AD 60 and 90; neither author nor destination is securely known.",
+    "audience": "Believers familiar with Israel’s Scriptures and worship traditions who need renewed endurance."
+  },
+  "sections": [
+    {
+      "title": "A word for people who are growing tired",
+      "paragraphs": [
+        "Hebrews begins with God speaking through the Son. The opening sentences move through creation, revelation, purification, and exaltation with remarkable scope. Yet the work’s purpose is close to ordinary experience: a community needs courage to continue. Its members have endured loss and public pressure, and some are in danger of drifting away.",
+        "The author repeatedly joins an account of Jesus to a call for response. Consider Him, hold fast, draw near, encourage one another, and keep running. These appeals give the theological argument its pastoral direction. Hebrews wants confidence to become possible again. The basis is Jesus’ identity and faithful work, through which access to God is opened and the community’s future is secured in hope."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "An anonymous voice with a distinctive method",
+      "paragraphs": [
+        "The book never names its author. Association with Paul in parts of Christian tradition does not establish Pauline authorship, and modern scholarship generally recognizes the identity as unknown. Suggestions involving other early Christian figures remain proposals. The mention of Timothy near the close places the work within an early Christian network without resolving who wrote it.",
+        "A date somewhere around AD 60–90 is often proposed, but the evidence does not yield an exact year. The traditional title “Hebrews” also cannot by itself establish that every recipient was ethnically Jewish. What the work clearly assumes is deep familiarity with Israel’s Scriptures, often in their Greek form. It reasons through quoted passages, repeated words, and patterns of worship to explain what Jesus has accomplished."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The Son who shares human weakness",
+      "paragraphs": [
+        "Hebrews describes the Son’s exalted status while insisting on His full participation in human experience. He shares flesh and blood, faces suffering and temptation, and is able to help those who are tested. His solidarity gives the invitation to approach God a personal foundation. The high priest is merciful and understands the weakness of those He represents.",
+        "The wilderness generation provides a warning about hearing God without persevering in trust. The promise of rest remains, and the community is urged to respond while the opportunity is called “today.” This language makes Scripture a present address. The historical episodes are not merely illustrations from a distant past; they become a summons to listen, encourage one another, and resist the gradual hardening that can accompany weariness."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Priesthood, covenant, and a completed offering",
+      "paragraphs": [
+        "The central argument presents Jesus as high priest in relation to Melchizedek, drawing especially on Genesis and Psalm 110. The author then explores sanctuary, covenant, sacrifice, and access to God. Jeremiah’s promise of a new covenant contributes to the explanation of a relationship marked by forgiveness and God’s instruction within the heart.",
+        "The repeated contrast between earlier sacrifices and Christ’s offering concerns the adequacy of His work. His self-giving does not need endless repetition. “Perfection” in this argument often concerns completion and effective access to God, rather than a modern ideal of faultless personal performance. Because the work depends so deeply on Israel’s Scriptures, its contrasts should be interpreted within that reasoning. They must not be turned into contempt for Jewish people or a denial of the richness of Jewish worship and faith."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Endurance learned in community",
+      "paragraphs": [
+        "Chapter 11 recounts lives marked by faith, including remarkable deliverance and severe suffering. Its witnesses do not all receive easy outcomes. Their trust reaches beyond what they can see, and their stories prepare the image of a race in chapter 12. Jesus is the decisive focus, the One whose endurance enables the community to keep going.",
+        "The warning passages are serious, but they belong beside sustained assurances of God’s faithfulness and the command to encourage one another. The closing chapter turns to hospitality, prisoners, marriage, contentment, leaders, worship, and sharing. These ordinary practices show what perseverance looks like in a congregation.",
+        "Read Hebrews in larger movements so that exposition and exhortation remain connected. Its images can feel unfamiliar, especially the detailed treatment of priesthood, but their purpose is remarkably direct: people may approach God with confidence through Jesus. That confidence should make them steadfast, generous, and attentive to those beside them. The journey is shared, and the community’s encouragement is one of the means by which weary people are helped to continue."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "God speaks through the Son",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The Son’s glory and His solidarity with humanity."
+    },
+    {
+      "label": "A call to trust and draw near",
+      "startChapter": 3,
+      "endChapter": 6,
+      "description": "Wilderness warning, promised rest, priesthood, and hope."
+    },
+    {
+      "label": "The effective priesthood of Christ",
+      "startChapter": 7,
+      "endChapter": 10,
+      "description": "Melchizedek, covenant, sanctuary, sacrifice, and confident access."
+    },
+    {
+      "label": "Faith and endurance",
+      "startChapter": 11,
+      "endChapter": 12,
+      "description": "The witnesses of faith and the race centered on Jesus."
+    },
+    {
+      "label": "The life of a persevering community",
+      "startChapter": 13,
+      "endChapter": 13,
+      "description": "Hospitality, faithfulness, generosity, leaders, and blessing."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Confident access",
+      "description": "Jesus’ priesthood opens the way to approach God."
+    },
+    {
+      "name": "Endurance together",
+      "description": "Faith is sustained through attention to Jesus and mutual encouragement."
+    },
+    {
+      "name": "Promise and fulfillment",
+      "description": "Israel’s Scriptures provide the language of the argument."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century Christian communities; often dated AD 60–90",
+    "context": "Hebrews addresses an early Christian audience. Its accounts of patriarchs, exodus, priesthood, and heavenly worship are theological reference points, not a chronological narrative.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 13,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century Christian communities; often dated AD 60–90",
+      "note": "Hebrews addresses an early Christian audience. Its accounts of patriarchs, exodus, priesthood, and heavenly worship are theological reference points, not a chronological narrative."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Hebrews · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Hebrews · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/hebrews/lessons/summary-of-hebrews/"
+    }
+  ]
+}

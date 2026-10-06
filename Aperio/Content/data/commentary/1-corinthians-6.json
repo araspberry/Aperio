@@ -1,0 +1,63 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 6 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "1 Corinthians 6 · Scripture",
+      "url": "https://biblehub.com/bsb/1_corinthians/6.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 6: Your Body as God's Temple",
+      "overview": [
+        "The spiritual heart of 1 Corinthians 6 is the radical truth that our physical bodies matter to God—they are not temporary vessels to be discarded, but temples of the Holy Spirit with eternal significance. Paul addresses the Corinthian church's troubling habit of filing lawsuits against one another and engaging in sexual immorality, calling them to remember whose they are and what they've been purchased for.",
+        "Paul's opening rebuke about believers judging one another before unbelievers carries stunning weight. The Corinthians were taking internal disputes to pagan courts, compromising their witness and forgetting that God's people will one day judge angels. Rather than demanding their rights, believers are called to absorb injustice and loss for the sake of the gospel. This flies against every cultural instinct toward self-protection, yet it reflects the posture of Christ himself—willing to be wronged rather than to defend himself.",
+        "The passage then turns to sexual ethics with urgent language. \"Flee from sexual immorality,\" Paul commands—not debate it, analyze it, or accommodate it, but flee. He grounds this not in Victorian prudishness but in profound theology: when we join our bodies to another person sexually, we unite with them in a way that belongs exclusively to marriage. Our bodies are not private property for personal gratification; they are bought with Christ's blood and indwelt by the Holy Spirit.",
+        "This strikes at the heart of our modern fragmentation—the lie that what we do with our bodies doesn't matter spiritually, that sexuality is purely personal and private. Paul insists otherwise. Every choice we make with our bodies either honors or dishonors the God who dwells within us. The question becomes less \"What can I get away with?\" and more \"How do I steward this body as a sacred trust?\"",
+        "Where might God be inviting you to realign your physical choices—whether in conflict resolution, sexual integrity, or daily care of your body—with the reality that you belong completely to him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 6: Scholarly study",
+      "overview": [
+        "The sixth chapter of Paul's first epistle to the Corinthians addresses two interconnected problems plaguing the nascent Christian community in this cosmopolitan Roman colony: litigation among believers in pagan courts and sexual immorality, particularly engagement with prostitutes. Writing around 53–55 CE, Paul responds to reports reaching him in Ephesus about behavioral patterns that fundamentally contradict the community's identity as those sanctified in Christ. Corinth's reputation as a center of commerce, religious diversity, and moral permissiveness provides essential background for understanding why these particular issues required such vigorous apostolic correction.",
+        "The chapter opens with Paul's astonishment that believers would bring disputes before \"the unrighteous\" (ἄδικοι, *adikoi*) rather than \"the saints\" (ἅγιοι, *hagioi*). This terminology establishes a sharp boundary between the eschatological community and the surrounding pagan world. Paul's rhetorical question about saints judging the world and angels draws upon Jewish apocalyptic traditions found in Daniel 7 and texts like the Wisdom of Solomon, adapting them for his argument that the community possesses sufficient wisdom to adjudicate internal matters. The repeated phrase \"do you not know\" (οὐκ οἴδατε, *ouk oidate*), appearing six times in this chapter, suggests Paul is reminding the Corinthians of foundational catechetical teaching they have apparently forgotten or neglected.",
+        "The transition at verse 12 introduces what may be a Corinthian slogan—\"all things are lawful for me\" (πάντα μοι ἔξεστιν, *panta moi exestin*)—which Paul quotes only to qualify severely. Scholarly debate continues regarding where quotation ends and Pauline response begins, affecting translation and interpretation significantly. Paul's response centers on the body (σῶμα, *sōma*), arguing against any dualistic dismissal of bodily behavior as spiritually irrelevant. The body, he insists, is destined for resurrection, belongs to the Lord, and constitutes a temple of the Holy Spirit.",
+        "The vice list in verses 9–10 has generated considerable interpretive controversy, particularly regarding the terms μαλακοί (*malakoi*) and ἀρσενοκοῖται (*arsenokoitai*), whose precise referents remain contested among scholars. The chapter concludes with the powerful declaration that believers have been \"bought with a price\" (ἠγοράσθητε τιμῆς, *ēgorasthēte timēs*), employing marketplace imagery to underscore that Christian bodies belong to God and are to honor Him."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 6: Prophetic perspective",
+      "overview": [
+        "First Corinthians chapter six emerges from the pen of the apostle Paul around AD 55, approximately twenty-two years after the resurrection and ascension of Christ, during the early expansion of the church throughout the Roman Empire. This letter addresses a congregation planted in a notoriously immoral Greek city, believers who had come to faith through Paul's ministry recorded in Acts 18. We stand here in the early church age, that mysterious epoch between Pentecost and the Parousia, when the Spirit has been poured out and the kingdom has been inaugurated but not yet consummated.",
+        "Paul confronts two grievous failures among the Corinthians: their practice of suing one another before pagan courts and their tolerance of sexual immorality. Both failures reveal a congregation that has not yet grasped the staggering implications of their union with Christ. In addressing the first matter, Paul unveils an astonishing eschatological truth—the saints will judge the world and even angels. This prophecy remains unfulfilled, pointing forward to the final judgment when the redeemed, joined to the righteous Judge, will participate in the vindication of God's holiness. The humiliating disputes over trivial matters become absurd in light of this coming exaltation.",
+        "The typological richness deepens when Paul declares these believers washed, sanctified, and justified. Here echoes the entire Old Testament sacrificial system—the laver of cleansing, the setting apart of the priesthood, the declaration of righteousness that Israel sought through the law. What the blood of bulls and goats could never accomplish, what the waters of ritual purification could only shadow, has been realized through the Spirit's application of Christ's finished work.",
+        "Paul's climactic declaration—\"your body is a temple of the Holy Spirit\"—consummates a typological trajectory running from Eden through tabernacle and temple. God's dwelling place has moved from garden to tent to stone edifice, but these were always shadows of His ultimate intention: to inhabit His people. The incarnation of Christ was the true temple; now that temple reality extends to every believer. Sexual immorality becomes not merely moral failure but temple desecration, a grotesque joining of Christ's members to corruption.",
+        "The church between the advents lives as a purchased people, bought with the precious blood of the Lamb. We are not our own. This ownership, sealed at Calvary, will be fully manifested when these mortal bodies are raised imperishable. Until that day, we glorify God in bodies destined for resurrection, temples awaiting their final glorification."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.78929+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-044"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

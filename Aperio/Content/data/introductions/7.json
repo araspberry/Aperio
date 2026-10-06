@@ -1,0 +1,134 @@
+{
+  "book": "Ruth",
+  "bookIndex": 7,
+  "status": "Editorial draft",
+  "title": "A Future Found in Faithful Kindness",
+  "subtitle": "Ruth and Naomi move through bereavement toward belonging",
+  "atAGlance": {
+    "genre": "Short narrative shaped by dialogue, household decisions, and a concluding genealogy",
+    "setting": "Bethlehem and Moab during the period of the judges",
+    "composition": "Anonymous; proposed dates range from the monarchy to the period after exile",
+    "audience": "Israel reflecting on kinship, loyalty, foreignness, and the ancestry of David"
+  },
+  "sections": [
+    {
+      "title": "Begin with Naomi’s loss",
+      "paragraphs": [
+        "Ruth opens with famine and a family’s departure from Bethlehem. The move to Moab offers a chance to survive, but Naomi eventually loses her husband and both sons. When she hears that food is available again at home, she begins a return with no clear means of support. Her bitterness is spoken openly. The story does not require her to conceal grief before other people can love her.",
+        "Ruth, Naomi’s Moabite daughter-in-law, refuses to let the older woman travel into that future alone. Her pledge joins loyalty to Naomi with commitment to Naomi’s people and God. It is a costly decision made before she knows how she will be received. The book’s movement toward hope begins in an act of companionship, not in a confident explanation of suffering."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Food, work, and the dignity of a stranger",
+      "paragraphs": [
+        "In Bethlehem, Ruth goes out to glean. The setting is agricultural and practical: two women need food, and the harvest offers a means of survival. Ruth’s willingness to work matters, but the field is not automatically safe. Boaz’s instructions to his workers provide protection, access, and unexpected generosity. Kindness becomes visible in arrangements that change another person’s day.",
+        "The narrative repeatedly identifies Ruth as a Moabite. Her background remains part of the story even as her loyalty is recognized. Boaz blesses her for seeking refuge under the LORD’s wings, and his own conduct helps give that refuge a concrete shape. The relationship between prayer and action is one of the book’s quiet strengths: people ask God to care for others and then become responsible participants in that care."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A risky request and a public commitment",
+      "paragraphs": [
+        "Naomi begins to imagine a settled future for Ruth. The nighttime meeting at the threshing floor carries vulnerability and uncertainty; it should be read within the story’s concern for protection, family continuity, and honorable action. Ruth asks Boaz to extend the shelter he has already praised. He responds with respect, while explaining that another relative has a prior claim.",
+        "The next scene moves to the town gate, where witnesses hear the matter. A private hope must become a public commitment with recognized responsibilities. The legal details do not correspond in every respect to a single modern category, or even to a simple retelling of one earlier biblical law. The story brings land, kinship, marriage, and the preservation of a deceased man’s name into a particular household crisis."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The women’s story and David’s family",
+      "paragraphs": [
+        "Ruth and Boaz marry, and a child is born. The women of Bethlehem speak to Naomi, whose loss has framed the narrative from its beginning. Their celebration recognizes Ruth’s love and the renewed future around Naomi. The child does not make the deaths at the opening unreal. The closing scene shows life growing around a grief that has been accompanied.",
+        "The genealogy then widens the horizon to David. A household story becomes part of Israel’s royal ancestry, and a Moabite woman stands within that history. Christian readers will also meet Ruth in Matthew’s genealogy of Jesus. That later connection grows from the book’s actual family line; it need not turn every gesture or object into a hidden prediction."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A small book worth reading slowly",
+      "paragraphs": [
+        "The opening locates the story in the days of the judges, while its narrator looks back from a later point. The author is unnamed, and scholars disagree about whether the book took shape during the monarchy or after exile. A proposed composition date should therefore not be displayed as though it were the date of Ruth’s harvest.",
+        "Read all four chapters together before isolating a familiar verse. Notice changes in Naomi’s speech, the care with which Boaz answers Ruth, and the way meals, work, and conversation move the story forward. God’s activity is often encountered through ordinary decisions. Ruth invites readers to recognize the spiritual weight of staying beside someone, making room for a stranger, and accepting responsibility when kindness becomes costly."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Loss and the journey home",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Naomi returns to Bethlehem, accompanied by Ruth’s costly commitment."
+    },
+    {
+      "label": "Provision in the harvest",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Ruth’s labor and Boaz’s protection begin to open a future."
+    },
+    {
+      "label": "A request for lasting shelter",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Ruth asks Boaz to act as a family redeemer."
+    },
+    {
+      "label": "Public commitment and a new generation",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "The matter is resolved at the gate, and the family line leads toward David."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Faithful kindness",
+      "description": "Loyalty takes the form of food, protection, companionship, and public responsibility."
+    },
+    {
+      "name": "Belonging",
+      "description": "Ruth’s foreign origin remains visible within a story of welcome and kinship."
+    },
+    {
+      "name": "Providence",
+      "description": "The narrative discovers a larger future through ordinary human commitments."
+    }
+  ],
+  "timeline": {
+    "era": "settlement",
+    "dateLabel": "The period of the judges",
+    "context": "Ruth’s story unfolds in the generations before David.",
+    "note": "The narrative setting is explicit; the book’s date of composition remains disputed."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 4,
+      "era": "settlement",
+      "label": "Ruth and Naomi",
+      "dateLabel": "Before Israel’s monarchy",
+      "note": "The closing genealogy looks ahead to David without relocating the harvest story to his reign."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Ruth · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Ruth",
+      "url": "https://bible.usccb.org/bible/ruth/0"
+    }
+  ]
+}

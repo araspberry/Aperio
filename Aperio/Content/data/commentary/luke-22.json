@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 22: The Weight of Betrayal and the Strength of Covenant",
+      "overview": [
+        "Luke chapter 22 opens a window into the most costly moment of human history—when Jesus faced the full weight of human sin, human weakness, and human betrayal. Yet in the shadow of this darkness burns an even brighter light: the covenant love of God that will not be broken, no matter what.",
+        "The chapter unfolds in layers. We see Judas's cold calculation to betray Jesus for thirty pieces of silver, Peter's confident boast that he would die alongside his Master, and then Peter's shocking denials just hours later. Each scene reveals something about the human condition: our capacity for greed, our tendency toward self-deception, our vulnerability to fear. We discover that the closest disciples—those who had walked with Jesus for three years—would all abandon him when the pressure intensified. This is not a comfortable truth, yet it matters deeply because it means the Gospel was not built on the strength of human commitment, but on Christ's unwavering covenant.",
+        "In the midst of the betrayal and denial stands the Last Supper, where Jesus transforms a Passover meal into a sign of His body broken and blood poured out. He does this knowing full well what comes next. He breaks bread and shares wine with the very man who will betray him. He prepares a feast not for the faithful, but for the faithless. This is the heart of the Gospel—Christ's self-giving love that absorbs our worst and offers us His best.",
+        "What makes Luke 22 so pastorally powerful is that it doesn't hide our failure or minimize our frailty. Instead, it plants us at the foot of the cross where we desperately need to be, stripped of pretense and dependent entirely on grace. The disciples' failures become a mirror for our own. Yet their story does not end in shame; it ends in restoration and resurrection.",
+        "What area of your life feels most fragile right now—where you sense you might fail or fall? How does the image of Jesus sharing a table with His betrayer comfort or challenge you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 22: Scholarly study",
+      "overview": [
+        "Luke 22 represents a pivotal narrative transition in the Third Gospel, marking the beginning of the Passion narrative proper. Composed likely between 80–85 CE by a Gentile author with sophisticated literary sensibilities, this chapter demonstrates Luke's distinctive theological emphases while drawing upon Markan tradition and potentially independent source material, sometimes designated \"L.\" The chapter unfolds during the Festival of Unleavened Bread, contextualizing Jesus's final hours within Israel's foundational commemoration of liberation from Egyptian bondage—an irony not lost on readers who recognize that this Passover will inaugurate a new exodus through Jesus's death.",
+        "The chapter opens with the conspiracy between the chief priests and Judas, whom Luke uniquely attributes to Satan's direct influence (22:3), thereby framing the Passion within cosmic conflict. The Greek term *eisēlthen* (\"entered into\") echoes Luke 4:13's note that Satan departed \"until an opportune time,\" creating an inclusio that marks the Passion as the culmination of diabolic opposition. Luke's presentation of the Last Supper contains significant textual difficulties, particularly the so-called \"longer\" and \"shorter\" readings of verses 19b–20, with most contemporary scholars accepting the longer text as original despite its seemingly awkward cup-bread-cup sequence.",
+        "The discourse at the table transforms conventional symposium conventions, with Jesus's teaching on servant leadership (22:24–27) addressing the disciples' dispute about greatness—a characteristically Lukan concern for status reversal. The term *diakoneō* (\"to serve\") becomes paradigmatic for Christian leadership, with Jesus himself as the model servant. Luke's unique inclusion of the \"two swords\" dialogue (22:35–38) has generated considerable interpretive debate, with Jesus's enigmatic \"it is enough\" (*hikanon estin*) likely signaling dismissal of misunderstanding rather than approval.",
+        "The Gethsemane account, abbreviated compared to Mark, emphasizes Jesus's anguished prayer and the appearance of a strengthening angel (22:43–44)—verses absent from significant manuscripts but likely original. Peter's denial fulfills Jesus's prediction, yet Luke softens the Markan portrayal by noting Jesus's direct gaze at Peter (22:61), evoking immediate repentance. The chapter concludes with the Sanhedrin trial, where Luke's Christological emphases emerge through Jesus's declaration regarding the Son of Man seated at God's right hand, affirming exaltation rather than merely future coming."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 22: Prophetic perspective",
+      "overview": [
+        "Luke 22 unfolds in the final hours before the crucifixion, approximately 30 AD in Jerusalem, during the Passover feast that commemorated Israel's deliverance from Egypt some 1,500 years earlier. This chapter stands at the hinge point of all redemptive history—the culmination toward which every sacrifice, every prophecy, and every covenant promise has been moving since the Fall in Eden. Here the Lamb of God prepares to accomplish what the blood of bulls and goats could never achieve.",
+        "The Passover setting is no accident of timing but the sovereign orchestration of the God who writes history. When Jesus takes bread and wine and declares them His body and blood of the new covenant, He is revealing Himself as the true Passover Lamb whose blood causes the angel of death to pass over all who shelter beneath its covering. The original exodus delivered Israel from Pharaoh's bondage; this greater exodus delivers humanity from sin, death, and Satan's dominion. Moses led God's people through the Red Sea; Jesus leads His people through the waters of death itself into resurrection life.",
+        "The institution of the Lord's Supper establishes the central memorial of the church age, replacing the Passover meal that pointed forward with a table that looks both backward to Calvary and forward to the marriage supper of the Lamb. Jesus speaks of not drinking the fruit of the vine until the kingdom comes—an eschatological thread stretching from the upper room to the consummation when He will feast with His redeemed in the new creation.",
+        "The dispute among the disciples about greatness reveals how thoroughly the kingdom Jesus inaugurates overturns fallen human systems. The kings of the Gentiles lord authority over others, but in Christ's kingdom the greatest serves. Jesus Himself demonstrates this, standing among them as one who serves, the Suffering Servant of Isaiah taking the form of a slave.",
+        "Peter's predicted denial and Jesus' intercessory prayer for him unveil both human frailty and divine preservation. Satan demanded to sift the disciples like wheat, yet Jesus' prayer ensures that Peter's faith, though shaken, will not ultimately fail. This same High Priest ever lives to intercede for all who come to God through Him.",
+        "Gethsemane reveals the full weight of what the incarnate Son willingly embraced—sweat like drops of blood as He surrendered to the Father's will. The cup He accepted was the cup of divine wrath that His people deserved. For the church awaiting His return, this chapter anchors assurance: the covenant sealed in His blood can never be broken."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.602628+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

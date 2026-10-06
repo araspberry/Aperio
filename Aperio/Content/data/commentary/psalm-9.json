@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalms 9: The Victory of Praise",
+      "overview": [
+        "The heart of Psalm 9 beats with a profound conviction: God's justice is certain, and praise becomes the most honest response to his faithfulness. David calls us to sing thanksgiving even when enemies circle, because he has witnessed God's judgment work in history and in his own life.",
+        "When David declares, \"I will praise you, Lord, with all my heart,\" he positions praise not as something earned by feeling victorious, but as an act of faith toward a God who has already proven himself trustworthy. The enemies that opposed David were real—threatening, powerful, able to instill genuine fear. Yet David chooses to remember what he knows: God \"has sat on his throne for judgment\" and \"has established his throne to judge righteously.\" This is not naive optimism but tested conviction. David has seen the wicked stumble and fall, has watched God defend the cause of the poor and remember the cries of the afflicted. Memory becomes a launching pad for faith.",
+        "This posture speaks directly to our modern struggles. We face real opposition—sometimes external enemies, more often internal battles with doubt, despair, or disillusionment. The world tells us to praise only when circumstances improve, to sing only when the pain subsides. But David teaches a different way: we praise the God who is just, who sees, who remembers—regardless of our current circumstances. This doesn't deny our suffering; it locates our suffering within a larger story of God's commitment to justice and redemption.",
+        "When we lift our voices in worship while still facing difficulty, we do something profound. We align ourselves with eternal truth rather than temporal circumstance. We invite others to remember God's character. We participate in the transformation of our own hearts.",
+        "What enemy or obstacle in your life needs to be met not with despair but with remembered faith in God's justice? Consider naming one truth about God's character and choosing, like David, to praise him for it today."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 9: Scholarly study",
+      "overview": [
+        "Psalm 9 stands as a complex acrostic hymn attributed to David, forming the first half of what many scholars consider a single composition with Psalm 10, as evidenced by the continuous (though incomplete) alphabetic structure and the absence of a superscription in Psalm 10 within the Septuagint tradition, which treats them as one psalm. The historical superscription linking this psalm to David's victory over an unnamed enemy (\"the death of the son\") remains obscure, with the Hebrew phrase *ʿal-mût labbēn* possibly representing a musical notation rather than a historical reference.",
+        "The psalm opens with an emphatic declaration of thanksgiving, employing the verb *yadah* (to give thanks, confess) alongside the noun *niplĕʾôt* (wonderful deeds), a term frequently associated with Yahweh's salvific acts in Israel's collective memory, particularly the Exodus traditions. This vocabulary situates individual praise within the broader framework of covenant theology, where personal deliverance echoes national redemption. The psalmist's confidence stems not from military prowess but from divine intervention, as enemies stumble and perish \"from before your face\"—a phrase denoting the theophanic presence that scatters opposition.",
+        "Central to the psalm's theology is the concept of divine judgment, expressed through the term *mišpāṭ* (justice, judgment), appearing multiple times and establishing Yahweh as the cosmic judge enthroned eternally. The designation of God as a \"stronghold for the oppressed\" (*miśgāb laddāk*) introduces a crucial theme: Yahweh's particular concern for the marginalized, a motif that pervades the Psalter and prophetic literature. The tension between confident praise and urgent petition—visible in the shift from celebration to lament beginning around verse 13—reflects the already-not-yet character of divine justice that characterizes Hebrew prayer.",
+        "The psalm's placement early in Book I of the Psalter establishes theological foundations developed throughout the collection: the contrast between the righteous and the wicked, the certainty of divine remembrance versus the fate of nations who forget God, and Zion as the locus of Yahweh's reign. Interpreters have debated whether the \"nations\" (*gôyim*) represent historical enemies or function typologically as forces opposing divine order, a reading that facilitated later eschatological interpretations in both Jewish and Christian traditions."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 9: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the early monarchic period, approximately 1000 years before Christ's incarnation, situated within the era of the united kingdom when God was establishing His throne in Zion through David's reign. Within the grand redemptive arc, this passage stands between the Exodus deliverance and the fuller revelation of the coming Messianic King, serving as prophetic anticipation of God's ultimate judgment and the vindication of His people.",
+        "David's triumphant declaration—\"I will praise You, O Lord, with my whole heart; I will tell of all Your marvelous works\"—establishes a pattern that finds its complete fulfillment in Christ, the true Son of David who perfectly glorified the Father through His earthly ministry. When David proclaims that his enemies turn back, fall, and perish at God's presence, he foreshadows the ultimate defeat of all spiritual enemies accomplished at Calvary, where principalities and powers were openly triumphed over through the cross.",
+        "The revelation that \"the Lord sits enthroned forever; He has prepared His throne for judgment\" carries profound eschatological weight. This enthronement, glimpsed in David's age, was decisively inaugurated when Christ ascended and sat down at the Father's right hand. Yet the judgment throne awaits its final unveiling when every knee shall bow and every tongue confess. The nations raging against God's anointed, sinking into the pit they made, caught in the net they hid—this describes both historical judgments upon Israel's enemies and the pattern of divine justice that will culminate in the great white throne judgment.",
+        "David's cry that \"the needy shall not always be forgotten; the expectation of the poor shall not perish forever\" speaks directly to the church in her present wilderness sojourn. Between the advents, God's people often appear forgotten, trampled by Babylon's successors. Yet this psalm assures us that divine memory is perfect and divine timing is certain. The plea \"Arise, O Lord, do not let man prevail; let the nations be judged in Your sight\" echoes through the ages, finding its ultimate answer in Revelation's trumpet judgments.",
+        "For the church awaiting her Lord's return, Psalm 9 provides both comfort and confidence. The God who judged the nations surrounding David, who overthrew empires opposing His purposes, remains enthroned. History moves toward the moment when \"the Lord shall endure forever\"—not as theological abstraction but as visible, uncontested reality when Christ returns to judge the living and the dead, vindicating every saint who trusted His marvelous works."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.101973+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

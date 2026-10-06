@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 7: Jesus Breaks Through Our Barriers",
+      "overview": [
+        "Luke 7 invites us into the tender heart of Jesus as he encounters those whom society has written off—and shows us that his compassion transcends every boundary we erect between ourselves and others. In these encounters, we see a Savior who draws near to the excluded, challenges our assumptions, and awakens faith in unexpected places.",
+        "The chapter opens with a Roman centurion whose faith astounds Jesus. Here is a pagan soldier who understands authority and submission better than many in Israel itself. Jesus doesn't hesitate; he moves toward this outsider and heals his servant. Then, at Nain, Jesus encounters a widow burying her only son—a woman facing complete devastation and social destitution—and he is moved with compassion. He doesn't merely speak healing; he touches the coffin and gives her back her son. These stories reveal that Jesus sees what others have overlooked and loves what others have dismissed.",
+        "The longer narrative about the sinful woman who anoints Jesus' feet cuts even deeper. While a religious leader judges her silently, Jesus perceives her faith and love. He tells Simon a parable about forgiven debts and asks a simple question: who loves more? The implication cuts through all our pious superiority. We are all debtors to God's grace; our only appropriate response is gratitude expressed in lavish love.",
+        "Luke shows us that faith isn't primarily about credentials or social standing—it's about recognizing our need and running toward Jesus. Whether you're a respected military officer, a grieving widow, or a woman known for sin, Jesus turns toward you with the same attentive compassion. He breaks through cultural barriers, religious prejudices, and our own self-judgment.",
+        "Where do you struggle most to believe that Jesus would draw near to you? Consider bringing that fear or shame into an honest conversation with him, trusting that he turns toward us with the same tenderness he showed these unlikely recipients of his grace."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 7: Scholarly study",
+      "overview": [
+        "Luke 7 presents a carefully constructed narrative sequence that demonstrates Jesus' messianic identity through acts of power and prophetic fulfillment, reaching its theological climax in Jesus' response to John the Baptist's inquiry. Writing to Theophilus and a broader Gentile audience, Luke arranges these episodes to address fundamental questions about Jesus' identity and the nature of his kingdom mission.",
+        "The chapter opens with the healing of the centurion's servant in Capernaum, a pericope that emphasizes the remarkable faith (*pistis*) of a Roman military officer. Luke's account differs from Matthew's parallel by including Jewish elders as intermediaries, highlighting the centurion's positive relationship with the Jewish community—he had built their synagogue. The centurion's declaration that he understands authority (*exousia*) reveals a profound christological insight: Jesus operates under divine authority that commands even illness and death. Jesus' astonishment at this Gentile's faith foreshadows the universal scope of the gospel mission that Luke will develop throughout Luke-Acts.",
+        "The raising of the widow's son at Nain echoes Elijah's miracle in 1 Kings 17, a connection Luke's readers would recognize given the explicit reference to Elijah later in the chapter. The term *splagchnizomai* (to be moved with compassion) appears here describing Jesus' visceral response to the widow's grief, emphasizing the emotional depth of divine mercy. By touching the bier (*soros*), Jesus transgresses purity boundaries, demonstrating that his holiness transforms rather than contracts defilement.",
+        "John's question from prison—\"Are you the one who is to come (*ho erchomenos*)?\"—introduces a crucial theological moment. Jesus' response catalogs his messianic works, deliberately echoing Isaiah 35:5-6 and 61:1, yet notably omits Isaiah's references to divine judgment. This selective quotation has generated scholarly debate about whether Jesus redefines messianic expectations or merely emphasizes the present phase of his ministry.",
+        "The chapter concludes with the sinful woman's anointing, where Luke contrasts Simon the Pharisee's inadequate hospitality with her extravagant devotion. The parable of the two debtors illuminates the relationship between forgiveness and love: those forgiven much, love much. Jesus' declaration \"Your sins are forgiven\" (*apheōntai*) provokes the question of his divine prerogative, linking this episode to the chapter's overarching christological concerns."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 7: Prophetic perspective",
+      "overview": [
+        "Luke chapter seven unfolds during the earthly ministry of Jesus, approximately AD 28–29, some three decades after His birth in Bethlehem and roughly two years before His crucifixion. This places the passage firmly in the Incarnation phase of redemptive history—that sacred hinge moment when eternity invaded time, when the God who spoke through prophets now spoke in person through His Son. The ancient promises given to Abraham, sung by David, and proclaimed by Isaiah were at last walking among humanity in flesh and blood.",
+        "The chapter opens with a Roman centurion in Capernaum whose servant lies dying. Here stands a Gentile—an officer of the occupying empire—yet he possesses faith that astonishes the Son of God Himself. Jesus declares He has not found such faith even in Israel. This moment trembles with prophetic significance, for it anticipates what the apostles would later witness: the inclusion of the nations in Abraham's blessing, the mystery hidden for ages that Gentiles would become fellow heirs with Israel. The centurion's unworthiness before Christ and his understanding of authority typologically foreshadows every Gentile believer who comes to Jesus acknowledging both their unworthiness and His sovereign word.",
+        "At Nain, Jesus encounters a funeral procession—a widow burying her only son. He touches the bier, speaks, and death releases its grip. This is no mere miracle; it is a preview of resurrection itself. As Elijah raised the widow's son at Zarephath and Elisha raised the Shunammite's son, so now One greater than the prophets stands present. Yet unlike the prophets who called upon God, Jesus commands by His own authority. The widow's son typifies the church—spiritually dead, being carried toward the grave, until the living Word speaks life.",
+        "John the Baptist, languishing in Herod's dungeon, sends disciples asking if Jesus is truly the Coming One. Christ's response reaches back through the prophetic corpus: the blind see, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, and the poor receive good news. These are the signs Isaiah promised would accompany the messianic age. The kingdom was not arriving with military conquest but with healing, restoration, and proclamation.",
+        "The chapter climaxes with a sinful woman anointing Jesus's feet with tears and perfume—a portrait of repentant humanity meeting infinite grace. For the church today, Luke seven declares that the King has come, faith transcends ethnic boundary, death bows to His voice, and forgiveness flows freely to all who weep at His feet."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.562429+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

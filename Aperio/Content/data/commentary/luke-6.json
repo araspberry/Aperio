@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 6: The Kingdom's Radical Reversal",
+      "overview": [
+        "Luke chapter six unveils Jesus' vision of a kingdom that turns the world's values completely upside down. From the Sermon on the Plain to his teaching about judging others, Jesus invites his followers into a radically different way of living—one centered not on self-protection but on abundant love for even those who oppose us.",
+        "The chapter opens with Jesus defending his disciples' gleaning of grain on the Sabbath, challenging the religious establishment's rigid interpretation of God's law. What matters most to Jesus isn't ceremonial rule-keeping but compassion and human need. This sets the tone for everything that follows: the kingdom of God is about mercy winning over judgment every single time.",
+        "When Jesus then teaches that the poor, hungry, and grieving are blessed while the rich and satisfied face reversal, he's not celebrating poverty itself but announcing that God's favor rests on those who depend wholly on him. Meanwhile, the \"woes\" pronounced on the wealthy and comfortable aren't cruel condemnations but warnings against the spiritual blindness that comes from self-sufficiency.",
+        "The heart of this passage emerges in Jesus' most counterintuitive command: \"Love your enemies, do good to those who hate you, bless those who curse you.\" This isn't naive sentimentality—it's the deepest revolution imaginable. When we return love for hatred, we break the cycle of retaliation that enslaves the world. We become image-bearers of our Father's indiscriminate generosity.",
+        "The passage concludes with the image of fruit-bearing trees: what overflows from a good heart produces goodness. Jesus is saying that transformation from the inside out is possible, that we can become people who genuinely wish well for our enemies because we've been transformed by God's extravagant grace toward us.",
+        "What would it look like to genuinely love one person today who has hurt or opposed you, not for their sake alone, but to experience the freedom that comes from breaking the cycle of judgment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 6: Scholarly study",
+      "overview": [
+        "Luke 6 represents a pivotal chapter in the Third Gospel, containing material that demonstrates both Luke's dependence on Markan tradition and his access to distinctive source material, likely the hypothetical Q document shared with Matthew. The chapter divides naturally into three major sections: Sabbath controversies (vv. 1–11), the selection of the Twelve (vv. 12–16), and the Sermon on the Plain (vv. 17–49), which parallels yet diverges significantly from Matthew's Sermon on the Mount.",
+        "The opening pericopes concerning Sabbath observance reveal Jesus in direct conflict with Pharisaic interpretation of Torah. The term *sabbaton* (σάββατον) appears repeatedly, anchoring these disputes within Judaism's most distinctive practice. When Jesus declares himself \"Lord of the Sabbath\" (v. 5), Luke preserves a christological claim of extraordinary magnitude—Jesus asserts authority over an institution established at creation itself. The healing of the man with the withered hand (vv. 6–11) intensifies this conflict, with Luke noting the scribes and Pharisees were filled with *anoia* (ἄνοια), meaning \"senseless rage\" or \"fury,\" a term suggesting their opposition has become irrational rather than principled.",
+        "The selection of the apostles follows a night of prayer on the mountain, a detail unique to Luke that emphasizes the momentous nature of this decision. Luke's designation *apostolous* (ἀποστόλους) in verse 13 carries technical freight, denoting commissioned representatives with delegated authority, prefiguring their post-resurrection mission.",
+        "The Sermon on the Plain presents particular interpretive challenges when compared with Matthew 5–7. Luke's beatitudes are shorter, more direct, and accompanied by corresponding woes—a feature absent from Matthew. Where Matthew spiritualizes (\"poor in spirit\"), Luke's Jesus pronounces blessing upon the literally *ptōchoi* (πτωχοί), the destitute poor. This has generated substantial debate regarding whether Luke preserves a more primitive tradition or has shaped the material to address concerns of economic justice prominent throughout his two-volume work.",
+        "The sermon's ethical teaching culminates in the memorable metaphor of building upon rock versus sand (vv. 47–49), emphasizing that hearing must issue in obedience. Throughout, Luke portrays Jesus as the authoritative teacher whose words constitute the foundation for covenant faithfulness, establishing ethical demands that transcend conventional reciprocity and embody the character of the merciful Father himself."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 6: Prophetic perspective",
+      "overview": [
+        "Luke chapter six unfolds during the early months of Christ's public ministry, approximately 28-29 AD, some thirty years after His incarnation and roughly three years before the cross. This places us squarely in the hinge point of all redemptive history—the long-awaited Messiah has appeared, the kingdom of God has drawn near in His very person, and the new covenant is being inaugurated through His teaching and mighty works. We stand here at the culmination of everything promised to Abraham, sung by the prophets, and shadowed in the Mosaic economy.",
+        "The chapter opens with confrontations over Sabbath observance, and in these disputes we witness something of cosmic significance. When Jesus declares Himself \"Lord of the Sabbath,\" He is claiming authority over the very sign of the Mosaic covenant, the weekly memorial of both creation rest and exodus deliverance. Here stands One greater than Moses, greater than the temple, greater than the Sabbath itself—the true Rest toward which every seventh day pointed. The Sabbath was always a shadow; Christ is the substance. In Him, the weary find their eternal rest, not through cessation of labor one day in seven, but through faith in the One who finished the work of redemption.",
+        "The choosing of the twelve apostles reverberates with typological echoes. As Israel was constituted through twelve patriarchs, so now Jesus reconstitutes the people of God around twelve new foundation stones. This is new creation, new exodus, new Israel—all centered on Christ Himself as the true Israel who will succeed where the nation failed.",
+        "The Sermon on the Plain that follows unveils the ethics of the inaugurated kingdom. The beatitudes reverse worldly expectations: the poor, hungry, weeping, and persecuted are pronounced blessed, while the rich and comfortable receive prophetic woe. This is not merely moral instruction but eschatological announcement—the kingdom has invaded the present age, and its values overturn the structures of a fallen world. Those who mourn now shall laugh; those who hunger now shall feast at the messianic banquet.",
+        "Christ's commands to love enemies, bless persecutors, and extend radical mercy reveal the very character of God and preview the cross, where Jesus would pray for those crucifying Him. The church living between the advents is called to embody this cruciform love, demonstrating already what will be universal when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.559973+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

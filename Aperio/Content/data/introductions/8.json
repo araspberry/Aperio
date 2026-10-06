@@ -1,0 +1,142 @@
+{
+  "book": "1 Samuel",
+  "bookIndex": 8,
+  "status": "Editorial draft",
+  "title": "Learning What a King Is For",
+  "subtitle": "Hannah, Samuel, Saul, and David in Israel’s transition to monarchy",
+  "atAGlance": {
+    "genre": "Theological historical narrative, prayer, prophetic speech, and court story",
+    "setting": "The close of the judges’ era and the reign of Saul",
+    "composition": "Anonymous, drawing on older traditions; its literary formation is debated",
+    "audience": "Israel considering leadership, divine rule, and the moral responsibilities of kingship"
+  },
+  "sections": [
+    {
+      "title": "A kingdom’s story begins with a woman’s prayer",
+      "paragraphs": [
+        "First Samuel opens far from a throne. Hannah grieves her childlessness, prays at Shiloh, and entrusts Samuel to the LORD’s service. Her song celebrates God’s ability to overturn human estimates of strength and importance. That opening becomes a guide to what follows: the impressive may fail, the overlooked may be raised, and power belongs under God’s judgment.",
+        "Samuel grows up while Eli’s sons abuse their priestly position. The contrast shows that inherited office cannot substitute for faithful service. When God calls Samuel, a new prophetic voice emerges within an institution already facing judgment. The book’s concern with leadership begins in worship before it reaches the palace."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "God cannot be managed",
+      "paragraphs": [
+        "The capture of the ark brings disaster to Israel and the end of Eli’s household leadership. Yet the ark’s presence among the Philistines does not mean that Israel’s God has become their captive. The episodes unsettle any attempt to use sacred objects as a guarantee of success. The LORD’s authority does not depend on Israel’s ability to deploy Him.",
+        "Samuel leads the people toward renewed allegiance, but his own sons later fail in justice. Israel asks for a king. The request carries several motives: concern about leadership, desire for security, and the wish to resemble other nations. Samuel warns that royal power can take people, produce, and property for itself. The narrative preserves both the dangers of monarchy and the possibility of a king serving God’s work of deliverance."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Saul’s promise and unraveling",
+      "paragraphs": [
+        "Saul begins with striking potential. He is anointed, receives public recognition, and leads a successful rescue. The story then follows decisions in which fear, impatience, and the desire to secure his position undermine obedience. His explanations increasingly reveal how difficult it is for him to face failure without defending his image.",
+        "Samuel’s confrontations with Saul place worship beside obedience and expose the inadequacy of ritual as a substitute for listening. The rejection of Saul’s dynasty is a decisive turning point, but Saul remains a complex, suffering person within the narrative. His deteriorating relationship with David brings jealousy and violence into the life of the kingdom. The cost reaches families, priests, soldiers, and his own children."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "David before the throne",
+      "paragraphs": [
+        "David enters as an unexpected choice, then becomes known through service, courage, and conflict. His friendship with Jonathan creates a bond of loyalty across the rivalry between their households. Michal and Abigail also play consequential roles; Abigail in particular interrupts David’s movement toward bloodshed. The future king must learn restraint, and the narrative allows others to teach him.",
+        "David repeatedly has opportunities to strike Saul but refuses to secure the kingdom by killing him. These scenes should be read alongside David’s more troubling decisions, including his conduct while living among the Philistines. The book does not finish with an uncomplicated hero’s arrival. It closes with Saul’s death and Israel’s defeat, leaving the transfer of kingship shadowed by loss."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The book within Israel’s remembered history",
+      "paragraphs": [
+        "First and Second Samuel form a connected work. Samuel dies within the first book, so the title should not be taken as a claim that he wrote the whole account. The final author or editors are unnamed. Scholars examine its earlier narratives and later shaping, often in relation to the covenant concerns shared with Deuteronomy and Kings. Its story belongs broadly to the rise of monarchy, while its composition belongs to a separate and debated history.",
+        "As you read, listen for the difference between receiving authority and trying to possess it absolutely. Watch whose counsel a leader can still hear, what happens when reputation matters more than truth, and how the vulnerable experience decisions made at the top. The book’s standard for kingship emerges through these concrete lives rather than through an abstract theory of successful leadership."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Hannah, Samuel, and Shiloh",
+      "startChapter": 1,
+      "endChapter": 7,
+      "description": "Samuel’s birth and calling, the ark narratives, and renewed allegiance prepare a transition."
+    },
+    {
+      "label": "Israel receives a king",
+      "startChapter": 8,
+      "endChapter": 12,
+      "description": "The request for monarchy leads to Saul’s anointing, recognition, and Samuel’s warning."
+    },
+    {
+      "label": "Saul’s failures",
+      "startChapter": 13,
+      "endChapter": 15,
+      "description": "Military crises and disobedience bring the rejection of Saul’s dynasty and kingship."
+    },
+    {
+      "label": "David and the unraveling court",
+      "startChapter": 16,
+      "endChapter": 31,
+      "description": "David rises, survives Saul’s hostility, and waits as Saul’s reign ends in defeat."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Accountable authority",
+      "description": "Priests, prophets, and kings serve under God’s judgment."
+    },
+    {
+      "name": "Listening",
+      "description": "The willingness to receive correction reveals the condition of a leader’s heart."
+    },
+    {
+      "name": "Unexpected choice",
+      "description": "God’s purposes repeatedly challenge conventional estimates of importance."
+    }
+  ],
+  "timeline": {
+    "era": "united-kingdom",
+    "dateLabel": "Transition from judges to monarchy",
+    "context": "Samuel’s ministry bridges Israel’s tribal era and Saul’s kingship.",
+    "note": "The opening belongs to the late judges’ period; precise dates for individual episodes are uncertain."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 7,
+      "era": "settlement",
+      "label": "Samuel and the last judges",
+      "dateLabel": "Before Saul’s kingship",
+      "note": "The narrative follows Hannah, Eli’s household, and Samuel’s early leadership."
+    },
+    {
+      "start": 8,
+      "end": 31,
+      "era": "united-kingdom",
+      "label": "Saul and the rise of David",
+      "dateLabel": "The beginning of Israel’s monarchy",
+      "note": "Saul’s reign and David’s early life overlap throughout much of this section."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Samuel · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 1 Samuel",
+      "url": "https://bible.usccb.org/bible/1samuel/0"
+    }
+  ]
+}

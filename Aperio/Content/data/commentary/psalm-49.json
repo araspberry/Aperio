@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 49,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 49 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 49: The Futility of Earthly Riches and the Surety of God's Redemption",
+      "overview": [
+        "The deepest comfort in Psalm 49 rests in a single, liberating truth: death is the ultimate equalizer, and those who trust God need not fear either the wealthy nor the grave.",
+        "This psalm addresses a profound anxiety that grips many hearts—the apparent triumph of the rich and the apparent meaninglessness of faithfulness when others prosper through injustice. The psalmist sees people who \"trust in their wealth and boast of their great riches\" (v. 6), and he acknowledges the sting of envy that rises naturally within us. Yet he calls us to listen to wisdom: no amount of money can ransom a soul from death (v. 7–9). All our earthly accumulation stays behind when we exit this world. The grave welcomes the foolish and the wise alike.",
+        "What makes this message hopeful rather than merely sobering is the closing turn: \"But God will redeem my life from the grave; he will surely take me to himself\" (v. 15). Here lies the great reversal. While the wealthy labor under the illusion that riches secure them, the believer possesses something infinitely more valuable—redemption itself. God does not merely abandon us to death's dominion; he claims us, ransoms us, and takes us home.",
+        "This addresses a temptation as old as humanity: the quiet suspicion that maybe we should compromise our integrity to gain advantage, or that faithfulness feels foolish when dishonest people prosper. Psalm 49 invites us to zoom out, to see our lives from God's eternal perspective rather than from the narrow lens of this present age.",
+        "The challenge is learning to live as though we actually believe this. When do you find yourself most tempted to envy the wealthy or to doubt the value of your faithfulness? Consider naming that temptation to God, asking him to strengthen your sight to see what truly endures."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 49: Scholarly study",
+      "overview": [
+        "Psalm 49 stands as one of the most distinctive wisdom compositions within the Psalter, bearing closer affinity to the reflective traditions of Job and Ecclesiastes than to the typical genres of lament or praise. Attributed to the Sons of Korah, this psalm functions as a didactic meditation on mortality and the limitations of wealth, addressing itself universally to all peoples regardless of social standing. The superscription and opening verses (1–4) establish the sage-like posture of the speaker, who summons \"all inhabitants of the world\" (*kol yoshvey cheled*) to hear a *mashal*—a term encompassing proverb, parable, and wisdom saying—accompanied by a *chidah*, or riddle, which the psalmist will expound upon the lyre.",
+        "The central theological problem addressed concerns the apparent prosperity of the wicked and the temptation to fear those who trust in their wealth. The Hebrew term *kesel* (v. 13), typically rendered \"folly,\" carries connotations of misplaced confidence or self-assurance, creating a wordplay with *kisl* (loins/strength), suggesting that what the foolish consider their source of security becomes their undoing. The psalm's refrain (vv. 12, 20) employs *yaqar* (\"honor\" or \"preciousness\") in a devastating irony: humans in their splendor (*biqar*) cannot endure but are like beasts that perish.",
+        "Verse 15 presents the psalm's theological apex and its most contested interpretive crux: \"But God will ransom my soul from the power of Sheol, for he will receive me.\" The verb *laqach* (\"receive/take\") deliberately echoes the translations of Enoch (Genesis 5:24) and Elijah (2 Kings 2:3), suggesting divine deliverance that transcends ordinary death. Whether this constitutes an early intimation of resurrection hope or simply confidence in God's present protection remains debated among scholars, though the contrast with the fate of the wealthy in Sheol strongly implies something beyond mere temporal deliverance.",
+        "Structurally, the psalm divides into two strophes (vv. 5–12, 13–20), each concluding with the refrain comparing mortal humans to perishing animals. This repetition underscores the psalm's sobering anthropology while simultaneously elevating trust in God as the singular path beyond death's universal claim. The composition thus transforms apparent pessimism into profound theological hope grounded not in human achievement but in divine redemption."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 49: Prophetic perspective",
+      "overview": [
+        "This wisdom psalm emerges from the second book of the Psalter, composed by the Sons of Korah during the monarchy period, likely between 1000 and 500 BC. It stands within the era of the Davidic kingdom, that season when Israel possessed land, throne, and temple, yet still awaited the greater Son who would reign forever. On the grand arc of redemption, this psalm occupies the space between the establishment of the kingdom and the coming exile—a moment when prosperity tempted God's people to trust in wealth rather than in the living God.",
+        "The psalmist addresses all peoples, summoning both low and high, rich and poor, to hear a riddle of profound consequence. The mystery he unfolds concerns the absolute impotence of wealth before the throne of death. No ransom exists that a mortal can pay to redeem his brother's soul; the cost of a life exceeds all earthly treasure. Here the typological shadow grows unmistakably long, for what man cannot accomplish, God himself would achieve. The ransom that no human fortune could supply would be paid in full by the precious blood of Christ, who gave his life as a ransom for many. Where gold and silver fail utterly, the Lamb of God succeeds eternally.",
+        "The psalm contrasts two destinies with startling clarity. The wealthy who trust in their abundance are likened to beasts that perish—their glory does not descend with them into Sheol. Death shepherds them into the grave, and their splendor remains behind like abandoned garments. Yet against this grim portrait, the psalmist declares a single, luminous hope: \"But God will ransom my soul from the power of Sheol, for he will receive me.\" This prophetic utterance pierces through the old covenant's dimmer understanding of the afterlife and anticipates resurrection itself. The verb \"receive\" echoes the translations of Enoch and Elijah, pointing forward to Christ's victory over the grave and the bodily resurrection promised to all who belong to him.",
+        "The eschatological thread runs taut from this ancient song to the final judgment. When the Son of Man returns, every distinction of earthly wealth will dissolve into irrelevance. Those who trusted in riches will face the second death, while those ransomed by the blood of the Lamb will shine in the morning of resurrection.",
+        "For the church awaiting Christ's return, this psalm issues both warning and comfort. Believers must not envy the prosperous wicked or fear their intimidating power. The ransom has been paid, the grave has been conquered, and the morning belongs to the redeemed."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_049",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.257788+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

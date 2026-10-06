@@ -1,0 +1,156 @@
+{
+  "book": "2 Kings",
+  "bookIndex": 11,
+  "status": "Editorial draft",
+  "title": "When the Kingdoms Fall",
+  "subtitle": "Prophetic witness, failed reforms, and the question of hope after catastrophe",
+  "atAGlance": {
+    "genre": "Theological history, prophetic narratives, royal notices, and accounts of siege and exile",
+    "setting": "The divided kingdoms through Samaria’s fall and Jerusalem’s destruction",
+    "composition": "Anonymous; earlier records and traditions shaped into a work that reaches the Babylonian exile",
+    "audience": "A people seeking to understand national loss without abandoning covenant memory"
+  },
+  "sections": [
+    {
+      "title": "The story continues beyond a prophet’s departure",
+      "paragraphs": [
+        "Second Kings begins within the world of First Kings, with rulers still trying to manage threats and prophets still insisting that royal power is answerable to God. Elijah’s departure and Elisha’s succession make continuity a central concern. A great figure leaves, but the prophetic word does not leave with him. Elisha must carry a calling he has received rather than a reputation he can simply inherit.",
+        "His ministry moves between international affairs and intimate need. A widow’s debt, a family’s grief, poisoned food, and a foreign commander’s illness stand beside the concerns of kings. The scope matters. God’s activity reaches people who would hardly appear in a conventional record of royal achievements, and an apparently minor voice can become the means by which a powerful person hears a necessary truth."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Power, violence, and incomplete change",
+      "paragraphs": [
+        "Naaman’s story is especially revealing. A captive girl’s testimony begins the chain of events that leads him toward healing, while his expectations about status and ceremony nearly prevent him from receiving it. The narrative places insight and vulnerability together. Position is no guarantee of understanding.",
+        "Jehu’s rise brings a violent end to Ahab’s dynasty and an attack on Baal worship. Yet the book’s evaluation remains qualified: removing one form of corruption does not establish wholehearted faithfulness. Later reigns repeat the tension between reform and continuing compromise. Readers should resist assuming that a dramatic political reversal resolves the deeper habits of a community."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The northern kingdom comes to an end",
+      "paragraphs": [
+        "Chapter 17 describes the fall of Samaria and then pauses to interpret it. The explanation reaches beyond the final king to a long history of rejected instruction, distorted worship, and refusal to listen. Assyria is the imperial agent of conquest, but the narrator asks what Israel’s own choices have meant within its covenant relationship. The account is theological history, selecting and interpreting events rather than attempting an exhaustive record of ancient politics.",
+        "This does not make the human cost abstract. Deportation means broken households, displacement, and an uncertain future. The fall of the northern kingdom becomes a warning within the continuing story of Judah. A neighboring disaster can be witnessed without its lesson being received."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Judah’s reforms and Jerusalem’s ruin",
+      "paragraphs": [
+        "Hezekiah’s reign brings trust, prayer, and reform into focus during the Assyrian crisis. Manasseh’s reign then becomes a severe account of religious and moral corruption. Josiah responds to the discovery of the book of the law with humility and reform, yet the narrative refuses an easy ending in which one ruler’s faithfulness cancels every consequence of the past.",
+        "The final chapters accelerate toward siege, the destruction of the temple, the removal of people and treasures, and further instability in the land. The building that once embodied Solomon’s achievement is dismantled. Kings asks its readers to face that loss without concluding that God was simply defeated by a stronger national deity. The catastrophe stands within the covenant story the book has been telling all along."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A small opening at the end",
+      "paragraphs": [
+        "The closing notice concerns the release and improved treatment of Jehoiachin in Babylon. It is a modest change, not the restoration of Jerusalem or the return of the kingdom. Yet the survival of a Davidic king leaves the ending open. Hope appears as a possibility held within exile rather than as an accomplished reversal of it.",
+        "The book spans broadly the ninth to sixth centuries BC, with Samaria’s fall in the late eighth century and Jerusalem’s destruction in the early sixth. Its final literary horizon belongs to exile, though scholars debate earlier editions and sources. Follow both kingdoms carefully, and allow the long pattern of warnings to shape the reading. Second Kings presses the difference between hearing a word and responding to it, while leaving a displaced people with a history they must reckon with and a future they cannot yet see."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Elisha and the northern kingdom",
+      "startChapter": 1,
+      "endChapter": 8,
+      "description": "Prophetic succession and acts of deliverance unfold amid royal and international crises."
+    },
+    {
+      "label": "Jehu and later rulers",
+      "startChapter": 9,
+      "endChapter": 16,
+      "description": "Violent change, reform, and compromise continue in Israel and Judah."
+    },
+    {
+      "label": "The fall of Samaria",
+      "startChapter": 17,
+      "endChapter": 17,
+      "description": "The northern kingdom’s destruction becomes the occasion for sustained covenant reflection."
+    },
+    {
+      "label": "Judah’s last generations",
+      "startChapter": 18,
+      "endChapter": 23,
+      "description": "Hezekiah, Manasseh, Josiah, and the beginning of the final decline reveal both reform and deepening crisis."
+    },
+    {
+      "label": "Jerusalem falls and exile begins",
+      "startChapter": 24,
+      "endChapter": 25,
+      "description": "Siege, destruction, deportation, and the final notice about Jehoiachin close the royal history."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Listening and refusal",
+      "description": "Prophetic warnings expose the long consequences of rejected instruction."
+    },
+    {
+      "name": "Care beyond the court",
+      "description": "The lives of widows, foreigners, and captives matter within God’s wider work."
+    },
+    {
+      "name": "Hope in exile",
+      "description": "The ending preserves a possibility without claiming that loss has already been repaired."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Ninth–sixth centuries BC",
+    "context": "The divided kingdoms move toward Assyrian and Babylonian conquest.",
+    "note": "The book reaches exile; its final scenes should not be displayed as continuing royal independence."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 17,
+      "era": "divided-kingdom",
+      "label": "Israel and Judah under mounting pressure",
+      "dateLabel": "Ninth–late eighth centuries BC",
+      "note": "Chapter 17 culminates in the northern kingdom’s fall."
+    },
+    {
+      "start": 18,
+      "end": 23,
+      "era": "divided-kingdom",
+      "label": "Judah after Samaria",
+      "dateLabel": "Late eighth–late seventh centuries BC",
+      "note": "Judah continues alone through reform, corruption, and renewed crisis."
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "era": "exile",
+      "label": "Jerusalem’s fall and Babylonian exile",
+      "dateLabel": "Early–mid sixth century BC",
+      "note": "The narrative ends with Jehoiachin’s changed circumstances in Babylon."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Kings · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 2 Kings",
+      "url": "https://bible.usccb.org/bible/1kings/0"
+    }
+  ]
+}

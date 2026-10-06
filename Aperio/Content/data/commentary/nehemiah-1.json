@@ -1,0 +1,56 @@
+{
+  "book": "Nehemiah",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 1: The Burden of Brokenness",
+      "overview": [
+        "When Nehemiah heard that Jerusalem's walls lay in ruins and its people lived in disgrace, his heart broke with a burden he could not ignore—and this breaking became the birthplace of vision and action. Here we discover that genuine spirituality begins not with grand plans but with genuine grief over what grieves the heart of God.",
+        "The beauty of Nehemiah's response lies in its honesty. He didn't minimize the news or distract himself with busyness. Instead, he sat down, wept, fasted, and prayed—allowing the weight of others' suffering to fully penetrate his soul. In our quick-fix culture, this extended lament feels almost countercultural. Yet this is where God meets us: not in our pretense that everything is manageable, but in our authentic sorrow over broken things that shouldn't be broken.",
+        "Notice how Nehemiah prayed. He began by acknowledging God's greatness and faithfulness, then confessed the sins that had led to exile and ruin—not just others' sins, but his people's sins, positioning himself within the failure. This humble identification, rather than distant judgment, opened his heart to become part of the solution. He wasn't observing tragedy from safety; he was joining his people in repentance and intercession.",
+        "What emerges from this passage is a timeless pattern: vision for restoration grows from compassion for brokenness, compassion flows from honest lament, and lament deepens when we refuse to separate ourselves from others' pain. Nehemiah's burden became his calling. He didn't apply for the job of rebuilding; the Lord's work chose him because his heart had already been chosen by the needs he encountered.",
+        "When you encounter brokenness—whether in your community, your church, or someone's life—pause before rushing to solutions. Let yourself feel the weight of it. Allow grief to do its sanctifying work in your heart. This is not paralysis; it's the necessary foundation for kingdom work that truly heals.",
+        "What burden is God allowing you to feel right now, and what might He be inviting you to become through it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 1: Scholarly study",
+      "overview": [
+        "The book of Nehemiah opens with a temporal marker situating the narrative in the twentieth year of Artaxerxes I of Persia, placing these events around 445 BCE, approximately thirteen years after Ezra's mission to Jerusalem. The protagonist identifies himself as \"Nehemiah son of Hacaliah,\" distinguishing himself from other biblical figures bearing the same name, and notes his location in Susa, the Persian winter capital. His position as cupbearer (*mashqeh*) to the king, revealed in verse eleven, indicates remarkable access to royal power—this office involved not merely serving wine but functioning as a trusted confidant who tested beverages for poison and often wielded significant political influence in ancient Near Eastern courts.",
+        "The report brought by Hanani and his companions concerning Jerusalem's deplorable condition—walls broken and gates burned—has generated scholarly debate regarding whether this describes lingering damage from Nebuchadnezzar's 586 BCE destruction or more recent setbacks, possibly connected to the opposition mentioned in Ezra 4:7–23. The latter interpretation gains plausibility given Nehemiah's intense emotional response; century-old destruction would hardly constitute breaking news requiring such fresh grief.",
+        "Nehemiah's prayer demonstrates sophisticated theological reflection, blending confessional elements with covenant theology. The term *ḥesed* (steadfast love, loyal covenant faithfulness) appears in verse five, anchoring divine mercy within the framework of covenant relationship. His confession employs the collective \"we have sinned\" (*ḥāṭānû*), identifying personally with national guilt rather than distancing himself from ancestral failures. The prayer's structure echoes Deuteronomic theology, particularly the conditional promises of restoration following repentance found in Deuteronomy 30:1–5, which Nehemiah explicitly invokes.",
+        "Within the canonical arrangement, Nehemiah's memoir stands as the final historical narrative of the Hebrew Bible's storyline, representing the culmination of post-exilic restoration efforts. The four-month gap between Kislev (November–December) when Nehemiah received the news and Nisan (March–April) when he approached the king suggests extended preparation, strategic patience, and sustained prayer. This opening chapter establishes the paradigm that governs the entire book: prayerful dependence upon God coupled with shrewd political navigation, demonstrating that for Nehemiah, spiritual devotion and practical wisdom operated as complementary rather than competing virtues."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 1: Prophetic perspective",
+      "overview": [
+        "Nehemiah chapter one unfolds approximately 445 years before the birth of Christ, during the Persian period when God's people remained scattered under Gentile dominion. Nearly a century had passed since the first exiles returned under Zerubbabel, and the temple had been rebuilt under Ezra's leadership, yet Jerusalem's walls still lay in shameful ruins. This moment occurs in the \"Restoration\" phase of redemptive history—that tension-filled era after Babylon's judgment when God began regathering His people, yet the full glory of His kingdom remained conspicuously absent.",
+        "The report Nehemiah receives from his brother Hanani carries weight far beyond municipal concern. Jerusalem's broken walls and burned gates represented more than military vulnerability; they signified the ongoing reproach upon God's name and the incomplete nature of Israel's restoration. The prophets had promised a glorious return, a rebuilt city, a renewed covenant people—yet here was evidence that the work remained tragically unfinished. This gap between prophetic promise and present reality would characterize Israel's existence until Messiah came.",
+        "Nehemiah's response establishes him as a profound type of Christ. As cupbearer to the king, he held a position of intimate trust in a pagan court—a servant who would leave comfort and security to rebuild what others had abandoned. His weeping, fasting, and intercessory prayer foreshadow the Greater Nehemiah who would weep over Jerusalem, who would leave the courts of heaven to rebuild not mere walls but a spiritual house of living stones. Where Nehemiah confessed the sins of his fathers, Christ bore those sins in His own body.",
+        "The prayer itself reveals the covenant theology undergirding all of Scripture. Nehemiah appeals to God's character as the covenant-keeping Lord, to the promises made through Moses, and to the principle that even scattered Israel could be regathered through repentance. He claims Deuteronomy's restoration promises, demonstrating that God's ancient word remains effectual across centuries. This pattern—confession, appeal to covenant, and faith in divine faithfulness—becomes the model for the church's prayer in every age of apparent defeat.",
+        "The chapter closes with Nehemiah poised between burden and action, between heavenly petition and earthly mission. The church similarly lives in this posture—grieving over spiritual ruins while trusting that the King's favor will send builders forth until the New Jerusalem descends complete."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.894565+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

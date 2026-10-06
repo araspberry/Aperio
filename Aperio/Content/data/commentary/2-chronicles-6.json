@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Prayer That Changes Everything",
+      "overview": [
+        "When Solomon stands before the altar in the newly completed temple, he does something that transforms a building into a dwelling place for God's presence. His prayer reveals the deepest longings of a leader who understands that structures mean nothing without sincere communion with the Living God.",
+        "The beauty of Solomon's prayer lies in its radical honesty about human limitation. \"Will God really dwell on earth with us?\" he asks, acknowledging the seeming impossibility that the infinite Creator would inhabit a finite space. Yet this very tension—between God's transcendent majesty and His intimate presence—forms the foundation of all genuine worship. Solomon doesn't pretend to have God figured out; instead, he opens his heart with vulnerability and reverence, inviting God to listen \"from heaven, your dwelling place.\"",
+        "What strikes us most powerfully is how Solomon prays not just for himself, but for all the people who will ever come to this place seeking God. He intercedes for those who would stumble into sin, those facing judgment, those crushed by enemies, those suffering drought or plague. He understands that prayer isn't primarily about getting what we want; it's about alignment—positioning ourselves and others before God's face and asking Him to act according to His justice and mercy.",
+        "This passage invites us into the same posture. We, too, are invited to bring not only personal petitions but the needs of our communities, our nations, our world. When we pray, we're not informing God of anything He doesn't know; rather, we're opening channels through which His kingdom purposes can flow into earthly reality. Every sincere prayer is an act of cooperation with God's redemptive work.",
+        "The temple Solomon built would eventually crumble, but the principle he established remains eternal: God's greatest delight is answering the prayers of a humble, honest heart. When we approach Him with the same openness Solomon demonstrated, we too experience His transformative presence.",
+        "How might your prayer life deepen if you prayed not just for yourself, but as Solomon did—interceding earnestly for your entire community?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 6: Scholarly study",
+      "overview": [
+        "The sixth chapter of Second Chronicles presents Solomon's dedicatory prayer at the consecration of the Jerusalem temple, a moment of supreme theological significance in the Chronicler's narrative. Composed during the post-exilic period, likely in the late fifth or fourth century BCE, this text reflects the Chronicler's distinctive concerns with proper worship, divine presence, and the Jerusalem cult as the center of Israel's religious life. The prayer itself draws heavily from the parallel account in 1 Kings 8, though the Chronicler has shaped the material to address his community's particular circumstances of living under foreign rule while maintaining covenant fidelity.",
+        "The chapter opens with Solomon's blessing and theological reflection on divine presence, employing the term \"dwelling\" derived from the Hebrew root *shakan*, which carries profound implications for understanding God's relationship to sacred space. Solomon acknowledges the paradox that the transcendent God who dwells in \"thick darkness\" (*ʿărāpel*) has nevertheless chosen to inhabit a physical structure. This tension between divine transcendence and immanence pervades the entire prayer, reaching its apex in verse 18 with the rhetorical question about whether God can truly dwell on earth when even the highest heavens cannot contain the divine being.",
+        "Central to the prayer's structure are seven petitions addressing various circumstances—oath-taking, military defeat, drought, famine, individual sin, foreign supplication, and warfare—each concluding with appeals to divine hearing and forgiveness. The repeated phrase \"hear from heaven\" (*shamayim*) emphasizes that while the temple serves as the locus of prayer, God's true dwelling remains celestial. The Chronicler's inclusion of prayers for foreigners who turn toward the temple demonstrates a universalistic trajectory within post-exilic theology.",
+        "Particularly significant is the Chronicler's conclusion in verses 40-42, which diverges from Kings by incorporating language from Psalm 132, emphasizing the Davidic covenant and the permanent election of Zion. This modification reflects the Chronicler's programmatic interest in legitimating the restored temple community through Davidic-Solomonic precedent. The prayer thus functions not merely as historical reportage but as a liturgical paradigm for the post-exilic community, teaching that genuine repentance directed toward the sacred center ensures divine responsiveness despite Israel's ongoing experience of judgment and exile."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 6: Prophetic perspective",
+      "overview": [
+        "This magnificent prayer of Solomon was offered approximately 960 years before Christ's birth, at the dedication of the first Temple in Jerusalem—the crowning moment of Israel's golden age under the united monarchy. We stand here at the pinnacle of Old Testament theocracy, when the promises to Abraham, the covenant at Sinai, and the Davidic covenant converge in one sacred edifice. The Temple represents the climactic fulfillment of God's desire to dwell among His people, stretching back to Eden's intimate communion and forward to the incarnation when God would tabernacle in human flesh.",
+        "Solomon's prayer establishes the Temple as the cosmic intersection between heaven and earth, yet with stunning theological awareness, he confesses that heaven itself cannot contain the Almighty. Here emerges the profound tension at the heart of biblical revelation: the transcendent God who fills all things chooses to localize His presence for covenant relationship. This Temple, magnificent as it stood, was always a shadow—a prophetic whisper of the true dwelling place of God. When Christ declared, \"Destroy this temple, and in three days I will raise it up,\" He unveiled Himself as the antitype to which Solomon's stone structure always pointed.",
+        "The seven petitions Solomon lifts before heaven form a prophetic catalog of Israel's future failures and God's restorative mercy. He anticipates defeat in battle, drought, famine, plague, and exile—the very curses Moses pronounced for covenant unfaithfulness. Yet woven through each petition is the refrain of repentance and divine forgiveness. Solomon prophetically sees what would unfold over the next four centuries until Babylon reduced this very Temple to ashes. The reference to the foreigner who comes to pray toward this house opens a window to the nations, anticipating what Isaiah would later proclaim: God's house shall be called a house of prayer for all peoples.",
+        "The outstretched hands of Solomon typify Christ's intercession, our great High Priest who ever lives to plead our cause before the Father. Where Solomon could only pray toward heaven, Christ has entered heaven itself, appearing in the presence of God on our behalf.",
+        "For the church living between the advents, this passage declares that we ourselves are now the temple of the Holy Spirit—living stones being built into a spiritual house. The glory that descended upon Solomon's Temple now indwells every believer, and we await that final Temple, the New Jerusalem descending from heaven, where God will dwell with humanity forever and every prayer finds its eternal answer."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.777597+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

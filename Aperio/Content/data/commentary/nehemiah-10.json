@@ -1,0 +1,57 @@
+{
+  "book": "Nehemiah",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 10: The Weight of Our Promises",
+      "overview": [
+        "At the heart of Nehemiah 10 lies a profound truth: God's people seal their covenant commitment not with flourishes and fanfare, but with the quiet gravity of their own names written down. This chapter records the solemn moment when Jerusalem's leaders and citizens pledge themselves to follow God's law, and in doing so, they teach us something vital about what it means to belong to God's household.",
+        "What strikes the pastoral heart is the specificity of these promises. The people don't make vague spiritual commitments; they commit to separation from pagan neighbors, to observing the Sabbath, to canceling debts in the Jubilee year, and to supporting the temple worship with their own resources. They're not signing up for a feeling—they're signing up for a way of life that will cost them something. The list of 84 signatories reads like a roll call of those willing to stake their reputations and resources on their pledge.",
+        "This resonates deeply with our own discipleship. We live in an age of casual commitments and revocable promises, yet the Bible invites us into something more durable. When we follow Christ, we're not merely adopting a personal spirituality; we're entering a covenant community with real obligations that touch our wallets, our time, our relationships, and our priorities. Nehemiah's signers understood that genuine reformation requires genuine sacrifice.",
+        "Perhaps the most beautiful detail is that these promises didn't come from external pressure alone. The people made these vows \"with their brothers, the nobles, and entered into a curse and an oath to walk in God's law.\" They bound themselves together. Community accountability, far from being restrictive, actually strengthened their resolve.",
+        "Today's invitation is to examine our own covenants. Have we reduced discipleship to something merely personal and comfortable? What would it look like to sign our names—metaphorically or literally—to specific, costly commitments that reflect our allegiance to Christ and our love for His kingdom?",
+        "What promise has God been calling you to seal with the gravity of genuine commitment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 10: Scholarly study",
+      "overview": [
+        "Nehemiah 10 represents a pivotal moment in the post-exilic restoration community, documenting the formal covenant renewal ceremony that followed the public reading of the Torah described in chapters 8–9. This chapter functions as the climactic response to the extended confession of chapter 9, transforming communal repentance into binding communal obligation. The historical setting places this event during the governorship of Nehemiah, likely around 445–432 BCE, when the returned exiles were consolidating their religious and social identity under Persian suzerainty.",
+        "The chapter opens with a list of signatories, beginning with Nehemiah the governor and proceeding through priestly families, Levites, and heads of the people. This documentary style reflects ancient Near Eastern covenant and treaty formulations, where witnesses and participants were formally recorded to establish legal validity. The Hebrew term *ḥātam* (to seal) indicates the affixing of official seals to the document, lending juridical weight to the proceedings.",
+        "The substantive commitments enumerated from verse 28 onward reveal the community's specific concerns. Central among these is the prohibition against intermarriage with \"the peoples of the land\" (*ʿammê hāʾāreṣ*), a term carrying both ethnic and religious connotations that distinguished covenant-keepers from those who had not maintained Torah observance during the exile. This provision addresses anxieties about religious syncretism and covenant fidelity that pervade Ezra-Nehemiah.",
+        "The Sabbath regulations demonstrate particular attention to economic pressures, prohibiting commercial transactions with foreign merchants on the Sabbath and during holy days. The commitment to observe the sabbatical year, including debt release (*šĕmiṭṭâ*), suggests these practices had fallen into neglect. Temple support receives extensive treatment, including the wood offering, firstfruits, tithes, and the annual third-shekel contribution—notably less than the half-shekel of Exodus 30:13, perhaps reflecting economic realities of the impoverished community.",
+        "Scholars debate whether this covenant represents an independent historical event or a literary composition summarizing Nehemiah's reforms. The relationship to parallel material in Nehemiah 13 suggests these commitments reflect actual administrative challenges. The chapter concludes with the programmatic statement that the community would not neglect the house of God, encapsulating the theological center of the entire restoration enterprise: reestablishing proper worship as the foundation of covenant identity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 10: Prophetic perspective",
+      "overview": [
+        "This covenant renewal ceremony took place approximately 445 BC, during the Persian period when the exiles had returned to Jerusalem under the decree of Artaxerxes. Nearly a century had passed since the first wave of returnees rebuilt the temple under Zerubbabel, and now Nehemiah had completed the reconstruction of Jerusalem's walls. This moment sits within the Restoration phase of redemptive history—after the devastating Babylonian exile but still deep within the long silence before Messiah's advent, a period when Israel was seeking to reconstitute herself as a holy nation in a diminished form, no longer ruled by Davidic kings but governed under foreign dominion.",
+        "The chapter records the solemn names of those who set their seal to a binding covenant, followed by the specific vows the community undertook: separation from the peoples of the land, Sabbath observance, letting the land rest in the seventh year, and faithful support of the temple through tithes, firstfruits, and the temple tax. What emerges is a portrait of a people desperately attempting through oath and signature to bind themselves to covenant faithfulness after generations of failure had brought national catastrophe.",
+        "Here the prophetic reader perceives both the nobility and the inadequacy of this moment. These returning exiles understood that covenant unfaithfulness had caused the exile. Their response was renewed commitment through written vow and public obligation. Yet this very attempt reveals humanity's fundamental predicament: the law written on stone tablets and sealed documents cannot transform the heart. Jeremiah had already prophesied of a new covenant in which God would write His law upon hearts of flesh rather than tablets of stone. Ezekiel had spoken of a new spirit placed within God's people. This post-exilic community, for all their sincerity, would within one generation require Malachi's rebuke for the very violations they here forswore—intermarriage, Sabbath-breaking, and withholding tithes.",
+        "The document sealed in Nehemiah's day thus functions as a shadow pointing toward the greater covenant sealed not with ink but with blood. Where Israel's signatures proved insufficient, Christ's perfect obedience and sacrificial death established an unbreakable bond. The temple tax they pledged finds its fulfillment in hearts that are themselves temples of the Holy Spirit. The separation they vowed foreshadows the church's call to holiness—not through external boundary markers but through transformation by the indwelling Spirit.",
+        "The church today lives under a better covenant with better promises, sealed by One whose faithfulness never wavers, awaiting the day when every vow finds its eternal completion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.921015+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Zechariah",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Zechariah 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Zechariah 1: A Call to Return and Behold God's Care",
+      "overview": [
+        "The opening chapter of Zechariah urgently summons God's people to return to Him—not from defeat, but from spiritual drift—and invites them to see that the Lord remains actively present to restore and care for His own.",
+        "The prophet begins with a sobering reminder: the fathers turned away from God and faced His judgment. Yet this history lesson is not meant to condemn but to awaken. Zechariah's call rings with pastoral tenderness: \"Return to me, declares the Lord of hosts, and I will return to you\" (1:3). There is no condemnation in this voice, only the invitation of a Father who stands waiting. The word \"return\" suggests movement toward home, toward reconciliation, toward remembering who we truly are meant to be.",
+        "The heart of the passage blooms in the night visions that follow. The prophet sees a man riding a red horse among myrtle trees—an image of divine care amid ordinary shadows. These visions communicate a powerful truth: God has not abandoned His people in exile. Even when circumstances seem dark and unchanging, divine patrols move through the earth. The riders report that all is quiet on earth, but the angel intercedes with urgent compassion for Jerusalem, asking how long God's anger will continue. The answer comes: restoration is near. The temple will be rebuilt. The city will be comforted.",
+        "This is the spiritual anchor we need when faithlessness tempts us. We live in seasons of spiritual flatness, seasons when returning to the Lord feels difficult or unnecessary. Yet God's persistent call meets us there. He has not forgotten His purpose for us. His eyes move throughout the earth, and His heart turns always toward the restoration of those who bear His name.",
+        "What area of your life needs a fresh return to God? Where might you sense His invitation to come home to Him again?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Zechariah 1: Scholarly study",
+      "overview": [
+        "The book of Zechariah opens with a prophetic superscription dating the initial oracle to the eighth month of the second year of Darius I of Persia, placing it precisely in October–November 520 BCE, approximately two months after Haggai began his ministry. This temporal marker situates the prophecy within the early Persian period, when the returned exiles faced the daunting task of rebuilding the Jerusalem temple, which had lain in ruins since Nebuchadnezzar's destruction in 586 BCE. Zechariah, whose name means \"Yahweh remembers,\" is identified as the son of Berechiah and grandson of Iddo, the latter being a priestly family mentioned in Nehemiah 12:4, suggesting the prophet possessed both prophetic and priestly credentials that lent particular authority to his temple-centered message.",
+        "The opening oracular unit in verses 2–6 employs the significant verb *qāṣap* (to be wrathful), emphasizing the intensity of divine anger that had been directed toward the previous generation. The call to repentance centers on the imperative *šûḇû* (return, turn back), a term carrying profound covenantal weight throughout the prophetic corpus, demanding not merely external compliance but a fundamental reorientation of the community's relationship with Yahweh. The rhetorical questions concerning the mortality of the fathers and prophets serve to underscore the enduring validity of the divine word, which outlasts human generations and accomplishes its purpose whether through blessing or judgment.",
+        "The subsequent night vision in verses 7–17 inaugurates a series of eight visionary experiences that distinguish Zechariah's prophetic mode. The horseman among the myrtle trees (*hădassîm*), a plant associated with restoration and eschatological hope in Isaiah 55:13, patrols an earth described as \"at rest\" (*šōqeṭet*), a term that ironically highlights the complacency of the nations while Israel remains afflicted. The interpreting angel (*malʾāḵ*) who mediates between the prophet and the divine council represents a developing angelology that would become characteristic of later apocalyptic literature. The chapter concludes with consolatory oracles promising Yahweh's return to Jerusalem with compassion (*raḥămîm*), the temple's reconstruction, and the divine election of Zion—themes that provide theological grounding for the community's reconstruction efforts while asserting Yahweh's sovereign governance over world history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Zechariah 1: Prophetic perspective",
+      "overview": [
+        "Zechariah chapter one was written approximately 520 years before the birth of Christ, in the second year of the Persian king Darius, precisely two months after the prophet Haggai began calling the returned exiles to rebuild the temple. This places the prophecy squarely in the Restoration period, when a remnant of Judah had returned from Babylonian captivity to a devastated Jerusalem, wrestling with discouragement as they attempted to raise the house of God from ruins.",
+        "The chapter opens with a divine summons that echoes through all redemptive history: \"Return to me, and I will return to you.\" This call reverberates backward to every covenant warning issued through Moses and forward to the gospel invitation itself. The Lord grounds His appeal in the testimony of the fathers—those stubborn generations who refused the prophets and reaped exile. Yet here stands a new generation with an opportunity their ancestors squandered, demonstrating that God's judgments, though certain, serve redemptive purposes.",
+        "The night visions that follow pull back the veil on heavenly realities governing earthly affairs. The man among the myrtle trees, identified as the Angel of the Lord, appears as a divine warrior surveying His domain. The myrtle trees themselves, evergreen and fragrant yet lowly, picture Israel in her diminished state—still alive, still aromatic with covenant identity, yet hidden in a ravine. This Angel who intercedes for Jerusalem, crying \"How long?\" prefigures Christ the Advocate who ever lives to make intercession for His people.",
+        "The horsemen patrolling the earth report troubling news: the nations rest at ease while Zion languishes. Yet the Lord responds with jealous love and fierce displeasure toward the complacent oppressors. The proclamation that Jerusalem shall be rebuilt, the measuring line stretched over her, contains both immediate and ultimate fulfillment. Zerubbabel's temple would rise, yet the promise of overflowing prosperity and divine dwelling pointed beyond that modest structure to Messiah's advent and ultimately to the New Jerusalem descending from heaven.",
+        "The vision of four horns and four craftsmen reveals God's sovereign orchestration of history: the very powers that scattered Judah, Israel, and Jerusalem become themselves the objects of divine judgment. No empire that afflicts God's people escapes His notice.",
+        "For the church dwelling between advents, this chapter declares that heaven is not silent during seasons of smallness. The risen Christ patrols the earth, intercedes for His own, and moves history toward the day when He shall again choose Jerusalem and dwell among His people forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "38_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.383053+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

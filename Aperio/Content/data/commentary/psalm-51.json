@@ -1,0 +1,62 @@
+{
+  "book": "Psalm",
+  "chapter": 51,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 51 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Psalms 51 · Scripture",
+      "url": "https://biblehub.com/bsb/psalms/51.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 51: The Honest Cry of a Broken Heart",
+      "overview": [
+        "At the deepest core of Psalm 51 lies a truth that transforms shame into healing: God's mercy is larger than our sin, and honest confession opens the door to restoration. David's raw lament over his adultery with Bathsheba and murder of Uriah shows us that our worst moments need not define our relationship with God—they can deepen it if we come with genuine sorrow.",
+        "What makes this psalm so powerful is its refusal to minimize sin or hide behind excuses. David doesn't blame circumstances or other people. Instead, he moves toward God with stripped-down honesty, acknowledging that his transgression has wounded something sacred within him. \"Create in me a clean heart, O God,\" he pleads, recognizing that only divine work can restore what human guilt has fractured. This isn't mere emotion; it's the posture of someone who understands that sin separates us from God's presence and that we cannot engineer our own redemption.",
+        "The beauty of Psalm 51 emerges in its certainty that confession leads somewhere. David doesn't end in despair but in hope—not hope that his sin will be forgotten, but that he will be remade. He promises that from his restored heart will come joy, gladness, and a testimony that turns his brokenness into blessing for others. This is the Gospel's rhythm lived out in the Old Testament: acknowledgment, repentance, acceptance of mercy, and transformation.",
+        "For those of us who carry shame—whether fresh or buried for years—this psalm invites us into David's courage. We live in a culture that often demands we hide our failures, but Scripture invites us into the light. When we confess not to impress but to be healed, we discover that God's response is not condemnation but the patient work of spiritual renewal.",
+        "What broken place in your heart needs the courage to speak honestly to God today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 51: Scholarly study",
+      "overview": [
+        "Psalm 51 stands as the preeminent penitential psalm in the Hebrew Psalter, traditionally attributed to David following the prophet Nathan's confrontation over his adultery with Bathsheba and the arranged death of Uriah, as indicated by the superscription. While critical scholarship debates the Davidic authorship and suggests possible post-exilic editing—particularly given verses 18-19's reference to Jerusalem's walls—the psalm's theological depth regarding sin, cleansing, and spiritual renewal has secured its place as the definitive Old Testament expression of repentance.",
+        "The psalm opens with an appeal to God's covenant character, employing three significant terms for divine mercy: *ḥānan* (be gracious), *ḥesed* (steadfast love), and *raḥamîm* (compassion, literally \"womb-mercies\"), establishing that forgiveness flows from God's essential nature rather than human merit. Correspondingly, the psalmist utilizes three primary terms for transgression—*pesha'* (rebellion), *'āwôn* (iniquity, suggesting moral distortion), and *ḥaṭṭā'āh* (sin, connoting missing the mark)—thereby encompassing the full taxonomy of human moral failure. The threefold petition for cleansing through blotting out, washing (*kāḇas*, the term for laundering garments), and purification addresses each dimension of guilt comprehensively.",
+        "The theological center emerges in verses 10-12, where the psalmist requests a \"clean heart\" (*lēḇ ṭāhôr*) and \"steadfast spirit\" (*rûaḥ nāḵôn*), recognizing that external ritual cannot address internal corruption. The plea that God not remove his \"holy Spirit\" (*rûaḥ qodšeḵā*) represents one of only three Old Testament occurrences of this precise phrase, raising questions about the psalmist's understanding of divine presence and its potential withdrawal.",
+        "Interpreters have long debated verse 16's apparent rejection of sacrifice alongside verses 18-19's seemingly contradictory affirmation of burnt offerings. Some resolve this tension by viewing the final verses as liturgical additions; others argue the psalmist critiques sacrifice offered without genuine contrition rather than the sacrificial system itself. The \"broken spirit\" and \"contrite heart\" (*lēḇ-nišbār wəniḏkeh*) become the true sacrifice—an internalization of worship that anticipates prophetic critiques and New Testament spiritualization of cultic categories. This psalm thus bridges Israelite cult and later theological developments concerning grace, regeneration, and renewed worship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 51: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from one of the darkest moments in Israel's monarchy, composed approximately one thousand years before Christ, after the prophet Nathan confronted King David for his adultery with Bathsheba and the murder of her husband Uriah. We stand here in the era of the united kingdom, after God established His covenant with David promising an eternal throne, yet witnessing the devastating reality that even the man after God's own heart could fall into grievous sin. This passage sits between the establishment of the Davidic covenant and its ultimate fulfillment in Christ, revealing that no earthly king—however beloved—could embody the righteousness Israel's throne required.",
+        "David's cry for mercy according to God's steadfast love penetrates to the very heart of what sacrifice and priesthood could never accomplish under the old covenant. When he pleads to be washed thoroughly and cleansed from sin, he reaches beyond the Levitical system toward a purification that burnt offerings and grain offerings could not provide. The hyssop he invokes carries profound typological weight—this same plant applied blood to doorposts at Passover and was used in purification rites for lepers and those defiled by death. David intuitively grasps that his moral leprosy requires not animal blood but a deeper cleansing, one that would come only when the true Passover Lamb's blood would be applied to human hearts.",
+        "The petition for a clean heart and renewed spirit anticipates what Ezekiel would later prophesy explicitly—that God Himself would give His people new hearts and place His Spirit within them. David's confession that God desires truth in the inward parts and broken spirits rather than mere external sacrifice thunders forward through the prophets and finds its ultimate interpretation in Christ, who offered Himself through the eternal Spirit as the sacrifice that transforms worshipers from within. The \"broken and contrite heart\" God will not despise becomes the doorway through which all humanity must pass to receive mercy.",
+        "For the church dwelling between resurrection and return, Psalm 51 remains the model of authentic repentance and the promise that no sin stands beyond redemptive reach. The new covenant has accomplished what David longed for: the Holy Spirit now indwells believers permanently, creating clean hearts and sustaining willing spirits. Yet we still groan for the consummation when sin's very presence will be eradicated, and the joy of salvation will know no shadow of failure."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_051",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.263581+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-023"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

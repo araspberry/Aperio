@@ -1,0 +1,54 @@
+{
+  "book": "1 Samuel",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 18: The Cost of Comparison",
+      "overview": [
+        "The friendship between David and Jonathan stands as one of Scripture's most beautiful portraits of covenant love, yet this chapter reveals a hard truth: gifts from God can become weapons of jealousy in hearts unprepared to receive them. When Saul hears the women sing that David has slain tens of thousands while he slew only thousands, something fractures inside the king that no amount of reassurance can repair.",
+        "Saul's trajectory in this chapter traces the spiritual peril of comparison. He watches David rise in favor and military success, sees the affection of the people shift toward the young shepherd, and rather than rejoicing in God's work, he begins calculating his own diminishment. The javelin he hurls at David twice is the outward expression of an inward poison—the conviction that another's gain must mean his loss. This is the lie that jealousy whispers, and Saul believes it completely.",
+        "Yet Jonathan's love for David offers a stunning counterpoint. Where Saul clutches and grasps, Jonathan gives and celebrates. He removes his robe and sword and gives them to David, a symbolic surrender of his own claim and status. Jonathan chooses covenant over competition, friendship over the throne he might have inherited. His love is not threatened by David's favor because he measures worth not by proximity to power but by the character he sees in his friend.",
+        "The chapter ends with Saul's fear intensifying while David's favor deepens, a pattern that will plague the king for years. The underlying tragedy is that Saul had everything—the kingdom, the people's respect, God's initial calling—yet he could not stop measuring himself against one younger man.",
+        "Where do you find yourself tempted to shrink another's joy to protect your own sense of worth? What would it look like to practice Jonathan's costly generosity in celebrating the gifts God has given to those around you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 18: Scholarly study",
+      "overview": [
+        "The narrative of 1 Samuel 18 marks a pivotal transition in the Davidic succession account, introducing the complex dynamics that will dominate the remainder of the book. Following David's triumph over Goliath, this chapter establishes the theological foundation for David's rise and Saul's decline, themes that the Deuteronomistic historian develops with considerable literary artistry. The text presents a series of escalating tensions between divine election and royal jealousy, set against the backdrop of Philistine conflict and court intrigue.",
+        "Central to the chapter's theological architecture is the repeated assertion that Yahweh was \"with\" David (*YHWH ʿimmô*), appearing in verses 12, 14, and 28. This covenantal formula, echoing the patriarchal narratives, signals divine favor transferred from Saul to his successor. The corresponding departure of Yahweh's presence from Saul creates a spiritual vacuum filled by the \"evil spirit from God\" (*rûaḥ ʾĕlōhîm rāʿāh*), a theologically challenging concept that has generated substantial scholarly discussion regarding divine agency in causing harm. The juxtaposition underscores the Deuteronomistic conviction that leadership in Israel depends entirely upon divine sanction.",
+        "The verb *śākal*, appearing in verses 5, 14, 15, and 30, describes David's \"success\" or \"prudent behavior\" and carries connotations of wisdom applied practically. This term connects David to Israel's wisdom tradition while distinguishing his competence from Saul's increasingly erratic conduct. The Hebrew text of this chapter notably differs from the Septuagint, which lacks verses 17–19 and portions of verses 10–11, raising questions about literary development and the original extent of the Michal narrative.",
+        "Jonathan's covenant with David, sealed by the transfer of royal garments and weapons, represents more than friendship; it constitutes a political and theological acknowledgment of David's future kingship. Saul's stratagem involving marriage to Michal and the macabre bride-price of Philistine foreskins (*ʿorlôt*) reveals both his murderous intent and its ultimate failure. The chapter thus establishes David's legitimacy through military prowess, prophetic confirmation, popular acclaim, and marriage alliance, while simultaneously demonstrating that opposition to Yahweh's anointed proves self-defeating. The narrative artfully balances human agency with divine sovereignty throughout."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 18: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, during the early monarchical period when Israel's first king, Saul, still reigned but had already been rejected by God for his disobedience. The narrative stands within the transition from the failed Benjamite kingship to the divinely appointed Davidic dynasty—a pivot point in redemptive history that would establish the royal lineage through which Messiah would come. Within the grand arc of salvation, this passage occupies the Kingdom phase, where God is establishing the throne that will ultimately belong to David's greater Son.",
+        "The covenant friendship between Jonathan and David presents one of Scripture's most luminous types of the believer's union with Christ. Jonathan, the natural heir to Saul's throne, strips himself of his royal robe, armor, sword, bow, and belt—the very insignia of his princely status—and clothes David with them. Here is a prophetic portrait of the One who, though possessing equality with God, did not grasp at His divine prerogatives but emptied Himself, taking the form of a servant. Yet the typology runs deeper still: Jonathan's soul was \"knit\" to David's soul, he loved him as his own soul. This covenantal binding foreshadows the mystical union between Christ and His people, where believers are bound to their true King with bonds stronger than blood or circumstance.",
+        "Saul emerges as the anti-type of faithful response to God's anointed. His jealous eye, his suspicious heart, his murderous spear—these reveal what happens when human flesh confronts the one whom God has chosen. The women's song that credited David with ten thousands while giving Saul mere thousands drove the rejected king to madness. This pattern echoes through redemptive history: the religious establishment of Jesus's day could not bear that the crowds followed Him, that His fame eclipsed their own. Saul's repeated attempts to pin David to the wall with his spear prophetically anticipate every effort of earthly power to destroy God's anointed before His appointed time.",
+        "David's humble faithfulness amid persecution, his success in every mission, and the recognition by all Israel and Judah that the Lord was with him—these establish the pattern fulfilled perfectly in Christ, who increased in wisdom and favor with God and man while awaiting His full enthronement. The church now lives as Jonathan lived: recognizing the true King, gladly surrendering all claims to rival glory, and binding ourselves in deathless covenant to David's greater Son until He returns to claim His throne forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.43387+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

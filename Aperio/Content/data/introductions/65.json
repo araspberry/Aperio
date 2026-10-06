@@ -1,0 +1,175 @@
+{
+  "book": "Revelation",
+  "bookIndex": 65,
+  "status": "Editorial draft",
+  "title": "Revelation: The Lamb, the Witness, and the World Made New",
+  "subtitle": "A prophetic vision steadies the churches under pressure and opens hope toward God’s dwelling with humanity.",
+  "atAGlance": {
+    "genre": "Apocalypse, prophecy, and circular letter",
+    "setting": "John on Patmos addresses seven churches in Roman Asia, using visions shaped by Israel’s Scriptures.",
+    "composition": "The author names himself John, but does not identify himself as the apostle. Traditional attribution and other identifications are debated. Many scholars place composition near the end of the first century.",
+    "audience": "Seven named churches in Asia Minor, with the message extended to everyone who hears and keeps it."
+  },
+  "sections": [
+    {
+      "title": "A revelation meant to be heard",
+      "paragraphs": [
+        "Revelation opens with a blessing on the person who reads aloud and those who hear and keep its message. It was written for communities that needed faithful discernment, not merely information about remote events. Its visions ask who deserves worship, what powers deserve resistance, and how believers can endure when the world appears to reward compromise.",
+        "The book begins and ends with Jesus Christ. Between those frames, scenes of worship, suffering, conflict, judgment, and renewal expand the churches’ view of reality. Earthly rulers are not the final measure of authority. The Lamb who was slain occupies the center of heaven’s worship. That surprising image gives the entire book its distinctive account of victory: the crucified and risen Jesus is worthy to open God’s purposes for the world."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "John and the seven churches",
+      "paragraphs": [
+        "John names Patmos as the location of his visionary experience and describes himself as sharing the churches’ suffering, kingdom, and endurance in Jesus. He does not call himself one of the Twelve. Christian tradition has often identified him with John the apostle, while many scholars distinguish the prophet of Revelation from the writer or writers associated with the Gospel and letters of John. The evidence does not permit certainty about every aspect of his identity.",
+        "A date near the end of the first century is common in scholarship, though dating remains debated. The named churches belong to Roman Asia, in what is now western Turkey. Their messages describe differing circumstances: faithful endurance, complacency, internal compromise, and material confidence. The work should not be introduced as though every congregation faced precisely the same situation. John addresses particular people before the visions broaden the horizon."
+      ],
+      "sourceIds": [
+        "text",
+        "background",
+        "issues"
+      ]
+    },
+    {
+      "title": "Learning the language of the visions",
+      "paragraphs": [
+        "Revelation draws continually on the imagery of Daniel, Ezekiel, Isaiah, Exodus, and other Scriptures. Throne, temple, plagues, beasts, wilderness, and new creation carry remembered meanings into new combinations. Following those echoes is usually more illuminating than matching every image to a contemporary headline. Symbolic numbers and scenes communicate patterns of completeness, conflict, and judgment within that scriptural world.",
+        "The visions move through repeated sequences, including seals, trumpets, and bowls. Their relationship is debated: some interpreters emphasize chronological development, while others see overlapping portrayals of the same struggle. Christians also differ over the millennium in chapter 20. These differences shape how Christians read the sequence of visions. The book itself does not provide a dependable date for Christ’s return or authorize confident identification of a modern person as its final enemy."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Power, worship, and faithful witness",
+      "paragraphs": [
+        "The churches are shown the danger of power that demands ultimate allegiance. The beast and Babylon join coercion, deception, wealth, and violence in a vision of corrupted public life. Babylon’s luxury is eventually exposed through the cost borne by others, and heaven’s perspective challenges the admiration that impressive wealth can command on earth.",
+        "Against those claims stands the Lamb and the people who bear His testimony. Their endurance is not passive approval of injustice. It is a refusal to surrender worship or imitate the destructive powers they oppose. The book’s violent images of divine judgment should not be converted into permission for churches to attack their neighbors. Judgment belongs to God; the saints are repeatedly summoned to faithfulness, patient endurance, and testimony."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The promised end is God’s presence",
+      "paragraphs": [
+        "The final vision brings a new heaven and a new earth, the holy city, and God dwelling with humanity. Tears, death, mourning, and pain lose their place. The river of life and tree of life recall the Bible’s opening garden while extending the picture toward a city and the healing of nations. The story closes with creation restored to the presence for which it was made.",
+        "Read Revelation first in substantial sections, attending to its worship and promises alongside its warnings. Then return to difficult images with their Old Testament backgrounds open. Ask what each vision reveals about God, exposes about corrupt power, and requires of a faithful community. Its purpose includes courage, repentance, and hope.",
+        "The churches’ first-century setting differs from the symbolic world of the visions and their promised consummation. The visions are not all dated historical episodes, and their future hope cannot be assigned a calendar year. The closing invitation directs the thirsty toward the gift of life. Revelation’s final movement is toward the presence of Jesus and the grace that enables His people to wait faithfully."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The risen Jesus and the churches",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "John’s commission and seven messages addressing concrete congregational life."
+    },
+    {
+      "label": "The throne, the Lamb, and the seals",
+      "startChapter": 4,
+      "endChapter": 7,
+      "description": "Heavenly worship, the worthy Lamb, judgment, and the gathering of God’s people."
+    },
+    {
+      "label": "Trumpets and testimony",
+      "startChapter": 8,
+      "endChapter": 11,
+      "description": "Warnings, witness, and the proclamation of God’s kingdom."
+    },
+    {
+      "label": "Conflict and competing allegiance",
+      "startChapter": 12,
+      "endChapter": 14,
+      "description": "The dragon, beasts, the Lamb, and faithful endurance."
+    },
+    {
+      "label": "Judgment on corrupt power",
+      "startChapter": 15,
+      "endChapter": 19,
+      "description": "Bowls, Babylon’s fall, heavenly praise, and the victorious Christ."
+    },
+    {
+      "label": "Final judgment",
+      "startChapter": 20,
+      "endChapter": 20,
+      "description": "The disputed millennium, the defeat of evil, and judgment before God."
+    },
+    {
+      "label": "New creation and the closing invitation",
+      "startChapter": 21,
+      "endChapter": 22,
+      "description": "God dwells with humanity, the nations are healed, and the thirsty are invited to life."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "The worthy Lamb",
+      "description": "Jesus’ self-giving victory defines the book’s vision of divine authority."
+    },
+    {
+      "name": "Faithful allegiance",
+      "description": "The churches resist false worship and corrupting accommodation."
+    },
+    {
+      "name": "Renewed creation",
+      "description": "God’s final purpose is a world restored to His presence."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Late first-century churches; future visions are undated",
+    "context": "John addresses churches in Roman Asia. The visions interpret their world and promise God’s final renewal without establishing a calendar for every image.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "early-church",
+      "label": "John and the seven churches",
+      "dateLabel": "First-century Roman Asia",
+      "note": "The historical setting of the address; the exact composition date remains debated."
+    },
+    {
+      "start": 4,
+      "end": 20,
+      "era": "consummation",
+      "label": "Visions of conflict, judgment, and hope",
+      "dateLabel": "Symbolic visions; no fixed calendar dates",
+      "note": "These visions relate present struggle to God’s final victory. Their order and historical applications are interpreted differently; this grouping is thematic, not a calculated chronology."
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "era": "consummation",
+      "label": "The promised new creation",
+      "dateLabel": "Promised future; no date specified",
+      "note": "The final vision describes God dwelling with humanity and the renewal of creation."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Revelation · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Revelation · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/revelation/lessons/summary-of-revelation/"
+    },
+    {
+      "id": "issues",
+      "label": "Revelation: genre, author, and interpretation · Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/revelation/lessons/introductory-issues-in-revelation/"
+    }
+  ]
+}

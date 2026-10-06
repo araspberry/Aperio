@@ -1,0 +1,54 @@
+{
+  "book": "Daniel",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 1: Conviction in the Face of Compromise",
+      "overview": [
+        "The spiritual heart of Daniel 1 beats with the courage to remain faithful when the world demands your surrender. In this opening chapter, we meet a young man stripped of everything familiar—his home, his name, his culture—yet he refuses to be stripped of his convictions.",
+        "Daniel and his companions arrive in Babylon as captives, facing an empire that uses education and provision as tools of assimilation. The king's careful plan to transform these Hebrew youths reveals a subtle truth about spiritual compromise: it rarely announces itself as betrayal. Instead, it comes wrapped in opportunity, dressed in the clothes of advancement and comfort. The invitation to eat the king's food and learn the king's wisdom seems reasonable, even generous. Yet Daniel recognizes that some compromises, however small they appear, fracture the foundation of faithfulness.",
+        "What strikes us most is Daniel's wisdom in his refusal. He doesn't respond with defiance or rigidity. Instead, he approaches his guard with respect and proposes a test—a humble alternative that honors both his conviction and his relationships. This is mature faith. Daniel understands that stewarding his body as a holy temple isn't about pridish superiority but about maintaining alignment with God's law. His quiet persistence becomes an act of worship.",
+        "The remarkable outcome—that Daniel and his friends emerge healthier and wiser than their contemporaries—teaches us that faithfulness to God's ways isn't restrictive; it's life-giving. In a culture constantly pressuring us toward compromise in subtle ways, this ancient testimony still speaks. We face our own versions of Babylon: workplaces with competing values, entertainment that slowly reshapes our convictions, success offered on terms that require small betrayals of conscience.",
+        "Daniel's example invites us to examine where we've already compromised and where we must draw our line. What would it look like to be a Daniel in your own context—respectful but resolute, humble but unwavering?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Daniel establishes the narrative framework for the entire book while introducing profound theological themes concerning exile, identity, and divine sovereignty. Set during Nebuchadnezzar's siege of Jerusalem in 605 BCE, the text recounts the deportation of Judean nobility to Babylon, initiating what would become the paradigmatic experience of Jewish diaspora existence. The author, writing in Hebrew for this section before transitioning to Aramaic in chapter 2, carefully constructs a court tale that would resonate with Jewish communities navigating life under foreign imperial powers, whether Babylonian, Persian, or later Hellenistic rule.",
+        "The chapter opens with a theologically charged statement that YHWH \"gave\" (*wayyittēn*) Jehoiakim into Nebuchadnezzar's hand, immediately establishing that Babylonian victory resulted not from Marduk's supremacy but from Israel's God orchestrating judgment upon His covenant people. This interpretive lens transforms apparent divine defeat into sovereign purpose. The young men selected for royal service must possess no \"blemish\" (*mûm*), the same term applied to sacrificial animals in Leviticus, suggesting these youths themselves become offerings of sorts within a pagan context.",
+        "The renaming of Daniel and his companions represents an imperial attempt at identity reconstruction. Daniel (\"God is my judge\") becomes Belteshazzar, incorporating the Babylonian deity Bel, while his companions receive names honoring Babylonian gods. Yet the narrative subverts this assimilation strategy through the protagonists' dietary resistance. The term *wayyāśem* (\"he resolved\" or \"set upon his heart\") in verse 8 indicates Daniel's deliberate, internal commitment rather than mere external compliance. The specific concern about \"defilement\" (*yitgā'al*) through royal provisions likely involves multiple considerations: food sacrificed to idols, non-kosher preparation, or symbolic participation in the imperial system.",
+        "Scholarly debate continues regarding whether the chapter reflects authentic sixth-century composition or second-century BCE redaction addressing Antiochene persecution. Linguistic evidence and theological emphases support a complex compositional history. The chapter concludes by noting Daniel's presence \"until the first year of Cyrus,\" creating narrative anticipation for deliverance while demonstrating that faithful resistance within empire, rather than armed rebellion, constitutes the proper exilic posture."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 1: Prophetic perspective",
+      "overview": [
+        "Daniel chapter one unfolds around 605 BC, when Nebuchadnezzar king of Babylon first besieged Jerusalem and carried away captives from the royal family and nobility of Judah. This moment stands roughly four centuries after David's kingdom reached its zenith and occurs precisely as the prophets Jeremiah and Habakkuk had warned—the covenant curses of Deuteronomy were being executed upon a rebellious nation. Within the grand arc of redemption, this chapter marks the beginning of the exile period, that devastating yet necessary season when God's people were torn from the promised land, the Davidic throne sat empty, and the temple's sacred vessels rested in pagan shrines. Yet even in judgment, God was preserving a remnant through whom His purposes would advance toward the promised Messiah.",
+        "Daniel and his three companions emerge as types of the faithful remnant that God sustains in every age of apostasy and persecution. Their Hebrew names proclaimed covenant realities—Daniel meaning \"God is my judge,\" Hananiah meaning \"Yahweh is gracious,\" Mishael meaning \"Who is like God,\" and Azariah meaning \"Yahweh has helped\"—yet Babylon sought to obliterate these testimonies by renaming them after pagan deities. Here stands a prophetic pattern: the world system perpetually attempts to reshape God's people into its own image, to redefine identity, to sever the connection between the saints and their covenant Lord. The three-year indoctrination in Babylonian literature and language foreshadows every subsequent empire's educational machinery designed to assimilate the faithful.",
+        "Daniel's resolution not to defile himself with the king's food reveals the deeper principle that faithfulness in small matters positions one for greater kingdom service. The ten-day test resulting in superior health typologically points toward how God vindicates those who honor His ways, even when such obedience appears foolish to worldly wisdom. The wisdom and understanding given to these young men exceeded that of all Babylon's magicians and enchanters—a pattern fulfilled ultimately in Christ, in whom are hidden all treasures of wisdom and knowledge.",
+        "The sacred vessels carried to Babylon's temple become prophetically significant: what man desecrates, God will reclaim. These same vessels reappear in Daniel chapter five at Belshazzar's feast, instruments of judgment against the very empire that profaned them. For the church living between Christ's advents, Daniel chapter one declares that exile is never ultimate, that identity rooted in the covenant God cannot be erased by imperial decree, and that faithful witness in Babylon prepares a people for the coming eternal kingdom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.208927+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

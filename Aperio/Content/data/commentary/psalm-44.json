@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 44,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 44 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 44: When Faith Meets Abandonment",
+      "overview": [
+        "This psalm captures something many believers fear admitting—the anguish of loving God while feeling utterly forsaken by Him. The psalmist doesn't soften the blow or pretend everything is fine; instead, they voice the raw heartbreak of faithfulness that seems to receive only silence in return.",
+        "The psalm begins with remembrance of God's faithfulness to previous generations. The ancestors witnessed God's mighty hand; they conquered not by their own sword but by God's strength and favor. This isn't nostalgia for its own sake. The psalmist is reminding both God and themselves of who He has been. Yet this historical hope only deepens the current pain. If God did these things before, why has He hidden His face now?",
+        "What makes this psalm spiritually significant is its refusal to pretend. The writer confesses trust in God even while describing themselves as \"sheep appointed for slaughter.\" They haven't abandoned their faith—they've abandoned the pretense that faith should feel easy. They protest their innocence: \"We have not been false to Your covenant.\" They've kept their side of the bargain. The question burning underneath every line is Why not You?",
+        "This passage speaks powerfully to anyone who has done all the right things spiritually and still faced devastation. Illness doesn't care about your prayers. Loss doesn't respect your obedience. The job disappears anyway. The marriage ends despite your commitment. In those moments, faith doesn't mean manufacturing joy or explaining away pain. It means standing before God as the psalmist does—honest, wounded, but still calling Him \"my King and my God.\"",
+        "The beauty of Psalm 44 in Scripture is its permission. God can handle your anger. He can sustain your doubt. What He cannot work with is disconnection. Bring Him your real questions. Bring Him the unedited version of your heart.",
+        "Where do you need permission today to be honest with God about the gap between His promises and your present pain?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 44: Scholarly study",
+      "overview": [
+        "Psalm 44 stands as one of the most theologically challenging communal laments in the Psalter, attributed to the Sons of Korah, a guild of temple musicians whose collection appears in Books I and II of the Psalms. The psalm addresses the perplexing problem of national catastrophe befalling a faithful community, distinguishing it from laments that acknowledge sin as the cause of divine judgment. Scholars have proposed various historical settings, including the Assyrian crisis of the eighth century, the Babylonian exile, or the Maccabean period, though definitive dating remains elusive.",
+        "The psalm divides into three movements: a recollection of God's mighty acts in the conquest (vv. 1–8), a description of present humiliation (vv. 9–16), and a protestation of innocence coupled with urgent appeal (vv. 17–26). The opening section employs the Hebrew term *yarash* (to dispossess or inherit), emphasizing that Israel's occupation of Canaan resulted not from military prowess but from divine intervention—God's \"arm\" and the \"light of his face\" accomplished what human weapons could not.",
+        "The theological tension reaches its apex in the middle section, where the psalmist accuses God of selling his people *lo' behon* (without profit), a commercial metaphor suggesting divine abandonment without apparent purpose or gain. The imagery of being scattered like sheep for slaughter anticipates Paul's quotation in Romans 8:36, where suffering becomes reframed within the economy of divine love.",
+        "Most striking is the community's assertion of covenant fidelity in verses 17–22. Unlike penitential psalms, this text boldly claims innocence: Israel has not forgotten God nor dealt falsely with the covenant (*berit*). This creates an unresolved theodicy that the psalm refuses to dissolve through easy answers. The concluding imperatives—\"Awake! Why do you sleep, O Lord?\"—employ anthropomorphic language that borders on accusation, yet remains within the bounds of covenant relationship.",
+        "The psalm's canonical placement invites readers to hold together divine faithfulness and human suffering without premature resolution. Its raw honesty validates communal lament as authentic worship, modeling a faith that questions God precisely because it trusts in his covenantal character."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 44: Prophetic perspective",
+      "overview": [
+        "Psalm 44 emerges from the liturgical life of Israel during the monarchy, composed by the Sons of Korah who served as temple musicians in Jerusalem. While the exact historical occasion remains debated, the psalm reflects a moment of national military defeat and exile—possibly the Assyrian devastations of the eighth century BC or a similar crisis when Israel experienced catastrophic loss despite covenant faithfulness. This communal lament sits within the arc of redemptive history during the kingdom era, that tumultuous period between David's throne and the ultimate exile, when God's people learned that possession of the land and temple did not guarantee immunity from suffering.",
+        "The psalm opens with sacred memory—\"We have heard with our ears, O God, our fathers have told us\"—recounting how Yahweh drove out nations and planted Israel in Canaan not by sword but by His right hand and the light of His countenance. This retrospective glance toward the conquest under Joshua establishes a typological pattern: just as God fought for Israel through miraculous intervention, so Christ would win victory over sin, death, and Satan not through human weaponry but through divine power displayed in apparent weakness. The conquest of Canaan foreshadows the greater conquest of the kingdom of darkness accomplished at Calvary.",
+        "Yet the heart of Psalm 44 throbs with anguished paradox. The worshipers protest their innocence—\"All this has come upon us, yet we have not forgotten You, nor dealt falsely with Your covenant\"—while God has scattered them like sheep for slaughter. Here prophetic significance deepens immeasurably, for the Apostle Paul quotes verse 22 in Romans 8: \"For Your sake we are killed all day long; we are counted as sheep for the slaughter.\" What Israel experienced as inexplicable suffering becomes, in the apostolic reading, the normative pattern for the church between the advents. The righteous suffer not despite God's favor but within it.",
+        "This psalm thus prophetically anticipates the mystery of the suffering Messiah and His suffering Body. Christ Himself was led as a lamb to slaughter, rejected and afflicted though He knew no sin. The church inherits this vocation, experiencing what Paul calls \"the fellowship of His sufferings.\" The cry \"Awake! Why do You sleep, O Lord?\" echoes Christ's own forsakenness on the cross and the church's longing through centuries of persecution.",
+        "The eternal significance resounds clearly: between resurrection and return, God's people may experience apparent divine absence while remaining firmly held in covenant love. Final vindication awaits the Day when the Sleeping One arises and redeems His people completely."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_044",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.244604+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

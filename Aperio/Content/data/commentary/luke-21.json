@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 21: Watching and Waiting in Faithfulness",
+      "overview": [
+        "Luke 21 calls us to radical faithfulness in the midst of uncertainty, inviting disciples to trust God's sovereignty while remaining vigilant in their devotion. The entire chapter pulses with a tension between cosmic upheaval and personal accountability—between the certainty that Christ will return and the mystery of when that return will occur.",
+        "Jesus begins by exposing the contrast between outward display and genuine worship through the widow's offering. While religious leaders parade their contributions before crowds, this unnamed woman gives everything she has. Her two small coins matter infinitely more to Jesus than mountains of gold given for applause. This teaches us that God measures faithfulness not by the scale of our giving but by the sacrifice of our hearts. Our offering is worship when it costs us something real.",
+        "The second half of the chapter addresses the disciples' hunger for certainty about the end times. Rather than satisfying their curiosity, Jesus redirects their focus toward spiritual readiness. Wars, earthquakes, and false messiahs will come, but these are not signals to panic. Instead, they are invitations to deepen our witness and dependence on the Spirit. Christ promises that His disciples will be given words to speak and a boldness that cannot be defeated, even in persecution.",
+        "The central lesson crystallizes in Jesus's command to \"be on guard... that your hearts will not be weighed down\" by anxiety and excess. Watchfulness is not paranoia; it is the peaceful posture of one who knows the Master is coming and wants to be found faithful. This kind of spiritual alertness actually frees us from worry because it relocates our security from earthly circumstances to Christ's unchanging promises.",
+        "For believers today, this passage challenges us to examine where our true treasure lies and whether our daily choices reflect genuine trust in Christ's return. We live in the \"in-between\"—having experienced Christ's resurrection but awaiting His return—and this reality should reshape everything.",
+        "What would change in your life today if you truly believed Jesus was coming back?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 21: Scholarly study",
+      "overview": [
+        "Luke 21 presents a complex eschatological discourse situated within the final days of Jesus' ministry in Jerusalem, forming part of the Synoptic apocalyptic tradition parallel to Mark 13 and Matthew 24. The evangelist, writing likely in the 70s or 80s CE for a predominantly Gentile audience, shapes this material with distinctive emphases that reflect both the destruction of Jerusalem (70 CE) and ongoing concerns about the delay of the parousia.",
+        "The chapter opens with the widow's offering (vv. 1-4), where Jesus observes a poor widow casting two small copper coins (λεπτά, *lepta*) into the temple treasury. This pericope serves as both a commendation of sacrificial piety and a transitional critique connecting to the temple's coming destruction. The term περισσεύοντος (*perisseuontos*, \"abundance\") contrasts sharply with ὑστέρημα (*hysterēma*, \"poverty\" or \"lack\"), establishing a reversal motif characteristic of Lukan theology.",
+        "The eschatological discourse proper begins when disciples admire the temple's magnificence, prompting Jesus' prophecy that not one stone will remain upon another. Luke's version notably distinguishes between the temple's destruction and the end times more clearly than Mark, suggesting awareness of the former as a past event. The phrase καιροὶ ἐθνῶν (*kairoi ethnōn*, \"times of the Gentiles,\" v. 24) is unique to Luke, indicating a period of Gentile dominion over Jerusalem that must be fulfilled before eschatological consummation.",
+        "Scholarly debate centers on whether Luke has historicized apocalyptic expectation or maintains genuine eschatological urgency. The description of Jerusalem surrounded by armies (v. 20) appears more historically specific than Mark's \"abomination of desolation,\" leading many interpreters to see Lukan redaction in light of the Roman siege. Yet the cosmic signs (vv. 25-27) and exhortations to watchfulness preserve authentic apocalyptic tension.",
+        "The chapter concludes with the fig tree parable and warnings against dissipation, employing the term ἀγρυπνεῖτε (*agrypneite*, \"stay alert\"). Within Luke's broader narrative, this discourse prepares readers for the passion while establishing ethical imperatives for the interim period. The pastoral concern balances imminent expectation with preparedness for extended waiting, addressing a community navigating between already and not-yet dimensions of God's kingdom."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 21: Prophetic perspective",
+      "overview": [
+        "Luke 21 falls within the final week of Jesus's earthly ministry, approximately AD 30–33, spoken on the Mount of Olives just days before His crucifixion. This discourse, known as the Olivet Discourse, represents Christ's most comprehensive prophetic teaching, addressing events that would unfold across multiple horizons: the destruction of Jerusalem in AD 70, the extended church age, and His glorious return at the end of the age. Within redemptive history, this passage stands at the climactic moment between the Incarnation and the Cross, with Jesus Himself serving as the Prophet greater than Moses, unveiling the shape of history from His departure until His return.",
+        "The chapter opens with the widow's offering, a typological indictment of the temple system that had become spiritually bankrupt despite its outward magnificence. Her two small coins, representing complete devotion, stand in sharp contrast to the religious establishment that would soon crucify its Messiah. Jesus then prophesies the temple's destruction—not one stone left upon another—which found literal fulfillment when Titus razed Jerusalem in AD 70, ending the old covenant sacrificial system forever. This destruction was not mere judgment but divine confirmation that the true Temple had come in Christ's own body.",
+        "The signs Jesus enumerates—wars, earthquakes, famines, pestilences, and cosmic disturbances—characterize the entire church age as a period of tribulation for God's people. The promise that \"not a hair of your head will perish\" speaks not of physical preservation but of eternal security, for many would indeed face martyrdom. Jerusalem being \"trampled by Gentiles until the times of the Gentiles are fulfilled\" traces a prophetic thread from AD 70 through the present age, pointing to a future restoration when Israel will recognize her Messiah.",
+        "The discourse reaches its crescendo with the Son of Man coming in a cloud with power and great glory—imagery drawn directly from Daniel 7, where the Ancient of Days bestows everlasting dominion upon the Son of Man. This remains the blessed hope of the church, unfulfilled and eagerly awaited.",
+        "For believers living between the advents, Jesus commands watchfulness, prayer, and sober living. The fig tree's budding signals that the kingdom draws near. The church lives in prophetic tension—the temple destroyed, the Spirit given, yet the King not visibly reigning. This generation—the generation that sees these final signs converge—will witness all things fulfilled. Until then, faithful endurance and upward-looking hope define the pilgrim church awaiting her returning Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.600069+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

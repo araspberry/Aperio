@@ -1,0 +1,64 @@
+{
+  "book": "Revelation",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 2 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Revelation 2 · Scripture",
+      "url": "https://biblehub.com/bsb/revelation/2.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 2: The Risen Christ's Word to His Struggling Church",
+      "overview": [
+        "The risen Christ stands among His churches not as a distant judge but as a loving physician, diagnosing both our faithfulness and our drift with the precision of one who sees the human heart completely. These letters to the seven churches pulse with the heartbeat of Jesus Himself—correcting, affirming, warning, and inviting His people back to the simplicity and power of following Him.",
+        "What strikes us immediately is how Jesus neither ignores the churches' genuine accomplishments nor overlooks their blind spots. To Ephesus, He commends their hard work and doctrinal faithfulness, yet grieves that they have \"abandoned the love you had at first.\" This single diagnosis cuts to the heart of religious drift: we can maintain all the right structures and beliefs while losing the living relationship that gives them meaning. To Smyrna, facing imminent persecution, He offers not comfort but perspective—their suffering is brief, their reward eternal. To Pergamum and Thyatira, He addresses false teaching infiltrating the congregation, calling them to repentance with the urgency of a shepherd protecting his flock from poison.",
+        "The consistent pattern across these letters mirrors our own spiritual experience. We know the danger of becoming so busy serving Christ that we forget loving Him. We recognize how cultural compromise creeps in incrementally, through small accommodations that seemed reasonable at the time. We understand the pressure to maintain external respectability while inner conviction weakens.",
+        "Yet Christ's approach throughout is saturated with invitation. To each church, He says, \"Let anyone with ears to hear listen to what the Spirit says to the churches.\" He does not abandon His people; He confronts them precisely because He is committed to their transformation. He speaks because He cares enough to call us back.",
+        "Where might Jesus be gently diagnosing drift in your own spiritual life today? What would it look like to recover first love in your walk with Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 2: Scholarly study",
+      "overview": [
+        "Revelation 2 constitutes the first portion of the epistolary section addressed to seven churches in the Roman province of Asia, a literary unit extending through chapter 3. These messages, dictated by the exalted Christ to John on Patmos, follow a remarkably consistent structural pattern: identification of the addressee, a christological self-designation drawn from the vision of chapter 1, commendation and/or censure, exhortation, and a promise to the overcomer. The selection of these particular seven churches—Ephesus, Smyrna, Pergamum, and Thyatira in this chapter—likely carries both practical and symbolic significance, as seven represents completeness in Jewish apocalyptic thought, suggesting these messages address the universal church through particular historical communities.",
+        "The letter to Ephesus introduces the critical term for \"patient endurance\" (ὑπομονή, hypomonē), a concept central to Revelation's theology of faithful witness under imperial pressure. While commended for doctrinal vigilance against the Nicolaitans—a group whose precise practices remain debated but likely involved accommodation to Greco-Roman religious culture—the Ephesian congregation receives the sobering charge of having abandoned their \"first love\" (τὴν ἀγάπην τὴν πρώτην, tēn agapēn tēn prōtēn), possibly indicating diminished fervor or fractured community relationships.",
+        "The Smyrna correspondence notably contains no censure, instead offering encouragement to a community facing economic marginalization and slander from those Christ provocatively terms a \"synagogue of Satan\"—language reflecting intense Jewish-Christian tensions in the late first century rather than blanket anti-Judaism. The reference to \"ten days\" of tribulation likely signifies a limited, complete period of testing rather than literal duration.",
+        "Pergamum, identified as dwelling \"where Satan's throne is\" (ὅπου ὁ θρόνος τοῦ Σατανᾶ, hopou ho thronos tou Satana), probably alludes to the prominent imperial cult center or possibly the altar of Zeus. The mention of Antipas as a faithful martyr (μάρτυς, martys)—the term transitioning from \"witness\" to its later technical meaning—provides rare evidence of localized persecution.",
+        "Thyatira's condemnation of \"Jezebel\" employs Old Testament typology to criticize a prophetic figure teaching compromise with trade guild practices involving idolatrous meals. Throughout these letters, the refrain \"the one having an ear, let him hear\" echoes synoptic tradition while the promises to overcomers anticipate eschatological fulfillment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 2: Prophetic perspective",
+      "overview": [
+        "Revelation chapter two emerges from the apostle John's exile on Patmos, penned approximately sixty-five years after the resurrection and ascension of Christ, during the reign of Emperor Domitian around AD 95. This places us firmly within the church age, that mysterious interval between the first and second advents where the risen Christ walks among His lampstands, shepherding His blood-bought people through the wilderness of this present evil age. The letters to Ephesus, Smyrna, Pergamum, and Thyatira address real congregations facing real tribulations, yet they simultaneously carry prophetic weight that echoes across every generation until the Lord returns.",
+        "The glorified Son of Man who dictates these letters reveals Himself with titles drawn from the inaugural vision of chapter one—He who holds the seven stars, who was dead and came to life, who wields the sharp two-edged sword, whose eyes blaze like fire. These self-descriptions are not mere formalities; they declare that the crucified and risen Lord exercises active sovereignty over His church. Here the typological pattern of the Davidic king reaches its ultimate expression, for Christ examines, commends, rebukes, and promises with royal authority that surpasses Solomon's wisdom and David's throne.",
+        "The prophetic structure of each letter—\"I know your works\"—echoes the penetrating gaze of Yahweh who searched Israel's heart throughout her covenant history. What God did through prophets like Jeremiah and Ezekiel, Christ now does directly. The warnings against forsaken love, doctrinal compromise, and tolerance of Jezebel-like teaching reveal that the church perpetually faces the same spiritual dangers that plagued ancient Israel: idolatry clothed in new garments and covenant unfaithfulness masked by outward activity.",
+        "Yet the promises to overcomers shine with eschatological brilliance. Access to the tree of life reverses Eden's exile. Immunity from the second death guarantees resurrection victory. Hidden manna recalls wilderness provision while pointing to eternal sustenance. The morning star promises nothing less than Christ Himself at the dawning of the age to come. Authority over the nations fulfills the Messianic psalm where the Son receives the nations as His inheritance.",
+        "For the church living in the already-and-not-yet, these letters issue the perennial call: repent, hold fast, endure. The One who searches minds and hearts still walks among the lampstands, refining His bride for that great day when every overcomer shall reign with Him in the New Jerusalem."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.056241+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-048"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

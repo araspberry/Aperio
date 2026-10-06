@@ -1,0 +1,54 @@
+{
+  "book": "Leviticus",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 25: God's Economy of Rest and Release",
+      "overview": [
+        "The heart of this chapter beats with a counter-cultural rhythm: God invites His people into an economy built on rest, generosity, and perpetual release rather than endless accumulation and bondage. Leviticus 25 reveals that true freedom flourishes when we align our rhythms with God's character and His concern for the vulnerable.",
+        "The Sabbath Year and Jubilee establish something revolutionary for any ancient society. Every seventh year, the land rests; debts are forgiven; slaves are freed. Every fiftieth year—the Jubilee—property returns to original owners, a radical reset button acknowledging that God alone ultimately owns everything and that no family should be permanently impoverished or enslaved. This wasn't impractical idealism; it was spiritual realism. God promised the land would yield abundantly in the sixth year to sustain people through the fallow seventh year. Trust in God's provision replaces anxiety about scarcity.",
+        "We live in a world that whispers the opposite story. Our culture says accumulate endlessly, maximize profit, leverage every advantage, hold tightly to what you've earned. The person who can't stop working, who measures worth in net worth, who sees others' poverty as deserved—this is the spirit our world celebrates. Yet God's heart has always moved toward liberation. He sees the poor, remembers the stranger, and calls His people to embody His justice and compassion.",
+        "The Jubilee challenges us to examine our own hearts about possessions, power, and pride. Do we hold our resources as trusts from God or trophies we've claimed? Are we content with enough, or does accumulation rule us? When we encounter injustice, exploitation, or inequality, do we feel the stirring of God's Spirit toward redemption and restoration?",
+        "What would change in your life if you truly believed that God owns everything, including your future? Where might God be inviting you into greater trust, generosity, or release?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 25: Scholarly study",
+      "overview": [
+        "Leviticus 25 stands as one of the most socially revolutionary texts in ancient Near Eastern literature, presenting legislation for the Sabbatical Year and the Jubilee that fundamentally reimagines land tenure, debt, and servitude within the Israelite covenant community. Situated within the Holiness Code (Leviticus 17–26), this chapter extends the sabbatical principle from weekly rest (Exodus 20:8–11) to agricultural and economic rhythms, grounding Israel's social ethics in the theological conviction that Yahweh alone possesses ultimate ownership of the land.",
+        "The chapter opens with instructions for the *shemittah* (שְׁמִטָּה), the seventh-year release when the land must observe a \"sabbath to the LORD.\" This agricultural fallow period finds parallels in Mesopotamian practices, yet the Israelite version uniquely theologizes the custom as covenantal obligation rather than mere pragmatic soil management. Building upon this septennial rhythm, verses 8–17 introduce the *yovel* (יוֹבֵל)—typically rendered \"jubilee\" from the Latin *iubilaeus*—occurring every fiftieth year when ancestral property returns to original families and Hebrew servants gain release. The term *yovel* likely derives from the ram's horn used to proclaim this release, though some scholars connect it to the verb \"to carry\" or \"to bring back.\"",
+        "The theological linchpin appears in verse 23, where Yahweh declares the land cannot be sold permanently \"because the land is mine; you are but aliens and tenants with me.\" The Hebrew *gerim vetoshavim* (גֵּרִים וְתוֹשָׁבִים), typically describing resident foreigners, here applies to all Israelites before God—a striking rhetorical inversion that relativizes human claims to property. This theological grounding distinguishes Israelite legislation from comparable ancient Near Eastern *mīšarum* decrees, where kings periodically cancelled debts as royal prerogative rather than divine mandate.",
+        "Scholars continue debating whether the Jubilee was ever practically implemented, with Chronicles, Nehemiah, and prophetic literature suggesting periodic neglect. The absence of clear archaeological or extrabiblical evidence for observance has led some interpreters to view these laws as utopian ideals or late exilic compositions projecting hope for restoration. Nevertheless, the passage profoundly influenced subsequent Jewish interpretation, early Christian ethics, and modern liberation theology, with Jesus's proclamation in Luke 4:18–19 explicitly invoking Jubilee imagery to characterize his messianic mission."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 25: Prophetic perspective",
+      "overview": [
+        "Leviticus 25 stands at the foot of Mount Sinai, roughly 1450 years before the incarnation of Christ, given to Moses during the wilderness sojourn between the Exodus deliverance and the conquest of Canaan. Within the grand arc of redemption, this legislation arrives after the covenant at Sinai has been ratified and the tabernacle constructed—Israel now receives the economic and social ordinances that will govern their life in the Promised Land. The chapter establishes two extraordinary institutions: the Sabbath year occurring every seventh year, when the land itself rests, and the Year of Jubilee arriving every fiftieth year, when all debts are canceled, all slaves are freed, and all ancestral lands return to their original families.",
+        "These institutions carry profound typological weight. The Sabbath year points toward the ultimate rest that God provides for His weary creation—a rest fully realized in Christ, who declared Himself Lord of the Sabbath and invites all who labor to find rest in Him. The Jubilee, announced with trumpet blasts on the Day of Atonement, foreshadows the great liberation that the Messiah brings. When Jesus stood in the synagogue at Nazareth and read from Isaiah 61—\"to proclaim the year of the Lord's favor\"—He was declaring that the true and final Jubilee had arrived in His own person. Every debt canceled in the fiftieth year whispered of that greater forgiveness purchased at Calvary; every slave set free anticipated the liberty Christ grants to those bound by sin; every land restored prefigured the inheritance secured for God's people in the new creation.",
+        "The eschatological dimensions of this chapter extend beyond the first advent. The land's enforced rest every seventh year taught Israel that the earth itself groans under the curse and awaits redemption. Romans 8 confirms that creation still longs for the revealing of the sons of God, when the final Jubilee trumpet sounds at Christ's return. Then the entire cosmos will experience its release from bondage to decay, and the saints will receive their full inheritance—not temporary plots in Canaan, but the new heavens and new earth.",
+        "For the church dwelling between the advents, Leviticus 25 issues both comfort and calling. Believers already experience the spiritual reality of Jubilee—forgiveness, freedom, and the firstfruits of their inheritance through the Spirit. Yet they also labor as agents of Jubilee in a broken world, announcing release to captives, advocating for the oppressed, and living as witnesses that the final trumpet will one day sound."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.999191+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

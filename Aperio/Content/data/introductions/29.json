@@ -1,0 +1,150 @@
+{
+  "book": "Amos",
+  "bookIndex": 29,
+  "status": "Editorial draft",
+  "title": "When prosperity conceals injustice",
+  "subtitle": "A voice from Tekoa confronts a successful kingdom with the human cost of its success.",
+  "atAGlance": {
+    "genre": "Prophetic accusations, visions, hymnic passages, and a confrontation narrative",
+    "setting": "Northern Israel during Jeroboam II’s prosperous eighth-century BC reign",
+    "composition": "Rooted in Amos’s ministry; the collection and its concluding restoration passage have a debated editorial history",
+    "audience": "Israel’s prosperous society, rulers, religious authorities, and people"
+  },
+  "sections": [
+    {
+      "title": "An outsider addresses the northern kingdom",
+      "paragraphs": [
+        "Amos comes from Tekoa in Judah, but his preaching chiefly confronts the northern kingdom of Israel. The heading places him in the reigns of Uzziah and Jeroboam II, broadly in the mid-eighth century BC. He is connected with herding and the tending of sycamore figs. Those details identify a life outside the royal sanctuary’s professional world; they do not establish with certainty either great poverty or great wealth.",
+        "The book belongs to a period of apparent strength before Israel’s eventual fall to Assyria in 722/721. Prosperity and confidence form the background against which its warnings become startling. Scholars distinguish the historical ministry from the later shaping of the collection, especially its final promise of restoration. The exact stages are debated, but the book’s arranged form should not be confused with a chronological transcript."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "The accusation comes home",
+      "paragraphs": [
+        "The opening sequence names neighboring peoples and condemns acts of violence and betrayal. Its repeated formula creates momentum. Judah and Israel then enter the same circle of judgment. An audience prepared to agree that others deserve punishment discovers that it cannot claim exemption. The rhetorical movement is essential to the force of the opening chapters.",
+        "Israel’s indictment names the sale and oppression of vulnerable people. The crimes are not limited to spectacular wartime atrocities. Ordinary institutions and transactions can become instruments of cruelty. Chapter 3 makes special relationship with God a ground of heightened responsibility. Election, in this argument, is not a shield that makes the community’s conduct irrelevant. The privilege of being known brings its life more directly under scrutiny."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Luxury and worship under examination",
+      "paragraphs": [
+        "Chapters 4–6 place rich food, comfortable furniture, impressive houses, and religious celebration beside the ruin of others. Amos is not offering a general complaint that beautiful things exist. He exposes ease sustained by exploitation and protected by indifference. The people who consider themselves secure have failed to see the condition of the society in which they live.",
+        "The rejection of festivals and music in chapter 5 belongs to this setting. Ritual cannot compensate for corrupted justice. The image of an enduring stream demands something more constant than occasional generosity or ceremonial display. Amos joins worship to the public life of courts, markets, and neighborhoods. A community cannot honor God convincingly while treating the poor as obstacles, resources, or disposable lives."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Seeking life without false reassurance",
+      "paragraphs": [
+        "The book calls people to seek God, seek good, and establish justice. It also warns that popular expectations about the day of the LORD may be profoundly mistaken. Those who expect automatic victory encounter an image of danger from which there seems to be no easy escape. The familiar religious phrase is turned against complacency.",
+        "These invitations and warnings should be read together. Amos neither gives the comfortable an uncomplicated guarantee nor makes moral response meaningless. The question is whether the people will allow their habits and institutions to be changed. The repeated notices that they have failed to return after earlier calamities deepen the urgency. The opportunity to hear a warning is itself something that can be lost."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A prophet and a royal sanctuary",
+      "paragraphs": [
+        "The visions in chapters 7–9 bring judgment into concentrated scenes. Amos initially intercedes for a small and vulnerable Jacob. Later visions present an increasingly settled verdict. A basket of ripe fruit, a measured structure, and a shattered sanctuary each contribute to the sense that the crisis has reached its limit. The imagery is vivid without requiring a modern prediction scheme.",
+        "The confrontation with Amaziah in chapter 7 shows why the message is dangerous. The priest identifies Bethel with the king and the kingdom, and treats Amos’s warning as politically intolerable. Amos answers by pointing to divine calling rather than professional entitlement. The episode dramatizes a continuing question within the book: whether an institution organized around religious service can still hear a word that challenges the power supporting it."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The final promise and the reader’s task",
+      "paragraphs": [
+        "Chapter 8 returns to economic wrongdoing with dishonest measures, manipulated prices, and impatience for holy days to end so trade can resume. It also imagines a famine of hearing God’s word. The loss is not only agricultural or political. A people who dismiss correction may find themselves unable to recover the guidance they once refused.",
+        "The closing verses of chapter 9 turn toward rebuilding, cultivation, and lasting life in the land. Scholars differ over the relation of that ending to the earliest preaching, but it is part of the book’s received shape. Read it as hope beyond judgment, not as cancellation of everything Amos has demanded. The restored world is meaningful precisely because the former world’s injustice has been exposed. The book teaches readers to ask whose suffering lies beneath visible success."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The nations and Israel accused",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "Judgment moves from neighboring peoples to the audience itself."
+    },
+    {
+      "label": "Privilege, injustice, and false security",
+      "startChapter": 3,
+      "endChapter": 6,
+      "description": "Public life and religious confidence are tested by the demand for justice."
+    },
+    {
+      "label": "Visions and resistance",
+      "startChapter": 7,
+      "endChapter": 8,
+      "description": "Amos intercedes, confronts Amaziah, and announces an approaching end."
+    },
+    {
+      "label": "Judgment and a restored future",
+      "startChapter": 9,
+      "endChapter": 9,
+      "description": "The final vision gives way to a promise of rebuilding and fruitful life."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Justice",
+      "description": "Economic conduct and public institutions belong within covenant faithfulness."
+    },
+    {
+      "name": "Accountability",
+      "description": "A special relationship with God intensifies rather than removes responsibility."
+    },
+    {
+      "name": "Listening",
+      "description": "Resistance to unwelcome truth threatens the community’s capacity to hear."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Mid-eighth century BC",
+    "context": "Israel under Jeroboam II",
+    "note": "The fall of Samaria is a later historical horizon; the concluding restoration promise looks beyond the immediate audience."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 9,
+      "era": "divided-kingdom",
+      "label": "Israel under Jeroboam II",
+      "dateLabel": "Mid-eighth century BC",
+      "note": "The fall of Samaria is a later historical horizon; the concluding restoration promise looks beyond the immediate audience."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Amos, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Amos",
+      "url": "https://bible.usccb.org/bible/amos/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 16",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-16"
+    }
+  ]
+}

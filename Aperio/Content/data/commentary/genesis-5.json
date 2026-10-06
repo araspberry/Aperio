@@ -1,0 +1,79 @@
+{
+  "book": "Genesis",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 5 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Genesis 5 · Scripture",
+      "url": "https://biblehub.com/bsb/genesis/5.htm"
+    },
+    {
+      "id": "correction-2",
+      "label": "Genesis 5:29 · Original-language text",
+      "url": "https://biblehub.com/text/genesis/5-29.htm"
+    },
+    {
+      "id": "correction-3",
+      "label": "Genesis 5 · NET translation notes",
+      "url": "https://bible.org/sites/bible.org/resources/netbible/gen5_notes.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 5: The Long Witness of Faithful Generations",
+      "overview": [
+        "Genesis 5 presents one of Scripture's most profound spiritual truths: faithfulness extends beyond our own lifetime, and our legacy is measured not by earthly power but by walking with God across generations. This genealogy, often skipped over as merely names and numbers, actually reveals the deep reality of God's patient faithfulness to humanity despite the fall.",
+        "The repetitive structure of \"lived X years, begat a son, lived Y more years, and died\" carries a weight we might miss. These lives stretch across generations in a world fractured by sin. Within that repeated pattern, Enoch is specifically described as walking with God (verses 22 and 24). His exceptional notice invites us to consider what faithful companionship with God can mean within an ordinary human lifetime.",
+        "Notice Enoch's remarkable interruption of the pattern: he didn't die but was taken up by God. This dramatic intervention whispers hope into the genealogy—God notices those who seek him faithfully. Yet the chapter ends with Noah, whose name means \"rest,\" preparing us for the flood narrative. Even amid the expansion of human sinfulness, God preserved a faithful lineage through which salvation would eventually come.",
+        "For us today, this passage confronts an uncomfortable question: What is our life actually producing? The genealogy gives us few details about most of these people’s daily choices, but Enoch’s walk with God leaves a memorable witness. His example invites us to consider how trust in God can shape the life we share with the next generation.",
+        "Our own life span, however long or short, is part of God's unfolding redemption story. We are links in a chain of grace stretching backward and forward through history. This reality invites us to ask: What spiritual legacy am I building? Who am I pointing toward God, and how am I modeling faithful obedience for the next generation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 5: Scholarly study",
+      "overview": [
+        "Genesis 5 presents the first comprehensive genealogy in the Hebrew Bible, functioning as a bridge between the primeval narratives of creation and fall and the flood account that follows. This chapter belongs to what scholars identify as the Priestly source, evidenced by its formulaic structure, precise chronological notation, and characteristic vocabulary. The genealogy traces the line from Adam through Seth to Noah, deliberately bypassing the Cainite lineage of chapter 4 and establishing the family succession through which humanity's story will continue.",
+        "The chapter opens with a significant recapitulation using the Hebrew term *toledot* (תּוֹלְדֹת), meaning \"generations\" or \"account,\" which serves as a structural marker throughout Genesis. The text emphasizes that humanity was created in the \"likeness\" (*demut*) of God, while Seth was begotten in Adam's \"likeness\" (*demut*) and \"image\" (*tselem*), creating a theological parallel that suggests the divine image, though marred, continues through successive generations. This literary echo connects human procreation to divine creation while acknowledging the transmission of both dignity and fallenness.",
+        "The genealogy's most striking feature is its extraordinary lifespans, with Methuselah reaching 969 years. Various interpretive approaches have emerged: some scholars suggest these numbers reflect ancient Near Eastern conventions where antediluvian kings similarly enjoyed impossibly long reigns, as seen in the Sumerian King List. Others propose numerological significance, noting patterns involving multiples of five and seven. The declining ages after the flood may theologically represent humanity's increasing distance from original creation.",
+        "The refrain \"and he died\" (*wayyamot*) punctuates each generation with sobering regularity, reinforcing the consequences of Genesis 3. Yet Enoch disrupts this pattern dramatically—he \"walked with God\" (*hithallek et-ha'elohim*), and \"was not, for God took him\" (*laqach*). This exceptional notice has generated extensive interpretive tradition, with Enoch becoming a figure of apocalyptic speculation in Second Temple Judaism.",
+        "The genealogy culminates with Noah. His name, *Noach*, is associated with rest, while Lamech’s words use *yenachamenu* (\"he will comfort us\"), from a different root. The sound-play joins the name to the hope for relief from toil, anticipating the flood narrative. Thus Genesis 5 functions not merely as historical record but as theological commentary on human mortality, divine faithfulness, and redemptive continuity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 5: Prophetic perspective",
+      "overview": [
+        "Genesis 5 stands near the dawn of human history, covering the genealogical record from Adam to Noah—a span of roughly 1,500 years before the great flood, placing us in the earliest epoch of the biblical timeline, long before Abraham, long before Israel, in the primeval age when humanity multiplied upon the earth yet lived under the shadow of the curse pronounced in Eden.",
+        "This genealogy occupies a pivotal position in redemptive history, bridging the Fall and the coming judgment of the flood. It traces the line of Seth, the son appointed to replace Abel, through whom the promised seed would come. Here we find the first narrowing of the messianic lineage—not through Cain's rebellious line but through Seth, whose descendants called upon the name of the Lord. This genealogy therefore serves as the backbone of covenant continuity, the thread connecting Adam's creation in God's image to Noah's preservation through catastrophic judgment.",
+        "The haunting refrain \"and he died\" echoes eight times through this chapter, a drumbeat of mortality reminding readers that death reigned from Adam onward. Each patriarch, despite living centuries beyond modern comprehension, ultimately succumbed to the wages of sin. Yet piercing through this funeral dirge comes the extraordinary exception of Enoch, who \"walked with God, and he was not, for God took him.\" Here stands a prophetic type of future translation, a foreshadowing of those who will not taste death at Christ's return, caught up to meet the Lord in the air. Enoch embodies the hope that death does not hold the final word for those who walk intimately with their Creator.",
+        "The chapter concludes with Noah, whose name is associated with rest. Lamech links it by sound-play to his hope that Noah will bring comfort from the toil of the cursed ground. This points forward not merely to the ark but ultimately to Christ, the true Noah who provides eternal rest from the labor and toil of sin's curse. Noah stands as a type of the Savior who would carry His people through judgment waters into a new world.",
+        "For the church awaiting Christ's return, Genesis 5 speaks with urgent relevance. Like those antediluvian generations, we live between promise and fulfillment, between the first advent and the coming judgment. The faithful remnant persisted through that age; so must we. Death still reigns, yet Enoch's translation whispers of our blessed hope—that the last generation will be transformed in the twinkling of an eye when mortality is swallowed up in victory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.646882+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-062",
+      "patch-063",
+      "patch-064",
+      "patch-065",
+      "patch-066",
+      "patch-067"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Galatians",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Galatians 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Galatians 2: Living Out the Truth of the Gospel",
+      "overview": [
+        "At the heart of Galatians 2 lies a profound assertion: authentic Christianity cannot be lived in hiding. Paul confronts the Jerusalem apostles and Peter himself over hypocrisy and theological compromise, reminding us that the gospel demands both internal conviction and external consistency.",
+        "The chapter opens with Paul describing his return to Jerusalem to ensure his gospel message aligned with the apostles' teaching. This wasn't proud independence but humble accountability—a reminder that even strong leaders need relationship and confirmation within the body of Christ. Yet the real drama unfolds when Peter's fear overcomes his theology. Peter withdraws from eating with Gentiles when the circumcision faction arrives, effectively denying through his actions what the gospel declares in words: that Christ has broken down the wall between Jew and Gentile.",
+        "What makes this moment so gripping is that we recognize ourselves in Peter. How often do we perform faith when observers we respect are watching, only to compromise our convictions in other settings? The gospel isn't something we believe privately while living differently publicly. Christ calls us to an integrated life where our deepest convictions shape how we treat everyone, regardless of who's watching.",
+        "Paul's rebuke—delivered publicly because Peter's offense was public—wasn't harsh condemnation but loving course correction. He grounds the solution in the supreme reality: we have been \"crucified with Christ\" and no longer live, but Christ lives in us. This isn't about earning favor through perfect behavior; it's about being so captivated by Christ's love and sacrifice that pretense becomes impossible. When we truly grasp that we've died with Christ, the fear of man loses its grip.",
+        "As you move through your week, notice those moments when you're tempted to hide your convictions or adjust your behavior based on your audience. What would it look like to live with the same gospel-honesty in every room you enter?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Galatians 2: Scholarly study",
+      "overview": [
+        "Galatians 2 presents a pivotal autobiographical and theological defense in which Paul establishes both the divine origin of his apostleship and the universality of the gospel message apart from Torah observance. Written to congregations in the Roman province of Galatia, likely in the early 50s CE, this letter addresses a crisis precipitated by those insisting that Gentile believers must undergo circumcision and observe Mosaic law. The second chapter divides naturally into two interconnected sections: Paul's Jerusalem visit and recognition by the \"pillar\" apostles (vv. 1–10), followed by the Antioch incident involving Peter (vv. 11–21).",
+        "Paul's account of the Jerusalem council emphasizes that after fourteen years, he presented his gospel to the recognized leaders—James, Peter (Kephas, from Aramaic *kēpā*, \"rock\"), and John—who added nothing (*prosanethento*) to his message. This Greek term, appearing only here and in 1:16, underscores that Paul's gospel required no supplementation or correction from Jerusalem authorities. The handshake of fellowship (*koinōnia*) signified full mutual recognition of distinct but complementary missions: Peter to the circumcised, Paul to the uncircumcised.",
+        "The Antioch confrontation reveals the practical implications of gospel freedom. Paul's public rebuke of Peter for withdrawing from table fellowship with Gentiles when \"certain ones from James\" arrived demonstrates the inseparability of theological conviction and social practice. The verb *hypokrinesthai* (\"to act hypocritically,\" v. 13) indicates that Peter's behavior contradicted his own convictions, leading even Barnabas astray.",
+        "The chapter culminates in Paul's theological climax (vv. 15–21), introducing the crucial term *dikaiōsynē* (\"righteousness/justification\"). Paul's declaration that no one is justified (*dikaioutai*) by \"works of law\" (*ergōn nomou*) but through faith in Christ Jesus establishes the epistle's central argument. Scholarly debate continues regarding whether *pistis Christou* (v. 16) denotes \"faith in Christ\" (objective genitive) or \"the faithfulness of Christ\" (subjective genitive), with significant theological implications for understanding salvation's basis.",
+        "Paul's concluding statement—\"I have been crucified with Christ\"—employs the perfect tense (*synestaurōmai*), indicating completed action with continuing results. This mystical participation language anticipates the fuller development in Romans 6 and establishes that life in the new age operates by fundamentally different principles than life under Torah."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Galatians 2: Prophetic perspective",
+      "overview": [
+        "Galatians chapter two emerges from the apostolic era approximately two decades after the resurrection and ascension of Christ, likely penned around AD 48-49, making it potentially the earliest letter in the New Testament canon. This places the epistle at a critical juncture in redemptive history—the church stands in the dawn of the new covenant age, yet faces the immediate danger of retreating into the shadows of the old. On the grand timeline of God's purposes, this chapter occupies that decisive moment when the implications of the cross must be defended against those who would rebuild what Christ had demolished.",
+        "Paul recounts his journey to Jerusalem fourteen years after his conversion, presenting the gospel he preached among the Gentiles to the pillar apostles—James, Peter, and John. The recognition they extend to Paul and Barnabas, symbolized by the right hand of fellowship, marks a prophetic watershed. Here the mystery hidden for ages begins its public vindication: that in Christ Jesus, the dividing wall of hostility between Jew and Gentile has been abolished. What Ezekiel glimpsed in his valley of dry bones—one nation raised from death—now takes flesh in this apostolic handshake. The Abrahamic promise that all nations would be blessed finds its channel not through circumcision but through faith in the Seed.",
+        "The confrontation at Antioch between Paul and Peter unveils a typological drama of immense consequence. Peter's withdrawal from table fellowship with Gentiles reenacts, in miniature, the old covenant separation that the cross had forever ended. His hypocrisy threatened to rebuild the very partition Christ's body had torn down. Paul's public rebuke becomes a prophetic act, declaring that the new exodus has occurred—not from Egypt but from the bondage of the law's inability to justify. To return to ceremonial boundaries was to deny that the true Passover Lamb had been slain.",
+        "The chapter reaches its theological summit in Paul's declaration of co-crucifixion with Christ. Here stands the believer's participation in the eschatological event that divided all history. The death Paul died to the law enables the life Christ now lives through him. This is not merely personal testimony but cosmic reality—the old Adam has been executed, and the new humanity has risen.",
+        "For the church awaiting Christ's return, Galatians two stands as perpetual sentinel against every false gospel that supplements grace with human achievement. The freedom Christ purchased must be jealously guarded until He comes to complete what His cross inaugurated."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "48_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.850304+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

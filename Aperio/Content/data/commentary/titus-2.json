@@ -1,0 +1,55 @@
+{
+  "book": "Titus",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Titus 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Life That Teaches: Devotional on Titus 2",
+      "overview": [
+        "The spiritual heart of this passage is beautifully straightforward: our lives are meant to be living lessons that draw others toward the gospel. Paul isn't writing abstract theology here; he's painting a portrait of what faithful Christian living actually looks like in a real household, a real community, and a real church.",
+        "Notice how Paul addresses each group—older men, older women, younger women, younger men, servants—not with condemnation but with invitation to excellence. He's saying that maturity in Christ expresses itself in specific, observable ways: self-control, integrity, sound teaching, love, and devotion. These aren't arbitrary expectations. They're the natural outworking of having encountered God's grace. When someone has truly met Jesus and understood his kindness toward them, they become different people. Their patience deepens. Their priorities shift. Their words carry a different weight.",
+        "The phrase \"teaching what is good\" (verse 3) is particularly striking. We often think we teach through words—sermons, lessons, conversations. But Paul reminds us that older women teach younger women mainly through example: how they love their families, how they handle their homes, what they do when no one's watching. A young believer learns more about Christian faith from watching her mentor respond to a difficult neighbor than from a dozen lectures. Lives preach louder than lips.",
+        "What makes this passage so encouraging is that it's not reserved for pastors or professionals. Every Christian, whatever their station in life, is called to be a teacher through the integrity and grace of their living. Your marriage, your work ethic, your response to hardship, your generosity—these are your curriculum. The world is always watching, and the watching world needs to see that the gospel produces real, visible transformation.",
+        "What area of your life might God be inviting you to align more fully with his character, so that your living becomes a clearer testimony to his grace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Titus 2: Scholarly study",
+      "overview": [
+        "Titus 2 stands as a centerpiece of the Pastoral Epistles' ethical instruction, representing Paul's mature reflection on how gospel theology shapes communal life within the household of God. Written to Titus, whom Paul had left on Crete to \"set in order what remains\" (1:5), this chapter addresses the practical outworking of \"sound doctrine\" (hygiainousē didaskalia) within a congregation surrounded by Cretan culture, which Paul himself characterized through the quotation of Epimenides as morally deficient (1:12). The term \"sound\" (hygiainō) carries medical connotations of health and wholeness, suggesting that proper teaching produces spiritual vitality rather than the diseased condition fostered by false teachers.",
+        "The chapter organizes its ethical exhortation according to household relationships, following a pattern common in Greco-Roman moral philosophy yet distinctively grounded in christological motivations. Paul addresses older men, older women, younger women, younger men, and slaves—categories reflecting the ancient Mediterranean household structure. The instruction to older women that they be \"reverent in behavior\" (hieroprepeis) employs vocabulary suggesting the sacred demeanor appropriate to those serving in a temple, elevating ordinary domestic virtue to liturgical significance. Their role in training younger women encompasses the compound virtue of being \"lovers of husband\" and \"lovers of children\" (philandrous, philoteknous), terms appearing rarely in Greek literature but capturing the affectionate dimension of household duty.",
+        "The theological grounding emerges dramatically in verses 11-14, where the \"grace of God\" (charis tou theou) appears as the divine pedagogue \"training\" (paideuousa) believers in godliness. This participial construction personifies grace as an active instructor, a striking image that connects ethical formation to soteriological reality. The eschatological horizon appears through the \"blessed hope\" (makarian elpida) and \"appearing\" (epiphaneian) of Christ, terminology that some scholars note bears resemblance to imperial cult language, perhaps deliberately presenting Christ as the true Savior against Roman claims.",
+        "The purpose clause in verse 14—that Christ might \"purify for himself a people for his own possession\" (laon periousion)—echoes Exodus 19:5 and Deuteronomy 14:2, positioning the church as the renewed Israel. This Old Testament allusion demonstrates how early Christian ethics remained anchored in covenant identity while extending membership beyond ethnic boundaries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Titus 2: Prophetic perspective",
+      "overview": [
+        "Titus 2 emerges from the apostolic period approximately three decades after Christ's resurrection and ascension, penned by Paul during his final years of ministry, likely around AD 63-65, between his first and second Roman imprisonments. This letter addresses the young church on the Mediterranean island of Crete, a congregation planted amid a culture notorious for moral corruption. Within the grand arc of redemption, this passage stands firmly in the Church Age—that remarkable epoch between Pentecost and the Second Coming when the Spirit indwells believers, forming them into the body of Christ as they await the blessed hope of His return.",
+        "Paul's instructions to Titus reveal the profound typological truth that the church itself serves as a living prophecy, a colony of the coming kingdom planted within the present evil age. The household codes given here—older men displaying dignified self-control, older women teaching younger women to love husbands and children, younger men exemplifying integrity, and bondservants adorning the gospel through faithful service—these are not mere moral platitudes but eschatological witness. The redeemed community embodies in the present what all creation will become when Christ returns. Every godly household, every faithful marriage, every honorable worker testifies prophetically that the kingdom has broken into history through the Incarnation.",
+        "The theological crescendo arrives in verses 11-14, where Paul unveils the architecture of salvation spanning past, present, and future. The grace of God \"has appeared\"—this points backward to the first advent, when the eternal Word took flesh and tabernacled among humanity. This same grace presently trains believers to renounce ungodliness, sanctifying them progressively as they sojourn between the ages. Yet the text pivots forward with electric anticipation: believers await \"the blessed hope, the appearing of the glory of our great God and Savior Jesus Christ.\" Here stands the eschatological horizon toward which all Christian living orients itself.",
+        "Christ's self-giving at Calvary accomplished what the Levitical sacrifices merely shadowed—He \"gave himself for us to redeem us from all lawlessness.\" This redemption echoes the Exodus typology, for as Israel was purchased from Egyptian bondage to become God's treasured possession, so now Christ has ransomed a people for His own possession, zealous for beautiful works that reflect His character.",
+        "For the church living between the advents, Titus 2 declares that doctrine and ethics are inseparable, that sound teaching necessarily produces holy living, and that every act of faithfulness bears witness to the coming King whose appearing will consummate all things."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "56_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.955582+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

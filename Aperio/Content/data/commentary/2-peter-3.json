@@ -1,0 +1,56 @@
+{
+  "book": "2 Peter",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Peter 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Peter 3: Living in Light of the End",
+      "overview": [
+        "The spiritual heart of this chapter is a call to patient hope and holy living in the shadow of Christ's return—a reminder that what we believe about the future fundamentally shapes how we live today.",
+        "Peter writes to Christians tempted to despair, perhaps wondering where the promised return of Jesus has gone. Scoffers are mocking the faith, suggesting the Lord's delay means His promise was never real. But Peter's response is bold: the apparent delay is actually an expression of God's patience, His desire for more people to repent and be saved. The Lord is not slow concerning His promise; He is long-suffering toward us. This reframing transforms anxiety into gratitude. The postponement we experience as frustration God experiences as merciful opportunity.",
+        "This theological truth carries profound practical weight. If Christ is truly coming, then our current troubles are not our final chapter. The petty disputes dividing churches, the career disappointments that consume us, the material accumulations we guard so jealously—all of it will be exposed for what it truly is when the heavens pass away with a roar and the elements melt with fire. Peter invites us to ask: What remains when everything burns? What am I building that will actually last?",
+        "The answer is not escapism but engagement. Knowing the day of judgment is coming, Peter asks, \"What kind of people ought you to be?\" The answer: holy and godly in your conduct, growing in knowledge of Jesus, showing diligence and genuine faith. Hope for Christ's return doesn't paralyze us; it propels us toward righteousness. We become passionate about growing spiritually, generous toward neighbors, and careful not to be \"carried away by the error of unprincipled men.\"",
+        "This is the Christian's peculiar posture: working as though we have all the time in the world while living as though we have none. We plan, we build, we love—not for this world's permanence, but as offerings to an eternal God.",
+        "What spiritual investments are you making that will outlast this age?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Peter 3: Scholarly study",
+      "overview": [
+        "The third chapter of Second Peter represents the epistle's theological climax, addressing eschatological skepticism that had emerged within early Christian communities. Writing in the Petrine tradition, the author confronts those who mock the delayed parousia, a challenge that became increasingly acute as the apostolic generation passed. The chapter divides naturally into three movements: a reminder of prophetic and apostolic teaching (vv. 1–2), a refutation of scoffers (vv. 3–13), and final exhortations incorporating reference to Pauline correspondence (vv. 14–18).",
+        "The scoffers' central objection appears in verse 4, questioning why the promised coming has not materialized since \"the fathers fell asleep.\" The term \"scoffers\" (*empaiktai*) carries connotations of those who mock through both word and lifestyle, suggesting their skepticism was accompanied by moral libertinism. Their argument reflects a proto-deistic worldview assuming cosmic uniformitarianism—that natural processes continue unchanged without divine intervention.",
+        "The author's response employs sophisticated theological reasoning. First, he invokes the Genesis flood as precedent for divine cosmic intervention, then articulates a remarkable theodicy of delay. The phrase \"with the Lord one day is as a thousand years\" (v. 8) draws upon Psalm 90:4, reframing apparent delay as divine patience (*makrothymia*). God's desire that none should perish but all reach repentance transforms eschatological delay from theological embarrassment into soteriological opportunity.",
+        "The cosmological imagery of verses 10–12, describing elements dissolving with fire (*stoicheia kausoumena*), has generated considerable interpretive discussion. Whether *stoicheia* refers to basic physical elements, celestial bodies, or spiritual powers remains debated, though the author's primary concern is ethical rather than speculative—such knowledge should produce holy conduct (*anastrophē*) and godliness (*eusebeia*).",
+        "Particularly significant is the reference to Paul's letters as authoritative writings that the \"ignorant and unstable twist\" (v. 16), suggesting an emerging recognition of Pauline correspondence as scripture alongside \"other scriptures.\" This passage provides crucial evidence for the developing New Testament canon. The chapter concludes with exhortation to stability and growth in grace and knowledge, bookending the epistle's opening emphasis on divine knowledge as the foundation of Christian existence and ethical transformation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Peter 3: Prophetic perspective",
+      "overview": [
+        "This epistle was written approximately thirty years after the resurrection, likely in the mid-60s AD, as the apostle Peter faced imminent martyrdom and sought to fortify the church against false teachers who mocked the promise of Christ's return. The passage addresses believers living in the already-and-not-yet tension of the church age, that extended period between Christ's ascension and His visible return in glory.",
+        "Within the grand arc of redemption, Second Peter chapter three occupies sacred ground between the Cross and the Second Coming, instructing the church on how to understand the apparent delay of the Day of the Lord. Peter reaches backward to Creation, the Flood, and forward to the final conflagration, demonstrating that the God who judged the ancient world by water will judge the present heavens and earth by fire. The typological pattern emerges with stunning clarity: Noah's flood stands as a shadow of the coming judgment, the ark prefiguring Christ as the sole refuge from divine wrath. Just as the antediluvian world perished through water while eight souls were saved, so the present cosmos awaits purification by fire while those hidden in Christ shall inherit the new heavens and new earth where righteousness dwells.",
+        "The eschatological threads woven through this chapter are manifold. The scoffers who ask \"Where is the promise of His coming?\" echo the mockers of every age, yet Peter unveils divine perspective: with the Lord one day is as a thousand years. This is not divine tardiness but divine patience, the longsuffering of a God who desires none to perish but all to come to repentance. What appears as delay is actually the expansion of mercy, the gathering of the full number of the elect across all nations. The Day of the Lord will come as a thief—sudden, unexpected, catastrophic for the unprepared. The elements shall melt with fervent heat, not as cosmic annihilation but as purging refinement, giving way to the promised new creation where the dwelling of God shall be with humanity forever.",
+        "For the church living between the advents, this passage issues both warning and hope. The scoffers remain among us, the temptation to abandon vigilance persists, yet the promise stands immutable. Peter's exhortation to holy conduct and godliness flows directly from eschatological certainty—knowing the end shapes how we live now. The church hastens toward that Day, not with fear but with eager longing, knowing that the same word that spoke creation into existence and preserved Noah through judgment will accomplish the final redemption of all things."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "61_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.029625+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Jeremiah",
+  "chapter": 30,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 30 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 30: God's Promise Beyond Devastation",
+      "overview": [
+        "God speaks restoration over a broken people, transforming the silence of exile into a song of redemption. This chapter holds one of Scripture's most tender promises: that endings are never final when the Lord remains faithful.",
+        "Jeremiah 30 arrives during one of Israel's darkest chapters. The nation faces destruction, exile, and the collapse of everything that once felt permanent. Yet in this moment of unthinkable loss, God instructs Jeremiah to write words of hope. \"Restore the fortunes of my people,\" God says, promising that Jacob will be brought back from captivity and know safety again. The Lord speaks of binding up wounds, healing diseases, and establishing Jerusalem once more.",
+        "What makes this passage so remarkable is its refusal to minimize genuine suffering. God doesn't deny that distress will come or that pain is real. But He frames it within a larger narrative: \"I am with you to save you,\" He declares. This isn't optimism that ignores hardship; it's covenant faithfulness that transcends it.",
+        "For those navigating seasons of profound difficulty—broken relationships, financial collapse, health crises, shattered dreams—these words offer something more sustaining than mere comfort. They anchor hope in God's character, not in circumstances changing quickly. God promises His people that their story doesn't end in devastation. Though they may feel abandoned in exile, His love hasn't withdrawn.",
+        "The rhythm of Jeremiah 30 teaches us that restoration rarely happens instantly. It requires time, patience, and deep trust. Yet God invites His people to write these promises down, to speak them aloud, to remember that what seems irreversibly broken can be remade. The God of resurrection works not just in dramatic moments but through the long, faithful work of healing and renewal.",
+        "What area of your life feels beyond restoration? How might you release your grip on that situation and trust God's promise that His purposes extend beyond your current pain?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 30: Scholarly study",
+      "overview": [
+        "Jeremiah 30 marks a pivotal transition in the prophetic corpus, introducing what scholars commonly designate the \"Book of Consolation\" (chapters 30–33), a collection of oracles promising restoration that stands in marked contrast to the predominantly judgmental tenor of the preceding material. The chapter's composition likely reflects multiple stages of development, with an original core dating to Jeremiah's ministry during the tumultuous final decades of Judah's existence (late seventh to early sixth century BCE), though editorial expansion during the exilic period remains probable. The divine command to write these words in a scroll (v. 2) suggests the prophet's awareness that these promises would require preservation for a future generation who would witness their fulfillment.",
+        "The Hebrew term *šəḇûṯ* (often rendered \"fortunes\" in the phrase \"restore the fortunes\") in verse 3 has generated considerable scholarly discussion. Some manuscripts suggest a connection to *šəḇîṯ* (\"captivity\"), while others link it to the root meaning \"to return\" or \"to restore.\" This semantic range encompasses both physical return from exile and comprehensive renewal of covenantal blessing. The passage's reference to both Israel and Judah indicates a vision of reunified restoration transcending the political division that had persisted since 922 BCE.",
+        "Verses 5–7 employ the striking image of warriors clutching their loins like women in labor, depicting the terror of judgment through gender reversal that would have carried particular rhetorical force in ancient Israelite patriarchal society. The designation of this period as \"a time of distress for Jacob\" (*ʿēṯ ṣārâ*) introduces vocabulary that would later inform apocalyptic eschatology. The chapter's theological architecture moves dialectically from judgment through suffering toward ultimate deliverance, establishing a pattern fundamental to prophetic theodicy.",
+        "The promise of Davidic restoration (v. 21) employs the participial form *môšēl* (\"ruler\") rather than *melek* (\"king\"), possibly reflecting cautious hope during a period when monarchy seemed impossible. The concluding verses reintroduce judgment motifs, creating an inclusio that frames restoration promises within the broader context of divine justice, reminding readers that salvation and judgment remain inseparable aspects of Yahweh's covenantal purposes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 30: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter thirty was written approximately 586 years before the birth of Christ, during the final catastrophic years of Judah's existence as a sovereign nation. Babylon had already breached Jerusalem's walls, and the covenant people faced imminent exile—the culmination of centuries of unfaithfulness. Yet precisely at this moment of utter devastation, the Lord commanded Jeremiah to write words of restoration in a book, preserving hope for generations who would read these promises while languishing in foreign captivity.",
+        "Within the grand arc of redemptive history, this chapter stands at the threshold between judgment and restoration, between the old covenant's failure and the new covenant's dawn. The kingdom established under David had collapsed under the weight of Israel's sin. The exile loomed as a second Egypt, yet embedded within this oracle of comfort lies the promise that God's purposes through Abraham—to bless all nations through his seed—remained unshakable.",
+        "The prophetic voice here operates on multiple horizons simultaneously. The immediate restoration from Babylon after seventy years represents the first layer of fulfillment, when Cyrus decreed the return. Yet the language transcends mere political restoration. When the Lord declares He will break the yoke from Jacob's neck and foreigners shall no longer enslave them, the ultimate reference points toward Christ's liberation of His people from sin's bondage. The promise that they shall serve \"David their king, whom I will raise up\" cannot refer to the historical David, already dead for centuries, but to great David's greater Son—the Messiah who would sit upon David's throne forever.",
+        "The description of Jacob's trouble—a time of unprecedented distress from which he shall be saved—carries eschatological weight that reaches beyond the Babylonian crisis. This language reverberates through Daniel's prophecies and finds its fullest expression in the Great Tribulation preceding Christ's return, when Israel shall finally look upon Him whom they pierced and mourn.",
+        "The wound described as incurable, the sickness beyond remedy, portrays sin's devastating effects that no human physician could heal. Yet the Lord Himself promises restoration of health—a divine healing that only the suffering Servant of Isaiah could accomplish through His stripes.",
+        "For the church dwelling between the advents, this chapter declares that God's apparent silence during seasons of discipline never signals abandonment. The same Lord who promised to make a full end of all nations while preserving His people remains faithful today, working all things toward that final restoration when every wound shall be healed and every exile ended in the New Jerusalem."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_030",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.984574+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "book": "Matthew",
+  "bookIndex": 39,
+  "status": "Editorial draft",
+  "title": "Matthew: The King Who Teaches His People",
+  "subtitle": "Israel’s promised Messiah, a life of mercy, and a mission reaching every nation.",
+  "atAGlance": {
+    "genre": "Gospel: narrative and extended teaching",
+    "setting": "Galilee and Judea under Roman rule; Jesus’ birth, ministry, death, and resurrection.",
+    "composition": "Traditionally attributed to Matthew; anonymous within the narrative. Composed in the first century, often placed after AD 70; exact dating remains disputed.",
+    "audience": "A community deeply engaged with Israel’s Scriptures and the formation of disciples, with a mission to all nations."
+  },
+  "sections": [
+    {
+      "title": "A story rooted in promise",
+      "paragraphs": [
+        "Matthew opens with a genealogy because Jesus’ identity belongs within a history. Abraham, David, the exile, and the generations that follow give the opening its shape. God’s promise has passed through fragile households, kingship, loss, and waiting. Into that story comes Jesus, called Messiah and Emmanuel. His arrival announces that God’s faithfulness has a human face and that the history of Israel matters for understanding Him.",
+        "The birth scenes already hold together welcome and opposition. Foreign visitors seek the child while Herod fears a rival. Joseph must listen, act, and protect his family. Those contrasts prepare for the larger Gospel, where people repeatedly decide what Jesus’ authority means for them. The central question is how to respond when God’s promised king arrives with healing, teaching, and mercy."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The book and its first setting",
+      "paragraphs": [
+        "The narrative does not identify its writer. Early Christian tradition associated the Gospel with Matthew the tax collector, whom Jesus calls in chapter 9. Modern scholarship distinguishes that tradition from what the book itself establishes. Many scholars judge that Matthew used Mark alongside other material and place the Gospel in the later first century; earlier dates are also defended. A precise city or year cannot be recovered with confidence.",
+        "The story unfolds within Jewish life under Roman power. Temple, synagogue, Torah, festivals, and hopes for restoration form its world. Matthew’s disputes concerning religious leadership come from that particular setting. They should be read with the knowledge that Jesus, His disciples, and the Scriptures He interprets are Jewish. The Gospel’s arguments cannot fairly be converted into contempt for Jewish people across time."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Teaching that takes a whole life",
+      "paragraphs": [
+        "Matthew gives unusually sustained attention to Jesus as teacher. The Sermon on the Mount addresses anger, reconciliation, desire, honesty, retaliation, prayer, possessions, and trust. Its closing picture of two houses makes hearing and doing inseparable. The question is whether His words have become the foundation of daily conduct. Jesus’ teaching asks what sort of person is being formed beneath visible religious activity.",
+        "Five major teaching collections are commonly recognized in chapters 5–7, 10, 13, 18, and 24–25. Between them, encounters show what the teaching looks like when it meets sickness, fear, social boundaries, and opposition. Keep the instruction beside those encounters. Mercy toward a desperate person illuminates the demand for mercy in a sermon. The disciples’ misunderstandings reveal why instruction must continue even after someone has decided to follow."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Kingdom, righteousness, and fulfillment",
+      "paragraphs": [
+        "The “kingdom of heaven” is Matthew’s frequent expression for God’s reign. It concerns the authority and generosity of God becoming visible in Jesus and shaping a people who live toward His promised future. The parables give that reign surprising forms: growth that begins small, treasure that reorders desire, and judgment that exposes how people have treated others.",
+        "“Righteousness” also needs the book’s context. It includes the faithfulness God seeks in prayer, relationships, justice, and mercy. Jesus’ insistence on fulfilling the Law and the Prophets belongs beside His criticism of religious display. Matthew’s repeated fulfillment quotations invite comparison with the original passages in Israel’s Scriptures. Sometimes the connection concerns a direct expectation; sometimes it follows a pattern in Israel’s story that Matthew sees reaching a new expression in Jesus."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The road to the cross and beyond",
+      "paragraphs": [
+        "As Jesus approaches Jerusalem, questions about authority grow sharper. He confronts exploitation, teaches about watchfulness, and speaks of a final reckoning. The arrest and trial expose failure among His followers as well as hostility among His opponents. Peter’s denial and Judas’s betrayal prevent discipleship from being romanticized. The king proclaimed in the opening chapters is mocked as king at His death.",
+        "The resurrection leads to a commission grounded in Jesus’ authority. The disciples are to make disciples among all nations, baptizing and teaching them to observe what He commanded. The Gospel ends by returning to its opening assurance of God’s presence. Read Matthew with those two ends in mind: Emmanuel at the beginning and Jesus’ continuing presence at the conclusion. Between them, the book teaches a community to practice forgiveness, faithful obedience, and mercy while it carries good news beyond familiar boundaries."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Origins and preparation",
+      "startChapter": 1,
+      "endChapter": 4,
+      "description": "Genealogy, birth, John’s ministry, temptation, and the beginning in Galilee."
+    },
+    {
+      "label": "The kingdom taught and enacted",
+      "startChapter": 5,
+      "endChapter": 10,
+      "description": "The mountain teaching, healings, and the disciples’ mission."
+    },
+    {
+      "label": "Responses to Jesus",
+      "startChapter": 11,
+      "endChapter": 18,
+      "description": "Controversies, parables, growing recognition, and life together."
+    },
+    {
+      "label": "Jerusalem and the coming reckoning",
+      "startChapter": 19,
+      "endChapter": 25,
+      "description": "The journey, public confrontation, and teaching on readiness."
+    },
+    {
+      "label": "Passion, resurrection, and commission",
+      "startChapter": 26,
+      "endChapter": 28,
+      "description": "Jesus’ death, the empty tomb, and the mission to the nations."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Fulfillment",
+      "description": "Jesus is understood within Israel’s Scriptures and history."
+    },
+    {
+      "name": "Practiced righteousness",
+      "description": "Prayer, mercy, and obedience are joined in discipleship."
+    },
+    {
+      "name": "God with us",
+      "description": "Divine presence frames the Gospel and sustains its mission."
+    }
+  ],
+  "timeline": {
+    "era": "jesus",
+    "dateLabel": "Late first century BC–early first century AD",
+    "context": "Narrative setting: the era of Jesus, culminating in His death and resurrection around AD 30–33. The opening genealogy reaches back through Israel’s earlier history.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 2,
+      "era": "jesus",
+      "label": "Jesus’ ancestry, birth, and early years",
+      "dateLabel": "Late first century BC",
+      "note": "The infancy narrative is set under Herod the Great. The genealogy reaches back through much earlier generations."
+    },
+    {
+      "start": 3,
+      "end": 28,
+      "era": "jesus",
+      "label": "Jesus’ ministry, death, and resurrection",
+      "dateLabel": "First century AD; ministry approximately late AD 20s–early 30s",
+      "note": "These broad dates describe the narrative setting, not the later composition of the Gospel."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Matthew · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Matthew · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/matthew/lessons/summary-of-matthew/"
+    },
+    {
+      "id": "infancy-setting",
+      "label": "Luke 1:5 · historical setting and note",
+      "url": "https://bible.usccb.org/bible/luke/1"
+    }
+  ]
+}

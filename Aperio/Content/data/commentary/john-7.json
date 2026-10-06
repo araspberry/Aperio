@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 7: The Tension Between Belief and Resistance",
+      "overview": [
+        "In John 7, Jesus navigates the dangerous middle ground between popularity and opposition, teaching that authentic faith cannot be manufactured by signs alone but emerges through sincere seeking of God's will. This chapter captures the unsettling reality that proximity to Jesus does not guarantee understanding, and that belief often demands more courage than comfort allows.",
+        "The scene opens with Jesus' brothers urging him toward public spectacle—go to Jerusalem, perform miracles, build your reputation. Their counsel reveals how easily the world's logic infiltrates even family relationships, measuring worth by visibility and validation. Yet Jesus refuses this path. He will not perform on demand because genuine faith cannot be mass-produced. Instead, he teaches at the festival in a way that divides hearers. Some marvel at his wisdom; others dismiss him as deceived or demonic. This division was inevitable, for truth always creates tension in hearts unprepared to receive it.",
+        "What strikes the reader is how the crowds reason about Jesus based on incomplete knowledge. They debate whether he is the Messiah while arguing about geography and scripture, never truly asking him directly or pursuing him with sincere hearts. Their resistance is often intellectual armor protecting them from transformative commitment. Meanwhile, Jesus' promise that rivers of living water will flow from believers points toward a joy and fulfillment that no external achievement can match.",
+        "The chapter closes with officers sent to arrest Jesus returning empty-handed, their hearts somehow moved by his words. Even those commissioned to oppose him find his teaching difficult to dismiss entirely.",
+        "This passage invites us to examine our own relationship with Jesus. Are we seeking understanding born from genuine hunger, or defending positions? Do we let intellectual objections shield us from the vulnerability that faith requires? The living water Jesus promises flows not to the intellectually satisfied but to the spiritually thirsty.",
+        "What would it look like for you to approach Jesus today with the openness of someone truly seeking, rather than someone already convinced you have him figured out?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 7: Scholarly study",
+      "overview": [
+        "John 7 presents a pivotal moment in the Fourth Gospel's narrative architecture, situated within what scholars commonly identify as the \"Festival Cycle\" spanning chapters 5–10. The temporal setting is the Feast of Tabernacles (Sukkot), a seven-day autumn celebration commemorating Israel's wilderness wanderings and anticipating eschatological hopes of salvation and living water. This festival context proves exegetically crucial, as Jesus's declarations throughout the chapter directly engage Tabernacles imagery and ritual practice.",
+        "The chapter opens with striking familial tension, as Jesus's brothers urge him to reveal himself publicly in Judea. Their challenge carries theological weight when read alongside the Johannine theme of belief and unbelief, with the narrator's parenthetical comment that \"not even his brothers believed in him\" (v. 5) underscoring the scandal of rejected messiahship within one's own household. Jesus's initial refusal followed by subsequent private journey to Jerusalem has generated considerable text-critical debate, as some manuscripts read \"not yet\" (οὔπω, *oupō*) rather than \"not\" (οὐκ, *ouk*) in verse 8, a variant that early copyists may have introduced to resolve apparent deception.",
+        "The central discourse material clusters around two proclamations corresponding to Tabernacles rituals. Jesus's cry on the \"last and greatest day\" (v. 37) invoking \"rivers of living water\" (ὕδωρ ζῶν, *hydōr zōn*) directly engages the water-drawing ceremony where priests processed from the Pool of Siloam to pour water at the altar. The precise punctuation of verses 37–38 remains contested among interpreters: does the living water flow from the believer or from Christ himself? The latter reading finds support in Johannine christological patterns where Jesus embodies what he offers.",
+        "The chapter concludes with escalating division (σχίσμα, *schisma*) among the crowds and authorities regarding Jesus's identity—a literary technique the Fourth Evangelist employs to force readers toward decision. The Pharisees' dismissive characterization of the believing crowd as those who \"do not know the law\" stands in ironic contrast to Nicodemus's tentative appeal for proper legal procedure, thus exposing the religious establishment's own failure to practice the Torah they claim to protect."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 7: Prophetic perspective",
+      "overview": [
+        "This passage unfolds during the earthly ministry of Jesus, approximately AD 29-30, at the Feast of Tabernacles in Jerusalem—roughly three and a half years before the cross and forty days before the resurrection that would follow it. Within the grand arc of redemption, we stand at the climactic moment of incarnation, when the Word made flesh walks among His covenant people, the very fulfillment of all that Israel's festivals and temple worship had anticipated for fifteen centuries.",
+        "The Feast of Tabernacles itself drips with prophetic significance. Instituted after the Exodus to commemorate Israel's wilderness wandering, it looked backward to God's faithful provision and forward to the final ingathering of God's people. Each day priests drew water from the Pool of Siloam and poured it at the altar base while the people sang the Hallel psalms, crying out for the latter rains and the eschatological outpouring promised through the prophets. It is precisely at the climax of this ceremony, on the great day of the feast, that Jesus stands and cries out, \"If anyone thirsts, let him come to me and drink.\" The One who struck the rock in Horeb now reveals Himself as the Rock from whom living waters flow. Moses was the servant who mediated water in the wilderness; Jesus is the Son who becomes the eternal fountain. The typological pattern reaches its antitype.",
+        "John's inspired commentary unveils the prophetic horizon: \"This he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.\" Here is prophecy spoken and prophecy yet unfulfilled at the moment of speaking. The glorification through crucifixion, resurrection, and ascension remained future; Pentecost waited in the divine calendar. What Isaiah, Ezekiel, and Joel had foretold—the Spirit poured out on all flesh, rivers flowing from the sanctuary, water in the desert—would cascade into history fifty days after Passover's ultimate Lamb was slain.",
+        "The division among the crowds reveals another prophetic pattern: Christ becomes the stone of stumbling and rock of offense. The officers return empty-handed, captivated. The Pharisees rage. Nicodemus whispers caution. The sifting has begun that will culminate in crucifixion.",
+        "For the church living between Pentecost and Parousia, this passage announces present possession and future hope. The rivers of living water now flow from every believer's innermost being through the indwelling Spirit, yet we still thirst for the consummation when the river of life flows from the throne of God and the Lamb, and the nations are healed forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.625277+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

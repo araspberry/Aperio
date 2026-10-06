@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 29: The Cost of Love and the Grace of Persistence",
+      "overview": [
+        "Jacob's journey to find a wife becomes a profound meditation on how desire reveals what we truly value, and how God often works through our deepest longings to reshape our character. When Jacob sees Rachel at the well, he experiences love at first sight—that overwhelming encounter with beauty and promise that awakens the heart. Yet what follows is not the quick reward he expects, but fourteen years of labor, deception, and complicated family entanglement that will teach him far more than romance alone ever could.",
+        "The heart of this passage lies in recognizing that God does not always grant our desires on our timetable. Jacob promised seven years of service for Rachel, a staggering commitment born of genuine love. Yet Laban's deceit—substituting Leah on the wedding night—introduces pain into Jacob's happiness and forces him to confront the reality that life is messier than our romantic ideals. More profoundly, it places Jacob in the position of the deceived, when he himself has been a deceiver. The God who orchestrates these events is neither indifferent nor cruel; rather, He is patient and purposeful, using even our frustrations to deepen us.",
+        "Leah's story alongside Rachel's speaks to the grace that works in hidden places. Though unloved and unwanted, Leah bears children and becomes the mother of Judah, from whose line Jesus will come. Her despised position becomes the seedbed of salvation history. This reminds us that God sees the overlooked, values the rejected, and works through circumstances we might consider unfortunate to accomplish His redemptive purposes.",
+        "For those of us navigating delayed dreams or unexpected complications in our longings, Jacob's extended waiting period offers comfort. The passage teaches that God uses time and struggle not as punishment but as transformation. Our deepest desires, placed in God's hands, become tools of His grace rather than merely sources of our happiness.",
+        "What desires in your life feel delayed or complicated? Can you sense God's hand reshaping you through the waiting?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 29: Scholarly study",
+      "overview": [
+        "Genesis 29 presents a pivotal narrative in the patriarchal cycle, recounting Jacob's arrival in Haran, his encounter with Rachel at the well, and his subsequent marriages to Leah and Rachel under the deceptive machinations of Laban. This chapter marks Jacob's transition from fugitive to family patriarch while simultaneously demonstrating the principle of measure-for-measure retribution, as the deceiver of Genesis 27 now becomes the deceived.",
+        "The chapter opens with Jacob arriving at a well in the \"land of the people of the east\" (*ʾereṣ bĕnê-qedem*), a geographical designation encompassing the Aramean territories of upper Mesopotamia. The well scene deliberately echoes the betrothal type-scene established in Genesis 24 with Rebekah, creating intertextual resonance that signals covenantal continuity. Jacob's extraordinary feat of rolling the stone from the well's mouth—typically requiring multiple shepherds—demonstrates both his physical prowess and his eagerness upon seeing Rachel, whose name (*rāḥēl*) means \"ewe,\" appropriately introducing her as a shepherdess.",
+        "The narrative's theological weight intensifies in the marriage deception. Laban substitutes Leah for Rachel on the wedding night, exploiting the darkness and bridal veiling customs of ancient Near Eastern practice. The Hebrew text employs pointed irony: Leah is described as having \"weak\" or \"tender\" eyes (*rakkôt*), a term of ambiguous valence that may indicate either a deficiency or a gentle quality, contrasting with Rachel's explicit beauty. Interpreters have long debated whether this description diminishes Leah or simply differentiates the sisters.",
+        "The chapter concludes by introducing the theme of barrenness and divine intervention that will dominate the following narrative. The Lord \"saw\" (*wayyarʾ*) that Leah was unloved (*śĕnûʾâ*, literally \"hated,\" though contextually indicating lesser favor) and opened her womb. This divine compassion for the marginalized wife establishes a pattern wherein God consistently elevates the overlooked. The birth of Reuben, whose name Leah connects to the Lord \"seeing\" her affliction, initiates the twelve-tribe structure fundamental to Israelite identity. Thus Genesis 29 functions as both family drama and theological statement about divine providence operating through flawed human agents."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 29: Prophetic perspective",
+      "overview": [
+        "Genesis 29 unfolds approximately 1900 years before the birth of Christ, during the patriarchal age when God was establishing the covenant family through whom all nations would be blessed. This chapter occurs within the second generation of that promise, as Jacob—the heir of Abraham and Isaac—journeys to Paddan-aram to find a wife from his mother's kinsmen. We stand here at the threshold of Israel's formation as a people, for from the wombs of the women in this chapter will come the twelve tribes.",
+        "The narrative opens with Jacob arriving at a well in the field, where shepherds have gathered waiting for the stone to be rolled away so the flocks might drink. When Rachel appears, Jacob single-handedly removes the massive stone and waters her flock—an act of extraordinary strength born of love at first sight. Here the typological pattern emerges with striking clarity: the well in Scripture consistently represents life and salvation, and the one who opens the well and gives water to the bride prefigures Christ, the greater Bridegroom who rolls away every stone of death and gives living water to His beloved. As Jacob served seven years for Rachel and they \"seemed to him but a few days because of the love he had for her,\" so Christ's love for His church made the suffering of the cross a joy set before Him.",
+        "Yet the narrative turns dark with Laban's deception. The deceiver Jacob is himself deceived, receiving Leah instead of Rachel on his wedding night. The sovereign irony is unmistakable—he who stole his brother's blessing through disguise now receives the wrong bride through the same means. God's providence weaves even human treachery into His purposes. From unloved Leah will come Judah, through whose line the Messiah will descend, and Levi, from whom the priesthood will arise.",
+        "The chapter closes with Leah bearing four sons, naming them from her anguish: \"The Lord has looked upon my affliction... the Lord has heard that I am unloved.\" In her suffering, Leah becomes a type of all who are despised yet chosen, rejected by man yet beloved by God. Her cry anticipates the afflicted Servant who was \"despised and rejected by men.\"",
+        "For the church awaiting Christ's return, Genesis 29 teaches that God accomplishes His redemptive purposes through broken vessels, tangled circumstances, and years of patient waiting. The Bridegroom who labored for His bride will return for her, and every tear of the unloved will be wiped away."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.708019+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 6: The Weight of God's Grief",
+      "overview": [
+        "The spiritual heart of this passage is God's painful exposure of idolatry and His determination that His people see what they have become. Through Ezekiel's prophetic words, we encounter not an angry God who has stopped caring, but a God whose love is so deep that He must shake His people awake to the ruin they've made of their lives.",
+        "God calls Ezekiel to prophesy against the mountains of Israel, where idols were worshiped and high places desecrated. The vivid imagery—swords, blood, scattered bones—communicates something crucial: idolatry is not a private spiritual preference. It ravages entire communities, breaking the covenant relationship that holds everything together. Yet notice God's recurring refrain: \"Then you will know that I am the Lord.\" Judgment is not the end; it is a means toward recognition, toward remembrance of who God truly is.",
+        "What strikes the pastoral heart about this passage is how it speaks to our own spiritual wandering. We too can drift into idolatries that seem small—the worship of success, of being noticed, of financial security, of someone else's approval. Like ancient Israel, we often don't realize the wreckage these small gods create in our souls until we face their emptiness. God's word through Ezekiel is severe because the disease is severe. He will not let us comfort ourselves with counterfeits.",
+        "Yet embedded in the judgment is mercy. God doesn't destroy the remnant entirely. Some will escape and remember. Discipline from the God who loves us, while painful, is always redemptive. It's the opposite of indifference. It says, \"You are worth fighting for. Your life matters too much for Me to let you waste it.\"",
+        "What idols am I worshiping in hidden ways? And am I willing to let God's loving disruption bring me back home to Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 6: Scholarly study",
+      "overview": [
+        "Ezekiel 6 presents a prophetic oracle against the mountains of Israel, representing one of the most vivid condemnations of Israelite cultic apostasy in the Hebrew Bible. Composed during the early exilic period, likely around 592 BCE, this chapter reflects Ezekiel's priestly perspective and his acute concern with the profanation of sacred space. The prophet, himself a priest exiled to Babylon in 597 BCE, addresses the landscape itself as a rhetorical device, transforming geography into theological symbol.",
+        "The chapter opens with the divine command to \"set your face\" (*śîm pānêkā*) toward the mountains, a formulaic expression indicating prophetic confrontation. The mountains function metonymically for the high places (*bāmôt*), the local shrines where syncretistic worship flourished throughout Israel's history. Ezekiel's polemic targets these sites with particular intensity, employing the term *gillûlîm* (often rendered \"idols\" but literally suggesting \"dung pellets\") no fewer than thirty-nine times throughout his prophecy, a deliberately pejorative designation expressing utter contempt for non-Yahwistic worship.",
+        "The judgment announced encompasses comprehensive destruction: altars shattered, incense stands broken, and corpses strewn before the idols. This vivid imagery inverts the sacrificial system—rather than animal offerings before YHWH, human bodies become the gruesome \"offerings\" before false deities. The phrase \"then you shall know that I am YHWH\" (*wîdaʿtem kî-ʾănî YHWH*) appears as a refrain throughout, constituting the recognition formula that pervades Ezekiel's theology. Divine judgment serves an epistemological purpose: catastrophe becomes revelation.",
+        "The chapter's structure moves from judgment to a remnant motif in verses 8–10, where survivors among the nations will remember YHWH and recognize their own culpability. The term *nišbar* (\"broken\") describes YHWH's response to Israel's adulterous heart, suggesting divine grief alongside wrath. Scholarly debate continues regarding whether this remnant theology represents original material or later editorial expansion, though the theme coheres with Ezekiel's broader pastoral concern for restoration beyond judgment. The chapter concludes with the symbolic gesture of clapping hands and stamping feet, embodying the prophet's embodied proclamation of comprehensive judgment upon a wayward covenant people."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 6: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter six was written approximately 593 years before the birth of Christ, during the early years of the Babylonian exile. The prophet Ezekiel, himself a captive in Babylon, receives this word against the mountains of Israel while the temple still stands in Jerusalem, though its destruction looms only six years away. This oracle of judgment belongs to the period of covenant curse, when God's patience with His idolatrous people has reached its appointed end and the consequences long threatened through Moses are about to fall with devastating finality.",
+        "Within the grand redemptive arc, this passage stands at the darkest hour before midnight—the collapse of the Davidic kingdom and the apparent failure of all God's promises. Yet even here, in the valley of judgment, we glimpse the shadow of resurrection hope. The mountains and high places, once devoted to Baal worship and Asherah poles, must be stripped bare so that true worship might one day flourish. The scattering of bones around pagan altars presents a haunting precursor to the valley of dry bones in chapter thirty-seven, where God will reverse death itself and reconstitute His people.",
+        "The threefold judgment of sword, famine, and plague that Ezekiel pronounces carries profound typological weight. These instruments of covenant curse reveal what sin truly deserves, making the cross of Christ shine with greater brilliance. What Israel suffered temporally for her idolatry, Christ absorbed eternally for His bride. The slain bodies falling before their worthless idols expose the ultimate fruit of false worship—death in the presence of that which cannot save.",
+        "Yet the prophetic word does not end in annihilation. God declares He will preserve a remnant scattered among the nations, and these survivors will remember Him. Their broken hearts and blinded eyes will finally see their detestable practices for what they were. This remnant theology runs like a scarlet thread through all Scripture, pointing toward the faithful few who would receive their Messiah and become the nucleus of the new covenant community.",
+        "The refrain \"then you will know that I am the LORD\" thunders four times through this chapter. God's self-revelation comes through judgment as surely as through deliverance. Both Sinai and Calvary, both exile and exodus, serve His ultimate purpose—that every knee should bow and every tongue confess His sovereign lordship.",
+        "For the church awaiting Christ's return, Ezekiel six warns that the living God will not share His glory with idols of any age, while assuring us that His purposes of redemption cannot be thwarted even by humanity's most grievous betrayals."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.093614+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

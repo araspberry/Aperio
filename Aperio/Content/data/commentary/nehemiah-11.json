@@ -1,0 +1,56 @@
+{
+  "book": "Nehemiah",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 11: The Courage to Settle",
+      "overview": [
+        "Nehemiah 11 reveals a stunning spiritual principle: rebuilding God's work requires not just workers and resources, but people willing to plant their lives in the recovered land. After the wall's completion, the returned exiles faced a critical question—who would actually live in Jerusalem and call it home?",
+        "The chapter opens with a casting of lots to determine who would relocate from the surrounding towns into the rebuilt but still-vulnerable city. This wasn't simply a demographic necessity; it was a test of faith. Jerusalem remained exposed. Resources were limited. Yet someone had to occupy the city, to give it life and testimony. What emerges is a beautifully ordinary picture of commitment: priests, Levites, gatekeepers, singers, and common families all drawing lots, accepting the assignment, and moving.",
+        "The genealogies that follow might seem tedious, but they unmask something profound. These weren't famous names or celebrated leaders alone. Most were forgotten people whose names appear nowhere else in Scripture. Yet their willingness to settle in Jerusalem—to raise children there, to bury ancestors there, to witness through their ordinary presence—formed the backbone of restored community life. They understood that spiritual rebuilding happens through faithful presence, not just charismatic leadership.",
+        "This speaks directly to modern discipleship. How many of us are called not to dramatic vocations but simply to stay, to show up, to plant ourselves in our local churches and neighborhoods when it would be easier to drift elsewhere? Settling requires the courage to commit when circumstances remain imperfect and outcomes uncertain.",
+        "The principle transcends geography. In marriage, in church membership, in community responsibility—God invites us to cast aside the luxury of perpetual mobility and choose roots. He invites us to believe that his work advances through the faithful, unremarkable presence of ordinary people who refuse to leave.",
+        "Where is God calling you to settle, to commit, to invest your presence not for acclaim but for the simple sake of his kingdom taking root?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 11: Scholarly study",
+      "overview": [
+        "Nehemiah 11 presents a critical juncture in the restoration community's establishment, detailing the repopulation of Jerusalem following the wall's completion and the covenant renewal ceremony of chapter 10. The chapter addresses a fundamental problem facing the post-exilic community: despite Jerusalem's theological and political significance, the city remained underpopulated while the surrounding villages offered more comfortable living conditions. The narrative framework suggests this text derives from administrative records, likely composed or compiled during Nehemiah's governorship in the mid-fifth century BCE, though the lists themselves may preserve earlier census materials.",
+        "The opening verses reveal the creative solution to Jerusalem's demographic crisis. The term \"cast lots\" (*hippîl gôrālôt*) indicates a sacred method of discernment, transforming what could have been a contentious redistribution into a divinely sanctioned arrangement. The community designated one-tenth of the rural population for urban relocation, while those who volunteered (*mitnaddĕbîm*) received communal blessing, suggesting the move involved genuine sacrifice. The Hebrew root *ndb* connotes willing, generous giving, highlighting the costly nature of leaving ancestral lands to inhabit the \"holy city\" (*'îr haqqōdeš*), a designation appearing here that emphasizes Jerusalem's sacred character.",
+        "The extensive genealogical lists occupying the chapter's remainder serve multiple functions within the broader Nehemiah narrative. The enumeration of Judahite and Benjaminite families establishes legitimate claims to residence while demonstrating continuity with pre-exilic Israel. Scholarly debate surrounds the relationship between these lists and the parallel material in 1 Chronicles 9, with some arguing for common source dependency and others positing independent traditions. The detailed accounting of priests, Levites, gatekeepers, and temple servants (*nĕtînîm*) underscores the reconstituted community's cultic priorities, ensuring adequate personnel for temple service.",
+        "The chapter concludes with a geographical survey of settlements outside Jerusalem, mapping the restored community's territorial extent from Beersheba to the Hinnom Valley. This territorial catalogue functions as a theological statement, demonstrating that the returnees occupied lands promised to their ancestors. Within the canonical context, Nehemiah 11 bridges the spiritual reforms of chapters 8–10 with the dedication ceremony of chapter 12, establishing the human infrastructure necessary for sustained worship and community life."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 11: Prophetic perspective",
+      "overview": [
+        "Nehemiah 11 unfolds approximately 445 years before the birth of Christ, during the Persian period following the Babylonian exile. The remnant has returned to the land under Zerubbabel, Ezra, and now Nehemiah, yet this restoration represents only a partial fulfillment of the prophetic promises. Jerusalem's walls stand rebuilt, but the city remains largely uninhabited—a hollow shell awaiting the breath of life that only a committed people can provide. This chapter records the sacred lottery and voluntary offerings of those who would repopulate the holy city, positioning us firmly in the restoration era while pointing forward to realities far greater than stone walls and census lists.",
+        "The prophetic eye discerns in this repopulation a profound type of the ingathering that defines the entire biblical narrative. As lots were cast and families volunteered to leave their ancestral lands and dwell in Jerusalem, we witness a shadow of that greater migration whereby God calls His elect from every tribe and tongue to inhabit the true holy city—the church of the living God, which Paul names \"the Jerusalem above.\" The courage required to forsake comfortable settlements in the countryside for a vulnerable, underpopulated capital foreshadows the pilgrim nature of all who follow Christ, strangers and sojourners who have here no continuing city but seek one to come.",
+        "The detailed genealogies recording priests, Levites, gatekeepers, and temple servants reveal that proper worship remained central to restoration. Yet these Levitical arrangements pointed beyond themselves to the one High Priest who would offer not the blood of bulls and goats but His own eternal sacrifice. The gatekeepers guarding sacred thresholds prefigure Christ Himself, who declared, \"I am the door.\" Every temple functionary named in this chapter served in an economy of shadows, maintaining a worship system destined to be surpassed when the true Temple—Christ's body—would be raised in three days.",
+        "The text notes that the people \"blessed all who willingly offered themselves to dwell in Jerusalem.\" This willing sacrifice echoes forward to Calvary and reverberates through church history whenever believers surrender comfort for kingdom advance. The restoration remained incomplete; foreign powers still ruled, and the glory that once filled Solomon's temple had not returned. Israel awaited another restoration, another Temple, another Jerusalem descending from heaven adorned as a bride.",
+        "For the church dwelling between the advents, Nehemiah 11 calls us to willingly inhabit God's purposes, knowing our present labors build toward that city whose architect and builder is God Himself."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.924344+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

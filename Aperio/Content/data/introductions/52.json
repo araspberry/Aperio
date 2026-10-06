@@ -1,0 +1,129 @@
+{
+  "book": "2 Thessalonians",
+  "bookIndex": 52,
+  "status": "Editorial draft",
+  "title": "2 Thessalonians: Steadiness While Waiting",
+  "subtitle": "A troubled church is called to hope, discernment, and responsible life together.",
+  "atAGlance": {
+    "genre": "Pastoral letter with apocalyptic instruction",
+    "setting": "A community facing persecution, confusion about the day of the Lord, and disruptive conduct.",
+    "composition": "Names Paul, Silvanus, and Timothy. Pauline authorship is debated; proposed dates range from the AD 50s to the later first century.",
+    "audience": "The Thessalonian church, addressed within the continuing Pauline tradition."
+  },
+  "sections": [
+    {
+      "title": "Encouragement for a shaken community",
+      "paragraphs": [
+        "Second Thessalonians begins by recognizing growth in faith and love under pressure. The congregation is enduring affliction, and the letter places its suffering within confidence that God will judge rightly. The opening thanksgiving is followed by prayer that their calling will bear fruit and that Jesus will be honored through their lives.",
+        "The letter’s urgency comes from pressures within the community as well as outside it. Some message or claim has unsettled them about the day of the Lord. Others are living in ways that burden their neighbors and disrupt fellowship. These concerns belong together: expectation of God’s future must be translated into a steady, responsible present. The letter seeks a community able to endure without becoming vulnerable to every alarming announcement."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The relationship to First Thessalonians",
+      "paragraphs": [
+        "The opening names Paul, Silvanus, and Timothy, and the conclusion includes a greeting attributed to Paul’s own hand. Traditional interpretation understands the letter as a second message sent soon after First Thessalonians. Many scholars defend that reading. Others argue that similarities in language alongside differences in the presentation of the end suggest a later author writing in Paul’s name.",
+        "Dating depends on that judgment. A Pauline setting places the work in the AD 50s; a later composition is usually located farther into the first century. The text assumes that its original audience knows earlier teaching, especially concerning what restrains the lawless figure in chapter 2. We do not possess that full oral instruction. This limits confidence in detailed reconstructions and makes humility particularly important when interpreting the difficult passage."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The future belongs to the Lord",
+      "paragraphs": [
+        "Chapter 2 urges the church not to be shaken by a purported revelation, message, or letter claiming that the day of the Lord has arrived. The discussion describes rebellion, deception, and a lawless figure who exalts himself. Its language belongs to biblical apocalyptic, where symbolic portraits expose resistance to God and announce His final victory.",
+        "Several details remain disputed, including the identity of the restraining power. The letter gives no reliable basis for confidently identifying a contemporary person or institution as the fulfillment. Its clearest emphasis is that deception will not have the final word and that the Lord’s coming is decisive. The church is then directed back toward teaching already received. The practical outcome is stability, gratitude, and encouragement in good words and works."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Responsibility within a caring fellowship",
+      "paragraphs": [
+        "The final chapter asks for prayer and returns to the conduct of community members. The missionaries’ example of work is recalled as a model. The warning concerns those who are unwilling to work and who interfere in others’ affairs. It should not be turned against people who are unable to work because of illness, disability, age, or lack of opportunity.",
+        "The aim is a fellowship in which people contribute responsibly and do not exploit one another’s generosity. Even when correction involves distance, the person is to be admonished as a fellow believer rather than treated as an enemy. The instruction to continue doing good remains in view. Responsibility and mercy must therefore be interpreted together, with attention to the actual conduct described."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Hearing judgment without losing the pastoral purpose",
+      "paragraphs": [
+        "The opening language of retribution can sound severe, especially when detached from the suffering of those addressed. The letter entrusts final justice to God and seeks to sustain people under affliction. It does not commission the church to carry out revenge. Its closing prayer asks the Lord of peace to give peace in every circumstance.",
+        "That framing matters for the whole reading. The discussion of the future serves the life of a congregation needing courage and order. Questions that cannot be resolved with certainty should not eclipse the direct calls to faithfulness, prayer, truthful teaching, and care for the common good.",
+        "Read Second Thessalonians alongside the first letter, noticing both shared concerns and distinctive emphases. Together they show how resurrection hope can address bereavement, fear, public pressure, and daily responsibilities. The second letter particularly asks how hope can remain discerning. A community grounded in the Lord’s faithfulness can resist panic, examine claims carefully, and continue the quiet work of loving its neighbors while waiting for God to set things right."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Endurance and righteous judgment",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Thanksgiving, affliction, God’s justice, and prayer for faithful living."
+    },
+    {
+      "label": "Discernment about the day of the Lord",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "False alarm, rebellion, the lawless figure, and an appeal to stand firm."
+    },
+    {
+      "label": "Prayer and responsible community life",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Mutual prayer, work, correction, perseverance in good, and peace."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Steady hope",
+      "description": "Expectation of Christ sustains faithful conduct amid pressure."
+    },
+    {
+      "name": "Discernment",
+      "description": "Alarming spiritual claims require careful examination."
+    },
+    {
+      "name": "Responsible fellowship",
+      "description": "Work, care, and correction are held within a community of peace."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century Christian communities",
+    "context": "The letter addresses early Christian life while looking toward the Lord’s future coming. Its apocalyptic figures are not assigned modern identities or dates.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century Christian communities",
+      "note": "The letter addresses early Christian life while looking toward the Lord’s future coming. Its apocalyptic figures are not assigned modern identities or dates."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Thessalonians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "2 Thessalonians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-thessalonians/lessons/summary-of-2-thessalonians/"
+    }
+  ]
+}

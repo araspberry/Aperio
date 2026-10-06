@@ -1,0 +1,55 @@
+{
+  "book": "Ezra",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezra 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezra 2: The God Who Numbers His People",
+      "overview": [
+        "When God's people return from exile, the first thing recorded is not their emotional reunion or their triumphant entry, but the careful enumeration of every family, every clan, and every individual who has chosen to come home. This list reveals a God who knows His people intimately and misses none in the restoration He longs to accomplish.",
+        "The genealogy of Ezra 2 might seem like dry census data, yet it pulses with the heartbeat of redemption. Each name represents a story—a family that could have remained comfortable in Babylon, yet felt the gravitational pull of God's call back to the promised land. The specificity of these numbers (42,360 people, plus servants and singers) demonstrates that divine restoration is not abstract. God does not work with anonymous masses; He knows each face, remembers each story, counts each cost.",
+        "Notice the care with which returnees are organized: by family, by city of origin, by priestly lineage. This wasn't chaos but covenant order being re-established. After seventy years of displacement, the community is being knitted back together exactly as God intended. Even those whose genealogies were lost or questioned—the Teli family and priests without certain proof of descent—still belonged. They weren't turned away; they were marked and accounted for.",
+        "This passage speaks powerfully to our own experience of restoration. Perhaps you've felt displaced from your calling, your church, or your spiritual identity. Perhaps you've wandered so long that you wonder if God still remembers you or has a place for your return. Ezra 2 insists that He does. The God who numbered these thousands is numbering still. He tracks your departure and anticipates your homecoming. Not a single person seeking His restoration falls through the cracks of His attention.",
+        "What part of your spiritual \"homeland\" do you need permission to return to?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezra 2: Scholarly study",
+      "overview": [
+        "Ezra 2 constitutes a detailed census of the returning exiles who journeyed from Babylon to Jerusalem following the decree of Cyrus in 538 BCE, forming a critical administrative document that legitimizes the restoration community. This chapter finds a near-identical parallel in Nehemiah 7:6–73, suggesting both texts drew from an official Persian-period register, though minor numerical discrepancies between them have generated considerable scholarly discussion regarding textual transmission. The list serves not merely as demographic record but as theological testimony to divine faithfulness in preserving a remnant and fulfilling prophetic promises of return, particularly those articulated in Jeremiah 29:10 and Isaiah 44:28.",
+        "The chapter opens by identifying those who returned to \"their own towns\" (verse 1), employing the Hebrew term *medinah* (province), which reflects Persian administrative terminology and underscores the political reality of Judah as a subordinate district within the Achaemenid Empire. The returning community is organized according to ancestral houses (*bêt ʾābôt*), a kinship-based social structure fundamental to Israelite identity that enabled the reconstitution of tribal and familial networks disrupted by exile. This genealogical organization carried profound implications for land inheritance, cultic participation, and communal belonging.",
+        "Particularly significant is the section addressing those who could not prove their Israelite ancestry (verses 59–63), including certain priestly families deemed \"unclean\" (*gōʾălû*) for the priesthood until a priest could consult Urim and Thummim. This passage reveals the community's acute concern with maintaining ritual purity and legitimate succession, themes that dominate the Ezra-Nehemiah corpus. The term *hattirshatha* (verse 63), a Persian loanword designating the governor, likely refers to Sheshbazzar or possibly Zerubbabel, illustrating the bicultural leadership operating under imperial sanction.",
+        "The total count of 42,360 persons (verse 64), which exceeds the sum of itemized groups, has puzzled interpreters; proposed solutions include women and children in the larger figure, scribal error, or inclusion of northern Israelites. The chapter concludes with voluntary offerings for temple reconstruction, employing the term *darkemonîm* (darics), Persian gold coins providing another chronological marker. This census ultimately functions as a charter document establishing who legitimately belonged to the restored covenant community, a question of enduring consequence throughout Second Temple Judaism."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezra 2: Prophetic perspective",
+      "overview": [
+        "This chapter records events around 538 BC, when the Persian emperor Cyrus issued his decree permitting the Jewish exiles to return from Babylon—roughly seventy years after Nebuchadnezzar had destroyed Jerusalem and the temple. Within the grand redemptive arc, this passage stands at the threshold of Restoration, marking the end of the Babylonian exile that the prophets had foretold and the beginning of God's renewed work among His covenant people in preparation for the coming Messiah.",
+        "The lengthy genealogical register preserved here is far more than ancient census data; it is a theological declaration that God remembers His people by name. Each family listed—whether descendants of Parosh, Shephatiah, or Arah—represents a living testimony that the Lord who scattered Israel would also gather them. The precision of the numbering, down to the exact count of horses, mules, and donkeys, demonstrates that nothing belonging to God's remnant is forgotten. Just as the Lord numbered the stars and called them each by name, so He numbered the returning exiles, preserving their identity through generations of displacement.",
+        "This registry functions typologically as a shadow of the Lamb's Book of Life. The returnees whose genealogies could not be verified and were therefore excluded from the priesthood foreshadow the solemn reality that not all who claim covenant membership truly belong to God's household. Only those whose names are written and verified possess legitimate standing before the Holy One. The entire company—42,360 souls plus servants—prefigures the gathered church, that great multitude called out from every nation, returning not to earthly Jerusalem but journeying toward the heavenly city.",
+        "The prophetic dimension of this chapter lies in its partial fulfillment of promises spoken through Isaiah and Jeremiah. God had declared through Jeremiah that after seventy years He would visit His people and bring them home. This return was real yet incomplete—a down payment on greater restoration still to come. The second temple they would build proved inferior to Solomon's glory, pointing forward to the true Temple, Christ Himself, in whom the fullness of God's presence would dwell bodily.",
+        "For the church living between Christ's advents, Ezra 2 speaks with enduring power. Believers today are numbered among the redeemed, our names inscribed not in Persian archives but in heaven itself. We too are returning exiles, pilgrims journeying from spiritual Babylon toward the New Jerusalem, carrying with us the treasures of faith entrusted to the saints. The God who remembered every family in the restoration remembers every soul purchased by the blood of Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "15_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.868613+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

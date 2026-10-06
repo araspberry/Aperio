@@ -1,0 +1,55 @@
+{
+  "book": "Ezekiel",
+  "chapter": 40,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 40 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 40: The Vision of God's Restored House",
+      "overview": [
+        "When all seems lost, God opens our eyes to His unshakeable purpose and the restoration He will accomplish. Ezekiel 40 marks a turning point—the prophet receives a vision of a new temple so detailed and magnificent that it anchors hope in the hearts of exiles who believe their worship of God has ended forever.",
+        "The chapter presents an architectural vision with exhaustive measurements: gates, walls, chambers, and courtyards all carefully delineated by a divine messenger. To modern readers, such detail might seem tedious, but to the captive Israelites, every cubit mattered. God was saying, \"Your exile is not permanent. Your worship will be restored. I have not abandoned you.\" The precision itself conveys that God cares deeply about how His people draw near to Him—the pathways matter, the boundaries matter, the order matters. This was no vague promise; it was a blueprint for restoration.",
+        "What strikes the soul here is that this vision came not in the temple's glory days but in its darkest hour. The Jerusalem temple lay in ruins. The sacrifices had ceased. Yet Ezekiel sees it rebuilt, reimagined, more glorious than before. This speaks profoundly to our own seasons of spiritual loss and wondering if God will truly restore what feels broken or abandoned in our lives.",
+        "The vision also reveals that approaching God requires intentionality. The gateways, measurements, and prescribed pathways suggest that drawing near to our Father is not casual or careless—it demands reverence, respect, and a willingness to follow His design for holiness. Our worship, whether corporate or personal, flourishes best when ordered by God's character rather than our convenience.",
+        "How might you cultivate renewed expectation that God is actively restoring His purposes in your life, even in seasons of profound loss or uncertainty? What would it mean to trust today that your greatest spiritual renewal may not yet be visible?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 40: Scholarly study",
+      "overview": [
+        "Ezekiel 40 marks a decisive turning point in the prophetic book, inaugurating the extended temple vision that spans chapters 40–48 and represents one of the most architecturally detailed passages in all of biblical literature. Dated precisely to the twenty-fifth year of exile and the fourteenth year after Jerusalem's destruction (573 BCE), this vision arrives at a moment of profound theological crisis for Israel. The prophet, himself a priest (1:3), receives this revelation on Rosh Hashanah, the beginning of the year, suggesting themes of renewal and new creation that pervade the entire vision complex.",
+        "The Hebrew term *tabnît* (\"pattern\" or \"plan\"), though not appearing explicitly in this chapter, conceptually undergirds the entire vision, as Ezekiel is shown the divine blueprint for sacred space. The mysterious angelic figure holding a measuring reed (*qāneh hammiddâ*) and linen cord (*petîl pishtîm*) systematically measures the temple complex with extraordinary precision. The measuring reed of six long cubits—each cubit being a standard cubit plus a handbreadth—establishes a royal or sacred cubit of approximately 52.5 centimeters, emphasizing the superlative nature of this sacred architecture.",
+        "The detailed measurements of gates, chambers, vestibules, and courtyards have generated considerable scholarly debate regarding their intended function. Some interpreters, following a literal eschatological reading, understand this as a blueprint for an actual future temple. Others view the vision as an idealized restoration of sacred space, employing architectural imagery to communicate theological realities about divine presence and proper worship. The symmetrical design, with its tripartite eastern, northern, and southern gates, reflects ancient Near Eastern temple ideology while surpassing Solomon's temple in systematic order.",
+        "Particularly significant is the emphasis on boundary and gradation. The repeated measurements create concentric zones of increasing holiness, moving from outer court to inner court toward the sanctuary itself. This spatial theology addresses the fundamental concern of Ezekiel's earlier visions: the departure of divine glory due to Israel's profanation of sacred space. The meticulous ordering of the new temple anticipates the return of YHWH's *kābôd* (\"glory\") in chapter 43, suggesting that proper boundaries and liturgical order are prerequisites for divine presence among a restored community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 40: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter forty stands at a pivotal moment approximately 573 years before Christ's birth, recorded precisely as the twenty-fifth year of Judean exile and the fourteenth year after Jerusalem's devastating fall to Babylon. The prophet receives this vision while the people languish in captivity, their temple reduced to rubble, their hope seemingly extinguished. Within the grand arc of redemption, this passage occupies the space between exile and restoration, offering a prophetic glimpse that stretches far beyond the return under Zerubbabel into realities both inaugurated in Christ and consummated at His return.",
+        "The vision opens with divine initiative as the hand of the Lord transports Ezekiel to a very high mountain in the land of Israel, where a figure gleaming like bronze stands with measuring instruments. This surveyor of glory proceeds to measure gates, courts, thresholds, and chambers with meticulous precision. The extraordinary detail spanning this chapter and those following has generated centuries of interpretive reflection, yet certain prophetic patterns emerge with clarity.",
+        "The temple itself functions as a profound type pointing to multiple fulfillments within redemptive history. Solomon's temple prefigured this vision, but this structure transcends what was rebuilt after exile. The measurements reveal a sanctuary of perfect symmetry and divine order, pointing ultimately to Christ Himself who declared His body the true temple. When Jesus proclaimed He would raise the destroyed temple in three days, He unveiled Himself as the dwelling place of God with humanity. The apostolic witness extends this typology to the church as God's living temple, built with believers as living stones, and finally to the New Jerusalem where no temple exists because the Lord God Almighty and the Lamb are its temple.",
+        "The bronze-like messenger conducting these measurements echoes theophanic appearances throughout Scripture, suggesting the preincarnate Christ revealing the Father's design for dwelling among His people. Every gate facing specific directions, every chamber for priestly service, and every measurement of sacred space speaks to God's intention that holiness would characterize His presence among humanity.",
+        "For the church living between the advents, Ezekiel's temple vision anchors hope in God's unshakeable commitment to dwell with His covenant people. What Israel glimpsed through prophetic vision, believers now experience through the Spirit's indwelling and will know perfectly when heaven descends to earth and God's tabernacle rests eternally among humanity, every measurement of glory fulfilled in Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_040",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.187416+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Amos",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 5: The Plea of a Loving God",
+      "overview": [
+        "God's heart in this chapter breaks open before us—a passionate appeal from the One who has been rejected, calling His wayward people back before it is too late. Amos delivers not threats alone, but an urgent invitation to return and live.",
+        "The prophet begins with Israel's funeral already written. The virgin of Israel has fallen, never to rise again, and no one is there to lift her up. This stunning imagery captures the spiritual devastation of a nation that once stood secure in God's covenant. Yet immediately, the Lord pivots: \"Seek me and live\" (5:4). This is the pivot point of all Scripture—divine judgment always carries within it an outstretched hand of mercy.",
+        "What follows is a scathing indictment of religious performance divorced from justice and righteousness. Israel maintained elaborate worship—pilgrimage festivals, burnt offerings, grain offerings—but the Lord will not accept them. Why? Because their hearts remained unmoved by the suffering of the oppressed. They enlarged their wine cellars while crushing the poor. They lay on beds of ivory, oblivious to the breaking of Joseph. God is saying: your worship means nothing if your neighbors are being trampled.",
+        "This cuts to something we desperately need to hear. Faithfulness to God is inseparable from justice and mercy toward others. We cannot sing sweetly on Sunday and exploit or ignore the vulnerable Monday through Saturday. Our devotion to Jesus proves itself through our treatment of the least among us. The sacrifices the Lord desires are lives lived in alignment with His character—seeking good, hating evil, and establishing justice in the gate.",
+        "The tragedy is that repentance was still possible. God wanted to pass by Israel, wanted to forgive, wanted restoration. He sent the prophet not to enjoy delivering doom, but to plead: turn around while there is still time.",
+        "What might God be calling you to turn away from? Where is He inviting you toward greater justice and mercy in your own circles of influence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 5: Scholarly study",
+      "overview": [
+        "Amos 5 stands as the theological and literary heart of the prophet's message, delivered during the prosperous reign of Jeroboam II (c. 786–746 BCE) when Israel's material abundance masked profound social decay and spiritual apostasy. Amos, a shepherd and dresser of sycamore figs from the Judean village of Tekoa, proclaimed judgment against the northern kingdom with an outsider's clarity and a poet's power, drawing upon his intimate knowledge of both the natural world and covenant traditions.",
+        "The chapter opens with a funeral dirge (qînāh) over virgin Israel, employing the distinctive limping 3:2 meter characteristic of laments. This rhetorical strategy—mourning a nation not yet destroyed—creates devastating ironic force, presenting Israel's doom as accomplished fact. The Hebrew term betûlat, rendered \"virgin,\" emphasizes both Israel's youth and the tragedy of unrealized potential, a life cut short before fruition.",
+        "Central to the chapter's exhortation is the repeated imperative to \"seek\" (dārash), a term with both cultic and ethical dimensions. Amos subverts expected religious meaning: seeking Yahweh does not mean pilgrimage to Bethel, Gilgal, or Beersheba, but rather pursuing justice. This leads to the chapter's ethical crescendo, where the prophet demands that justice (mishpāt) \"roll down like waters\" and righteousness (tsedāqāh) \"like an ever-flowing stream.\" These terms encompass both legal equity and right relationship within community, representing not occasional acts but sustained, life-giving practice.",
+        "The passage's remarkable condemnation of religious observance in verses 21–23 has generated substantial scholarly discussion regarding whether Amos rejected the sacrificial system entirely or merely its divorce from ethical conduct. Most interpreters favor the latter, understanding the Hebrew construction as expressing strong relative preference rather than absolute rejection. The literary structure reveals careful chiastic patterning, with calls to seek good framing denunciations of corruption at the gate—the place of judicial proceedings where the vulnerable faced exploitation.",
+        "The chapter concludes with the enigmatic reference to Sikkuth and Kiyyun, stellar deities whose worship Israel allegedly practiced during the wilderness period, though textual and historical difficulties surround this passage. This accusation retrospectively delegitimizes Israel's entire cultic history, intensifying the prophetic verdict that exile \"beyond Damascus\" represents Yahweh's irrevocable sentence."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 5: Prophetic perspective",
+      "overview": [
+        "Amos chapter five thunders forth from approximately 760 BC, during the reign of Jeroboam II over the northern kingdom of Israel, roughly three decades before Assyria would sweep the ten tribes into exile. This prophecy emerges at the apex of Israel's material prosperity yet moral bankruptcy, positioning us in the trajectory between the divided kingdom and the coming judgment—a critical juncture where God's patience extends final warnings before covenant curses fall upon a rebellious people.",
+        "The prophet's funeral dirge over virgin Israel pierces the complacency of a nation convinced that election guarantees immunity from judgment. \"Fallen, no more to rise, is the virgin Israel\"—this lament over a people still breathing exposes the prophetic perspective that sees divine verdicts as already accomplished. The call to \"seek the LORD and live\" reveals the heart of a God who threatens judgment precisely because He desires repentance, whose warnings are themselves acts of severe mercy.",
+        "Within redemptive history, Amos stands as a covenant prosecutor, invoking the curses Moses pronounced at Sinai. The agricultural devastation, the military decimation, the exile from land—all echo Deuteronomy's threatened sanctions against covenant-breaking. Israel's journey from Egyptian bondage through wilderness wandering to promised inheritance now circles back toward dispossession, demonstrating that election without obedience produces not blessing but intensified accountability.",
+        "The exposure of perverted justice at the city gate—where the righteous are sold and the poor crushed—typologically anticipates every age where religious observance masks systemic oppression. When God declares hatred for Israel's feasts and rejection of their offerings, He establishes an enduring principle: worship divorced from justice is abomination. This prophetic indictment finds its fullest expression when Christ cleanses the temple and pronounces woe upon those who tithe mint while neglecting weightier matters of mercy and faithfulness.",
+        "The famous summons to \"let justice roll down like waters, and righteousness like an ever-flowing stream\" points beyond Israel's capacity toward One who would fulfill all righteousness. Where Israel failed to establish justice, Christ embodied it; where their righteousness proved seasonal and superficial, His flows eternally from an inexhaustible source. The church now lives as the community through whom these waters are meant to cascade into a parched world.",
+        "The Day of the LORD, which Israel presumed would vindicate them against enemies, Amos transforms into terror—darkness not light. This prophetic reversal warns every generation against presuming upon grace while practicing evil, reminding the church that the Judge who comes in final glory comes first to His own household."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.305869+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

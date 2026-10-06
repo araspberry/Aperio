@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 11: The Gospel Crosses Every Boundary",
+      "overview": [
+        "The spiritual heart of Acts 11 is the Spirit's persistent work to break down barriers and welcome the excluded into God's family. As the gospel moves beyond Jerusalem into Gentile territory, the church faces its deepest identity crisis yet—and discovers that God's love has always reached farther than human tradition allows.",
+        "Peter's vision of unclean animals and his subsequent visit to Cornelius's household created a firestorm in the Jerusalem church. Those who were \"of the circumcision\" contended with him, insisting that salvation required becoming Jewish first. Their objection was not merely theological—it threatened everything they understood about God's covenant people. Yet Peter's recounting of the vision, his witness to the Spirit's falling on the Gentiles just as at Pentecost, and his obedient testimony silenced their complaints and redirected their understanding. \"Then to the Gentiles also God has granted repentance that leads to life,\" they concluded.",
+        "This pattern shows us something vital about spiritual growth: sometimes the Spirit works ahead of our theology, and our job is to catch up. Peter had to be jolted from his assumptions. The Jerusalem council had to hear testimony and reconsider their certainties. The gospel was not contained by their categories, even the most ancient and reverent ones.",
+        "For us, this raises an uncomfortable question: where do we still draw boundaries? How many unspoken assumptions govern whom we welcome, whose gifts we affirm, whose stories we're willing to hear? The Spirit's work is always more expansive than our comfort zones. Acts 11 doesn't permit us the luxury of spiritual gatekeeping.",
+        "Yet notice the grace in this account. Peter was not condemned for his earlier confusion. The church leaders were not shamed for their initial resistance. They were simply invited to witness what God was already doing and to follow. Growth required vulnerability—admitting they might be wrong—and openness to the Spirit's surprising work.",
+        "How is the Spirit inviting you to expand your understanding of God's grace and welcome? Where might you need to follow where God is already moving?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 11: Scholarly study",
+      "overview": [
+        "Acts 11 represents a pivotal moment in Luke's narrative of early Christian expansion, functioning as both an apologia for Gentile inclusion and a transitional unit preparing readers for the broader missionary movements to follow. The chapter divides naturally into two major sections: Peter's defense before the Jerusalem community (vv. 1–18) and the establishment of the Antioch church with its subsequent relief mission (vv. 19–30). Luke composed Acts around 80–85 CE, drawing upon earlier sources and traditions to demonstrate the Spirit-directed nature of the gospel's spread from Jerusalem to the ends of the earth.",
+        "The opening narrative revisits the Cornelius episode from chapter 10, with Peter recounting events before \"those of the circumcision\" (hoi ek peritomēs), a phrase indicating Jewish believers particularly concerned with maintaining covenantal boundaries. Peter's rehearsal employs the Greek term ekthēmi (meaning \"to set forth in order\"), suggesting a careful, sequential presentation designed to demonstrate divine initiative rather than human innovation. The repetition of the Cornelius account—unusual in Luke's generally economical style—underscores its theological weight. Peter's climactic argument centers on the term kōlyō (\"to hinder\" or \"prevent\"), posing a rhetorical question about whether human resistance can legitimately oppose divine action. The Jerusalem community's response—glorifying God for granting \"repentance unto life\" (metanoia eis zōēn) to Gentiles—marks a watershed moment, though subsequent tensions in Acts 15 reveal this consensus remained contested.",
+        "The Antioch section introduces a community of extraordinary significance, where believers first received the designation Christianoi (\"Christians\"), likely a Latin-influenced term originally applied by outsiders. Luke emphasizes Antioch's mixed Jewish-Gentile composition, noting evangelists who spoke \"also to the Greeks\" (Hellēnas in preferred manuscripts, though some witnesses read \"Hellenists\"). Barnabas's mission from Jerusalem and his recruitment of Saul establishes the partnership that will dominate subsequent chapters. The prophecy of Agabus concerning famine—historically correlating with conditions during Claudius's reign (41–54 CE)—occasions the first organized relief effort between churches, demonstrating practical fellowship transcending ethnic boundaries. This collection anticipates Paul's later emphasis on Gentile contributions for Jerusalem saints, suggesting an emerging ecclesiology wherein material sharing embodies spiritual unity across the Jewish-Gentile divide that dominated first-century Christian self-understanding."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 11: Prophetic perspective",
+      "overview": [
+        "Acts 11 unfolds approximately fifteen years after the resurrection and ascension of Christ, around AD 44-45, during the early expansion of the church from Jerusalem into the Gentile world. This chapter records events that took place as the gospel crossed its most significant boundary—moving from Jewish exclusivity into universal accessibility. Within the grand arc of redemption, we stand here at a pivotal moment in the Church Age, witnessing the fulfillment of promises made to Abraham that through his seed all nations would be blessed.",
+        "The chapter opens with Peter defending his entrance into the house of Cornelius, a Roman centurion. The Jerusalem church, still wrestling with the implications of Messiah's work, questioned Peter's table fellowship with uncircumcised men. Peter's response rehearses the vision of the sheet descending from heaven—a prophetic tableau dismantling the ceremonial distinctions that had separated Jew from Gentile. When the Holy Spirit fell upon Cornelius's household identically to Pentecost, Peter recognized divine validation: \"Who was I to stand in God's way?\" The church fell silent, then glorified God, acknowledging that repentance unto life had been granted to the Gentiles.",
+        "This moment fulfills the typological pattern embedded in Israel's history. The temple veil, torn at Christ's death, now finds its ecclesial expression—the dividing wall of hostility demolished. What Ezekiel envisioned when he saw water flowing from the temple to heal the nations now takes human form as the Spirit indwells those once considered unclean. The Abrahamic covenant reaches its intended terminus; the blessing of Genesis 12 cascades to every tribe and tongue.",
+        "The chapter then shifts to Antioch, where scattered believers first preached to Greeks, and where disciples were first called Christians. Here Barnabas and Saul labor together, and the prophet Agabus foretells a coming famine—prompting the first recorded collection from one church for another. This prophetic word and charitable response reveal the church functioning as the eschatological community: hearing God's voice, caring for the vulnerable, bound by love across geographic boundaries.",
+        "For the church living between the advents, Acts 11 declares that the Spirit breaks every barrier humanity erects. What God has cleansed, no tradition may call common. The same Spirit who fell at Pentecost continues His work among all peoples, building a temple not made with hands, gathering living stones into the dwelling place of God until Christ returns to complete what He began."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.688429+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

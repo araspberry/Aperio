@@ -1,0 +1,59 @@
+{
+  "book": "Luke",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 5: The Call to Leave Everything",
+      "overview": [
+        "At the heart of Luke 5 lies a stunning reversal: the fishermen who have labored all night in vain suddenly witness such an abundance that their nets break, yet they abandon everything to follow Jesus. This passage reveals that encountering Christ demands not careful calculation but joyful surrender.",
+        "The setting is both ordinary and sacred. Simon Peter has been fishing—the work of his hands, his livelihood, his identity. When Jesus asks to use his boat as a platform for teaching, Peter complies, though with no expectation of what will follow. This detail matters. Peter wasn't seeking a miracle; he was simply available. Then comes the command: \"Put out into the deep water and let down your nets.\" After a fruitless night, this instruction seems foolish. Yet obedience precedes understanding. When Peter obeys, the miraculous catch nearly capsizes both boats.",
+        "Peter's response is instructive for us. He doesn't celebrate the abundance. Instead, he falls at Jesus' feet and says, \"Go away from me, Lord; I am a sinful man!\" Encountering the holy transforms everything we thought we knew about ourselves. In that moment, Peter sees himself truly—not as a successful businessman or skilled laborer, but as a sinner standing before holiness. And in that awareness, Jesus speaks the words that reshape his entire existence: \"Do not be afraid; from now on you will be catching people.\"",
+        "The passage then shows us what this commitment looks like in practice. Peter, James, and John \"left everything and followed him.\" Later, Levi the tax collector leaves his lucrative position to follow Jesus. None of these men negotiate the terms or ask for time to arrange their affairs. They recognize that proximity to Jesus is worth more than security or status.",
+        "This radical response might seem foreign to us, yet disciples in every age face the same invitation to reorder their priorities. What are we gripping so tightly that we cannot extend our hands toward Jesus? What would it cost, and what might we gain, if we loved His presence more than our plans?",
+        "How is Jesus calling you to trust Him more deeply than you trust your own competence or security?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 5: Scholarly study",
+      "overview": [
+        "Luke 5 represents a pivotal transition in the Third Gospel, marking the formal gathering of Jesus's first disciples and the escalating tension with religious authorities that will characterize the Galilean ministry. Writing for a predominantly Gentile audience, likely in the late first century, Luke draws upon Markan material while incorporating unique traditions, demonstrating his concern to present an orderly account of Jesus's ministry and its universal implications.",
+        "The chapter opens with the call of Simon Peter following a miraculous catch of fish, a pericope unique to Luke among the Synoptics. The location at the \"Lake of Gennesaret\" (λίμνην Γεννησαρέτ, *limnēn Gennēsaret*) rather than the \"Sea of Galilee\" reflects Luke's preference for geographically precise terminology familiar to Greco-Roman readers. Peter's response—\"Depart from me, for I am a sinful man, O Lord\"—echoes theophanic encounters in the Hebrew scriptures, particularly Isaiah's temple vision. The term *hamartōlos* (ἁμαρτωλός), rendered \"sinful,\" carries connotations of religious and social marginalization that will prove thematically significant throughout the chapter.",
+        "The healing of the leper and the paralytic demonstrate Jesus's authority over both physical affliction and sin. The command to the healed leper to show himself to the priest and offer sacrifice \"as Moses commanded\" reveals Luke's nuanced presentation of Jesus as operating within, yet transcending, Torah observance. The paralytic narrative introduces the crucial term *exousia* (ἐξουσία), \"authority,\" which the Son of Man possesses to forgive sins—a claim the scribes and Pharisees correctly perceive as divine prerogative.",
+        "The call of Levi and subsequent banquet scene crystallize the chapter's central theological motif: Jesus's mission to sinners. The Pharisees' objection regarding table fellowship with \"tax collectors and sinners\" reflects deeply held purity concerns, as shared meals implied social and religious solidarity. Jesus's response employing the physician metaphor reframes his association with the marginalized as therapeutic rather than contaminating.",
+        "The chapter concludes with disputes over fasting and the parable of new wine in old wineskins, suggesting the incompatibility of Jesus's ministry with existing religious structures. Scholars debate whether verse 39—\"the old is good\"—unique to Luke, represents ironic commentary on Jewish conservatism or genuine pastoral sensitivity toward those struggling with the new covenant's demands."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 5: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately thirty years after the incarnation, during the early months of Christ's public ministry in Galilee, likely around AD 28. The events recorded here occur roughly 1,500 years after Moses received the Law, 1,000 years after David's kingdom, 500 years after the return from Babylonian exile, and still nearly 2,000 years before our present hour. Luke places us firmly in the age of fulfillment—the long-awaited visitation of God to His people has begun, yet the cross, resurrection, and outpouring of the Spirit remain future. We stand at the hinge point of redemptive history, where ancient promises are taking flesh.",
+        "The miraculous catch of fish that opens this chapter echoes the pattern of divine abundance that runs from Eden through the wilderness manna to the messianic banquet. When Peter falls at Jesus' feet crying, \"Depart from me, for I am a sinful man,\" we witness the archetypal human response to theophany—Isaiah's \"Woe is me,\" Job's hand over his mouth, Ezekiel falling on his face. Yet unlike the terrifying appearances of Yahweh in the old covenant, here the Holy One draws near not to consume but to commission. \"Do not be afraid; from now on you will be catching men.\" The prophet Jeremiah spoke of fishers whom God would send to gather Israel; now the Fisher of men has come, and He creates fishers in His image.",
+        "The leper's cleansing reverberates with exodus typology. Leprosy rendered one ceremonially dead, exiled from the camp, cut off from worship—a living picture of humanity east of Eden. When Jesus touches the untouchable, He does what the Law could never do: He makes the unclean clean without Himself becoming defiled. Here is the true High Priest who enters our contamination and emerges victorious, restoring outcasts to the covenant community.",
+        "The healing of the paralytic reveals what remains veiled elsewhere: the Son of Man possesses authority on earth to forgive sins. This is the eschatological reality breaking into the present—the day when God would remember sins no more has dawned. The physical healing serves as visible confirmation of the invisible absolution, a pattern that anticipates the resurrection itself, where justified souls receive glorified bodies.",
+        "Levi's calling from the tax booth demonstrates that no one lies beyond redemption's reach. The Pharisees' indignation exposes the old wineskins of self-righteousness that cannot contain the fermenting joy of the kingdom. Christ has come not for the well but the sick—and we who live between advents know ourselves to be the healed lepers, the forgiven paralytics."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.557515+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-041"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

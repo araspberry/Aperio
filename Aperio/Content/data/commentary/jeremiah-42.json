@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 42,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 42 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 42: Seeking God's Word, Then Living It",
+      "overview": [
+        "When faith meets crisis, our true desires are often revealed. Jeremiah 42 captures a pivotal moment where God's people ask for His guidance—then must choose whether they truly want to hear it or merely want approval for what they've already decided.",
+        "After Jerusalem's fall, the surviving remnant gathers around Jeremiah asking him to seek God's will about whether they should flee to Egypt. Their request sounds pious. They promise to obey whatever the Lord says, making a solemn oath before God. Yet beneath this religious language lies a deeper truth: they've already made up their minds. Egypt represents safety by human calculation, a familiar refuge from their enemies. They're not truly seeking direction; they're seeking validation.",
+        "This reveals something painfully honest about our own prayer lives. How often do we come to God with closed hearts, asking for His word while determined to follow our own path? We pray for guidance about a job, a relationship, or a major decision, but we've already emotionally committed to what we want. We invite God's input the way a person with a made-up mind might ask a friend's opinion—hoping they'll simply affirm our choice.",
+        "Jeremiah faithfully waits and receives God's clear word: stay in the land and trust the Lord; don't go to Egypt, where you'll find only judgment. The answer contradicts what the people wanted to hear. And predictably, when the word comes, they reject it, accusing Jeremiah of lying and dragging him toward Egypt anyway.",
+        "This painful account invites us toward real honesty before God. True seeking means genuinely openness to whatever answer comes, even—especially—when it disrupts our plans. Discipleship requires not just the form of asking God but the substance of willing submission.",
+        "What area of your life are you asking God about without truly being willing to obey His answer?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 42: Scholarly study",
+      "overview": [
+        "Jeremiah 42 represents a pivotal moment in the post-destruction narrative of Judah, occurring shortly after the assassination of Gedaliah, the Babylonian-appointed governor, and the subsequent violence at Mizpah. The remnant community, now led by Johanan son of Kareah and the military commanders, approaches Jeremiah with an ostensibly sincere request for divine guidance regarding their future course of action—whether to remain in the devastated land or flee to Egypt. This chapter functions as the first half of a literary unit extending through chapter 43, forming a dramatic narrative of prophetic consultation followed by willful disobedience.",
+        "The vocabulary of petition in this passage merits careful attention. The remnant asks Jeremiah to pray that Yahweh might show them \"the way\" (*derek*) in which they should walk, employing covenantal language reminiscent of Deuteronomic theology where walking in God's ways constitutes faithful obedience. Their solemn oath in verses 5-6, invoking Yahweh as \"a true and faithful witness\" (*ʿed ʾemet weʾĕmûnāh*), creates profound dramatic irony, as the subsequent narrative reveals their predetermined intentions. The ten-day interval before the divine word arrives heightens narrative tension while perhaps indicating the deliberative nature of prophetic revelation.",
+        "The divine response through Jeremiah employs the significant Hebrew root *nḥm* in verse 10, often translated \"relent\" or \"repent,\" indicating Yahweh's capacity for compassionate response to changed circumstances. The theological assertion that God grieves over the calamity he has brought demonstrates the complexity of divine pathos in Jeremiah's prophecy. The passage presents a stark binary: remaining in the land promises restoration and divine presence, while Egyptian flight guarantees the very sword, famine, and pestilence they seek to escape—a triad of judgment recurring throughout Jeremiah's oracles.",
+        "Interpreters debate whether the remnant's request was genuinely open or merely sought prophetic endorsement for a predetermined decision. The narrator's positioning of Jeremiah's extended warning against Egyptian flight in verses 13-22 suggests prophetic awareness of their true intentions. This chapter thus illustrates a persistent Jeremianic theme: the human capacity for self-deception in seeking divine guidance while remaining fundamentally closed to uncomfortable prophetic directives, a phenomenon with enduring theological significance for understanding the dynamics of divine-human communication."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 42: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 586 years before Christ's birth, in the immediate aftermath of Jerusalem's destruction by Nebuchadnezzar. The Babylonian siege has ended, the temple lies in ruins, and a pitiful remnant remains in the devastated land under the governorship of Gedaliah—who has just been assassinated by Ishmael. Within the grand redemptive arc, this moment represents the deepest point of the exile judgment, when the covenant curses pronounced at Sinai have reached their terrible fulfillment, yet before the restoration promises through prophets like Ezekiel and Daniel begin their long work of preserving hope.",
+        "The remnant, led by Johanan and the military commanders, approaches Jeremiah with what appears to be genuine humility, pleading for divine guidance regarding whether to remain in Judah or flee to Egypt. Their oath is solemn and seemingly sincere: \"Whether it is good or evil, we will obey the voice of the LORD our God.\" Yet the ten-day interval before God's answer arrives becomes a crucible revealing the true condition of hearts. Here stands a profound pattern that echoes through Scripture—the testing period between petition and response, between the cry for guidance and the demand for obedience.",
+        "The prophetic word comes with extraordinary clarity and unmistakable terms. If they remain in the land, God will build them up and plant them, reversing the very language of judgment that opened Jeremiah's ministry. He will relent concerning the disaster, and even Nebuchadnezzar—the instrument of divine wrath—will show them compassion. Yet if they descend to Egypt seeking safety from the sword and famine they fear, those very terrors will pursue them there. Egypt, the ancient house of bondage from which God once delivered His people with mighty hand, would become their grave.",
+        "This chapter typologically foreshadows humanity's persistent temptation to seek security through human strategies rather than divine promise. Egypt represents every false refuge the flesh constructs when God's revealed path seems too costly. The remnant's predetermined hearts—asking for guidance while already resolved upon disobedience—stand as a warning across all ages against the self-deception that masks rebellion in religious inquiry.",
+        "For the church dwelling between Christ's advents, Jeremiah 42 speaks with urgent relevance. The faithful are perpetually tempted to abandon the difficult ground of obedience for seemingly safer accommodations with the world's powers. Yet Christ Himself, the true Remnant of Israel, chose the harder path of the Father's will, securing an eternal inheritance for all who follow Him in costly trust rather than calculated self-preservation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_042",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.01801+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

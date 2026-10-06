@@ -1,0 +1,64 @@
+{
+  "book": "Romans",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 11 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Romans 11 · Scripture",
+      "url": "https://biblehub.com/bsb/romans/11.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Romans 11: The Mystery of God's Mercy for All",
+      "overview": [
+        "In this remarkable chapter, Paul unveils God's breathtaking plan to extend mercy to both Jewish and Gentile believers, revealing that apparent rejection is never final when God's covenant faithfulness is at work. The great mystery Paul expounds is that God has neither abandoned His chosen people nor stopped loving the nations—both are held within His sovereign, redemptive purposes.",
+        "Paul begins with an urgent assurance: God has not rejected Israel (11:1). Even in times of apparent abandonment, a remnant faithful to God always remains, chosen by grace rather than earned through works. This remnant becomes the living proof that God's promises are unbreakable. The apostle then draws a striking picture of branches broken off and others grafted in—Gentiles now sharing the rich nourishment of Israel's spiritual heritage. Yet this grafting is not cause for arrogance; rather, it demands humility. Those grafted in exist by sheer mercy, not merit, and the original branches can be grafted back in when unbelief gives way to faith.",
+        "This passage speaks directly to our tendency to assume God's favor follows our expectations. We often mistake silence for abandonment or imagine that God's purposes have been derailed by human failure. Paul reminds us that God sees with eternal perspective. His rejection is always redemptive, never punitive. His delays always serve His larger restoration. The stunning climax comes in verse 32: God has imprisoned all in disobedience so that He might have mercy on all. This is the gospel's deepest truth—our mutual need for grace binds us together across every divide.",
+        "For believers today, this means surrendering the notion that God's plan can be thwarted by our stumbling. It means extending the same grace we've received to others, recognizing that we occupy our place in God's family entirely by mercy. We are branches that didn't earn our grafting, sustained only by God's faithfulness.",
+        "What divisions or separations in your own life might need to be reconsidered through the lens of God's inclusive mercy toward both Jew and Gentile?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 11: Scholarly study",
+      "overview": [
+        "Romans 11 constitutes the climactic movement of Paul's extended theodicy concerning Israel's relationship to the gospel, a theological exploration that began in Romans 9. Writing to a mixed congregation in Rome around 57 CE, Paul addresses tensions between Jewish and Gentile believers while defending God's faithfulness to covenant promises. The apostle, himself a Benjamite, confronts the troubling reality that the majority of his kinspeople have not embraced Jesus as Messiah, yet he categorically rejects any notion that God has abandoned Israel.",
+        "The chapter opens with Paul's emphatic denial—*mē genoito* (μὴ γένοιτο), his characteristic expression of strongest negation—that God has rejected his people. Drawing on the Elijah narrative from 1 Kings 19, Paul introduces the concept of the *leimma* (λεῖμμα), the remnant chosen by grace, demonstrating continuity between Israel's historical pattern of faithful minorities and the present Jewish believers in Christ. This remnant theology preserves divine integrity while acknowledging widespread unbelief.",
+        "The olive tree metaphor dominating verses 17–24 represents Paul's most sustained horticultural imagery, depicting Israel as a cultivated olive into which wild Gentile branches have been grafted. The term *enkentrizō* (ἐγκεντρίζω), meaning to graft in, appears exclusively in this passage within the New Testament. Paul's warning against Gentile arrogance proves pastorally urgent; the Roman congregation must recognize their derivative, dependent position within salvation history rather than assuming supersessionist attitudes toward unbelieving Jews.",
+        "The passage reaches its theological apex in verses 25–32, where Paul reveals a *mystērion* (μυστήριον)—a previously hidden divine purpose now disclosed. The controversial phrase \"all Israel will be saved\" has generated centuries of interpretive debate, with scholars divided over whether this denotes ethnic Israel's eschatological restoration, the total number of elect Jews throughout history, or the church as renewed Israel. The broader context, emphasizing the irrevocability of God's gifts and calling, suggests Paul anticipates a future, large-scale turning of ethnic Israel to Christ.",
+        "The chapter concludes with a doxology celebrating divine wisdom's unfathomable depths, employing liturgical language that transcends analytical theology. Paul thus transforms his defense of God's righteousness into worship, acknowledging that covenant faithfulness ultimately exceeds human comprehension while remaining absolutely certain."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 11: Prophetic perspective",
+      "overview": [
+        "Romans 11 emerges from the pen of the apostle Paul around 57 AD, approximately twenty-five years after the resurrection and ascension of Christ, during the earliest expansion of the church into the Gentile world. This chapter arrives at a critical juncture in redemptive history—the church age has dawned, the gospel is spreading from Jerusalem to Rome, yet the majority of ethnic Israel has rejected their Messiah. Paul writes to address this stunning development, placing it within the vast sweep of God's sovereign purposes.",
+        "Within the grand arc of redemption, Romans 11 occupies the tension between the Cross and the Second Coming, interpreting Israel's partial hardening as a mystery hidden in ages past but now revealed. Paul reaches back to the kingdom period, invoking Elijah's despair when Israel pursued Baal, demonstrating that God has always preserved a remnant chosen by grace. The seven thousand who had not bowed to Baal typologically foreshadow the Jewish believers of Paul's day—and every age—who receive their Messiah while the majority stumble.",
+        "The olive tree imagery unveils a profound typological reality. The cultivated olive represents the covenant community rooted in the Abrahamic promises, the patriarchs forming its holy root. Natural branches broken off picture unbelieving Israel removed from covenant blessing, while wild olive branches grafted in depict Gentiles incorporated into the commonwealth of Israel through faith in Christ. This is no replacement but rather expansion—the one people of God spanning both Testaments, united in Abraham's seed, who is Christ.",
+        "Eschatologically, this chapter pulses with prophetic anticipation. Paul declares that Israel's hardening is partial and temporary—\"until the fullness of the Gentiles has come in.\" Then \"all Israel will be saved,\" as the Deliverer comes from Zion to turn away ungodliness from Jacob. This points toward a future national awakening among the Jewish people, linked to Christ's return. What was prophesied through Jeremiah's new covenant and Isaiah's promises of restoration awaits its ultimate consummation. Israel's present stumbling has occasioned Gentile salvation, but their future acceptance will mean nothing less than \"life from the dead\"—resurrection glory for the whole cosmos.",
+        "For the church living between the advents, Romans 11 issues both warning and wonder. Gentile believers must not boast against the natural branches but stand in reverent fear, recognizing they are sustained only by grace through faith. The chapter culminates in doxology because God's wisdom orchestrates even human rebellion into the symphony of redemption. From Him, through Him, and to Him are all things—Israel's fall, the Gentiles' inclusion, and the coming restoration when every tongue shall glorify God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.761573+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-043"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

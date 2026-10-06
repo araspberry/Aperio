@@ -1,0 +1,57 @@
+{
+  "book": "Leviticus",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 7: The Grace Hidden in Offering",
+      "overview": [
+        "The heart of Leviticus 7 is this: God's way of drawing near is not arbitrary or burdensome, but fundamentally gracious. Through detailed instructions about various offerings—the guilt offering, the peace offering, the wave offering—the Lord invites His people into relationship that honors both His holiness and their need for forgiveness and communion.",
+        "What strikes us first is how specific God is about these offerings. Every detail matters: which parts belong to the priest, which to the one bringing the offering, what must be burned, what may be eaten, and when. This precision might seem cold until we recognize it as the language of love. A parent who carefully explains house rules to a child isn't being harsh; they're protecting what matters. Similarly, God's detailed instructions about offerings are guardrails around the deepest human longing—to be right with Him.",
+        "Notice that many offerings included a meal. The peace offering, in particular, meant the offerer and their family could actually eat meat in God's presence, at His table. In a culture where meat was precious and rare, this was shocking generosity. God wasn't standing distant, demanding payment. He was inviting people to share a meal with Him, to experience peace and forgiveness not as abstract concepts but as real, embodied relief.",
+        "The emphasis on priests eating certain portions reminds us too that leadership in God's kingdom isn't a position of privilege but of responsibility—the priests sustained themselves through their service to the people's relationship with God. Their welfare was bound up with the community's faithfulness.",
+        "For us who live on this side of Christ's final offering, these chapters shouldn't feel obsolete. They show us God's consistent heart: access to Him costs something, but He makes a way. His sacrificial system was preparing hearts to receive the One who would need no repeat offerings.",
+        "What part of your own \"offering\" to God—your time, money, worship—might deepen if you saw it as His invitation to draw near rather than merely obligation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 7: Scholarly study",
+      "overview": [
+        "Leviticus 7 concludes the extended legislative section on sacrificial offerings that began in chapter 1, providing supplementary regulations for the guilt offering and detailed instructions regarding the peace offering, culminating in a summary statement that frames the entire sacrificial system presented in chapters 1–7. This material reflects the priestly tradition's concern for cultic precision, likely reaching its final form during or shortly after the Babylonian exile when the preservation of sacrificial knowledge became paramount for Israelite identity.",
+        "The chapter opens with continued instruction on the guilt offering (*ʾāšām*), emphasizing its \"most holy\" (*qōdeš qŏdāšîm*) status, a technical designation indicating restricted consumption rights limited to male priests within the sacred precincts. The blood manipulation and fat portion regulations mirror those of the sin offering, demonstrating the structural unity underlying Israel's expiatory sacrifices. The text then establishes an important principle of priestly compensation: the officiating priest receives the hide of burnt offerings and retains grain offerings he presents, reflecting the economic sustenance of the Aaronic priesthood through sacrificial service.",
+        "The peace offering (*šělāmîm*) receives extensive treatment, with the text distinguishing three subcategories: thanksgiving (*tôdâ*), votive (*neder*), and freewill (*nědābâ*) offerings. The thanksgiving offering required consumption within a single day, while votive and freewill offerings permitted a second day. This temporal restriction likely served dual purposes: preventing meat spoilage and ensuring communal participation in the sacrificial meal. The severe warning against eating on the third day introduces the concept of *piggûl*—sacrificial flesh rendered \"rejected\" or \"foul\"—carrying the consequence of being \"cut off\" from the community, a punishment whose precise meaning remains debated among scholars, ranging from social excommunication to divine intervention resulting in premature death or childlessness.",
+        "The chapter's emphatic prohibition against consuming fat (*ḥēleb*) and blood (*dām*) articulates fundamental dietary restrictions transcending sacrificial contexts. Fat belonged exclusively to YHWH as the choicest portion, while blood prohibitions rest on the theological conviction that blood contains life itself. The concluding summary in verses 37–38 provides a comprehensive catalogue connecting these regulations to the Sinai theophany, grounding Israel's entire sacrificial system in divine revelation rather than human invention."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 7: Prophetic perspective",
+      "overview": [
+        "Leviticus 7 stands approximately 1,445 years before the birth of Christ, given at Mount Sinai during the wilderness period between the Exodus from Egypt and the entrance into Canaan. This passage completes the instructions for the sacrificial system that would govern Israel's worship for nearly fifteen centuries—a system that finds its termination and fulfillment in the once-for-all sacrifice of Jesus Christ.",
+        "Within the grand arc of redemption, this chapter belongs to the Sinai covenant administration, positioned after the Exodus deliverance but long before the prophetic promises of a new covenant would be spoken through Jeremiah and Ezekiel. Here God establishes the priestly procedures for the guilt offering, the peace offering, and the portions belonging to Aaron and his sons. What appears as cultic legislation to the casual reader pulses with prophetic significance when read through the lens of Christ's finished work.",
+        "The guilt offering, or trespass offering, required restitution plus one-fifth—a reminder that sin creates real debt demanding real payment. This principle finds its ultimate expression in Christ, who paid not merely what was owed but infinitely more, restoring what He did not steal and making reconciliation where He committed no wrong. The peace offering, particularly the thanksgiving peace offering, foreshadows the Eucharistic feast of the new covenant, where God's people commune with Him at the table, celebrating reconciliation accomplished through blood.",
+        "The strict prohibition against eating fat or blood carries forward through all generations. The fat belonged exclusively to the Lord as the richest portion, while the blood—the life of the creature—was sacred because it made atonement. These prohibitions prophetically guarded the uniqueness of Christ's blood, the only blood that truly removes sin rather than merely covering it. When the apostolic council in Acts 15 retained the prohibition against blood, they acknowledged that even in the new covenant age, the sanctity of blood-atonement remains central to Christian consciousness.",
+        "The wave offering and heave offering, presented before the Lord and then given to the priests, picture the ascending and descending movement of redemption—Christ lifted up on the cross, raised in resurrection, and distributing gifts to His people through ordained ministry.",
+        "For the church living between the advents, Leviticus 7 calls forth gratitude for the superior sacrifice that has ended all animal sacrifices. Believers now feast eternally at the true peace offering table, reconciled to God through blood that speaks better things than Abel's, awaiting the marriage supper of the Lamb when thanksgiving offerings will give way to unmediated communion forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.950751+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

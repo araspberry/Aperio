@@ -1,0 +1,68 @@
+{
+  "book": "James",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "James 1 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "James 1 · Scripture",
+      "url": "https://biblehub.com/bsb/james/1.htm"
+    },
+    {
+      "id": "correction-2",
+      "label": "James 2 · Scripture",
+      "url": "https://biblehub.com/bsb/james/2.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "James 1: The Testing Ground of Faith",
+      "overview": [
+        "The letter of James opens with a startling invitation to find deep joy not in comfort, but in hardship—because trials are the furnace where genuine faith is refined into something precious and unshakeable. This is the beating heart of James: faith that matters is faith that has been tested and proven real.",
+        "When James tells us to \"consider it pure joy\" whenever we face trials, he's not asking us to deny pain or pretend difficulty feels good. Rather, he's inviting us to see through the trial to what God is doing beneath the surface. Every hardship carries hidden potential. When we encounter obstacles to our plans, delays in our prayers, or suffering we didn't ask for, these become opportunities for our faith to develop perseverance—that deep, unshakeable character that doesn't crumble when life does. A faith that has never weathered a storm is a faith untested, like a muscle that has never been exercised.",
+        "Yet James immediately adds a crucial grace note: if we lack wisdom for navigating these trials, we should ask God, who gives generously without finding fault. We're not meant to white-knuckle our way through difficulty alone or figure everything out by ourselves. Rather, we bring our confusion and pain directly to a God whose supply of wisdom never runs dry. He meets us in our bewilderment with clarity and direction.",
+        "The letter also pierces the heart with a penetrating challenge about the difference between hearing God's word and living it. Many of us are excellent at gathering spiritual information—we read devotionals, highlight Scripture, nod in agreement with sermons—yet never allow the word to transform how we actually treat people, spend money, or order our priorities. Real faith is faith lived out in the details of Monday morning, in how we speak to someone who frustrates us, in whether our actions match our beliefs.",
+        "As you reflect on James today, where has God been refining your faith through difficulty? What truth from Scripture is calling you to move beyond agreement into actual obedience?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "James 1: Scholarly study",
+      "overview": [
+        "The Epistle of James opens with a characteristically brief salutation that nevertheless contains significant theological and historical implications. The author identifies himself simply as \"James, a servant of God and of the Lord Jesus Christ,\" addressing \"the twelve tribes in the Dispersion.\" Most scholars identify this James with the brother of Jesus who became the leader of the Jerusalem church, a figure of considerable authority in early Christianity as evidenced by his prominent role in Acts 15 and Paul's references in Galatians. The letter's exceptional Greek style, combined with its deeply Jewish wisdom orientation, suggests either a highly educated author or the assistance of an amanuensis.",
+        "The designation \"twelve tribes in the Dispersion\" (*diaspora*) presents interpretive complexity. This phrase may address Jewish Christians scattered throughout the Mediterranean world, or it may function metaphorically for the church as the reconstituted Israel—a theological concept with parallels in 1 Peter 1:1. The term *doulos* (servant/slave), by which James identifies himself, carries profound covenantal overtones, echoing the self-designation of Moses, David, and the prophets while simultaneously expressing complete subordination to Christ as Lord.",
+        "The theological heart of this opening chapter concerns the testing of faith. James employs *peirasmos* (trial/testing) to describe circumstances that, properly engaged, produce *hypomonē* (steadfastness/endurance). This semantic field differs subtly from the Pauline emphasis on justification, focusing instead on the maturation process whereby believers become \"perfect and complete, lacking in nothing.\" The wisdom theme introduced in verses 5–8 connects James to Jewish sapiential tradition, particularly Sirach and the Wisdom of Solomon, while the famous contrast between the \"double-minded\" (*dipsychos*—a term possibly coined by James) and the faithful petitioner establishes an ethical dualism pervading the entire letter.",
+        "Earlier, verses 9–11 contrast the circumstances of the lowly and the rich. The latter portion turns to anger, reception of the word, and the need to put it into practice; the explicit warning against favoritism follows in chapter 2. James concludes with his pivotal distinction between hearing and doing the word, employing the memorable mirror metaphor and introducing the concept of \"pure religion\" characterized by care for orphans and widows—the paradigmatic vulnerable persons in ancient society."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "James 1: Prophetic perspective",
+      "overview": [
+        "James chapter one emerges from the earliest stratum of New Testament literature, written approximately 15 to 20 years after the resurrection of Christ, likely around AD 45 to 50. This places the letter in the nascent period of the church's expansion, before the Jerusalem Council of Acts 15, when Jewish believers scattered by persecution were establishing communities throughout the Roman world. James, the brother of Jesus who became a pillar of the Jerusalem church, writes to the twelve tribes dispersed abroad—a designation that consciously echoes Israel's exile experience while identifying these believers as the true continuation of God's covenant people now reconstituted around the risen Messiah.",
+        "Within the grand redemptive arc, this chapter addresses the church living in the tension between Christ's finished work and His future appearing. The scattering James references typologically recalls both the Babylonian exile and the dispersion at Babel, yet transforms these images of judgment into instruments of gospel advance. Where Israel was scattered for disobedience, the new covenant community is scattered as seed bearing fruit among the nations—a reversal that fulfills the Abrahamic promise that all families of the earth would be blessed.",
+        "The testing of faith that James celebrates carries profound typological weight. As Israel was tested in the wilderness for forty years to reveal what was in their hearts, as Abraham was tested on Moriah, as Job was tested through satanic assault permitted by divine sovereignty, so believers now undergo trials that produce steadfastness. Yet unlike Adam who fell in testing, unlike Israel who failed repeatedly, Christ the true Israel endured every wilderness temptation without sin. James grounds his theology of testing in this christological victory—believers can count trials as joy because they are united to One who has already overcome.",
+        "The imagery of birth in verses 15 and 18 presents sin and salvation as competing generative powers. Sin conceives and gives birth to death, recalling Eve's curse and the entrance of death through Adam. But God has brought forth believers by the word of truth as firstfruits of His creatures, language that anticipates the final harvest when creation itself will be liberated from bondage to decay. The implanted word that saves souls is none other than the gospel of Christ, the living Word who brings new creation life.",
+        "For the church between the advents, James declares that present suffering is not meaningless but preparatory, producing the crown of life promised to those who love God and endure until the coming of the Lord draws near."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "59_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.999012+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-058"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

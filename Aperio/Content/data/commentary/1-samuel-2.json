@@ -1,0 +1,55 @@
+{
+  "book": "1 Samuel",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 2: The Reversal That Defines God's Kingdom",
+      "overview": [
+        "Hannah's song reveals the beating heart of God: He lifts the lowly and brings down the proud, turning human hierarchies upside down through His sovereign mercy. This passage shows us that the God we serve is not indifferent to the suffering of His people but actively works to restore dignity to those the world has discarded.",
+        "Hannah's joy bursts through every line of her song because she has experienced something transformative. She came to the temple broken and humiliated by her barrenness, her deep longing seemingly mocked by circumstance. Yet God heard her desperate prayer and remembered her. Now she sings not just for herself but as a prophet, revealing how God consistently reverses the fortunes of the desperate. The hungry are filled, the powerful are brought low, and the barren bears children. This isn't random vindication but the pattern of God's redemptive work in human history.",
+        "What's particularly beautiful is how Hannah's personal story becomes a window into God's larger purposes. Her song anticipates the coming of a King who would embody this reversal—Jesus Himself would be born to a humble woman and would lift the marginalized, feed the hungry, and challenge every power structure built on human pride. When we pray and trust God with our deepest longings, we become participants in His kingdom work.",
+        "The passage also shows us young Samuel growing in the temple, learning to hear God's voice in a place of spiritual service. While the priests Hophni and Phinehas were corrupt and greedy, Samuel was being shaped by faithful presence and obedience. This contrast teaches us that what matters most is not position but posture—our willingness to listen and serve.",
+        "In your own life, where have you experienced God's reversal of circumstances? Are you holding any desperate prayers that feel too long unanswered? Consider how trusting God's mercy might shape not just your outcome but your character while you wait."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 2: Scholarly study",
+      "overview": [
+        "The prayer of Hannah in 1 Samuel 2:1–10, followed by the narrative contrast between Samuel's faithful service and the corruption of Eli's sons (vv. 11–36), constitutes one of the most theologically significant passages in the Deuteronomistic History. Composed during the early monarchy but drawing upon older poetic traditions, this chapter functions as a programmatic introduction to the themes of divine sovereignty, reversal of fortune, and legitimate versus illegitimate leadership that pervade the books of Samuel.",
+        "Hannah's song opens with her \"horn\" (*qeren*) being exalted, an image of strength and dignity that carries royal connotations and anticipates the anointing of kings. The term appears again in verse 10, forming an inclusio that frames the poem with messianic overtones—remarkably, this represents the first explicit reference to a \"messiah\" (*māšîaḥ*) in the Hebrew Bible. The prayer's central theological affirmation concerns Yahweh as the incomparable God who kills and brings to life, who raises the poor from the dust and seats them with princes. This motif of divine reversal (*peripeteia*) establishes a pattern that echoes through Mary's Magnificat in Luke 1:46–55, demonstrating the prayer's enduring canonical significance.",
+        "The juxtaposition between Samuel, who \"ministered before the LORD\" (*mešārēt 'et-pənê YHWH*), and Eli's sons, described as \"worthless men\" (*bənê bəlîya'al*), creates a sharp narrative contrast. The sons' offenses involve both cultic violations—seizing sacrificial portions before the fat was burned—and sexual misconduct at the tent of meeting. Scholars debate whether the Masoretic Text's reference to their relations with women in verse 22 represents an original tradition or a later interpolation, as it is absent from certain Septuagint manuscripts.",
+        "The prophetic oracle against Eli's house (vv. 27–36) introduces the crucial theme of rejected priesthood, foreshadowing both the slaughter at Nob and ultimately the displacement of Abiathar by Zadok under Solomon. The promised \"faithful priest\" (*kōhēn ne'ĕmān*) who will serve before Yahweh's anointed remains deliberately ambiguous, allowing the text to function typologically across Israel's ongoing history of institutional reform and divine judgment upon corrupt religious leadership."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 2: Prophetic perspective",
+      "overview": [
+        "This passage emerges approximately 1100 years before Christ's birth, during the twilight of the judges when Israel had no king and chaos reigned in the land. We stand at a pivotal hinge in redemptive history—the transition from the period of the judges toward the establishment of the monarchy, which itself will point forward to the eternal King. Hannah's prayer and the subsequent narrative of Eli's corrupt sons mark the closing of one era and the dawning of another in God's unfolding plan.",
+        "Hannah's song rises as one of the most prophetically pregnant utterances in all Scripture, anticipating by a millennium the Magnificat of Mary. Both barren women made fruitful by divine intervention, both celebrating the God who reverses human fortunes—humbling the proud and exalting the lowly. Hannah declares truths that reach far beyond her immediate circumstances: \"The LORD kills and brings to life; He brings down to Sheol and raises up.\" Here, a thousand years before the empty tomb, a woman in Shiloh proclaims resurrection.",
+        "Most remarkably, Hannah concludes by prophesying about \"His king\" and \"His anointed\"—His Messiah—when Israel had no king at all. The Spirit carried her beyond her son Samuel to David, and beyond David to David's greater Son. This represents the first explicit mention of the Messiah in Scripture, establishing an unbroken prophetic thread that runs through Samuel's anointing of both Saul and David, through the prophets who foretold the suffering Servant, until it reaches its terminus in Jesus of Nazareth.",
+        "The contrast between Samuel's faithful service and the wickedness of Eli's sons Hophni and Phinehas establishes a pattern repeated throughout Scripture: faithful priest versus corrupt priesthood, true shepherd versus hireling. The unnamed prophet's oracle against Eli's house—\"I will raise up for Myself a faithful priest\"—finds initial fulfillment in Zadok during Solomon's reign but presses toward ultimate fulfillment in Christ, who serves forever as priest after the order of Melchizedek.",
+        "The church today lives under the reign of Hannah's Anointed One, who has indeed thundered judgment against His adversaries and now sits exalted at the Father's right hand. Yet we await the final reversal when every proud thing will be brought low and the humble saints will reign with Him forever. Hannah's ancient song becomes our present hope and future certainty."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.39413+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "book": "Song of Solomon",
+  "bookIndex": 21,
+  "status": "Editorial draft",
+  "title": "Love Given a Voice",
+  "subtitle": "Desire, delight, vulnerability, and the strength of mutual belonging",
+  "atAGlance": {
+    "genre": "Lyric love poetry with alternating voices, repeated images, and dramatic scenes",
+    "setting": "An imagined world of gardens, vineyards, countryside, and city streets",
+    "composition": "Associated with Solomon in its title; authorship, arrangement, and dating remain debated",
+    "audience": "Readers invited to attend to the beauty, power, and vulnerability of human love"
+  },
+  "sections": [
+    {
+      "title": "Let the poems be heard",
+      "paragraphs": [
+        "The Song opens with desire spoken aloud. Its lovers praise one another, seek one another, and fill the world around them with images of beauty. Gardens, fruit, perfume, animals, mountains, and spring weather become a language for delight. The poetry asks readers to attend to love as an embodied part of human life, with its own capacity for wonder.",
+        "The woman’s voice is especially prominent. She speaks her longing, describes her beloved, initiates movement, and reflects on how others see her. The book should not be reduced to a portrait of one person admired while the other remains silent. Mutual response is part of its texture, even where the scenes are elusive or the identity of a voice is uncertain."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Images that invite attention rather than decoding",
+      "paragraphs": [
+        "The comparisons can sound strange when detached from their poetic setting. Their force often lies in movement, abundance, fragrance, or valued materials rather than in a literal visual diagram. Read a whole passage before deciding that each image needs a separate symbolic key. The sequence creates an experience of admiration that a list of isolated definitions cannot reproduce.",
+        "Repeated invitations and refrains help hold the poems together. Spring arrives, a beloved approaches, doors open or remain closed, and the lovers describe their relationship in changing terms. These movements need not form a single securely recoverable plot. Readers and translators differ over scene divisions and speaker assignments, so an outline should guide attention without pretending to settle every dramatic question."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    },
+    {
+      "title": "Love includes absence and vulnerability",
+      "paragraphs": [
+        "The Song contains searching as well as finding. Night scenes and dreamlike passages expose the pain of absence and the insecurity of moving through a city in search of the beloved. In chapter 5, the watchmen’s violence interrupts the language of delight. The harm should not be romanticized or silently treated as another expression of love. It reveals vulnerability within the world through which the woman moves.",
+        "The recurring concern about awakening love, together with the pressure of family and public settings, gives desire a social context. Love is intimate, but it is not lived outside every relationship or constraint. The poems allow attraction, longing, timing, and the desire for recognized belonging to remain in conversation rather than reducing love to one uncomplicated feeling."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A love that cannot simply be purchased",
+      "paragraphs": [
+        "The closing chapter brings the language of strength and permanence into focus. Love is compared with death in its power, and mighty waters cannot extinguish it. Wealth cannot purchase the relationship the poem celebrates. These claims give love a dignity that exceeds exchange, possession, or display. A person cannot be acquired in the same way as a valuable object.",
+        "The images of seal, heart, and arm gather the desire for an enduring bond. Read them alongside the book’s repeated mutuality: admiration and longing are answered, not merely imposed. The Song can deepen attention to the beloved as a person whose presence is received with delight. Its beauty depends in part on the care with which one voice notices another."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Solomon, tradition, and the book’s place in Scripture",
+      "paragraphs": [
+        "The title associates the Song with Solomon, and royal imagery appears within it. That association does not resolve who composed every poem or when the collection reached its present form. Scholars propose different dates and accounts of its arrangement, including formation after the exile. The timeline therefore identifies it as poetry rather than assigning its scenes to particular years in Solomon’s life.",
+        "Jewish and Christian traditions have also read the Song as an image of the relationship between God and His people; Christians have often related it to Christ and the church. Those spiritual readings belong to its rich history of reception. They should be distinguished from the poems’ immediate presentation of human lovers, whose embodied affection need not be erased in order for the book to be Scripture. Begin with the voices on the page. Listen for delight, absence, initiative, and response, and let the poetry enlarge the seriousness with which love is understood."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Desire and invitation",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The lovers’ voices introduce attraction, praise, longing, and the imagery of spring."
+    },
+    {
+      "label": "Seeking, encounter, and absence",
+      "startChapter": 3,
+      "endChapter": 5,
+      "description": "Night scenes, royal imagery, and intimate praise bring delight and vulnerability together."
+    },
+    {
+      "label": "Renewed praise and enduring love",
+      "startChapter": 6,
+      "endChapter": 8,
+      "description": "Mutual admiration leads toward the closing claims about love’s strength and unpurchasable worth."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Mutual delight",
+      "description": "The lovers give desire and admiration responsive, personal voices."
+    },
+    {
+      "name": "Embodied goodness",
+      "description": "Human affection and beauty receive sustained poetic attention within Scripture."
+    },
+    {
+      "name": "Love beyond possession",
+      "description": "The closing images honor a bond that wealth and force cannot manufacture."
+    }
+  ],
+  "timeline": {
+    "era": "wisdom",
+    "dateLabel": "Poetic setting; composition uncertain",
+    "context": "The Song moves through lyric scenes rather than a securely dated historical narrative.",
+    "note": "Its association with Solomon and its later interpretations are distinct from established composition dates."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 8,
+      "era": "wisdom",
+      "label": "The poetry of love",
+      "dateLabel": "No secure chapter dates",
+      "note": "Scene order and speaker divisions are debated; the collection is not treated as a dated royal biography."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Song of Solomon · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Song of Solomon",
+      "url": "https://bible.usccb.org/bible/songofsongs/0"
+    }
+  ]
+}

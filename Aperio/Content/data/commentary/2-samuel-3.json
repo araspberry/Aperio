@@ -1,0 +1,57 @@
+{
+  "book": "2 Samuel",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 3: The Long Road to Wholeness",
+      "overview": [
+        "In 2 Samuel 3, we encounter the painful reality that God's kingdom comes together slowly, through conflict and loss, not by conquest alone. This chapter captures the raw humanity of David's rise—his growing strength, his complex family, and the tragic cost of civil war—reminding us that God works within our brokenness, not around it.",
+        "David is consolidating power while Saul's house crumbles. We see his sons born, each representing a different mother and deepening family complications. Abner, Saul's general, initially resists David but eventually recognizes the inevitable shift toward David's kingship and attempts reconciliation. Yet just as peace seems possible, Joab murders Abner in revenge for his brother's death, and David is left to mourn a man he never truly controlled and lament the violence done in his name.",
+        "The passage teaches us something costly about God's kingdom: it doesn't arrive through our perfect planning or personal ambition. David desired to be king, but his path included waiting, compromise, loss, and the consequences of others' sins committed on his behalf. He had to grieve with genuine sorrow, even over an enemy's death, declaring that his hands were innocent while acknowledging that unrighteousness had occurred in his household anyway.",
+        "This mirrors our own spiritual journey. We long for wholeness—in our families, our churches, our own hearts—but the path there winds through conflict, misunderstanding, and genuine tragedy. Sometimes we inherit problems we didn't create. Sometimes people betray our vision while claiming to serve it. Sometimes we must mourn what was lost in the process of becoming who God called us to be.",
+        "Yet notice David's integrity: he mourned publicly, he named the wrong, and he trusted God's judgment. He refused to pretend the cost wasn't real, but neither did he abandon his calling.",
+        "What unresolved losses are you carrying as you follow Jesus? How might honest grief actually deepen your trust in God's larger purposes?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 3: Scholarly study",
+      "overview": [
+        "The third chapter of Second Samuel narrates a pivotal transition in David's consolidation of power following Saul's death, documenting both the protracted conflict between the houses of Saul and David and the dramatic defection of Abner ben Ner, Saul's kinsman and military commander. Composed within the larger Court History or Succession Narrative, this chapter reflects the Deuteronomistic historian's theological interest in demonstrating how YHWH's promise to David progressively materialized despite human machinations and violence.",
+        "The chapter opens with a summary statement establishing the prolonged nature of the civil war, employing the Hebrew construction \"hōlēk wĕḥāzēq\" (growing stronger) for David's house contrasted with \"hōlĕkîm wĕdallîm\" (growing weaker) for Saul's dynasty—a deliberate literary parallelism emphasizing the inexorable divine momentum behind David's rise. The subsequent genealogical register of David's sons born at Hebron serves both administrative and theological purposes, legitimizing David's dynasty while subtly foreshadowing future succession crises involving these very offspring.",
+        "The narrative nucleus concerns Abner's alienation from Ish-bosheth over Rizpah, Saul's concubine. The accusation of taking a royal concubine carried profound political implications in ancient Near Eastern royal ideology, as such an act constituted a claim to succession. Abner's furious response utilizes the term \"rō'š keleb\" (dog's head), an expression of profound contempt, before invoking the divine oath regarding David's kingdom—remarkably, even Saul's general acknowledges YHWH's sovereign election of David.",
+        "Abner's subsequent negotiations with David raise complex ethical questions that interpreters have long debated. David's demand for Michal's return involves the Hebrew term \"mĕ'ōrāśâ\" (betrothed), reasserting his legitimate connection to Saul's house, though the poignant detail of Paltiel weeping as he follows his wife exposes the human cost of political calculations.",
+        "The chapter concludes with Joab's assassination of Abner at Hebron's gate, an act of blood vengeance for Asahel's death that also eliminated a rival for military leadership. David's elaborate mourning ritual and curse upon Joab's house serve crucial apologetic functions, distancing the king from this treacherous killing and preserving his covenantal integrity. The people's recognition that this murder occurred without royal sanction underscores the narrative's insistence on David's innocence amid the violence surrounding his ascent."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 3: Prophetic perspective",
+      "overview": [
+        "The events recorded in this chapter unfold approximately one thousand years before the incarnation of Christ, during the turbulent transition period following Saul's death at Mount Gilboa around 1010 BC. Israel stands divided—David reigns over Judah from Hebron while Ish-bosheth, Saul's surviving son, holds a fragile claim over the northern tribes through the military power of Abner. This passage marks a pivotal moment in the establishment of the Davidic kingdom, itself a crucial stage in redemptive history between the period of the judges and the coming golden age of the united monarchy, which would foreshadow the eternal reign of Messiah.",
+        "The long war between the house of Saul and the house of David carries profound typological weight. David grows stronger while Saul's house grows weaker—a pattern that echoes throughout Scripture whenever God's chosen vessel confronts the failing order of human appointment. Saul's kingdom represents the reign of the flesh, established by popular demand, while David's throne was ordained by divine covenant. In this we perceive a shadow of the greater David who would declare that His kingdom is not of this world, gradually supplanting all earthly powers until every knee bows before Him.",
+        "Abner's defection to David after his dispute with Ish-bosheth reveals how the Lord orchestrates even human conflict and ambition to accomplish His sovereign purposes. Yet Joab's treacherous murder of Abner at the gates of Hebron introduces a darker thread—the violence and bloodshed that would plague David's house, disqualifying him from building the temple. David's public mourning and curse upon Joab demonstrate the king's heart, foreshadowing the Greater King who would weep over Jerusalem and pronounce woe upon those who shed innocent blood.",
+        "The political maneuvering, betrayal, and assassination recorded here remind the church that God's kingdom advances not through such carnal means but through the power of the Spirit. What required swords and scheming under the old covenant would be accomplished through the cross and resurrection under the new.",
+        "For believers living between the advents, this chapter speaks of patient waiting. David did not seize the kingdom by force but allowed God to bring it to him in His timing. The church similarly awaits the consummation when Christ, the true King long promised to David's line, shall reign unchallenged, and every rival kingdom shall bow before the throne established not in Hebron but in the heavenly Jerusalem forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.475172+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

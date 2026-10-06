@@ -1,0 +1,56 @@
+{
+  "book": "1 Samuel",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 9: The Hidden King",
+      "overview": [
+        "When God intends to do something magnificent in the world, He often works through the ordinary and overlooked—through a young man looking for lost donkeys who stumbles into his own destiny. The heart of this passage is that divine providence weaves through our everyday steps, and God's purposes move forward even when we have no idea we're part of something larger than ourselves.",
+        "Saul's journey to find his father's donkeys becomes the unlikely path to his anointing as Israel's first king. Notice how naturally the narrative unfolds: servants suggest a prophet in town, Saul worries about payment, and they ascend the hill just as Samuel arrives. Yet beneath this unforced sequence lies the hand of God orchestrating every detail. \"The Lord had revealed this to Samuel\" (verse 15), we're told, confirming that what seems like coincidence is actually covenant unfolding.",
+        "There's profound comfort in recognizing that our ordinary days—our work, our concerns, our small conversations—are the very places where God shapes our calling. Saul wasn't pacing temple grounds waiting for divine intervention; he was being faithful to his father, concerned about practical matters, responsive to the counsel of others. And in that faithfulness, he met his future.",
+        "This also reveals something about how God works with us: He doesn't often announce the entire blueprint at once. Saul was anointed as king, but he didn't immediately stride to the throne. He returned to his father's house. The next chapters unfold his actual journey to rulership. God met him where he was and moved him forward at the right pace, and He does the same with us.",
+        "As you navigate your own days—perhaps managing mundane tasks or seeking counsel from wise others—remember that you are never outside God's sight or beyond His purpose. What seems like distraction may be direction.",
+        "Where in your everyday faithfulness might God be quietly preparing you for what He's calling you toward?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 9: Scholarly study",
+      "overview": [
+        "The ninth chapter of First Samuel marks a pivotal narrative transition, introducing Saul the son of Kish as Israel's future monarch through what appears initially as a mundane search for lost donkeys. This literary unit belongs to a complex of traditions concerning the origins of Israelite kingship, preserving what scholars often identify as a \"seer narrative\" that may reflect an earlier, more favorable view of monarchy than the cautionary perspective found in chapter eight. The author skillfully employs dramatic irony throughout, as readers aware of Samuel's divine commission observe the unsuspecting Saul drawn inexorably toward his destiny.",
+        "The opening genealogy establishes Saul's credentials as a Benjaminite of substantial lineage, with the descriptor \"a mighty man of valor\" (*gibbôr ḥayil*) applied to his father Kish. This phrase typically denotes martial prowess and social standing, situating the family among the landed aristocracy. Saul himself receives remarkable physical description—handsome and taller than any other Israelite—details that simultaneously validate his royal suitability by ancient Near Eastern standards while subtly foreshadowing the superficiality of such criteria, a theme Samuel will later articulate explicitly when anointing David.",
+        "The term *rōʾeh* (seer) appears prominently, with the narrator providing an explanatory gloss indicating this title preceded *nābîʾ* (prophet) in Israelite usage. This editorial comment suggests the text preserves archaic terminology, lending authenticity while acknowledging linguistic evolution. The distinction between these prophetic designations has generated considerable scholarly discussion, with some arguing *rōʾeh* emphasizes visionary experience while *nābîʾ* stresses proclamatory function.",
+        "Particularly significant is the divine revelation to Samuel \"a day before\" Saul's arrival, employing the phrase \"uncovered the ear\" (*gālâ ʾet-ʾōzen*), an idiom for confidential disclosure. Yahweh designates Saul as *nāgîd* rather than *melek*—a term perhaps meaning \"designated one\" or \"prince-elect\"—possibly preserving theological reservation about human kingship while acknowledging its divine sanction. The subsequent private feast and rooftop conversation establish intimate prophetic-royal relations, anticipating the complex dynamic that will characterize Israel's monarchical theology wherein prophets both legitimate and critique royal authority."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 9: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1050 years before the incarnation of Christ, during the twilight of the judges and the dawn of Israel's monarchy. The nation stands at a pivotal hinge point in redemptive history—the patriarchal promises to Abraham have multiplied into a tribal confederacy, the Exodus deliverance has long since given way to cycles of apostasy and deliverance under the judges, and now Israel clamors for a king \"like all the nations.\" Within the grand arc of God's plan, this passage marks the transition into the Kingdom era, where God will establish a throne that ultimately points toward David's greater Son.",
+        "Saul's introduction carries profound typological weight. He is described as the choicest young man in Israel, head and shoulders above his countrymen—a king after the people's own vision, selected according to outward appearance and human standards. His search for lost donkeys becomes the unlikely occasion for divine appointment, revealing how God weaves sovereign purpose through mundane circumstances. Yet this very selection contains prophetic irony: Saul represents what Israel wanted, not what Israel needed. He stands as a type of human kingship in its inadequacy, a shadow-king whose reign will ultimately expose the failure of leadership rooted in flesh rather than spirit.",
+        "Samuel's role as prophet-priest-judge bridges the old order and the new. His foreknowledge of Saul's arrival demonstrates that even when God grants Israel's misguided request, He remains sovereignly orchestrating events. The feast prepared, the choice portion reserved, the secret anointing to come—all reveal that kingship in Israel, though accommodating human rebellion, remains under prophetic authority and divine governance.",
+        "The eschatological thread here is anticipatory. This chapter begins a trajectory that will pass through Saul's failure to David's covenant, through David's line to exile, and through exile to a manger in Bethlehem where heaven's true King arrives not in impressive stature but in servant weakness. Where Saul sought his father's donkeys, Christ came seeking His Father's lost sheep. Where Saul was chosen for his height, Jesus was despised and rejected, having no form or majesty that we should desire Him.",
+        "For the church awaiting Christ's return, this passage teaches that God's purposes advance even through human failure and flawed institutions. The kingdoms of this world, impressive in appearance, will give way to the kingdom of our Lord and of His Christ, whose reign shall never end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.411145+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

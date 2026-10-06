@@ -1,0 +1,57 @@
+{
+  "book": "Acts",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 5: The Cost and Courage of Radical Witness",
+      "overview": [
+        "The heart of Acts 5 is the church's willingness to suffer for Christ's name, revealing what genuine devotion costs and what grace can sustain.",
+        "In these chapters, we encounter the church facing its first serious persecution. The apostles are arrested, miraculously released by an angel, and then rearrested and beaten for refusing to stop speaking about Jesus. Yet their response is stunning: \"The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name\" (5:41). This is not masochism or fanaticism. This is the overflow of a joy so deep that it transcends earthly comfort.",
+        "The passage opens with Ananias and Sapphira's tragic deception—a sobering reminder that the Holy Spirit's presence demands honesty before God. Their lie wasn't about money; it was about maintaining a false image while claiming radical surrender. The early church understood that authentic faith cannot coexist with hidden compromise. This incident establishes the seriousness of walking in God's presence.",
+        "But the dominant theme is courage rooted in resurrection hope. The apostles had encountered the risen Jesus. They knew He was alive, real, and worth any price. When threatened with death, they chose His approval over earthly safety. They understood something we often forget: loyalty to Christ is the one choice that can never be taken from us, even when everything else is stripped away.",
+        "What transformed ordinary fishermen and tax collectors into fearless witnesses? Not confidence in their own strength, but certainty in Christ's resurrection. They had tasted His presence, been filled with His Spirit, and this was enough.",
+        "The question for us is not whether we'll face persecution—many will—but whether our joy in Christ runs deep enough to transform fear into courage. Do we possess a conviction so rooted in the risen Jesus that no circumstance can shake our fundamental peace? What would change in our daily choices if we truly believed, as the apostles did, that knowing Christ is worth any cost?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 5: Scholarly study",
+      "overview": [
+        "Acts 5 presents a pivotal narrative unit in Luke's second volume, functioning as a critical moment in the early Jerusalem community's self-definition and its relationship to both divine authority and the Jewish religious establishment. Composed likely in the early 80s CE, Luke addresses Theophilus and a broader Greco-Roman audience, demonstrating how the nascent church navigated internal integrity and external opposition under apostolic leadership.",
+        "The chapter opens with the disturbing account of Ananias and Sapphira, which stands in deliberate literary contrast to the generosity of Barnabas concluding chapter 4. The couple's sin centers not merely on financial retention but on their attempt to deceive (ψεύσασθαι, *pseudasthai*) the Holy Spirit, which Peter equates with lying to God himself. The verb *nosphizō* (νοσφίζω), describing their withholding of proceeds, carries connotations of embezzlement and appears notably in the Septuagint's account of Achan's sin in Joshua 7, suggesting Luke intentionally evokes this typological parallel. Both narratives concern covenant community purification at foundational moments. The immediate divine judgment, while troubling to modern sensibilities, reflects ancient Near Eastern and Greco-Roman expectations regarding sacrilege and functions literarily to establish the absolute seriousness of Spirit-community integrity.",
+        "The term *phobos* (φόβος, \"fear\") appears repeatedly throughout the chapter, describing responses to both the deaths and the apostolic signs. This fear operates multivalently—as reverential awe appropriate to divine presence and as the community's protective boundary against insincere adherents.",
+        "The latter half depicts escalating conflict with the Sanhedrin. The apostles' miraculous release from prison and their bold declaration that they must obey (πειθαρχεῖν, *peitharchein*) God rather than human authorities establishes a theological principle with profound implications for subsequent Christian political theology. Gamaliel's counsel, historically plausible given Pharisaic openness to divine sovereignty in historical outcomes, provides Luke's readers with an outsider's validation of the movement's potential legitimacy.",
+        "Scholars debate whether Luke presents an idealized or historically grounded portrait of early Christian communalism. Regardless, the chapter's theological function is clear: the authentic community of the Spirit requires radical integrity, divine power authenticates apostolic witness, and opposition from human authorities cannot ultimately suppress God's purposes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 5: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds in the earliest days of the church age, mere months after Pentecost, approximately 30-33 AD. The resurrection has shattered death's dominion, the Spirit has been poured out upon all flesh as Joel prophesied, and the new covenant community is taking its infant steps in Jerusalem. We stand at the hinge point of redemptive history—the long-awaited kingdom has been inaugurated through Christ's victory, yet its consummation awaits His return. The church now exists as the firstfruits of the new creation, living in the tension between the \"already\" and the \"not yet.\"",
+        "The sobering account of Ananias and Sapphira reveals that the holy God who struck down Nadab and Abihu for offering strange fire, who opened the earth beneath Korah's rebellion, remains unchanged in His nature. The same Shekinah glory that could not tolerate falsehood in the tabernacle now dwells within the temple of His people. This judgment serves as a typological echo of Eden—where the serpent's lie brought death to humanity, here lying to the Holy Spirit brings immediate physical death. The Spirit who hovered over creation's waters now hovers over the new creation, and deception cannot survive His presence. This severe mercy purified the early church and stands as a perpetual warning that God's grace never nullifies His holiness.",
+        "The apostles' miraculous ministry—healing multitudes, casting out unclean spirits—fulfills Christ's promise that His followers would do greater works. Peter's shadow bringing healing recalls how even the hem of Jesus' garment carried resurrection power; the servant now carries forward the Master's authority. Here is the kingdom of God breaking through in power, the same authority that will one day heal every disease when Christ returns to make all things new.",
+        "The Sanhedrin's imprisonment of the apostles and the angel's miraculous deliverance establishes a pattern that reverberates through church history. What Pharaoh could not do to Israel, what the stone could not do to Christ's tomb, prison walls cannot do to the gospel. Gamaliel's unwitting prophecy—\"if it is of God, you cannot overthrow it\"—speaks more truly than he knew. This movement is indeed of God, and the gates of hell shall never prevail against it.",
+        "The apostles' joyful suffering \"for the Name\" inaugurates the theology of participation in Christ's sufferings. The church between the advents walks this same road—blessed when persecuted, rejoicing in tribulation, knowing that present sufferings are producing an eternal weight of glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.67409+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

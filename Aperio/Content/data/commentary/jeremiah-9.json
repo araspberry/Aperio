@@ -1,0 +1,55 @@
+{
+  "book": "Jeremiah",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 9: The Cost of Truth-Telling",
+      "overview": [
+        "Jeremiah's anguished cry in chapter nine reveals the loneliness that comes with speaking hard truths in a world that prefers comfortable lies. The prophet weeps over a people he loves but cannot reach, trapped in his calling to speak what God has given him to say, knowing full well it will be rejected.",
+        "The chapter opens with Jeremiah's raw wish to escape his burden: \"Oh, that my head were a spring of water and my eyes a fountain of tears\" (9:1). This is not melodrama but authentic grief. He has watched his community embrace deception—neighbors deceiving neighbors, brothers betraying brothers—and he sees the spiritual death this brings. The people of Judah have become so comfortable with falsehood that truth has become foreign territory. They boast of their strength and wisdom while ignoring their fundamental need to know God, and Jeremiah must announce coming judgment to those who will despise him for it.",
+        "Yet embedded in this sorrow is a profound invitation. Verse 23-24 stands like a jewel within the darkness: \"Thus says the LORD: 'Let not the wise boast in their wisdom... but let those who boast boast in this, that they understand and know me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth.'\" This is the message beneath the judgment—God's character remains constant, rooted in covenant faithfulness, justice, and mercy.",
+        "This passage meets us when we feel the weight of standing for truth in a culture of compromise, or when we've grown weary speaking against the current. Jeremiah models both honesty about the cost and confidence in God's character. Our calling is not to succeed but to remain faithful to what we know to be true.",
+        "What truths has God entrusted to you that cost something to speak? How might Jeremiah's example of weeping compassion reshape how you deliver difficult words?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 9: Scholarly study",
+      "overview": [
+        "Jeremiah 9 continues the prophet's extended lamentation over Judah's covenant unfaithfulness, forming part of a larger unit that scholars typically trace from chapter 8 through chapter 10. The historical backdrop is the final decades of the Judahite monarchy, likely during the reign of Jehoiakim or the early years of Zedekiah, when Babylonian pressure intensified and the nation's moral decay had reached its nadir. Jeremiah, often designated the \"weeping prophet,\" here embodies the divine pathos, speaking alternately in his own voice and as the mouthpiece of YHWH in a manner that makes speaker identification notoriously difficult throughout the chapter.",
+        "The chapter opens with profound grief, employing the Hebrew term *dimʿah* (tears) repeatedly to emphasize the overwhelming sorrow occasioned by the people's destruction. The prophet's wish for a \"lodging place in the wilderness\" reflects his alienation from a society characterized by deception and moral corruption. Central to the indictment is the term *sheqer* (falsehood, deception), which appears throughout as the defining characteristic of Judahite social relations. The people have trained their tongues like bows for lies, and *ʾemet* (truth, faithfulness) has perished from the land. This vocabulary connects to broader prophetic concerns about covenant fidelity, as truth-telling was foundational to Israelite social ethics.",
+        "Particularly significant is the divine pronouncement in verses 23-24, which has generated substantial theological reflection across Jewish and Christian traditions. The contrast between wisdom, might, and riches on one hand, and knowing YHWH who practices *ḥesed* (steadfast love), *mishpat* (justice), and *tsedaqah* (righteousness) on the other, articulates a fundamental reorientation of values. These three terms constitute a hendiatris describing YHWH's covenantal character and, by extension, what covenant relationship demands of the people.",
+        "The call for professional mourning women in verses 17-22 employs funeral imagery to depict the nation's impending death. The personification of Death climbing through windows draws on ancient Near Eastern mythological motifs while serving Jeremiah's theological purpose. The chapter thus functions as both indictment and lament, holding together divine judgment and prophetic grief in a manner characteristic of Jeremiah's distinctive theological voice."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 9: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter nine emerges from the final decades before Jerusalem's destruction, penned approximately 600 years before Christ's birth during the reign of the last kings of Judah, as the Babylonian threat gathered on the horizon. This passage stands at the precipice of exile, within that painful chapter of redemptive history between the glory of David's kingdom and the seventy-year captivity that would purge Israel of her idolatry. The prophesied judgment in this chapter was fulfilled literally when Nebuchadnezzar razed Jerusalem in 586 BC, scattering the covenant people among the nations.",
+        "The chapter opens with the weeping prophet himself, whose tears flow as waters for the slain of his people. Here Jeremiah stands as a type of Christ, who would centuries later weep over this same Jerusalem, lamenting that she knew not the time of her visitation. The prophet's grief is no mere human sentiment but participates in the very heart of God, who takes no pleasure in the death of the wicked. This interweaving of divine and prophetic sorrow reveals the character of the coming Messiah, who would be a man of sorrows, acquainted with grief.",
+        "The indictment against Judah catalogs a civilization unraveling through deceit, slander, and the abandonment of covenant faithfulness. Neighbor cannot trust neighbor; tongue is bent like a bow for falsehood. This portrait of total relational breakdown mirrors the original fall, when humanity first learned to deceive, and anticipates the conditions of the last days when the love of many grows cold. The land itself mourns, becoming desolate—a reversal of Eden's fruitfulness that prophetically foreshadows the cosmic groaning Paul identifies in Romans, creation itself awaiting liberation.",
+        "Yet within this oracle of doom shines an eternal word that transcends its immediate context. The Lord declares that boasting must cease in wisdom, might, and riches, finding its only ground in knowing the God who exercises lovingkindness, justice, and righteousness. This prophetic principle finds its fulfillment in Christ, who became for us wisdom from God, and in Paul's declaration that those who boast must boast in the Lord alone.",
+        "The circumcision of flesh without circumcision of heart renders Israel no different from the pagan nations. This theme reaches forward through the prophets to find its new covenant resolution when God promises hearts of flesh replacing hearts of stone. For the church dwelling between advents, Jeremiah nine calls us to authentic covenant relationship, genuine lament over sin, and a boast that rests solely in knowing the living God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.927964+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

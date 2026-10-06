@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 13: When Obedience Breaks in an Age of Compromise",
+      "overview": [
+        "The encounter between the man of God and Jeroboam reveals a sobering truth: genuine obedience sometimes means standing apart from culture, refusing negotiation, and trusting God's Word even when it costs everything. This passage exposes how easily the voice of false authority—even presented by those claiming spiritual legitimacy—can undo a believer's faithfulness.",
+        "The man of God arrives with a clear assignment from the Lord: pronounce judgment on Jeroboam's altar, then leave without eating, drinking, or turning back. It's a simple command, yet its simplicity contains everything necessary for obedience. The test isn't intellectual complexity but willingness to follow through. When Jeroboam attempts bribery and the old prophet later invites him to break his fast, the tension becomes visceral. The prophet's lie sounds reasonable—he claims divine authority to countermand the original instruction—but obedience can't be negotiated based on convenience or social pressure.",
+        "This speaks directly to our contemporary struggle. We live in an age of nuance and compromise, where voices claiming spiritual authority constantly reinterpret God's Word to fit our preferences. The pressure is relentless: \"Everyone's doing it,\" \"You're being too strict,\" \"God wouldn't really want you to suffer this.\" These temptations come dressed in shepherd's clothing, which makes them dangerous.",
+        "What moves us most is the man of God's vulnerability. He's not immune to hunger, fatigue, or loneliness. He's tempted by fellowship and provision. Yet he holds his ground—until he doesn't. His tragic death, ironically fulfilling the prophet's words, demonstrates that disobedience always carries consequences, even for those who walked faithfully for a time.",
+        "The real invitation here is neither judgment nor despair but honest self-examination. What promises from the world are eroding my obedience? Where have I mistaken the voice of convenience for the voice of God? What assignments has the Spirit given me that require me to stand apart, sustained only by trust in His Word?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 13: Scholarly study",
+      "overview": [
+        "The narrative of 1 Kings 13 presents one of the most enigmatic and theologically complex episodes in the Deuteronomistic History, occurring immediately after Jeroboam I establishes his rival cult centers at Bethel and Dan. This chapter introduces an unnamed prophet from Judah—designated simply as \"a man of God\" (*ʾîš hāʾĕlōhîm*)—who confronts Jeroboam at the Bethel altar with a remarkable oracle predicting the future king Josiah by name, an apparent vaticinium ex eventu that situates the narrative within the broader Deuteronomistic concern for cultic centralization. The historical setting reflects the religious crisis following the divided monarchy circa 930 BCE, though the text's final form likely dates to the exilic period.",
+        "The term *môpēt* (portent or sign) employed in verse 3 carries significant theological weight, functioning not merely as miraculous confirmation but as divine authentication of prophetic authority. When the altar splits and ashes pour out, the narrative employs the verb *qāraʿ* (to tear), creating intertextual resonance with Ahijah's symbolic tearing of Jeroboam's garment in chapter 11. The withering and restoration of Jeroboam's hand demonstrates both divine judgment and mercy, yet remarkably produces no lasting repentance in the king.",
+        "The chapter's second movement introduces a profound interpretive difficulty: the \"old prophet\" (*nābîʾ zāqēn*) of Bethel who deceives the Judean prophet, claiming angelic authorization to countermand the divine command. The subsequent death of the man of God by lion attack raises troubling questions about prophetic discernment and divine justice. Scholars remain divided whether this narrative condemns the Judean prophet's credulity, critiques prophetic culture generally, or serves primarily as etiology for the tomb mentioned in 2 Kings 23:17-18.",
+        "The literary structure moves from prophetic confrontation to prophetic deception, suggesting that obedience to direct divine command supersedes apparent prophetic mediation. The phrase \"the word of the LORD\" (*dĕbar-YHWH*) appears repeatedly, emphasizing the irrevocable nature of divine speech even when human agents fail. Within the canonical context, this narrative foreshadows Josiah's reforms while simultaneously exploring the dangerous ambiguity inherent in prophetic communication, a theme that resonates throughout the subsequent prophetic literature."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 13: Prophetic perspective",
+      "overview": [
+        "This sobering chapter unfolds approximately 930 years before Christ's birth, immediately following the division of Solomon's united kingdom into the northern realm of Israel under Jeroboam and the southern kingdom of Judah under Rehoboam. Within the grand sweep of redemptive history, we stand at a pivotal moment of fracture—the Davidic kingdom, established as a type of Messiah's eternal reign, now lies torn by sin and idolatry. The golden age of Solomon has given way to apostasy, and Jeroboam has erected rival altars at Bethel and Dan with their golden calves, severing the northern tribes from Jerusalem's temple worship.",
+        "Into this darkness steps an unnamed man of God from Judah, bearing a stunning prophecy that would remain unfulfilled for three centuries. He declares that a king named Josiah will one day desecrate this very altar by burning the bones of false priests upon it—a prediction so precise that it names the future reformer by name some 300 years before his birth. The subsequent sign of the altar splitting and Jeroboam's withered hand confirm divine authority. Here we witness the prophetic word as living power, accomplishing what it declares, typologically foreshadowing the Word made flesh who would speak and demons fled, diseases departed, and death itself retreated.",
+        "Yet the chapter's darker second movement carries equally prophetic weight. The young prophet, having faithfully delivered God's message, succumbs to deception by an old prophet who claims angelic counter-revelation. His disobedience—eating and drinking where God forbade—results in his death by lion. This tragic episode thunders across the ages as a warning that proximity to revelation does not guarantee protection when obedience falters. The lion that kills yet does not devour, standing sentinel beside the body, demonstrates that even judgment operates under divine sovereignty.",
+        "The typological resonance deepens when we recognize the old prophet as a figure of false teachers who lead the faithful astray through counterfeit words—a pattern Paul would later warn against when he declared that even an angel preaching another gospel stands accursed. The young prophet's grave in Bethel, where his bones would eventually rest beside the deceiver's, speaks to the complexity of divine mercy even amid discipline.",
+        "For the church dwelling between advents, this passage demands sober vigilance. The Word of God stands inviolable; those entrusted with prophetic truth bear heightened accountability. No subsequent \"revelation\" may contradict what God has spoken, and faithfulness requires obedience to the end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.566175+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

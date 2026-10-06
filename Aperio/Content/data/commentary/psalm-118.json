@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 118,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 118 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 118: The Victory Song of the Grateful Heart",
+      "overview": [
+        "When we most desperately need to know that God has not abandoned us, this psalm opens the door to unshakeable confidence—not because circumstances have changed, but because we remember who God is.",
+        "Psalm 118 is fundamentally about declaring that steadfast love never fails. The psalmist invites us into a posture of gratitude that precedes complete understanding of our circumstances. Notice how the song begins: \"Give thanks to the Lord, for he is good; his love endures forever.\" This is not passive sentiment but radical trust. The psalmist has faced pressure and distress—enemies surrounded him, attacked him, but he did not collapse under their weight. Why? Because he called upon the Lord.",
+        "There is something profoundly strengthening in how this psalm moves. It does not deny difficulty. Instead, it recounts deliverance as though the victory is already assured in God's character, not in changed circumstances alone. \"The Lord is my strength and my defense,\" the psalmist declares, moving from fear to fierce confidence. This movement from desperation to declaration shapes how we pray in our own valleys.",
+        "The magnificent declaration \"The stone the builders rejected has become the cornerstone\" speaks directly to how God overturns human judgment. What we deem worthless, God can make essential. What we think disqualifies us from usefulness, God transforms into the foundation itself. This is the gospel wrapped in stone and architecture.",
+        "For those navigating disappointment, rejection, or the slow work of rebuilding broken things, this psalm offers a map: name God's faithfulness, acknowledge that opposition is real but not final, and declare that our God is working purposes we cannot yet see. The repetition of the refrain—\"His love endures forever\"—is not mindless repetition but a healing mantra for worn hearts.",
+        "How might your day change if you began it by genuinely believing that God's steadfast love toward you truly never fails?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 118: Scholarly study",
+      "overview": [
+        "Psalm 118 stands as the concluding hallel psalm in the Egyptian Hallel collection (Psalms 113–118), liturgically employed during Israel's major pilgrimage festivals, particularly Passover, Tabernacles, and Weeks. The psalm's composite structure suggests it functioned as a processional liturgy, likely involving antiphonal exchange between an individual voice—possibly royal—and the congregation at the temple gates. Its post-exilic dating finds support in vocabulary and theological emphases characteristic of Second Temple Judaism, though the psalm may preserve earlier monarchic traditions recontextualized for communal worship.",
+        "The psalm opens with a fourfold summons to thanksgiving employing the Hebrew term *ḥesed* (covenant faithfulness, steadfast love), a theologically dense word encompassing God's loyal commitment to his covenant people. This *ḥesed* provides the theological foundation for the entire composition, framing the deliverance testimony that follows. The repeated liturgical response \"his *ḥesed* endures forever\" establishes the participatory nature of Israelite worship while affirming divine constancy amid human precariousness.",
+        "Central to the psalm's dramatic movement is the testimony of deliverance from encircling enemies and near-death experience, expressed through the verb *sābab* (to surround, encompass), occurring three times in verses 10–12 to emphasize the overwhelming nature of the threat. The psalmist's survival becomes paradigmatic for communal hope, demonstrating that Yahweh's intervention transforms mortal danger into occasion for praise.",
+        "The architectural imagery of verses 19–27 places the worshipper at the temple gates, requesting entry into sacred space. The celebrated declaration that \"the stone the builders rejected has become the cornerstone\" (*rōʾš pinnāh*, head of the corner) employs construction metaphor to articulate divine reversal—what human judgment discarded, God establishes as foundational. New Testament authors appropriated this verse christologically, identifying Jesus as the rejected-yet-vindicated stone.",
+        "Verse 24's proclamation regarding \"the day Yahweh has made\" has generated interpretive discussion concerning whether it references a specific festival occasion, the day of deliverance itself, or eschatological fulfillment. The psalm's movement from individual distress through communal celebration to universal scope anticipates messianic interpretation, explaining its prominence in early Christian liturgy and its enduring significance across Jewish and Christian traditions as testimony to divine faithfulness manifested through unexpected reversals."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 118: Prophetic perspective",
+      "overview": [
+        "This psalm, likely composed during the post-exilic period around 516 BC for the dedication of the second temple, stands at the threshold of restoration when Israel returned from Babylonian captivity to rebuild what had been destroyed. Within the grand arc of redemption, this moment represents the Restoration phase—after the devastating Exile but before the four hundred silent years that would precede the Incarnation. Yet this psalm transcends its historical moment, becoming the very song that would frame the most pivotal week in human history.",
+        "The stone rejected by the builders becoming the chief cornerstone constitutes one of Scripture's most crystalline messianic prophecies. Israel's leadership—the religious architects of the nation—would examine the Messiah and cast Him aside as unfit for their construction. Yet this very rejection became the means by which God established the foundation of His eternal temple, the Church built from living stones gathered from every nation. Jesus Himself claimed this text directly, and the apostles repeatedly proclaimed its fulfillment in the crucifixion and resurrection. What the builders discarded on Golgotha, the Father exalted on Easter morning.",
+        "The cry \"Blessed is he who comes in the name of the LORD\" echoed through Jerusalem's streets when Jesus entered on a donkey, palms waving and crowds shouting words penned centuries before for this exact moment. The Hallel psalms, of which this is the climax, were sung at Passover—meaning Jesus likely sang these very words with His disciples hours before His arrest. He sang of the stone's rejection while walking toward His own. The gate of the LORD through which the righteous enter finds its antitype in Christ Himself, who declared, \"I am the door.\"",
+        "The festal procession with branches up to the horns of the altar points to that final altar where the Lamb of God would be bound—not by cords but by love stronger than death. The declaration \"This is the day the LORD has made\" reaches its fullest meaning in resurrection morning, when light conquered darkness and death swallowed itself.",
+        "Yet prophetic threads remain unwoven. Israel nationally will one day look upon the One they pierced and cry, \"Blessed is He who comes in the name of the LORD,\" welcoming rather than rejecting their Messiah. The Church now lives singing this psalm, knowing the cornerstone has been laid but awaiting the building's completion when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_118",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.463345+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

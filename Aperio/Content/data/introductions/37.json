@@ -1,0 +1,164 @@
+{
+  "book": "Zechariah",
+  "bookIndex": 37,
+  "status": "Editorial draft",
+  "title": "A small rebuilding community within a larger hope",
+  "subtitle": "Visions, ethical appeals, and future promises connect renewed Jerusalem with the nations.",
+  "atAGlance": {
+    "genre": "Symbolic visions, prophetic addresses, enacted signs, and future oracles",
+    "setting": "The first part concerns temple restoration under Persia; later chapters reach into a less precisely dated future horizon",
+    "composition": "Chapters 1–8 contain dates in 520–518 BC; many scholars distinguish later material in 9–14, whose precise dates are disputed",
+    "audience": "The community rebuilding Judah, its priestly and civic leaders, and later hearers of restoration hope"
+  },
+  "sections": [
+    {
+      "title": "Dated beginnings and a broader collection",
+      "paragraphs": [
+        "Zechariah son of Berechiah, son of Iddo, begins speaking in the reign of Darius I, alongside the period of Haggai’s ministry. Chapters 1–8 contain dates corresponding to 520–518 BC. Judah is rebuilding under Persian rule; Joshua the high priest and Zerubbabel the governor are prominent. Return from exile has begun, but the fullness of restoration remains an open question.",
+        "Chapters 9–14 differ in form and lack the earlier sequence of personal and regnal dates. Many scholars understand them as later collections joined to Zechariah; their precise historical settings remain disputed. Traditional interpreters may attribute the whole book to the named prophet. The distinction between these views should remain visible. The late sixth-century dates in the opening chapters cannot simply be assigned to every later oracle."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro"
+      ]
+    },
+    {
+      "title": "Return means more than occupying the land",
+      "paragraphs": [
+        "The opening appeal recalls earlier prophets and the ancestors who refused to listen. Physical return has not made renewed attention unnecessary. Zechariah asks the present community to respond differently. The past becomes a source of instruction rather than merely an account of what other people did wrong.",
+        "The visions that follow repeatedly connect the fate of Jerusalem with God’s concern and action. Horsemen survey the earth; horns associated with scattering are opposed; a measuring line anticipates a city with a future. These images address people whose circumstances look small beside the order of empires. The prophet is frequently puzzled and requires interpretation, inviting readers to learn with him rather than assume that symbolic pictures explain themselves."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Leaders and people need cleansing and strength",
+      "paragraphs": [
+        "The vision of Joshua in chapter 3 portrays accusation, the removal of soiled clothing, and a renewed commission. Restoration includes the rehabilitation of leadership, but also a charge concerning how that leadership must serve. Forgiveness is not presented as an exemption from responsibility.",
+        "Chapter 4 turns to a lampstand and olive trees and includes the word to Zerubbabel that the work depends on God’s Spirit. The warning against despising a small beginning belongs to a concrete rebuilding task. Chapters 5–6 widen the concern to wrongdoing, its removal, divine oversight, and the symbolic presentation of authority. The collection does not treat construction, moral renewal, and leadership as unrelated projects. A restored sanctuary requires a community capable of living around it faithfully."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The question about fasting becomes a question about neighbors",
+      "paragraphs": [
+        "In chapters 7–8, a delegation asks about continuing a fast associated with loss. The answer does not stop with a ruling on the calendar. It asks whom the fasting was for and recalls the earlier demand for justice, compassion, and protection of widows, orphans, foreigners, and the poor. Religious observance becomes an occasion to examine the life it expresses.",
+        "The promises of chapter 8 imagine old people and children safely sharing the streets. The image measures restoration through ordinary security across generations. Truthful speech and just decisions are required, while fasts can become occasions of joy. The horizon also includes people from other nations seeking God. Jerusalem’s renewal is not pictured solely as its recovery of status but as a life that draws others toward divine presence."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Kings, shepherds, and a difficult future",
+      "paragraphs": [
+        "Chapters 9–14 gather vivid and sometimes difficult images: a humble king, rejected or failed shepherds, mourning, cleansing, conflict, and God’s final kingship. The king riding a donkey in chapter 9 is joined to the removal of instruments of war and the announcement of peace. The shepherd passages, by contrast, expose broken leadership and the suffering of the flock.",
+        "These chapters became important to New Testament portrayals of Jesus’ entry into Jerusalem, rejection, death, and the scattering of his followers. Christian reception should be identified as reception, while the ancient concerns about rule, loyalty, and restoration remain audible. Not every symbolic figure has an uncontested historical identification. Acknowledging that uncertainty is more faithful to the text than supplying a confident biography for every image."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The final horizon is a world marked by holiness",
+      "paragraphs": [
+        "The last chapter portrays upheaval, divine deliverance, living waters, the nations’ worship, and a holiness extending into ordinary objects. The sanctuary’s meaning is no longer enclosed within a narrow ceremonial space. The vision imagines the life of the world reordered around God’s authority and presence.",
+        "These future scenes should not be converted into a map of contemporary military alignments or a schedule of dated events. Read their repeated images alongside the book’s concrete demands for truth and mercy. Zechariah’s hope grows out of a rebuilding community’s experience, yet exceeds the completion of a building. Its vision of renewal joins places, leaders, neighbors, and nations within a future that the present generation can begin to serve without possessing it completely."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Return and the opening visions",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The past warns the present, and Jerusalem is promised a future."
+    },
+    {
+      "label": "Joshua and Zerubbabel",
+      "startChapter": 3,
+      "endChapter": 4,
+      "description": "Cleansing, responsibility, and the Spirit sustain renewed leadership."
+    },
+    {
+      "label": "Wrongdoing removed and authority signified",
+      "startChapter": 5,
+      "endChapter": 6,
+      "description": "Further visions and a crowning sign complete the main visionary sequence."
+    },
+    {
+      "label": "Fasting, justice, and communal joy",
+      "startChapter": 7,
+      "endChapter": 8,
+      "description": "Questions about mourning become a summons to truthful and compassionate life."
+    },
+    {
+      "label": "The king and the shepherds",
+      "startChapter": 9,
+      "endChapter": 11,
+      "description": "Restoration hope is explored through royal and pastoral imagery."
+    },
+    {
+      "label": "Mourning, cleansing, and divine kingship",
+      "startChapter": 12,
+      "endChapter": 14,
+      "description": "Future oracles culminate in the nations’ worship and pervasive holiness."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Return and renewal",
+      "description": "Coming home requires renewed listening and changed conduct."
+    },
+    {
+      "name": "Small beginnings",
+      "description": "The scale of present resources does not determine the limit of hope."
+    },
+    {
+      "name": "Holiness in shared life",
+      "description": "Worship, justice, leadership, and ordinary public safety belong together."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "520–518 BC in chapters 1–8; later material disputed",
+    "context": "The book grows from Persian-period rebuilding toward broad restoration visions.",
+    "note": "Dates of prophetic reception must be distinguished from the future scenes depicted."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 8,
+      "era": "return",
+      "label": "Rebuilding Jerusalem under Persia",
+      "dateLabel": "520–518 BC",
+      "note": "These chapters contain dated messages and visions; the future they promise is not fully realized within the narrated setting."
+    },
+    {
+      "start": 9,
+      "end": 14,
+      "era": "return",
+      "label": "Restoration hope beyond the early rebuilding",
+      "dateLabel": "Later postexilic horizons; exact dates disputed",
+      "note": "The era marks the community’s broad context. Visions of final divine rule are not assigned a historical completion date."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Zechariah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Zechariah",
+      "url": "https://bible.usccb.org/bible/zechariah/0"
+    }
+  ]
+}

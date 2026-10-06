@@ -1,0 +1,56 @@
+{
+  "book": "Joshua",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 14: The Faith That Waits",
+      "overview": [
+        "At the heart of Joshua 14 lies a profound truth: faith is not only demonstrated in dramatic moments of conquest but is proved most authentically in the patience to wait upon God's promises and in the willingness to claim what He has already given.",
+        "Caleb stands before Joshua as an elder man—forty-five years have passed since the spies explored Canaan. Most of his generation has died in the wilderness, their unbelief costing them the inheritance. Yet Caleb carries something rare: an undimmed memory of God's faithfulness and an unshakeable conviction about what belongs to him. He reminds Joshua of the word spoken through Moses, that Hebron would be his possession because he \"wholly followed the Lord.\" This is not presumption; it is claiming what God promised.",
+        "What makes Caleb's faith remarkable is not that he hasn't aged or that he's still physically powerful—though he is. It's that he trusts God to fight alongside him even now, in his later years. He doesn't say, \"I was faithful decades ago; surely I deserve rest.\" Instead, he says, \"Give me this mountain\" (14:12). His faith is active, forward-looking, and courageous despite the challenges ahead.",
+        "For those navigating the seasons of life, Caleb teaches us something vital: God's promises don't expire. They don't become less true because time has passed or circumstances have complicated. They become more precious in the waiting. The promises God makes to us—about His provision, His presence, His faithfulness—are as binding today as they were when first spoken.",
+        "This passage invites us to examine our own spiritual inheritance. What has God promised you that you've shelved, thinking it's too late, too difficult, or too improbable? Caleb's example burns with quiet invitation: wholehearted faith moves forward to claim what God has already secured.",
+        "What promise of God have you set aside? What would it look like to rise up and, like Caleb, say, \"Give me this mountain\"?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 14: Scholarly study",
+      "overview": [
+        "Joshua 14 marks a significant transitional moment in the Book of Joshua, shifting from the narrative of military conquest to the systematic allocation of Canaan among the Israelite tribes. This chapter introduces the distribution of territory west of the Jordan, carried out at Gilgal under the supervision of Eleazar the priest, Joshua, and the tribal heads, thereby establishing a theocratic process for land inheritance that combines priestly authority with military leadership. The chapter's primary focus, however, centers on the remarkable figure of Caleb ben Jephunneh, whose petition for Hebron constitutes one of the most compelling personal narratives in the Deuteronomistic History.",
+        "The term \"inheritance\" (*naḥălâ*) appears repeatedly throughout this chapter and dominates the subsequent land distribution accounts. This Hebrew noun carries covenantal weight, signifying not merely property transfer but divine grant—land given by Yahweh as promised patrimony. The theological significance intensifies when Caleb declares he \"wholly followed\" (*millē' 'aḥărê*) the Lord, an idiom suggesting complete, unreserved devotion that stands in stark contrast to the faithless generation who died in the wilderness.",
+        "Caleb's speech in verses 6-12 functions as historical testimony, recalling the spy narrative of Numbers 13-14 and establishing continuity between promise and fulfillment. His claim to possess Hebron, despite the presence of the Anakim—giants whose fearsome reputation had terrified the original spies—demonstrates that faith-filled obedience transcends natural obstacles. The notation that Caleb remained vigorous at eighty-five years (*kōaḥ*, \"strength\") emphasizes divine preservation of those who trust completely.",
+        "Scholars debate whether Caleb's identification as a \"Kenizzite\" indicates non-Israelite origins, potentially connecting him to an Edomite clan later absorbed into Judah. This detail may explain both his exceptional status and his territorial claim to Hebron, strategically located in southern Judah. The chapter concludes with the etiological notice that \"the land had rest from war,\" employing the verb *šāqaṭ* to denote the cessation of military activity and the beginning of settled existence. This formulaic ending anticipates the comprehensive tribal allotments that follow while honoring Caleb as paradigmatic of faithful conquest."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 14: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1400 years before the birth of Christ, during the conquest and settlement of Canaan under Joshua's leadership. The period marks the fulfillment of promises God made to Abraham some six centuries earlier, when He declared that Abraham's descendants would inherit this land after four hundred years of sojourning and bondage. Within the grand arc of redemption, Joshua 14 stands at the threshold between wilderness wandering and kingdom establishment, as Israel transitions from pilgrim nation to settled people possessing their inheritance.",
+        "The chapter opens with the formal distribution of land west of the Jordan, accomplished through sacred lot under the oversight of Eleazar the priest and Joshua the commander. This method of inheritance was no mere administrative procedure but a divine allocation, for the lot falls where the Lord directs it. Here we glimpse a profound typological reality: just as Israel received her inheritance not by human calculation but by divine appointment, so too the church receives her spiritual inheritance according to the sovereign distribution of the Father, who has qualified us to share in the inheritance of the saints in light.",
+        "Yet the beating heart of this chapter is Caleb, now eighty-five years old, standing before Joshua to claim his mountain. Forty-five years earlier, Caleb had wholly followed the Lord when ten spies spread unbelief throughout the camp. While a generation perished in the wilderness, Caleb endured, his faith unwavering, his strength preserved. He asks not for rest but for battle, requesting Hebron with its fearsome Anakim giants still entrenched in fortified cities. His declaration thunders across the centuries: \"Give me this mountain.\"",
+        "Caleb stands as a type of persevering faith that inherits the promises. He embodies the overcomer who, having believed God's word against all visible evidence, receives what was promised. His vitality at eighty-five prefigures resurrection power at work in mortal bodies, the same power that will ultimately raise the saints to possess their eternal inheritance.",
+        "Hebron itself bears prophetic weight, for it means \"fellowship\" and became David's first capital before Jerusalem. The conquest of this city by faith-filled Caleb points forward to Christ, the greater Son of David, who conquers every stronghold and establishes eternal communion between God and His people. The church now lives in the tension of promise and possession, pressing forward like Caleb to lay hold of all that God has prepared, knowing that the final mountain—the heavenly Zion—awaits those who wholly follow the Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.216051+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 105,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 105 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 105: A Testimony to God's Faithfulness",
+      "overview": [
+        "The heart of Psalm 105 is a sweeping call to remember and celebrate how God has kept His covenant promises throughout Israel's history—a reminder that our God is faithful even when circumstances suggest otherwise.",
+        "This psalm unfolds like a family story passed down through generations. The psalmist invites us to \"make known his deeds among the peoples\" and to \"sing to him, sing praises to him,\" establishing that remembering God's faithfulness is not a private spiritual exercise but a communal act of worship. Beginning with Abraham and moving through Isaac, Jacob, the famine, Joseph's elevation, the plagues, and the exodus, each chapter of Israel's history testifies to God's covenant loyalty. God didn't abandon His people during slavery; He was orchestrating their deliverance. He didn't forget them during famine; He was positioning them for salvation through Joseph.",
+        "What makes this psalm profoundly pastoral is how it addresses our deepest temptation: to doubt God's care when we cannot see His hand. When we're facing unemployment, relational brokenness, or uncertainty about the future, our hearts naturally wonder if God remembers us. Psalm 105 invites us into a different narrative—one where delays aren't abandonment and detours aren't defeats. Every chapter of our own story, though it may feel fragmented in the moment, is being woven into a testimony of grace.",
+        "The psalm also calls us to be storytellers of faith. Our responsibility isn't to pretend life never gets hard; it's to connect our struggles to a larger story of divine faithfulness. When we recount how God sustained us through a job loss, restored a damaged friendship, or provided unexpectedly, we're not being prideful—we're testifying to the God who keeps covenant.",
+        "As you reflect today, what chapters of your own story reveal God's faithfulness? Where might He be working in ways you haven't yet recognized? Consider sharing one of these stories with someone who needs to hear that God remembers and delivers."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 105: Scholarly study",
+      "overview": [
+        "Psalm 105 stands as one of the great historical psalms of the Hebrew Psalter, functioning as a hymnic recitation of Israel's salvation history from the patriarchal period through the conquest of Canaan. The psalm shares significant textual overlap with 1 Chronicles 16:8–22, where verses 1–15 appear in the context of David's installation of the ark in Jerusalem, suggesting either common liturgical tradition or direct literary dependence. The composition likely served cultic purposes in post-exilic worship, reinforcing communal identity through sacred memory.",
+        "The psalm opens with imperatives calling Israel to thanksgiving and proclamation, employing the verb *yadah* (יָדָה), which carries connotations of public confession and grateful acknowledgment of Yahweh's character. This liturgical summons establishes the theological framework: remembrance of divine acts constitutes worship. The term *zera'* (זֶרַע, \"seed\" or \"offspring\") in verse 6 connects the present worshiping community to Abraham and Jacob, emphasizing covenantal continuity across generations. Particularly significant is the noun *berît* (בְּרִית, \"covenant\") appearing in verses 8–10, where the psalmist emphasizes that Yahweh \"remembers his covenant forever\"—a statement inverting the typical biblical pattern where humans are commanded to remember.",
+        "Structurally, the psalm moves through discrete narrative units: the patriarchal wanderings (vv. 12–15), Joseph's descent into Egypt (vv. 16–22), the multiplication and oppression of Israel (vv. 23–25), the Mosaic plagues (vv. 26–36), the exodus (vv. 37–38), and wilderness provision leading to land possession (vv. 39–44). Notably, the psalm omits Israel's failures—the golden calf, the wilderness rebellions—presenting instead an unblemished narrative of divine faithfulness. This selective recounting contrasts sharply with Psalm 106, which catalogs Israel's disobedience, suggesting the two psalms function as complementary perspectives on the same history.",
+        "The concluding verse reveals the psalm's paraenetic purpose: Yahweh acted redemptively \"so that they might keep his statutes and observe his laws.\" Divine grace precedes and enables human obedience; salvation history serves not merely as memorial but as ethical foundation. The closing *halleluyah* (הַלְלוּיָהּ) both concludes this psalm and anticipates the collection of praise psalms that follow, positioning historical memory as the proper ground for doxology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 105: Prophetic perspective",
+      "overview": [
+        "Psalm 105 stands as Israel's grand recitation of covenant faithfulness, composed during the post-exilic period when the restored community needed to remember why they existed as a people. This psalm of historical remembrance spans approximately six centuries of redemptive history, from Abraham's calling around 2000 BC through the conquest of Canaan around 1400 BC. Within the great arc of salvation history, this psalm occupies the crucial movement from Abraham through Exodus to Kingdom—the foundational acts upon which all subsequent redemption is built.",
+        "The psalmist opens by summoning worship rooted in memory, for Israel's God is not known through philosophical speculation but through His mighty deeds in history. The covenant with Abraham receives central focus: \"He remembers his covenant forever, the word he commanded for a thousand generations.\" This Abrahamic covenant—land, seed, and blessing—functions as the root system from which the entire tree of redemption grows. What God promised to one wandering Aramean would ultimately blossom into blessing for all nations through Abraham's greater Seed.",
+        "Joseph emerges as a profound Christ-type in this recounting. Sold by his brothers, falsely accused, imprisoned, yet raised to the right hand of power to become the savior of the very ones who rejected him—Joseph's narrative prefigures the One who would be delivered over by His own, descend into death's prison, and be exalted to God's right hand as Lord of all. The iron that entered Joseph's soul refined him for his redemptive mission, just as Christ learned obedience through suffering.",
+        "The Exodus narrative dominates the psalm's heart, with Moses and Aaron serving as types of prophetic and priestly mediation. The plagues demonstrate Yahweh's sovereignty over Egypt's gods, systematically dismantling every false claim to deity. The wilderness provision—quail, manna, water from rock—points forward to Christ who is the true bread from heaven and the rock that followed Israel, pouring forth living water.",
+        "The psalm concludes with land-possession, but this earthly inheritance was always a shadow of the heavenly country. The writer of Hebrews reveals that Abraham himself understood this, seeking a city with foundations whose architect is God.",
+        "For the church dwelling between the advents, Psalm 105 teaches that our God keeps covenant across millennia. The same faithfulness that brought Israel from Ur to Canaan now holds believers secure until we inherit the true promised land—the new creation where God's dwelling is with humanity forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_105",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.413851+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

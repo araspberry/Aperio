@@ -1,0 +1,57 @@
+{
+  "book": "Numbers",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 5: The God Who Sees and Judges",
+      "overview": [
+        "The heart of Numbers 5 is God's meticulous care for justice within the covenant community—a God who is neither blind to our sins nor indifferent to the wrongs we commit against one another. This chapter reveals that the Lord's holiness extends into the ordinary relationships and transactions of His people, insisting that those who dwell in His camp must live with integrity and truthfulness.",
+        "The chapter opens with laws about quarantine for those with infectious skin diseases and bodily discharges, establishing the principle that holiness requires separation from uncleanness. But the deeper movement comes with the law of restitution. When someone wrongs another through theft or deception, confession and full repayment—plus a penalty—become the pathway to restoration. This reflects a God who cares about individual dignity and community trust. The wrongdoer cannot simply move on; reconciliation requires acknowledgment and repair.",
+        "What follows is the strange law about a wife suspected of infidelity, the trial by ordeal involving bitter water. While this passage challenges modern sensibilities, its underlying concern speaks to God's justice even in situations where human judgment cannot penetrate. The Lord takes seriously the bonds of covenant—both corporate and marital—and offers Himself as the ultimate Judge when human evidence fails. The test reveals hidden truth and vindicates the innocent.",
+        "Throughout this chapter runs a thread of divine attentiveness. The God of Israel does not oversee a community indifferently. He notices wrongs. He guards the vulnerable. He pierces through deception. This should humble us and awaken us to live more carefully within the bonds of our own relationships and communities.",
+        "Where in your own life do you need to pursue restitution or reconciliation? Who might be waiting for your honesty and your willingness to make things right?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 5: Scholarly study",
+      "overview": [
+        "Numbers 5 presents a complex assemblage of purity legislation that, while appearing disparate at first glance, coheres around the central concern of maintaining the holiness of the Israelite camp where Yahweh dwells. The chapter divides into three distinct yet thematically related sections: the expulsion of the unclean (vv. 1-4), restitution for wrongs committed (vv. 5-10), and the ordeal of the suspected adulteress, traditionally termed the *sotah* ritual (vv. 11-31). Situated within the broader Priestly tradition of Numbers 1-10, which organizes Israel's encampment around the tabernacle, this chapter addresses threats to communal sanctity that could compromise divine presence.",
+        "The opening section employs the term *ṭāmēʾ* (טָמֵא, \"unclean\") to describe persons rendered ritually impure through skin disease, bodily discharge, or corpse contamination. The theological rationale appears explicitly: Yahweh \"dwells in their midst\" (*šōkēn bĕtôkām*), necessitating separation of impurity sources from sacred space. This spatial theology reflects ancient Near Eastern concepts of divine habitation while articulating Israel's distinctive covenantal relationship.",
+        "The confession and restitution legislation in verses 5-10 addresses the Hebrew term *maʿal* (מַעַל), denoting unfaithfulness or sacrilege—a breach that simultaneously wrongs both neighbor and Yahweh. The requirement of 120 percent restitution (principal plus one-fifth) parallels Leviticus 5:14-16, emphasizing economic restoration alongside spiritual reconciliation.",
+        "The *sotah* ordeal (vv. 11-31) constitutes the chapter's most extensive and contested section. This ritual addresses a husband's *rûaḥ qinʾâ* (רוּחַ קִנְאָה, \"spirit of jealousy\") when suspecting marital infidelity without witnesses. The \"bitter water\" (*mê hammārîm*) ceremony, involving dust from the tabernacle floor dissolved in holy water with ink from written curses, represents the only biblical instance of trial by ordeal. Scholars debate whether this ritual protected women from arbitrary accusation by requiring divine adjudication, or whether it institutionalized patriarchal suspicion. Notably, no corresponding ordeal exists for suspected husbands. The ritual's placement here underscores how sexual transgression threatens not merely marriage but the camp's holiness—adultery constituting *ṭumʾâ* (impurity)."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 5: Prophetic perspective",
+      "overview": [
+        "Numbers 5 emerges from the wilderness encampment of Israel, approximately 1445 years before the birth of Christ, during the second year after the exodus from Egypt. The people stand at Sinai, recently constituted as a covenant nation, receiving the laws that will govern their life as God's holy dwelling place on earth. This passage sits within the grand narrative at the threshold between exodus and conquest—Israel has been redeemed from bondage but has not yet entered the promised land. They are a pilgrim people learning what it means to host the presence of the Holy One in their midst.",
+        "The chapter addresses three matters of defilement: the exclusion of the unclean from the camp, restitution for wrongs committed, and the mysterious ritual of jealousy for suspected marital unfaithfulness. Each concern orbits a single reality—the tabernacle of the Lord dwells at the center of Israel's camp, and nothing defiled may remain near His presence. The God who delivered them from Pharaoh now tabernacles among them, and His holiness makes demands upon every dimension of their common life.",
+        "The laws of purification foreshadow the greater cleansing that would come through Christ. What required physical separation in the old covenant pointed toward the spiritual reality that sin separates humanity from God's presence. Yet where Israel could only manage contamination through exclusion, Christ entered the camp of human defilement, touched the leper, and absorbed uncleanness into Himself to destroy it.",
+        "The ritual of jealousy presents a profound typological mystery. A wife suspected of unfaithfulness drinks bitter waters before the Lord, submitting to divine judgment. Here stands a shadow of Israel herself—the bride of Yahweh, repeatedly suspected of spiritual adultery through idolatry. The prophets would later thunder this accusation: Israel played the harlot with foreign gods. Yet the ultimate fulfillment transcends Israel's failure. Christ, the faithful Bridegroom, drank the bitter cup of God's wrath—not for His own unfaithfulness, but to absorb the judgment His adulterous bride deserved. The curse that should have fallen upon covenant-breakers fell instead upon the Covenant-Keeper.",
+        "The church now lives as the purified bride, awaiting the marriage supper of the Lamb. Where bitter waters once tested faithfulness, the Spirit now produces faithful fruit. The holiness God demanded in the wilderness He now works within His people through the indwelling Christ, preparing a bride without spot or wrinkle for the day of final union."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.016071+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-008"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

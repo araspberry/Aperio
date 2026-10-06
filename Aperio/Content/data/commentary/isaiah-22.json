@@ -1,0 +1,54 @@
+{
+  "book": "Isaiah",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 22: The Weight of Weeping",
+      "overview": [
+        "Isaiah 22 captures a prophet's heart breaking over the spiritual blindness of his own people, and it speaks to the deep sorrow that attends unfaithfulness even when disaster has not yet fully arrived. The spiritual heart of this chapter lies in recognizing how our disobedience grieves the heart of God and should grieve our own hearts before judgment comes.",
+        "The chapter opens with Isaiah weeping over \"the Valley of Vision\"—Jerusalem itself. What's remarkable is that while the city celebrates and feasts, preparing for siege with all their earthly ingenuity but no prayer, Isaiah is alone in his grief. He sees what others refuse to see: that security built on human cleverness without trust in God is hollow. The people have made cisterns and counted their defenses, yet they have not looked to their Maker or considered the One who ordained these events long ago.",
+        "This passage reveals something painfully relevant to modern life. How often do we respond to life's pressures and uncertainties with frantic self-protection rather than humble dependence on God? We strategize, we save, we control—and there is nothing wrong with practical wisdom. Yet Isaiah grieves because the people have stopped trusting. They've replaced faith with fortification.",
+        "The tragedy deepens when we read of Shebna, the official who builds his own elaborate tomb while the nation crumbles spiritually. Self-promotion and self-preservation become substitutes for service. God displaces him and raises up Eliakim, whose authority will rest upon what he carries—righteousness, not rank.",
+        "This ancient word whispers to us today: What are we building our lives upon? What would cause us to weep for the spiritual condition of our families, churches, and communities? Are we trusting in our security systems or in God's sovereignty?",
+        "What might it look like for you today to turn from self-sufficiency to genuine dependence on God?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 22: Scholarly study",
+      "overview": [
+        "Isaiah 22 presents one of the most geographically specific oracles in the collection of pronouncements against the nations, focusing attention on Jerusalem itself under the designation \"the Valley of Vision.\" This enigmatic title likely refers to Jerusalem's topographical setting among valleys while simultaneously evoking the prophetic revelations received there, creating an ironic tension between the city's privileged access to divine communication and its failure to respond appropriately. The historical backdrop most plausibly corresponds to Sennacherib's campaign against Judah in 701 BCE, though some scholars argue for an earlier Assyrian threat or even the Babylonian siege of 586 BCE. The chapter divides into two distinct yet thematically linked sections: an oracle against Jerusalem's inappropriate response to crisis (vv. 1-14) and an oracle against the royal steward Shebna with a promise concerning his replacement Eliakim (vv. 15-25).",
+        "The prophet employs the term *hamon* (המון), denoting tumultuous noise or commotion, to characterize the city's frenzied activity, contrasting this chaos with the solemn response that divine judgment should evoke. Isaiah's grief in verse 4 utilizes *šōd* (שׁד), meaning devastation or destruction, referring to the \"daughter of my people\"—a phrase expressing intimate covenantal relationship. The people's failure lies not in their defensive preparations, which verses 8-11 describe in remarkable archaeological detail including the water systems and wall fortifications, but in their neglect to \"look to the One who made it\" (*ʿōśehā*, עשׂהּ). This theological critique strikes at the heart of Judahite royal ideology: technical competence and military preparation cannot substitute for covenant faithfulness.",
+        "The Shebna-Eliakim oracle introduces significant administrative terminology, particularly *maṣṣēbâ* (מַצָּבָה) describing Shebna's tomb-cutting and the \"key of the house of David\" given to Eliakim, imagery later appropriated in Revelation 3:7. The transfer of authority employs installation language with possible Egyptian administrative parallels. Scholars debate whether verses 24-25, predicting Eliakim's eventual failure, represent later editorial expansion or original prophetic qualification. This chapter ultimately demonstrates Isaiah's consistent theological conviction that Jerusalem's security depends not on political maneuvering or military fortification but on trusting dependence upon Yahweh."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 22: Prophetic perspective",
+      "overview": [
+        "The oracle concerning the Valley of Vision emerges from the turbulent final decades of the eighth century before Christ, likely around 701 BC when Sennacherib's Assyrian armies threatened Jerusalem during Hezekiah's reign. This places the prophecy squarely within the period of Israel's divided kingdom, after the northern tribes had already fallen to Assyrian conquest in 722 BC, leaving Judah as the sole surviving remnant of the covenant nation. Within redemptive history, we stand at the Kingdom stage, watching the Davidic throne teeter under the weight of covenant unfaithfulness while God preserves a remnant through whom the promised Seed will come.",
+        "The Valley of Vision—Jerusalem itself, surrounded by hills yet granted prophetic sight—stands exposed in her spiritual nakedness. Isaiah beholds a city celebrating deliverance from siege, yet the prophet weeps where others feast. The people had trusted in military preparations, counting weapons in the House of the Forest, fortifying walls, securing water supplies, but they refused to look to the One who had planned these events from ancient days. Here emerges the perpetual pattern of human rebellion: pragmatic self-reliance masquerading as wisdom while the heart remains far from the God who orchestrates history.",
+        "The typological significance unfolds in the dramatic transition from Shebna to Eliakim. Shebna, the proud steward carving his own memorial tomb, prefigures every leader who seeks his own glory within God's economy. His removal and replacement by Eliakim carries profound messianic weight. The language of verse 22—the key of the house of David placed on Eliakim's shoulder, he who opens and none shall shut, who shuts and none shall open—finds its ultimate fulfillment in Christ, as Revelation 3:7 explicitly declares. Jesus alone holds the keys of David, possessing absolute authority over the kingdom, opening doors of salvation that no power can close, shutting doors of judgment that no creature can pry open.",
+        "Yet even Eliakim fails; the peg driven in a sure place eventually gives way, and the burden upon it falls. Every human mediator ultimately disappoints, pointing beyond themselves to the true and final Steward who will never be cut down. The church dwelling between the advents recognizes her continual temptation to trust in visible securities—programs, resources, political arrangements—rather than looking to her Maker. Jerusalem's ancient failure warns the present people of God: when deliverance comes, let celebration be unto the Lord alone, for He has purposed from eternity what unfolds in time, and only the Faithful Steward over God's house remains forever secure."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.778172+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

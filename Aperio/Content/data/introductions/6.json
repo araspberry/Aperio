@@ -1,0 +1,129 @@
+{
+  "book": "Judges",
+  "bookIndex": 6,
+  "status": "Editorial draft",
+  "title": "When Deliverance Does Not Become Faithfulness",
+  "subtitle": "A people’s recurring crises and the growing cost of moral collapse",
+  "atAGlance": {
+    "genre": "Theological narrative, heroic traditions, poetry, and accounts of communal violence",
+    "setting": "Israel’s tribal life after Joshua and before the monarchy",
+    "composition": "Older leadership stories arranged and interpreted by unnamed writers or editors",
+    "audience": "Israel examining failed allegiance, leadership, and the breakdown of shared responsibility"
+  },
+  "sections": [
+    {
+      "title": "A troubling sequel",
+      "paragraphs": [
+        "Judges begins with an unsettled land. Israel’s tribes do not complete everything the preceding story has led us to expect, and the next generation lacks the same knowledge of the LORD’s acts. The book soon sets out a recurring pattern: the people abandon their allegiance, experience oppression, cry for help, and receive deliverance through a leader God raises up. Relief arrives, but lasting faithfulness proves elusive.",
+        "The title can mislead modern readers. These judges are not chiefly courtroom officials. They are leaders and deliverers, with very different personalities and spheres of activity. The book introduces some briefly and gives others extended narratives. Its arrangement offers a theological account of the period rather than a simple chronological register of national administrations."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    },
+    {
+      "title": "Leaders who do not fit one pattern",
+      "paragraphs": [
+        "Deborah’s prophetic leadership and the song of chapter 5 give a prominent voice to a woman who summons Israel to action. Barak and Jael participate in a deliverance whose outcome challenges expectations about military strength. Gideon begins amid fear and receives repeated reassurance, but his later actions leave a damaging religious legacy. The question is not only how someone begins a calling, but what the exercise of influence does to them.",
+        "Abimelech’s violent ambition exposes another possibility: a leader can consume the very community he claims to serve. Jephthah’s story carries the pain of rejection and the tragedy of a vow. Samson’s extraordinary strength exists alongside appetite, resentment, and repeated failures of judgment. God’s use of a person must not be confused with approval of every decision that person makes."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A pattern that becomes a downward movement",
+      "paragraphs": [
+        "The repetition is not merely circular. As the stories accumulate, the character of deliverance becomes more complicated and the damage within Israel grows. Conflict among the tribes joins oppression from outside. People who should protect one another instead bargain, retaliate, and harm. The book gradually brings the danger closer to home.",
+        "That movement helps explain why familiar stories need their surrounding chapters. A dramatic victory can be remembered while the conduct that follows it is forgotten. Judges asks us to read beyond the moment of rescue. What habits remain unchanged? Who bears the cost of a leader’s anger or ambition? Does a temporary solution leave the community better able to live faithfully, or merely ready for its next crisis?"
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The terrible closing stories",
+      "paragraphs": [
+        "Chapters 17–21 turn toward distorted worship, predatory behavior, sexual violence, and civil war. These chapters are deliberately disturbing. Their victims should not disappear behind an abstract lesson about leadership. The narrative exposes people using religious language and communal identity while failing in the most basic obligations of care. Even efforts to repair one disaster create further harm.",
+        "The repeated observation that Israel has no king frames the ending, but the wider biblical story will show that monarchy alone cannot heal these failures. The closing claim that people do what seems right in their own eyes leaves readers facing a society whose shared moral life has collapsed. The book records these actions to expose them, not to offer a gallery of practices to imitate."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The era and the reading task",
+      "paragraphs": [
+        "Judges is set between Joshua’s generation and the rise of Israel’s monarchy. Its final form looks back on that period and draws older traditions into a sustained reflection on covenant failure. Scholars debate the histories behind individual stories and the stages of their arrangement. The timeline therefore uses the settlement era broadly; it does not assume every judge ruled all Israel in a single consecutive sequence.",
+        "Read the book with attention to the people who have the least protection. Notice how promises, loyalties, and worship become detached from responsible action. God repeatedly hears cries for help, but rescue leaves a continuing task: a people must learn to live differently. Judges gives that task urgency by showing what happens when relief is welcomed and transformation is continually refused."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The unsettled inheritance",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "Incomplete settlement and the loss of living memory establish the book’s recurring problem."
+    },
+    {
+      "label": "Deliverers and deepening failure",
+      "startChapter": 3,
+      "endChapter": 16,
+      "description": "Stories from Othniel to Samson combine rescue with increasingly troubled leadership and communal life."
+    },
+    {
+      "label": "Worship and society unravel",
+      "startChapter": 17,
+      "endChapter": 21,
+      "description": "Idolatry, violence, and intertribal war expose the extent of Israel’s breakdown."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Memory and allegiance",
+      "description": "A generation’s failure to know and serve God shapes the community’s future."
+    },
+    {
+      "name": "Ambiguous leadership",
+      "description": "Effective or gifted leaders remain accountable for the harm they cause."
+    },
+    {
+      "name": "Communal responsibility",
+      "description": "Disorder is measured in the lives of vulnerable people, not only in political instability."
+    }
+  ],
+  "timeline": {
+    "era": "settlement",
+    "dateLabel": "Between Joshua and Israel’s kings",
+    "context": "The tribes face repeated crises before the establishment of the monarchy.",
+    "note": "The stories need not form a complete, strictly consecutive chronology of all Israel."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 21,
+      "era": "settlement",
+      "label": "The period of the judges",
+      "dateLabel": "Before the monarchy",
+      "note": "The closing episodes illustrate the era’s disorder rather than extending a secure sequence of dates."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Judges · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Judges",
+      "url": "https://bible.usccb.org/bible/judges/0"
+    }
+  ]
+}

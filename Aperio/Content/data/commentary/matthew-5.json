@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 5: The Beatitudes and the Character of God's Kingdom",
+      "overview": [
+        "The Sermon on the Mount opens with Jesus painting a portrait of spiritual blessedness that turns the world's values completely upside down. This isn't a list of steps to earn God's favor, but rather a declaration of who is already experiencing the joy of belonging to His kingdom.",
+        "When Jesus says \"blessed are the poor in spirit,\" He speaks to something many of us work hard to hide. We live in a culture that celebrates self-sufficiency and strength, yet Jesus begins His greatest sermon by honoring those who know their spiritual emptiness and hunger. The mourners, the meek, the merciful, the peacemakers—these are not the kingdoms of the world celebrate, and yet these are the ones Jesus says will be satisfied, comforted, and filled with the presence of God Himself. There's something deeply freeing here: the qualities we thought would diminish us actually open us to receive divine blessing.",
+        "The Beatitudes describe the character transformation that happens when we surrender to Jesus. They're not arbitrary rules but descriptions of what a heart genuinely connected to God naturally becomes. As we move through the chapter into Jesus' teachings on anger, lust, divorce, and loving enemies, we see that the kingdom of God operates from the inside out. It's not primarily about external compliance but about the renovation of our desires and motivations.",
+        "This passage invites us to examine what we secretly believe makes life good. Do we still measure success by wealth, comfort, and reputation? Or are we beginning to taste the deeper satisfaction that comes from righteousness, mercy, and authentic peace? Jesus is essentially asking us: what are you really hungry for?",
+        "Where do you find yourself in these Beatitudes? Which one speaks to your current season, and how might embodying that characteristic open you to experiencing God's kingdom in a deeper way?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 5: Scholarly study",
+      "overview": [
+        "Matthew 5 inaugurates the Sermon on the Mount, the first of five major discourse sections in Matthew's Gospel, establishing Jesus as the authoritative interpreter of Torah and the inaugurator of the kingdom of heaven. The evangelist, writing likely in the 80s CE for a predominantly Jewish-Christian community, presents Jesus ascending \"the mountain\" (to oros) in deliberate parallel to Moses at Sinai, yet with a crucial distinction: whereas Moses received the Law, Jesus delivers it with unprecedented personal authority. The setting \"when he saw the crowds\" followed by the disciples drawing near suggests a dual audience—the committed followers who receive direct instruction and the wider multitudes who overhear, a literary technique Matthew employs throughout.",
+        "The Beatitudes (5:3-12) employ the term *makarios*, often translated \"blessed\" but more accurately conveying a state of divine favor and eschatological flourishing rather than mere emotional happiness. These declarations function as entrance requirements and descriptions of kingdom citizens simultaneously, inverting conventional wisdom about prosperity and divine approval. The phrase \"poor in spirit\" (ptōchoi tō pneumati) has generated considerable scholarly debate; while some interpret this as spiritual humility, others see connection to the Qumran community's self-designation as the humble poor, suggesting Matthew spiritualizes an originally economic category found in Luke's parallel.",
+        "The antitheses of 5:21-48 represent the hermeneutical core of the chapter, introduced by the formulaic \"You have heard that it was said... but I say to you\" (egō de legō hymin). This construction has prompted divergent interpretations: some scholars argue Jesus abrogates Mosaic legislation, while others, noting 5:17-20's affirmation of Torah's enduring validity, understand Jesus as revealing Torah's deepest intention against reductive interpretations. The progression from murder to anger, adultery to lustful intent, suggests an internalization of ethical demand rather than mere external compliance.",
+        "The chapter's climax in verse 48—\"Be perfect (teleioi) as your heavenly Father is perfect\"—employs *teleios* to denote completeness or maturity rather than sinless perfection, likely echoing Deuteronomy 18:13's call to wholehearted covenant loyalty. Matthew thus presents Jesus not as Torah's abolisher but as its definitive expositor, calling disciples to a righteousness exceeding that of scribes and Pharisees through transformed hearts expressing themselves in radical love."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 5: Prophetic perspective",
+      "overview": [
+        "Matthew chapter five was spoken by Jesus approximately thirty years into the first century, during the third year of His public ministry in Galilee. This sermon on the mount stands at the hinge point of all redemptive history—the long-awaited Messiah has arrived, the kingdom of heaven is breaking into the present age, and yet the full consummation of that kingdom remains future. We stand here after the cross and resurrection, living in the already-but-not-yet tension that this very sermon inaugurates.",
+        "This chapter positions itself precisely where the prophets longed to look. The Abrahamic promise of blessing to all nations finds its true seed in the One delivering this message. The Mosaic covenant, given at Sinai amid thunder and trembling, here receives its authoritative interpretation from One greater than Moses. Six times Jesus declares, \"You have heard that it was said... but I say to you,\" claiming an authority that exceeds the law-giver himself. This is no mere rabbi offering commentary; this is the divine Lawgiver revealing the law's deepest intention from the beginning.",
+        "The Beatitudes function as a prophetic reversal of all earthly kingdoms. Where Babylon, Persia, Greece, and Rome blessed the powerful, the wealthy, and the conquerors, Jesus pronounces divine favor upon the poor in spirit, the mourning, the meek, and the persecuted. This echoes Hannah's song and Mary's Magnificat—God scattering the proud and lifting the humble. The meek inheriting the earth directly fulfills Psalm 37 and anticipates the new creation when the saints possess the renewed cosmos.",
+        "Christ Himself embodies every beatitude perfectly. He is the truly poor in spirit who emptied Himself, the Man of Sorrows acquainted with grief, the meek King riding on a donkey, the pure in heart who knew no sin, the supreme Peacemaker reconciling God and humanity through His blood. The sermon describes not merely ethical ideals but the character of the Messiah Himself now being formed in His people.",
+        "The call to be salt and light positions the church as a prophetic presence in the present darkness—preserving and illuminating until the Day breaks. The righteousness exceeding that of the scribes and Pharisees is nothing less than the righteousness of Christ imputed and imparted, the new covenant promise of Jeremiah 31 and Ezekiel 36 now operative through the Spirit.",
+        "For the church awaiting the bridegroom's return, this sermon remains our constitution—describing the kingdom life we are to embody as witnesses to the age to come, already tasting resurrection power while groaning for its completion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.442872+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

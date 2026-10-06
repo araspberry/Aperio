@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 18: The God Who Sustains His Workers",
+      "overview": [
+        "Acts 18 reveals something profoundly sustaining about the Christian life: God meets His workers in their weakness, often through the simple kindness of ordinary believers. This chapter traces Paul's stay in Corinth, a city notorious for immorality and resistance, where the apostle might have expected only opposition. Instead, he found something equally important—community, provision, and divine encouragement.",
+        "Paul's arrival in Corinth marks a turning point in how he supported himself. Working as a tentmaker alongside Aquila and Priscilla, he rejected dependence on others' charity, modeling a humble integration of labor and ministry. This wasn't spiritually inferior; it was wisdom. Every stitch in canvas was an opportunity to share the gospel, to build genuine relationships, and to demonstrate that kingdom work doesn't require special status or exemption from ordinary life. How many conversations about Jesus have begun not in formal settings but during the natural rhythms of shared work?",
+        "What makes this chapter especially tender is the vision. When Paul encountered fierce synagogue opposition, the Lord appeared to him with a specific word: \"Do not be afraid... I am with you.\" Those eight words represent the heartbeat of Christian perseverance. Paul wasn't promised the Corinthians would convert en masse or that hardship would vanish. He was promised companionship. And he stayed eighteen months, watching God work through his faithful presence.",
+        "The chapter also shows the expanding circle of God's witnesses. Crispus, a synagogue leader, believed with his whole household. Sosthenes, opposed to Paul, would later become his coworker. Apollos, educated and eloquent, was patiently instructed in the fuller way of Jesus. This is how the kingdom actually grows—not through one person's spectacular ministry alone, but through interconnected believers invested in one another's spiritual maturity.",
+        "When you feel the weight of faithfulness today, where might God be inviting you to trust His \"I am with you\"? What ordinary work has He placed in your hands as a platform for His presence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 18: Scholarly study",
+      "overview": [
+        "Acts 18 represents a pivotal chapter in Luke's narrative of Pauline mission, documenting the apostle's extended ministry in Corinth and subsequent travels through the eastern Mediterranean. Composed likely in the early 80s CE, Acts reflects Luke's theological and historiographical interests in demonstrating Christianity's legitimate place within Roman society while chronicling the gospel's westward expansion. The Corinthian mission, lasting approximately eighteen months (verse 11), stands as one of Paul's longest urban residencies and produced a community that would occasion some of his most significant correspondence.",
+        "The chapter opens with Paul's encounter with Aquila and Priscilla, Jewish believers recently expelled from Rome under Claudius's edict of 49 CE, referenced by Suetonius. Their shared trade as tentmakers (σκηνοποιοί, *skēnopoioi*) provided both economic partnership and missional opportunity, illustrating the integration of artisan labor with apostolic work characteristic of Paul's self-supporting ministry. The term likely encompasses general leatherworking rather than exclusively tent manufacture.",
+        "Luke's account of the Corinthian synagogue controversy introduces Gallio, proconsul of Achaia, whose tenure (51-52 CE) provides crucial chronological anchoring for Pauline chronology through the Delphi inscription. Gallio's dismissal of Jewish accusations against Paul as matters of internal religious dispute (*ζητήματα*, *zētēmata*, meaning \"questions\" or \"controversies\") rather than Roman legal violations establishes an important apologetic precedent—Roman authorities consistently find no criminality in Christian proclamation.",
+        "The chapter concludes with the introduction of Apollos, an Alexandrian Jew described as eloquent (*λόγιος*, *logios*) and powerful in scriptural interpretation yet knowing only John's baptism. Priscilla and Aquila's private instruction of Apollos demonstrates early Christian catechetical practices and notably features a woman in a teaching role, a detail Luke preserves without editorial comment. The theological relationship between Johannine and Christian baptism remains debated among scholars, with some viewing this as evidence of distinct Baptist communities persisting alongside nascent Christianity.",
+        "Throughout Acts 18, Luke weaves together travel itinerary, vocational detail, legal proceeding, and theological instruction, creating a multifaceted portrait of early Christian expansion that balances historical particularity with broader thematic concerns about divine providence guiding the mission to the Gentiles."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 18: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately two decades after the resurrection of Christ, around AD 51-52, during Paul's second missionary journey as the gospel advances westward through the Roman Empire. We stand here in the early church age, that period between Pentecost and the Parousia when the Spirit empowers witnesses to carry the message of the crucified and risen Messiah to the ends of the earth. The kingdom promised to Abraham—that through his seed all nations would be blessed—is now breaking forth among Gentiles and Jews alike in the strategic cities of the Mediterranean world.",
+        "In Corinth, Paul encounters Aquila and Priscilla, displaced by Claudius's edict against Jews in Rome, and this divine appointment reveals how God sovereignly orchestrates imperial politics to position his servants for gospel advance. The tentmaking partnership becomes a pattern of incarnational ministry, where the apostle labors with his hands while reasoning in the synagogue—a picture of the church called to work within the structures of this age while proclaiming the age to come. When Jewish opposition intensifies, Paul's dramatic gesture of shaking out his garments echoes Nehemiah's prophetic action and signals a judicial turning: \"Your blood be on your own heads; I am innocent. From now on I will go to the Gentiles.\"",
+        "Yet the Lord speaks to Paul in a night vision with words that thunder across redemptive history: \"Do not be afraid, but go on speaking and do not be silent, for I am with you.\" This divine assurance recalls the covenant presence promised to Moses, Joshua, and Jeremiah—the same \"I AM\" who descended in the incarnation now accompanies his church through the Spirit. The declaration \"I have many people in this city\" unveils the mystery of election: before Paul preaches, before Crispus believes, before the household is baptized, God already possesses a people chosen before the foundation of the world.",
+        "Apollos emerges as a transitional figure, mighty in the Scriptures yet knowing only John's baptism—illustrating how the old covenant prepared hearts that required completion in Christ. Priscilla and Aquila's private instruction of this eloquent Alexandrian demonstrates how the church becomes the pillar and ground of truth, entrusted with \"the Way\" more accurately.",
+        "For believers today, this chapter assures us that Christ builds his church amid opposition, providentially positioning laborers, protecting his messengers, and gathering his elect from every city until he returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.706607+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

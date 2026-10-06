@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 26: The Dangerous Drift from Dependence",
+      "overview": [
+        "The story of King Uzziah reveals how spiritual strength can quietly erode when we shift from reliance on God to confidence in our own success. His life teaches us that power without humility becomes the breeding ground for pride, and pride precedes the most painful falls.",
+        "Uzziah began his reign seeking the Lord through his mentor Zechariah, and God blessed him abundantly. His military innovations, agricultural advances, and building projects made Judah formidable and prosperous. For years, the connection is clear: he sought God, and God made him successful. But somewhere in the midst of his accomplishments, the spiritual arithmetic reversed. His success became a source of self-sufficiency rather than a reason for deeper gratitude.",
+        "The pivot point comes when Uzziah enters the temple to burn incense—a privilege reserved for priests alone. When confronted by the priesthood, he doesn't listen. His response reveals the true condition of his heart: he has begun to believe his own press. His power, his accomplishments, his effectiveness—these have become his foundation rather than God's faithfulness. The leprosy that immediately marks his forehead is not arbitrary punishment but a visible sign of what already existed internally: separation from God.",
+        "This passage speaks directly to our contemporary moment. We live in a culture that celebrates self-made success and personal branding. We can find ourselves in Uzziah's position without realizing it—building something good, receiving affirmation, gaining influence—and gradually allowing that success to become our sense of identity and security. The warning is not against accomplishment or blessing, but against the spiritual complacency that often accompanies it.",
+        "The antidote is ruthless honesty about our dependence. Every success, every ability, every open door remains a gift held in open hands. The moment we grip too tightly, insisting on recognition or control, we've already begun the same drift that marked Uzziah's decline.",
+        "Where in your life are you tempted to take credit for what God has provided? What spiritual practices keep you consciously dependent on Him rather than your own capabilities?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 26: Scholarly study",
+      "overview": [
+        "Second Chronicles 26 presents a comprehensive account of Uzziah's reign over Judah, spanning approximately five decades during the mid-eighth century BCE. The Chronicler draws upon earlier source material, likely including the annals mentioned in 2 Kings 15:1–7, where the king is called Azariah, while expanding significantly upon the theological dimensions of his rule. This dual naming—Uzziah meaning \"my strength is Yahweh\" and Azariah meaning \"Yahweh has helped\"—reflects ancient Near Eastern practices of throne names and may indicate different aspects of royal identity emphasized in various traditions.",
+        "The narrative structure follows a distinctive Chronicler pattern of divine blessing contingent upon covenantal fidelity. The Hebrew phrase \"wayyidrōš ʾĕlōhîm\" (he sought God) in verse 5 establishes the theological foundation for Uzziah's prosperity, employing a term (*dāraš*) that throughout Chronicles serves as a programmatic indicator of proper royal devotion. The text attributes Uzziah's military successes, agricultural innovations, and technological advancements—including the enigmatic siege engines (*ḥiššĕbōnôt*)—directly to divine enablement, using the characteristic expression \"hiphil of *ʿāzar*\" (God helped him) to underscore this causation.",
+        "The pivot of the narrative occurs with Uzziah's cultic transgression in verses 16–21. His attempt to offer incense in the temple constitutes a violation of priestly prerogatives established in Numbers 16–18. The term *māʿal* (unfaithfulness, treachery) employed here carries heavy covenantal weight throughout Chronicles, consistently marking decisive breaks in the divine-human relationship. The resultant *ṣāraʿat* (traditionally rendered \"leprosy\" though likely encompassing various skin conditions) functions not merely as punishment but as visible testimony to disrupted holiness, rendering the king permanently unfit for sacred space.",
+        "Scholars debate whether the Chronicler's expanded Uzziah narrative reflects independent historical memory or theological elaboration. Archaeological evidence from Tel Beersheba and elsewhere confirms Judahite military expansion during this period, though attributing specific constructions to Uzziah remains contested. The passage ultimately serves the Chronicler's broader theological purpose: demonstrating that even lengthy, prosperous reigns culminate in judgment when pride (*gābah libbô*—\"his heart was lifted up\") supplants humble dependence upon Yahweh, a warning directed toward the post-exilic community seeking restoration."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 26: Prophetic perspective",
+      "overview": [
+        "This chapter chronicles the reign of Uzziah, king of Judah, who ruled approximately 790–739 BC during a period of relative prosperity between the Assyrian decline and resurgence. His reign overlaps with the early prophetic ministries of Isaiah, Hosea, and Amos, positioning this narrative roughly 750 years before Christ's incarnation. Within redemptive history, Uzziah's story belongs to the divided kingdom era, that long season between Solomon's glory and Babylon's judgment when God tested the Davidic line and refined His people through cycles of faithfulness and apostasy, preparing them for exile and the ultimate restoration through Messiah.",
+        "Uzziah stands as both a type and an antitype within the prophetic pattern. His early years shine with covenantal blessing—he sought the Lord through the prophet Zechariah, and as long as he sought, God prospered him. Military victories, architectural achievements, agricultural innovations, and a trained army of over three hundred thousand men testified to divine favor resting upon a king who walked humbly before his God. Here we glimpse the Davidic ideal: a king who rules under Yahweh's authority, extending the boundaries of God's kingdom and bringing security to God's people.",
+        "Yet Uzziah's tragic fall exposes the persistent corruption within the old covenant administration. When his heart was lifted up in pride, he violated the sacred boundary between throne and altar, presuming to burn incense—a priestly function belonging exclusively to Aaron's descendants. The eighty-one priests who confronted him were not merely defending institutional turf; they were guarding the typological integrity that pointed forward to Christ. The separation of king and priest in Israel existed precisely because no fallen man could unite these offices. Only One born without sin could stand as both Melchizedek's heir and David's greater Son.",
+        "The leprosy that struck Uzziah's forehead, the very place where the high priest wore \"Holy to the Lord,\" proclaimed divine judgment against usurped holiness. He died a leper, cut off from temple and throne, dwelling in isolation—a sobering picture of sin's ultimate wages. Isaiah's great commissioning vision came \"in the year that King Uzziah died,\" as though God was declaring that earthly thrones must empty before heaven's King can be properly seen.",
+        "For the church between the advents, Uzziah warns against spiritual presumption while pointing us to Jesus, who alone unites kingship and priesthood in His glorified person. Our Great High King needs no successor; He ever lives to intercede, reigning in perfect holiness forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.83434+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

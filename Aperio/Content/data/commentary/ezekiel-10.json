@@ -1,0 +1,57 @@
+{
+  "book": "Ezekiel",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional on Ezekiel 10",
+      "overview": [
+        "The throne of God cannot be contained by human expectation, and His holiness moves according to His purposes, not our comfort. In this vision, Ezekiel witnesses the breathtaking mobility of divine glory—the living creatures beneath the throne, the whirling wheels within wheels, and the radiant sapphire presence of the Lord preparing to depart from His temple.",
+        "What strikes the heart in this passage is the tension between terrible beauty and impending judgment. The wheels move with coordinated precision; the Spirit animates every motion; coals of fire are distributed from the throne. Yet this elaborate cosmic apparatus moves toward a painful purpose: the withdrawal of God's presence from Jerusalem. The people have so broken covenant, so corrupted worship, so hardened their hearts that the very throne of grace must leave them to their chosen path. This is not petty divine reaction but the tragic consequence of sustained rebellion.",
+        "For contemporary disciples, Ezekiel's vision speaks to the seriousness of presuming upon God's patience. We live in a culture that often treats God's presence as a utility to be summoned at need, His commands as suggestions to adjust to our preferences, His holiness as an antiquated concern. Yet this passage reminds us that God's glory is not trapped in our sanctuaries, bound by our habits, or obligated to remain where His name is dishonored. The wheels turn. The throne moves. And the God we serve cannot be managed or manipulated.",
+        "But there is also profound assurance here: nothing happens outside God's sovereign sight. Those wheels—moving in complete coordination—represent a cosmos under divine control. No departure of God's presence, no judgment, no historical upheaval occurs apart from His throne. For those who truly repent and return, that mobile throne can return.",
+        "Where in your own life do you sense God calling you to deeper reverence and faithfulness? What would it mean to honor His presence not as a commodity but as the supreme treasure of your existence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 10: Scholarly study",
+      "overview": [
+        "Ezekiel 10 presents one of the most theologically significant and literarily complex vision narratives in prophetic literature, depicting the departure of YHWH's glory from the Jerusalem temple. This chapter, dated approximately to 592–591 BCE during the prophet's Babylonian exile, forms part of the extended temple vision spanning chapters 8–11. Ezekiel, himself a priest (1:3), would have found this vision particularly devastating, as it portrayed the unthinkable: the abandonment of the divine dwelling place due to Israel's persistent idolatry detailed in chapter 8.",
+        "The chapter opens with a renewed theophanic vision of the cherubim, explicitly identified here with the \"living creatures\" (*ḥayyôt*) encountered in chapter 1. The Hebrew term *kĕrûḇîm* denotes composite celestial beings associated with divine throne guardianship throughout ancient Near Eastern iconography and Israelite tradition, particularly the ark of the covenant. Ezekiel's fourfold description—with faces of cherub, human, lion, and eagle—establishes their role as cosmic throne-bearers facilitating divine mobility.",
+        "Central to the narrative is the *kāḇôd* (\"glory\"), the technical term for YHWH's manifest presence, which rises from the cherub and moves to the temple threshold before departing toward the east gate. This staged withdrawal—first to the threshold (v. 4), then to the cherubim above the east gate (v. 18-19)—emphasizes the deliberate, reluctant nature of divine departure. The glory does not flee but processes with terrible dignity, allowing opportunity for recognition and repentance.",
+        "The command to scatter coals of fire (*gāḥălê-'ēš*) over the city anticipates Jerusalem's destruction, inverting the temple's sacred fire into an instrument of judgment. This motif connects to Isaiah 6:6-7, where coals purify, but here they consume.",
+        "Scholarly debate surrounds the relationship between chapters 1 and 10, with some viewing chapter 10 as secondary harmonization and others recognizing deliberate theological recapitulation emphasizing identification between the inaugural vision and the temple departure. The wheel-within-wheel imagery and the mysterious designation *hā'ôpannîm* (\"the wheels\") in verse 13 suggest cosmic machinery transcending human comprehension. Ultimately, this chapter prepares for the restoration promise in 43:1-5, where the glory returns through the same eastern gate."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 10: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter ten unfolds approximately 592 years before the birth of Christ, during the darkest hour of Judah's history. The prophet Ezekiel, himself a priest carried into Babylonian exile in 597 BC, receives this vision while among the captives by the Chebar River. The first temple still stands in Jerusalem, but only for a few more years—Nebuchadnezzar will reduce it to ashes in 586 BC. This chapter records one of the most solemn moments in all of Scripture: the visible, tangible departure of God's glory from His own house.",
+        "Within the grand narrative of redemption, this passage stands at the threshold of exile, that devastating yet necessary chapter between the failure of the Davidic kingdom and the promised restoration. The glory that descended upon the tabernacle in the wilderness, that filled Solomon's temple with such overwhelming presence that priests could not stand to minister, now rises from the cherubim, pauses at the threshold, and prepares to abandon the sanctuary that Israel's sins have profaned.",
+        "The cherubim themselves form a profound typological link stretching from Eden to eternity. These same living creatures guarded the way to the tree of life after the Fall, and here they serve as the living chariot-throne of the Almighty. Their four faces—man, lion, ox, and eagle—reappear in Revelation chapter four surrounding the heavenly throne, connecting this exile-era vision to the consummation of all things. The wheels within wheels, covered with eyes, speak to the omniscience and mysterious providence of God who governs all nations and all history even when His people face judgment.",
+        "The coals of fire scattered over Jerusalem echo the coals that touched Isaiah's lips for purification, yet here they fall for destruction. What cleanses the repentant consumes the rebellious. This is the holy fire that will ultimately blaze from Sinai to Pentecost—the same divine presence that terrifies in judgment also transforms in mercy.",
+        "The glory departing eastward over the Mount of Olives carries prophetic weight that would not be fully understood for six centuries. From that same mountain, God incarnate would weep over Jerusalem, from there He would ascend to heaven, and to there He shall return. The glory that departed has returned in Christ and shall return in Christ.",
+        "For the church awaiting the blessed hope, this chapter warns against presuming upon God's presence while practicing spiritual adultery. Yet it also whispers hope: the glory that departs in judgment returns in greater measure through Emmanuel."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.10476+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

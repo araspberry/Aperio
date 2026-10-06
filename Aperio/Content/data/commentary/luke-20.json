@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 20: Living Under Heaven's Authority",
+      "overview": [
+        "Luke 20 presents Jesus in His most confrontational week, masterfully defending His authority while His opponents conspire against Him. The spiritual heart of this chapter is the collision between earthly power and heavenly kingdom—a collision that reveals where true authority ultimately resides and how we should respond to it.",
+        "When the religious leaders demand to know the source of Jesus's authority, they're really asking a deeper question: \"Who decides what matters? Who gets to define reality?\" Jesus responds not with threats but with wisdom, turning their own logic back upon them. This wasn't mere debate tactics; it was an invitation to spiritual honesty. The parable of the vineyard and its wicked tenants cuts to the core issue—rejection of God's Son carries cosmic consequences. Yet even as judgment looms, Jesus speaks with the tenderness of one offering a final chance at repentance.",
+        "The passage also contains profound teaching about divided loyalties. When asked about taxes to Caesar, Jesus's response—\"Give to Caesar what is Caesar's, and to God what is God's\"—acknowledges legitimate earthly authority while establishing an unshakeable priority: God alone deserves ultimate allegiance. This isn't escapism from earthly responsibility; it's a reordering of devotion. We can fulfill civic duties without making them ultimate.",
+        "The Sadducees' question about resurrection reveals another core issue—we cannot understand the kingdom of God through purely earthly categories. Jesus speaks about a reality so different from our current existence that our natural questions sometimes miss the point entirely. His words comfort those who grieve: relationships transcend death, and God's faithfulness extends beyond what we can calculate.",
+        "Throughout this chapter, Jesus demonstrates that authentic authority never depends on forcing agreement or accumulating followers through threat. True authority flows from alignment with God's purposes and unshakeable confidence in His kingdom. This invites us to a liberating question: To what ultimate authority have you surrendered your life, and how might that reordering transform your decisions, relationships, and future?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 20: Scholarly study",
+      "overview": [
+        "Luke 20 presents a masterfully constructed series of controversy dialogues set in the Jerusalem temple during Jesus's final week, following the triumphal entry and temple cleansing. The evangelist, writing to Theophilus and a broader Greco-Roman audience, draws heavily on Markan material while shaping these encounters to emphasize the mounting opposition from Jerusalem's religious establishment and Jesus's superior wisdom in confronting their challenges.",
+        "The chapter opens with the question of authority (*exousia*), a term carrying both legal-political and divine connotations in the Greek world. The chief priests, scribes, and elders—representing the Sanhedrin's three constituent groups—challenge Jesus's credentials for teaching and acting prophetically in the temple precincts. Jesus's counter-question about John's baptism brilliantly exposes their theological bankruptcy; they calculate politically rather than discern spiritually. This sets the interpretive framework for understanding the entire chapter as a contest between authentic divine authority and self-serving religious power.",
+        "The parable of the wicked tenants (*geōrgoi*) follows, drawing on Isaiah 5's vineyard imagery while introducing the shocking element of the murdered son. The term *agapētos* (beloved) applied to the son echoes the baptismal and transfiguration declarations, making the christological identification unmistakable. Jesus's citation of Psalm 118:22 regarding the rejected stone (*lithos*) that becomes the cornerstone employs a common early Christian testimonium, connecting rejection with ultimate vindication.",
+        "The subsequent challenges concerning tribute to Caesar, resurrection, and David's son demonstrate Jesus's interpretive mastery. The famous response about rendering (*apodidōmi*—to give back what is owed) to Caesar and God has generated extensive scholarly debate regarding its implications for Christian political ethics, with some reading it as legitimizing governmental authority and others detecting subtle subversion by relativizing imperial claims.",
+        "The Sadducean challenge regarding levirate marriage and resurrection reveals Luke's interest in demonstrating Jesus's exegetical superiority. His argument from Exodus 3:6—that God identifies as God of the living patriarchs—reflects Jewish hermeneutical methods while affirming the Pharisaic position on resurrection. The chapter concludes with Jesus taking the offensive, questioning Davidic messiahship assumptions through Psalm 110:1, and warning against scribal hypocrisy, thereby delegitimizing his opponents before his passion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 20: Prophetic perspective",
+      "overview": [
+        "Luke 20 unfolds during the final week of Jesus' earthly ministry, mere days before His crucifixion, in approximately AD 33. The setting is Jerusalem during Passover week, with Jesus teaching daily in the temple courts that would be destroyed within a generation. This chapter stands at the climactic hinge point of redemptive history—the long-awaited Messiah has entered His holy city, and the covenant people must render their verdict. We are positioned at the culmination of all that the prophets foresaw, moments before the Lamb of God accomplishes the exodus that Moses and Elijah discussed with Him on the Mount of Transfiguration.",
+        "The parable of the wicked tenants unveils the entire sweep of Israel's history in devastating clarity. The vineyard is God's covenant people, planted and cultivated through Abraham, delivered through Moses, established under David. The servants sent in succession represent the prophets—beaten, shamefully treated, sent away empty-handed across centuries of rejection. Finally, the owner sends his beloved son, and here the typological pattern reaches its antitype. Isaac carried wood up Moriah; Jesus carries His cross up Golgotha. Joseph was rejected by his brothers yet became their salvation; the Son rejected by Israel becomes salvation for the world. The stone the builders rejected becomes the cornerstone of God's eternal temple, fulfilling David's prophetic psalm with precision that silences all doubt.",
+        "Jesus' masterful response concerning tribute to Caesar—\"Render to Caesar what is Caesar's, and to God what is God's\"—carries profound eschatological weight. Coins bear Caesar's image, but humanity bears God's image. The kingdoms of this world demand their temporary due, but the kingdom of God claims the whole person for eternity. This teaching establishes the church's posture throughout the present age: we live as citizens of two realms, rendering earthly obligations while recognizing that our deepest allegiance belongs to the coming King.",
+        "The confrontation regarding resurrection theology exposes the Sadducees' fatal error—denying the very hope that anchors Israel's faith. Jesus' declaration that God remains the God of Abraham, Isaac, and Jacob reveals that the patriarchs live unto Him, their covenant relationship unbroken by death. The resurrection already accomplished in Christ guarantees the resurrection awaiting all who trust Him.",
+        "The church today lives in the tension Luke 20 creates: the cornerstone has been laid, the kingdom has been inaugurated, yet we await the Son of David's return when every enemy becomes His footstool. Until that day, we render faithful witness, knowing the rejected stone has become the foundation of everything."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.597508+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

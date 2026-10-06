@@ -1,0 +1,57 @@
+{
+  "book": "1 Samuel",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 25: The Wisdom of a Peacemaker",
+      "overview": [
+        "When anger rises unchecked, it destroys everything in its path—but one woman's courage to intervene can redirect the course of history. This passage reveals how humility and discernment can defuse violence, save lives, and honor God in ways that raw power never could.",
+        "David and his men have protected Nabal's shepherds and flocks in the wilderness. When shearing season comes, David reasonably expects hospitality and provision. Instead, Nabal—whose name means \"fool\"—meets David's respectful request with insulting rejection. David's response is immediate and human: he straps on his sword, vowing to wipe out every male in Nabal's household by morning. Righteous anger has become unrighteous vengeance.",
+        "Enter Abigail, a woman of wisdom and beauty operating within severe constraints. She cannot overpower David, nor can she appeal to her husband's nonexistent sense. So she acts decisively, gathering provisions and riding out to meet David herself. Her speech is masterful: she owns her husband's foolishness without excusing it, humbles herself before David, and gently reminds him that his hands should not be stained with blood unnecessarily. She frames his restraint not as weakness but as future vindication—God will establish his house, and he will have nothing to regret.",
+        "David's response is stunning in its humility. He blesses her for her wisdom and for restraining him from bloodguilt. This moment prefigures the kind of king David will become—not merely a warrior, but a man capable of being corrected and redirected toward mercy.",
+        "The passage speaks to all of us in our moments of justified anger. We may have legitimate grievances, but our response matters eternally. God often sends \"Abigails\" into our lives—people who speak truth in love, inviting us to the higher road. Are we humble enough to listen? The question challenges us to examine whether we're defending our dignity or defending God's kingdom.",
+        "What situation in your life right now might need someone's gentle wisdom to redirect you from destructive choices?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 25: Scholarly study",
+      "overview": [
+        "The narrative of 1 Samuel 25 constitutes a masterfully crafted interlude within the broader account of David's fugitive years, functioning as both character study and theological commentary on divine justice and human wisdom. Set against the backdrop of Samuel's death, which the chapter opens by noting, the story unfolds during the sheep-shearing season in Carmel, a time of festivity and expected generosity in ancient Near Eastern agrarian society. The author constructs a triadic character study featuring Nabal, whose name itself becomes a literary device meaning \"fool\" (*nāḇāl*), his astute wife Abigail, and David, here tested in his capacity for restrained leadership.",
+        "The term *nāḇāl* carries particular weight in Hebrew wisdom literature, denoting not merely intellectual deficiency but moral and spiritual obtuseness—the practical atheist who disregards covenant obligations and social ethics. Nabal's response to David's messengers violates the deeply embedded custom of reciprocity; David's men had provided protection (*ḥōmāh*, \"wall\") for Nabal's shepherds, creating an obligation that Nabal dismissively rejects. His rhetorical question \"Who is David?\" echoes the dismissive language of rebellion and constitutes a grave insult within honor-shame cultural dynamics.",
+        "Abigail emerges as the narrative's theological voice, described as possessing *śeḵel* (insight, prudence)—the very quality her husband lacks. Her intervention speech represents one of the most theologically sophisticated addresses in the Former Prophets, invoking divine restraint, future kingship, and the principle that Yahweh himself avenges his anointed. The phrase \"bound in the bundle of the living\" (*ṣerôr haḥayyîm*) presents interpretive challenges, likely signifying secure preservation under divine care, though later Jewish tradition appropriated it for afterlife contexts.",
+        "Scholars debate whether this narrative originally circulated independently before its incorporation into the David story. Its placement serves to contrast David's near-sin of vengeful bloodshed with Saul's actual transgressions, demonstrating David's capacity to recognize wisdom and accept correction—qualities conspicuously absent in the reigning king. The chapter concludes with Nabal's death attributed to divine stroke and David's marriage to Abigail, reinforcing the theological conviction that vengeance belongs to Yahweh alone while simultaneously advancing David's political consolidation through strategic marriage alliance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 25: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, during the transitional period between Israel's judges and the establishment of the Davidic monarchy. David, though already anointed by Samuel as God's chosen king, remains a fugitive from Saul's murderous jealousy. The narrative sits within the Kingdom phase of redemptive history—after the Exodus and Sinai covenant but before the full flowering of the Davidic reign that would foreshadow the eternal kingdom of Messiah.",
+        "The death of Samuel, noted in the chapter's opening verse, marks the passing of the last judge and the prophet who bridged two eras. Israel stands at a hinge point, and David's conduct in this episode reveals the character of the shepherd-king God is preparing. Here we witness a profound drama of wisdom restraining wrath, of intercession averting judgment, and of divine providence orchestrating the paths of His anointed.",
+        "Nabal emerges as a type of the fool who refuses to honor the Lord's anointed. His very name means \"folly,\" and his churlish rejection of David's reasonable request embodies the spirit of all who despise God's chosen King. Nabal possessed wealth and status yet lacked spiritual discernment. He represents those throughout redemptive history who, like the religious leaders who rejected Christ, fail to recognize the true King standing before them. His sudden death under divine judgment foreshadows the fate awaiting all who harden their hearts against the Lord's Messiah.",
+        "Abigail stands as a luminous type of wisdom and intercession. She perceives what Nabal cannot see—that David bears divine appointment and that opposing him invites destruction. Her swift action, her humble posture, and her prophetic speech anticipate the intercessory work of the Church, which pleads before the coming King on behalf of a foolish world rushing toward judgment. Remarkably, she speaks of David's \"sure house\" and the \"bundle of the living\" before these promises were formally given, demonstrating prophetic insight into God's covenant purposes.",
+        "David himself prefigures Christ, yet here we see him preserved from sinful vengeance through wise counsel. The greater David would face far worse provocation but would commit no sin, requiring no restraint from human wisdom.",
+        "For the Church living between the advents, this chapter teaches that our King has been anointed though not yet universally acknowledged. Wisdom calls us to recognize Him now, to intercede for the foolish, and to trust that divine providence will establish His throne without requiring our vengeance. The day approaches when every Nabal will give account, and every Abigail will feast at the King's table."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.450761+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

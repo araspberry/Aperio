@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 65,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 65 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 65: The God Who Listens and Provides",
+      "overview": [
+        "In this magnificent psalm, the writer celebrates a God who hears prayer, forgives sin, and abundantly provides for creation. At its heart lies a stunning truth: the God of the universe leans in to listen to the cries of ordinary people, then responds with breathtaking generosity.",
+        "The psalmist begins in profound silence—not the silence of distance, but the pregnant silence of waiting. \"Praise awaits you, O God, in Zion,\" he declares. He recognizes that sometimes our deepest praise is simply holding quiet, expectant faith. But then he moves immediately to confession: \"To you all people will come... our guilt overwhelms us; only you can forgive our transgressions.\" Here is honest spirituality. We are invited to bring not polished performances but genuine brokenness. When we do, we discover that God's answer is not judgment but acceptance—those who are brought near to God's house experience both cleansing and community.",
+        "The psalm then sweeps outward to the whole creation, offering a vision of divine provision that should stir wonder in our modern hearts. God \"answers us with awesome and righteous deeds... crowning the year with your bounty.\" The fields are clothed in flocks, the valleys are covered with grain. This is not poetry distant from daily life—it speaks of food on tables, stability for families, and the faithful rhythms of harvest and survival.",
+        "For disciples today, Psalm 65 invites us into transformed relationship with both God and His world. Our prayers matter. Our confessions matter. We are not lost in cosmic insignificance but are numbered among those whom God draws near. And in a creation often marred by our misuse, we're called to recognize God's hand still at work, still providing, still generous.",
+        "What area of your life needs to move from silent waiting into honest confession and hopeful petition? Where might you pause today to notice God's quiet, abundant provision?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 65: Scholarly study",
+      "overview": [
+        "Psalm 65 stands as one of the most theologically rich hymns of thanksgiving in the Psalter, attributed to David and designated for the director of music. The psalm likely functioned within Israel's liturgical calendar, possibly associated with harvest festivals or ceremonies of thanksgiving following agricultural abundance. Its Sitz im Leben appears connected to communal worship in Jerusalem, as evidenced by the prominent role of Zion and the temple in the opening verses.",
+        "The psalm commences with the declaration that praise awaits God in Zion, employing the Hebrew term *tehillah* (תְּהִלָּה), which denotes not merely verbal praise but the fitting response of the creature to the Creator's manifold works. The concept of vows being fulfilled (*neder*, נֶדֶר) indicates the covenantal framework within which Israelite worship operated; thanksgiving was not spontaneous sentiment alone but obligation fulfilled in response to divine faithfulness. Verse 3 introduces the crucial theological affirmation that God is the one who hears prayer (*shomea tephillah*), establishing divine accessibility as foundational to the psalm's subsequent celebration.",
+        "The movement from verses 5 through 8 expands the scope dramatically from Zion to cosmic dimensions. God is portrayed as the hope of all the ends of the earth and the farthest seas, the one who established mountains by divine power (*koach*, כֹּחַ) and stills the roaring seas. This cosmological language draws upon ancient Near Eastern imagery while subverting it; Yahweh alone, not Baal or Marduk, commands creation's forces. The silencing of the tumult of peoples alongside natural chaos suggests both cosmic and political sovereignty.",
+        "The psalm's final section celebrates agricultural blessing with remarkable poetic intensity. The divine visitation of the earth (*paqad*, פָּקַד) results in enrichment through the river of God, an image possibly evoking both literal irrigation and Eden's primordial waters. The paths of God drip with abundance (*deshen*, דֶּשֶׁן), and the hills are girded with joy—a striking personification uniting nature in doxological response. Interpreters debate whether this conclusion describes actual harvest thanksgiving or eschatological hope, though these need not be mutually exclusive. The psalm masterfully integrates creation theology, temple worship, and covenant faithfulness into unified praise."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 65: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the worship life of Israel during the united monarchy, approximately 1000 years before the incarnation of Christ. It stands within the era of the Davidic kingdom, that pivotal moment in redemptive history when God established His royal throne in Jerusalem as a foretaste of the eternal kingdom to come. The temple worship described here anticipates what Solomon would build, yet points far beyond any earthly sanctuary.",
+        "David opens with a profound declaration that praise awaits God in Zion, and vows will be performed to the One who hears prayer. Here the psalmist establishes a truth that spans all ages: God alone can receive the worship of sinful humanity because He alone provides atonement. \"Iniquities prevail against me,\" David confesses, \"but You purge them away.\" This purging of transgression stands as the central problem of human existence from Eden forward, and David prophetically anticipates the ultimate solution. The blood of bulls and goats offered on Zion's altars could only shadow the Lamb of God who would take away the sin of the world. When David declares that those who dwell in God's courts are satisfied with the goodness of His house, he unknowingly prophesies the church age reality—believers who through Christ's blood now have confident access to the heavenly sanctuary itself.",
+        "The psalm then expands from Zion to encompass the entire created order. God is the hope of all the ends of the earth and the farthest seas, the One who establishes mountains by His power and stills the roaring of nations. This cosmic vision reveals the eschatological trajectory embedded in Israel's worship. What began with Abraham, narrowed to Sinai, and concentrated in Jerusalem was always destined to flood the earth. The mountain imagery typologically connects Eden's garden-mountain, Sinai, Zion, and ultimately the holy mountain of God in the new creation where all nations will stream.",
+        "David's celebration of harvest abundance—the river of God full of water, the grain, the pastures clothed with flocks—echoes Eden's fruitfulness and anticipates the restoration of all things. The groaning creation that Paul describes awaits this liberation. The meadows and valleys shouting for joy prophesy that day when the curse is finally lifted and creation itself joins the eternal chorus.",
+        "The church now sings this psalm as pilgrims who have tasted atonement in Christ, who access God's presence through better blood, yet who still await the consummation when every valley will indeed sing and the earth will yield her full harvest under the reign of David's greater Son."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_065",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.300002+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

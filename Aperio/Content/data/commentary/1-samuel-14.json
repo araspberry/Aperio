@@ -1,0 +1,56 @@
+{
+  "book": "1 Samuel",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 14: The Courage That Trusts God Alone",
+      "overview": [
+        "The spiritual heart of this passage rests in the truth that faith in God's power often looks foolish to the watching world—yet it is precisely this kind of trust that changes the course of history and defeats the enemies we face alone.",
+        "Jonathan's assault on the Philistine garrison, undertaken with only his armor-bearer and no authorization from King Saul, stands as one of Scripture's boldest illustrations of what happens when trust in the living God overwhelms rational fear. In a moment when Israel's army sat paralyzed by intimidation, Jonathan spoke words that deserve our deep consideration: \"Perhaps the Lord will act in our behalf, for nothing can hinder the Lord from saving, whether by many or by few.\" He didn't need the whole army. He didn't need Saul's permission. He needed only confidence that God's power doesn't scale with human resources.",
+        "What makes this story so striking is the complete reversal it produces. As Jonathan and his helper slay twenty Philistines, panic spreads through the enemy camp like wildfire. The ground trembles. Fear becomes contagious in reverse. Suddenly Saul's hesitant army finds courage to pursue. One man's courageous faith becomes the catalyst for a nation's deliverance.",
+        "Yet notice the darker subplot: Saul's foolish oath that anyone who eats before evening shall die nearly costs Jonathan his life. Impulsive authority figures create unnecessary casualties. The passage reminds us that while individual courage matters deeply, it flourishes best within communities led by wisdom, not mere power or insecurity.",
+        "The question this passage whispers to each of us is this: where are we settling for paralysis when God calls us toward faith? What \"Philistine garrison\" intimidates us into inaction? Jonathan couldn't see the outcome before moving. Neither can we. But the Lord's power doesn't depend on our ability to calculate victory in advance.",
+        "What step of faith is God inviting you to take, even without the approval or numbers you wish you had?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 14: Scholarly study",
+      "overview": [
+        "The fourteenth chapter of 1 Samuel presents one of the most dramatic military narratives in the Deuteronomistic History, recounting Jonathan's daring raid against a Philistine garrison and the subsequent chaos that engulfs both armies. This passage must be understood within the broader context of Saul's kingship, which the narrator consistently portrays as marked by both divine empowerment and troubling spiritual deficiency. The chapter follows immediately upon Samuel's rebuke of Saul at Gilgal (chapter 13), establishing a contrast between the faltering king and his courageous son that will intensify throughout the narrative.",
+        "Jonathan's initiative in verses 1–15 hinges upon his remarkable confession of faith: \"Nothing can hinder the LORD from saving by many or by few\" (v. 6). The Hebrew term *yešûʿâ* (salvation, deliverance) carries profound theological weight, emphasizing that military victory belongs ultimately to Yahweh rather than human agency. Jonathan's armor-bearer responds with complete loyalty, creating a picture of covenantal solidarity that stands in implicit contrast to Saul's isolated and anxious leadership style. The \"trembling\" (*ḥărādâ*) that subsequently seizes the Philistine camp (v. 15) is explicitly identified as divine in origin—a \"trembling of God\" (*ḥerdat ʾĕlōhîm*)—indicating supernatural intervention.",
+        "Particularly significant is the *ʾûrîm* oracle that Saul attempts to consult (v. 18–19), though textual witnesses differ regarding whether the object consulted was the ark (Masoretic Text) or the ephod (Septuagint). Most scholars favor the Septuagint reading as more contextually appropriate, since the ephod with its *ʾûrîm* and *tummîm* was the standard means of divine consultation. Saul's impatient interruption of this oracle—commanding the priest to \"withdraw your hand\"—demonstrates his characteristic inability to wait upon Yahweh, echoing his earlier failure at Gilgal.",
+        "The chapter's conclusion presents the troubling episode of Saul's rash oath forbidding his troops to eat, which nearly results in Jonathan's execution. The Hebrew *ʾārar* (to curse) in Saul's oath creates a covenantal bind that the people ultimately resist, \"ransoming\" (*pādâ*) Jonathan from death. This episode foreshadows the deepening dysfunction within Saul's house and his increasing tendency toward destructive religious zeal divorced from wisdom."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 14: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1050 years before the incarnation of Christ, during the earliest days of Israel's monarchy when Saul reigned as the nation's first king. The Philistine oppression had reached such severity that Israel possessed no blacksmiths, and only Saul and Jonathan held swords among the entire army. Within the grand arc of redemption, this moment falls in the Kingdom period—God had granted Israel a king according to their desire, yet already the shadows of Saul's failed leadership were lengthening across the land.",
+        "Jonathan emerges in this narrative as a striking prophetic type of faithful covenant warfare. While Saul sits under a pomegranate tree with six hundred paralyzed soldiers, Jonathan ascends the rocky crags of Bozez and Seneh with only his armor-bearer, declaring that nothing restrains the Lord from saving by many or by few. Here is faith that moves without waiting for circumstances to align, trusting wholly in divine deliverance. This pattern of the son going forth while the father fails to act whispers of a greater Son who would accomplish what compromised leadership could never achieve. Jonathan's victory through climbing upward to face the enemy and the subsequent divine earthquake that threw the Philistine camp into confusion foreshadow how Christ's ascent to Calvary would unleash cosmic disruption against the powers of darkness.",
+        "Saul's rash oath binding the army to fast reveals the dangerous spirituality of a man more concerned with religious appearance than with wisdom or the welfare of his people. When Jonathan unknowingly ate honey and his eyes were brightened, he exposed his father's foolishness. The people's intervention to rescue Jonathan from death at his own father's hand presents a profound irony—another Father would not spare His Son, and no voice from heaven would cry halt when Christ was led to execution. What Israel's people prevented, the Father of glory purposed for our redemption.",
+        "The chapter closes with Saul's incomplete obedience in warfare—a pattern that would climax disastrously in chapter fifteen. Already the kingdom is slipping from a man who sought to honor God through outward forms while his heart wandered from true covenant faithfulness.",
+        "For the church dwelling between the advents, this passage summons believers to Jonathan-like faith that acts decisively on divine promises rather than Saul-like religion that substitutes ritual for relationship. The same God who delivered through one man's courageous trust continues to work mightily through those who refuse to measure possibility by human resources alone."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.423741+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

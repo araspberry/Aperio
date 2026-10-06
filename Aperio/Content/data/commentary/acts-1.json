@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 1: The Bridge Between Promise and Power",
+      "overview": [
+        "The book of Acts opens with the church suspended in an impossible position—commissioned by Christ to evangelize the world but stripped of his visible presence and without the enabling power promised to them. This tension between vision and readiness, between mandate and capacity, mirrors the spiritual reality of every believer who has been called to something greater than themselves.",
+        "Jesus spends forty days with his followers after the resurrection, speaking of the kingdom of God and commanding them to wait for the Holy Spirit's power. He does not send them out immediately. Instead, he insists they linger in Jerusalem, gathering in that upper room where they once scattered in fear. This waiting is not passivity—it is obedience, and obedience is the soil where God plants his power. The 120 believers who gathered there exemplify what it means to trust a promise they could not yet see fulfilled, to gather with others in community rather than disperse in isolation, to pray together as they waited.",
+        "Notice Peter's boldness in addressing the assembled group about replacing Judas. This is the same Peter who denied knowing Jesus just weeks earlier. The risen Christ's restoration of Peter, combined with his commission, begins transforming the disciple into an apostle. We see a man learning that failure does not disqualify him from leadership—it humbles him and makes him tender toward others.",
+        "Acts 1 teaches us that the Christian life flourishes in the convergence of three movements: gathering with others, waiting on God's promise, and responding obediently to his directives. We are not left as orphans; we are promised power not our own. The Holy Spirit's arrival is imminent, but first comes the costly discipline of waiting together, seeking God's direction, and letting our brokenness become the place where divine power finds room to work.",
+        "What promise from God are you waiting on today, and who are you waiting with?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Acts serves as a crucial literary and theological bridge, connecting Luke's Gospel account to the narrative of the early church's expansion. Written by the same author who composed the Third Gospel, this text addresses Theophilus and establishes continuity with \"the first account\" while introducing themes that will dominate the subsequent narrative. The composition likely dates to the early 80s CE, though scholars continue to debate this, with some arguing for dates ranging from the early 60s to the late first century.",
+        "Luke employs the Greek term *anastasis* (resurrection) and its cognates throughout the opening verses, emphasizing that Jesus presented himself alive through \"many convincing proofs\" (*tekmēriois*), a term borrowed from rhetorical and philosophical discourse denoting demonstrable evidence rather than mere signs. This vocabulary choice signals Luke's apologetic intent, addressing an audience familiar with Hellenistic standards of evidence. The forty-day period of post-resurrection appearances echoes significant biblical precedents, including Moses on Sinai and Elijah's wilderness journey, situating Jesus within Israel's prophetic tradition.",
+        "The disciples' question regarding the restoration of the kingdom to Israel reveals persistent misunderstanding about the nature of messianic fulfillment. Jesus redirects their attention from chronological speculation to empowerment through the Holy Spirit, introducing the programmatic statement that structures the entire book: witnesses \"in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.\" The Greek *martyres* (witnesses) carries both juridical and testimonial connotations that will acquire deeper meaning as the narrative unfolds.",
+        "The ascension narrative employs theophanic imagery—the cloud, angelic messengers, and heavenly departure—that resonates with Old Testament accounts of divine presence. The selection of Matthias to replace Judas demonstrates early Christian concern for reconstituting the twelve, symbolically representing restored Israel. The criteria for apostolic succession articulated here—companionship with Jesus from John's baptism through the ascension—establishes eyewitness testimony as foundational for apostolic authority. Luke's use of *klēros* (lot) for the selection method connects this moment to ancient Israelite practices of discerning divine will, suggesting that human deliberation and divine guidance operate in concert within the nascent community."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 1: Prophetic perspective",
+      "overview": [
+        "This passage unfolds in the sacred forty days following Christ's resurrection, approximately AD 30, marking one of the most pivotal transitions in all redemptive history. Here we stand at the hinge between the Gospels and the age of the Spirit, between the completed work of the Incarnate Son and the commencement of His work through His Body, the Church. The disciples gather with their risen Lord on the Mount of Olives, the very place from which Ezekiel witnessed the glory of God departing from Jerusalem, and now from this same mount, the Glory of God in human flesh ascends to take His throne.",
+        "The question the disciples pose reveals hearts still captive to nationalistic expectation: \"Lord, will You at this time restore the kingdom to Israel?\" Yet Jesus neither rebukes their hope nor abandons it—He redirects their gaze from chronology to commission. The kingdom they long for shall indeed come, but first the gospel must run its course through all nations. Here is the divine pattern established: the already of Christ's enthronement in heaven and the not yet of His visible reign on earth, with the Church commissioned to bear witness in the interval between.",
+        "The ascension itself fulfills the typology embedded throughout Scripture. As the high priest on the Day of Atonement entered behind the veil to appear before God on behalf of the people, so Christ our Great High Priest has entered the true Holy of Holies—heaven itself—carrying His own blood as eternal satisfaction. Daniel's vision of One like a Son of Man approaching the Ancient of Days to receive dominion and glory finds its fulfillment in this cloud-wrapped departure. The ark of the covenant, long hidden, gives way to the Ark Himself, now enthroned above all principality and power.",
+        "The two angelic witnesses echo the testimony required by the Law, declaring what the prophets foretold: this same Jesus shall return in like manner. Zechariah's vision of the Lord standing on the Mount of Olives awaits its appointed hour. Between ascension and return, the Church receives power—not political leverage but the Holy Spirit's presence—to be witnesses from Jerusalem to earth's remotest bounds.",
+        "For those who live in this present age, Acts 1 establishes our identity and vocation. We are a people of the interval, empowered by the Spirit, proclaiming the risen King, and watching for His return. The kingdom has been inaugurated; its consummation remains certain."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.663431+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

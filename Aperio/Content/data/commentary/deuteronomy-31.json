@@ -1,0 +1,54 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 31: The Courage to Pass the Torch",
+      "overview": [
+        "Moses stands at the threshold of his own ending, yet his deepest concern is not for himself but for the people he loves and the God he serves. This passage captures the beautiful, sometimes painful reality that faithful leaders must eventually step aside and entrust their work to others—not with doubt, but with deliberate confidence in God's suffuring presence.",
+        "The chapter opens with Moses' straightforward announcement of his mortality. He is 120 years old and can no longer lead Israel into the promised land. Rather than despair, he immediately redirects attention to Joshua and to the Lord's faithfulness. \"The Lord himself goes before you,\" Moses assures them. This is the heart of the matter: transition is not a failure of leadership; it is faith that the work belongs to God, not to any human vessel. Moses had to decrease so that trust in the Lord could increase.",
+        "What makes this passage so moving is how Moses uses his final moments of authority to build Joshua's confidence. He doesn't hand over authority grudgingly or with warnings of doom. Instead, he speaks blessings and assurances. He writes down the law and entrusts it to the Levites. He knows that leadership is not primarily about charisma or strength; it is about remaining faithful to God's Word and communicating His character to the next generation.",
+        "This speaks deeply to those navigating seasons of change—whether parents watching adult children leave home, mentors releasing protégés, or leaders accepting limitation. The Lord's commitment to His people transcends any one person's season of service. We are stewards, not saviors. Our call is to be faithful in our time and to help others encounter the God who is faithful always.",
+        "What fears arise in you when you think about releasing responsibilities or passing leadership to others? How might remembering God's faithfulness—not your own—reshape that transition?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 31: Scholarly study",
+      "overview": [
+        "Deuteronomy 31 stands at a pivotal juncture in the Pentateuch, marking the formal transition of leadership from Moses to Joshua as Israel prepares to enter Canaan. The chapter belongs to the final literary unit of Deuteronomy (chapters 31–34), which functions as an extended conclusion to both the book and the entire Torah. Composed in the form of Moses's farewell discourse, this material draws upon ancient Near Eastern covenant treaty traditions, particularly the provisions for document preservation and periodic public reading found in Hittite suzerainty treaties.",
+        "The chapter opens with Moses declaring his age of one hundred twenty years and his inability to \"go out and come in\" (*lāṣēʾṯ wəlāḇôʾ*), a formulaic expression denoting military and administrative leadership capacity rather than physical debility, since Deuteronomy 34:7 explicitly states his vigor remained undiminished. The divine prohibition against crossing the Jordan provides the theological explanation for the leadership transition. Moses's charge to Joshua employs the imperative \"be strong and courageous\" (*ḥăzaq weʾĕmāṣ*), a phrase that becomes programmatic for Joshua's commissioning and reappears prominently in Joshua 1. This terminology carries covenantal freight, assuring divine presence and military success contingent upon faithfulness.",
+        "The prescription for septennial Torah reading during Sukkot (*bəḥag hassukkôṯ*) in verses 10–13 establishes a remarkable institution of covenant renewal, ensuring intergenerational transmission of divine instruction. The assembly of men, women, children, and resident aliens emphasizes the inclusive scope of covenant obligation. Scholarly debate surrounds whether this ceremony was regularly observed in pre-exilic Israel or represents a Deuteronomistic ideal.",
+        "The chapter's latter portion introduces the Song of Moses (preserved in chapter 32), commanded as a \"witness\" (*ʿēḏ*) against Israel's anticipated apostasy. The divine prediction of covenant unfaithfulness following settlement creates a sobering theological framework—blessing remains contingent upon obedience, yet human failure appears inevitable. The completed Torah scroll placed beside the ark serves as perpetual testimony, establishing written Scripture as authoritative witness. This arrangement anticipates later Jewish understanding of Torah's central covenantal function while providing the literary mechanism for the Pentateuch's own self-attestation as Mosaic composition."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 31: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 31 stands at a pivotal threshold in redemptive history, approximately 1400 years before the incarnation of Christ, as the forty years of wilderness wandering draw to their appointed close. Israel camps on the plains of Moab, poised to cross the Jordan into the land promised to Abraham some six centuries earlier. This chapter marks the transition from the Mosaic era to the conquest under Joshua, situating itself within the grand arc of Scripture at the culmination of Exodus and the threshold of Kingdom—the seed of Abraham about to possess the land where the Seed of Abraham would one day walk.",
+        "Moses, now 120 years old, announces that he will not cross over with the people. The prophetic weight of this moment cannot be overstated: the Law, personified in Moses, cannot bring God's people into their ultimate rest. Moses brought Israel out of Egypt and through the wilderness, but the Law he embodied could only lead to the border of promise, never into its fullness. Here emerges the towering type of Joshua, whose very name—Yehoshua, \"Yahweh saves\"—would be rendered in Greek as Iēsous, Jesus. As Joshua leads Israel into Canaan, he shadows the greater Joshua who leads His people into the true rest that remains for the people of God.",
+        "The Lord commands Moses to write a song of witness and to place the Book of the Law beside the Ark of the Covenant. This written testimony would stand as both accusation and invitation across the generations. God speaks with devastating foreknowledge: \"This people will rise up and whore after foreign gods... they will forsake me and break my covenant.\" The pattern of apostasy is prophesied before the land is even entered, and Israel's history would prove this word true through Judges, the divided monarchy, and ultimately exile. Yet even this dark prophecy serves redemption's purpose—the Law's witness would drive Israel to recognize their need for a new covenant written not on scrolls placed beside the Ark, but on hearts transformed by the Spirit.",
+        "The charge to Joshua—\"Be strong and courageous, for you shall bring the people into the land\"—echoes forward to every servant of God who advances the kingdom against opposition. Yet Joshua's conquest was partial; Canaanites remained in the land. The church today lives in the tension between the \"already\" of Christ's decisive victory and the \"not yet\" of His return, when every enemy will be placed beneath His feet. The song of witness continues until the True Joshua completes what the first could only shadow: bringing God's people into everlasting rest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.172281+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

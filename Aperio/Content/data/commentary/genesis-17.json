@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 17: The God Who Names and Remakes",
+      "overview": [
+        "God's promise moves beyond words into covenant reality when He appears to Abram with a transformative declaration: \"I am God Almighty. Walk before me and be blameless\" (17:1). This is the deepening of faith, where the invisible God makes Himself known through His very names and renews His commitment with unmistakable authority.",
+        "The heart of this passage is God's faithfulness to remake those who will trust Him completely. Abram is ninety-nine years old—impossibly old for fatherhood—yet God does not adjust His promise downward. Instead, He elevates it. The renaming from Abram to Abraham (\"father of many nations\") is not cosmetic; it is prophetic identity, a new nature embedded in a new name. When God renames us in covenant, He is declaring who we are becoming in Him. Sarah's renamed destiny from Sarai to Sarah carries the same weight: she will become a mother of nations, her barrenness transformed into fruitfulness.",
+        "The sign of circumcision, marking the flesh itself, was radical vulnerability. It meant Abraham and his household bore God's covenant in their very bodies. Every male would be marked, a perpetual physical reminder of being set apart, belonging to God, promised an unimaginable future. It was a sign that required obedience before the promise came to pass—faith expressed in flesh.",
+        "This pattern speaks deeply to our experience. God often names us before our circumstances change: beloved, beloved before we feel loved; redeemed before we see freedom; faithful before we've walked the full journey. He asks us to carry His covenant in our daily choices, our obedience, our willingness to be marked as His. We are not waiting for God to become faithful; we are responding to a faithfulness already extended.",
+        "What area of your life is God asking you to trust Him in, even when the circumstances seem impossible? How might He be renaming your identity in that very place?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 17: Scholarly study",
+      "overview": [
+        "Genesis 17 represents a pivotal moment in the Abrahamic narrative, occurring thirteen years after the Hagar episode recounted in chapter 16, when Abram has reached ninety-nine years of age. This chapter, widely attributed to the Priestly source by critical scholars, presents a formal covenant ratification that both intensifies and institutionalizes the promises previously articulated in chapters 12 and 15. The passage opens with the divine self-identification \"I am El Shaddai\" (*ʾēl šadday*), a designation whose etymology remains contested—traditionally rendered \"God Almighty,\" though some scholars connect it to Akkadian *šadû* (mountain) or propose a connection to concepts of sufficiency and nurture. This divine name appears predominantly in patriarchal narratives and carries connotations of fertility and covenant faithfulness.",
+        "The chapter's theological architecture centers on the establishment of an \"everlasting covenant\" (*bərît ʿôlām*), a term emphasizing perpetuity and unconditional divine commitment. Unlike the covenant ceremony of chapter 15, which employed ancient Near Eastern treaty ratification rituals, Genesis 17 introduces circumcision as the covenant sign (*ʾôt*), transforming a practice known throughout the ancient Near East into a distinctly Israelite theological marker. The command that circumcision occur on the eighth day and extend to household members, including purchased slaves, indicates the corporate and transgenerational nature of covenant membership.",
+        "The renaming of Abram to Abraham and Sarai to Sarah constitutes another structural element of considerable interpretive interest. While the text explains Abraham's name as signifying \"father of a multitude\" (*ʾab hămôn*), linguistically the shift from *ʾabrām* to *ʾabrāhām* likely represents dialectical variation rather than semantic transformation. Nevertheless, the theological function of renaming signifies transformed identity and divinely ordained destiny.",
+        "Abraham's laughter (*wayyiṣḥāq*) upon hearing the birth announcement foreshadows Isaac's naming while raising questions about whether his response indicates doubt or joyful astonishment—a matter debated since antiquity. The chapter concludes with Abraham's immediate obedience in circumcising his household, demonstrating the appropriate human response to divine initiative. This text thus establishes foundational patterns for Israelite identity: covenant relationship, physical marking, and faithful obedience that would shape Jewish self-understanding throughout subsequent centuries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 17: Prophetic perspective",
+      "overview": [
+        "Genesis 17 stands as one of the most pivotal chapters in all of Scripture, occurring approximately 2080 years before Christ, some twenty-four years after Abram first received the divine call in Ur. This covenant renewal takes place in the patriarchal era, positioned after the Fall and the Flood, as God narrows His redemptive focus through one family who will become the channel of blessing to all nations. Here, between the initial promise of Genesis 12 and the birth of the son of promise, God appears to ninety-nine-year-old Abram to confirm, expand, and seal the covenant with blood.",
+        "The divine self-revelation as El Shaddai—God Almighty—thunders across redemptive history, declaring that the One who makes impossible promises possesses infinite power to fulfill them. The renaming of Abram to Abraham, from \"exalted father\" to \"father of a multitude,\" enacts prophetically what does not yet exist in nature. Sarai becomes Sarah, \"princess,\" for from her shall kings of peoples arise. These name changes prefigure the new identity believers receive in Christ, written upon white stones in the age to come.",
+        "The covenant of circumcision established here operates on multiple prophetic levels. This cutting of flesh, this shedding of blood at the organ of generation, points forward to the ultimate cutting off—the crucifixion of Messiah, who would be \"cut off from the land of the living\" as Isaiah prophesied. Circumcision marked the seed line through which Christ would come, a physical sign anticipating spiritual reality. Paul declares in Colossians that believers have received \"circumcision made without hands\" through union with Christ's death, the true cutting away of the body of flesh.",
+        "The promise of kings descending from Abraham finds its ultimate fulfillment in Jesus Christ, the King of kings who sits eternally on David's throne. The everlasting covenant and the everlasting possession of the land stretch beyond any temporal fulfillment toward the new heavens and new earth, where Abraham's spiritual descendants—from every nation, tribe, and tongue—will inherit not merely Canaan but the cosmos renewed.",
+        "For the church dwelling between the advents, Genesis 17 declares that God initiates, God names, God seals, and God accomplishes. The impossible becomes inevitable when El Shaddai speaks. Those who bear the circumcision of the heart now await the final inheritance, walking as Abraham did—by faith, not by sight—toward the city whose builder and maker is God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.678924+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

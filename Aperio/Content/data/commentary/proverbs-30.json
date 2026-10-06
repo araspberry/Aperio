@@ -1,0 +1,57 @@
+{
+  "book": "Proverbs",
+  "chapter": 30,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 30 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 30: The Humble Hunger for Wisdom",
+      "overview": [
+        "Agur's prayer opens a door into honest spiritual longing—the yearning of someone who knows how little he truly understands and who cries out to God with refreshing vulnerability. This chapter captures the ache of a faithful soul pressing toward wisdom while wrestling with human limitation and the weight of unanswered questions.",
+        "The prayer at the beginning reveals Agur's deepest need: \"I am weary, O God, I am weary and worn out.\" Rather than pretending confidence, he admits exhaustion. He confesses ignorance about divine matters and acknowledges how little human wisdom accomplishes apart from God's grace. This honesty disarms us. How often do we perform certainty when what our souls actually need is permission to be honest about our confusion? Agur models something countercultural: the person who admits not knowing is often closer to genuine understanding than the person who pretends authority.",
+        "His prayer requests two things—remove falsehood and give him neither poverty nor riches, just daily bread. There's profound spirituality here. He's not asking for more; he's asking for stability, for freedom from the temptations that extremes create. The rich may forget God. The desperate may curse Him. Agur asks simply for enough, which is actually a prayer for undistracted devotion.",
+        "The vivid observations that follow—about ants, badgers, locusts, and lizards—reveal how God teaches through creation. These small creatures move with instinct and order; they lack human intelligence yet accomplish their purposes. The passage invites us to notice what surrounds us, to learn from humble things, to see God's fingerprints in everyday life.",
+        "This chapter ultimately speaks to our spiritual condition: we are all Agur, weary and limited, needing grace. Our path forward isn't toward greater self-confidence but toward greater God-dependence, finding sufficiency in Him rather than in understanding everything.",
+        "What honest question about God or faith have you been reluctant to voice? What might change if you brought that uncertainty before Him with Agur's humble openness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 30: Scholarly study",
+      "overview": [
+        "Proverbs 30 presents one of the most enigmatic sections within the book of Proverbs, attributed to Agur son of Jakeh, an oracle (*massa'*), whose identity remains obscure to modern scholarship. The Hebrew *massa'* can denote either a prophetic burden or utterance, or alternatively a geographical designation referring to a north Arabian region, suggesting Agur may have been a non-Israelite sage whose wisdom was incorporated into Israel's collection. This foreign attribution aligns with the ancient Near Eastern practice of recognizing wisdom as transcending national boundaries, paralleling the inclusion of Lemuel's instruction in the following chapter.",
+        "The chapter opens with Agur's confession of intellectual limitation in verses 2-4, employing rhetorical questions reminiscent of Yahweh's challenge to Job. The term *ba'ar* (brutish, ignorant) expresses profound epistemological humility, as Agur acknowledges the impossibility of comprehending divine mysteries through unaided human reason. His questions about ascending to heaven and gathering the wind echo ancient cosmological concerns while anticipating themes later developed in wisdom Christology.",
+        "Verses 5-6 pivot sharply to affirm the reliability of divine revelation, describing God's words as *tserûphâ* (refined, purified), imagery drawn from metallurgical processes indicating tested and proven authenticity. This juxtaposition of human limitation with scriptural sufficiency establishes a hermeneutical framework that Protestant interpreters have historically emphasized.",
+        "The numerical sayings dominating verses 15-31 represent a distinctive wisdom genre using the x/x+1 formula to highlight climactic final elements. These observations draw from natural phenomena—the leech's daughters, ants storing provisions, rock badgers dwelling in cliffs, locusts marching in formation—to illuminate moral and social realities through analogical reasoning.",
+        "Scholarly debate continues regarding the chapter's unity, with some attributing only the opening section to Agur while viewing subsequent material as editorial additions. The apparent tension between Agur's skeptical opening and the confident assertions following has generated proposals ranging from dialogical structure to gradual compilation. Regardless of compositional history, the canonical form presents a coherent movement from acknowledged human limitation through confident appropriation of observed wisdom, suggesting that humble recognition of cognitive boundaries paradoxically enables genuine understanding of the created order's moral patterns."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 30: Prophetic perspective",
+      "overview": [
+        "Proverbs 30 stands as one of the final collections in Israel's wisdom literature, composed during the monarchy period, likely between 950 and 700 BC. The chapter bears the name of Agur son of Jakeh, a sage whose identity remains shrouded in mystery, yet whose words were recognized as bearing the weight of prophetic utterance. This places the text within the era of the divided kingdom, when Israel's wisdom tradition flourished alongside the prophetic movements, both serving to prepare God's people for the coming Messiah who would embody divine wisdom itself.",
+        "Within redemptive history, Proverbs 30 occupies the space between the Davidic covenant establishment and the exile, a period when God was shaping Israel's theological understanding through multiple channels—law, prophecy, and wisdom. The wisdom literature served a crucial function: revealing the moral architecture of creation and pointing toward the One in whom all treasures of wisdom and knowledge would be hidden.",
+        "Agur's opening confession pulses with prophetic significance. His declaration of ignorance before the Holy One, his questions about who has ascended to heaven and descended, who has gathered the wind and wrapped the waters, anticipates the incarnation with remarkable precision. These rhetorical questions, posed as mysteries beyond human comprehension, find their answer only in Christ—the One who descended from heaven and ascended again, the Word through whom all things were made, including wind and sea. When Agur asks \"What is his name, and what is his son's name?\" he unwittingly prophesies the revelation that would remain veiled until the fullness of time.",
+        "The numerical proverbs that follow—things too wonderful to understand, things that make the earth tremble, things never satisfied—paint creation as a theater of divine wisdom. The way of an eagle in the sky, a serpent on a rock, a ship on the sea, and a man with a maiden all point to mysteries of movement, relationship, and purpose that exceed rational explanation. These patterns typologically anticipate the way of Christ through human history—His inexplicable path through incarnation, death, resurrection, and glorification.",
+        "The church, dwelling between Christ's advents, finds in Agur's humility the posture of true discipleship. His prayer for neither poverty nor riches models contentment in pilgrimage. His confession that divine wisdom exceeds human grasp prepares hearts to receive wisdom not through striving but through revelation in Christ, the wisdom of God made flesh for our salvation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_030",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.655397+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

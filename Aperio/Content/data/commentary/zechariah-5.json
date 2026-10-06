@@ -1,0 +1,55 @@
+{
+  "book": "Zechariah",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Zechariah 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Zechariah 5: Living Under God's Searching Gaze",
+      "overview": [
+        "The heart of this passage is sobering yet merciful: God's holiness cannot coexist with unrepentant sin, yet His judgment always moves toward ultimate purification and restoration. Zechariah's visions of the flying scroll and the woman in the basket reveal a God who sees, measures, and addresses the moral disorder that corrupts both individuals and communities.",
+        "The flying scroll that covers the land represents God's active judgment against theft and false oaths—the everyday sins that erode trust and fracture the fabric of covenant community. This is not distant, theoretical judgment; it is immediate and comprehensive, written in the very sky above the people's heads. The scroll's specific dimensions match the temple's entrance, suggesting that sin separates us from God's presence and worship. What strikes the heart is that God does not ignore our moral compromises or pretend our violations of His law don't matter. He sees them, measures them, and responds with justice that reflects His character.",
+        "Yet the vision doesn't end in devastation. The ephah—a container for grain—becomes an instrument of removal, and the woman of wickedness is lifted away to Babylon, the place of exile and exile's reversal. This suggests that God's judgment, while real, is purposeful; it removes corruption not to destroy His people but to make space for their restoration.",
+        "For modern disciples, Zechariah calls us to take sin seriously. We live in a culture that minimizes moral accountability, redefining integrity as optional. But God's vision reminds us that dishonesty, broken promises, and deliberate wrongs matter eternally. They matter to God, and they should matter to us. The comfort beneath the warning is that God does not allow sin to have the final word over His people. His judgment is the pathway to cleansing.",
+        "What unrepented sin or broken covenant might God be inviting you to address, trusting that His judgment is ultimately restorative rather than merely punitive?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Zechariah 5: Scholarly study",
+      "overview": [
+        "Zechariah 5 presents two of the most enigmatic visions in the prophet's night visions sequence, dated to approximately 519 BCE during the early Persian period when the Jerusalem community was engaged in rebuilding the temple under Zerubbabel and Joshua. These visions—the flying scroll and the woman in the ephah—address the moral and spiritual purification of the restored community, shifting the prophetic focus from encouragement regarding temple reconstruction to concerns about covenant fidelity and the eradication of sin from the land.",
+        "The first vision depicts a flying scroll (*megillah*) of extraordinary dimensions, twenty cubits by ten cubits, matching precisely the dimensions of Solomon's temple portico, a correspondence unlikely to be coincidental. This scroll contains curses against thieves and those who swear falsely by Yahweh's name, representing violations of both the horizontal (human-to-human) and vertical (human-to-divine) dimensions of covenant relationship. The Hebrew verb *nāqāh*, typically rendered \"go unpunished\" or \"be cleaned out,\" carries judicial weight, indicating that the scroll functions as an active agent of divine justice that enters homes and brings destruction. The specification of stealing and false oath-taking may reflect particular social problems in the post-exilic community, though some scholars argue these represent synecdoche for broader Torah violations.",
+        "The second vision introduces a woman seated within an ephah measure, identified as *hārišʿāh* (\"wickedness\" or \"the wicked one\"), a feminine singular noun that personifies the community's accumulated transgression. The lead cover (*ʿōperet*) pressed upon the container and the subsequent transport to Shinar (Babylonia) by two women with stork-like wings suggests the forcible removal and exile of sin itself to the land historically associated with human rebellion against God. The destination's identification with Babylon reverses the exile narrative—sin rather than God's people is now banished. The construction of a \"house\" or temple for wickedness in Shinar parodies proper worship, containing evil in its appropriate realm.",
+        "Interpreters debate whether these visions primarily address individual moral accountability or corporate purification, though the communal implications dominate. The passage contributes significantly to developing Jewish and Christian concepts of divine judgment and the systematic removal of evil prerequisite to eschatological restoration."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Zechariah 5: Prophetic perspective",
+      "overview": [
+        "Zechariah received this vision around 519 BC, approximately twenty years after the first wave of Jewish exiles returned from Babylon under Zerubbabel's leadership. The temple reconstruction had stalled, and God raised up Zechariah alongside Haggai to stir the people toward completion. This chapter falls within the cycle of eight night visions given to the prophet, occurring roughly five centuries before the incarnation of Christ, during the Persian period when Israel existed as a small province under foreign dominion. The prophecies here speak to realities that would unfold progressively through Israel's subsequent history and into the messianic age.",
+        "Within redemptive history, this passage emerges in the Restoration era, after exile but before the fullness of the kingdom arrives. Israel had returned to the land, but the glory had not returned to the temple, and sin still plagued the covenant community. The two visions of this chapter—the flying scroll and the woman in the basket—address this lingering corruption with stunning prophetic imagery.",
+        "The flying scroll, massive in its dimensions matching those of the tabernacle's holy place, represents the curse of the law going forth to purge the land of thieves and those who swear falsely by God's name. This typologically anticipates the comprehensive judgment that the law brings upon all who violate covenant faithfulness. The scroll enters houses and consumes them completely, picturing how divine judgment penetrates to the very foundations of human wickedness. Here we glimpse the ministry of the law that Paul would later expound—it makes sin exceedingly sinful and prepares hearts for the mercy found only in Christ, who became a curse for us that we might receive blessing.",
+        "The woman named Wickedness, confined in the basket and carried away to Shinar—ancient Babylon—reveals God's intention to remove iniquity from His people and relocate it to the seat of pagan rebellion. Shinar evokes Genesis 11, where humanity first organized defiance against heaven. This deportation of wickedness reverses the exile pattern: instead of Israel going to Babylon for her sins, sin itself is exiled from Israel. Typologically, this points toward Christ's atoning work, where sin was carried away definitively, and prophetically toward Revelation's Babylon, where all accumulated wickedness will finally be judged.",
+        "The church now lives in the tension these visions create. Christ has borne the curse of the scroll; wickedness has been definitively defeated at the cross. Yet we await the final removal of all corruption when Babylon the Great falls and the New Jerusalem descends, purified forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "38_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.393583+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

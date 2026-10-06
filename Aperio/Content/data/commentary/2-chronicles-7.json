@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 7: The Heart of Devotion",
+      "overview": [
+        "When Solomon's magnificent temple dedication is complete, fire falls from heaven and God's glory fills the house so thoroughly that the priests cannot enter—a dramatic display of divine approval and presence that marks a watershed moment in Israel's spiritual history. This chapter reveals what God treasures most: not the grandeur of buildings, but the sincere devotion of hearts turned wholly toward Him.",
+        "After the spectacular manifestation of God's glory, the Lord appears to Solomon in a vision and makes a covenant promise wrapped in a profound condition: \"If you seek me, you will find me; if you forsake me, I will forsake you.\" This is not punishment born from pettiness, but the natural consequence of covenant relationship. God's faithfulness mirrors our own faithfulness. When we draw near to Him through prayer, worship, and obedience, we experience His transforming presence. When we drift into independence and self-reliance, we naturally experience His absence—not because He abandons us vindictively, but because we have stepped outside the relationship where His blessing flows.",
+        "The passage invites us into honest self-examination. We construct our own \"temples\"—our ministries, families, careers, spiritual disciplines—yet we must ask whether we have built them as houses for God's presence or monuments to our own achievement. A beautiful church building means nothing if the hearts within it are distant from God. A well-organized life, disciplined schedule, or impressive accomplishments ring hollow without genuine devotion to Christ.",
+        "God's call through Solomon speaks directly to us today: seek Him wholeheartedly. This isn't a distant obligation but an invitation to intimacy. The conditions He places aren't restrictive fences but guardrails protecting our joy. He promises that when we turn back to Him—even after failure—He meets us with mercy and restoration.",
+        "What areas of your spiritual life have you built without inviting God's presence? Where might He be calling you to seek His face more earnestly this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 7: Scholarly study",
+      "overview": [
+        "The seventh chapter of Second Chronicles reaches the theological apex of the Chronicler's temple narrative, recounting the divine response to Solomon's dedicatory prayer and the subsequent theophanic manifestation that validates Israel's central sanctuary. Composed during the post-exilic period, likely in the late fifth or fourth century BCE, this passage served to legitimize Second Temple worship by anchoring it in the Solomonic golden age. The Chronicler draws upon 1 Kings 8–9 but significantly amplifies the dramatic elements, particularly the descent of fire from heaven—an addition absent from the Kings parallel that recalls Mosaic precedents at Sinai and the tabernacle dedication.",
+        "The chapter opens with fire descending to consume the sacrificial offerings while the glory (*kavod*) of YHWH fills the temple, rendering it temporarily inaccessible even to the priests. This *kavod* terminology deliberately evokes the Exodus tabernacle traditions, establishing theological continuity between Mosaic and Solomonic institutions. The people's response of prostration and liturgical confession—\"for he is good, for his steadfast love (*chesed*) endures forever\"—employs formulaic language that became standard in Second Temple worship, appearing prominently in numerous psalms and reflecting developed liturgical practice.",
+        "The sacrificial numbers reported—22,000 cattle and 120,000 sheep—have generated scholarly discussion regarding their historical plausibility and rhetorical function. Many interpreters understand these figures as hyperbolic expressions of royal magnificence characteristic of ancient Near Eastern dedicatory accounts rather than precise enumeration.",
+        "The chapter's latter portion preserves the nocturnal divine oracle to Solomon, containing the frequently cited conditional promises of verses 13–14. The Hebrew term *hikana* (\"humble themselves\") initiates the fourfold sequence of repentance prerequisites. This passage became foundational for later Jewish and Christian theologies of national and individual restoration.",
+        "The Chronicler's distinctive emphasis on divine choice—selecting Jerusalem and the Davidic dynasty—addresses the post-exilic community's need for assurance regarding their restored temple's legitimacy. The conditional nature of the covenant, with its warnings about apostasy leading to exile, transforms this retrospective narrative into prospective exhortation, urging the Chronicler's contemporaries toward covenant fidelity as the guarantor of divine presence and blessing."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 7: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 960 years before the incarnation of Christ, during the golden apex of Israel's united monarchy. Solomon has just completed his magnificent prayer of dedication for the temple, and now heaven responds with consuming fire. We stand at a pivotal moment in redemptive history—between the Exodus deliverance and the coming exile—when God establishes His dwelling place among His covenant people in unprecedented glory.",
+        "The fire falling from heaven to consume the burnt offering echoes the divine response at the tabernacle's inauguration under Moses and anticipates the greater fire of Pentecost, when the Spirit would descend upon a living temple built of redeemed humanity. Solomon's temple, glorious as it was, served as a shadow of the true sanctuary—Christ Himself, in whom the fullness of deity dwelt bodily, and subsequently the church, which Paul would later call the temple of the living God. The glory cloud so thick that priests could not minister points forward to that ultimate moment when God's presence would not merely fill a building but would take up permanent residence within believing hearts.",
+        "The Lord's nighttime appearance to Solomon in verses 12-22 contains the famous conditional promise of 2 Chronicles 7:14, words that have echoed through millennia. Yet this promise must be read within its covenantal context—God speaking to a people bound to Him through Sinai, warning of the exile that would indeed come four centuries later when Babylon razed this very temple to the ground. The prophesied destruction came to pass in 586 BC, vindicating both God's justice and the reliability of His word.",
+        "But the deeper prophetic significance lies in what this temple economy anticipated. Every sacrifice offered on that bronze altar proclaimed its own insufficiency, pointing to the Lamb slain before the foundation of the world. The promise that God's eyes would be perpetually open toward this house finds its ultimate fulfillment not in Jerusalem's geography but in the ascended Christ, who ever lives to intercede, and in every gathering of saints who call upon His name.",
+        "For the church dwelling between the advents, this passage reminds us that we inhabit a greater temple, serve a better mediator, and await a more glorious manifestation. The fire has fallen once for all at Calvary. The glory has been poured out at Pentecost. Now we live as living stones, awaiting the day when the dwelling of God will be perfectly and eternally with humanity in the New Jerusalem."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.780962+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 14,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 14 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 14: The God Who Sustains in Wilderness",
+      "overview": [
+        "Matthew 14 invites us into the heart of Jesus' character: He is the One who feeds the hungry, calms the fearful, and meets us at our breaking point with tender power.",
+        "The chapter opens with the beheading of John the Baptist, and Jesus responds by withdrawing to grieve in solitude. Yet crowds pursue Him, and instead of turning them away, He is moved with compassion. This sets the tone for everything that follows—Jesus' ministry is defined not by convenience or preservation of His own comfort, but by radical response to human need. The feeding of the five thousand isn't primarily a miracle to amaze; it's mercy in action. The disciples suggest dismissing the crowds to find food elsewhere. But Jesus recognizes something they've missed: this crowd is lost, helpless, and has exhausted its own resources. They need Him in a way that goes beyond physical hunger.",
+        "What strikes many of us in this familiar passage is the disciples' anxious multiplication of impossibility. Faced with five loaves and two fish before thousands, they calculate failure. Yet Jesus teaches them something profound: scarcity in our hands becomes abundance when placed in His. He doesn't scold their doubt so much as invite them into a deeper trust, teaching them to see provision differently.",
+        "The walking on water that follows reinforces this theme. Fear grips the disciples as a storm batters their boat, but Jesus speaks words that echo throughout Scripture: \"Take courage, it is I; do not be afraid.\" The God who sustains the multitude with fragments is the same God who commands the very elements. He is present in our storms, not distant from them.",
+        "This chapter asks us where we place our faith when circumstances overwhelm our capacity. Do we measure our situations and calculate defeat, or do we bring our insufficient resources to Jesus and trust His abundance?",
+        "What area of your life feels like you're facing thousands with five loaves—and how might you bring that scarcity to Jesus today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 14: Scholarly study",
+      "overview": [
+        "Matthew 14 constitutes a pivotal narrative unit within the First Gospel's central section, presenting a carefully structured sequence of events that reveal both the mounting opposition to Jesus' ministry and the deepening revelation of his identity to the disciples. The chapter opens with Herod Antipas's anxious speculation about Jesus, providing Matthew the occasion to recount John the Baptist's martyrdom through an analeptic flashback, before transitioning to two dramatic demonstrations of Jesus' power over nature: the feeding of the five thousand and the walking on water.",
+        "The chapter's opening pericope concerning Herod Antipas (the tetrarch of Galilee and Perea from 4 BCE to 39 CE) serves multiple theological functions. Matthew employs the term *tetrarchēs* (τετραάρχης) rather than the popular designation \"king,\" maintaining historical precision while perhaps subtly undermining Herod's pretensions to royal authority. Herod's superstitious belief that Jesus represents John raised from the dead ironically anticipates the resurrection motif that pervades Matthew's Gospel. The Baptist's execution for condemning Herod's marriage to Herodias—his brother Philip's former wife—establishes a paradigm of prophetic martyrdom that foreshadows Jesus' own fate at the hands of political authorities.",
+        "The feeding narrative that follows demonstrates significant intertextual connections with Old Testament wilderness traditions, particularly the manna provision in Exodus 16 and Elisha's multiplication miracle in 2 Kings 4:42-44. The verbal form *eulogēsen* (εὐλόγησεν, \"he blessed\") alongside the actions of taking, blessing, breaking, and giving establishes clear eucharistic resonances that early Christian readers would have recognized. The gathering of twelve baskets (*kophinous*, κοφίνους—distinctively Jewish traveling baskets) symbolically represents provision for the twelve tribes of restored Israel.",
+        "The sea-walking theophany reaches its climax in the disciples' confession: \"Truly you are the Son of God\" (*theou huios*, θεοῦ υἱός). This christological declaration, unique to Matthew among the Synoptics at this juncture, advances the Gospel's sustained interest in Jesus' divine sonship. Peter's attempted water-walking, also unique to Matthew, illustrates the evangelist's characteristic interest in this apostle while presenting a paradigm of faith (*oligopistos*, ὀλιγόπιστος—\"little faith\") that speaks to the struggles of Matthew's own community navigating between bold confession and fearful doubt."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 14: Prophetic perspective",
+      "overview": [
+        "Matthew 14 unfolds approximately thirty years after Christ's birth, during the height of His Galilean ministry, likely around AD 29-30. This places us firmly in the age of fulfillment, when the long-awaited Messiah walks among His people, and the kingdom of heaven has drawn near. In the grand arc of redemptive history, we stand at the pivotal moment of Incarnation, where all the shadows of the Old Testament begin finding their substance in the person of Jesus.",
+        "The chapter opens with the martyrdom of John the Baptist, the last and greatest of the old covenant prophets. John stood as the final Elijah figure, the voice crying in the wilderness that Isaiah foretold. His death at the hands of Herod Antipas carries profound typological weight. Just as the prophets of old were rejected and killed by Israel's corrupt kings, so John seals his testimony with blood. Yet his death also foreshadows the greater Prophet who will soon lay down His life—not merely for speaking truth to power, but as the Lamb of God taking away the world's sin. When Jesus withdraws upon hearing of John's death, we glimpse the sorrow of God over a world that murders its messengers.",
+        "The feeding of the five thousand reveals Christ as the true and better Moses. As Moses gave manna in the wilderness, so Jesus multiplies bread in a desolate place. Yet here is one greater than Moses—not a mediator who receives bread from heaven, but the Lord who creates it from His own hands. The twelve baskets remaining point to the twelve tribes of Israel and anticipate the apostolic foundation of the church. This miracle declares that the messianic banquet has begun; the age of abundance prophesied in Isaiah has arrived in the person of Jesus.",
+        "Christ walking on the water unveils His divine identity with unmistakable clarity. He treads upon the chaos waters as Yahweh alone does in Job and the Psalms. His words \"I AM\" echo the divine name revealed to Moses at the burning bush. Peter's faltering walk becomes an image of the church throughout this present age—called to supernatural faith, often sinking through doubt, yet always caught by the outstretched hand of Christ.",
+        "For the church living between the advents, this chapter assures us that our Lord remains sovereign over death, scarcity, and the raging storms of history. The same Jesus who fed multitudes now nourishes His people through Word and Sacrament until He returns to spread the eternal feast."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_014",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.466451+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

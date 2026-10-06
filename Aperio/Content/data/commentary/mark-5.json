@@ -1,0 +1,56 @@
+{
+  "book": "Mark",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 5: Jesus Over the Chaos",
+      "overview": [
+        "The heart of Mark 5 is the radical compassion of Jesus—He meets us not in our strength but in our deepest desperation, and His presence transforms what has been broken beyond repair.",
+        "This chapter unfolds three interlocking miracles, each revealing a different dimension of human suffering and divine mercy. We meet a demon-possessed man living among tombs, cut off from community and hope. We encounter a woman who has hemorrhaged for twelve years, made ceremonially unclean and perpetually isolated. And we witness a desperate father whose daughter is dying. What unites them is abandonment—by society, by health, by time itself. Yet Jesus moves toward each one with intention and tenderness.",
+        "Notice how Jesus restores these people to their communities. The demon-possessed man becomes a missionary to his own region. The woman, after touching Jesus' garment, is called \"daughter\"—restored to dignity and belonging. Jairus's daughter is raised and given something to eat—returned to ordinary life and love. These aren't merely spectacular healings; they're acts of radical inclusion that shatter the barriers keeping people isolated.",
+        "The disciples' response throughout this chapter mirrors our own struggle: they fear the storm, they recoil from the demon, they question the worth of the woman who delays them. Their skepticism reveals a truth we live with daily—our faith waivers not because God is absent but because suffering looks so real and redemption seems so distant.",
+        "What Mark invites us to see is that no condition—mental, physical, social, or spiritual—lies beyond Christ's reach and care. The one who commands storms and demons is also moved by a woman's quiet faith and a father's urgent plea. He meets you in your most desperate place, not with impatience but with presence.",
+        "Where in your life do you need to remember that Jesus moves toward, not away from, your greatest need?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 5: Scholarly study",
+      "overview": [
+        "Mark 5 presents three interconnected miracle narratives that demonstrate Jesus' authority over demonic forces, chronic illness, and death itself, forming a carefully constructed literary unit that advances Mark's christological agenda. The chapter follows immediately after the calming of the storm (4:35-41), continuing the theme of Jesus' power over chaotic forces while transitioning the narrative to Gentile territory on the eastern shore of the Sea of Galilee.",
+        "The Gerasene demoniac episode (5:1-20) locates Jesus in the Decapolis, a predominantly Gentile region, signaling the extension of his ministry beyond Jewish boundaries. The possessed man dwells among the tombs, a detail emphasizing ritual impurity and social marginalization. The demons identify Jesus as \"Son of the Most High God,\" employing the title ὁ υἱὸς τοῦ θεοῦ τοῦ ὑψίστου (ho huios tou theou tou hypsistou), a designation comprehensible to both Jewish and pagan audiences since \"Most High\" appears in Hellenistic religious contexts. The term λεγιών (legiōn) carries unmistakable Roman military connotations, suggesting both the multiplicity of demons and perhaps subtle anti-imperial undertones. The destruction of two thousand swine reinforces the Gentile setting while demonstrating the devastating nature of demonic possession.",
+        "The intercalated narratives of Jairus's daughter and the hemorrhaging woman (5:21-43) exemplify Mark's characteristic \"sandwich\" technique, where one story interprets another. Both accounts feature twelve years prominently—the duration of the woman's illness and the girl's age—creating symbolic resonance. The woman's condition rendered her perpetually ritually unclean under Levitical law, making her touch of Jesus' garment (κράσπεδον, kraspedon) socially transgressive. Jesus' response distinguishes between the crowd's incidental contact and her faith-filled touch, using σέσωκέν (sesōken), indicating salvation extending beyond physical healing.",
+        "The raising of Jairus's daughter introduces the Aramaic phrase ταλιθα κουμ (talitha koum), one of several instances where Mark preserves Jesus' original words, lending historical authenticity. Jesus' command for secrecy—the \"messianic secret\"—remains debated among scholars, with William Wrede's foundational thesis still generating discussion regarding whether this reflects historical memory or Markan theological construction. Throughout these narratives, faith emerges as the crucial element enabling divine power to accomplish restoration and wholeness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 5: Prophetic perspective",
+      "overview": [
+        "Mark chapter five unfolds during the early Galilean ministry of Jesus, approximately 30-31 AD, roughly three years before the cross and some 1,500 years after the Exodus. This passage sits at the hinge point of redemptive history—the long-awaited Kingdom has arrived in the person of Israel's Messiah, yet the full consummation remains future. The promises to Abraham that all nations would be blessed find their initial fulfillment as Jesus crosses into Gentile territory, signaling that the redemption He brings will extend far beyond Israel's borders.",
+        "The three mighty works recorded here—the deliverance of the Gerasene demoniac, the healing of the hemorrhaging woman, and the raising of Jairus's daughter—form a prophetic tapestry revealing Christ's absolute authority over the powers that have held humanity captive since the Fall. When the legion of demons recognized Jesus as \"Son of the Most High God,\" they confessed what Israel's leaders would later deny. This confrontation in Gentile territory, among the tombs and swine, demonstrates that the Stronger One prophesied by John has come to plunder Satan's house and liberate the prisoners. The restored man, clothed and in his right mind, becomes the first Gentile evangelist—a type of the church's future mission to the nations.",
+        "The woman with the issue of blood embodies Israel herself—twelve years of uncleanness mirroring the twelve tribes languishing under the curse, unable to approach the holy presence, spent of all resources, growing worse under every remedy the law could offer. Her touch of faith and immediate healing picture the new covenant reality: what the law could never accomplish, Christ achieves through the power of His person. The flow of death is stopped; the fountain of life has come.",
+        "Jairus's daughter, twelve years old—the same number—lay at death's door while the woman was healed. In raising this child with the words \"Talitha koum,\" Jesus revealed Himself as the Resurrection and the Life, the One who would soon descend into death itself and emerge victorious. This miracle stands as a down payment on the final resurrection when all who sleep in Christ shall hear His voice and rise.",
+        "The church today lives in the already-and-not-yet, having experienced spiritual resurrection while awaiting bodily redemption. These three deliverances assure every believer: the same Christ who cast out demons, healed incurable disease, and raised the dead continues His saving work until He returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.515955+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

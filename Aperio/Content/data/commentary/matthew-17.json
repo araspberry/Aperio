@@ -1,0 +1,57 @@
+{
+  "book": "Matthew",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 17: Transfiguration and the Cost of Faith",
+      "overview": [
+        "Matthew 17 reveals Jesus in his glory while simultaneously teaching his disciples—and us—that following him requires both seeing his magnificence and accepting the sacrificial path he calls us to walk.",
+        "The chapter opens with the Transfiguration, one of Scripture's most mysterious and transformative moments. Peter, James, and John witness Jesus radiant with divine light, conversing with Moses and Elijah. Their instinctive response—Peter wanting to build shelters, to somehow preserve and contain this sacred moment—echoes a universal human longing: to hold onto spiritual peaks and avoid the valleys that follow. Yet God's voice interrupts: \"Listen to him.\" The Father redirects their attention from the spectacular phenomenon to the person of Jesus, reminding us that true spirituality isn't about chasing mountaintop experiences but about obedient discipleship on the plain.",
+        "Immediately after descending, the disciples encounter a boy tormented by a demon they cannot heal. Their powerlessness stands in stark contrast to the glory they just witnessed. Jesus' gentle rebuke about their \"little faith\" isn't cruel condemnation but compassionate diagnosis. Faith isn't emotional intensity; it's simple trust in God's character and sufficiency. This failure becomes a teaching moment about prayer and persistence in intercession.",
+        "The remainder of the chapter moves toward the cross. Jesus speaks plainly about his coming betrayal and death, but the disciples misunderstand, grappling with questions about greatness and taxes. Through it all, Jesus patiently instructs them about receiving his kingdom like a child—with vulnerability, dependence, and humble receptivity rather than ambitious striving.",
+        "Matthew shows us that genuine Christian life integrates mountaintop revelation with valley-floor obedience. We encounter Christ's majesty not to escape into perpetual elation but to be transformed into his image, which is fundamentally marked by sacrifice and service.",
+        "What spiritual mountaintop experience might God be calling you to translate into faithful, humble service this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 17: Scholarly study",
+      "overview": [
+        "Matthew 17 presents a pivotal transitional chapter in the First Gospel, situated between Peter's confession at Caesarea Philippi and the increasingly explicit passion predictions that characterize the latter half of Matthew's narrative. The chapter comprises three distinct yet theologically interconnected pericopes: the Transfiguration (vv. 1-13), the healing of a demon-possessed boy (vv. 14-21), and the second passion prediction alongside the temple tax incident (vv. 22-27).",
+        "The Transfiguration account opens with the temporal marker \"after six days,\" possibly evoking Moses' experience on Sinai (Exodus 24:16) and establishing Jesus as the new Moses—a persistent Matthean theme. The verb *metemorphōthē* (μετεμορφώθη, \"was transfigured\") denotes a fundamental transformation of form rather than mere appearance, suggesting the momentary unveiling of Jesus' divine glory. The presence of Moses and Elijah represents the Law and Prophets bearing witness to Christ, while the divine voice from the cloud echoes the baptismal declaration (3:17) with the significant addition of *akouete autou* (\"listen to him\"), recalling Deuteronomy 18:15 and the promised prophet like Moses.",
+        "The subsequent healing narrative serves as a stark contrast between mountaintop revelation and the valley of human need and faithlessness. Jesus' exclamation regarding the *genea apistos* (γενεὰ ἄπιστος, \"faithless generation\") echoes Old Testament prophetic indictments. The disciples' inability to cast out the demon occasions teaching on faith, where the famous mustard seed logion emphasizes not faith's quantity but its authentic presence and orientation toward God.",
+        "The chapter concludes with the curious temple tax episode, unique to Matthew and likely reflecting concerns within his community regarding Jewish institutional obligations. The term *didrachma* refers to the half-shekel temple tax mandated for Jewish males. Jesus' response carefully balances his identity as Son (thus exempt) with the pastoral concern to avoid *skandalizō* (\"causing offense\"), demonstrating a principle of voluntary limitation for the sake of witness.",
+        "Throughout this chapter, Matthew weaves together Christological revelation, ecclesial instruction, and passion foreshadowing, preparing readers for the journey to Jerusalem while addressing practical questions facing his predominantly Jewish-Christian audience regarding Jesus' relationship to Torah, temple, and prophetic fulfillment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 17: Prophetic perspective",
+      "overview": [
+        "Matthew 17 unfolds approximately three years into Christ's public ministry, mere months before His crucifixion in Jerusalem, placing this chapter at the climactic pivot point between the Incarnation and the Cross in redemptive history. The events recorded here—the Transfiguration, the healing of the demon-possessed boy, the temple tax provision—occur as Jesus steadily sets His face toward Golgotha, having just revealed to His disciples for the first time that He must suffer, die, and rise again.",
+        "The Transfiguration stands as one of Scripture's most luminous moments of prophetic revelation. Upon that high mountain, the veil of Christ's humanity parts momentarily, and Peter, James, and John behold what the patriarchs longed to see—the glory of the incarnate God radiating through mortal flesh. Moses and Elijah appear, representing the Law and the Prophets, the entire testimony of the Old Testament now gathered to bear witness that all their words pointed to this One. Their conversation concerns His \"exodus\"—His departure to be accomplished at Jerusalem—revealing that the original Exodus from Egypt was itself a shadow of the greater deliverance Christ would accomplish through His death and resurrection. The Father's voice thundering from the cloud echoes the baptismal declaration while adding the command central to Deuteronomy's prophecy of the Prophet like Moses: \"Listen to Him.\" Here the types dissolve into reality; Moses and Elijah fade, and Jesus alone remains. The servants yield to the Son.",
+        "Descending the mountain, Jesus encounters a father's desperate faith and disciples' frustrated inability. The demon-possessed boy represents humanity in bondage—convulsed, thrown into fire and water, unable to save himself. What the disciples could not do, Christ accomplishes with a word, prefiguring His ultimate victory over Satan through the Cross. This healing points forward to the complete liberation awaiting creation at His return, when every demonic power will be cast into the lake of fire.",
+        "The temple tax episode reveals profound prophetic irony. The Son of the King whose house demands the tribute is Himself exempt, yet He pays to avoid offense—through a coin drawn miraculously from a fish's mouth. The true Temple stands among them unrecognized, the One whose body would be destroyed and raised in three days.",
+        "For the church dwelling between advents, Matthew 17 assures us that the glorified Christ we shall see at His appearing is the same Jesus who walked dusty roads, cast out demons, and condescended to human weakness. His glory is not future invention but present reality momentarily unveiled—the certain hope of our own transfiguration when He returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.473429+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

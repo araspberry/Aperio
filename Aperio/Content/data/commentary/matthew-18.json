@@ -1,0 +1,69 @@
+{
+  "book": "Matthew",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 18 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Matthew 16:18 · Original-language text",
+      "url": "https://biblehub.com/text/matthew/16-18.htm"
+    },
+    {
+      "id": "correction-2",
+      "label": "Matthew 18:17 · Original-language text",
+      "url": "https://biblehub.com/text/matthew/18-17.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 18: The Heart of Kingdom Humility and Reconciliation",
+      "overview": [
+        "The spiritual heart of Matthew 18 is this: Jesus inverts every human value system by declaring that greatness in God's kingdom belongs to the humble, the lost, and those willing to forgive without limit. Throughout this chapter, Jesus tears down our natural inclinations toward pride, self-protection, and scorekeeping, replacing them with radical childlike faith and extravagant mercy.",
+        "The chapter opens with a striking image—Jesus places a child in the middle of the disciples and declares that unless they become like children, they cannot enter the kingdom at all. This isn't sentimentality about innocence; it's about dependency, trust, and freedom from the burden of self-importance. In a world obsessed with climbing ladders and securing status, Jesus says the kingdom belongs to those willing to become small. That child didn't earn favor through accomplishment or credentials; he simply existed in trusting relationship with adults. This is how we must relate to God.",
+        "From there, Jesus moves into the hard work of kingdom community: reconciliation, church discipline, and forgiveness. When a brother sins against us, we don't broadcast it or harbor resentment—we go, speak privately, and genuinely seek restoration. When that fails, we bring witnesses and ultimately bring the matter before the church. But the underlying motivation is never punishment; it's always recovery. And when forgiveness is sought, we forgive not seven times, but seventy-seven times—a way of saying there is no limit to reconciliation in the kingdom.",
+        "The parable of the unforgiving servant closes the chapter with piercing clarity. A servant forgiven an astronomical debt turns around and strangles a debtor for pennies. His master's response is severe: if you won't extend the mercy you've received, you forfeit it. This isn't about earning God's forgiveness through our own generosity; it's about recognizing that those who truly grasp their own forgiveness cannot help but become forgiving people.",
+        "How has receiving Christ's unlimited forgiveness changed your capacity to forgive others?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 18: Scholarly study",
+      "overview": [
+        "Matthew 18 constitutes a pivotal discourse in the First Gospel, representing the fourth of five major teaching blocks that structure Matthew's narrative. This chapter addresses ecclesiastical relationships and community discipline, reflecting concerns that would have been particularly relevant to Matthew's audience, likely a Jewish-Christian community in Syrian Antioch during the 80s CE. The evangelist draws upon Markan material (Mark 9:33-50) while significantly expanding and reshaping it to address the practical realities of emerging church life.",
+        "The discourse opens with the disciples' question about greatness in the kingdom of heaven, to which Jesus responds by placing a child (Greek: *paidion*) in their midst. The term carries connotations of low social status and dependence rather than innocence, subverting conventional honor-shame categories that dominated Mediterranean antiquity. Jesus' identification with \"little ones\" (*mikroi*) extends throughout the chapter, functioning as a technical term for vulnerable community members whose faith must be protected.",
+        "The parable of the lost sheep (vv. 12-14) appears also in Luke 15:3-7 but with distinctly different application. While Luke emphasizes joy over repentant sinners, Matthew frames the narrative ecclesiologically, stressing the Father's will that none of these little ones should perish (*apollymi*). This verb choice underscores eternal consequences and divine concern for the marginalized.",
+        "Verses 15-20 present the only explicit procedure for church discipline in the Gospels, culminating in the famous *ekklesia* passage—one of the two Gospel passages using this term, which occurs once in 16:18 and twice in 18:17. The binding and loosing authority (*deo* and *lyo*) likely reflects rabbinic terminology for halakhic decisions regarding prohibition and permission, though some scholars interpret it as authority over membership and discipline.",
+        "The chapter concludes with the parable of the unforgiving servant, unique to Matthew, which extends Peter's question about forgiveness limits. The contrast between ten thousand talents (an astronomical, almost absurd sum representing perhaps 200,000 years of labor) and one hundred denarii (roughly three months' wages) creates deliberate hyperbole emphasizing the incomparable nature of divine mercy. The theological logic is clear: recipients of immeasurable grace must extend proportional forgiveness within the community, making reconciliation not merely advisable but obligatory for kingdom citizens."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 18: Prophetic perspective",
+      "overview": [
+        "Matthew chapter eighteen emerges from the lips of Christ approximately three years into His earthly ministry, during the final months before His crucifixion in Jerusalem. This places the passage at the climax of the kingdom's inauguration—the long-awaited Messiah walks among His people, teaching the ethics of the realm He is establishing through His approaching death and resurrection. Within the grand arc of redemption, we stand at the hinge point between promise and fulfillment, where the kingdom prophesied through Moses and the prophets now breaks into history through the incarnate Son.",
+        "The chapter opens with the disciples' question about greatness in the kingdom, revealing hearts still shaped by earthly ambition. Christ's response—setting a child in their midst—overturns every expectation formed under the old covenant's royal theology. Where Israel anticipated a Davidic king wielding the scepter of conquest, Jesus reveals a kingdom entered through humility and sustained by dependent faith. The child becomes a living parable of kingdom citizenship, typologically pointing to the new birth that regeneration accomplishes. Just as Israel was called God's firstborn son, brought low in Egypt before exaltation, so must every citizen of the new covenant embrace smallness before receiving glory.",
+        "The stern warnings against causing little ones to stumble carry eschatological weight that thunders across the ages. Christ speaks of millstones and drowning, of hands and eyes cast into eternal fire—language echoing the prophetic judgments of Isaiah and Jeremiah yet intensified by the authority of the Judge Himself. These are not metaphors emptied of consequence but warnings from the One who will separate sheep from goats at the consummation.",
+        "The parable of the lost sheep, often sentimentalized, actually unveils the Father's sovereign pursuit that began in Eden's garden when God sought hiding sinners. This shepherd-heart finds its perfect expression in Christ, the Good Shepherd prophesied by Ezekiel, who leaves the ninety-nine to rescue the wandering one. Here is election wedded to compassion, sovereignty married to tender mercy.",
+        "The instructions concerning church discipline reveal that Christ is building an eschatological community with authority to bind and loose—a new temple not made with hands, where two or three gathered in His name constitute His presence, fulfilling and surpassing the tabernacling glory of old. The church lives now as outpost of the coming kingdom, practicing the reconciliation and forgiveness that will characterize the new creation, forgiving seventy times seven because we ourselves have been forgiven an unpayable debt by the King who cancels what justice demands."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.476749+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-056"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

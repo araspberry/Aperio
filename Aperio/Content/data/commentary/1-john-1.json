@@ -1,0 +1,55 @@
+{
+  "book": "1 John",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 John 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 John 1: Walking in the Light",
+      "overview": [
+        "The opening chapter of 1 John invites us into intimate fellowship with God, calling us to honest confession and authentic community. At its heart is a radical claim: God is light, and in that light, there is no darkness at all—yet we are invited to walk toward that light precisely because we struggle in the shadows.",
+        "John begins by grounding us in the tangible reality of Christ. He writes of what has been \"from the beginning,\" what they have \"heard,\" \"seen,\" and \"touched.\" The Word became flesh, and this wasn't mystical speculation but embodied truth. Our faith rests on a God who entered our world, who can be known relationally, not abstractly. This foundation matters because the Christian life is never merely doctrinal; it is deeply personal.",
+        "The heart of John's message emerges in his description of God's nature and our calling: \"God is light\" and we are invited to \"walk in the light.\" Notice what this means practically. Walking in light isn't about achieving perfection; it's about honesty. If we claim to have fellowship with God while \"walking in darkness,\" we deceive ourselves. But if we \"walk in the light as he is in the light,\" something transformative happens—we have \"fellowship with one another\" and \"the blood of Jesus cleanses us from all sin.\"",
+        "This is staggeringly good news. God doesn't demand that we clean ourselves up before approaching him. Rather, he welcomes us into light where truth can be seen and acknowledged. The confession of sin doesn't separate us from God; it connects us to his cleansing grace. Darkness thrives on secrecy and self-deception. Light thrives on transparency and truth.",
+        "In our modern world of curated personas and hidden struggles, John calls us to something radically counter-cultural: honest community with God and others. Our churches are meant to be safe places where the mask comes off, where we admit our shadows, and where Christ's light reaches the places we've kept hidden.",
+        "Where are you still walking in darkness—pretending, hiding, deceiving yourself? What would it look like to step into honest confession today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 John 1: Scholarly study",
+      "overview": [
+        "The First Epistle of John opens with a prologue that bears striking resemblance to the Fourth Gospel's introduction, immediately raising questions about authorship and theological continuity within the Johannine community. Most scholars date this letter to the late first century, likely between 90–110 CE, addressing a community fractured by christological controversy, possibly an early form of docetism that denied the genuine humanity of Christ. The author, traditionally identified with the apostle John though this remains contested, writes with pastoral urgency to combat false teaching while reaffirming foundational truths about the incarnation and Christian fellowship.",
+        "The chapter commences with a remarkable declaration concerning \"that which was from the beginning\" (ho ēn ap' archēs), language deliberately echoing Genesis 1:1 and John 1:1 while emphasizing eyewitness testimony through a cascade of sensory verbs: heard, seen, looked upon, and touched. The term \"Word of life\" (logos tēs zōēs) encapsulates the Johannine understanding of Christ as both divine communication and the source of eternal life, a phrase pregnant with philosophical resonance for readers familiar with Hellenistic thought yet firmly grounded in Hebrew conceptions of divine speech as creative power.",
+        "Central to this passage is the concept of fellowship (koinōnia), appearing four times in verses 3–7. This term denotes not merely social association but profound spiritual participation—communion with the Father, Son, and believing community that constitutes authentic Christian existence. The author establishes an unbreakable link between theological orthodoxy concerning Christ's incarnation and genuine communal fellowship.",
+        "The striking declaration that \"God is light\" (ho theos phōs estin) in verse 5 introduces a fundamental ethical dualism that pervades the letter. Walking in light versus darkness represents the moral antithesis between truth and falsehood, obedience and sin. Notably, the author does not claim sinlessness as a possibility but rather presents ongoing confession and cleansing through Christ's blood as the mechanism for maintaining fellowship. The passage concludes by condemning self-deception while affirming divine faithfulness (pistos) and justice (dikaios) in providing forgiveness, establishing the theological foundation for the ethical exhortations that follow throughout the epistle."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 John 1: Prophetic perspective",
+      "overview": [
+        "The epistle before us emerges from the final decades of the first century, likely penned around AD 85-95 by the aged apostle John from Ephesus. This places the letter approximately sixty years after the resurrection and ascension of Christ, deep within the church age when the apostolic generation was passing from the scene and false teachings were already threatening the purity of the gospel. The beloved disciple who once leaned upon the Lord's breast now writes as an eyewitness guardian of apostolic truth, combating early forms of Gnosticism that denied the true humanity of Jesus Christ.",
+        "Within the grand sweep of redemptive history, this opening chapter stands as a magnificent proclamation that the eternal purposes of God, conceived before creation and progressively revealed through patriarch and prophet, have now burst into visible, tangible reality. The \"Word of life\" that was \"from the beginning\" echoes Genesis 1 and John 1, binding together creation's dawn with redemption's fullness. What prophets glimpsed in shadows, what Moses beheld only from behind, what Isaiah saw in temple vision—this the apostles have heard, seen with their eyes, and touched with their hands. The transcendent has become immanent; the invisible God has been made manifest in human flesh.",
+        "The declaration that \"God is light, and in him is no darkness at all\" carries forward the prophetic typology woven throughout Scripture. The pillar of fire guiding Israel, the Shekinah glory filling tabernacle and temple, the prophetic promises of light dawning upon those in darkness—all find their ultimate meaning in the incarnate Son and now in the fellowship of believers who walk in that light. The blood of Jesus cleansing from all sin fulfills every Levitical sacrifice, every Day of Atonement sprinkling, every Passover lamb slain from Egypt onward.",
+        "What remains prophetically significant is the present reality this passage establishes for those living between the advents. The fellowship spoken of here—with the Father, with the Son, and with one another—constitutes the earnest of that perfect communion awaiting us in the New Jerusalem. The ongoing cleansing by Christ's blood assures pilgrims that the High Priest who entered the heavenly sanctuary continues His intercessory ministry until He comes again. The church walks in light now, yet awaits that city which needs no sun, for the Lamb Himself shall be its lamp, and in His light we shall see light forevermore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "62_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.032546+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 8: The Scattering that Spreads the Seed",
+      "overview": [
+        "When persecution closes one door, God opens a thousand windows. Acts 8 reveals how the church's greatest threat became its greatest opportunity for expansion, as suffering scattered believers across regions they might never have reached otherwise. This chapter teaches us that God's purposes cannot be contained by human opposition, and that His kingdom grows not despite hardship but often through it.",
+        "The chapter opens with Stephen's death and the fierce persecution led by a young man named Saul, yet this violence paradoxically becomes the catalyst for gospel multiplication. The believers, fleeing for their lives, carry their faith into Samaria and beyond, preaching Christ everywhere they go. What looks like defeat in Jerusalem becomes spiritual victory across the land. Philip's ministry in Samaria demonstrates this beautifully—a persecuted deacon becomes an evangelist, baptizing multitudes and performing miracles. Meanwhile, Peter and John travel to confirm and empower this new work, showing how the apostles affirmed expansion beyond their immediate circle.",
+        "But Acts 8 also shows us that numerical growth isn't the whole story. The Simon the sorcerer account reminds us that public profession can mask a heart that hasn't genuinely believed. His desire to purchase the Spirit's power with money reveals a fundamental misunderstanding of grace—we cannot manipulate or commercialize God's work. Peter's rebuke is sharp but redemptive, calling Simon to repentance. This sits alongside the Ethiopian eunuch's genuine conversion, a man of sincere seeking who, upon understanding Jesus, is baptized immediately. His encounter with Philip on a desert road illustrates how God guides even the solitary seeker into His family.",
+        "The lesson for us is clear: trust God when circumstances scatter your plans. Your trials may be the very instrument through which His word reaches people you'll never know. And guard your heart against spiritual pretense—authentic faith isn't about impressive experiences but genuine submission to Christ.",
+        "*Where might God be calling you to share your faith precisely because you're in a difficult season?*"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 8: Scholarly study",
+      "overview": [
+        "Acts 8 represents a pivotal transition in Luke's narrative, marking the geographic and ethnic expansion of the early Christian movement beyond Jerusalem in fulfillment of the programmatic statement in Acts 1:8. The chapter opens in the immediate aftermath of Stephen's martyrdom, introducing Saul as an active agent of persecution, a detail that creates dramatic irony given his later transformation. The scattering of believers throughout Judea and Samaria, while appearing as a setback, functions as the mechanism by which the gospel spreads—a pattern Luke emphasizes whereby opposition paradoxically advances the divine mission.",
+        "Philip, one of the seven Hellenistic Jewish leaders appointed in chapter 6, emerges as the central figure. His ministry in Samaria carries profound theological significance given the historic enmity between Jews and Samaritans. The term *kērussō* (to proclaim, herald) describes Philip's activity, emphasizing authoritative announcement rather than mere teaching. The Samaritans' reception of \"the word of God\" (*ton logon tou theou*) employs a phrase Luke uses consistently to denote the Christian message's divine origin and authority.",
+        "The Simon Magus episode (verses 9-24) introduces complex interpretive questions regarding the relationship between water baptism and the reception of the Holy Spirit. Simon's attempt to purchase (*ktaomai*) apostolic power gives rise to the ecclesiastical term \"simony.\" Peter's severe rebuke reveals that Simon's heart remains improperly oriented despite his baptism, raising enduring questions about the nature of genuine conversion that patristic and subsequent interpreters have vigorously debated.",
+        "The Ethiopian eunuch narrative (verses 26-40) further extends the mission's boundaries. This court official, serving the Candace (a title rather than personal name for the queen mother of Meroë), represents both ethnic otherness and, as a eunuch, a category traditionally excluded from full covenant participation under Deuteronomy 23:1—though Isaiah 56:3-5 anticipates their eschatological inclusion. His reading of Isaiah 53 and Philip's christological interpretation demonstrate early Christian hermeneutical practice. The verb *harpazō* (snatched away) describing Philip's departure echoes prophetic translation narratives, underscoring divine orchestration throughout. This chapter thus establishes patterns of Spirit-directed mission that characterize the remainder of Acts."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 8: Prophetic perspective",
+      "overview": [
+        "The events of Acts 8 unfold approximately three years after the resurrection of Christ, around AD 34–35, marking a pivotal turning point in the early church's mission. This chapter records the scattering of believers following Stephen's martyrdom and the subsequent expansion of the gospel beyond Jerusalem's walls—precisely as Christ had prophesied in Acts 1:8 that His witnesses would move from Jerusalem to Judea, Samaria, and the ends of the earth. Within the grand arc of redemption, this moment represents the initial flowering of the Church Age, that mysterious period between Pentecost and the Second Coming when the Spirit gathers a people from every nation.",
+        "The persecution that drives the church outward reveals a divine pattern woven throughout Scripture: what humanity intends for evil, God orchestrates for redemptive purposes. Just as Joseph's exile to Egypt positioned him to save nations, so the scattering of Jerusalem's believers becomes the seed-spreading wind of the gospel. Philip's ministry in Samaria carries profound typological weight. The Samaritans, despised as half-breeds since the Assyrian exile seven centuries earlier, now receive the word of God with joy. Here the ancient breach between Jew and Samaritan begins its healing—a foretaste of the ultimate reconciliation when Christ will gather all things in Himself.",
+        "Simon the sorcerer stands as a sobering type of false faith, one who desires the power of the Spirit without the transformation of the heart. His offer to purchase divine authority with money exposes the perennial temptation to commodify grace, a warning that echoes through every generation of the church.",
+        "The encounter with the Ethiopian eunuch radiates with prophetic fulfillment. Isaiah 56 had promised that eunuchs who hold fast to God's covenant would receive \"a name better than sons and daughters,\" and Isaiah 53—the very passage the Ethiopian reads—spoke of the Suffering Servant whose humiliation would bring salvation to many. Philip opens these ancient words and reveals their culmination in Jesus of Nazareth. The eunuch's baptism in a desert place fulfills Isaiah's vision of streams in the wilderness and anticipates the ingathering of Africa into the kingdom.",
+        "For the church today, living between the already of Christ's victory and the not yet of His return, Acts 8 declares that the gospel cannot be contained. Persecution scatters but multiplies. Ancient prophecies find their yes in Christ. And the Spirit continues directing His servants to divine appointments on desert roads, gathering an eternal people from every tribe and tongue."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.681103+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

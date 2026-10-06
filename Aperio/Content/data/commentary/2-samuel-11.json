@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Heart Turned Away: The Gravity of Small Compromises",
+      "overview": [
+        "The spiritual heart of this passage is the terrifying ease with which a faithful servant of God can fall into grave sin when vigilance is abandoned and desire is left unchecked.",
+        "David's story in 2 Samuel 11 shatters the illusion that spiritual maturity makes us invulnerable to temptation. Here stands a man who has slayed giants, written psalms of devotion, and led a nation—yet in an idle moment, watching from a rooftop, he allows his eyes, then his heart, then his actions to betray everything he claims to believe. What makes this account so piercing is its honesty about how sin multiplies. One glance becomes lust; lust becomes adultery; adultery becomes murder. David doesn't wake up intending to destroy Uriah. He wakes up intending to cover his tracks, and each lie births another until blood covers his hands.",
+        "The passage confronts us with uncomfortable truth: the same David who danced before the ark, who refused to harm Saul though he had opportunity, becomes capable of orchestrating a man's death to conceal his own shame. This isn't because David is uniquely depraved. Rather, it reveals something true about all of us—that without constant humility, prayer, and accountability, the distance between our best intentions and our worst actions is perilously short.",
+        "What's instructive is David's circumstances: he had leisure while his army fought; he had unchecked power; he had no one to answer to in that moment. He had everything except the one thing that matters most—a vigilant heart turned toward God. The ancient warning proves true across the centuries: pride precedes a fall, and idleness is the enemy of faithfulness.",
+        "Yet even in this dark chapter, God has not abandoned David. The very fact that this story is preserved in Scripture, unflinching and without excuse, suggests something redemptive lies ahead. Judgment will come, but so will grace.",
+        "What areas of your life lack accountability or vigilance? Where might you need to invite others into the struggle before compromise becomes crisis?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 11: Scholarly study",
+      "overview": [
+        "The narrative of David and Bathsheba in 2 Samuel 11 stands as one of the most devastating accounts of royal failure in the Hebrew Bible, marking a pivotal turning point in the Deuteronomistic History's portrayal of Israel's greatest king. The chapter opens with a temporal marker laden with irony: \"at the time when kings go out to battle\" (*lēʿēt ṣēʾt hammelāḵîm*), David remains in Jerusalem while Joab leads the army against the Ammonites. This departure from royal duty establishes the conditions for moral catastrophe, as the narrator subtly indicts David's abdication of kingly responsibility before any explicit sin occurs.",
+        "The pivotal verb *rāʾâ* (\"to see\") initiates the tragic sequence when David observes Bathsheba bathing from his rooftop. The narrative deliberately withholds Bathsheba's perspective, focusing instead on David's exercise of royal power through a series of terse verbs: he saw, he sent, he inquired, he took. The term *wayyiqqaḥ* (\"and he took\") carries covenantal overtones, echoing Samuel's earlier warning about monarchial abuse in 1 Samuel 8:11–18. The parenthetical notice of Bathsheba's purification from her uncleanness (*miṭṭumʾātāh*) serves the crucial narrative function of establishing that any resulting pregnancy must be David's, while simultaneously highlighting the ritual irony of purity amid moral defilement.",
+        "David's attempted concealment through summoning Uriah demonstrates escalating moral deterioration. Uriah's threefold refusal to go down to his house, invoking the ark's presence in the field, presents a devastating contrast: the Hittite mercenary displays greater covenantal fidelity than Israel's anointed shepherd. The phrase \"to eat and to drink and to lie with my wife\" employs the same verb (*šāḵaḇ*) used for David's encounter with Bathsheba, underscoring the ethical chasm between the two men.",
+        "The chapter culminates in David's letter carried unwittingly by Uriah—a masterstroke of narrative irony—ordering his own murder. The Deuteronomistic evaluation awaits chapter 12, yet the narrator's restraint intensifies moral weight. Scholars debate Bathsheba's agency within ancient Near Eastern power dynamics, though the text emphasizes David's royal initiative throughout, establishing the theological foundation for Nathan's subsequent confrontation and the dynasty's ensuing turmoil."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 11: Prophetic perspective",
+      "overview": [
+        "This dark chapter unfolds approximately 1000 years before Christ's birth, during the golden age of Israel's united monarchy when David ruled at the height of his power. The narrative takes place in spring, \"the time when kings go out to battle,\" yet David remains in Jerusalem—a fateful decision that sets in motion one of Scripture's most tragic sequences of sin. Within the grand redemptive arc, this passage stands in the Kingdom epoch, that period when God's promises to Abraham were finding partial fulfillment through a throne established in Zion, yet revealing how even the man after God's own heart could not himself be the ultimate answer to humanity's need.",
+        "What transpires on that rooftop and in its aftermath exposes the radical depths of human depravity that no earthly king can escape. David sees Bathsheba, sends for her, lies with her, and upon learning of her pregnancy, orchestrates the murder of Uriah—one of his own mighty men whose loyalty stands in devastating contrast to his king's treachery. The progression from idle eyes to adultery to deception to murder traces the anatomy of sin with brutal honesty. David manipulates Joab, corrupts the messenger, weaponizes the sword of Ammon, and buries his crime beneath the appearance of honorable casualty. The chapter closes with chilling understatement: \"But the thing that David had done displeased the LORD.\"",
+        "Here lies profound typological significance through contrast. David, the anointed shepherd-king, becomes the predatory wolf; the one who should protect his flock devours it instead. Uriah the Hittite—a Gentile convert—displays covenant faithfulness while the covenant king abandons every sacred trust. This inversion points forward to humanity's desperate need for a greater David, one who would never abuse power but empty Himself completely, never take another man's bride but give His life to purchase His own. Where David sent Uriah to death to cover sin, Christ was sent to death to atone for it.",
+        "The lineage matters eternally. From this union of shame and murder would eventually come Solomon, and through that line, Jesus Himself. Matthew's genealogy unflinchingly names \"her who had been the wife of Uriah,\" declaring that God's redemptive purposes move not around human failure but directly through it. The church living between the advents must reckon with this: our King entered a bloodline stained with adultery and murder, sanctifying fallen histories with His holy presence, promising that no sin lies beyond the reach of the grace He came to bring."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.495722+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

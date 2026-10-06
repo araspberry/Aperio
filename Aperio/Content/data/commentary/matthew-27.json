@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 27 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 27: The Darkness Before the Dawn",
+      "overview": [
+        "Matthew 27 walks us through the final hours of Jesus' earthly life—a passage that reveals both the depths of human cruelty and the boundless depths of divine love. This is the crucifixion narrative, where the King of all creation is murdered as a criminal, yet where redemption itself is being accomplished.",
+        "The chapter opens with religious leaders delivering Jesus to Pilate, marking the moment when institutional power and political expedience conspire against truth. Pilate, though recognizing Jesus' innocence, chooses the comfort of the crowd over conscience—a pattern tragically familiar in our own compromised hearts. The soldiers mock him, the crowds jeer, and even a thief hanging beside him hurls insults. Yet through it all, Jesus remains strangely silent, dignified in his suffering. There is no defense, no retaliation—only a willingness to drink the cup his Father has given him.",
+        "What arrests the heart is the sheer abandonment Jesus experiences. \"My God, my God, why have you forsaken me?\" he cries from the cross, quoting Psalm 22. In that moment, the Son experiences the weight of separation from the Father—the consequence of bearing our sin. This is not defeat; it is substitution. He takes what should be ours.",
+        "But notice what follows: the veil of the temple tears, the earth shakes, tombs open. Creation itself responds to the death of its Creator. A centurion, standing guard over this condemned man, confesses, \"Surely he was the Son of God!\" Even in death, Jesus' witness continues.",
+        "The chapter ends with Jesus' body laid in a borrowed tomb, sealed and guarded. The story appears to have ended in tragedy. Yet we know the morning is coming—resurrection is three days away, already written into the promises of God.",
+        "What might it mean for your discipleship to stand beneath the cross with Jesus today, accepting both the horror of what sin demanded and the extravagance of what love provided?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 27: Scholarly study",
+      "overview": [
+        "Matthew 27 constitutes the climactic narrative of the First Gospel's passion account, presenting the trial, crucifixion, and burial of Jesus with distinctive Matthean theological emphases that set it apart from the other Synoptic presentations. Writing likely in the 80s CE for a predominantly Jewish-Christian community, Matthew shapes his account to demonstrate Jesus as the fulfillment of Israel's scriptures while simultaneously addressing questions of Jewish and Roman culpability that would have been pressing for his audience in the post-70 CE context.",
+        "The chapter opens with the formal delivery of Jesus to Pilate, followed by the uniquely Matthean account of Judas's remorse and death (27:3–10). The term *metamelētheis* (μεταμεληθείς, \"having regretted\") used for Judas's response notably differs from *metanoeō*, the typical New Testament vocabulary for salvific repentance, suggesting a distinction between remorse and genuine conversion. Matthew's quotation formula attributing the prophecy to Jeremiah while actually drawing primarily from Zechariah 11:12–13 has generated considerable scholarly discussion, with explanations ranging from composite citation practices to Jeremiah's prominence as the prophetic corpus's traditional head.",
+        "The Barabbas episode introduces the significant textual variant \"Jesus Barabbas\" found in some manuscripts, which, if original, heightens the dramatic irony of the crowd choosing between two figures named Jesus—one whose patronymic means \"son of the father\" and one whom Matthew presents as the true Son of the Father. Pilate's handwashing (27:24) and the crowd's self-imprecation—\"His blood be on us and on our children\" (27:25)—appear only in Matthew, reflecting the evangelist's complex engagement with questions of covenant responsibility that must be interpreted carefully given their tragic history of anti-Jewish misappropriation.",
+        "The crucifixion narrative employs the term *skulon* (*σταυρόω*, \"to crucify\") while incorporating numerous scriptural allusions, particularly to Psalm 22 and the righteous sufferer tradition. Matthew alone records the extraordinary apocalyptic signs accompanying Jesus's death: the temple veil's rending, the earthquake, and the resurrection of the holy ones (27:51–53). These phenomena, employing the theologically loaded term *seismos* (σεισμός, \"earthquake\"), signal eschatological transformation and validate Jesus's identity, prompting the centurion's climactic confession that frames Jesus's death as revelatory theophany rather than shameful defeat."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 27: Prophetic perspective",
+      "overview": [
+        "Matthew 27 unfolds in the final hours before and during the crucifixion of Jesus Christ, occurring approximately AD 30-33 during the Passover feast in Jerusalem. This chapter records events that took place roughly 1,500 years after the first Passover in Egypt and stands as the climactic moment toward which all of redemptive history had been moving—the hour when the Lamb of God would be slain for the sins of the world.",
+        "Within the grand arc of Scripture, this passage represents the culmination of every promise, every sacrifice, and every prophetic utterance from Genesis forward. Here the seed of the woman crushes the serpent's head while having His heel bruised. Here Abraham's ram caught in the thicket finds its ultimate fulfillment as God provides Himself as the sacrifice. Here the Passover lamb's blood is finally and fully applied, not to doorposts of houses but to the doorposts of human hearts across all generations. The entire sacrificial system of Leviticus, with its endless rivers of animal blood, reaches its terminus at Golgotha where the Great High Priest offers Himself as both priest and victim.",
+        "The typological density of this chapter is staggering. Judas's thirty pieces of silver fulfill Zechariah's prophecy of the rejected Shepherd's price—the value of a slave. Barabbas, whose name means \"son of the father,\" is released while the true Son of the Father dies in his place, embodying the substitutionary nature of the atonement for all who would believe. The soldiers unknowingly crown Christ with thorns—the very curse pronounced upon the ground in Eden now pressed into the brow of the One who would reverse that curse. The seamless garment for which lots are cast echoes the high priestly robe, for Christ dies as both sacrifice and sacrificer.",
+        "The tearing of the temple veil from top to bottom declares that God Himself has opened the way into His presence. What was once guarded by cherubim with flaming swords is now accessible through the torn flesh of the Son. The earthquake and the resurrection of saints provide prophetic firstfruits of the general resurrection, declaring that death's dominion is broken.",
+        "For the church living between the advents, Matthew 27 is both foundation and hope. The work accomplished here secures our redemption completely, yet the centurion's confession—\"Truly this was the Son of God\"—anticipates the day when every knee shall bow and every tongue confess this same reality when He returns in glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_027",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.50024+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

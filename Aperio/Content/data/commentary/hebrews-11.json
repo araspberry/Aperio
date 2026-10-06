@@ -1,0 +1,54 @@
+{
+  "book": "Hebrews",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hebrews 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Faith: The Substance of Things Hoped For",
+      "overview": [
+        "Hebrews 11 stands as Scripture's most eloquent tribute to faith—not as a vague feeling, but as a resolute orientation of the entire self toward God's faithfulness. The chapter opens with a definition that cuts through confusion: faith is \"the substance of things hoped for, the evidence of things not seen.\" It is the conviction that God's promises are real, even when they remain beyond our sight, and the willingness to stake our lives on them.",
+        "What makes this chapter remarkable is not abstract theology but lived stories. We meet Noah building an ark when skies had never seen rain, Abraham leaving behind everything for a land he would never fully possess, and Sarah receiving strength to bear a child against all biological reality. These saints endured hardship not because they grew weary of faith, but because they saw further than their circumstances. They grasped that God's promises extended beyond their earthly pilgrimage into an eternal city whose builder and maker is God.",
+        "The catalogue of faithful witnesses moves from the absurd to the agonizing. Some conquered kingdoms and achieved righteousness; others were tortured and refused deliverance, choosing something better—the promise of resurrection. The passage never romanticizes faith as an easy path to prosperity. Rather, it reveals faith as the spine that holds us steady when life contradicts our hopes and when obedience costs everything.",
+        "This vision transforms how we live now. We too walk by faith, not by sight. Our circumstances may press in with doubt and pressure, yet we inherit a great cloud of witnesses who discovered that God's faithfulness is more real than any visible threat. They show us that faith is not presumption but trust—a gift that allows us to face uncertainty with courage because we ultimately answer to One who is faithful.",
+        "What is one area of your life where God is calling you to believe beyond what you can see? How might you draw strength from the faithful witnesses who have gone before you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hebrews 11: Scholarly study",
+      "overview": [
+        "Hebrews 11 represents one of the most rhetorically sophisticated and theologically dense passages in the New Testament, functioning as an encomium to faith that serves the broader paraenetic purpose of the epistle. The unknown author, writing to a community of Jewish Christians facing persecution and the temptation to abandon their confession, constructs this catalogue of exemplars to demonstrate that authentic faith has always operated according to the same principle now revealed fully in Christ. The chapter must be read in continuity with the christological exposition of chapters 1–10 and the exhortations of chapters 10 and 12, forming the theological backbone that connects doctrinal reflection to practical perseverance.",
+        "The programmatic definition in verse 1 introduces the key term πίστις (pistis), which the author defines through two substantives: ὑπόστασις (hypostasis), meaning \"substance,\" \"assurance,\" or \"confident reality,\" and ἔλεγχος (elenchos), denoting \"conviction\" or \"evidence.\" Scholarly debate persists regarding whether hypostasis carries an objective sense (faith as the actual substance or reality of hoped-for things) or a subjective sense (faith as confident assurance). The semantic range in Hellenistic usage and the author's earlier employment of the term in 1:3 and 3:14 suggests a nuanced integration of both dimensions—faith genuinely participates in eschatological realities while simultaneously producing subjective certainty.",
+        "The structure follows a deliberate chronological progression from creation through the antediluvian patriarchs, the Abrahamic covenant community, the exodus generation, and finally to an accelerating catalogue of judges, kings, and prophets. Each example illustrates faith's essential orientation toward divine promise rather than present circumstance. The repeated anaphoric construction πίστει (pistei, \"by faith\") creates powerful rhetorical momentum while establishing a unified community of witnesses across salvation history. Particularly significant is the author's emphasis that these exemplars \"died in faith, not having received the promises\" (verse 13), which establishes an eschatological tension resolved only in Christ. The chapter concludes by asserting that these ancient witnesses require the believing community's completion, thereby binding readers into the ongoing narrative of redemptive history and preparing for chapter 12's climactic call to endurance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hebrews 11: Prophetic perspective",
+      "overview": [
+        "The eleventh chapter of Hebrews was composed during the apostolic age, likely in the decade before Jerusalem's destruction in AD 70, addressing Jewish believers tempted to abandon their confession of Christ and return to the shadows of the old covenant. This magnificent passage functions as a prophetic retrospective, looking backward across two millennia of redemptive history to demonstrate that faith has always been the singular means by which God's people apprehend His promises, whether those promises were centuries away or standing before them in flesh.",
+        "Within the grand arc of Scripture, this chapter spans nearly the entire biblical narrative—from Abel's offering at the threshold of human history, through the patriarchal promises to Abraham, Isaac, and Jacob, into the exodus deliverance under Moses, the conquest under Joshua, and the tumultuous era of the judges and prophets. The author deliberately selects witnesses whose lives demonstrate that authentic faith reaches forward to grasp realities not yet visible, trusting the God who speaks concerning things that do not yet exist.",
+        "The typological density here is extraordinary. Abel's accepted sacrifice prefigures the blood that speaks better things than his own. Enoch's translation without death anticipates the resurrection hope. Noah's ark points to salvation through judgment. Abraham's journey toward an unseen city whose architect is God foreshadows the heavenly Jerusalem descending at history's consummation. Isaac's figurative resurrection from the altar of Moriah shadows forth Christ's actual resurrection. Moses' refusal of Egypt's treasures for reproach with God's people typifies the suffering Messiah who would endure the cross, despising its shame.",
+        "The prophetic climax arrives in verses 39 and 40, where the author reveals that these ancient witnesses, though commended for their faith, did not receive the full promise—because God had planned something better involving us. The \"something better\" is Christ Himself, the substance casting all those shadows. The old covenant saints looked forward through types and prophecies; we look backward to an accomplished redemption and forward to its consummation.",
+        "For the church living between Christ's two advents, this chapter issues both comfort and summons. We walk by the same faith as Abraham, yet with greater light—knowing the Name, beholding the Cross, possessing the Spirit. We too are strangers seeking a homeland, a city with foundations, the resurrection of the body, and the world to come. The great cloud of witnesses has run their leg of the race; now we run ours, looking unto Jesus, faith's author and perfecter."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "58_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.990585+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

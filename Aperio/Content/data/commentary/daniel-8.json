@@ -1,0 +1,57 @@
+{
+  "book": "Daniel",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel's Vision of the Ram and the Goat",
+      "overview": [
+        "The spiritual heart of this passage is learning to recognize God's sovereign control over world powers that seem overwhelming to human observers. Daniel's night vision reveals that even the most formidable earthly kingdoms exist within God's predetermined plan and will ultimately answer to His judgment.",
+        "Daniel witnesses a ram with two horns—representing the combined powers of Media and Persia—stamping across the earth in apparent dominion. A goat suddenly appears with a prominent horn between its eyes, rushing with such fury that it seems unstoppable. Yet this vision isn't primarily about military might or geopolitical conquest. It's about perspective. From the divine vantage point, kingdoms that inspire fear and awe in human hearts are ultimately temporary fixtures in God's kingdom timeline.",
+        "The angel Gabriel later interprets the vision, revealing that the goat represents the Greek empire under Alexander the Great. What Daniel witnesses—the goat's horn shattering and being replaced by four smaller horns—prophetically describes the fragmentation of Alexander's kingdom after his death. But more importantly, this revelation comforts Daniel by showing him that God knows and orchestrates history's unfolding.",
+        "For believers facing uncertain times, this passage speaks directly to our anxiety about world events and powerful forces beyond our control. We live in an age of rapid change, institutional upheaval, and apparent chaos. Yet Daniel's vision invites us to lift our eyes from the immediate crisis to see God's hand orchestrating all things toward His purposes. No political leader, pandemic, or power structure surprises the God who already knows the end from the beginning.",
+        "The challenge isn't intellectual—it's spiritual trust. When headlines overwhelm and fear tempts us toward despair, we need the same vision Daniel received: assurance that our times are in God's hands and His kingdom transcends every earthly power.",
+        "What area of world events or personal circumstances tempts you to forget that God remains sovereign? How might trusting in His hidden orchestration of history reshape your daily peace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 8: Scholarly study",
+      "overview": [
+        "Daniel 8 presents a vision dated to the third year of Belshazzar's reign, marking a significant transition in the book as the language shifts from Aramaic back to Hebrew, signaling a renewed focus on matters particularly relevant to the Jewish community. The prophet finds himself transported in vision to Susa, the administrative capital of the later Persian Empire, positioning him geographically at the nexus of the coming imperial transitions he is about to witness.",
+        "The vision centers on two principal animals: a ram (*'ayil*) with two horns of unequal height and a male goat (*tsaphir*) possessing a conspicuous horn between its eyes. The ram's irresistible westward, northward, and southward expansion clearly symbolizes Medo-Persian dominion, while the goat charging from the west \"without touching the ground\" represents the astonishing velocity of Alexander the Great's conquests. The interpretive angel Gabriel explicitly identifies these as the kings of Media-Persia and Greece, making this chapter one of the most transparent prophetic texts in the Hebrew Bible.",
+        "The breaking of the great horn and emergence of four notable horns corresponds to the division of Alexander's empire among his successors, the Diadochi. Scholarly attention particularly focuses on the \"little horn\" arising from one of these four, whose actions against the \"host of heaven,\" the \"Prince of the host,\" and the sanctuary point unmistakably to Antiochus IV Epiphanes. The term *tamid* (the \"continual\" offering) appears prominently, referencing the daily sacrificial system that Antiochus suspended in 167 BCE.",
+        "The temporal indicator of 2,300 \"evenings and mornings\" (*'erev boqer*) has generated considerable interpretive debate. Most critical scholars connect this to the approximately three-and-a-half years of Antiochus's desecration, though the precise calculation remains contested—whether referring to 2,300 individual evening and morning sacrifices (roughly 1,150 days) or 2,300 full days.",
+        "The chapter's concluding note that Daniel was \"appalled\" and \"did not understand\" introduces an important canonical function: these visions require further revelation, preparing readers for the expanded interpretation in chapters 10–12. This deliberate incompleteness invites ongoing theological reflection on divine sovereignty over imperial powers and ultimate vindication of the faithful."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 8: Prophetic perspective",
+      "overview": [
+        "Daniel chapter eight unfolds approximately 551 years before the birth of Christ, during the third year of Belshazzar's reign over Babylon, placing this vision just years before Babylon's fall to the Medo-Persian Empire. Within the grand arc of redemptive history, this revelation arrives during the Exile period, when God's people languish under Gentile dominion yet receive extraordinary prophetic disclosure about the ages to come. The vision itself concerns events that would transpire roughly three to four centuries later, and remarkably, every element received precise historical fulfillment before the incarnation of Christ.",
+        "The ram with two horns represents Medo-Persia, the higher horn depicting Persian dominance within the alliance. The male goat charging from the west with blinding speed is Greece under Alexander the Great, whose singular horn signifies his unrivaled military genius. Alexander's sudden death at thirty-two and the subsequent fourfold division of his empire among his generals—Cassander, Lysimachus, Seleucus, and Ptolemy—fulfill with startling accuracy the vision of the great horn being broken and four notable ones arising in its place.",
+        "From one of these emerges the \"little horn,\" historically identified as Antiochus IV Epiphanes, the Seleucid tyrant who desecrated Jerusalem's temple in 167 BC, erected an altar to Zeus, and sacrificed swine upon it. His persecution of the saints lasted approximately 2,300 days until Judas Maccabeus cleansed the sanctuary—an event commemorated in Hanukkah. Yet this historical fulfillment establishes a prophetic pattern that casts shadows forward into eschatological reality. Antiochus becomes the type of the ultimate Antichrist, the final world ruler who will magnify himself against the Prince of princes, desecrate another temple, and be broken \"without human hand.\"",
+        "The angelic interpreter Gabriel appears here for the first time in Scripture, later commissioned to announce Messiah's coming to Daniel and eventually to announce His birth to Mary. This connection binds the vision of Gentile tyranny to the coming of the One who will shatter all earthly kingdoms.",
+        "For the church dwelling between Christ's two advents, Daniel eight speaks profound comfort. Every Antiochus will fall. Every tyrant who touches God's people and profanes holy things operates under divine limitation—numbered days, measured trampling. The same God who foresaw Alexander's conquests centuries before and terminated Antiochus's blasphemies sees the end from the beginning concerning present and future opposition. The sanctuary will be cleansed. The saints will be vindicated. The Prince of princes shall stand, and His kingdom shall know no end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.226426+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Isaiah",
+  "chapter": 66,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 66 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 66: The God Who Knows the Humble Heart",
+      "overview": [
+        "The final chapter of Isaiah holds a breathtaking vision of God's ultimate restoration and the stunning reality that heaven and earth cannot contain Him, yet His eyes perpetually rest on the humble and contrite. This is the prophet's magnificent closing word: not merely about what God will do, but about whom God treasures.",
+        "Isaiah begins by dismantling human presumption about worship. The temple—Israel's greatest architectural pride, the place where heaven supposedly descended—cannot contain the infinite God. Elaborate sacrifices and elaborate rituals mean nothing if the heart that offers them has turned away. Then, with startling tenderness, Isaiah reveals what actually captures God's attention: \"This is the one I esteem: he who is humble and contrite in spirit, and trembles at my word\" (v. 2). God's eyes bypass the impressive and fix upon the broken, the small, the honest-before-God.",
+        "This word cuts deeply into how we actually live. We construct spiritual performances—the right words in prayer, the right appearance at church, the right kind of service—hoping God will notice. Isaiah suggests that God's gaze has never left the person quietly repenting in their car, the parent humbly asking forgiveness, the believer admitting they don't have it all figured out. Spiritual greatness in God's economy looks like radical honesty about our smallness.",
+        "The chapter then sweeps forward to cosmic renewal: a new heavens and new earth where God's people will worship Him eternally, where tears will be wiped away, where creation itself will be restored. This future hope anchors our present humility. Because God is moving history toward complete restoration, we needn't defend ourselves, prove ourselves, or build monuments to ourselves now.",
+        "Isaiah 66 asks us this: What would change in your spiritual life if you truly believed God treasures your honest poverty of spirit more than your public piety? Where might humble confession replace careful performance?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 66: Scholarly study",
+      "overview": [
+        "Isaiah 66 constitutes the culminating chapter of the Isaianic corpus, forming an inclusio with chapter 1 through its shared vocabulary of sacrifice, rebellion, and divine judgment. This final oracle emerges from the post-exilic community grappling with the reconstruction of worship and identity, though the material reflects layers of prophetic tradition spanning from the eighth-century prophet through later disciples. The chapter oscillates between severe judgment and extraordinary promise, presenting YHWH's definitive word on true worship, the fate of the nations, and the eschatological renewal of creation.",
+        "The chapter opens with a striking divine declaration that relativizes temple theology: heaven is YHWH's throne and earth his footstool, rendering any humanly constructed dwelling place inherently inadequate. The Hebrew term *bayit* (house) carries theological weight throughout Israel's history, and here the prophet challenges those who would confine divine presence to architectural structures. YHWH's gaze falls instead upon the *ʿānî* (afflicted, humble) and the contrite in spirit—those who tremble at his word. This emphasis on interior disposition over external ritual resonates with earlier prophetic critiques while anticipating New Testament themes.",
+        "Verses 7-14 introduce the extraordinary image of Zion giving birth before labor pains, employing the feminine noun *ḥêl* (birth pangs) to describe an unprecedented divine act of restoration. This maternal metaphor for Jerusalem's restoration defies natural expectation, signifying that YHWH's redemptive work transcends ordinary causation. The passage envisions nursing comfort and abundant prosperity flowing from the restored city.",
+        "The chapter's conclusion broadens to cosmic scope, depicting YHWH's judgment by fire and sword against those practicing abominable rites, while simultaneously gathering survivors from all nations to witness divine glory. The final verses present an enduring new heavens and new earth where all flesh comes to worship, yet closes with the disturbing image of corpses whose worm does not die—a passage later appropriated in Second Temple literature and by Jesus himself. Interpreters debate whether this conclusion represents later editorial expansion, though its jarring juxtaposition of universal worship and eternal judgment creates a fitting capstone to Isaiah's complex theological vision."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 66: Prophetic perspective",
+      "overview": [
+        "Isaiah 66 stands as the climactic conclusion to Isaiah's prophetic vision, written approximately 700 years before Christ during the latter years of the eighth century BC, when Judah existed under the shadow of Assyrian dominance and the northern kingdom had already fallen. This final oracle belongs to the section of Isaiah often called the Book of Consolation, where the prophet's gaze extends far beyond immediate historical circumstances to encompass the entire sweep of redemptive history—from the return from Babylonian exile, still 150 years future from Isaiah's time, all the way to the new heavens and new earth that remain yet unfulfilled even in our present age.",
+        "Within the grand arc of salvation history, Isaiah 66 functions as a prophetic telescope collapsing multiple horizons into a single vision. The chapter opens with a thundering declaration that heaven is God's throne and earth His footstool, rendering all merely external worship insufficient. This strikes at the heart of temple religion and prepares the way for the transition from old covenant shadows to new covenant substance. The one to whom the LORD looks is the humble, contrite spirit who trembles at His word—a reality only fully realized when Christ inaugurates worship in Spirit and truth, making every believer a living temple.",
+        "The imagery of Jerusalem travailing and bringing forth children instantaneously finds its typological fulfillment in the birth of the Church at Pentecost, when three thousand souls were born in a single day. Yet the vision extends further still, depicting nations streaming to Zion, Gentiles brought as an offering to the LORD, and some taken as priests and Levites—a radical reconstitution of covenant community that finds its substance in the royal priesthood of all believers from every tribe and tongue.",
+        "The chapter's final verses contain prophecies both fulfilled and pending. The going forth to witness God's glory among the nations has been inaugurated through apostolic mission and continues through the Church's witness. Yet the vision of new heavens and new earth, where all flesh comes to worship before the LORD from new moon to Sabbath, awaits the consummation when Christ returns. The sobering final image of those who rebelled against God serves as eternal warning.",
+        "For the Church dwelling between the advents, Isaiah 66 calls us to humble, heart-deep worship rather than empty ritual, assures us that God's purposes for gathering the nations continue through our witness, and fixes our hope on that approaching day when the new creation finally and fully arrives, and every knee bows before the King who reigns forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_066",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.902129+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

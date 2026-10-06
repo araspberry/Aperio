@@ -1,0 +1,55 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 12: The Body of Christ in Beautiful Diversity",
+      "overview": [
+        "The Spirit of God gives different gifts to different people—not to divide the church, but to knit it together into something far greater than any individual could be alone. Paul's vision here is radical: your gifts matter precisely because you are not the whole body, and the body cannot work without you.",
+        "In Corinth, the church was fragmenting over spiritual gifts, especially glossolalia—speaking in tongues. Some believers felt superior, thinking their gifts marked them as more spiritual or closer to God. Others felt inferior, wondering if their quieter callings had any real value. Paul addresses this with a stunning reorientation: the Spirit distributes gifts \"to each one individually just as he wills\" (12:11). No gift comes through human ambition or pride. All come from the same Spirit, the same Lord, the same God. This is humbling and liberating at once.",
+        "The body metaphor transforms how we understand church life. An eye cannot say to a hand, \"I don't need you,\" nor can a head say to the feet, \"I don't need you.\" In fact, \"the parts of the body that seem to be weaker are indispensable\" (12:22). Think about this: the unglamorous parts—your digestive system, your immune system, your circulation—keep you alive. So it is in the church. The greeter, the caregiver, the silent intercessor, the faithful tither, the one who listens—these are not secondary. They are essential.",
+        "This passage confronts our tendency to hierarchy and comparison. It calls the ambitious to humility and the discouraged to dignity. Every Christian has received at least one gift. Every gift serves the common good, the building up of Christ's body. You are not an ornament in the church; you are an organ. Without you, something is missing.",
+        "Where have you devalued your own gifts, or dismissed someone else's as less important? What would it mean to receive your calling—whatever it is—as a direct assignment from the Spirit himself?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 12: Scholarly study",
+      "overview": [
+        "The twelfth chapter of Paul's first letter to the Corinthians represents a pivotal theological intervention addressing divisions that had emerged within the assembly at Corinth concerning the exercise and valuation of spiritual gifts. Writing around 55 CE from Ephesus, Paul responds to reports and written inquiries from a community fractured by socioeconomic stratification and competing claims to spiritual superiority. The Corinthian context, shaped by Greco-Roman values of honor, status, and rhetorical prowess, had produced a community where certain dramatic manifestations—particularly glossolalia—were being elevated above other forms of service, creating hierarchies antithetical to Paul's ecclesiological vision.",
+        "Paul opens with the phrase \"concerning spiritual things\" (peri tōn pneumatikōn), employing a term that could denote either spiritual persons or spiritual gifts, an ambiguity perhaps intentional given Corinthian tendencies toward spiritual elitism. He establishes christological confession as the fundamental criterion for authentic Spirit-inspiration, distinguishing Christian prophecy from the ecstatic utterances common in Corinthian religious culture. The term \"gifts\" (charismata) appears prominently, derived from charis (grace), emphasizing that these endowments are unmerited distributions of divine favor rather than achievements warranting boasting.",
+        "The celebrated body metaphor occupying verses 12–27 draws upon a well-established trope in ancient political discourse, notably Menenius Agrippa's fable and Stoic conceptions of cosmic unity. However, Paul radically subverts conventional applications of this imagery. Whereas Greco-Roman usage typically justified existing hierarchies by urging lower members to accept their station, Paul inverts the valuation: the \"less honorable\" and \"weaker\" members receive greater honor and prove indispensable. This rhetorical reversal challenges Corinthian assumptions rooted in social stratification.",
+        "The chapter concludes with a hierarchical listing—apostles, prophets, teachers—followed by rhetorical questions expecting negative answers, suggesting that diversity rather than uniformity characterizes authentic community. Scholarly debate continues regarding whether Paul's ordering reflects functional importance, chronological priority in community foundation, or strategic rhetoric addressing Corinthian overvaluation of tongues, which notably appears last. Within the broader canonical context, this passage establishes foundational pneumatology developed further in Romans 12 and Ephesians 4, while anticipating the love ethic of chapter 13, which Paul positions as the hermeneutical key for proper gift exercise."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 12: Prophetic perspective",
+      "overview": [
+        "This epistle was penned by the apostle Paul approximately twenty-five years after the resurrection of Christ, during his third missionary journey around AD 55. The church at Corinth, planted just a few years earlier, struggled with division, immaturity, and the misuse of spiritual gifts. This chapter arrives in the unfolding drama of redemption at a pivotal moment—the age of the Church, that mysterious era between Pentecost and the Parousia when the Spirit has been poured out upon all flesh and the body of Christ is being built from every tribe and tongue.",
+        "Looking backward through the corridors of Scripture, one discerns that what Paul describes here represents the fulfillment of ancient longings. In the wilderness, Moses cried out, \"Would that all the Lord's people were prophets, that the Lord would put his Spirit upon them!\" Joel prophesied of a day when the Spirit would be poured out on sons and daughters, old and young alike. At Pentecost, this prophetic word found its \"yes\" in Christ, and now in Corinth, Paul explains the implications: one Spirit distributing diverse gifts to one body for the common good.",
+        "The body imagery itself carries rich typological weight. Adam's body was formed from dust and given life by divine breath; Eve was built from Adam's side as he slept. Now Christ, the last Adam, has fallen into the sleep of death, and from His pierced side flows blood and water—the church being formed as His bride and body. What was shadow in Eden has become substance in the new creation community. The many members with their varied functions reflect the unity-in-diversity of the Triune God Himself, whose own eternal fellowship of distinct persons in perfect oneness becomes the pattern for redeemed humanity.",
+        "Paul's insistence that the eye cannot say to the hand \"I have no need of you\" addresses not merely Corinthian pride but speaks eschatologically. The gifts operating now are foretastes of the age to come, provisional endowments for the church militant that will give way to something greater when the perfect comes. Prophecy, tongues, knowledge—these partial revelations serve until faith becomes sight.",
+        "For the church living in this already-and-not-yet tension, the message resounds with enduring power: believers have been baptized by one Spirit into one body and given gifts not for self-exaltation but for mutual edification. Until Christ returns to present His bride complete, each member must steward their grace-gift with humility, recognizing that the foot and the ear, the seen and the unseen, all belong to the same glorious whole being prepared for eternal communion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.803935+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

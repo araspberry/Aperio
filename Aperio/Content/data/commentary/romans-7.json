@@ -1,0 +1,55 @@
+{
+  "book": "Romans",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 7: The Battle Within",
+      "overview": [
+        "In Romans 7, Paul strips away all pretense and invites us into the raw, honest struggle of the Christian heart—the bewildering reality that knowing what is right and desperately wanting to do it are not the same thing. This passage names a battle so universal and so painful that countless believers have wept in recognition of themselves within its pages.",
+        "Paul's honesty is almost shocking. He does not present Christianity as a simple moral upgrade where Christians effortlessly obey God's law. Instead, he describes a fractured self—a will that approves the good yet finds itself enslaved to destructive impulses. The law, he explains, is not the problem; it is holy and true. The problem is that sin dwells within us, and even with the best intentions, we discover we cannot liberate ourselves through willpower alone. We are, he confesses, \"wretched\" people trapped in this body of death.",
+        "But here is what makes this passage beautiful: Paul's honesty creates space for hope. He is not describing the Christian life as one of mastery but of acknowledgment. He is teaching us that spiritual maturity does not mean the end of internal struggle; it means facing that struggle truthfully. When we stop pretending we are fine and admit the depth of our bondage, we are finally positioned to cry out for rescue.",
+        "This passage demolishes the myth of self-help Christianity. It refuses to let us believe that a new year's resolution, a better discipline, or a stricter moral code will save us from ourselves. Instead, it drives us toward the only rescue possible: the grace of Christ that does what the law could never do.",
+        "When you feel yourself caught in cycles you cannot break, when you hate what you are doing even as you do it—you are not failing at Christianity. You are precisely where Paul knew every honest believer would be: desperate enough to need a Savior.",
+        "What internal battle is the Holy Spirit inviting you to acknowledge rather than hide?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 7: Scholarly study",
+      "overview": [
+        "Romans 7 occupies a pivotal position in Paul's extended argument concerning the relationship between law, sin, and the believer's experience of moral struggle. Writing to the Roman church around 57 CE, Paul addresses a predominantly Gentile congregation while engaging deeply with Jewish theological categories, particularly the role of Torah in salvation history. This chapter functions as a bridge between the discussion of freedom from sin's dominion in chapter 6 and the triumphant declaration of life in the Spirit in chapter 8.",
+        "The chapter opens with an analogy drawn from marriage law, illustrating how death releases one from legal obligation. Paul's use of the verb *katargeō* (to render inoperative or release) in verse 6 indicates not the abolition of the law but rather a change in the believer's relationship to it through participation in Christ's death. The law itself remains holy, righteous, and good (*agathos*), as Paul emphatically affirms in verse 12, countering any suggestion of antinomianism.",
+        "The interpretive crux of Romans 7 centers on the identity of the \"I\" (*egō*) who experiences intense moral conflict in verses 14–25. Three major positions have emerged in scholarly discourse: the autobiographical interpretation sees Paul describing his pre-conversion experience under Torah; the existential reading, championed by interpreters following Augustine and Luther, understands this as depicting ongoing Christian struggle with indwelling sin; while a third rhetorical approach views the *egō* as a literary device representing humanity under law apart from the Spirit's empowerment. The shift from past tense in verses 7–13 to present tense in verses 14–25 complicates resolution, though this may reflect rhetorical vividness rather than temporal distinction.",
+        "Paul's profound statement that sin (*hamartia*), personified as an active agent, exploits the law's commandments to produce death reveals his sophisticated understanding of human moral psychology. The law exposes and even provokes transgression without providing power for obedience. The anguished cry in verse 24—\"Wretched man that I am!\"—gives way to thanksgiving for deliverance through Christ, preparing readers for chapter 8's exposition of Spirit-empowered life. This theological movement from condemnation to liberation remains central to Pauline soteriology and subsequent Protestant reflection on sanctification."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 7: Prophetic perspective",
+      "overview": [
+        "Romans 7 emerges from the pen of the apostle Paul around AD 57, approximately twenty-five years after the resurrection of Christ, during the fullness of the apostolic age when the church was being established among both Jews and Gentiles throughout the Roman Empire. This epistle was written to believers in the imperial capital as Paul prepared to visit them, setting forth the most systematic exposition of the gospel found anywhere in Scripture. Within the grand arc of redemptive history, this chapter stands firmly in the Church Age, between Pentecost and the Second Coming, addressing the believer's relationship to the Mosaic law now that the new covenant has been inaugurated through Christ's blood.",
+        "Paul opens with a profound typological illustration drawn from marriage law. Just as a woman is bound to her husband while he lives but freed upon his death, so believers have died to the law through the body of Christ. This death is not merely metaphorical but participatory—united to Christ in His crucifixion, the old covenant jurisdiction over God's people has been terminated. The believer is now married to another, to Him who was raised from the dead, that fruit might be borne unto God. Here the exodus pattern resurfaces: as Israel was brought out from under Pharaoh's dominion to belong to Yahweh at Sinai, so the church has been delivered from the law's condemning power to belong wholly to the risen Christ.",
+        "The anguished cry that follows—\"O wretched man that I am!\"—has echoed through centuries of Christian experience. Paul lays bare the internal warfare that marks existence in this present evil age. The law, though holy, righteous, and good, could only expose sin and inflame rebellion in the fallen heart. It served as a mirror revealing the disease but offered no remedy. Sin, seizing opportunity through the commandment, produced death. This was the law's pedagogical purpose—to drive humanity to despair of self-righteousness and flee to Christ.",
+        "The eschatological tension pervading this chapter is unmistakable. Believers live between the already of redemption accomplished and the not yet of redemption consummated. The deliverance Paul anticipates—\"through Jesus Christ our Lord\"—has been secured at the cross yet awaits full manifestation when mortality is swallowed up in life. Until that day, the church groans alongside all creation, awaiting the redemption of the body, clinging to the Victor who has conquered sin, death, and the law's curse forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.751121+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

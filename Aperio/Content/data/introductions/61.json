@@ -1,0 +1,135 @@
+{
+  "book": "1 John",
+  "bookIndex": 61,
+  "status": "Editorial draft",
+  "title": "1 John: Truth Made Visible in Love",
+  "subtitle": "Confidence in the Son becomes a life of honesty, discernment, and practical care.",
+  "atAGlance": {
+    "genre": "Pastoral exhortation or sermon traditionally called a letter",
+    "setting": "A community affected by division and competing claims about Jesus and the life of faith.",
+    "composition": "Anonymous within the text; traditionally attributed to John the apostle. Usually associated with the Johannine tradition in the later first century; precise authorship is debated.",
+    "audience": "Believers needing assurance after a rupture in their fellowship."
+  },
+  "sections": [
+    {
+      "title": "Fellowship grounded in a real encounter",
+      "paragraphs": [
+        "First John opens with testimony to what has been heard, seen, and touched concerning the word of life. Its invitation is fellowship with the Father and His Son, and with those who bear witness. The bodily language matters. The Christian message concerns the life made known in Jesus, and that message is meant to create shared joy.",
+        "The work’s language is simple and often forceful: light and darkness, truth and falsehood, love and hatred, life and death. These contrasts are used to clarify a community’s loyalties after division. Their simplicity should not conceal their depth. First John repeatedly asks how claims about God are verified in conduct. A person’s confession, honesty about sin, and treatment of other believers belong to one examination of life."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The Johannine setting and the break in fellowship",
+      "paragraphs": [
+        "The work does not name its author or provide a conventional opening address. Tradition associates it with John son of Zebedee, while many scholars identify its voice more broadly with the circle that preserved the Gospel of John. The exact relationship among the Gospel and the three letters remains debated. A later first-century setting, often around AD 90, is commonly proposed.",
+        "The text refers to people who have left the community and to disputed claims about Jesus. The opponents’ full position cannot be reconstructed from the author’s response alone. The clear concern is the confession of Jesus Christ come in the flesh and the inseparability of that confession from faithful life. The writing seeks to reassure those who remain while sharpening their ability to distinguish trustworthy teaching from deception."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Walking in light without pretending to be sinless",
+      "paragraphs": [
+        "The declaration that God is light leads immediately to the question of how people walk. Fellowship with Him cannot be maintained alongside a deliberate commitment to darkness. Yet the opening chapter also rejects the claim that one has no sin and gives a place to confession, forgiveness, and cleansing. Jesus is described as an advocate when believers fail.",
+        "Later passages speak starkly about the incompatibility of sin with life born of God. These statements must be heard with the earlier acknowledgment of continuing human failure. The work calls for a life directed toward righteousness and truth while providing assurance of mercy. It should neither be reduced to permission for wrongdoing nor used to convince a struggling believer that every failure proves all faith unreal."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Love has a body and a cost",
+      "paragraphs": [
+        "The command to love one another is tied to Jesus’ own self-giving. The example becomes concrete when someone possesses material resources and encounters a fellow believer in need. Love cannot be satisfied with words while withholding help. The work’s account of knowing God reaches into the opening of a hand and the sharing of what sustains life.",
+        "The declaration that God is love explains the source of this response. God’s initiative precedes human love and makes it possible. Love also addresses fear, particularly fear concerning judgment, by drawing the believer into the confidence of relationship with God. This is not an invitation to ignore truth; the surrounding passages continue to test teaching and conduct. Love and discernment are held together because both concern the life God gives."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Discernment, assurance, and the life of the Son",
+      "paragraphs": [
+        "The instruction to test the spirits asks whether a message acknowledges Jesus Christ in the way the community has received Him. The language of “antichrist” belongs to this immediate conflict over confession and should not be turned automatically into a label for a modern political figure. The issue is opposition to the truth about Christ and the damage such teaching can do.",
+        "The final chapter emphasizes testimony, faith, prayer, and the assurance of eternal life in the Son. Some details concerning sin and intercession remain difficult, but the stated purpose is that believers may know the life they have received. The closing warning against idols brings attention back to the reality of the God made known through Jesus.",
+        "Read First John in repeated passes, allowing its recurring themes to deepen each other. Its argument often circles back rather than advancing in a straight line. The central invitation is a truthful life sustained by God’s prior love: confess Christ, acknowledge failure honestly, receive mercy, and make love tangible. Assurance grows within that shared relationship, where belief and care continue to interpret one another."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Life, light, and faithful fellowship",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "The testimony, confession of sin, obedience, love, and warnings about deception."
+    },
+    {
+      "label": "God’s children and practical love",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Righteous conduct, confidence, and care expressed in action."
+    },
+    {
+      "label": "Discernment and the source of love",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Testing the spirits and living from God’s prior love."
+    },
+    {
+      "label": "Faith, testimony, and assurance",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "Life in the Son, prayer, and the final call to fidelity."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Truth and incarnation",
+      "description": "Jesus Christ’s coming in the flesh grounds the confession."
+    },
+    {
+      "name": "Love in action",
+      "description": "Knowledge of God becomes visible through costly care."
+    },
+    {
+      "name": "Assurance with honesty",
+      "description": "Confidence includes confession, forgiveness, and faithful growth."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Later first-century Johannine communities",
+    "context": "The work addresses a divided early Christian fellowship. Its references to eternal life and final judgment shape present assurance rather than a dated narrative.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 5,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Later first-century Johannine communities",
+      "note": "The work addresses a divided early Christian fellowship. Its references to eternal life and final judgment shape present assurance rather than a dated narrative."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 John · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "1 John · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/1-john/lessons/summary-of-1-john/"
+    }
+  ]
+}

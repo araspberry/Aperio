@@ -1,0 +1,58 @@
+{
+  "book": "Habakkuk",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Habakkuk 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Habakkuk 1: Wrestling with God in the Dark",
+      "overview": [
+        "When everything makes no sense and injustice floods the earth, the only honest place to stand is before God with raw, unfiltered questions. Habakkuk teaches us that doubt spoken to the Lord is not rebellion—it is the beginning of faith.",
+        "The prophet looks around and sees violence, injustice, and wickedness everywhere. The law is paralyzed. The righteous are surrounded by the wicked. And God seems distant, silent, indifferent. So Habakkuk does something remarkably courageous: he cries out his complaint directly to heaven. \"How long, Lord, must I call for help, but you do not listen?\" There is no pretense here, no spiritual posturing. This is the prayer of a man undone by reality.",
+        "What strikes us is not Habakkuk's protest, but that God invites it. The fact that this prayer is preserved in Scripture tells us something profound: the Lord values honest wrestling more than false piety. He would rather we bring our confusion to Him than nurse it in secret bitterness or abandon faith altogether. Many of us were taught that good Christians don't ask hard questions, but Habakkuk shows us otherwise. Our doubts become doors to deeper intimacy with God when we bring them to His feet instead of running from Him.",
+        "In our own seasons of confusion—when we grieve a loss we cannot understand, when we watch innocent people suffer, when God's promises seem to contradict what we observe—we can follow Habakkuk's example. We can bring our \"why\" questions into the sanctuary and wait for God's response. Faith is not the absence of questions; it is the willingness to keep seeking God even when we don't understand His ways.",
+        "The very act of crying out to God acknowledges that He is there, that He matters, that the answer matters. That is where faith begins.",
+        "What question have you been afraid to ask God? What would change if you brought it to Him honestly?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Habakkuk 1: Scholarly study",
+      "overview": [
+        "The book of Habakkuk stands as a distinctive specimen within the corpus of the Twelve Minor Prophets, presenting itself not primarily as prophetic oracle directed toward Israel or the nations, but as a dialogical exchange between the prophet and YHWH. The superscription identifies this work as \"the burden\" or \"oracle\" (Hebrew: *massa'*) which Habakkuk the prophet \"saw\" (*ḥazah*), employing visionary terminology that connects this work to the broader prophetic tradition while simultaneously establishing its unique character. The historical setting most plausibly situates the composition between 612 and 597 BCE, during the tumultuous period following Assyria's collapse and the meteoric rise of Neo-Babylonian power under Nabopolassar and Nebuchadnezzar II, a time when Judah found itself caught between competing imperial forces and internal moral decay.",
+        "The opening lament in verses 2-4 employs classic complaint formulae, with Habakkuk crying out regarding *ḥamas* (violence, wrongdoing) and *'amal* (trouble, injustice)—terms that encompass both physical brutality and systemic corruption. The prophet's anguished questioning of divine silence resonates with psalmic traditions of lament, yet here the complaint concerns not personal suffering but societal breakdown. The parallelism between \"destruction and violence\" (*šod weḥamas*) and the perversion of *torah* (instruction, law) and *mishpat* (justice) suggests comprehensive covenantal failure within Judean society itself.",
+        "The divine response in verses 5-11 introduces a startling reversal: YHWH announces the raising up of the Chaldeans (*kasdim*) as instruments of judgment. The vivid military imagery—horses swifter than leopards, cavalry spreading like eagles swooping for prey—emphasizes Babylonian ferocity and inevitability. Interpreters have debated whether this oracle originally anticipated Babylonian ascendancy or reinterpreted existing traditions following Nebuchadnezzar's campaigns. The description culminates in the troubling assertion that this nation's strength becomes its god, establishing the theological tension that drives the subsequent chapter.",
+        "The chapter concludes with Habakkuk's second complaint (verses 12-17), wherein the prophet acknowledges YHWH's eternal nature and sovereign purpose in using Babylon for judgment and correction, yet protests the apparent moral incoherence of employing a more wicked nation to punish the less wicked. This sophisticated theodicy question—how can the Holy One (*qadosh*) whose eyes are too pure to behold evil sanction such instruments—frames the profound wrestling with divine justice."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Habakkuk 1: Prophetic perspective",
+      "overview": [
+        "Habakkuk chapter one emerges from the tumultuous final decades of Judah's existence as an independent kingdom, approximately 610–605 years before the incarnation of Christ. The prophet ministered during the reign of Jehoiakim, after the righteous king Josiah had fallen at Megiddo and the brief Josianic reformation had collapsed into renewed apostasy. Babylon was rising as the dominant world power, having recently crushed Assyria, and within a generation would reduce Jerusalem to rubble. This passage stands at the threshold of exile, that great hinge point in redemptive history when God would purge His covenant people through seventy years of captivity before restoring a remnant to prepare the way for Messiah.",
+        "The chapter opens with a cry that echoes across every generation of God's suffering people: \"How long, O LORD?\" Habakkuk surveys the moral chaos engulfing Judah—violence, injustice, perverted law, and the wicked surrounding the righteous—and demands to know why the Holy One remains silent. This prophetic complaint reveals something profound about biblical faith: authentic relationship with God makes room for anguished questions. Habakkuk does not doubt God's existence; he wrestles with God's apparent inaction in the face of covenant unfaithfulness.",
+        "The divine response in verses five through eleven stuns the prophet. God is indeed working, raising up the Chaldeans as His instrument of judgment—\"that bitter and hasty nation\" whose horses are swifter than leopards and fiercer than wolves. Here emerges a pattern woven throughout Scripture: God sovereignly employs pagan empires to discipline His people while holding those empires accountable for their own wickedness. Babylon becomes a type of every worldly system that God temporarily permits to flourish before ultimate judgment falls.",
+        "This creates the prophet's deeper perplexity in verses twelve through seventeen. How can the Holy One whose eyes are too pure to behold evil use a nation more wicked than Judah to execute judgment? The Chaldeans worship their own military might, making their net and dragnet into gods. Habakkuk's question probes the mystery of divine providence that saints in every age must navigate: God's immediate purposes often remain shrouded while His ultimate purposes shine with perfect righteousness.",
+        "For the church dwelling between Christ's advents, Habakkuk's complaint and God's answer speak with urgent relevance. We too witness violence, injustice, and the apparent triumph of wickedness. Yet the coming Babylonian judgment foreshadowed a greater day when Christ the righteous Judge will set all accounts straight, vindicating patient faith and overthrowing every proud empire that exalts itself against heaven."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "35_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.363473+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-038"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

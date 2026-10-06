@@ -1,0 +1,56 @@
+{
+  "book": "Hebrews",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hebrews 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Hebrews 4: The Rest That Remains",
+      "overview": [
+        "The deepest longing of the human heart is not merely to accomplish something significant, but to find a place of true belonging and peace. Hebrews 4 invites us into that holy rest that God has always intended for His people—a rest that is both a present reality and a future promise.",
+        "The author builds upon the Old Testament story of God's rest after creation and the Israelites' failure to enter the promised land. What emerges is a profound spiritual principle: God's rest has never been withdrawn from the world; rather, many refused to enter it through unbelief. This applies directly to us. The Sabbath principle points toward something deeper than physical ceasing from labor—it whispers of a soul at peace with God, released from the burden of earning His favor and the anxiety of spiritual self-sufficiency.",
+        "Christ is the fulfillment of this rest. Through Him, the way into God's presence has been opened permanently. When we trust in Jesus, we step into a Sabbath not just for one day but for our entire existence. This doesn't mean ceasing from good works; rather, we work from a place of trust rather than striving. Our doing flows from His finished work, not the other way around.",
+        "The passage's invitation to \"hold fast to our confession\" reminds us that maintaining faith requires intention in our weary seasons. We must resist the creeping weariness that whispers we haven't done enough, achieved enough, or prayed enough. Jesus has done what we could never complete. When we feel the weight of inadequacy or the exhaustion of striving, we return to this truth: His work is finished, and in Him, we can truly rest.",
+        "Consider today: Where are you still striving rather than resting in Christ's completed work? What would it look like to trade your anxious doing for trusting obedience?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hebrews 4: Scholarly study",
+      "overview": [
+        "The fourth chapter of Hebrews continues the author's sustained exposition on the theme of divine rest, developing an intricate theological argument that weaves together Psalm 95, the Genesis creation narrative, and the wilderness wanderings of Israel. Writing to a community of Jewish Christians likely facing persecution and the temptation to abandon their confession, the author employs sophisticated rhetorical techniques characteristic of Alexandrian Judaism, possibly suggesting an educated figure within the Pauline circle, though the letter's authorship remains disputed.",
+        "Central to this chapter is the concept of \"rest\" (κατάπαυσις, *katapausis*), which the author interprets typologically across multiple horizons. The term carries layered significance: it evokes God's primordial sabbath rest following creation, the promised land that Joshua led Israel to possess, and an eschatological reality that remains available to the faithful community. The author's argument hinges on the observation that David, writing in Psalm 95 long after the conquest under Joshua, still speaks of entering God's rest as a future possibility, thereby demonstrating that the geographical inheritance of Canaan did not exhaust the divine promise. The deliberate wordplay on \"Joshua\" and \"Jesus\" (both rendered Ἰησοῦς, *Iēsous*, in Greek) in verse 8 underscores the typological superiority of Christ's salvific work over the incomplete deliverance achieved by Moses's successor.",
+        "The exhortation to \"strive\" (σπουδάσωμεν, *spoudasōmen*) to enter this rest in verse 11 presents an interpretive tension with the broader Pauline emphasis on grace, though the author likely intends not meritorious effort but earnest perseverance in faith. The passage culminates in the celebrated declaration regarding God's word as \"living and active\" (ζῶν καὶ ἐνεργής, *zōn kai energēs*), sharper than any two-edged sword, penetrating to the division of soul and spirit. This vivid imagery emphasizes divine omniscience and the impossibility of concealing one's true spiritual condition before God, to whom all must render account (λόγος, *logos*).",
+        "The chapter concludes by transitioning to the epistle's central christological affirmation: Jesus as the great high priest who has passed through the heavens yet remains capable of sympathizing with human weakness, having been tested in every respect without sin. This pastoral assurance grounds the author's invitation to approach the throne of grace with boldness, establishing the theological foundation for the extensive Melchizedekian priesthood exposition that follows."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hebrews 4: Prophetic perspective",
+      "overview": [
+        "Hebrews chapter four stands at the threshold of the new covenant era, written approximately thirty to forty years after Christ's resurrection and ascension, likely in the mid-60s AD, during a period when Jewish believers faced immense pressure to abandon their confession of Jesus as Messiah and return to the shadows of temple worship. The author writes to a community living in the already-but-not-yet tension of the church age—positioned after the cross and empty tomb but before the consummation of all things at Christ's return.",
+        "Within the grand arc of redemptive history, this chapter serves as a hinge connecting the failed wilderness generation to the present opportunity of grace, and both to the ultimate eschatological rest that awaits God's people. The writer reaches back to Psalm 95, composed centuries after Joshua led Israel into Canaan, to demonstrate that the land inheritance was never the final rest God intended. David's warning—\"Today, if you hear his voice, do not harden your hearts\"—proved that another day remained, a Sabbath-rest still future even for those dwelling in the Promised Land.",
+        "Here the typological architecture becomes luminous. The seventh-day Sabbath of creation, the wilderness wanderings, Canaan itself, and the Davidic summons all function as shadows pointing forward to a greater reality. Joshua—whose name in Greek is Jesus—brought Israel into geographical rest, yet this was merely a type of what the true Joshua would accomplish. Christ Jesus leads His people into the eternal rest of finished redemption, the cessation of works-based striving, the entering into what God Himself entered after completing His creative work.",
+        "The chapter's eschatological tension pulses through its exhortations. The promise of entering God's rest stands open now; the word of the gospel has been proclaimed; the danger of unbelief remains deadly real. What was prophesied in Eden's seventh day, pictured in Canaan's inheritance, and proclaimed through David's psalm finds its fulfillment in Christ—yet complete realization awaits the final Sabbath of the new creation.",
+        "The living and active word of God, sharper than any two-edged sword, searches hearts in this present age, exposing whether faith has truly taken root. And the chapter culminates in breathtaking comfort: our great High Priest, Jesus the Son of God, has passed through the heavens and now sits enthroned, sympathetic to our weaknesses, inviting confident approach to the throne of grace.",
+        "For the church dwelling between the advents, this chapter issues both warning and welcome. The rest remains; the door stands open; the High Priest intercedes. Today is still the day of salvation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "58_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.973343+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

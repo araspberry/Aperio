@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 8: The Establishment of God's Kingdom Through Faithful Leadership",
+      "overview": [
+        "David's consolidation of Israel's borders and his just administration of justice reveal a fundamental truth: God's kingdom advances through the obedient courage of leaders who align their power with His purposes. This chapter captures a pivotal moment when the young nation transforms from survival mode into stability and influence among the nations.",
+        "What strikes the heart here is not merely military victory but the spirit animating these conquests. David moves systematically—defeating the Philistines, securing Moab, striking down the Arameans—yet nowhere do we find pride or the restless hunger for more territory. Instead, we see a leader whose victories flow from his covenantal relationship with God. The refrain \"the LORD gave David victory wherever he went\" reminds us that genuine authority belongs to God alone. David understood this deeply; his strength was not his own.",
+        "The passage then shifts to something equally important: David's administration of justice and righteousness. He appointed judges and officials, handled the spoils wisely, and ensured that his government reflected God's character. This teaches us that authentic leadership extends beyond winning battles to building just systems. David recognized that maintaining what God had given required attention to everyday governance—how disputes were resolved, how people were treated, how resources were stewardowed.",
+        "For those of us in positions of influence today—whether in families, workplaces, churches, or communities—this passage invites crucial reflection. Do our victories remain connected to prayer and humility before God? Are we building structures of justice and care, or merely accumulating power? The strength of any endeavor rests not in our clever tactics but in our alignment with God's values of righteousness and mercy.",
+        "Where in your sphere of influence is God calling you to exercise authority with His character? What \"spoils\" of success or achievement might need to be handled with greater wisdom and justice?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 8: Scholarly study",
+      "overview": [
+        "The eighth chapter of Second Samuel presents a comprehensive summary of David's military campaigns, marking a pivotal transition from the consolidation of internal power to imperial expansion. This catalogue of victories functions as theological vindication of David's kingship, demonstrating Yahweh's faithfulness to the dynastic promises articulated in the preceding chapter. The Deuteronomistic historian employs this summary to portray David as the ideal warrior-king who subdues Israel's enemies on every front—Philistines to the west, Moabites to the east, Arameans to the north, and Edomites to the south.",
+        "The repeated refrain that \"Yahweh gave David victory wherever he went\" (verses 6, 14) employs the Hebrew verb *yasha* (יָשַׁע), connoting deliverance and salvation rather than mere military success. This theological interpretation transforms conventional ancient Near Eastern royal annals into sacred history, attributing David's achievements not to personal prowess but to divine enablement. The territorial acquisitions described here approach the idealized boundaries promised to Abraham, suggesting partial fulfillment of patriarchal covenant.",
+        "Particularly significant is David's treatment of the defeated peoples. The term *minḥah* (מִנְחָה), translated as \"tribute,\" indicates the establishment of vassal relationships typical of ancient Near Eastern imperial administration. The dedication of captured precious metals to Yahweh (verses 10–12) demonstrates David's recognition that military success demands religious gratitude, while simultaneously building treasury reserves for the temple his son would construct.",
+        "The chapter's concluding administrative list (verses 15–18) establishes David's governmental apparatus, with the phrase *mishpat utsedaqah* (מִשְׁפָּט וּצְדָקָה)—\"justice and righteousness\"—characterizing his rule using terminology associated with ideal kingship throughout the ancient Near East and Hebrew prophetic tradition. The mention of David's sons serving as *kohanim* presents interpretive difficulties, as this term typically denotes priests; some scholars suggest a broader meaning of \"royal advisors\" in this context, while others see evidence of early Israelite cultic flexibility before centralized Levitical priesthood became normative. This chapter thus establishes David's reign as paradigmatic for later messianic expectation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 8: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, during the golden age of Israel's united monarchy under David. Having secured his throne in Jerusalem and brought the ark to its resting place, David now extends his reign through military conquest, subduing the enemies that had long threatened God's people. On the grand arc of redemption, this moment stands at the apex of the Kingdom phase—the fulfillment of promises made to Abraham that his descendants would possess the land and that kings would come from his line. Yet this very zenith points forward, for David's kingdom, though glorious, remains but a shadow of the eternal kingdom to come.",
+        "The catalogue of victories recorded here carries profound typological weight. David defeats the Philistines, the Moabites, the Arameans of Zobah and Damascus, the Edomites, and receives tribute from distant peoples. The text declares with theological precision that \"the LORD gave David victory wherever he went.\" This refrain echoes forward to a greater David who would conquer not earthly nations but principalities and powers, leading captivity captive and receiving gifts from among men. When David dedicates the silver, gold, and bronze from conquered nations to the LORD, we see a pattern that finds its ultimate expression in Christ, who presents to the Father a redeemed humanity gathered from every tribe and tongue.",
+        "The mention of Edom's subjugation—\"all the Edomites became servants to David\"—fulfills the ancient oracle to Rebekah that the elder would serve the younger and Isaac's blessing that Jacob would rule over his brothers. Prophetic threads woven in Genesis find their historical outworking here, demonstrating how God's word accomplishes what He purposes across centuries.",
+        "The chapter closes with a portrait of David's administration: justice and righteousness executed among all his people, with priests and officials serving under his authority. This righteous rule anticipates Isaiah's vision of the Branch from Jesse's stump who would judge with equity and establish peace. Yet David's kingdom would fracture within two generations, the very gold he dedicated eventually plundered by foreign armies. The glory fades precisely so that hearts might yearn for an imperishable kingdom.",
+        "For the church dwelling between Christ's victory at Calvary and His return in glory, this passage proclaims both assurance and hope. Our King has already conquered every enemy in principle at the cross; we await only the full manifestation when every knee shall bow and the kingdoms of this world become the kingdom of our Lord."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.487996+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 27 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 27: The Costly Beauty of Devotion",
+      "overview": [
+        "At its heart, Leviticus 27 asks a profound question: what does it truly mean to belong to God? This closing chapter of Leviticus addresses vows and dedications—the sacred promises made when someone offers themselves, their children, animals, land, or possessions to the Lord. Rather than ending with rules disconnected from reality, God graciously provides a redemption mechanism: what has been vowed can be reclaimed by paying a specified value, acknowledging both the holiness of the vow and the legitimate needs of human life.",
+        "The passage reveals something beautiful about God's heart. He takes our promises seriously. When someone vows a person, animal, or property to His service, that commitment matters eternally. Yet God also understands our frailty. The redemption prices—adjusted for age, gender, and circumstance—show tender realism. A poor person needn't be crushed by inability to fulfill a vow; the valuation system ensures accessibility. This is grace embedded in law.",
+        "The chapter also teaches us about stewardship and true offering. The tithe that closes the chapter cannot be exchanged or redeemed—it belongs entirely to the Lord. This distinction matters: some dedications are absolute, expressing total surrender, while others allow redemption because God knows we live in a material world with real constraints. Both honor Him differently.",
+        "For modern disciples, this speaks directly to how we relate to our commitments. We promise God things—time, talents, resources, devotion—and sometimes life circumstances make fulfillment complicated. The beauty of Leviticus 27 is that it doesn't condemn this reality; instead, it provides a way forward. We can recalibrate and re-commit. More importantly, it invites us to distinguish between the non-negotiable (our fundamental offering of self) and the flexible (the specifics of how we serve).",
+        "What vow or dedication have you made to the Lord that now feels overwhelming or impossible? How might you honestly recalibrate your commitment while maintaining your devotion to Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 27: Scholarly study",
+      "overview": [
+        "Leviticus 27 constitutes the final chapter of the book and functions as an appendix addressing votive offerings and dedications to the sanctuary, providing a fitting conclusion to a text fundamentally concerned with holiness and proper approach to the divine. The chapter likely reflects priestly administrative concerns from the post-exilic period, though it preserves earlier cultic regulations regarding the redemption of persons, animals, houses, and land consecrated to Yahweh. This material stands somewhat apart from the preceding Holiness Code (Leviticus 17–26) but serves to address practical economic realities that inevitably arose when Israelites made voluntary pledges to the sanctuary.",
+        "The opening phrase employs the Hebrew term *ʿerek* (ערך), typically rendered \"valuation\" or \"equivalent value,\" which appears throughout the chapter as a technical term for the monetary assessment of dedicated items. This vocabulary reflects a sophisticated system whereby enthusiastic vows could be fulfilled through standardized payments rather than literal dedication of persons, preventing both economic hardship and practical difficulties in sanctuary administration. The valuations are scaled according to age and sex, reflecting ancient Near Eastern economic realities regarding productivity rather than inherent human worth—a distinction crucial for proper interpretation.",
+        "The chapter distinguishes between items that may be redeemed (*gāʾal*) and those designated as *ḥērem* (חרם), meaning \"devoted\" or \"banned,\" which cannot be redeemed and become permanently holy property. This irrevocable dedication category connects to broader theological concepts of total consecration and destruction found elsewhere in the Hebrew Bible, particularly in conquest narratives. The tithe regulations concluding the chapter (verses 30–33) establish that agricultural tithes belong inherently to Yahweh, distinguishing them from voluntary votive offerings.",
+        "Interpretive discussions have centered on whether these regulations reflect actual practice or idealized legislation, and whether the valuations served as upper limits or fixed rates. The relationship between this chapter and Mesopotamian temple administration practices has also generated scholarly attention, with some identifying parallels in Babylonian sanctuary economics. Within the canonical structure, Leviticus 27 grounds the preceding theological vision of holiness in economic reality, acknowledging that dedication to God necessarily involves material resources and requires ordered administration to maintain both sanctuary integrity and community welfare."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 27: Prophetic perspective",
+      "overview": [
+        "Leviticus 27 concludes the Sinaitic legislation given to Moses approximately 1,445 years before the birth of Christ, during Israel's encampment at the foot of Mount Sinai in the second year after the exodus from Egypt. This chapter addresses vows, valuations, and things devoted to the Lord, serving as a fitting capstone to the entire book of Leviticus. Within the grand redemptive arc, this passage stands at the threshold of Israel's wilderness wandering, positioned between the Exodus deliverance and the eventual conquest of Canaan—a people set apart, learning what it means to consecrate all of life to their covenant God.",
+        "The valuation system outlined here reveals a profound theological truth: everything belonging to God's people ultimately belongs to Him, yet He graciously permits redemption through substitutionary payment. When a person dedicated themselves, their family members, animals, houses, or fields to the Lord through a vow, precise silver values were established according to the sanctuary shekel. This entire framework of valuation and redemption casts a long typological shadow forward to the ultimate redemption accomplished in Christ. Where silver shekels could buy back a person from their vow, the precious blood of the Lamb would purchase humanity from the far greater bondage of sin and death.",
+        "The distinction between what could be redeemed and what was placed under the ban—devoted irrevocably to destruction—foreshadows the eschatological separation between those covered by redemption's price and those who remain under divine judgment. The firstborn of animals, already belonging to God by right of the Passover, could not be re-vowed; they were His by prior claim. So too the church, purchased by Christ's blood, belongs irrevocably to her Redeemer.",
+        "The tithing regulations closing this chapter establish that increase itself comes from God's hand and must return to Him in acknowledgment of His sovereign ownership. Every tenth animal passing under the shepherd's rod was marked as holy—a practice that whispers of the Great Shepherd who numbers His own and sets them apart as His peculiar possession.",
+        "For the church living between Christ's ascension and return, Leviticus 27 speaks with enduring force. Believers are not their own; they have been bought with a price beyond silver—the blood of the eternal covenant. The vows made, the resources stewarded, and the lives consecrated all flow from this finished redemption. What Israel enacted through ritual, the church inherits through reality: total dedication to the Holy One who valued His people at the cost of His own Son."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_027",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.003868+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

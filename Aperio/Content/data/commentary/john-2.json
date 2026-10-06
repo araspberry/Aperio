@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 2: The God Who Transforms",
+      "overview": [
+        "When Jesus turns water into wine at Cana, He announces Himself as the One who brings new life where emptiness exists—and this miracle becomes the opening statement of His transformative power that will reshape everything we know about God's presence in the world.",
+        "The wedding at Cana presents an ordinary moment that becomes extraordinary through Christ's intervention. A family faces social embarrassment when the wine runs out, but Jesus sees beyond the immediate crisis to something deeper: God's willingness to enter into human joy and provide abundantly. The servants obey His instruction to fill the jars with water, and in that act of trust, they witness glory breaking through the mundane. This isn't a miracle of necessity but of generosity—Jesus could have provided just enough, yet He creates an abundance so remarkable that the master of the feast marvels at its quality. It speaks to a God who doesn't begrudge us celebration or excellence but delights in blessing His people with more than we expect.",
+        "The second movement of this chapter shifts sharply. Jesus enters the temple and overturns tables, driven by zeal for His Father's house. Here we see the other side of Christ's transformative power: judgment and purification. The same Jesus who brings wine for celebration also brings disruption for the sake of holiness. His body becomes the true temple—the place where God dwells and meets humanity—replacing the institution that had become corrupted.",
+        "These two scenes teach us that Jesus transforms both our celebrations and our compromises. He sanctifies joy and refuses to accept the profane masquerading as sacred. In our own lives, this means inviting Christ into both our everyday moments and our places of spiritual compromise. He offers abundance where we've known scarcity, and He calls us to surrender where we've grown comfortable with spiritual half-measures.",
+        "What areas of your life are you inviting Jesus to transform—and where might He be calling you to surrender comfort for the sake of greater holiness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 2: Scholarly study",
+      "overview": [
+        "The second chapter of the Fourth Gospel presents two narratives that function programmatically for the theological vision of the entire work: the transformation of water into wine at Cana and the cleansing of the Jerusalem temple. Both episodes are united by the theme of replacement and fulfillment, wherein Jesus supersedes the institutions and rituals of Second Temple Judaism with something qualitatively superior.",
+        "The wedding at Cana introduces the first of John's \"signs\" (*sēmeia*), a term the evangelist employs distinctively to denote miraculous acts that reveal Jesus' glory and demand faith response. The six stone water jars, explicitly designated for Jewish purification rites (*katharismos*), held between 120 and 180 gallons—an extraordinary abundance that echoes prophetic imagery of eschatological blessing. The transformation of purification water into superior wine signals that Jesus inaugurates the messianic age anticipated in texts such as Isaiah 25:6 and Amos 9:13-14. The steward's remark about the \"good wine\" (*kalos oinos*) kept until now carries profound irony, as he unknowingly testifies to the eschatological inbreaking occurring in Jesus' ministry. Mary's presence and Jesus' enigmatic address \"Woman\" (*gynai*)—respectful but creating formal distance—anticipates the cross scene where similar terminology appears.",
+        "The temple incident in John occurs strikingly early compared to the Synoptic placement during Passion Week, a displacement that has generated substantial scholarly discussion. Whether John follows an independent chronological tradition or arranges material thematically remains debated. Jesus' reference to \"my Father's house\" (*oikos tou patros mou*) constitutes an implicit christological claim that the authorities perceive as provocative. The saying concerning destroying \"this temple\" (*naos*) and raising it in three days operates on John's characteristic level of misunderstanding and deeper meaning—the narrator explicitly identifies Jesus' body as the referent, visible only through post-resurrection retrospection.",
+        "The chapter concludes with a summary noting Jesus' signs in Jerusalem and the faith they generated, yet the evangelist immediately qualifies this response: Jesus \"did not entrust himself\" (*ou episteuen*) to such believers because he knew human nature's unreliability. This literary device introduces the theme of inadequate faith that will recur throughout the Gospel, distinguishing superficial sign-faith from authentic belief grounded in Jesus' revelatory word."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 2: Prophetic perspective",
+      "overview": [
+        "John chapter two unfolds approximately three years before the crucifixion, at the very threshold of Christ's public ministry, likely around AD 27. This passage stands at a pivotal hinge point in redemptive history—the long-awaited Messiah has been baptized, the Spirit has descended, and now the Son of God begins to manifest His glory to a covenant people who have waited through four centuries of prophetic silence since Malachi.",
+        "The wedding at Cana carries profound typological weight that reverberates across the entire biblical canon. When Mary declares \"they have no wine,\" she unknowingly articulates the spiritual bankruptcy of Israel under the old covenant. The six stone waterpots, designated for Jewish purification rites, stand as silent witnesses to a system that could cleanse externally but never satisfy the deepest thirst of the human soul. Christ's transformation of water into wine—and wine of surpassing quality—announces that the age of shadow is giving way to substance. What Moses' law could never accomplish, the true Bridegroom now performs. This miracle points backward to the messianic banquet prophesied in Isaiah 25, where the Lord of hosts would prepare \"a feast of aged wine\" on Mount Zion, and forward to the marriage supper of the Lamb described in Revelation 19.",
+        "The temple cleansing that follows carries even weightier eschatological significance. When Jesus declares \"Destroy this temple, and in three days I will raise it up,\" He prophesies both His death and resurrection while simultaneously announcing the obsolescence of the entire sacrificial system. The Jerusalem temple, for all its grandeur, was merely a shadow of the true dwelling place of God. Christ's body would become the temple destroyed by human hands yet raised by divine power—and from that resurrection would flow a spiritual house built of living stones, the church of the living God.",
+        "The religious authorities demanded a sign of His authority; He gave them the sign of Jonah wrapped in architectural metaphor. This prophecy found its fulfillment three years later outside Jerusalem's walls, when the true Temple was destroyed on Golgotha and raised on the third day, precisely as He declared.",
+        "For the church now living between Christ's two advents, this chapter announces our glorious position: we drink the better wine of the new covenant, we are the temple where God's Spirit dwells, and we await that final wedding feast when faith becomes sight and the Bridegroom returns for His bride."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.613286+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

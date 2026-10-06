@@ -1,0 +1,55 @@
+{
+  "book": "Exodus",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 31: The Gift of the Creator's Spirit",
+      "overview": [
+        "God's calling of Bezalel and Oholiab reveals a profound truth: the Spirit of the Lord equips ordinary people with extraordinary gifts for sacred purposes. This passage illuminates what it truly means to be \"filled with the Spirit\"—not in ecstatic or mystical isolation, but in the concrete work of creating beauty and order for God's people.",
+        "Notice that God doesn't merely commission these craftsmen; He fills them with His Spirit, granting them wisdom, understanding, and knowledge in all manner of workmanship. Every skill they possessed—from working with metals to carving wood to weaving fabrics—became an expression of divine grace. This demolishes any false divide between the \"spiritual\" and the \"practical.\" When you prepare a meal with care for your family, organize your workplace with integrity, or create something beautiful, you participate in the same Spirit that moved Bezalel's hands.",
+        "The passage also emphasizes that God gave specific gifts to specific people for a specific community. Bezalel wasn't called to be a prophet or a judge, but his contribution was no less essential. His gifting served the whole congregation by enabling them to worship in a sanctuary that honored God's presence. How many of us diminish our calling because it doesn't appear \"spiritual\" enough? The truth is that every legitimate calling flowing from the Spirit serves the body of Christ.",
+        "The mention of the Sabbath at the passage's conclusion deepens this further. Even in the midst of urgent, beautiful work, God's people must rest. The rhythm of creation itself teaches us that our frantic productivity isn't what sanctifies our labor—it's alignment with God's design and trust in His provision.",
+        "What gifts has God placed in your hands? How might you offer them more deliberately as worship, recognizing them as Spirit-empowered contributions to God's kingdom purposes?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 31: Scholarly study",
+      "overview": [
+        "Exodus 31 occupies a pivotal position within the Tabernacle instructions, serving as the literary and theological conclusion to the divine blueprint revealed to Moses on Sinai (Exodus 25–31). This chapter divides naturally into two distinct yet theologically interconnected sections: the divine appointment of skilled artisans (vv. 1–11) and the reiteration of Sabbath observance (vv. 12–17), followed by the transitional note describing the tablets of testimony (v. 18). The placement of this material is deliberate, addressing the practical question of how Israel could possibly construct what God had commanded while simultaneously establishing the temporal boundaries within which such sacred work must occur.",
+        "The chapter opens with Yahweh's sovereign selection of Bezalel son of Uri, whose name (bĕṣalʾēl) means \"in the shadow of God,\" an apt designation for one called to create the earthly dwelling place of divine presence. The text emphasizes that God has filled him with the \"Spirit of God\" (rûaḥ ʾĕlōhîm), the same phrase used in Genesis 1:2, suggesting that tabernacle construction represents a kind of new creation. This endowment manifests in \"wisdom\" (ḥokmâ), \"understanding\" (tĕbûnâ), and \"knowledge\" (daʿat)—a triad representing comprehensive intellectual and artistic capability. Oholiab of Dan joins Bezalel, ensuring tribal cooperation in this national enterprise.",
+        "The Sabbath legislation in verses 12–17 has generated significant scholarly discussion regarding its placement. Rather than being an intrusion, this material establishes that even sacred construction cannot supersede the Sabbath, which functions as an ʾôt (sign) of the eternal covenant between Yahweh and Israel. The severe penalty for violation—being \"cut off\" (kārat) from the community—underscores the non-negotiable character of this commandment. The theological grounding in divine rest at creation (v. 17) employs the unusual verb wayyinnāpaš (\"and he was refreshed\"), anthropomorphically depicting God's own cessation from labor.",
+        "The chapter concludes with Moses receiving the \"tablets of testimony\" (luḥōt hāʿēdut), stone tablets inscribed by \"the finger of God.\" This verse creates dramatic tension, as readers familiar with the narrative know the golden calf apostasy follows immediately, making these instructions temporarily moot and heightening the tragedy of Israel's subsequent failure."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 31: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1,450 years before the incarnation of Christ, during the wilderness wandering at Mount Sinai, where Yahweh is instructing Moses concerning the construction of the tabernacle. Within the grand arc of redemptive history, we stand at the Exodus movement—that pivotal deliverance from Egypt which establishes Israel as God's covenant people and provides the foundational typology for all future salvation. The tabernacle instructions given here represent God's gracious condescension to dwell among His redeemed people, foreshadowing the greater dwelling yet to come.",
+        "The divine appointment of Bezalel and Oholiab reveals a profound truth: the Spirit of God empowers ordinary craftsmen for sacred service. Bezalel is filled with the Spirit of God in wisdom, understanding, knowledge, and all manner of workmanship. This anointing for tabernacle construction typologically anticipates the greater building work of Christ, who constructs the true temple—His church—through the indwelling Spirit given at Pentecost. Just as these artisans were sovereignly chosen and supernaturally equipped, so every member of Christ's body receives spiritual gifts for the edification of the living temple.",
+        "The reiteration of Sabbath observance at the chapter's conclusion carries eschatological weight extending far beyond weekly rest. This sign between Yahweh and Israel throughout their generations points forward to the ultimate rest secured by Christ. The writer of Hebrews reveals that a Sabbath rest remains for the people of God—the rest from works-righteousness that believers enter through faith, and the consummate rest of the new creation where God's dwelling with humanity reaches its fullest expression.",
+        "The tablets of testimony, written by the finger of God, represent divine revelation committed to permanent form. These stone tablets, soon to be shattered by Israel's idolatry and then renewed, prefigure the movement from old covenant to new—from law inscribed on stone to law written on hearts by the Spirit. What Moses received on the mountain, Christ fulfills and internalizes within His people.",
+        "For the church living between the advents, this passage speaks with particular force. Believers are now the temple under construction, living stones being fitted together by the master craftsman through His Spirit. The gifts distributed for tabernacle work continue in varied forms for building up Christ's body. And the Sabbath principle finds its substance in the rest Christ provides from striving, even as we await that final entering in when faith becomes sight and the tabernacle of God dwells eternally with humanity in the New Jerusalem."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.841608+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

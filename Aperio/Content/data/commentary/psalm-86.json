@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 86,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 86 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 86: A Desperate Heart Finds Its Home",
+      "overview": [
+        "The deep ache of Psalm 86 reveals a human soul stripped bare before God—yet finding in that vulnerability the very ground of hope. This prayer invites us into the paradox that weakness becomes our greatest strength when we know whom we're weak before.",
+        "David begins by calling out his poverty, his affliction, his desperate need. There's no pretense here, no spiritual posturing. Instead, he runs toward God with the honesty of someone who has nowhere else to turn. He reminds the Lord of his own nature: compassionate, slow to anger, and abundant in mercy. This isn't manipulation; it's remembrance. David anchors his request in who God is, not in what David deserves. There's profound wisdom in this reorientation. When our petitions are built on God's character rather than our circumstances, we pray from reality.",
+        "What strikes many readers is how David oscillates between his need and God's nature, between his smallness and God's greatness. He confesses his wholehearted devotion, seeks God's instruction, and asks for a unified heart—one not fragmented by competing loyalties and fears. In his crying out, David names what every follower of Jesus eventually learns: singular allegiance to God creates internal coherence. When we serve many masters, we fracture ourselves. When we turn wholly toward our faithful God, we become whole.",
+        "The psalm concludes with assurance, not because circumstances have changed, but because David has reconnected with the One who never changes. His confidence rests not in his worthiness but in God's inexhaustible compassion.",
+        "This ancient prayer meets us in our modern desperation. Perhaps today you're wrestling with fragmentation—divided loyalties, splintered focus, competing desires. Psalm 86 invites you to bring all of that scattered self before the merciful God who can make you whole.",
+        "What would it look like for you to seek \"an undivided heart\" this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 86: Scholarly study",
+      "overview": [
+        "Psalm 86 stands as the sole Davidic psalm within Book III of the Psalter (Psalms 73–89), a collection otherwise dominated by Asaphite and Korahite compositions. This positioning gives the psalm particular significance as it preserves the voice of David amid a section preoccupied with communal lament over exile and the apparent failure of the Davidic covenant. The superscription designates it as a \"prayer\" (tĕpillâ), a term applied to only five psalms in the Hebrew canon, signaling its distinctly petitionary character.",
+        "The psalm's literary architecture reveals a careful anthological quality, drawing extensively from earlier psalmic and Pentateuchal traditions. Virtually every verse echoes phrases found elsewhere in Scripture, leading some scholars to characterize it as a \"mosaic\" or cento composition. This literary technique, rather than indicating derivative poverty, demonstrates sophisticated theological reflection, as the psalmist weaves inherited language into fresh prayer. The divine self-revelation of Exodus 34:6 appears prominently in verse 15, where God is described as \"compassionate and gracious\" (raḥûm wĕḥannûn), slow to anger and abounding in covenant love and faithfulness.",
+        "Central to the psalm's theology is the repeated designation of the speaker as \"your servant\" (ʿabdĕkā), occurring six times and establishing a relationship of dependent loyalty. The psalmist's self-identification as \"poor and needy\" (ʿānî wĕʾebyôn) in the opening verse employs traditional covenantal vocabulary for those who possess legitimate claims upon divine protection. This poverty language functions less as socioeconomic description than as theological posture, expressing complete reliance upon Yahweh.",
+        "A striking universalist horizon emerges in verses 8–10, where the psalmist anticipates all nations worshiping before Yahweh. This monotheistic confession—\"you alone are God\"—represents not mere henotheism but robust theological exclusivism that grounds the nations' eventual submission. The petition for an \"undivided heart\" (yāḥēd lĕbābî) in verse 11 presents interpretive complexity; the verbal root suggesting unity or singleness points toward wholehearted devotion rather than the divided loyalties that characterize covenant unfaithfulness.",
+        "The psalm concludes with petition for a \"sign\" (ʾôt) of divine favor, suggesting the worshiper seeks visible confirmation of Yahweh's covenantal commitment amid circumstances that apparently call such commitment into question."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 86: Prophetic perspective",
+      "overview": [
+        "This prayer of David rises from the tumultuous period of the united monarchy, composed approximately one thousand years before Christ's incarnation, when Israel stood at the apex of her kingdom glory yet her king found himself in desperate need of divine deliverance. Within the grand redemptive arc, this psalm emerges from the Kingdom era—that pivotal epoch between the Exodus establishment of Israel as covenant nation and the eventual Exile that would scatter her among the nations. Here David, the anointed shepherd-king, provides a prophetic template of prayer that would find its ultimate voice in great David's greater Son.",
+        "The psalm opens with David's self-identification as poor and needy, a startling confession from one who wore the crown. This royal poverty of spirit prophetically anticipates Christ, who though rich became poor for our sake, who made Himself of no reputation and took the form of a servant. When David pleads for preservation because he is \"holy\" or \"set apart,\" he speaks as the anointed one, foreshadowing the truly Holy One whose preservation through death itself would become the ground of all answered prayer.",
+        "David's declaration that among the gods there is none like Yahweh carries profound eschatological weight. What David confessed amid the idol-saturated ancient Near East, the nations themselves will one day acknowledge when every knee bows and every tongue confesses. The prophetic vision breaks forth magnificently: \"All nations whom You have made shall come and worship before You, O Lord, and shall glorify Your name.\" This finds partial fulfillment in the ingathering of Gentiles into the church—that great mystery hidden in ages past—yet awaits its consummate realization when the kingdom of this world becomes the kingdom of our Lord and of His Christ.",
+        "The cry for an \"undivided heart\" anticipates the new covenant promise through Ezekiel, where God pledges to remove hearts of stone and grant hearts of flesh, writing His law within His people. David grasped by prophetic intuition what Pentecost would accomplish through the Spirit's indwelling.",
+        "Most poignantly, David's testimony that God has \"delivered my soul from the depths of Sheol\" would be literally and ultimately fulfilled when Christ descended to the dead and rose triumphant, leading captivity captive. The church now prays this psalm as those already raised with Christ, yet groaning for the redemption of our bodies, standing between resurrection accomplished and resurrection consummated, crying with David for mercy until that final day when all enemies become a footstool."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_086",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.356326+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

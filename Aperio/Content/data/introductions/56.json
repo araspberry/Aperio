@@ -1,0 +1,117 @@
+{
+  "book": "Philemon",
+  "bookIndex": 56,
+  "status": "Editorial draft",
+  "title": "Philemon: Receive Him as a Brother",
+  "subtitle": "A personal appeal asks what fellowship in Christ must mean when one believer holds power over another.",
+  "atAGlance": {
+    "genre": "Personal apostolic letter intended to be heard within a house church",
+    "setting": "Paul writes from imprisonment concerning Onesimus and his relationship with Philemon.",
+    "composition": "Written by Paul, with Timothy in the greeting, during an uncertain imprisonment in the AD 50s or early 60s.",
+    "audience": "Philemon, Apphia, Archippus, and the church meeting in Philemon’s house."
+  },
+  "sections": [
+    {
+      "title": "A short letter with a costly request",
+      "paragraphs": [
+        "Philemon can be read in a few minutes, but its appeal deserves much longer attention. Paul writes from prison on behalf of Onesimus, whom he describes with deep affection. Onesimus is to be received in a changed relationship, as a beloved brother. The request brings the meaning of Christian fellowship into a situation shaped by unequal power.",
+        "The greeting includes Philemon, Apphia, Archippus, and a house church. The appeal is personal, yet it is not merely private. Other believers will hear what Paul asks and what he says about shared faith. That wider hearing matters because a community’s confession is being tested by the welcome offered to a particular person. The letter places dignity, obligation, affection, and material cost within one concentrated conversation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "What can be known about the circumstances",
+      "paragraphs": [
+        "Paul’s authorship is widely accepted. He writes as a prisoner, and Timothy appears in the greeting. The location of imprisonment is uncertain, with proposals affecting the date within the AD 50s or early 60s. Onesimus has become closely connected with Paul during that confinement. Philemon is addressed as a fellow worker whose love has already refreshed other believers.",
+        "The traditional reconstruction identifies Onesimus as an enslaved man who has fled Philemon, perhaps after causing loss. His enslaved status is strongly indicated by the letter, but the precise circumstances of his departure and his meeting with Paul are not narrated. Paul’s conditional reference to a debt should not be turned into a certain accusation of theft. Careful reading distinguishes the appeal preserved in the text from details later supplied to complete the story."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "How Paul makes the appeal",
+      "paragraphs": [
+        "Paul begins by thanking God for Philemon’s faith and love. He then chooses the language of appeal, asking for an act whose goodness will be willing. This does not remove the force of Paul’s authority or the pressure created by the church’s hearing. His rhetoric works through affection, obligation, shared identity, and the hope that Philemon will do more than the explicit request.",
+        "Onesimus is described as Paul’s child and as closely bound to his own heart. Paul asks Philemon to welcome him as he would welcome Paul himself. That identification is the letter’s decisive move. The person whose social status makes him vulnerable is placed within the apostle’s own relationship of trust. Fellowship acquires a direct implication for how he must be received."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Debt, partnership, and the limits of the record",
+      "paragraphs": [
+        "Paul offers to take responsibility for any wrong or debt and writes his commitment in his own hand. Reconciliation is therefore more than a warm sentiment. He is prepared to bear a cost rather than leave the burden entirely on the vulnerable person. At the same time, his reminder of what Philemon owes him reveals how carefully the appeal is constructed.",
+        "The text does not explicitly record Onesimus’s legal emancipation, Philemon’s reply, or the eventual outcome. Christians differ over whether freedom is implied in Paul’s expectation that Philemon will do more than he asks. That uncertainty should remain visible. What is explicit is the demand for a relationship transformed by brotherhood in the Lord, reaching beyond the conventional way an enslaver might regard an enslaved person."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading with moral seriousness",
+      "paragraphs": [
+        "The letter emerged within a world where slavery was an established institution. Its brevity and its failure to state a general abolition command have made its interpretation morally consequential. It must not be used to defend the ownership of human beings. The asymmetry of power is part of what makes Paul’s appeal urgent, and Onesimus’s dignity must stay at the center of reflection.",
+        "The request for a guest room near the close reminds Philemon that the relationship with Paul will continue. The letter ends with a circle of coworkers, returning its difficult appeal to the wider fellowship of the mission. Its theology is carried by the way these people are asked to receive one another.",
+        "Read Philemon slowly enough to notice who is taking a risk, who holds authority, and who is asked to change. Its enduring challenge concerns the material meaning of calling someone a brother or sister. Faithful welcome can require altered habits, shared costs, and a surrender of advantages that once seemed normal. The letter asks a community to let its confession of Christ reach an actual person at its door."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "A fellowship tested by welcome",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Greeting and thanksgiving, the appeal for Onesimus, responsibility for debts, and final greetings."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Brotherhood in Christ",
+      "description": "Shared faith transforms the terms on which a person is received."
+    },
+    {
+      "name": "Reconciliation with cost",
+      "description": "Paul offers to bear material responsibility for the appeal."
+    },
+    {
+      "name": "Power and dignity",
+      "description": "Christian fellowship must be considered within unequal social relationships."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "AD 50s–early 60s; imprisonment uncertain",
+    "context": "The letter concerns a particular relationship during Paul’s imprisonment. The final outcome is not recorded.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 1,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "AD 50s–early 60s; imprisonment uncertain",
+      "note": "The letter concerns a particular relationship during Paul’s imprisonment. The final outcome is not recorded."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Philemon · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Philemon · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/philemon/lessons/summary-of-philemon/"
+    }
+  ]
+}

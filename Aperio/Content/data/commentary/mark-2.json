@@ -1,0 +1,58 @@
+{
+  "book": "Mark",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Mark 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Mark 2: The Authority of Jesus to Transform",
+      "overview": [
+        "Mark 2 reveals Jesus stepping into His messianic authority with remarkable boldness, claiming power to forgive sins and reshape how God's people understand righteousness. This chapter fundamentally challenges every assumption we hold about who has access to God and what true holiness looks like.",
+        "The chapter opens with Jesus forgiving a paralyzed man's sins before healing his body—a sequence that scandalized the religious experts. Yet Jesus knew what we often forget: our deepest paralysis is spiritual, our gravest need forgiveness. When the scribes question His authority, Jesus responds by healing the body to prove the invisible work already accomplished in the soul. There is profound tenderness here; Jesus sees not just infirmity but the faith of friends who literally lower someone through a roof.",
+        "What follows is a pattern: Jesus calling Levi the tax collector and feasting with \"sinners,\" which exposes the Pharisees' fundamental misunderstanding of God's heart. They believed holiness meant separation from the broken; Jesus embodied a holiness that moved toward them. His words about doctors and the sick, about new wine and old wineskins, communicate that His kingdom operates on entirely different principles than the self-righteous system His contemporaries constructed.",
+        "The chapter crescendos with Jesus claiming lordship over the Sabbath itself—shocking words that assert His authority over the very rhythms God established. Yet the point is not license but liberation. The Sabbath exists for humanity's restoration, not humanity's restriction.",
+        "These encounters invite us to examine our own gatekeeping. Where do we assume certain people or conditions disqualify someone from God's grace? Where have we made following Jesus more about external compliance than inner transformation? Where might Jesus be inviting us into a wider, wilder grace than we've allowed ourselves to imagine?",
+        "What would it mean to encounter the Jesus of Mark 2 without your assumptions—to let Him redefine your understanding of who belongs in God's presence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Mark 2: Scholarly study",
+      "overview": [
+        "Mark 2 presents a carefully constructed narrative sequence that demonstrates Jesus' escalating conflict with religious authorities while simultaneously revealing his messianic identity and authority. Written likely in Rome during the late 60s CE, Mark's Gospel addresses a community facing persecution, and this chapter's conflict narratives would have resonated deeply with believers experiencing opposition for their faith.",
+        "The chapter opens with the healing of the paralytic in Capernaum, where Jesus pronounces the man's sins forgiven before healing his physical ailment. The term *aphientai* (ἀφίενται), meaning \"are forgiven\" or \"are released,\" carries significant theological weight, as the scribes correctly perceive that such pronouncement belongs solely to God. Jesus' self-designation as \"Son of Man\" (*ho huios tou anthrōpou*) introduces a title laden with both humble and exalted connotations, drawing from Daniel 7:13-14 while simultaneously evoking Ezekiel's frequent address as \"son of man.\" This deliberate ambiguity allows Jesus to claim divine prerogatives while veiling his full identity.",
+        "The call of Levi and subsequent table fellowship with tax collectors and sinners provokes further controversy. The Greek *hamartōloi* (sinners) denotes those marginalized from respectable Jewish society, whether through occupation or moral failure. Jesus' response that he came to call not the righteous but sinners establishes a programmatic statement about his ministry's scope and intention.",
+        "The fasting controversy and twin parables of unshrunk cloth and new wine introduce the theme of incompatibility between Jesus' ministry and existing religious structures. Mark strategically places these sayings to prepare readers for the radical newness of the kingdom Jesus inaugurates.",
+        "The chapter concludes with two Sabbath controversies that intensify the conflict. Jesus' declaration that \"the Sabbath was made for humanity, not humanity for the Sabbath\" reverses contemporary casuistic interpretations, while his claim to lordship over the Sabbath implicitly asserts divine authority. Scholars debate whether the grain-plucking incident constitutes actual Sabbath violation or merely challenged Pharisaic oral traditions (*halakah*) regarding permissible Sabbath activity.",
+        "Throughout Mark 2, the evangelist weaves together christological revelation and controversy, demonstrating that opposition to Jesus stems precisely from his authoritative claims—claims that the narrative validates through miraculous confirmation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Mark 2: Prophetic perspective",
+      "overview": [
+        "Mark chapter two unfolds during the early months of Jesus' public ministry, approximately AD 28–29, some thirty years after His birth in Bethlehem and roughly three years before His crucifixion. This places us at a pivotal moment in redemptive history—the long-awaited Kingdom of God has drawn near in the person of Israel's Messiah, and the promises spoken through prophets for centuries are now taking flesh in Galilean villages. We stand at the hinge point between the old covenant's shadowy anticipation and the new covenant's dawning reality.",
+        "In Capernaum, a paralytic is lowered through a roof, and before addressing his physical ailment, Jesus speaks the unthinkable: \"Son, your sins are forgiven.\" The scribes rightly recognize the theological weight of this claim—only God can forgive sins. What they fail to perceive is that God Himself stands before them in human flesh. The subsequent healing serves as visible attestation of invisible authority, demonstrating that the Son of Man possesses on earth the divine prerogative that Israel had known only through temple sacrifice and priestly mediation. Here the true High Priest after the order of Melchizedek begins His reconciling work, and the entire sacrificial system trembles toward obsolescence.",
+        "The call of Levi the tax collector and the subsequent banquet with sinners reveals the radical nature of Messianic salvation. Where the Pharisees had constructed walls of separation, Jesus builds bridges of grace. This anticipates the great ingathering prophesied in Isaiah, where outcasts and foreigners would feast at Yahweh's table. The Physician has come not for the righteous but for the sick—a theme that will reach its climax when this same Jesus hangs between two criminals, opening Paradise to a dying thief.",
+        "When questioned about fasting, Jesus introduces the bridegroom imagery, pregnant with eschatological significance. Israel's prophets had portrayed Yahweh as the faithful husband to His often-wayward bride. Now the Bridegroom walks among them; mourning is inappropriate while wedding joy pervades. Yet shadows of Calvary loom—days are coming when the Bridegroom will be violently taken away, and then His followers will fast. The church now lives in this tension, feasting in His spiritual presence through Word and Sacrament while fasting in longing for His bodily return.",
+        "The Sabbath controversies closing this chapter establish Jesus as Lord over Israel's most sacred institution. David ate consecrated bread; the Son of David exercises authority over sacred time itself. The Sabbath, which pointed forward to eschatological rest, has met its fulfillment in Him who offers rest to all who labor and are heavy laden."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "41_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.508205+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

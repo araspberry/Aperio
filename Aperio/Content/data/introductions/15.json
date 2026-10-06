@@ -1,0 +1,134 @@
+{
+  "book": "Nehemiah",
+  "bookIndex": 15,
+  "status": "Editorial draft",
+  "title": "Building a City That Can Hold a Community",
+  "subtitle": "Nehemiah’s walls, the hearing of the Torah, and the unfinished work of reform",
+  "atAGlance": {
+    "genre": "First-person memoir, restoration narrative, lists, public prayer, and covenant commitments",
+    "setting": "Jerusalem under Persian rule during and after Nehemiah’s governorship",
+    "composition": "Memoir and other materials assembled into the Ezra–Nehemiah work; final editorial history debated",
+    "audience": "The restored Jewish community concerned with security, justice, worship, and continuity"
+  },
+  "sections": [
+    {
+      "title": "A report that becomes a calling",
+      "paragraphs": [
+        "Nehemiah begins at the Persian court, where news of Jerusalem’s condition unsettles a man whose own position appears secure. He mourns, fasts, and prays before asking the king for permission to act. His prayer joins confession to the memory of God’s promises. The need is public and concrete, but his first response recognizes that rebuilding cannot be separated from the community’s relationship with God.",
+        "The king’s authorization provides access to materials and protection, yet Nehemiah still has to examine the situation on the ground. His nighttime inspection precedes the public invitation to build. Prayer, careful observation, and practical planning belong to the same work. The book gives no reason to choose between dependence on God and attention to ordinary details."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A wall made by many hands",
+      "paragraphs": [
+        "The repair list follows people working along different sections of the wall. Households, tradespeople, officials, and others contribute to a task too large for one leader. The names can be read as a record of shared responsibility. A city’s security is being restored through many small stretches of work, some close to the workers’ own homes.",
+        "Opposition brings ridicule, threats, and attempts to draw Nehemiah away from the task. The builders adapt their arrangements to danger while continuing the work. These scenes reveal perseverance, but they should not make every critic in a modern disagreement into a biblical enemy. Nehemiah faces a particular political and communal situation. Understanding that setting is more useful than turning the narrative into a formula for personal ambition."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The danger inside the community",
+      "paragraphs": [
+        "Chapter 5 interrupts the construction story with a crisis of debt and exploitation. Families are losing land and facing the loss of their children’s freedom while wealthier members profit from their need. Nehemiah confronts the nobles and officials, requires a public response, and describes his own restraint in the use of the governor’s provisions. A completed wall would mean little if life within it remained predatory.",
+        "This is one of the book’s central measures of leadership. External opposition is visible and can rally a community; internal injustice may be harder to name because influential people benefit from it. Nehemiah’s concern for Jerusalem has to include the conditions under which its poorest households live. Building and justice are therefore part of the same account of restoration."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Hearing together, remembering together",
+      "paragraphs": [
+        "When the people gather to hear the Torah, Ezra reads and the Levites help them understand. The scene includes tears, explanation, celebration, and provision for those who have nothing prepared. Understanding is not left as an individual achievement. The community makes room for one another to hear and respond.",
+        "The extended prayer in chapter 9 retells Israel’s history through God’s faithfulness and repeated human failure. The commitments that follow address worship, Sabbath, household life, and support for the temple. Repopulating Jerusalem and dedicating its wall give visible form to renewal. Singing, procession, and remembered names make the restored city a place of shared memory as well as physical protection."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Why the ending remains unsettled",
+      "paragraphs": [
+        "The final chapter shows neglect and compromise returning. Nehemiah acts forcefully, and some of his responses are unsettling. The narrative should be read with attention to its particular concerns and the people affected; every action of a biblical leader is not automatically a model for imitation. The renewed community remains vulnerable to old habits even after remarkable work has been completed.",
+        "Nehemiah’s service belongs to the fifth century BC under Artaxerxes I. His memoir material was incorporated into the larger Ezra–Nehemiah work, whose arrangement is not always a straightforward chronology. The closing prayers leave us with a leader seeking God’s remembrance rather than a claim that the project has solved everything. Read the book for its joined concerns: attentive prayer, shared labor, truthful teaching, and the justice without which a protected city cannot become a faithful home."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The wall rebuilt",
+      "startChapter": 1,
+      "endChapter": 7,
+      "description": "Nehemiah responds to Jerusalem’s need, organizes work, confronts exploitation, and completes the wall."
+    },
+    {
+      "label": "The Torah heard and the covenant renewed",
+      "startChapter": 8,
+      "endChapter": 10,
+      "description": "Public reading, celebration, historical confession, and commitments form a renewed communal response."
+    },
+    {
+      "label": "A city inhabited and dedicated",
+      "startChapter": 11,
+      "endChapter": 12,
+      "description": "People settle in Jerusalem and the wall is dedicated with worship."
+    },
+    {
+      "label": "Reform must be renewed",
+      "startChapter": 13,
+      "endChapter": 13,
+      "description": "Nehemiah confronts returning failures in worship, Sabbath practice, and communal commitments."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Prayer and action",
+      "description": "Dependence on God accompanies inspection, planning, and persistent work."
+    },
+    {
+      "name": "Justice within the walls",
+      "description": "Security does not excuse exploitation of vulnerable households."
+    },
+    {
+      "name": "Continued renewal",
+      "description": "Institutions and commitments require care after the celebration is over."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "Fifth century BC",
+    "context": "Jerusalem is rebuilt and reorganized under Persian rule.",
+    "note": "The memoirs and community materials are arranged for more than simple chronological reporting."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 13,
+      "era": "return",
+      "label": "Nehemiah and the restored community",
+      "dateLabel": "Fifth century BC",
+      "note": "The narrative includes his first governorship and later reforms; exact timing of every scene is not known."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Nehemiah · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Nehemiah",
+      "url": "https://bible.usccb.org/bible/nehemiah/0"
+    }
+  ]
+}

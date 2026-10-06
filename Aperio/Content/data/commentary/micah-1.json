@@ -1,0 +1,55 @@
+{
+  "book": "Micah",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Micah 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Micah 1: The God Who Comes in Judgment and Love",
+      "overview": [
+        "Micah opens by calling all the earth to witness the Lord rising from His dwelling place to confront the rebellion of His people—a scene that reminds us that God's justice is never passive, but active and purposeful, arising from His passionate love for the covenant community He has claimed.",
+        "The prophet stands in his own time yet speaks with the urgency of one who has glimpsed the divine court in session. Samaria's idolatry and Jerusalem's injustice have not escaped God's notice. The vivid imagery of the Lord descending, mountains melting, and valleys splitting open conveys the earth-shattering significance of divine judgment. Yet this is no distant pronouncement. Micah himself cannot remain detached. His anguish at what is coming breaks through in verse 8, where he weeps and wails, going barefoot like one who has lost everything. The prophet grieves because he sees what his people cannot yet see: that their comfort in false worship and oppressive wealth is built on sand.",
+        "What strikes us most deeply is the paradox woven throughout this chapter. The God who judges is the God who cares enough to judge. He is not indifferent; He is not silent. The very fact that He comes in judgment testifies to His refusal to abandon His people to their self-destruction. This same pattern echoes through Scripture and through our own spiritual experience. We sometimes resist correction, yet a God who truly loves us cannot pretend our rebellion doesn't matter.",
+        "For those who follow Christ, Micah's call invites honest self-examination. Where have we built our lives on false foundations? Where has comfort made us spiritually drowsy? The God revealed here is not a distant deity but One who enters into our chaos with both accountability and grace, demanding repentance precisely because redemption remains possible.",
+        "What areas of your life might the Lord be calling you to examine with fresh honesty? How does knowing that God judges out of love change the way you hear His correction?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Micah 1: Scholarly study",
+      "overview": [
+        "Micah 1 introduces the prophetic ministry of Micah of Moresheth, a Judean prophet active during the reigns of Jotham, Ahaz, and Hezekiah, placing his activity roughly between 750 and 687 BCE. This temporal framework positions Micah as a contemporary of Isaiah and Hosea, prophesying during a period of intense geopolitical upheaval, including the Assyrian campaigns that would culminate in Samaria's fall in 722 BCE. Moresheth-gath, located in the Shephelah region southwest of Jerusalem, provided Micah a provincial perspective distinct from the capital-centric viewpoint of Isaiah, informing his particular sensitivity to the exploitation of rural populations by urban elites.",
+        "The chapter opens with a cosmic theophany wherein YHWH descends from his holy temple to execute judgment. The Hebrew term *yōrēd* (\"coming down\") evokes the divine warrior motif, presenting God's approach as both terrifying and purposeful. The imagery of mountains melting and valleys splitting before the divine presence draws upon ancient Near Eastern theophanic conventions while asserting YHWH's supremacy over all creation. The cause for this catastrophic intervention is identified as the \"transgression\" (*pesha'*) and \"sins\" (*ḥaṭṭō't*) of Jacob and Israel—terms denoting covenant rebellion and failure respectively, with *pesha'* particularly connoting willful breach of relationship.",
+        "The identification of Samaria and Jerusalem as the focal points of transgression proves structurally significant, establishing a parallelism between the northern and southern kingdoms that runs throughout the book. Samaria's fate—reduction to rubble and the exposure of its foundations—serves both as historical prediction and theological warning to Jerusalem. The reference to \"harlot's wages\" (*'etnannê zônâ*) connects cultic infidelity with economic injustice, themes Micah develops extensively.",
+        "The chapter concludes with a remarkable lamentation featuring wordplays on various Judean town names, a rhetorical device scholars term *paronomasia*. Cities like Beth-le-aphrah (\"house of dust\") are commanded to roll in dust, creating bitter irony through the correspondence of name and fate. This literary artistry underscores the theological gravity of impending judgment while demonstrating the prophet's considerable rhetorical sophistication. The call for Judah to mourn \"like jackals\" anticipates destruction that, while initially directed at Samaria, will inevitably reach Jerusalem's very gates."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Micah 1: Prophetic perspective",
+      "overview": [
+        "Micah chapter one emerges from the tumultuous eighth century before Christ, approximately 735-700 BC, when the prophet ministered during the reigns of Jotham, Ahaz, and Hezekiah in Judah. This places Micah as a contemporary of Isaiah in the south and Hosea in the north, all witnessing the gathering storm of Assyrian conquest that would soon sweep away the northern kingdom of Israel in 722 BC. Within redemptive history, this passage stands in the era of the divided kingdom, after the glory of David and Solomon had fractured, when God's covenant people had largely abandoned their first love and pursued the Baals of Canaan.",
+        "The chapter opens with a theophanic vision of staggering power—the Lord coming forth from His holy temple, treading upon the high places of the earth, causing mountains to melt like wax before fire and valleys to split open like water cascading down a steep slope. This divine warrior imagery echoes the Sinai revelation and anticipates every subsequent coming of God in judgment, including the final appearing of Christ when every mountain and island will flee from His presence. The One who descends here is the same Lord who will descend at the end of the age with a shout and the trumpet of God.",
+        "Samaria's doom is pronounced with devastating specificity—her stones cast into the valley, her foundations laid bare, her idols crushed to pieces. What Micah foresaw came to pass within his own generation when Assyria dismantled the northern capital. Yet this historical judgment functions typologically as a preview of all divine judgment against spiritual adultery. Samaria, whose wound is declared incurable, prefigures every religious system that mingles the worship of the true God with idolatrous compromise.",
+        "The prophet's lamentation—walking stripped and naked, wailing like jackals and mourning like ostriches—embodies the grief of God Himself over His wayward people. The series of wordplays on the towns of the Shephelah, Micah's own homeland, traces the advancing path of judgment reaching even to the gate of Jerusalem. Each city name becomes a prophetic pun announcing its fate, demonstrating that God's word penetrates to the very identity of places and peoples.",
+        "For the church awaiting Christ's return, Micah one stands as solemn warning that covenant privilege never guarantees immunity from judgment. The same Lord who came in judgment through Assyria will come again, and those who name His name must examine whether Samaria's idolatries have crept into their own sanctuaries."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "33_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.33669+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

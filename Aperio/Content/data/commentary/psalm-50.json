@@ -1,0 +1,58 @@
+{
+  "book": "Psalm",
+  "chapter": 50,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 50 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 50: The God Who Speaks Truth to His People",
+      "overview": [
+        "The heart of Psalm 50 is God's refusal to be domesticated by human religion—He calls His people back from hollow worship to authentic covenant relationship built on honesty and obedience.",
+        "Asaph's psalm opens with a dramatic scene: the Mighty One summons the earth to witness His judgment. This is not the gentle God of comfort alone, but the righteous Judge who calls people to account. What captures attention immediately is God's complaint. He is not angry about the *absence* of sacrifices; rather, He is troubled by the *meaninglessness* of them. People have been offering bulls and goats faithfully, yet their hearts remain far from Him. They imagine God needs their animals, as though the Creator depends on human provision. This reveals a fundamental misunderstanding of what worship means.",
+        "The second movement of the psalm shifts focus sharply to a different kind of sin—the \"wicked\" who recite God's covenant while rejecting His ways. They speak His name with their lips but despise His instruction and company with those who cause harm. This cuts to the bone of what matters most to God: integrity. A sacrificial system without a righteous life is not merely useless; it is offensive. God would rather receive thanksgiving and honest confession than boxes of rituals performed by hardened hearts.",
+        "In our own time, this strikes hard. We can fill our churches, sing our songs, and maintain our routines while remaining distant from genuine transformation. Psalm 50 invites us to examine whether our spiritual practices reflect actual devotion or merely comfortable habit. True worship requires alignment—our words matching our walk, our Sunday faith matching our Monday choices.",
+        "The God who speaks in Psalm 50 is not interested in managing our external performance. He hungers for the offering of a grateful heart, the vulnerability of confession, and a life ordered toward Him in daily obedience.",
+        "What does authentic worship look like in your life right now—where is your heart genuinely aligned with your actions, and where might God be calling you toward deeper honesty?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 50: Scholarly study",
+      "overview": [
+        "Psalm 50 stands as a distinctive composition within the Psalter, attributed in its superscription to Asaph, the chief musician appointed by David over the temple liturgy. This psalm represents one of twelve Asaphite psalms and exhibits characteristics of prophetic lawsuit poetry, a genre known as the *rîb* pattern, wherein God summons creation as witnesses to bring charges against his covenant people. The setting evokes the theophanic traditions of Sinai, with God appearing from Zion in consuming fire and tempest, establishing continuity between the covenant-making event and this moment of covenant enforcement.",
+        "The psalm opens with a remarkable accumulation of divine names—*'El*, *'Elohim*, and *YHWH*—emphasizing God's universal sovereignty before narrowing focus to his particular relationship with Israel. The term *ḥasîdîm* (faithful ones) in verse 5 carries covenantal weight, denoting those bound to God through *ḥesed*, the loyal love that characterizes authentic covenant relationship. These are identified as those who \"cut\" (*kārat*) a covenant through sacrifice, employing the archaic idiom reflecting ancient Near Eastern treaty-making ceremonies involving animal sacrifice.",
+        "The divine speech in verses 7–15 addresses a fundamental misunderstanding about sacrifice. God's rhetorical questions concerning bulls and goats challenge any notion that he requires literal sustenance from offerings—a polemic perhaps directed against corrupted Israelite practice or pagan conceptualizations of deity. The term *tôdâh* (thanksgiving) emerges as the sacrifice God truly desires, emphasizing the internal disposition rather than mere external ritual. This theology anticipates prophetic critiques found in Isaiah 1 and Amos 5.",
+        "The second divine address (verses 16–21) pivots sharply toward ethical indictment, targeting those who recite covenant stipulations (*ḥuqqîm*) while practicing theft, adultery, and slander. The accusation that God's silence implied divine complicity reveals dangerous presumption among the wicked.",
+        "Scholars debate whether this psalm originated in pre-exilic temple worship, perhaps as a covenant renewal liturgy, or reflects post-exilic prophetic concerns. The interplay between cultic and ethical dimensions anticipates tensions that would persist throughout Second Temple Judaism, ultimately finding resolution in New Testament teaching that genuine worship requires transformation of the whole person."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 50: Prophetic perspective",
+      "overview": [
+        "This psalm of Asaph was composed during the united monarchy period, approximately 1000 years before Christ's incarnation, when David's tabernacle worship flourished in Jerusalem. It stands within the Kingdom era of redemptive history, after God established His dwelling among His covenant people through the Exodus and before the exile that would come as judgment for the very sins this psalm confronts.",
+        "The psalm opens with a stunning theophany as God summons all creation to witness His covenant lawsuit against Israel. From Zion, the perfection of beauty, the Mighty One shines forth, coming not in silence but with devouring fire and tempest. This language deliberately echoes Sinai, where God first descended to form His people, yet now He comes not to establish covenant but to enforce it. The heavens themselves are called to declare His righteousness as He judges His people—a courtroom scene that foreshadows the final assize when every knee shall bow.",
+        "Here emerges a profound prophetic thread that would find its fulfillment in Christ. God declares He has no need of Israel's bulls and goats, for every beast of the forest already belongs to Him. The cattle on a thousand hills are His possession. This remarkable declaration anticipates what the writer of Hebrews would later announce: that animal sacrifices could never ultimately satisfy divine justice or cleanse the conscience. The entire sacrificial system, though divinely ordained, pointed beyond itself to the Lamb of God who would offer Himself once for all.",
+        "The psalm pivots to expose the deeper issue: Israel performed ritual while harboring wickedness, reciting statutes while casting God's words behind them. They sat in judgment on brothers, slandered family, and presumed upon divine patience. God's silence was mistaken for approval. This prophetic indictment cuts through every age of the church, warning against the deadly presumption that external religion masks internal rebellion from the all-seeing God.",
+        "The true sacrifice God desires is thanksgiving—the Hebrew *todah*—a sacrifice of praise flowing from genuine covenant loyalty. This anticipates the new covenant reality where believers offer spiritual sacrifices acceptable to God through Jesus Christ, the sacrifice of praise that continually confesses His name.",
+        "For the church awaiting Christ's return, this psalm sounds an urgent alarm. The One who came first in redeeming grace will come again in consuming fire. He will not keep silence forever. The God who judges His own house calls His people to genuine worship, covenant faithfulness, and hearts that honor Him not merely with lips but with transformed lives that acknowledge Him as the rightful Lord of all creation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_050",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.260706+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

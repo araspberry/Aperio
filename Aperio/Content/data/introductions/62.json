@@ -1,0 +1,123 @@
+{
+  "book": "2 John",
+  "bookIndex": 62,
+  "status": "Editorial draft",
+  "title": "2 John: Love That Walks in Truth",
+  "subtitle": "A brief letter asks a Christian household to unite generous love with faithful discernment.",
+  "atAGlance": {
+    "genre": "Personal or communal letter",
+    "setting": "A Johannine Christian community discerning which visiting teachers to welcome.",
+    "composition": "The writer calls himself the elder. Tradition associates him with John the apostle; his identity and relationship to the other Johannine writings remain debated. Usually placed in the later first century.",
+    "audience": "The elect lady and her children: possibly a woman and her household community, or a congregation addressed through a family image."
+  },
+  "sections": [
+    {
+      "title": "A small letter with a searching question",
+      "paragraphs": [
+        "Second John can be read in a few minutes, but the relationship it describes deserves unhurried attention. The elder writes with affection to the elect lady and her children. Truth is something they share and something that remains with them. Love begins within that shared life, and the opening blessing joins grace, mercy, and peace with truth and love.",
+        "The letter’s central question is how a community can remain loving while making responsible judgments about teaching. Generosity has consequences when a visitor claims to speak for Christ. Welcoming a teacher may give that person a platform and practical support. The elder wants the recipients to continue in the command to love one another while recognizing that some messages threaten the confession on which their fellowship rests."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The elder and the elect lady",
+      "paragraphs": [
+        "The writer does not give a personal name. His designation as the elder suggests a recognized relationship of responsibility, but the title alone does not establish his exact office or identity. Christian tradition connects the letter with John the apostle. Scholars often place it within the circle associated with the Gospel of John, while discussing whether these works share one author or several closely related voices. A setting near the end of the first century is commonly proposed.",
+        "The recipient’s identity is also uncertain. The elect lady may be a woman who leads or hosts a Christian household, with her children understood personally or communally. Alternatively, the language may personify an entire congregation. The closing greeting from the children of her elect sister fits either a relationship between households or one between churches. The text does not resolve that question for us."
+      ],
+      "sourceIds": [
+        "text",
+        "background",
+        "issues"
+      ]
+    },
+    {
+      "title": "Love is a way of walking",
+      "paragraphs": [
+        "The elder rejoices to find some of the children walking in truth. His concern is how belief takes shape over time, in decisions and relationships. He then asks for love and describes love through walking according to God’s commandments. These expressions interpret one another. Obedience is relational, and love has a recognizable direction rather than remaining a pleasant sentiment.",
+        "The command is called old because it belongs to what the community received from the beginning. The elder is not offering a superior revelation available only to an advanced group. He is recalling the foundation they already share. For a church attracted by novelty, this emphasis provides a searching question: does a proposed development deepen faithfulness to Christ, or does it leave behind the truth it claims to improve?"
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The confession that must not be abandoned",
+      "paragraphs": [
+        "The particular danger concerns teachers who do not acknowledge Jesus Christ coming in the flesh. The brief description should not be expanded into a complete system of beliefs that the letter never supplies. What matters clearly is the reality of Jesus’ human coming and the community’s fidelity to His teaching. The elder treats this as central to knowing the Father and the Son.",
+        "His warning about receiving such a teacher must be read within that concrete situation. The concern is participation in a harmful mission through recognition and support. It is not a general command to withhold kindness from neighbors who believe differently. Third John, with its praise of hospitality toward faithful workers, provides a useful companion. Together the letters ask for generosity shaped by discernment and discernment shaped by the command to love."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A community needs more than ink",
+      "paragraphs": [
+        "The closing lines give the letter a human scale. The elder has more to say but hopes to visit and speak face to face so that their joy may be complete. Written instruction matters, yet it does not replace the presence through which people listen, ask questions, and renew their fellowship. The warning is enclosed within an affectionate relationship.",
+        "Read Second John as a whole before isolating its strictest sentence. Its opening and conclusion reveal the life the elder is trying to protect. Then ask what the community is being called to affirm: Jesus Christ, received teaching, mutual love, and shared joy. Those commitments give its boundaries their purpose.",
+        "For present practice, the letter invites careful thought about whom a church authorizes and supports. Charisma and confidence are insufficient measures of trustworthy teaching. The message, the life it encourages, and its relationship to the confession of Christ all matter. Such examination should serve a community where truth can be spoken with affection and love remains accountable to the Lord it professes."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Truth, love, discernment, and shared joy",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "The greeting, command to love, warning about deceivers, and hope for a personal visit."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Embodied confession",
+      "description": "Jesus Christ’s coming in the flesh is central to faithful teaching."
+    },
+    {
+      "name": "Responsible hospitality",
+      "description": "Welcome and support require discernment about the message being advanced."
+    },
+    {
+      "name": "Truthful love",
+      "description": "Love is expressed through a continuing walk in God’s commandments."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Later first-century Christian communities",
+    "context": "The letter addresses the immediate life and relationships of a Christian household or congregation; it does not provide a dated sequence of events.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 1,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Later first-century Christian communities",
+      "note": "The letter addresses the immediate life and relationships of a Christian household or congregation; it does not provide a dated sequence of events."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 John · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "2 John · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-john/lessons/summary-of-2-john/"
+    },
+    {
+      "id": "issues",
+      "label": "The elder and elect lady · Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-john/lessons/introductory-issues-in-2-john/"
+    }
+  ]
+}

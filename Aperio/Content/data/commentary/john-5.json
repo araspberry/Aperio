@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 5: The Power to Heal and Raise",
+      "overview": [
+        "The spiritual heart of John 5 is the revelation that Jesus possesses divine authority over sickness, sin, and death itself—authority that belongs only to God. Through signs and testimony, we encounter a Jesus who not only heals our bodies but claims the power to give eternal life.",
+        "The chapter opens with Jesus at the pool of Bethesda, where the sick, blind, and lame gather hoping for healing. Yet Jesus chooses one man—paralyzed for thirty-eight years—and commands him to rise. The man obeys, and instantly he is whole. This miracle establishes a crucial truth: Jesus doesn't heal because we've earned it through sufficient faith or adequate suffering. He heals according to His sovereign will and gracious intention. The man didn't even know who Jesus was; he simply encountered mercy in person.",
+        "What follows is increasingly bold testimony. Jesus claims authority to forgive sins, which the Jewish leaders recognize as a claim to divinity. He explains that the Father has committed all judgment to the Son, and that the dead will hear His voice and rise—some to life, others to judgment. This isn't abstract theology; it's the foundation of our eternal hope. Jesus exercises God's prerogatives not to dominate but to save.",
+        "The chapter concludes with Jesus offering His testimony through multiple witnesses: His works, His Father's voice, Scripture, and even John the Baptist. He appeals to the hunger for life that exists in every human heart, inviting belief in the One who embodies that life.",
+        "For disciples today, John 5 asks whether we truly trust Jesus' authority over our deepest needs. Do we bring our paralysis—our spiritual helplessness, our entrenched sin—before Him, expecting transformation? Do we believe that His voice can awaken us to new life, both now and in eternity?",
+        "What area of spiritual paralysis are you hesitating to bring before Jesus, as though He might not care or couldn't transform it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 5: Scholarly study",
+      "overview": [
+        "The fifth chapter of John's Gospel marks a pivotal transition in the narrative, introducing sustained conflict between Jesus and the Jewish religious authorities that will intensify throughout the remainder of the Gospel. The setting is Jerusalem during an unspecified feast, where Jesus encounters a man who has been ill for thirty-eight years at the pool called Bethesda, a site archaeologically confirmed near the Sheep Gate with its distinctive five colonnades. The healing itself, performed on the Sabbath, becomes the catalyst for a profound christological discourse that constitutes one of the most theologically dense passages in the Johannine corpus.",
+        "The controversy centers initially on Jesus' command that the healed man take up his mat (*krabbaton*) and walk, an action the religious leaders deemed a violation of Sabbath regulations prohibiting the carrying of burdens. Yet the theological stakes escalate dramatically when Jesus defends his action with the striking declaration that \"my Father is working until now, and I am working\" (5:17). The term *ergazomai* (to work) here deliberately echoes the ongoing creative and sustaining activity of God, and the Jewish authorities correctly perceive that Jesus is claiming divine prerogatives, making himself equal (*ison*) with God.",
+        "The discourse that follows elaborates this filial relationship through an intricate pattern of mutual action between Father and Son. Jesus claims authority over two distinctly divine functions: the giving of life (*zōopoiein*) and the execution of judgment (*krisis*). The passage employs both realized and future eschatological categories, asserting that eternal life is a present possession for believers while also affirming a future resurrection of the dead. This dual emphasis has generated considerable scholarly discussion regarding whether the evangelist has combined different eschatological traditions or whether this reflects a genuinely Johannine synthesis.",
+        "The chapter concludes with Jesus appealing to multiple witnesses—John the Baptist, his own works, the Father's testimony, and the Scriptures—yet paradoxically indicting his accusers for failing to recognize that Moses himself wrote concerning him. This hermeneutical claim establishes a pattern of christological interpretation of the Hebrew Scriptures that would profoundly shape early Christian exegesis. The entire chapter thus functions as a juridical proceeding that ironically reverses expected roles, with the accused becoming the judge of his accusers."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 5: Prophetic perspective",
+      "overview": [
+        "John chapter five unfolds approximately three years into the public ministry of Jesus Christ, likely around AD 28, placing it within the pivotal moment when God Himself walked among His covenant people during the Roman occupation of Palestine. This passage stands at the hinge point of redemptive history—after millennia of promise and preparation, the One to whom all Scripture points now demonstrates His divine authority in Jerusalem itself, the city where prophets had been slain and where the final sacrifice would soon be offered.",
+        "The setting at the Pool of Bethesda, where multitudes of afflicted souls waited for the stirring of waters, presents a profound picture of humanity's condition under the old covenant. For thirty-eight years—a number echoing Israel's wilderness wanderings after Kadesh-barnea—this man had lain paralyzed, unable to save himself, dependent on a system that could never truly heal. Into this scene of hopeless waiting steps the true and better Moses, who speaks a word of sovereign power: \"Rise, take up your bed, and walk.\" Where the law could only expose weakness, Christ imparts life by His command.",
+        "The controversy that erupts over Sabbath healing reveals the deeper conflict between the shadows and the Substance. Jesus declares that His Father is working still, claiming equality with God and asserting His role as the Son who gives life to whom He will and executes all judgment. Here the eschatological realities break into the present: the hour \"now is\" when the dead hear the Son's voice and live, yet an hour \"is coming\" when all in tombs shall emerge—some to resurrection of life, others to resurrection of judgment. The first resurrection has already begun in Christ's ministry of spiritual awakening; the final resurrection awaits His return.",
+        "Jesus identifies Himself as the fulfillment of Moses' writings, declaring that the Scriptures searched so diligently by the religious leaders testify of Him. Every sacrifice, every feast, every prophetic oracle finds its terminus in this One who stands before them. The witness of John the Baptist, the witness of miraculous works, the witness of the Father, and the witness of Scripture converge upon this single truth: the Sent One has arrived.",
+        "For the church living between the advents, this chapter resounds with urgent hope. Christ has already spoken the life-giving word that raises spiritually dead sinners; He will yet speak the word that empties every grave. Those who hear and believe have passed from death to life and shall not come into judgment, held secure until that final morning."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.620394+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

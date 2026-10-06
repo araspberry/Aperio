@@ -1,0 +1,58 @@
+{
+  "book": "Luke",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 23: The King Who Surrenders",
+      "overview": [
+        "In Luke's account of the crucifixion, Jesus demonstrates the costly nature of redemption—not through displays of power, but through submission, forgiveness, and unwavering trust in his Father even as everything is stripped away.",
+        "Luke frames Jesus' execution not as defeat but as the culmination of his mission. Where other gospels emphasize judgment, Luke emphasizes Jesus' compassion. As he is led to Golgotha, Jesus turns to weeping women and speaks of future suffering, demonstrating pastoral care even in his agony. At the cross, rather than cursing his executioners, Jesus prays, \"Father, forgive them, for they know not what they do.\" This is the heart of the gospel made visible—mercy extended to those who are murdering the innocent.",
+        "The crucifixion exposes human cruelty and religious hypocrisy. The religious leaders mock Jesus, daring him to save himself if he is truly God's chosen one. Even a criminal beside him joins the taunting. Yet in this moment of total humiliation, Jesus never abandons his mission or his character. When the other criminal asks to be remembered, Jesus promises, \"Today you will be with me in paradise\"—a criminal receiving grace at the very gates of death. This is the gospel breaking through institutional religion, reaching across the chasm of human failure and sin.",
+        "What makes Luke's account particularly moving is how it captures Jesus' complete vulnerability. He dies entrusting his spirit to his Father's hands, echoing the prayer of a trusting child. There is no vindication, no sign from heaven, no last-minute rescue. There is only obedience, surrender, and faith that transcends circumstances.",
+        "For disciples today, this passage invites us into a paradoxical faith—one that does not demand favorable outcomes or visible vindication, but trusts God's goodness even when we cannot see it. It teaches us that love sometimes means laying down power, that forgiveness can be offered while we're being betrayed, and that genuine strength is often hidden in apparent weakness.",
+        "What would it mean for you to follow Jesus' example of forgiveness toward someone who has genuinely wronged you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 23: Scholarly study",
+      "overview": [
+        "Luke 23 presents the culmination of Luke's passion narrative, depicting Jesus's trial before Pilate and Herod, his crucifixion, and burial. Writing for a predominantly Gentile audience, Luke emphasizes Roman acknowledgment of Jesus's innocence while highlighting themes central to his Gospel: divine necessity, forgiveness, and the inclusion of outsiders in God's salvific purposes.",
+        "The chapter opens with charges brought against Jesus before Pilate, accusations carefully framed in political terms—perverting the nation, opposing tribute to Caesar, and claiming kingship. Pilate's threefold declaration of Jesus's innocence (vv. 4, 14, 22) serves Luke's apologetic purpose, demonstrating that Roman jurisprudence found no legitimate basis for condemnation. The Greek term *aition* (αἴτιον), meaning \"cause\" or \"guilt,\" appears in Pilate's repeated insistence that he finds no *aition* worthy of death, establishing legal terminology that exonerates Jesus of sedition.",
+        "Unique to Luke is the appearance before Herod Antipas (vv. 6–12), which fulfills the Gospel's earlier references to Herod's curiosity about Jesus and creates a literary parallel with Acts 4:27, where both rulers stand against the Lord's anointed. The reconciliation between Pilate and Herod carries ironic theological weight, as former enemies unite in their encounter with Jesus.",
+        "The crucifixion scene contains distinctly Lukan material, including Jesus's prayer for his executioners (v. 34)—though textually disputed in some manuscripts—and the exchange with the penitent criminal (vv. 40–43). The term *paradeisos* (παράδεισος), borrowed from Persian through Greek, denotes the blessed realm of the righteous dead, and Jesus's promise of immediate presence there counters any notion of delayed eschatological hope.",
+        "Luke's portrayal of the centurion's confession differs notably from Mark's; rather than declaring Jesus \"Son of God,\" he pronounces Jesus *dikaios* (δίκαιος)—\"righteous\" or \"innocent\"—reinforcing the judicial theme pervading the chapter. The burial by Joseph of Arimathea, identified as one awaiting God's kingdom, ensures honorable treatment while preparing for the resurrection narrative. Throughout, Luke depicts Jesus exercising sovereign authority even in death, embodying the prophetic destiny that Jerusalem's rejection could not ultimately thwart."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 23: Prophetic perspective",
+      "overview": [
+        "Luke 23 unfolds in approximately AD 33, during the final hours before Christ's crucifixion under the governance of Pontius Pilate and the tetrarchy of Herod Antipas. This chapter records events that occurred roughly 1,500 years after the Exodus, 1,000 years after David's reign, and 600 years after the Babylonian exile—standing as the climactic moment toward which all prior redemptive history had been moving. Here, at the hinge point between the old covenant and the new, the Lamb of God is led to slaughter.",
+        "The trials before Pilate and Herod fulfill the prophetic pattern established in Psalm 2, where kings and rulers conspire together against the Lord and His Anointed. Jewish and Gentile authorities unite in condemning the innocent One, yet their conspiracy accomplishes what God's hand and purpose predestined to occur. Jesus stands as the true Israel, faithful where the nation failed, silent before His accusers as Isaiah 53 foretold. When Pilate declares three times that he finds no fault in Jesus, he unwittingly testifies to the unblemished nature of the Passover Lamb about to be sacrificed.",
+        "The release of Barabbas—a murderer and insurrectionist—in exchange for Jesus presents a living parable of substitutionary atonement. Every sinner stands as Barabbas, guilty and condemned, yet freed because Another takes their place. The cross that should have borne the rebel now bears the Redeemer.",
+        "The crucifixion itself echoes with typological resonance. Jesus is lifted up as Moses lifted the bronze serpent, becoming a curse to heal those who look upon Him in faith. The darkness covering the land from noon until three o'clock recalls the plague of darkness over Egypt, signaling that a greater exodus is being accomplished—liberation not from Pharaoh but from sin, death, and Satan. The tearing of the temple veil declares that the wall of separation between holy God and sinful humanity has been demolished through Christ's flesh.",
+        "The repentant thief receives the first fruit of kingdom promise: \"Today you will be with Me in Paradise.\" This dying criminal enters glory ahead of apostles and prophets, demonstrating that salvation comes by grace through faith alone, even at the final breath.",
+        "Joseph of Arimathea's tomb receives the body of the Lord, yet this burial is not defeat but the planting of a seed. The church now lives in the light of what that tomb could not contain, proclaiming the crucified and risen Christ until He returns to judge the living and the dead."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.605525+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

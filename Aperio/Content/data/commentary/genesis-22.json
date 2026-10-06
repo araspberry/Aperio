@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 22: The Altar of Trust",
+      "overview": [
+        "Abraham's willingness to surrender his promised son reveals the deepest paradox of faith: that true trust in God sometimes demands releasing what we hold most dear. This passage stands as scripture's most searching examination of what it means to believe when belief costs everything.",
+        "The God who calls Abraham to sacrifice Isaac is the same God who gave Isaac as a miraculous gift. This collision of divine promises creates an impossible tension that cannot be resolved by human logic, only by trust. Abraham's obedience here is not blind obedience—it is obedience without explanation, without guarantees, without the comfort of understanding. Three days of walking toward Mount Moriah with his beloved son is an eternity of silence from heaven, yet Abraham's heart remains oriented toward God rather than toward the apparent contradiction.",
+        "What makes this passage spiritually radical is that Abraham does not negotiate, bargain, or delay. He moves immediately, his faith not weakened but deepened by the very impossibility of the command. This teaches us something crucial about discipleship: our trust in God's character and promises must sometimes exist independently of our circumstances, outcomes, or comprehension. When we truly believe that God is good, wise, and loving, we can surrender even our most precious holdings.",
+        "The substitution of the ram for Isaac—the moment of deliverance—reveals that God was never after Isaac's death. He was after Abraham's heart. Every altar we build, every surrender we make in faith, is not about loss but about repositioning ourselves toward our truest good. God's way of trusting is also God's way of multiplying blessing.",
+        "What have you found difficult to place on God's altar? Not to surrender permanently, but to trust genuinely that his purposes are good even when you cannot see the outcome? Consider bringing that to prayer today, remembering that the God who provided for Abraham still reigns over our impossible circumstances."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 22: Scholarly study",
+      "overview": [
+        "Genesis 22 stands as one of the most theologically profound and ethically challenging narratives in the Hebrew Bible, recounting God's command to Abraham to offer his son Isaac as a burnt offering on Mount Moriah. The passage, typically attributed to the Elohist source by documentary hypothesis scholars, though this attribution remains contested, functions as the climactic test of Abraham's faith journey that began with his call in Genesis 12. The temporal marker \"after these things\" connects this episode to the preceding narratives of covenant promise and the long-awaited birth of Isaac, heightening the dramatic tension of what God now demands.",
+        "The Hebrew term *nissah* (נִסָּה), rendered \"tested\" in verse 1, carries connotations of proving or refining rather than tempting toward evil, distinguishing divine testing from satanic temptation as later developed in Jewish and Christian theology. This verb establishes the narrative framework: readers know from the outset that God does not ultimately desire child sacrifice, though Abraham operates without this knowledge. The designation of Isaac as Abraham's \"only son\" (*yaḥid*) whom he loves presents interpretive complexity, given Ishmael's existence, yet emphasizes Isaac's unique covenantal status as the child of promise through whom Abraham's descendants would be reckoned.",
+        "The threefold dialogue structure—Abraham's responses of *hineni* (\"here I am\") to God, to Isaac, and to the angel—demonstrates unwavering availability and obedience throughout the narrative's progression. Abraham's cryptic answer to Isaac's poignant question about the sacrificial lamb, \"God himself will provide\" (*yireh*), proves both evasive and prophetically accurate, establishing the etiology for the site's name and introducing the theological motif of divine provision that reverberates through canonical Scripture.",
+        "The passage has generated extensive interpretive debate regarding its ethical implications, with Kierkegaard's \"teleological suspension of the ethical\" representing one influential philosophical reading. Jewish interpreters in the Akedah tradition emphasize Isaac's willing participation, while Christian typological readings have historically seen Isaac as prefiguring Christ. The angel's intervention and the ram's substitution ultimately affirm that Israel's God, unlike Canaanite deities, rejects human sacrifice while paradoxically demonstrating that authentic covenant relationship demands absolute surrender of one's most precious attachments."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 22: Prophetic perspective",
+      "overview": [
+        "Genesis 22 stands as one of the most sacred and terrible passages in all of Scripture, occurring approximately 2,000 years before Christ, some four centuries before the Exodus, in the era of the patriarchs when God was first establishing His covenant family through Abraham. This chapter belongs to the foundational period of redemptive history—after the call of Abraham but before the nation of Israel existed, when the promises of land, seed, and blessing hung upon a single heir named Isaac.",
+        "The command that opens this passage would have seemed to annihilate everything God had previously sworn. Isaac was the child of promise, born miraculously to aged parents, the sole vessel through whom the nations would be blessed. Yet the Lord called Abraham to offer him as a burnt offering on Mount Moriah—the very mountain where Solomon would later build the temple, where sacrificial blood would flow for a thousand years, and near where the true Lamb would one day be slain. This geographical detail reveals the prophetic architecture of the passage: Abraham was walking on ground already consecrated for the ultimate sacrifice.",
+        "The typological richness here is staggering. Isaac, the beloved son carrying wood up the mountain to the place of sacrifice, prefigures Christ bearing His cross to Calvary. Abraham's words to his servants—\"the lad and I will go yonder and worship, and we will come back to you\"—constitute a confession of resurrection faith, as Hebrews 11 confirms. Abraham believed that even if Isaac died, God would raise him, for the promises could not fail. Father and son walked together in unified purpose toward the altar, imaging the eternal fellowship of Father and Son in the economy of redemption.",
+        "Yet at the crucial moment, heaven intervened. A ram caught in a thicket became the substitute, and Isaac descended the mountain alive. Here is both fulfillment and anticipation: the principle of substitutionary sacrifice was established, yet the ram pointed beyond itself. Abraham prophetically named the place \"The LORD Will Provide,\" speaking of a future provision greater than any animal could accomplish. On Moriah, God provided a ram; on Golgotha, He provided His own Son—and no voice from heaven stopped that sacrifice.",
+        "For the church living between the advents, Genesis 22 declares that the gospel is no afterthought. Before Israel, before the law, before the prophets, God was already revealing His heart: a Father who would not spare His own Son, that through His beloved, all nations might receive the blessing Abraham was promised."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.690696+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

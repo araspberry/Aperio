@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 35,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 35 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 35: Coming Home to God",
+      "overview": [
+        "The spiritual heart of this passage is reconciliation—Jacob's return to Bethel where he first encountered God, bringing his fractured household into wholeness and covenant faithfulness. After years of wandering and wrestling with his own nature, Jacob finally comes home.",
+        "Jacob's journey in Genesis 35 begins with divine command: \"Go up to Bethel and settle there.\" But before he can build an altar to the God who met him there decades earlier, something profound must happen. He calls his household to \"get rid of the foreign gods you have with you.\" This isn't merely external purification; it's spiritual housecleaning. Jacob, who has built a life in Laban's household, must help his entire family—wives, children, servants—strip away whatever divides their allegiance from the true God. They bury their idols beneath an oak tree, a physical act of renouncing false hopes and divided hearts.",
+        "The journey to Bethel itself becomes transformative. Scripture tells us \"the terror of God fell on the towns all around them\"—a protective boundary that guards Jacob's vulnerable family as they travel. God doesn't just command obedience; He surrounds it with grace. At Bethel, Jacob builds an altar and remembers. This is the place where, as a refugee fleeing his brother's wrath, he dreamed of heaven's ladder and heard God promise presence and protection. Now, covered in years of experience, mistakes, and growth, he returns to honor that original covenant.",
+        "Yet the passage doesn't shy from life's pain. Rachel dies giving birth to Benjamin, and Jacob's grief is real and unvarnished. Wholeness doesn't mean the absence of sorrow; it means bringing even our losses into relationship with a faithful God.",
+        "Jacob's story invites us to ask: What \"foreign gods\"—misplaced trust, competing allegiances, false securities—might be cluttering our hearts? Where has God met us before, and are we willing to return to that place of covenant commitment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 35: Scholarly study",
+      "overview": [
+        "Genesis 35 constitutes a pivotal transitional chapter that brings the Jacob cycle toward its culmination while simultaneously preparing for the Joseph narrative. The chapter functions as a literary inclusio with Genesis 28, where Jacob first encountered God at Bethel during his flight from Esau. Now, approximately two decades later, the divine command to return to Bethel (*bêt-'ēl*, \"house of God\") represents both geographical and spiritual closure. The chapter's composition reflects multiple traditions woven together by the final redactor, incorporating theophany, cultic reform, genealogy, and death notices—all serving to consolidate Jacob's transformation into Israel and establish the twelve-tribe structure.",
+        "The opening divine imperative demanding Jacob's return to Bethel prompts a remarkable act of religious purification. Jacob commands his household to remove their \"foreign gods\" (*'ĕlōhê hannēkār*), a phrase encompassing both the teraphim Rachel stole from Laban and possibly Canaanite cult objects acquired at Shechem. The burial of these items beneath the oak at Shechem represents a decisive break with syncretistic practices, prefiguring later Deuteronomistic reforms. The \"terror of God\" (*ḥittat 'ĕlōhîm*) that falls upon surrounding cities demonstrates divine protection following the Shechem massacre, though interpreters debate whether this vindicates or merely postpones judgment on Simeon and Levi's violence.",
+        "The Bethel theophany in verses 9-15 reiterates the Abrahamic promises with notable additions. God's self-identification as *'ēl šadday* connects to patriarchal tradition, while the promise that \"kings shall come from your body\" anticipates the Davidic monarchy. The renaming to Israel, previously occurring at Peniel, receives formal divine ratification here—a repetition that source critics attribute to different traditions but which canonical readers understand as emphatic confirmation.",
+        "The chapter's latter portion records profound losses: Rachel's death in childbirth near Bethlehem, where she names her son Ben-oni (\"son of my sorrow\") before Jacob renames him Benjamin (\"son of the right hand\"); Reuben's transgression with Bilhah, which forfeits his firstborn rights; and finally Isaac's death at Hebron. The genealogical summary of Jacob's twelve sons provides the structural foundation for understanding Israel as a tribal confederation, setting the stage for the dramatic Joseph narrative that follows."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 35: Prophetic perspective",
+      "overview": [
+        "Genesis 35 unfolds approximately 1900 years before the birth of Christ, during the patriarchal age when God was laying the foundational promises through Abraham's descendants. This chapter occurs after Jacob's troubling sojourn near Shechem, where the defilement of Dinah and the violence of Simeon and Levi had brought disgrace upon his household. Within the grand arc of redemption, we stand here between the Abrahamic covenant and the eventual descent into Egypt—a pivotal moment of covenant renewal before the family of promise enters their long preparation for the Exodus.",
+        "God commands Jacob to return to Bethel, the house of God, where decades earlier the patriarch had beheld the ladder reaching into heaven. This return becomes a moment of purification and consecration. Jacob orders his household to put away foreign gods, to cleanse themselves, and to change their garments—a typological foreshadowing of the repentance and sanctification that would mark Israel's covenant renewals and ultimately find fulfillment in the washing of regeneration through Christ. The burial of idols under the oak at Shechem anticipates the burial of the old self that Paul would later proclaim as essential to union with Christ.",
+        "At Bethel, God appears and reconfirms the name Israel, the one who strives with God and prevails. More significantly, God restates the Abrahamic promise: land, offspring, and kings proceeding from his loins. This prophecy reaches through the centuries toward David's throne and culminates in the greater Son who would reign forever. The divine self-identification as El Shaddai—God Almighty—echoes the covenant name revealed to Abraham, binding the generations together in one unfolding purpose.",
+        "Yet shadow falls across this chapter. Rachel dies giving birth to Benjamin, her departing soul naming him Ben-oni, son of my sorrow, while Jacob renames him Benjamin, son of the right hand. Here prophecy whispers of One who would be both man of sorrows and exalted to the Father's right hand. Reuben's sin with Bilhah disqualifies the firstborn, continuing the pattern whereby God's election overturns human expectation—a pattern fulfilled when Christ, not through primogeniture but through divine appointment, became heir of all things.",
+        "The chapter closes with Isaac's death and burial by both sons, Esau and Jacob, together. For the church awaiting Christ's return, Genesis 35 calls us to perpetual Bethel-returns—putting away idols, receiving renewed identity, and trusting that through sorrow God births sons of His right hand."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_035",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.724406+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

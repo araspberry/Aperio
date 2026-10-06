@@ -1,0 +1,55 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 25: The Cost of Spiritual Wavering",
+      "overview": [
+        "King Amaziah's story teaches us that partial obedience and spiritual inconsistency leave us vulnerable to defeat, even when we begin with genuine intentions toward God. His reign becomes a portrait of someone who loves the Lord but cannot fully surrender control of his circumstances to Him.",
+        "Amaziah starts well—he executes his father's assassins according to the Law, and he gathers a massive army for battle against Edom. But here we see the first fracture: he hires one hundred thousand soldiers from Israel, the very nation he should avoid depending upon spiritually. When God's prophet confronts him, Amaziah does listen and sends them home, even losing the money he paid them. That obedience shows genuine faith. Yet immediately after defeating the Edomites, he brings their gods back to Jerusalem and bows before them. The prophet's indictment is cutting: \"Why have you sought the gods of a people who could not even deliver their own land from your hand?\"",
+        "This is the tragedy of Amaziah—he can obey God in one area but then contradict that obedience in another. He wins a great victory, then falls into idolatry. He allows pride to replace the humble dependence that brought him success. When Israel's King Jehoash challenges him, rather than seeking God's counsel, Amaziah charges forward confidently. He is defeated, captured, and humiliated.",
+        "We recognize ourselves in Amaziah. We pray earnestly about one decision, then make another without consulting God at all. We experience His faithfulness and then immediately turn to other sources of security—success, status, comfort. We compartmentalize our faith as though we can serve God on Sundays while living for ourselves the rest of the week.",
+        "The passage invites us to examine where we give our allegiance inconsistently. What areas of your life have you not fully surrendered to Christ's lordship? Where are you bringing \"Edomite gods\" into your spiritual house?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 25: Scholarly study",
+      "overview": [
+        "Second Chronicles 25 presents the reign of Amaziah of Judah, a monarch whose career the Chronicler evaluates with characteristic theological nuance, describing him as one who acted rightly \"yet not with a whole heart\" (v. 2). This assessment encapsulates the chapter's central tension and provides the interpretive key for understanding the subsequent narrative of military victory followed by catastrophic defeat. The Chronicler, writing for the post-exilic community, shapes his account to demonstrate the inexorable connection between covenant fidelity and national prosperity, a theme particularly relevant for readers reconstructing their religious identity after the Babylonian exile.",
+        "The Hebrew phrase \"lō' bēlēbāb šālēm\" (not with a complete heart) in verse 2 employs the adjective *šālēm*, cognate with *shalom*, suggesting wholeness or integrity rather than mere sincerity. This terminology recalls the Chronicler's ideal of undivided loyalty, contrasting sharply with David's exemplary devotion. Amaziah's divided heart manifests concretely when, despite dismissing the Israelite mercenaries at prophetic instruction, he later adopts the gods of conquered Edom—a theological absurdity the prophet exposes with biting irony: why worship deities who could not deliver their own people?",
+        "The term *qeṣep* (wrath) appears strategically throughout Chronicles to signal divine displeasure leading to judgment. When Amaziah refuses prophetic counsel in verse 16, the prophet's declaration that God has determined to destroy him employs the verb *yā'aṣ* (to counsel or purpose), creating a grim wordplay: because the king rejected divine counsel, God's own counsel now seals his fate. This literary technique underscores the Chronicler's emphasis on immediate retribution.",
+        "The chapter's relationship to its parallel in 2 Kings 14 reveals the Chronicler's distinctive theological agenda. While Kings attributes Amaziah's challenge to Joash of Israel to political hubris, Chronicles explicitly links it to his idolatry, making the disastrous battle at Beth-shemesh a direct consequence of apostasy. Scholars debate whether the Chronicler utilized additional sources or engaged in interpretive expansion, though the theological coherence suggests deliberate redactional activity. The chapter concludes with conspiracy and assassination, demonstrating that a divided heart ultimately produces a divided kingdom and a violent end."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 25: Prophetic perspective",
+      "overview": [
+        "This chapter records events from approximately 796–767 BC, during the divided kingdom period when Judah existed as a separate nation from the northern tribes of Israel. King Amaziah reigned in Jerusalem some two centuries after David's golden age, roughly 800 years before the incarnation of Christ. The narrative unfolds during a season of relative stability between the great prophets, positioned within redemptive history at that critical juncture between the united monarchy's glory and the approaching Babylonian exile that would come little more than a century later.",
+        "Amaziah embodies the tragic pattern of partial obedience that plagued so many of David's descendants. The Spirit's assessment cuts with surgical precision: he did right in the eyes of the Lord, yet \"not with a whole heart.\" This divided allegiance typifies the fundamental human condition that no merely human king could remedy. Amaziah begins with commendable acts—executing his father's assassins while mercifully sparing their children according to Mosaic law, demonstrating that the word of God still held authority in Judah. His dismissal of the Israelite mercenaries at prophetic command, even at the cost of a hundred talents of silver, reveals a flickering faith that recognized divine sovereignty over material loss.",
+        "Yet the king who heeded prophetic warning concerning Israel's soldiers inexplicably hardened his heart when confronted about the Edomite gods he had shamefully collected. Here unfolds a sobering pattern: the same heart that bends to God in one moment stiffens in the next. The prophet's rebuke—\"Why have you sought the gods of a people who could not deliver their own nation?\"—exposes the absurdity of all idolatry and anticipates every instance where God's people would forsake living waters for broken cisterns.",
+        "Amaziah's challenge to Israel's King Jehoash springs from pride swollen by victory over Edom. The parable of the thistle and cedar stands as timeless wisdom against self-exaltation. His crushing defeat, the breach of Jerusalem's wall, and his eventual assassination by conspirators demonstrate that unfaithfulness yields bitter harvest.",
+        "The divided heart of Amaziah points forward to humanity's desperate need for the king whose heart was wholly devoted to the Father—Jesus Christ, who obeyed perfectly where every Davidic king faltered. The church now lives as citizens of His unshakeable kingdom, called not to partial allegiance but to wholehearted devotion, awaiting the day when every divided heart shall be made whole in His presence."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.832067+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

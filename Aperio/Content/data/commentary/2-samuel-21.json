@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 21: When Justice Carries a Price",
+      "overview": [
+        "The spiritual heart of this chapter is uncomfortable and necessary: authentic covenant faithfulness sometimes requires us to face hard truths about past wrongs and accept costly consequences with honest repentance.",
+        "Second Samuel 21 opens with a three-year famine, and David's inquiry reveals that Saul's house had violated the ancient covenant with the Gibeonites by shedding their blood. What strikes us first is how long sin can linger in a land. The violation didn't belong to David, yet its weight pressed upon his kingdom. This is not about transferred guilt in the judicial sense, but about how communities inherit the consequences of injustice—a reality we still experience in generational trauma and structural sin. David doesn't argue or deflect. Instead, he humbly asks the Gibeonites what restitution would satisfy them, and when they demand the lives of seven descendants from Saul's house, he grants it, despite the covenant he once made with Jonathan.",
+        "This troubles us, and rightly so. Yet David recognizes something profound: some debts are so grave that they cannot simply be forgotten in the name of mercy or convenience. Justice matters. Covenants matter. When we ignore the cries of the wronged, we invite God's judgment upon the land itself. David's willingness to face this hard truth, even though it cost him deeply, opened the way for healing.",
+        "The chapter then recounts the exploits against giants—including Goliath's brother—reminding us that after we've done the costly work of repentance and justice, God walks with us through ongoing battles. We are not left powerless.",
+        "What unresolved injustice in my own life or community might God be calling me to address, even if the path forward is painful? Am I willing to seek restitution and repair, trusting that God walks with me through the consequences?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 21: Scholarly study",
+      "overview": [
+        "The twenty-first chapter of Second Samuel presents one of the more theologically and ethically challenging narratives in the Deuteronomistic History, recounting a three-year famine that David interprets as divine judgment for Saul's violation of the ancient covenant with the Gibeonites. This chapter, along with chapters 22-24, forms an appendix to the main narrative of David's reign, containing materials that interrupt the succession narrative and preserve traditions about David's later years and his mighty warriors.",
+        "The narrative opens with David seeking the face of Yahweh (*wayəbaqqēš dāwid ʾet-pənê YHWH*) regarding the famine, a phrase indicating formal cultic inquiry. The divine response attributes the calamity to bloodguilt (*dāmîm*) upon Saul's house for slaughtering Gibeonites, an act not recorded elsewhere in Samuel but consistent with Saul's zealous nationalism mentioned in verse 2. The Gibeonites, identified as remnants of the Amorites, had secured a covenant with Israel during Joshua's conquest, making Saul's actions a violation of sacred oath obligations that carried transgenerational consequences in ancient Near Eastern thought.",
+        "The term *kippēr* (\"make atonement\" or \"expiate\") appears in verse 3, where David asks the Gibeonites what will satisfy their claim. Their demand for seven of Saul's descendants to be impaled (*hôqaʿ*) or hanged represents a form of ritual execution that exposed bodies to public shame and possibly carried sacral significance. David's protection of Mephibosheth due to his oath with Jonathan while surrendering others has generated considerable scholarly debate about political motivations underlying this ostensibly religious act.",
+        "Rizpah's vigil over the exposed bodies from barley harvest until the autumn rains constitutes one of Scripture's most poignant images of maternal devotion and challenges to royal justice. Her action apparently shames David into proper burial rites, prompting him to gather these bones along with the remains of Saul and Jonathan for interment in the family tomb at Zela in Benjamin.",
+        "The chapter's placement and theological claims remain contested. Some scholars view it as Davidic propaganda justifying the elimination of Saulide rivals, while others emphasize its witness to communal responsibility and the serious consequences of covenant violation in Israelite theology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 21: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before Christ, during the latter portion of David's reign in Jerusalem, after the kingdom had been established but before Solomon's succession. The events recorded here reach backward to address unfinished covenantal business from the era of Joshua and Saul, demonstrating how divine justice operates across generations. Within the grand arc of redemption, this passage sits firmly in the Kingdom period, that crucial epoch when God was establishing through David's throne an everlasting dynasty that would ultimately produce the Messiah.",
+        "The three-year famine that opens this chapter reveals a profound principle of covenant faithfulness. Saul had violated Israel's ancient oath to the Gibeonites made in Joshua's day, and blood guilt rested upon the land despite the passage of many years. The seven sons of Saul given over to death present a sobering type: a king's descendants bearing the consequence of royal failure, their bodies exposed upon the hill before the Lord. Yet here emerges Rizpah, whose fierce maternal vigil over the dead bodies from the beginning of harvest until the rains fell carries deep prophetic resonance. She foreshadows the faithful women who would stand watch at another execution hill, refusing to abandon the crucified One even when all seemed lost.",
+        "The latter portion recounts David's wars against the Philistine giants, descendants of Rapha who threatened God's anointed. David, now aged and weary, nearly falls to Ishbi-benob but is rescued by Abishai. His men then declare that David must no longer go out to battle, lest he quench the lamp of Israel. This lamp imagery speaks directly to messianic expectation—David's line must be preserved because from it would come the Light of the World. The four giants slain by David's mighty men echo the original conquest when Joshua's generation drove out the Anakim. What Joshua's generation began, David's warriors complete, typifying Christ's ultimate victory over every hostile power.",
+        "The chapter thus weaves together themes of covenant violation and vindication, substitutionary death for national sin, faithful watching through dark nights, and the preservation of the messianic line against demonic opposition. For the church dwelling between Christ's ascension and return, this passage reminds believers that God remembers every covenant, that faithful vigil through suffering matters eternally, and that no giant of hell can extinguish the lamp that now blazes triumphantly in the risen Son of David."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.520652+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

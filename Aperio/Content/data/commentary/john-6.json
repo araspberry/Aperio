@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 6: The Bread of Life",
+      "overview": [
+        "John 6 presents Jesus as the ultimate sustenance of the soul, inviting us to move beyond surface hunger to the deeper nourishment only He provides. This chapter traces the arc from physical appetite to spiritual dependency, teaching that true life flows from trusting and belonging to Jesus.",
+        "The feeding of the five thousand opens this account with Jesus meeting immediate human need—hunger, exhaustion, uncertainty about tomorrow. Yet Christ refuses to let the story end there. When the crowd seeks Him the next day, He gently confronts their motivation: they want more bread, not His person. He calls them to labor \"for food that endures to eternal life,\" naming Himself as the bread come down from heaven. This provocative language—\"unless you eat the flesh of the Son of Man and drink His blood, you have no life in you\"—initially repels many disciples. Yet Jesus stands firm, not offering easier terms.",
+        "What Jesus teaches is the irreplaceable necessity of intimate union with Him. Eating and drinking are acts of assimilation; they speak of taking something outside ourselves and making it part of our very being. To consume His flesh and blood is to absorb His life, His sacrifice, His character into our own existence. No substitute satisfies. No other teacher, philosophy, or pursuit can nourish what was made for eternal communion.",
+        "This offends our self-sufficiency. We prefer programs to presence, information to intimacy, and manageable religion to dependent relationship. Yet Jesus insists on the harder, deeper way. He asks whether we will follow Him when the crowds thin, when His words challenge us, when obedience costs something real.",
+        "The chapter closes with Peter's essential declaration: \"Lord, to whom shall we go? You have the words of eternal life.\" This is the heart of discipleship—not perfect understanding or undisturbed comfort, but the recognition that abandoning Jesus means abandoning life itself.",
+        "What area of your life are you still trying to nourish with something other than Christ's presence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 6: Scholarly study",
+      "overview": [
+        "The sixth chapter of John's Gospel represents one of the most theologically dense and literarily sophisticated sections of the Fourth Gospel, situated within what scholars term the \"Book of Signs\" (chapters 1–12). Composed likely in the final decade of the first century from Ephesus, this chapter reflects the Johannine community's high Christology developed in dialogue with both Hellenistic thought and emerging rabbinic Judaism following the destruction of the Temple in 70 CE. The chapter unfolds in three interconnected movements: the feeding of the five thousand (vv. 1–15), Jesus walking on water (vv. 16–21), and the extended Bread of Life discourse at Capernaum (vv. 22–71).",
+        "The Greek term *sēmeion* (sign) governs the chapter's theological logic, distinguishing John's understanding from mere miracle (*teras*). For the Fourth Evangelist, signs function as revelatory windows into Jesus's divine identity rather than spectacular proofs. The feeding narrative deliberately evokes Exodus typology, positioning Jesus as the true Moses who provides not temporary manna but eternal sustenance. The crucial term *artos* (bread) appears twenty-one times in this chapter, undergoing progressive semantic transformation from physical nourishment to christological metaphor to what many interpret as eucharistic symbolism.",
+        "The discourse's most controversial assertion appears in verses 53–58, where Jesus declares that one must eat (*trōgō*—a verb denoting literal chewing rather than the more metaphorical *esthiō*) his flesh and drink his blood. Interpretive traditions divide sharply here: sacramentalists read these verses as establishing eucharistic theology, while others emphasize the Johannine theme of believing as the primary mode of receiving Christ. The chapter's conclusion, where many disciples depart and Peter confesses Jesus as \"the Holy One of God,\" prefigures the passion narrative's dynamics of rejection and faithful remnant.",
+        "Significant textual considerations include the possible interpolation of verses 51c–58, which some scholars argue represent a later ecclesiastical addition given their more explicitly sacramental language. The chapter's placement after chapter 5, with its Jerusalem controversy, creates geographical awkwardness that has prompted theories of displaced material, though the canonical arrangement effectively juxtaposes Jewish festival contexts with Jesus's self-revelatory claims."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 6: Prophetic perspective",
+      "overview": [
+        "John chapter six unfolds approximately three years into the public ministry of Jesus, around AD 29, during the Passover season—a detail John deliberately preserves to frame what follows in exodus imagery. This places the narrative squarely within the era of incarnation, when the eternal Word tabernacled among humanity, the promised Seed of Abraham and Son of David walking the soil of the covenant land while Israel languished under Roman occupation, awaiting her consolation.",
+        "The feeding of the five thousand stands as the only miracle recorded in all four Gospels, marking it as a typological summit. Jesus ascends a mountain, gathers the multitudes, and multiplies bread in the wilderness—echoing Moses on Sinai, manna in the desert, and Elisha's multiplication of loaves. Yet here is One greater than Moses, greater than Elisha. Where Moses mediated bread that sustained temporarily, Jesus declares Himself the living bread descended from heaven, offering life that death cannot terminate. The manna of old preserved bodies destined for graves scattered across the wilderness; this bread confers resurrection. The typology reaches its climax: the exodus from Egypt foreshadowed a greater exodus from sin and death, and the Passover lamb pointed to the Lamb whose flesh would be given for the life of the world.",
+        "The discourse at Capernaum unveils eschatological realities with startling clarity. Four times Jesus promises to raise up believers \"at the last day,\" anchoring present faith to future resurrection. The eating of His flesh and drinking of His blood—language that scandalized even disciples—anticipates the cross and the covenant meal that would memorialize it. What He speaks prophetically here, He will institute in the upper room: a feast wherein the church participates in His death until He comes.",
+        "The sifting that follows carries its own prophetic weight. Many disciples depart, unable to receive hard words. Yet Peter's confession emerges like dawn breaking: \"You have the words of eternal life.\" This pattern reverberates through every age—the proclaimed Christ divides humanity, drawing the elect while hardening others.",
+        "For the church dwelling between resurrection and return, this chapter issues both comfort and summons. Christ remains the only sustenance for the soul's deepest hunger. Those who feed on Him by faith possess eternal life as present reality and resurrection as certain hope. The Bread of Life will satisfy His people until that day when wilderness wandering gives way to the marriage supper of the Lamb, and faith becomes sight forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.622963+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

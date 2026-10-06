@@ -1,0 +1,55 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 15: The Power of Wholehearted Seeking",
+      "overview": [
+        "When Asa turned his nation back toward God with fierce determination, he discovered that spiritual renewal always begins with a decision to seek the Lord with undivided heart. This passage reveals a profound truth: God honors wholehearted devotion and responds with transformation that reaches into the deepest places of a culture.",
+        "The prophet Azariah comes to Asa with a message that echoes across the centuries—the Lord is with those who are with him. This isn't a promise of ease or the absence of struggle. Rather, it's the assurance that when we align ourselves completely with God's purposes, we find ourselves on the right side of history, in partnership with the One who holds all things together. Asa's response is remarkable: he removes idols, repairs the altar, and gathers the people to renew their covenant with the Lord. His commitment becomes contagious, spreading through the entire nation.",
+        "What makes this story so compelling is its honesty about spiritual work. Asa didn't simply pray and wait; he acted decisively. He removed obstacles. He created space for the Lord to work. He called people together for collective recommitment. This teaches us that seeking God with wholehearted sincerity involves both our passion and our practical choices—the habits we break, the companions we gather around us, the rituals we establish.",
+        "For those of us living in fragmented times, when our hearts are often divided between competing loyalties and endless distractions, Asa's example cuts deep. Wholehearted seeking means examining what we've built our lives around and being willing to dismantle whatever has become an idol. It means creating intentional space for corporate worship and mutual accountability.",
+        "The promise holds firm: when we seek the Lord with undivided hearts, we find him. Not because we deserve it, but because his nature is to draw near to those who draw near to him. Where is your heart divided today, and what would it mean to seek God with undivided devotion?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 15: Scholarly study",
+      "overview": [
+        "Second Chronicles 15 presents a pivotal moment in the reign of Judah's King Asa, recording a prophetic oracle and the subsequent religious reform that marked one of the most significant spiritual renewals in the divided kingdom's early history. The Chronicler, writing in the post-exilic period, shapes this account to demonstrate the principle of divine retribution that pervades his theological framework: faithfulness to Yahweh yields blessing, while abandonment brings judgment. This chapter follows immediately upon Asa's military victory over the Cushite Zerah (chapter 14), establishing a cause-and-effect relationship between trust in God and national prosperity.",
+        "The prophecy of Azariah ben Oded introduces the key Hebrew term *darash* (דָּרַשׁ), meaning \"to seek\" or \"to inquire of,\" which appears repeatedly throughout this passage and serves as a Leitwort for the entire Chronicler's history. The conditional formulation in verse 2—\"Yahweh is with you while you are with him\"—encapsulates the Chronicler's retribution theology in remarkably succinct terms. The phrase *'im-tidreshuhu yimmatse' lakhem* (\"if you seek him, he will be found by you\") echoes Deuteronomic covenantal language and anticipates similar formulations in 2 Chronicles 7:14.",
+        "Verses 3–6 present interpretive challenges, as scholars debate whether this \"prophetic retrospective\" references the judges period, the divided monarchy's early chaos, or functions as a typological warning applicable to any era of apostasy. The description of a time \"without the true God, without a teaching priest, and without law\" (*torah*) may intentionally evoke the post-exilic community's own experience of reconstruction.",
+        "The reform account (verses 8–15) emphasizes covenant renewal through the Hebrew term *berith* (בְּרִית) and the people's wholehearted commitment, described with the phrase *bekhol-lebabam* (\"with all their heart\"). The detail that participants swore \"with all their heart and with all their soul\" deliberately echoes the Shema's covenantal language from Deuteronomy 6:5. Notably, the Chronicler includes the removal of Maacah the queen mother, demonstrating that authentic reform spares no one regardless of status—a theme particularly relevant for post-exilic readers reconstructing faithful community life."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 15: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 900 years before the birth of Christ, during the divided kingdom period following Solomon's reign. King Asa of Judah has just returned from a miraculous military victory over the vast Ethiopian army, and now the Spirit of God comes upon the prophet Azariah to interpret the meaning of that deliverance and call the nation to covenant renewal. Within the grand redemptive narrative, this passage sits in the kingdom era—after the Davidic covenant established God's promise of an eternal throne, yet amid the recurring cycle of apostasy and restoration that would eventually lead to exile.",
+        "The prophecy of Azariah carries weight far beyond its immediate context. When he declares that Israel was \"for a long season without the true God, and without a teaching priest, and without law,\" he reaches backward to the dark days of the judges while simultaneously casting a shadow forward to every generation that abandons covenant faithfulness. This pattern—spiritual famine followed by desperate seeking and gracious restoration—becomes the rhythm of redemptive history itself. The prophetic principle announced here, \"The LORD is with you while you are with Him... but if you forsake Him, He will forsake you,\" echoes through the centuries as both warning and invitation.",
+        "Asa's reforms present a powerful type of the greater purification that Christ accomplishes. The king removes abominable idols, restores the altar of the LORD, and gathers not only Judah and Benjamin but also sojourners from Ephraim, Manasseh, and Simeon who had defected because they saw that God was with Asa. Here shimmers a prophetic foreshadowing of how Messiah would draw worshipers from every tribe and nation, not through military victory but through the cross. The sacrificial offerings from the spoil—seven hundred oxen and seven thousand sheep—point toward that final offering when Christ would consecrate the spoils of His victory over sin and death.",
+        "The covenant renewal in the third month deliberately echoes Sinai, where Israel first received the law at Pentecost. Centuries later, in that same season, the Spirit would fall upon the church, writing the law upon hearts rather than stones, fulfilling what Asa's reformation could only anticipate.",
+        "The church now lives as Asa lived—between victory already won and enemies not yet fully subdued. The call remains unchanged: seek the Lord with all your heart, and He will be found. Remove every idol. Repair the altar of worship. The promise endures for those who persevere: rest will come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.803348+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

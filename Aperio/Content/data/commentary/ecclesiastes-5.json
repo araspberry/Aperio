@@ -1,0 +1,56 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 5: The Wisdom of Restraint and Reverence",
+      "overview": [
+        "The spiritual heart of Ecclesiastes 5 is the call to replace empty pursuits with reverent submission to God—to guard our tongues, restrain our desires, and recognize that all earthly gain is ultimately hollow without Him.",
+        "The Teacher begins with a striking image: we should be \"swift to hear\" but slow to speak when we enter God's house, because fools multiply words and make rash vows. There's profound wisdom here for modern believers. We live in an age of endless speech—social media, podcasts, opinions broadcast constantly. Yet the passage invites us to silence, to listening, to the recognition that standing before God calls for humility rather than self-expression. Words matter. Vows matter. The casual way we speak or commit to things can entangle us in spiritual consequences we didn't anticipate.",
+        "Then the Teacher turns to the accumulation of wealth and possessions. This is perhaps the passage's deepest challenge. Money multiplies anxieties—those who love it never have enough; those who depend on it sleep uneasily. A worker finds rest and satisfaction in modest sleep and simple food, but the rich cannot rest because they're haunted by their abundance. The implication stings: we've been promised that more will make us happy, yet more often makes us prisoners.",
+        "What emerges is a portrait of contentment rooted in reverence. When we fear God—that deep, awestruck respect—we stop grasping for what ultimately cannot satisfy. We eat our food with joy, knowing it comes from God's hand. We work without obsessing over outcomes. We recognize that everything is transient, even our accomplishments and acquisitions.",
+        "This is liberation disguised as limitation. When we cease fighting for more and surrender to God's sufficiency, anxiety loosens its grip.",
+        "What would change in your daily life if you truly believed that modest provision, received gratefully from God's hand, is enough? Where might you practice restraint—in speech, in desire, in planning—as an act of reverence this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 5: Scholarly study",
+      "overview": [
+        "Ecclesiastes 5 presents a carefully constructed unit that moves from cultic instruction regarding proper worship to extended reflection on the vanity of wealth, demonstrating the Preacher's characteristic interweaving of practical wisdom with his broader philosophical project. The chapter's placement following the reflections on divine sovereignty in chapter 3 and the observations of oppression in chapter 4 suggests an intentional progression: having established God's inscrutable control over time and witnessed human injustice, Qoheleth now addresses how mortals should approach both the divine presence and material possessions.",
+        "The opening verses (1–7) employ temple terminology that situates the reader in Israel's liturgical context. The Hebrew *qārab* (\"to draw near\") carries covenantal weight, echoing Deuteronomic language about approaching the sanctuary. Qoheleth's counsel to \"guard your steps\" (*regel*, literally \"foot\") invokes the physical act of entering sacred space while metaphorically urging spiritual attentiveness. The warning against hasty speech before God employs *bāhal* (\"to be rash\" or \"to act precipitously\"), a term suggesting the foolish impetuosity that characterizes those who multiply words without understanding the vast ontological distance between Creator and creature.",
+        "The transition at verse 8 introduces observations on wealth that occupy the chapter's remainder. The term *hôn* (\"wealth\" or \"riches\") appears alongside *kesep* (\"silver\" or \"money\"), and Qoheleth's verdict employs the programmatic *hebel*—that vapor-like transience characterizing all earthly gain. The sage observes a cruel irony: abundance breeds insomnia while the laborer enjoys untroubled rest. This inversion of expected outcomes typifies Qoheleth's method of destabilizing conventional wisdom assumptions.",
+        "Interpreters debate whether verses 18–20 represent resigned acceptance or genuine commendation of simple enjoyment. The phrase *ṭôb weyāpeh* (\"good and fitting\") suggests Qoheleth genuinely endorses receiving daily provision as divine gift, though this contentment remains circumscribed by mortality's shadow. The chapter thus accomplishes a dual purpose within the book's architecture: it tempers religious presumption while redirecting human desire away from accumulation toward grateful reception of present blessings. This measured affirmation neither capitulates to hedonism nor succumbs to despair, charting instead a precarious middle path that acknowledges both divine transcendence and creaturely limitation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 5: Prophetic perspective",
+      "overview": [
+        "Ecclesiastes chapter five emerges from the pen of Solomon approximately 930 years before Christ's incarnation, during the zenith of Israel's united monarchy—a time of unprecedented wealth, wisdom, and temple worship in Jerusalem. This places the passage firmly in the Kingdom era of redemptive history, that golden moment when David's throne seemed secure and God's promises to Abraham appeared to be flowering in visible splendor. Yet even at this apex, the Preacher speaks with the voice of holy disillusionment, preparing Israel for the exile that would come three and a half centuries later and pointing beyond all earthly kingdoms to something more permanent.",
+        "The chapter opens with solemn instruction about approaching God's house, and here we glimpse the shadow of greater realities. The temple where Solomon worshiped was itself a type—a temporary dwelling pointing toward the incarnate Word who would tabernacle among humanity. The warning against rash vows and multiplied words before the Holy One anticipates Christ's teaching that the Father seeks worshipers in spirit and truth, not in the empty repetitions of the nations. The reverent fear demanded in the earthly sanctuary finds its ultimate expression at Calvary, where heaven and earth intersected and words themselves fell silent before the mystery of redemption.",
+        "Solomon's penetrating analysis of wealth, possessions, and the endless cycle of acquisition carries profound eschatological weight. The one who loves money never finding satisfaction, the rich man whose abundance permits no sleep, the grievous evil of wealth hoarded then lost—these observations expose the fundamental bankruptcy of life under the sun apart from God's eternal purpose. Every generation rebuilds Babel, seeking security in accumulated treasures that moth and rust corrupt. The Preacher's words find their authoritative echo in Christ's parables of foolish builders and rich fools whose souls are required of them unexpectedly.",
+        "Yet the chapter does not end in despair. Solomon identifies genuine gift amid the vapor: the person who eats, drinks, and finds enjoyment in their toil has received something from God's own hand. This is no mere hedonism but rather a prophetic glimpse of new covenant contentment—the godliness with contentment that Paul would later call great gain. The one whose heart God keeps occupied with joy prefigures those who, having found the Pearl of great price, possess a gladness that transcends circumstance.",
+        "For the church awaiting Christ's return, Ecclesiastes five calls us to hold earthly goods loosely, approach God with trembling reverence, and receive each day's portion as grace sufficient—knowing that our inheritance is imperishable, kept in heaven, where the Eternal King reigns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.671931+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

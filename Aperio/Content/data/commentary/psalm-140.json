@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 140,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 140 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 140: The Refuge of the Righteous",
+      "overview": [
+        "When the world feels hostile and our enemies press in, God invites us into a shelter that no adversary can breach. Psalm 140 is a prayer born from genuine danger, yet it teaches us something profound about trusting in the Lord's protective presence even when our circumstances scream otherwise.",
+        "David opens by pleading for deliverance from evil people whose words are weapons. He describes them with vivid, almost physical language—their tongues are serpents, their lips hold venom. This wasn't poetic exaggeration for David; he genuinely feared for his life. Yet notice what he does: he brings these fears directly to God rather than nursing them in secret anxiety. There is spiritual courage in naming our enemies and our fears before the throne of grace.",
+        "The psalm's turning point comes when David declares his confidence: \"I know that the Lord secures justice for the poor and upholds the cause of the needy\" (verse 12). This isn't wishful thinking or denial of real danger. It is a choice to remember God's character even when circumstances suggest otherwise. David has walked with the Lord long enough to know His faithfulness, so even in threat, he anchors himself to that tested reality.",
+        "What makes this psalm so accessible to us is its honesty. We don't have to pretend our enemies don't exist or that opposition feels gentle. We can acknowledge the real hostility we face—whether from people who slander us, circumstances that overwhelm us, or spiritual forces at work against our faith. The invitation is simply to bring it all to God and remind ourselves of what we know to be true about His character.",
+        "In our own moments of feeling targeted or threatened, Psalm 140 gives us permission to cry out while simultaneously pointing us toward unshakeable confidence in God's justice and care.",
+        "What situation in your life would change if you truly believed that God secures justice for those who belong to Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 140: Scholarly study",
+      "overview": [
+        "Psalm 140 stands as a compelling example of the individual lament tradition within the Psalter, attributed to David according to its superscription and positioned within the final Davidic collection (Psalms 138–145). The psalm reflects the profound distress of one who faces persecution from enemies characterized by deceptive and violent speech, a theme resonating deeply within ancient Near Eastern contexts where verbal curses and slander carried significant social and spiritual weight.",
+        "The psalmist's opening petition employs the verb *nāṣal* (to deliver or rescue), appearing twice in the first two verses to emphasize the urgency of deliverance. This term carries connotations of snatching away from danger, suggesting the immediacy of the threat. The enemies are described through the imagery of serpents, with their tongues sharpened like those of a snake and venom (*ḥēmâ*) of vipers beneath their lips. This zoological metaphor, which Paul later appropriates in Romans 3:13, portrays speech as a weapon of destruction, connecting verbal assault to primordial evil reminiscent of the Eden narrative.",
+        "A second crucial term appears in verse 5, where the proud have hidden a *paḥ* (trap or snare) for the righteous one. This hunting imagery pervades the psalm, depicting enemies as predatory figures who employ both covert and overt means of destruction. The vocabulary of nets, cords, and traps establishes a semantic field suggesting premeditation and cunning malice rather than spontaneous hostility.",
+        "Structurally, the psalm moves from petition through description of enemies to an imprecation calling for divine judgment, concluding with confident affirmation of Yahweh's justice for the afflicted (*ʿānî*). This final term designates not merely economic poverty but a social-spiritual condition of vulnerability and dependence upon God. The canonical placement following Psalm 139's meditation on divine omniscience creates a theological dialogue: the God who searches all hearts surely perceives the machinations of the wicked and the integrity of the righteous.",
+        "Interpretive debates center on whether the imprecations represent legitimate covenant appeals to divine justice or expressions requiring christological reinterpretation. Within its ancient context, such prayers functioned as appeals to the divine court, surrendering vengeance to God rather than pursuing personal retaliation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 140: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the turbulent era of Israel's united monarchy, approximately one thousand years before the incarnation of Christ. Whether composed during Saul's murderous pursuit or Absalom's treacherous rebellion, it rises from a moment when God's anointed king faced violent conspirators who sought his destruction through both physical assault and verbal treachery. Within the grand arc of redemption, this prayer stands in the Kingdom period, when God had established His throne through David's line—the very line through which Messiah would come—yet that throne remained perpetually threatened by serpentine enemies who embodied the ancient hostility of Genesis 3:15.",
+        "The imagery David employs carries profound typological weight. He describes his enemies as those who \"sharpen their tongues like a serpent\" with \"adders' poison under their lips.\" This deliberate serpentine language reaches backward to Eden's deceiver and forward to Christ's denunciation of the Pharisees as a \"brood of vipers.\" David stands as a type of the greater Son of David who would face the ultimate conspiracy of religious leaders, political powers, and satanic forces converging at Calvary. The snares, traps, and cords laid for the psalmist prefigure the plots hatched in council chambers against Jesus, the entangling questions designed to destroy Him, and finally the cords that bound Him before Pilate.",
+        "Yet David's confidence in divine deliverance prophetically announces the resurrection hope. When he declares that the Lord will maintain the cause of the afflicted and execute justice for the poor, he speaks of that eschatological reversal that began when God raised the Righteous One from the grave, vindicating Him against every accuser. The \"burning coals\" and \"fire\" falling upon the wicked echo through Scripture to the final judgment, when every conspiracy against God's Anointed and His people will meet eternal recompense.",
+        "The church dwelling between the advents finds herself in similar circumstances—surrounded by those whose words poison and whose schemes multiply against the faithful. Yet we pray this psalm through Christ, knowing that our King has already crushed the serpent's head and will return to complete the destruction of every enemy. The righteous who \"dwell in God's presence\" enjoy that privilege now through the Spirit and will know it fully in the age to come. Until then, we cry out with David's confidence: our Lord remains a stronghold in the day of battle, a shield against every venomous assault, and the certain Judge of all who oppose His kingdom."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_140",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.530613+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

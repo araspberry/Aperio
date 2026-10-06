@@ -1,0 +1,56 @@
+{
+  "book": "Haggai",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Haggai 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Haggai 1: The Priority of God's House",
+      "overview": [
+        "The book of Haggai confronts us with a piercing question: What are we building our lives around? In this opening chapter, the prophet challenges God's people to examine their priorities, revealing how easily we can drift from what matters most into the comfortable pursuit of our own security and comfort.",
+        "The context is crucial. The temple lay in ruins while the returned exiles busied themselves with paneled houses and productive vineyards. They had reasons that felt reasonable—they needed shelter, food, economic stability. Yet God saw through the layers of justification to the heart of the matter: they had postponed his house while advancing their own. The prophet doesn't condemn them for building homes, but for the ordering of their affections. They had made security their god while leaving God's dwelling place in rubble.",
+        "God's response through Haggai carries both rebuke and invitation. \"Consider your ways,\" he says repeatedly—not with condemnation, but with the tenderness of a parent helping a child see clearly. He points out that despite their labor, they experience constant dissatisfaction. Their harvests disappoint, their wages disappear like money in a torn bag. This isn't punishment so much as the natural fruit of misaligned priorities. When we build our lives on anything but the foundation of God's presence, we construct on sand.",
+        "The remarkable truth is what happens when the people respond. The moment they shift their focus and begin rebuilding the temple, God stirs their spirits with encouragement. He doesn't wait until the work is complete to affirm them; he meets them in obedience itself. This is the grace embedded in the call.",
+        "Today we face subtler versions of the same temptation. We busy ourselves with legitimate pursuits—careers, homes, comfort, security—while neglecting the house of God: the local church, corporate worship, spiritual disciplines, kingdom work. The invitation remains: consider your ways. What are you truly building? Where does God's house rank in your time, treasure, and heart?",
+        "What would change in your priorities if you truly believed that God's kingdom must come first?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Haggai 1: Scholarly study",
+      "overview": [
+        "The prophecy of Haggai represents one of the most precisely dated texts in the Hebrew Bible, with its opening oracle situated on the first day of the sixth month of the second year of Darius I of Persia, corresponding to August 29, 520 BCE. This chronological specificity places the prophet's ministry approximately eighteen years after the initial return of Jewish exiles under the decree of Cyrus and sixteen years after the foundation of the Second Temple was laid amid both celebration and lamentation. Haggai emerges as a prophetic voice addressing a community paralyzed by economic hardship, political uncertainty, and spiritual lethargy, having abandoned the temple reconstruction project that initially defined their return.",
+        "The chapter opens with Yahweh's indictment delivered through the prophetic formula, addressing the people's claim that \"the time has not come\" (עֵת, *ʿēt*) for rebuilding. This term carries covenantal weight, suggesting divinely appointed seasons of action rather than mere chronological convenience. The rhetorical question concerning paneled houses (סְפוּנִים, *sĕpûnîm*) while Yahweh's house lies desolate (*ḥārēb*) exposes the community's misplaced priorities. The term for \"paneled\" may indicate luxury finishing work, creating a stark contrast between personal comfort and sacred neglect.",
+        "Central to the chapter is the call to \"consider your ways\" (שִׂימוּ לְבַבְכֶם, *śîmû lĕbabkem*), literally \"set your heart upon your ways,\" repeated twice for emphasis. This introspective summons connects the community's agricultural failures—sowing much but harvesting little, eating without satisfaction, earning wages for a \"pierced bag\"—to their covenantal unfaithfulness. The drought affecting grain, wine, and oil directly inverts Deuteronomic blessing formulae, suggesting covenant curse rather than divine absence.",
+        "The chapter concludes with remarkable brevity regarding the people's response. Zerubbabel the governor, Joshua the high priest, and the remnant (*šĕʾērît*) respond with fear and obedience, a rare instance in prophetic literature of immediate communal repentance. Yahweh's reassuring declaration \"I am with you\" (*ʾănî ʾitkem*) employs the divine presence formula, signaling covenant renewal. The spirit-stirring that follows demonstrates the prophetic word's efficacy, moving the community from theological paralysis to active rebuilding within twenty-three days of the initial oracle."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Haggai 1: Prophetic perspective",
+      "overview": [
+        "Haggai chapter one thunders forth from approximately 520 BC, precisely dated to the first day of the sixth month in the second year of King Darius of Persia. This places the prophecy roughly seventy years after Nebuchadnezzar destroyed Solomon's temple and sixteen years after the first exiles returned under Zerubbabel's leadership. The Babylonian exile has ended, Cyrus has issued his decree of liberation, and a remnant has returned to Jerusalem—yet the temple lies in ruins while the people dwell in paneled houses. This moment stands at the hinge of restoration history, that critical period between exile and the coming of Messiah.",
+        "The word of the Lord comes through Haggai with surgical precision, exposing the spiritual malady afflicting the returned community. The people declare \"The time has not come for the house of the LORD to be built,\" yet they find time aplenty for their own dwellings. Heaven responds to this misplaced priority with covenant curse—sowing much but harvesting little, eating but never satisfied, earning wages only to place them in bags with holes. The drought upon land, grain, wine, oil, and labor directly echoes the Deuteronomic warnings, demonstrating that physical return to the land means nothing without spiritual return to covenant faithfulness.",
+        "Zerubbabel the governor emerges here as a crucial typological figure. As heir to David's throne through the line of Jeconiah, he carries the messianic promise despite the curse pronounced on his grandfather. The Spirit stirs Zerubbabel to rebuild, foreshadowing how great David's greater Son would build a temple not made with hands. The physical reconstruction of the second temple becomes prophetic architecture—this very structure, though initially appearing insignificant, would one day host the incarnate Glory when Christ walked its courts.",
+        "The divine imperative \"Consider your ways\" reverberates through this chapter, calling God's people to examine the alignment between profession and priority. The people's response models true repentance: they feared the Lord, obeyed the prophetic word, and began the work. God's answering declaration—\"I am with you\"—recalls the covenant name and presence promised to Moses, to Joshua, and ultimately fulfilled in Immanuel.",
+        "For the church dwelling between advents, Haggai's message confronts every generation tempted to pursue personal comfort while neglecting the building of God's spiritual house. We who are living stones in Christ's temple must consider whether our investments of time, resource, and passion reflect the kingdom priorities of our returning King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "37_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.378361+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

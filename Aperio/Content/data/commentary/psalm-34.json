@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 34,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 34 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 34: The Refuge of a Broken Heart",
+      "overview": [
+        "The true spiritual heart of Psalm 34 beats around a profound reassurance: when life breaks us, God is nearer than we realize, and his help is not distant or conditional but actively present for the humble and afflicted.",
+        "David writes this psalm while feigning madness before King Achish, having fled to escape King Saul's jealous fury. Yet rather than dwelling in self-pity or fear, he deliberately turns his heart toward blessing the Lord. This choice reveals something vital about faith: we cannot wait until our circumstances improve to worship. Instead, worship itself becomes the means by which our perspective transforms. \"I sought the Lord, and he answered me; he delivered me from all my fears,\" David declares. Notice the past tense. The deliverance has already begun, not in external circumstance necessarily, but in the turning of his heart toward God.",
+        "What strikes us throughout this psalm is its radical accessibility. God is \"close to the brokenhearted and saves those who are crushed in spirit.\" The language suggests divine proximity, not distance. When we feel fragmented by disappointment, shame, or loss, the Lord leans in. This is not the God of the successful alone, but the God of the desperate and humble.",
+        "David also teaches us that seeking God with our whole heart yields knowledge of His character. We learn His goodness not through pristine circumstances but often through preserved faithfulness amid difficulty. The righteous cry out, and the Lord hears them. This simple promise anchors faith—not because trouble disappears, but because we discover we are never truly abandoned within it.",
+        "The psalm invites us into a revolutionary practice: rather than postponing thanksgiving until problems solve, we offer praise in the present darkness, which paradoxically becomes our breakthrough. David's example shows that broken circumstances need not produce broken faith; they often deepen it.",
+        "What fear or circumstance is currently tempting you to feel distant from God? How might deliberately praising Him in this very moment begin to shift your perspective?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 34: Scholarly study",
+      "overview": [
+        "Psalm 34 stands as a magnificent acrostic composition attributed to David, with its superscription connecting it to the episode recorded in 1 Samuel 21:10–15, when David feigned madness before Abimelech (likely a royal title, as the narrative names the Philistine king Achish). This apparent discrepancy has generated considerable scholarly discussion, though many interpreters understand Abimelech as a dynastic designation comparable to Pharaoh in Egypt. The psalm belongs to the thanksgiving genre, combining personal testimony of deliverance with wisdom instruction, thereby creating a pedagogical text that transforms private experience into communal teaching.",
+        "The acrostic structure, proceeding through the Hebrew alphabet with the notable omission of the letter *waw* and an additional *pe* line at the conclusion, demonstrates careful literary artistry that would have aided memorization in ancient Israel's oral culture. The opening verses employ the verb *halal* (to praise), establishing a posture of continuous blessing that frames the entire composition. David's declaration that Yahweh answered when he sought Him uses the term *darash*, conveying not casual inquiry but earnest, wholehearted seeking—a concept central to wisdom literature's understanding of the proper orientation toward God.",
+        "Particularly significant is the invitation in verse 8 to \"taste and see\" (*ta'am*) that the Lord is good, employing sensory language that transforms theological knowledge into experiential reality. This gustatory metaphor suggests that knowledge of divine goodness transcends intellectual assent, requiring personal encounter. The term *yare* (to fear) appears throughout the psalm, depicting the fear of the Lord not as terror but as reverent trust that produces ethical conduct and receives divine protection.",
+        "The theological center of the psalm articulates a wisdom worldview wherein the righteous face afflictions yet experience Yahweh's deliverance, while the wicked face judgment. Verse 20's declaration that God guards all the bones of the righteous—\"not one of them is broken\"—gained messianic significance in early Christian interpretation, as John 19:36 applies this text to Christ's crucifixion. The psalm's wisdom theology, with its apparent retributive framework, must be read alongside more complex canonical treatments of suffering in Job and Ecclesiastes, though here the emphasis remains on Yahweh's faithful presence amid tribulation rather than exemption from it."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 34: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the pen of David during his desperate flight from King Saul, approximately one thousand years before the incarnation of Christ. The superscription anchors it to a specific moment when David feigned madness before Abimelech (called Achish in 1 Samuel 21), escaping death through apparent foolishness. This places the psalm firmly within the Kingdom era of redemptive history, during the turbulent transition between the failed kingship of Saul and the establishment of David's throne—that throne from which the eternal Son would one day reign.",
+        "David's experience of deliverance becomes prophetic template for all who would follow the greater David. When David cries, \"This poor man cried, and the Lord heard him and saved him out of all his troubles,\" he speaks both his own story and the story of every afflicted saint who would come after him. The psalm moves beyond personal testimony into universal declaration: \"The angel of the Lord encamps around those who fear him, and delivers them.\" This mysterious Angel—appearing throughout the Old Testament as the preincarnate Son—stands guard over the covenant people, foreshadowing the day when God Himself would tabernacle among His afflicted ones.",
+        "The psalm reaches its prophetic apex in verse twenty: \"He keeps all his bones; not one of them is broken.\" John's Gospel deliberately recalls these words at Golgotha, identifying Jesus as the ultimate fulfillment. When the soldiers chose not to break the legs of the crucified Christ, they unknowingly enacted the ancient word. The Righteous One whom this psalm anticipates is not merely David or any subsequent sufferer—it is the Messiah Himself, whose sufferings would be many yet whose body would remain unbroken, preserving Him for resurrection.",
+        "David's declaration that \"the Lord redeems the life of his servants\" carries the full weight of covenant promise, pointing forward through centuries to the cross where redemption would be accomplished in blood. The afflictions of the righteous described here find their supreme expression in Christ's passion, and their ongoing echo in the sufferings of His body, the church.",
+        "For believers dwelling between the advents, this psalm teaches that deliverance may come through weakness that appears as foolishness to the world. The church tastes and sees the Lord's goodness now in part, awaiting the day when every affliction ceases and the bones kept by God rise immortal at the final trumpet."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_034",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.217994+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

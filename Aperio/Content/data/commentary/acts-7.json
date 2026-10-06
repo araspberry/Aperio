@@ -1,0 +1,57 @@
+{
+  "book": "Acts",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 7: The Cost of Faithful Witness",
+      "overview": [
+        "Stephen's great speech before the Sanhedrin reveals the deepest cost of following Jesus—the willingness to be rejected, even unto death, for refusing to compromise the gospel's truth. His testimony transforms a legal proceeding into a profound spiritual statement about fidelity in witness, no matter the personal consequence.",
+        "What moves through this entire chapter is Stephen's remarkable clarity about God's redemptive pattern throughout Scripture. Rather than defending himself with political cleverness, he traces Israel's history to show that God's people have always resisted the Holy Spirit, always killed the prophets who called them to repentance. Stephen doesn't accuse Israel in anger; he speaks as one who has seen the vision of Jesus standing at the right hand of God—and that vision has set him free from fear. His words flow from that heavenly perspective, not from earthly self-protection.",
+        "The genius of Stephen's approach is that he doesn't argue about technicalities; he reorients the entire conversation toward what God has actually been doing. He reminds them that the living God cannot be contained in human-built temples, that true worship has always been about the heart, not mere external compliance. He embodies what he preaches—a person whose life has become transparent to God's purposes.",
+        "For those of us living ordinary lives far from courtroom drama, Stephen models something crucial: the power of coherent conviction. When our deepest identity rests in Jesus and our vision is fixed on him, we find freedom from the paralysis that comes from needing approval or fearing rejection. Stephen could speak truth because he had already surrendered his life to Christ's kingdom rather than his own survival.",
+        "The passage closes with his graceful death, yet opens to his murderer Saul—a detail that reminds us that faithful witness, even when it seems to end in tragedy, plants seeds whose fruit we may never see this side of eternity.",
+        "What would change in your daily decisions if you truly believed that Jesus sees and stands for you, regardless of others' judgment?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 7: Scholarly study",
+      "overview": [
+        "The seventh chapter of Acts presents Stephen's defense speech before the Sanhedrin, constituting the longest continuous discourse in the book and representing a masterful recapitulation of Israel's sacred history. Luke, writing to Theophilus and a broader Greco-Roman audience in the latter decades of the first century, crafts this speech as a pivotal theological and narrative turning point. Stephen, identified earlier as a Hellenistic Jewish believer \"full of grace and power,\" faces charges of speaking against the temple and the law—accusations that his speech paradoxically confirms and reframes through selective historical retelling.",
+        "The speech's structure follows Israel's history through four major figures: Abraham, Joseph, Moses, and Solomon, with Moses receiving the most extensive treatment. Stephen's use of \"the God of glory\" (ὁ θεὸς τῆς δόξης, ho theos tēs doxēs) in verse 2 establishes a crucial theological premise: divine glory is not geographically constrained. This designation, echoing Psalm 29:3, subtly undermines the accusation that Stephen has blasphemed God's dwelling place.",
+        "The term \"living oracles\" (λόγια ζῶντα, logia zōnta) in verse 38 describes the law given to Moses, demonstrating Stephen's profound reverence for Torah while simultaneously arguing that Israel historically resisted God's appointed deliverers. The pattern Stephen identifies—divine initiative met with human rejection—reaches its climax in verses 51-53, where he employs \"stiff-necked\" (σκληροτράχηλοι, sklērotrachēloi), language drawn from Exodus 33:3, to characterize his accusers as continuing ancestral patterns of resistance.",
+        "Scholarly debate surrounds the speech's relationship to Samaritan theology, given its apparent ambivalence toward the temple and emphasis on portable sacred spaces. Some interpreters detect anti-temple polemic, while others argue Stephen critiques not the temple itself but the presumption that God can be domesticated within human structures.",
+        "The vision of the Son of Man standing—rather than seated—at God's right hand in verse 56 has generated considerable discussion. This unique Christological formulation may indicate Jesus rising to welcome the first martyr or standing as witness-advocate. Within Acts' narrative arc, Stephen's death catalyzes the geographic and ethnic expansion of the gospel, transforming persecution into mission as believers scatter throughout Judea and Samaria, fulfilling the programmatic commission of Acts 1:8."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 7: Prophetic perspective",
+      "overview": [
+        "This chapter records events occurring approximately 33-35 AD, mere months or perhaps a year after Pentecost, during the earliest days of the Jerusalem church. Stephen stands before the Sanhedrin, and what unfolds is not merely a legal defense but the most comprehensive survey of Israel's redemptive history found anywhere in the New Testament—a prophetic tour from Abraham to Solomon that exposes the persistent pattern of covenant unfaithfulness and builds toward an explosive climax.",
+        "Stephen's sermon traces the grand arc of salvation history with devastating precision. Beginning with Abraham's call from Ur, he moves through the patriarchal wanderings, Joseph's rejection and exaltation in Egypt, the Exodus under Moses, the wilderness generation's apostasy, and the construction of tabernacle and temple. This is no random historical survey. Stephen deliberately highlights a recurring typological pattern: God sends a deliverer, the people reject him, yet through that rejection God accomplishes salvation. Joseph, despised by his brothers, becomes their savior in famine. Moses, refused with the words \"Who made you ruler and judge over us,\" becomes the very ruler and deliverer through whom God works redemption. This pattern reaches its ultimate fulfillment in Jesus of Nazareth, whom Stephen's accusers have betrayed and murdered—the Righteous One rejected by His own, now exalted as Lord of all.",
+        "The prophetic significance extends further still. Stephen identifies Israel's perpetual resistance to the Holy Spirit as the thread connecting every generation from the wilderness to the present moment. The golden calf, the worship of Moloch and Rephan, the persecution of prophets who announced the Coming One—all constitute a single continuous rebellion against the divine presence. Even Solomon's temple, Stephen argues, cannot contain the God who made heaven and earth, anticipating what Christ inaugurated: worship in Spirit and truth unbound by geographic location.",
+        "The chapter's climax unveils an eschatological vision of staggering importance. Stephen, filled with the Holy Spirit, sees heaven opened and the Son of Man standing at the right hand of God. This is the only place outside the Gospels where Jesus is called \"Son of Man\"—Daniel's apocalyptic figure who receives eternal dominion. Christ stands, perhaps as witness, perhaps as advocate, perhaps to receive His first martyr.",
+        "Stephen's death plants a seed of grace in the heart of Saul of Tarsus, demonstrating how God transforms violent rejection into redemptive advance. For the church awaiting Christ's return, Stephen models faithful witness unto death, confident that the rejected and risen Lord welcomes His own into glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.678728+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

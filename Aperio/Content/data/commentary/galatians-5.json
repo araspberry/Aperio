@@ -1,0 +1,62 @@
+{
+  "book": "Galatians",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Galatians 5 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Galatians 5:1 · Original-language text",
+      "url": "https://biblehub.com/text/galatians/5-1.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Galatians 5: Freedom That Flows into Love",
+      "overview": [
+        "The beating heart of Galatians 5 is the radical freedom Christ purchases for us—not freedom to indulge our worst impulses, but freedom to be remade from the inside out by the Spirit's transforming power. Paul stands at a hinge moment in the letter, calling the Galatians back from the suffocating grip of legalism to the liberating grace of the gospel.",
+        "After chapters of theological argument, Paul now makes it profoundly personal: \"It is for freedom that Christ has set us free.\" This freedom is not neutral. It is the freedom to stop performing for God's approval and start responding to God's love. The danger Paul addresses is real—the temptation to think that adding rules and restrictions somehow secures our standing with God, or that we must earn what Christ has freely given. Legalism is the slow death of grace, replacing the Spirit's whisper with guilt's relentless voice.",
+        "Yet here lies the stunning paradox: true freedom doesn't lead to chaos or self-indulgence. Instead, it flows naturally toward love. When we stop exhausting ourselves trying to prove our worth, we have energy to actually serve others. The \"works of the flesh\"—sexual immorality, hatred, jealousy, anger—emerge from hearts still convinced they must provide their own security and identity. But the \"fruit of the Spirit\"—love, joy, peace, patience, kindness—grows quietly in soil watered by grace.",
+        "Paul's vision is holistic. The Spirit doesn't just forgive our past; the Spirit rewires our desires, gradually realigning our hearts with God's own generous heart. Walking by the Spirit means daily surrendering our grip on self-protection and performance, trusting that we are already loved and secure in Christ.",
+        "What would change in your relationships, your work, and your inner life if you truly believed you have nothing left to prove to God?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Galatians 5: Scholarly study",
+      "overview": [
+        "Galatians 5 represents a pivotal moment in Paul's epistle to the churches of Galatia, where the apostle transitions from theological argumentation to ethical exhortation, demonstrating the inseparable connection between doctrinal truth and moral practice. Writing likely between 48–55 CE to congregations threatened by Judaizing teachers who insisted on circumcision and Torah observance for Gentile converts, Paul here articulates the radical implications of justification by faith for Christian living.",
+        "The chapter opens with Paul's emphatic declaration that Christ has set believers free for freedom (*eleutheria*), a term carrying profound resonance in the Greco-Roman world where social stratification between slave and free defined existence. The verb translated \"has set free\" (*ēleutherōsen*) is an aorist, presenting Christ’s liberating act as the basis for the command to stand firm. The following warning against circumcision must be understood not as a rejection of Jewish identity per se, but as resistance to making Torah observance a soteriological requirement. Paul's striking statement that circumcision obligates one to keep the entire law (5:3) reflects the covenantal logic that partial Torah observance is no observance at all.",
+        "Central to the chapter is the antithesis between *sarx* (flesh) and *pneuma* (Spirit), terms that have generated considerable scholarly debate. The \"flesh\" here denotes not merely physicality but the entire orientation of unredeemed human existence in opposition to God, while \"Spirit\" refers to the Holy Spirit's transforming presence. The catalog of vices (5:19–21) and virtues (5:22–23) follows Hellenistic literary conventions while being thoroughly reshaped by Paul's theological vision. Notably, the \"fruit of the Spirit\" is singular (*karpos*), suggesting an organic unity of character rather than discrete achievements.",
+        "The passage's relationship to the broader letter reveals Paul's conviction that genuine freedom neither returns to legal bondage nor degenerates into license. The command to \"serve one another through love\" (5:13) employs *douleuō* (to serve as a slave), creating a deliberate paradox: true freedom finds expression in voluntary self-giving service. This chapter thus provides the ethical foundation for understanding how communities formed by the gospel navigate moral life without the Torah's detailed prescriptions, relying instead on the Spirit's transforming power and the law of love."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Galatians 5: Prophetic perspective",
+      "overview": [
+        "Galatians chapter five emerges from the apostle Paul's pen around AD 48-49, making it likely the earliest of his canonical letters, written perhaps only fifteen to twenty years after the resurrection and ascension of Christ. The churches of Galatia—planted during Paul's first missionary journey—had fallen prey to Judaizing teachers who demanded that Gentile believers submit to circumcision and Torah observance for full covenant membership. This letter therefore stands at a critical juncture in redemptive history: the church age has dawned, the Spirit has been poured out at Pentecost, and now the question must be answered definitively—does the new covenant community live by law or by Spirit?",
+        "Within the grand arc of Scripture, Galatians five proclaims the liberty that belongs to those living after the Cross but before the consummation. The Mosaic covenant, given at Sinai as a guardian until Christ came, has yielded to something greater. What the law demanded but could never produce—righteousness and transformed desires—the Spirit now accomplishes in those united to the risen Christ. Paul's declaration that believers have been \"called to freedom\" echoes the Exodus typology that runs throughout Scripture: just as Israel was liberated from Pharaoh's bondage to serve the living God, so the church has been freed from sin's dominion and the law's condemnation to walk in newness of life.",
+        "The contrast between flesh and Spirit in this chapter carries profound eschatological weight. The works of the flesh represent the old age—the Adamic order of rebellion, disorder, and death that still lingers even as the new creation has broken in. The fruit of the Spirit, however, manifests the powers of the age to come: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. These are not human achievements but the very character of Christ being formed in His people by the indwelling Spirit. Those who belong to Christ have crucified the flesh with its passions—their old humanity died with Him at Golgotha, and they now live by the resurrection power that will one day transform their mortal bodies.",
+        "For the church living between Christ's ascension and return, this chapter provides both assurance and exhortation. The same Spirit who raised Jesus from the dead dwells within believers, producing fruit that anticipates the harvest of the new creation. The freedom proclaimed here is not license but liberation for love—love that fulfills the entire law and binds the community together as it awaits the blessed hope."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "48_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.858139+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-055"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

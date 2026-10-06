@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 116,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 116 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 116: The Grateful Heart",
+      "overview": [
+        "When the psalmist declares, \"I love the Lord because he heard my voice and my cries for mercy,\" we encounter the deepest wellspring of the Christian life—a love born not from duty, but from the experience of being heard and rescued. This psalm invites us into the testimony of someone who has walked through the valley of death and emerged on the other side, transformed by God's faithfulness.",
+        "The psalmist speaks with raw honesty about near-death despair: \"The cords of death entangled me, the anguish of the grave came over me.\" Yet rather than leaving us in that darkness, the passage moves us toward light. The writer calls out, and the Lord responds. He finds his God is compassionate and righteous, full of grace. This movement from crisis to deliverance shapes the entire psalm—not as a formula that guarantees escape from suffering, but as testimony to God's character in the midst of it.",
+        "What emerges is not a denial of pain but gratitude that transforms it. The psalmist doesn't forget his suffering; he lifts the \"cup of salvation\" while remembering it. Gratitude here is an act of devotion that acknowledges both the weight of what we've endured and the grace that sustained us through it. It's the kind of love that only grows deeper because it's been tested and proven genuine.",
+        "For those of us who follow Jesus, this psalm echoes his own cry of dereliction and his subsequent confidence. It shows us that loving God is inseparable from experiencing his response to our desperate need. When we call out—in illness, loss, confusion, or fear—we're not calling into an empty universe but toward a Father whose ear is already turned toward us.",
+        "Where in your own story do you see God's faithfulness to your cries? How might gratitude reshape the way you remember and carry those experiences?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 116: Scholarly study",
+      "overview": [
+        "Psalm 116 stands as one of the most intensely personal thanksgiving psalms in the Psalter, belonging to the Egyptian Hallel collection (Psalms 113–118) traditionally recited during major Jewish festivals, particularly Passover. The psalm's liturgical setting suggests its use in the Jerusalem temple, where an individual worshiper would offer thanksgiving sacrifices following deliverance from mortal danger. The Septuagint divides this composition into two separate psalms (114 and 115), reflecting an interpretive tradition that recognized a structural shift at verse 10, though the Masoretic Text preserves it as a unified whole.",
+        "The opening declaration employs the Hebrew verb *ʾāhab* (\"I love\") in an unusual absolute construction, with some manuscripts and versions supplying \"the LORD\" as the implied object. This grammatical peculiarity has generated scholarly discussion, with certain interpreters viewing it as an emphatic abbreviation expressing overwhelming emotion. The psalmist's distress is depicted through the vivid imagery of *ḥeblê-māwet* (\"cords of death\") and *meṣārê šeʾôl* (\"straits of Sheol\"), employing terminology that evokes both physical constriction and the mythological realm of the dead that threatened to engulf the sufferer.",
+        "Theologically significant is the declaration in verse 15 that \"precious in the sight of the LORD is the death of his faithful ones\" (*yāqār beʿênê YHWH hammāwtāh laḥăsîdāyw*). This verse has occasioned considerable interpretive debate: does it affirm that God values the death of the righteous as something costly and therefore guards against it, or does it suggest that such deaths are precious because they usher the faithful into divine presence? The former reading, emphasizing God's protective concern, aligns better with the psalm's thanksgiving context.",
+        "The psalm's climactic movement toward public worship in the temple courts demonstrates the communal dimension of individual thanksgiving in ancient Israelite religion. The repeated phrase \"in the presence of all his people\" underscores that personal deliverance demanded public testimony. The votive language of paying vows and lifting \"the cup of salvation\" (*kôs-yešûʿôt*) likely refers to the drink offering accompanying thanksgiving sacrifices, establishing a ritual context that the early church would later reinterpret christologically, particularly in eucharistic theology where this psalm found renewed liturgical significance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 116: Prophetic perspective",
+      "overview": [
+        "Psalm 116 emerges from the pen of an unnamed Israelite worshiper during the post-exilic period, likely composed sometime after the return from Babylonian captivity around 500-400 BC, though its themes echo the entire history of Israel's covenant relationship with Yahweh. This psalm of individual thanksgiving sits within the Egyptian Hallel collection (Psalms 113-118), liturgically sung during Passover, Pentecost, and Tabernacles—feasts that commemorate God's mighty acts of deliverance and point forward to greater redemptions yet to come.",
+        "Within the grand narrative of Scripture, this psalm occupies the season of restoration following exile, when Israel had tasted death among the nations and experienced resurrection as a people returned to their land. Yet the psalmist's deeply personal testimony—\"the cords of death entangled me, the anguish of the grave came over me\"—transcends his individual circumstance to voice the perpetual human condition and the divine response that threads through all redemptive history.",
+        "The typological richness here is profound. When the psalmist declares, \"Precious in the sight of the LORD is the death of his saints,\" he unknowingly prophesies toward Golgotha, where the Father would behold the death of His Holy One—the death above all deaths, precious beyond measure, through which every saint's death gains its own preciousness. The \"cup of salvation\" lifted in thanksgiving foreshadows that cup which Christ took on the night of His betrayal, transforming Passover into Eucharist, thanksgiving into new covenant.",
+        "Christ Himself fulfills this psalm's every longing. He walked in the land of the living after passing through death's domain. He was the servant bound who became the servant free. His were the vows paid in the presence of all God's people when, lifted upon the cross in Jerusalem's courts, He accomplished what every temple sacrifice merely shadowed.",
+        "The eschatological thread runs taut from this psalm to the Marriage Supper of the Lamb, where the redeemed shall lift the cup of salvation in its ultimate fulfillment, calling upon the name that is above every name throughout eternal ages. What the psalmist experienced in part, the church shall know in full.",
+        "For believers dwelling between the advents, Psalm 116 teaches the grammar of gratitude that shapes a life of faith. Every deliverance now tastes of the final deliverance to come. Every cup lifted in communion anticipates the feast where death shall be swallowed forever, and the love declared in this psalm's opening line—\"I love the LORD\"—shall find its perfect, unhindered expression in the presence of the One who first loved us."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_116",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.454967+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

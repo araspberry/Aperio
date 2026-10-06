@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 2: The Painful Reckoning of Forgotten Love",
+      "overview": [
+        "Jeremiah 2 opens a divine courtroom where God brings a lawsuit against His people, not as a distant judge imposing cold justice, but as a heart-wounded lover recounting the memory of their early devotion. The spiritual heart of this passage is God's pain at being abandoned by those He has cherished—a grief so deep that it moves the prophet to intercede on behalf of an unfaithful people.",
+        "God begins by reminding Israel of their beginning: \"I remember the devotion of your youth, your love as a bride\" (2:2). These words ache with tenderness. The wilderness journey, dangerous as it was, had been a season of dependence and intimacy. Yet now, standing in abundance and security within the Promised Land, Israel has become unfaithful. They have \"forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water\" (2:13). The metaphor cuts deeply—they have exchanged relationship with the living God for empty religious pursuits and alliances with foreign nations and gods.",
+        "What makes this indictment so searingly relevant is that it describes the human tendency to drift from first love into spiritual complacency. We too can move from earnest devotion into hollow routine. We can pursue substitutes that promise satisfaction but deliver only emptiness. The broken cistern—our self-made solutions, our substitutes for genuine communion with God—never fulfill what only His presence can provide.",
+        "Yet beneath the accusation lies invitation. God's willingness to voice His grief means He has not abandoned the lawsuit; He has begun a conversation. The prophet delivers these words not to condemn Israel into despair, but to awaken them to what they have lost and what remains available if they will return.",
+        "Where have you exchanged the spring of living water for broken cisterns of your own making? What would it look like to return to the simplicity and devotion of your early faith?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 2: Scholarly study",
+      "overview": [
+        "Jeremiah 2 constitutes the formal inauguration of the prophet's oracles against Judah, marking a dramatic shift from the biographical introduction of chapter 1 to sustained prophetic discourse. Composed during the late seventh century BCE, likely during the reign of Josiah or early in Jehoiakim's tenure, this chapter employs the covenant lawsuit (Hebrew *rîb*) genre to prosecute Yahweh's case against an unfaithful people. The prophet draws extensively on Israel's wilderness traditions and marriage metaphors to articulate the shocking nature of Judah's apostasy.",
+        "The chapter opens with the tender image of Israel as a young bride (*kallâ*), recalling the honeymoon period of the exodus and wilderness wandering when the nation demonstrated devotion (*ḥesed*) to Yahweh. This covenantal loyalty terminology frames the subsequent indictment: Israel has abandoned her first love for worthless pursuits. The rhetorical question \"What wrong did your fathers find in me?\" establishes the groundlessness of Israel's defection and places the burden of proof squarely on the accused nation.",
+        "Central to the chapter's argument is the concept of *hebel*, meaning \"vapor,\" \"breath,\" or \"vanity,\" applied to the idols Israel pursued. The ironic wordplay suggests that by following *hebel*, the people themselves became *hebel*—empty and insubstantial. This vocabulary resonates with Ecclesiastes and underscores the self-destructive logic of idolatry. Equally significant is the term *bôšet* (\"shame\"), which appears repeatedly as both the consequence and the object of false worship, possibly functioning as a dysphemism for Baal.",
+        "The literary structure moves from wilderness nostalgia through forensic interrogation to devastating metaphor: cracked cisterns that cannot hold water, a wild donkey in heat pursuing lovers, and a vine that has degenerated into wild growth. The cistern imagery proves particularly striking in the Palestinian context, where water represented life itself. Scholars debate whether the \"two evils\" of verse 13 reference specific political alliances with Egypt and Assyria or more broadly characterize any substitution of created things for the Creator.",
+        "Within the canonical arrangement, this chapter establishes themes—apostasy, broken covenant, futile political maneuvering—that recur throughout Jeremiah's lengthy prophetic corpus, anticipating both the coming judgment and the eventual promise of restoration."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 2: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter two stands at a pivotal moment in Israel's history, delivered approximately 627 to 620 years before the birth of Christ, during the early reign of King Josiah and before his great reforms took root. The northern kingdom had already fallen to Assyria a century earlier, and now the southern kingdom of Judah teetered on the edge of judgment, though the Babylonian exile still lay some three decades in the future. This oracle represents God's covenant lawsuit against His people, a prophetic indictment delivered while repentance remained possible.",
+        "Within the grand narrative of redemption, this passage stands in the dark valley between Kingdom and Exile. What began with such promise under David and Solomon had decayed into spiritual adultery spanning generations. The prophet reaches back to the Exodus, invoking the wilderness honeymoon when Israel followed the LORD through untamed lands, when she was \"holy to the LORD, the firstfruits of His harvest.\" This memory serves as both tender reminder and devastating contrast, for the beloved bride has become a brazen harlot.",
+        "The typological architecture here is striking. Israel as unfaithful wife anticipates the New Testament imagery of the Church as the Bride of Christ, but viewed in negative relief. Where Israel forsook living waters for broken cisterns, Christ would later stand in the temple crying, \"If anyone thirsts, let him come to Me and drink.\" The cracked cisterns that hold no water stand as anti-types of the wells of salvation, the rivers of living water that flow from those who believe. Every idol Israel chased—whether Baal of Canaan or the political powers of Egypt and Assyria—proved empty, just as every substitute for Christ leaves the human soul parched.",
+        "The eschatological thread running through this chapter finds its resolution in the new covenant. What Israel could not do—remain faithful—Christ accomplished as the True Israel, the faithful Son who never turned aside. The accusation \"you have forsaken the LORD your God\" echoes forward to Calvary, where the Faithful One was forsaken so that the faithless might be restored.",
+        "For the Church dwelling between the advents, this chapter sounds as both warning and invitation. The temptation to dig broken cisterns—to seek life, security, and identity in anything other than Christ—persists in every age. Yet the God who remembered Israel's bridal love still pursues His wandering people, and the fountain of living waters remains unsealed for all who thirst."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.908317+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

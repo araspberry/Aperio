@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "chapter": 35,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 35 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 35: The Joy of Willing Generosity",
+      "overview": [
+        "When the people of God are invited to give freely for His purposes, they discover something profound: generosity transforms both the giver and the community of faith. Exodus 35 captures a stunning moment where Moses calls the assembly to bring materials for the tabernacle, and what unfolds is a portrait of wholehearted devotion expressed through material sacrifice.",
+        "What makes this chapter remarkable is the repeated emphasis on the willing heart. Three times we encounter the phrase describing those whose hearts moved them to give—not from obligation or social pressure, but from genuine desire to participate in God's work. The people brought gold and silver, fine linens and acacia wood, oils for light and incense. Skilled craftspeople offered their abilities. Even more striking, the congregation eventually had to be restrained because they were giving so abundantly that more supplies arrived than could be used.",
+        "This reveals something vital about discipleship: true obedience flows from the heart, not from external command. Moses had already given the instructions for the tabernacle, but here we see the people's response, and it is willing, generous, and joyful. When believers understand that their gifts serve purposes greater than themselves—that their giving builds space where God's presence dwells—generosity becomes an act of worship rather than a burden.",
+        "In our contemporary context, we often feel the tension between financial pressures and spiritual calling. Yet this passage invites us into a different economy, one where the heart's willingness precedes the hand's action. The remarkable generosity displayed here didn't arise from abundance but from alignment with God's vision. The people had recently left slavery; they weren't wealthy, yet they gave sacrificially.",
+        "What captivates you more about your own giving—the obligation to contribute, or the joy of participating in something sacred? Consider how God might be inviting your whole heart, not merely your resources, into His work today."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 35: Scholarly study",
+      "overview": [
+        "Exodus 35 marks a significant transitional moment in the Pentateuch, resuming the tabernacle construction narrative after the dramatic interruption of the golden calf apostasy (Exodus 32–34). This chapter initiates what scholars term the \"execution report,\" wherein Moses communicates to the entire congregation of Israel the divine instructions previously received on Sinai (chapters 25–31). The literary structure deliberately mirrors the earlier prescriptive material, creating a theological framework that emphasizes Israel's faithful obedience following their covenantal rupture and restoration.",
+        "The chapter opens with Moses assembling the congregation, using the Hebrew verb *qāhal* in its hiphil form, denoting a formal convocation of the entire community. This assembly language carries covenantal overtones, suggesting a reconstituted relationship between Yahweh and his people. The immediate reiteration of Sabbath observance (vv. 1–3) before tabernacle instructions is theologically significant; the prohibition against kindling fire (*bāʿar*) on the Sabbath represents the only specific Sabbath work prohibition in the Torah, generating considerable rabbinic discussion regarding its scope and application.",
+        "The term *terûmâ* (contribution or offering) appears prominently throughout the chapter, designating materials voluntarily donated for sacred construction. The text emphasizes the freewill nature of these offerings, repeatedly employing the phrase \"whose heart stirred\" (*nāśāʾ libbô*) and \"whose spirit moved\" (*nādab rûaḥ*). This language of internal motivation stands in deliberate contrast to the compelled contributions for the golden calf, suggesting that authentic worship emerges from genuine devotion rather than external coercion.",
+        "The participation of women receives notable attention, particularly in verses 22–26, where their contributions of jewelry and skilled spinning demonstrate their integral role in Israel's cultic life. The reference to women \"wise of heart\" (*ḥokmâ-lēb*) employs the same terminology applied to Bezalel and Oholiab, indicating that craftsmanship constitutes a form of divinely-granted wisdom transcending gender boundaries.",
+        "Within the broader canonical context, Exodus 35 demonstrates that covenant restoration produces tangible communal response. The superabundance of materials later reported (36:5–7) theologically counters the golden calf narrative, portraying a community whose generosity now requires restraint rather than rebuke."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 35: Prophetic perspective",
+      "overview": [
+        "Exodus 35 unfolds approximately 1450 years before the incarnation of Christ, in the wilderness of Sinai, mere months after Israel's deliverance from Egyptian bondage. This chapter follows immediately upon the catastrophic episode of the golden calf and Moses' subsequent intercession, marking a pivotal moment of covenant renewal. Within the grand redemptive arc, we stand between the Exodus deliverance and the establishment of tabernacle worship—that portable sanctuary which would prefigure both Christ's dwelling among humanity and the Spirit's indwelling of the church.",
+        "The chapter opens with Moses reiterating the Sabbath command, that creation ordinance now woven into covenant life. Here the Sabbath stands as prophetic sign, pointing backward to God's completed work in creation and forward to the greater rest secured in Christ. The writer of Hebrews would later unveil this typological thread, revealing that a Sabbath-rest remains for the people of God—entered not through cessation of labor but through faith in the finished work of the true Joshua who leads His people into eternal rest.",
+        "What follows constitutes a breathtaking reversal of the golden calf apostasy. Where Israel had once surrendered gold for idolatry, now they bring gold, silver, bronze, fine linens, and precious stones for the construction of God's dwelling place. The freewill offering described here—given from hearts stirred by the Spirit—typologically anticipates the new covenant reality where believers, moved by grace rather than compulsion, present themselves as living sacrifices. The generous outpouring proves so abundant that Moses must restrain the people from giving more, a stunning picture of Spirit-wrought generosity that would find its fullest expression in the Macedonian churches Paul commended.",
+        "The calling of Bezalel and Oholiab, filled with the Spirit for artistic craftsmanship, reveals that the Holy Spirit's empowerment extends beyond prophetic utterance to the sanctification of human skill and creativity. These Spirit-gifted artisans prefigure the diverse charismata distributed throughout Christ's body, each member equipped for building up the dwelling place of God—now composed not of acacia wood and gold but of living stones.",
+        "For the church dwelling between the advents, Exodus 35 speaks with prophetic clarity: the God who desired to tabernacle among His redeemed people has accomplished this supremely in the Word made flesh, continues it through Spirit-indwelt believers, and will consummate it when the dwelling of God descends from heaven to remain with humanity forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_035",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.852523+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

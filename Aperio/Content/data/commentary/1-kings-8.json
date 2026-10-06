@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 8: The Heart's True Home",
+      "overview": [
+        "Solomon's dedication of the temple reveals the stunning paradox at the center of faith: God, who cannot be contained by the heavens themselves, chooses to dwell in a building made by human hands. This chapter captures not merely a religious ceremony but the soul's longing to create sacred space where heaven and earth meet.",
+        "The temple Solomon built was breathtaking—cedar, gold, and precious stones crafted with extraordinary skill. Yet in his prayer of dedication, Solomon articulates something far deeper than architectural pride. He recognizes that no house can actually contain the infinite God. This humility in the presence of grandeur teaches us something vital: our finest efforts to honor God matter not because they impress Him, but because the act of building, offering, and dedicating our best is itself an expression of devotion.",
+        "What makes this dedication remarkable is Solomon's intercession for future generations. He prays not only for Israel's present blessing but for forgiveness when the people inevitably fail. He understands that the temple's true purpose is not to make God present—God is always present—but to be a place where broken people can return, confess, and be restored. This is the genius of grace: God establishes a house not primarily as a throne room but as a place of reconciliation.",
+        "For us, the physical temple has been superseded by Christ and his Church, yet the principle remains unchanged. We gather in worship not to contain God but to orient our hearts toward Him. We offer our praise, our time, our confession—not because God needs these offerings, but because our souls need to give them. Every genuine act of worship is a building of the temple in our own lives.",
+        "What sacred space have you neglected in your own spiritual life? How might you return to consistent worship and prayer as Solomon's people returned to the temple?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 8: Scholarly study",
+      "overview": [
+        "The eighth chapter of 1 Kings represents the theological apex of the Deuteronomistic History, narrating Solomon's dedication of the Jerusalem temple and his extensive dedicatory prayer. Composed in its final form during the exilic period, this chapter reflects both ancient liturgical traditions associated with the temple's founding and later theological reflection on the meaning of divine presence after the sanctuary's destruction in 586 BCE. The Deuteronomistic editors have crafted this material to address the profound question of how Yahweh relates to sacred space and whether prayer remains efficacious apart from a functioning cult.",
+        "The chapter opens with Solomon assembling Israel's leaders to transfer the ark of the covenant into the newly completed temple during the festival of the seventh month, almost certainly Sukkot. The Hebrew term *qāhāl* (assembly) emphasizes the corporate, covenantal nature of this gathering, echoing the Sinai theophany. When the priests deposit the ark in the inner sanctuary, the cloud (*ʿānān*) fills the house, signifying Yahweh's *kābôd* (glory/weight)—the same visible manifestation that accompanied Israel through the wilderness. This theophanic imagery establishes continuity between Mosaic religion and Solomonic worship while simultaneously raising questions about divine localization.",
+        "Solomon's prayer addresses this tension directly. His rhetorical question—\"Will God indeed dwell on the earth?\"—acknowledges that heaven itself cannot contain Yahweh, much less a human-built structure. The prayer employs the distinctive phrase requesting that God's eyes be open toward the temple night and day, using the architectural metaphor to balance immanence and transcendence. The sevenfold petition structure that follows envisions various scenarios—judicial oath-taking, military defeat, drought, famine, and exile—wherein Israel might pray toward this place. The repeated formula asking Yahweh to hear *haššāmayim* (in heaven) his dwelling place while petitioners orient themselves toward the earthly temple resolves the theological problem: the temple functions as a divinely designated point of contact rather than a container of deity.",
+        "Scholars debate whether the exilic additions are limited to the references anticipating deportation or extend more broadly throughout the prayer. Regardless, the final form presents a sophisticated theology of prayer that could survive the temple's destruction, making this chapter foundational for both Second Temple Judaism and subsequent Christian reflection on sacred space."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 8: Prophetic perspective",
+      "overview": [
+        "This magnificent chapter unfolds approximately 960 years before Christ's incarnation, at the zenith of Israel's united monarchy under Solomon. The temple dedication marks the culmination of promises stretching back centuries—David's desire to build God a house, the tabernacle's wilderness wanderings, and ultimately the covenant with Abraham that his seed would be a blessing to all nations. Within redemptive history, this moment represents the high point of the Kingdom era, that brief golden age between the judges' chaos and the monarchy's eventual collapse, when God's dwelling visibly rested among His covenant people in the Promised Land.",
+        "The Ark's procession into the Holy of Holies consummates what began at Sinai. The cloud of glory that once descended upon the tabernacle now fills Solomon's temple with such overwhelming presence that the priests cannot stand to minister. This Shekinah glory—the visible manifestation of Yahweh's dwelling—represents the partial fulfillment of God's promise to tabernacle among His people. Yet this very glory would depart in Ezekiel's vision, abandoning a temple corrupted by idolatry, creating a prophetic ache for something more permanent.",
+        "Solomon's prayer reveals remarkable theological vision. He acknowledges that heaven itself cannot contain the Infinite One, much less a house of cedar and stone. This tension—God's transcendence and His chosen localization—finds ultimate resolution only in the Incarnation, when the Word became flesh and \"tabernacled\" among us. John deliberately echoes this temple theology: Christ's body is the true temple, destroyed and raised in three days. The glory that departed Ezekiel's temple returns in human flesh.",
+        "The seven petitions of Solomon's prayer form a prophetic map of Israel's future failures: military defeat, drought, famine, plague, and exile. Remarkably, Solomon sees beyond judgment to restoration, praying that even in foreign lands, if Israel turns toward this temple, God will hear. This orientation toward Jerusalem's temple foreshadows the greater orientation believers now have toward Christ Himself—our temple, our sacrifice, our mercy seat.",
+        "The dedication's timing during the Feast of Tabernacles carries eschatological weight. This harvest festival pointed forward to the final ingathering, when God's dwelling with humanity reaches its consummation. Revelation's climactic vision echoes Solomon's prayer: the New Jerusalem needs no temple, for the Lord God Almighty and the Lamb are its temple, and God's glory fills not merely a building but the entirety of redeemed creation. The church now lives as living stones in this spiritual temple, awaiting that day when shadow gives way fully to substance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.552047+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

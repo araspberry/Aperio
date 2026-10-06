@@ -1,0 +1,55 @@
+{
+  "book": "Romans",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 15: Unity Rooted in Christ's Example",
+      "overview": [
+        "The heart of Romans 15 is the call to strong believers to carry the burdens of the weak, modeling Christ's self-denial and creating genuine unity in the body of Christ.",
+        "Paul opens this chapter with a profound reorientation of Christian strength. Those who are mature in faith, he insists, bear a sacred responsibility: not to please themselves, but to build up their neighbors in faith. This reversal challenges our cultural instinct. We typically associate strength with independence and self-assertion, yet Paul places true spiritual maturity on display through sacrifice and service for others' growth. He anchors this calling not in abstract principle but in the person of Jesus, who refused to please himself, enduring the contempt of others for our sake. When we study the Gospels through this lens, we see a pattern: Jesus repeatedly set aside his preferences, his comfort, his dignity itself for those he loved.",
+        "What makes this passage so tender is that Paul understands real struggle here. He acknowledges the tensions that naturally arise in a diverse community—Jews and Gentiles, the cautious and the bold, the spiritually mature and the spiritually fragile. Rather than ignore these differences, he calls the strong to extend patient welcome without judgment. This is practical love. It means choosing a meal that doesn't offend a friend's conscience rather than asserting your freedom. It means celebrating another's growth even when their path differs from yours.",
+        "The vision Paul casts is ultimately about worship. He concludes by showing how this unity in Christ brings glory to God. When believers transcend their differences to love one another genuinely, the watching world witnesses something remarkable—the reconciling power of the gospel made visible.",
+        "In what area of your life might Christ be calling you to set aside your preferences for the sake of building up someone else's faith?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 15: Scholarly study",
+      "overview": [
+        "Romans 15 represents the culminating ethical and missiological section of Paul's letter to the Roman churches, written approximately 57 CE from Corinth as the apostle prepared for his collection journey to Jerusalem. This chapter synthesizes the pastoral concerns of chapters 14–15 regarding communal harmony between Jewish and Gentile believers while simultaneously unveiling Paul's apostolic vision for westward expansion to Spain. The literary unit demonstrates Paul's characteristic movement from theological indicative to ethical imperative, grounding community ethics in Christological example.",
+        "The chapter opens with Paul's exhortation that \"the strong\" (*hoi dynatoi*) ought to bear the weaknesses of those without strength, employing the verb *bastazein*, which carries connotations of burden-bearing rather than mere tolerance. This same verb appears in Galatians 6:2 regarding mutual burden-bearing, suggesting Paul envisions active, costly engagement with those whose convictions differ. The goal articulated in verse 2—pleasing one's neighbor \"for good, toward building up\" (*eis oikodomen*)—employs architectural metaphor central to Pauline ecclesiology, wherein individual accommodation serves corporate construction.",
+        "Paul's citation catena in verses 9–12, drawing from Psalms, Deuteronomy, and Isaiah, demonstrates sophisticated hermeneutical strategy, presenting Gentile inclusion as the fulfillment of Israel's scriptures rather than their abrogation. The repeated emphasis on Gentiles praising God alongside Israel establishes scriptural warrant for the multiethnic community Paul addresses. Particularly significant is the Isaiah 11:10 quotation regarding the \"root of Jesse\" (*rhiza tou Iessai*), connecting Davidic messianism with universal hope.",
+        "The chapter's latter portion reveals Paul's missionary methodology and geography, introducing his ambition to preach where Christ has not been named, avoiding building on another's foundation. His planned journey through Rome to Spain (*Spanian*) represents the westernmost extent of the known world, suggesting eschatological urgency in completing the Gentile mission. The collection for Jerusalem saints, mentioned in verses 25–27, functions as concrete expression of Gentile-Jewish solidarity, with Paul's terminology of spiritual and material reciprocity (*pneumatikos/sarkikos*) reflecting his theology of mutual indebtedness. Scholars debate whether Paul ever reached Spain; Clement of Rome's later testimony remains ambiguous, leaving this missionary aspiration historically uncertain."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 15: Prophetic perspective",
+      "overview": [
+        "Romans 15 emerges from the pen of the apostle Paul around AD 57, near the close of his third missionary journey, as he writes from Corinth to the church in Rome — a congregation he has never visited but longs to see. This letter arrives approximately twenty-five years after the resurrection and ascension of Christ, firmly within the early church age, that pivotal era between Pentecost and the Parousia when the Spirit-empowered body of Christ advances the kingdom across the earth. Within the grand sweep of redemptive history, Romans 15 stands as apostolic instruction for the community living in the already-and-not-yet tension, where the new creation has dawned in Christ but awaits its consummation at His return.",
+        "Paul opens this chapter by presenting Christ Himself as the supreme pattern of self-denial, the one who \"did not please Himself\" but bore the reproaches that fell upon the Father. Here the incarnate Son appears as the antitype of every suffering servant in Israel's history — the greater David who endured scorn, the true Israel who embraced affliction not for His own sin but for the redemption of others. The citation from Psalm 69 reminds readers that the ancient laments were prophetic utterances finding their ultimate referent in the Messiah's passion.",
+        "The apostle then unveils a stunning eschatological reality: Gentiles and Jews worshiping together as one people. He marshals a constellation of Old Testament texts — from the Law, the Prophets, and the Writings — demonstrating that this ingathering was no divine afterthought but the predetermined purpose woven through Scripture from the beginning. The promises to Abraham that \"all nations\" would be blessed, the prophetic visions of Isaiah depicting the root of Jesse ruling the nations, and the psalmic celebrations of Gentiles praising Yahweh now reach their fulfillment in the multi-ethnic church. What was veiled in type and shadow stands revealed in the body of Christ.",
+        "Paul's missionary ambition to preach where Christ has not been named reflects the church's eschatological vocation: proclaiming the gospel to the ends of the earth until the fullness of the Gentiles comes in. His planned journey to Spain signals that the apostolic mission participates in the final harvest preceding the Lord's return.",
+        "For the church dwelling between the advents, Romans 15 establishes an enduring pattern: bear with the weak as Christ bore with us, hope patiently through Scripture's promises, welcome one another across every division, and labor urgently in mission — for the God of hope is filling His house before the great day dawns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.771918+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

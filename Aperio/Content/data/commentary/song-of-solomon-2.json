@@ -1,0 +1,64 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Song of Solomon 2 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Song of Songs · Introduction",
+      "url": "https://bible.usccb.org/bible/songofsongs/0"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Song of Solomon 2",
+      "overview": [
+        "The spiritual heart of this passage is the celebration of love's tenderness and the soul's awakening to desire—a portrait of intimate affection that reflects something essential about how God longs for closeness with those he loves.",
+        "In this chapter, the beloved describes her lover with radiant joy: \"Like a lily among thorns is my darling among the young women\" (2:2). The imagery is striking—not because lilies are the rarest flowers, but because one flower can transform an entire landscape when you behold it with love. This is the way genuine affection works. When we love someone truly, they become beautiful to us in ways others cannot see. Their presence changes everything around them. The bride recognizes her lover's uniqueness not through objective comparison but through the lens of her devoted heart.",
+        "What follows is a picture of courtship filled with anticipation and delight. He invites her to walk in springtime; she hears his voice calling her forward. Yet notice the refrain that echoes through this passage: \"Do not arouse or awaken love until it so desires\" (2:7). This isn't a warning against love itself but an invitation to respect love's proper timing and seasons. Love is a powerful force—not something to be rushed, manipulated, or forced into existence before its season.",
+        "For those walking through seasons of waiting, longing, or even grief in relationships, this passage speaks tenderly. Our desires matter to God. The fact that Scripture celebrates romantic love and intimate connection sanctifies our deepest human longings. Yet the repeated refrain reminds us that wholeness doesn't demand that every longing be fulfilled immediately. Sometimes the deepest spiritual maturity emerges in the patient, hopeful seasons—when we trust that God's timing for our joy is trustworthy even when it feels slow.",
+        "How might you honor both your deep longings and God's timing in your life right now? What would change if you truly believed he cares about your happiness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Song of Solomon 2: Scholarly study",
+      "overview": [
+        "Song of Solomon 2 continues the passionate dialogue between the two lovers that characterizes this unique wisdom text, presenting some of the most memorable imagery in ancient Near Eastern love poetry. The chapter divides naturally into two movements: verses 1–7 feature an intimate exchange between the woman and her beloved, while verses 8–17 present the woman's recollection of her lover's springtime invitation. The book’s traditional association with Solomon remains important to its interpretation, but its composition is debated; linguistic arguments have also led scholars to propose a post-exilic date for its final form.",
+        "The chapter opens with the woman's self-identification using botanical imagery. The term \"rose\" renders the Hebrew *ḥăbaṣṣeleṯ*, more accurately translated as \"crocus\" or \"meadow saffron,\" a common wildflower rather than an exotic bloom. This suggests humility rather than boastfulness, which the man counters by elevating her status—she is a lily among thorns compared to other women. The apple tree (*tappûaḥ*) to which she compares him carries erotic connotations throughout ancient Near Eastern literature, with its fruit symbolizing sensual delight and fertility.",
+        "The architectural metaphor of the \"banqueting house\" (literally \"house of wine,\" *bêṯ hayyāyin*) and the military imagery of love's \"banner\" (*diglô*) juxtapose celebration with conquest, suggesting love's overwhelming and triumphant nature. The adjuration to the \"daughters of Jerusalem\" by gazelles and does—a poetic circumlocution possibly avoiding divine names—introduces a refrain repeated throughout the book, warning against premature arousal of love.",
+        "The second half presents extraordinarily vivid nature poetry describing spring's arrival. The beloved's approach, leaping upon mountains and bounding over hills, employs vocabulary (*mĕqappēṣ*, *mĕdallēg*) suggesting urgent, almost violent movement. The \"clefts of the rock\" where the dove hides has generated interpretive discussion, with some scholars seeing protective intimacy and others noting possible cultic associations with sacred spaces.",
+        "Within canonical context, Jewish interpreters traditionally read the text allegorically as depicting God's relationship with Israel, while Christian exegesis has understood it as representing Christ and the Church. Contemporary scholarship increasingly appreciates the book's literal celebration of human love as itself theologically significant, affirming embodied existence within creation's goodness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Song of Solomon 2: Prophetic perspective",
+      "overview": [
+        "Song of Solomon chapter two emerges from the golden age of Israel's united monarchy, composed approximately 950 years before Christ's incarnation, during the reign of Solomon when the Davidic kingdom reached its zenith of peace, prosperity, and wisdom. This places the text squarely within the Kingdom era of redemptive history, after God established His covenant with David promising an eternal throne, yet centuries before exile would shatter Israel's national hopes and redirect them toward a greater King.",
+        "The beloved's declaration \"I am a rose of Sharon, a lily of the valleys\" speaks with prophetic resonance that transcends its immediate pastoral setting. Sharon's coastal plain, known for its fertile beauty, would later become in Isaiah's prophecy a symbol of messianic restoration when \"the desert shall rejoice and blossom as the rose.\" The lily among thorns prefigures the church's position in a hostile world—beautiful, fragile, yet divinely protected amid creation's curse. When the bridegroom responds that his beloved is \"as a lily among thorns,\" he anticipates Christ's own declaration that His sheep dwell among wolves yet remain His treasured possession.",
+        "The apple tree providing shade and sweet fruit shadows forth Christ as the Tree of Life, reversing Eden's tragedy where humanity ate forbidden fruit unto death. Here the bride eats and finds sustenance, sitting under her beloved's protective covering. The banqueting house with its banner of love prophetically points to the messianic feast, the marriage supper of the Lamb where covenant love will be eternally consummated. When the bride declares \"his banner over me was love,\" she speaks the church's confession across all ages—claimed, covered, and conquered by divine affection.",
+        "The urgent refrain \"Do not stir up or awaken love until it pleases\" carries eschatological weight, teaching the church patience in the already-not-yet tension. The beloved's springtime arrival—\"the winter is past, the rain is over and gone\"—functions as prophetic poetry describing both advents. Christ came once when the long winter of exile ended; He comes again when creation's final winter yields to eternal spring. The voice of the turtledove announcing new seasons anticipates the Spirit's arrival at Pentecost, signaling the age of flowering and fruitfulness.",
+        "For the church awaiting her Bridegroom's return, this chapter teaches that divine love operates according to sovereign timing. We live in the tension of spring's beginning, tasting resurrection life while awaiting the full summer harvest of Christ's appearing."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "22_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.697009+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-059"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

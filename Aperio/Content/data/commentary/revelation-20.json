@@ -1,0 +1,57 @@
+{
+  "book": "Revelation",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 20: The Victory That Frames All History",
+      "overview": [
+        "In Revelation 20, John pulls back the cosmic curtain to show us that Christ's triumph over evil is not merely hoped for—it is historically certain, and the ultimate restoration of all things has already been secured in God's heart. This passage invites us to live with unshakeable confidence even in a world that still groans under the weight of sin and suffering.",
+        "The binding of Satan for a thousand years, the resurrection of the martyrs to reign with Christ, and finally the last judgment reveal God's patient, purposeful unfolding of redemptive history. Whether we understand the timeline literally or symbolically matters far less than grasping this: evil has an expiration date. The serpent who deceived Adam and Eve, who tempted our Lord in the wilderness, who prowls our modern streets seeking to devour faith and hope—this ancient adversary cannot ultimately win. God has already won, and we are invited to live as citizens of that victory.",
+        "For those who suffer today—whether from persecution, grief, disease, or spiritual darkness—this chapter offers profound comfort. The souls under the altar crying \"How long?\" receive their answer: God sees, God remembers, God will vindicate. The resurrection of the righteous dead before the final judgment affirms that our faithfulness to Christ in this life is not forgotten or wasted. Our service, our sacrifices, our fidelity matter eternally.",
+        "Yet Revelation 20 also calls us to sober realism. The white throne judgment reminds us that our choices matter, that sin carries consequences, and that we will each give account to God. This should not breed fear in believers clothed in Christ's righteousness, but it should kindle in us a tender urgency to share the gospel with those around us who remain separated from Christ.",
+        "As you face today's news, disappointments, or struggles, can you rest in the truth that Christ reigns and all things move toward His purposes? What would change in your prayers and witness if you truly lived as though His victory were already won?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 20: Scholarly study",
+      "overview": [
+        "Revelation 20 stands as one of the most contested chapters in biblical interpretation, presenting John's vision of Satan's binding, a thousand-year reign of the saints, and the final judgment. Written during the late first century, likely during Domitian's reign, this apocalyptic text emerges from a context of imperial pressure on Christian communities and draws heavily on Jewish apocalyptic traditions, particularly Daniel 7 and Ezekiel 37-38.",
+        "The chapter opens with an angel descending to bind Satan for a thousand years. The Greek term *chilias* (χιλιάς), appearing six times in verses 2-7, has generated the theological categories of premillennialism, postmillennialism, and amillennialism. Whether this period represents a literal future epoch, the present church age symbolically described, or a theological construct signifying completeness remains vigorously debated. The binding itself employs the verb *edeō* (ἔδω), suggesting restraint rather than annihilation, with Satan's deception of nations temporarily curtailed.",
+        "Central to the passage is the \"first resurrection\" (*anastasis hē prōtē*), in which martyrs and faithful witnesses reign with Christ. The identity of those seated on thrones has been variously interpreted as apostles, martyrs specifically, or all believers. The phrase \"they came to life\" (*ezēsan*) presents interpretive challenges: Augustine understood this spiritually as regeneration, while many modern interpreters read it as bodily resurrection preceding the general resurrection of verse 12.",
+        "The Gog and Magog tradition, drawn from Ezekiel 38-39, appears transformed in verses 7-10, representing eschatological enemies rather than specific nations. Their ultimate destruction by fire from heaven echoes earlier prophetic judgment oracles while anticipating the lake of fire motif that concludes satanic opposition permanently.",
+        "The great white throne judgment (verses 11-15) introduces the books of deeds alongside the book of life, holding in tension works-based evaluation and gracious election. The sea, Death, and Hades surrendering their dead emphasizes the comprehensive scope of divine judgment. The \"second death\" (*ho thanatos ho deuteros*) represents final, irreversible separation from God, contrasting with the first resurrection's blessing. This chapter thus functions as the theological hinge between cosmic conflict and the new creation vision that follows."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 20: Prophetic perspective",
+      "overview": [
+        "Revelation 20 stands at the threshold of history's consummation, written through John on Patmos around AD 95, yet depicting events that span from Christ's first advent through the final judgment and into eternity. This chapter does not describe a single moment but rather telescopes across the entire church age and beyond, reaching forward to realities that remain future even now, two millennia later. Within the grand redemptive arc, this passage bridges the Church Age and the New Creation, depicting the binding of Satan, the reign of the saints, the final rebellion, and the great white throne judgment that closes human history forever.",
+        "The binding of Satan for a thousand years has generated centuries of interpretation, yet the prophetic pattern reveals profound truth regardless of one's millennial position. The strong man bound echoes Christ's own declaration that He came to bind the strong man and plunder his house. At the cross and resurrection, Satan's authority over the nations received a decisive wound; the gospel's spread to all peoples demonstrates his deception has been curtailed. The saints who reign with Christ, whether understood as the church triumphant in heaven during this age or as a future millennial kingdom, fulfill the ancient promise given to Daniel's Son of Man—that the saints of the Most High would receive the kingdom and possess it forever.",
+        "The first resurrection marks those who share in Christ's victory over death. They serve as priests and kings, the royal priesthood that Exodus anticipated and Peter proclaimed fulfilled in the church. Death holds no second power over them, for they have passed from death to life through union with the risen Lord. Here the typology of Israel's priesthood reaches its ultimate expression—not one tribe serving in a temple made with hands, but all God's people ministering in His presence eternally.",
+        "The release of Satan, the gathering of Gog and Magog, and the fire from heaven complete what Ezekiel foresaw in ancient prophecy. Evil, though restrained, is not yet eradicated; this final rebellion demonstrates that even a thousand years of Christ's manifest reign cannot change the unregenerate heart. Only divine judgment suffices.",
+        "The great white throne before which earth and heaven flee reveals the Lamb as Judge. The books opened—recording every deed—and the Book of Life determine eternal destiny. Death and Hades themselves face destruction in the lake of fire, fulfilling Isaiah's promise and Paul's declaration that the last enemy destroyed is death.",
+        "For the church awaiting Christ's return, this chapter anchors hope and urgency alike: Satan is defeated, the saints will reign, every wrong will be addressed, and death itself will die."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.100442+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

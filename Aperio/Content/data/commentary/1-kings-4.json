@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 4: The Blessing of Faithful Management",
+      "overview": [
+        "The heart of this passage is the remarkable flourishing that comes when God's purposes are stewarded well—when a leader's wisdom extends into every detail of a kingdom's life, from the palace kitchen to the furthest borders of the realm.",
+        "Solomon's administrative genius on display here is far more than an impressive historical record. When we read that he organized twelve district governors, provided daily provisions of thirty measures of fine flour and sixty measures of meal, kept one thousand four hundred chariots and twelve thousand horsemen, and fed the royal household with oxen and sheep and game and poultry, we're witnessing the fruit of what happens when a wise ruler thinks carefully about structure, provision, and order. Solomon sought to create a system where every person knew their role and the kingdom's needs were met with reliability and abundance.",
+        "There's something deeply encouraging in this for us today. We live in a world where chaos feels natural and good management feels rare. But Solomon's example reminds us that God delights when we bring thoughtfulness, order, and care to the responsibilities He's given us—whether in our homes, workplaces, churches, or communities. The administrative backbone of a healthy organization isn't less spiritual than its inspirational vision; it's how that vision actually gets lived out day after day.",
+        "Notice too that the passage emphasizes the *wisdom* behind this organization. Solomon \"had twelve officers over all Israel, which provided victuals for the king and his household\" (verse 7). This wasn't tyrannical hoarding but calculated provision that allowed the kingdom—and by extension, the people—to thrive. His wisdom gave the nation both security and prosperity.",
+        "The challenge before us is beautiful: we're called to bring similar intentionality to our own spheres of influence. How might faithful, prayerful management of the everyday details of your life—your time, your relationships, your responsibilities—become a living testimony to God's order and care?",
+        "What area of your life is calling for more faithful, prayerful stewardship?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 4: Scholarly study",
+      "overview": [
+        "The fourth chapter of 1 Kings presents a carefully constructed portrait of Solomon's administrative apparatus and the material prosperity of his kingdom, serving as the narrative fulfillment of divine promises made in the preceding chapter. The passage functions as a literary hinge between Solomon's acquisition of wisdom (chapter 3) and the temple-building project (chapters 5–8), demonstrating that the king possesses both the intellectual capacity and material resources necessary for Israel's golden age. The text likely draws upon archival court records, as evidenced by the detailed lists of officials and provincial governors, though these have been shaped by the Deuteronomistic historian to illustrate theological principles regarding faithful leadership.",
+        "The chapter opens with a roster of Solomon's chief officials, employing the Hebrew term *sarim* (שָׂרִים), denoting high-ranking administrators who formed the royal cabinet. Notable among these is Azariah son of Zadok, designated as *kohen* (כֹּהֵן), which here likely indicates \"chief minister\" or \"royal advisor\" rather than strictly cultic priest, reflecting the term's broader semantic range in administrative contexts. The twelve district governors (*nitsavim*) bear responsibility for provisioning the royal court, each serving one month annually—an organizational structure that simultaneously ensured administrative efficiency and distributed economic burden across the realm.",
+        "The passage's climactic assertion that Judah and Israel were \"as numerous as the sand by the sea\" deliberately echoes the Abrahamic covenant (Genesis 22:17), signaling that under Solomon the ancient promises reach their apex. The geographic description extending \"from the Euphrates to the land of the Philistines and to the border of Egypt\" reflects the idealized boundaries of Davidic-Solomonic hegemony, though scholars debate whether this represents actual political control or literary-theological hyperbole. The daily provisions enumerated—thirty cors of fine flour, sixty cors of meal, numerous livestock—emphasize abundance while simultaneously foreshadowing the heavy taxation that will later fracture the kingdom (1 Kings 12). The chapter's concluding celebration of Solomon's encyclopedic wisdom, encompassing proverbs, songs, and natural philosophy, establishes him as the archetypal sage-king, surpassing even legendary Eastern and Egyptian wisdom, thus legitimizing the Solomonic corpus of wisdom literature."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 4: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 970 years before the incarnation of Christ, during the early reign of Solomon following David's death and the consolidation of the kingdom. We stand at the apex of Israel's golden age, the zenith of the Davidic covenant's temporal expression, when the promises to Abraham concerning land and blessing found their fullest Old Testament realization. Within the grand redemptive arc, this passage belongs to the Kingdom phase—that glorious yet fleeting moment when Israel dwelt securely under a wise king, foreshadowing a greater Kingdom yet to come.",
+        "Solomon's administration reveals a kingdom of unprecedented order and prosperity. The listing of officials, governors over twelve districts, and the systematic provision for the royal household demonstrates a realm functioning in harmonious unity. Each governor supplied provisions for one month, ensuring the king's table overflowed with abundance. The text declares that Judah and Israel were as numerous as sand by the sea, eating, drinking, and rejoicing—language deliberately echoing the Abrahamic promise of innumerable descendants. Here the ancient covenant finds partial fulfillment: the people dwell safely, every man under his vine and fig tree, from Dan to Beersheba.",
+        "Yet this very glory serves as prophetic shadow. Solomon's wisdom, given by God and exceeding all the wisdom of the East and Egypt, typologically anticipates Christ, in whom are hidden all treasures of wisdom and knowledge. The queen-drawing, nation-astonishing wisdom of Solomon whispers of One greater than Solomon who would come. The peace extending to all surrounding nations, the tribute flowing from distant peoples, and the universal recognition of Israel's king prophetically gesture toward the messianic reign when all nations shall stream to Zion's King.",
+        "The abundance described—thirty cors of fine flour daily, countless oxen and sheep, peace on every border—paints an earthly portrait of eschatological blessing. What Israel tasted temporarily under Solomon, the Church shall inherit eternally under Christ. The land rest achieved here was broken by subsequent rebellion and exile, proving that no earthly kingdom satisfies the deepest covenantal longings.",
+        "For the Church living between the advents, this chapter teaches that present blessings, however magnificent, remain shadows of coming glory. Solomon's throne has crumbled, but David's greater Son reigns now at the Father's right hand, administering a kingdom that cannot be shaken. The wisdom, peace, and prosperity glimpsed in Jerusalem's golden age await their consummate fulfillment when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.541016+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

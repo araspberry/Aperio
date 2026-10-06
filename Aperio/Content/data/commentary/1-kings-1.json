@@ -1,0 +1,54 @@
+{
+  "book": "1 Kings",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 1: The Throne and God's Faithfulness",
+      "overview": [
+        "When David's kingdom stands at a crossroads and aging King David seems unable to act, God's purposes move forward not through human perfection but through His patient faithfulness. This opening chapter of 1 Kings shows us that even when God's chosen people and leaders stumble, His covenant promises cannot be thwarted.",
+        "The story presents a raw picture of succession gone wrong. Adonijah, one of David's older sons, presumptuously claims the throne without his father's approval, gathering supporters and making a spectacle of his ambitions. Yet notice how the narrative contrasts this with the quiet faithfulness of those who remember God's covenant. Nathan the prophet and Bathsheba move with wisdom and urgency, not because they are scheming for power, but because they understand that Solomon—not Adonijah—carries the promise God made to David. When David finally acts decisively, he does so as a man remembering his oath before the Lord.",
+        "What strikes us here is how the kingdom's future rests on people choosing to honor God's revealed will rather than pursuing what seems advantageous. Adonijah's attempt fails not through military might but through the quiet conviction of those faithful to God's word. Solomon is established not because he is the strongest candidate, but because he is the one God designated.",
+        "This speaks directly to our own lives. We live in a world constantly tempting us to seize control, to ensure our success through our own maneuvering. Yet this passage invites us into something far more profound: the freedom that comes from trusting God's purposes even when the path seems uncertain. Our calling is not to orchestrate outcomes but to align ourselves with what God has revealed and to remain faithful in our role, whatever it may be.",
+        "Where in your life might you be tempted to grasp for control rather than trust God's direction? How might you respond differently today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 1: Scholarly study",
+      "overview": [
+        "The opening chapter of 1 Kings marks a pivotal transition in Israel's monarchic history, depicting the final days of David's reign and the contested succession that elevated Solomon to the throne. Composed as part of the Deuteronomistic History, likely compiled during the exilic period from earlier court records, this narrative belongs to what scholars often designate the \"Succession Narrative\" or \"Court History of David,\" extending from 2 Samuel 9 through 1 Kings 2. The chapter functions as both conclusion to the Davidic saga and prologue to the Solomonic era, employing sophisticated literary techniques to portray the fragility of power and the providential establishment of dynastic continuity.",
+        "The narrative opens with David's physical decline, described through the telling detail that he could not \"get warm\" (Hebrew *yiḥam*), a term carrying connotations beyond mere temperature regulation to suggest diminished vital force. The introduction of Abishag the Shunammite as a *sōkenet* (attendant or nurse) who would \"lie in your bosom\" presents a culturally understood test of royal virility; the narrator's pointed observation that David \"knew her not\" (*lō' yĕdā'āh*) signals his incapacity and implicitly his unfitness to continue ruling.",
+        "Adonijah's self-exaltation exploits this vacuum, his declaration \"I will be king\" (*'ănî 'emlōk*) echoing Absalom's earlier rebellion with nearly identical preparations—chariots, horsemen, and fifty runners. The text emphasizes his physical attractiveness, establishing a literary parallel with Absalom while subtly critiquing David's permissive parenting. The coalition supporting Adonijah (Joab and Abiathar) versus Solomon (Zadok, Benaiah, Nathan, and Bathsheba) reflects deeper tensions within David's administration between established military-priestly powers and emerging factions.",
+        "Nathan's shrewd intervention through Bathsheba demonstrates prophetic involvement in royal succession, a theme recurring throughout Kings. The anointing at Gihon, utilizing the horn of oil from the \"tent\" (*'ōhel*), likely the tabernacle, confers legitimacy through sacred ritual. Interpretive debates persist regarding whether Nathan's account of David's oath represents historical memory or diplomatic fabrication, though the narrative presents Solomon's accession as divinely sanctioned fulfillment of prior commitment. The chapter thus establishes theological criteria for evaluating subsequent kings: legitimate succession, prophetic endorsement, and divine election."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 1: Prophetic perspective",
+      "overview": [
+        "The events of 1 Kings 1 unfold approximately 970 years before the birth of Christ, in the final days of King David's reign, roughly four decades after the prophet Samuel had anointed the shepherd boy to replace Saul. This chapter stands at a pivotal hinge in redemptive history—the transition from David's kingdom to Solomon's—and belongs to that era when God was establishing the Davidic covenant as the vessel through which Messiah would come.",
+        "David lies aged and feeble, his once-mighty frame now cold and diminished, requiring Abishag the Shunammite to minister warmth to his failing body. Here the greatest king Israel had known approaches death like every son of Adam, a stark reminder that even the man after God's own heart could not escape the curse pronounced in Eden. Yet within this scene of royal mortality, a succession crisis erupts that carries eternal weight. Adonijah, handsome and ambitious like Absalom before him, exalts himself, declaring \"I will be king\" and gathering chariots, horsemen, and a coalition including Joab and Abiathar the priest. He represents human presumption—one who seizes the throne rather than receiving it from the Lord's anointing.",
+        "Against this usurpation stands the prophetic word. Nathan the prophet, who had confronted David over Bathsheba and pronounced the covenant of an eternal throne, now moves to ensure God's chosen successor takes his rightful place. Bathsheba and Nathan approach the dying king, and David confirms with an oath what heaven had already decreed: Solomon shall reign. The true king rides upon David's own mule to Gihon, where Zadok the priest anoints him with oil from the tabernacle. The trumpet sounds, the people shout, and the earth splits with joyful noise while the pretender's feast dissolves in terror.",
+        "This succession narrative is laden with typological significance. Solomon, whose name means \"peace,\" ascends to the throne not through self-promotion but through covenant promise and prophetic intervention, foreshadowing the greater Son of David who would not grasp equality with God but humbled Himself unto death. The rejected Adonijah, clinging to the altar's horns, prefigures all who seek refuge in religious forms without submitting to the true King. The church today lives in the tension of this same pattern—Christ has been anointed King at His resurrection, yet pretenders still cry \"I will reign\" over human hearts. The trumpet will sound again, and every knee shall bow to David's greater Son."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.531724+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

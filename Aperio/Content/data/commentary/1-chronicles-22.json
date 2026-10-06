@@ -1,0 +1,56 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Legacy Built on God's Promises",
+      "overview": [
+        "David's charge to Solomon in 1 Chronicles 22 reveals a father's deepest desire—not to hand down his crown, but to pass on his faith. This passage captures the beautiful tension between human preparation and divine providence, showing us what it truly means to build something that lasts.",
+        "David has conquered enemies, secured peace, and accumulated vast resources. Yet he refuses to build God's house himself, knowing his hands are stained with warfare. Instead, he prepares everything Solomon will need: materials, wealth, skilled workers, and—most importantly—the vision and the promise that God will be with him. This is not resignation but wisdom. David understands that some callings belong to the next generation, and his role is to be a faithful steward of the legacy, not a jealous guardian of it.",
+        "Notice how David repeatedly reminds Solomon that success comes not from human strength but from God's presence and promises. \"The Lord will be with you\" becomes the refrain that anchors everything else. David's confidence in Solomon is grounded not in his son's natural abilities but in God's covenantal faithfulness. This reframes how we think about our own responsibilities—whether as parents, mentors, leaders, or simply as believers passing our faith to others.",
+        "The practical and spiritual blend together here. David gathers not just resources but wisdom, encouraging Solomon to seek God's direction in every decision. He knows that the grandest building project means nothing without a heart turned toward God.",
+        "Many of us stand where either David or Solomon stands—either letting go of something we've built, or receiving a vision larger than our current capacity. Both positions demand the same essential conviction: that God's purposes are far greater than our own, and that faithfulness in our generation opens doors for the next.",
+        "What legacy of faith—not possessions, but genuine trust in God—are you building or receiving? How might you shift your focus from what you can accomplish to what God will accomplish through your obedience?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 22: Scholarly study",
+      "overview": [
+        "The twenty-second chapter of First Chronicles represents a pivotal transition in the Chronicler's theological narrative, marking David's extensive preparations for temple construction and the formal commissioning of Solomon as its builder. Composed during the post-exilic period, likely in the late fifth or fourth century BCE, this material reflects the Chronicler's distinctive interest in legitimizing Second Temple worship by anchoring it in Davidic initiative and divine sanction.",
+        "The chapter opens with David's declaration identifying the threshing floor of Ornan as the site for the future sanctuary, directly connecting this location to the preceding theophany in chapter twenty-one. David's assertion that \"this is the house of the LORD God\" employs the term *bayit* (בַּיִת), which carries layered significance denoting both physical structure and dynastic lineage—a dual meaning the Chronicler exploits throughout the David-Solomon narrative. The massive quantities of materials David amasses—iron, bronze, cedar, and notably gold and silver \"beyond weighing\" (*mishqal*, מִשְׁקָל)—emphasize that Solomon inherits not merely permission but substantial material provision.",
+        "Theologically significant is David's explanation for his disqualification from temple construction: he has shed much blood (*dam*, דָּם) and waged great wars. This rationale, absent from the parallel account in Samuel-Kings, serves the Chronicler's portrayal of the temple as requiring a builder whose name *Shelomoh* (שְׁלֹמֹה) embodies the peace (*shalom*) characterizing his reign. Some scholars debate whether this blood-guilt relates to warfare generally or specifically to morally questionable bloodshed, though the Chronicler appears to view even legitimate military activity as incompatible with sacred construction.",
+        "David's charge to Solomon echoes Deuteronomistic language, particularly the exhortation to keep Torah with \"discretion and understanding\" (*sekhel* and *binah*). The conditional nature of blessing—contingent upon observance of \"statutes and ordinances\"—reflects covenant theology central to post-exilic Jewish identity. David's subsequent command to Israel's leaders to assist Solomon positions the temple project as a communal undertaking requiring unified national effort, thereby modeling the cooperative spirit the Chronicler sought to cultivate among his own contemporaries rebuilding their religious community after exile."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 22: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 970 years before the birth of Christ, during the twilight of David's reign over the united monarchy of Israel. The great king, now aged and battle-worn, turns his attention from conquest to consecration, preparing materials and charging his son Solomon with the sacred task of building the Lord's temple. Within the grand arc of redemption, this passage stands at the apex of the Davidic kingdom era—after the exodus deliverance and wilderness wandering, after the conquest and the judges' chaos, and now at the threshold of Israel's golden age when God's dwelling place among His people would find permanent expression in stone and gold.",
+        "David's prohibition from building the temple because he was \"a man of war\" who had \"shed much blood\" reveals a profound typological truth. The warrior king who subdued enemies and established peace could not construct the house of rest; that honor belonged to Solomon, whose very name means \"peace.\" Here Scripture whispers of a greater reality: the kingdom won through blood and battle prepares for the kingdom of peace, yet the two works require different hands. David foreshadows Christ in His first advent—the suffering servant who wages war against sin, Satan, and death through the shedding of His own blood. Solomon points toward the Prince of Peace who builds the eternal temple, the Church, from living stones gathered from every nation.",
+        "The temple itself stands as a magnificent type of realities yet to unfold. First, it shadows Christ's incarnation—\"the Word became flesh and tabernacled among us.\" Second, it prefigures the Church, which Paul calls \"the temple of the living God.\" Third, it anticipates the New Jerusalem descending from heaven, where God dwells eternally with His people without need of any temple, \"for the Lord God Almighty and the Lamb are its temple.\"",
+        "David's meticulous provision of gold, silver, bronze, iron, timber, and craftsmen demonstrates that God's dwelling place demands our finest offerings and fullest devotion. His charge to Solomon—\"be strong and courageous, do not fear\"—echoes through the ages to every generation called to build upon the foundation of Christ.",
+        "The Church today lives as temple-builders between the advents. The cornerstone has been laid; the chief architect has ascended to heaven; the Spirit empowers the construction. Like David, believers labor knowing that another completes what they begin, and like Solomon, they build in the peace Christ has purchased through His blood."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.738942+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

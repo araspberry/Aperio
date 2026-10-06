@@ -1,0 +1,57 @@
+{
+  "book": "Job",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 7: The Cry of a Soul in Agony",
+      "overview": [
+        "Job's seventh chapter captures the raw, unfiltered cry of a man whose suffering has stripped away every pretense. This is where faith meets its deepest interrogation—not in neat theological answers, but in the honest expression of human anguish before God.",
+        "Job speaks of his days as those of a hired laborer, measured and meaningless, filled with nothing but nights of restlessness and flesh crawling with decay. He describes worms and dust, decay and despair, all while God remains seemingly distant and indifferent. What strikes us most is Job's brutal honesty. He doesn't soften his words or perform piety for God's benefit. He complains, he questions, he even accuses. And remarkably, Scripture preserves this not as a warning against doubt, but as a legitimate form of prayer.",
+        "In our modern faith culture, we often feel pressured to maintain composure, to find silver linings, to speak only positive confessions. But Job teaches us something profoundly countercultural: sometimes the deepest worship happens when we bring our whole selves to God, including our rage and bewilderment. The Psalms likewise overflow with similar lament, suggesting that God doesn't need our carefully curated prayers—He needs our truth.",
+        "Job's suffering is real, his pain is legitimate, and his questions deserve to be asked. He asks God why He no longer seems to notice him, why He has become his adversary rather than his refuge. These questions echo through every hospital room, every dark night of the soul, every moment when faith feels like a luxury we cannot afford.",
+        "Yet in bringing his complaint to God rather than away from Him, Job models a faith that is sturdy enough to hold both devotion and desperation. He doesn't abandon God; he demands that God be the one who addresses his suffering.",
+        "Where is your honest question for God today—the one you've been afraid to voice? What would change if you brought not your polished prayers, but your true pain?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 7: Scholarly study",
+      "overview": [
+        "Job 7 constitutes a pivotal moment in the protagonist's first response cycle, transitioning from his address to the friends in chapter 6 to a direct confrontation with God that anticipates the legal disputation language pervading later speeches. This chapter emerges from the ancient Near Eastern context where lament literature flourished, yet Job's complaint transcends conventional forms by its audacious questioning of divine surveillance and its inversion of traditional psalmistic imagery.",
+        "The chapter opens with Job employing the term *ṣābāʾ* (צָבָא), typically rendered \"hard service\" or \"warfare,\" evoking the compulsory labor of conscripted soldiers or corvée workers. This military-economic metaphor establishes human existence as fundamentally characterized by struggle and servitude, a condition Job universalizes before applying it to his particular suffering. The hired laborer (*śākîr*) who pants for shade and awaits wages becomes paradigmatic of humanity's weary anticipation of death's relief, inverting the expected desire for continued life.",
+        "Particularly striking is Job's transformation of Psalm 8's celebratory theology. Where the psalmist marvels that God mindfully attends to humanity, Job bitterly asks why God makes humans so significant as to warrant constant examination. The verb *pāqad* (פָּקַד), meaning \"to visit\" or \"to attend to,\" carries both positive connotations of providential care and negative implications of judicial investigation. Job exploits this semantic range to portray divine attention as oppressive surveillance rather than gracious oversight, questioning why the cosmic sovereign would obsess over a transient creature.",
+        "The chapter's imagery of life as breath (*rûaḥ*), a cloud dissolving, and Sheol's finality reflects wisdom literature's preoccupation with mortality while intensifying the urgency of Job's complaint. His declaration that he will not restrain his mouth represents a decisive rejection of pious silence, claiming the sufferer's right to speak freely before death renders speech impossible.",
+        "Interpreters debate whether Job's closing question—asking why God does not pardon transgression—represents genuine confession or bitter irony, given Job's consistent innocence claims. The ambiguity itself serves the book's larger theological project of destabilizing conventional retributive frameworks while preserving the authenticity of anguished faith seeking understanding amid inexplicable suffering."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 7: Prophetic perspective",
+      "overview": [
+        "Job chapter seven was spoken approximately two thousand years before Christ, during the patriarchal age that preceded the Mosaic covenant. Job likely lived in the era of Abraham, Isaac, and Jacob, placing this lament in that primordial period after Babel's scattering but before Israel's formation as a covenant nation. On the grand timeline of redemption, this passage emerges from the shadows of the post-Fall world where humanity groans under the curse, yet the promises to Abraham concerning blessing and seed have begun their slow germination toward fulfillment.",
+        "In this chapter, Job pours forth the anguish of mortal existence under the weight of seemingly purposeless suffering. His words echo the curse pronounced in Eden—life reduced to hard service, days passing like a weaver's shuttle, flesh clothed with worms and dust. Here stands humanity in its fallen state, crying out from the ash heap of existence, and in Job's tortured frame we behold a type of the Suffering Servant who would come. Job's body covered in loathsome sores prefigures the One of whom Isaiah would write, \"We esteemed him stricken, smitten by God, and afflicted.\" His complaint that God has made him a target for divine arrows shadows Calvary, where the Father made the Son to be sin for us.",
+        "Job's haunting question in verse seventeen—\"What is man, that you make so much of him?\"—finds its prophetic answer in the incarnation. The Son of God would take on this frail, shuttle-swift existence, tasting the full bitterness of human mortality. Where Job accuses God of being a relentless watcher who will not look away, Christ would experience the opposite horror: the Father's face turned away as He bore the sins of the world.",
+        "The eschatological thread running through Job's despair points toward resurrection. His lament that one who goes down to Sheol does not come up would be overturned when Christ descended to the dead and rose triumphant. Job speaks better than he knows, for his suffering participates in the groaning of all creation awaiting liberation.",
+        "For the church living between the advents, Job seven stands as sacred testimony that God does not waste suffering. The One who entered our brief, troubled days has transformed the ash heap into an altar. Though we still experience nights of tossing and days of futility, we wait not as those without hope but as those who know the Redeemer lives and shall stand at last upon the earth."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.98049+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 10: The Voice That Calls Us by Name",
+      "overview": [
+        "Jesus reveals himself as the Good Shepherd who knows his sheep by name and lays down his life for them—a portrait of love so intimate and sacrificial that it redefines what it means to belong to God.",
+        "This chapter opens with one of Scripture's most tender metaphors. A shepherd knows his sheep individually, calling each one by name, and they follow because they recognize his voice. In the ancient world, this image would have resonated deeply: a shepherd's knowledge of his flock meant safety, provision, direction, and care. But Jesus is not merely comparing himself to a shepherd; he is claiming to be the shepherd who fulfills what every human heart secretly longs for—to be known completely and loved anyway.",
+        "The genius of this passage is how Jesus distinguishes between the thief who comes only to steal, kill, and destroy, and himself, who comes that we might have life abundantly. In our modern lives, we are constantly seduced by voices promising fulfillment: achievement, wealth, status, distraction. These voices are thieves. They steal our time, our peace, our sense of being loved for who we are rather than what we produce. But Jesus offers something radically different—a shepherd's voice that calls us toward fullness, toward rest, toward the knowledge that we are protected.",
+        "What grips the heart most deeply is the statement that the Good Shepherd lays down his life for the sheep. This is not distant divinity; this is love willing to suffer. It is the voice that does not merely direct from a distance but enters into our struggles, our pain, our death itself.",
+        "For disciples today, the invitation remains the same: learn to distinguish the Shepherd's voice from all the other voices clamoring for our attention and allegiance. His voice calls us by name because we matter to him individually.",
+        "What would it mean for you this week to silence the competing voices and listen for Jesus calling you by name into abundant life?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 10: Scholarly study",
+      "overview": [
+        "The tenth chapter of John presents one of the most theologically dense discourses in the Fourth Gospel, continuing Jesus's confrontation with the Pharisees following the healing of the man born blind in chapter nine. This extended metaphorical discourse, set against the backdrop of Jerusalem during or near the Feast of Dedication (Hanukkah), employs pastoral imagery deeply rooted in Israel's prophetic tradition, particularly Ezekiel 34's excoriation of Israel's failed shepherds and the promise of divine shepherding.",
+        "Central to this passage is Jesus's self-designation using the emphatic *egō eimi* (ἐγώ εἰμι, \"I am\") formula, appearing twice with predicates: \"I am the door\" (verses 7, 9) and \"I am the good shepherd\" (verses 11, 14). The adjective *kalos* (καλός), rendered \"good,\" carries connotations beyond mere moral goodness, suggesting that which is noble, ideal, or genuinely representative of its kind—the shepherd *par excellence*. This contrasts sharply with the *misthōtos* (μισθωτός), the hired hand whose economic relationship to the flock precludes sacrificial commitment.",
+        "The discourse's literary structure reveals careful progression from parabolic imagery (verses 1–6, termed *paroimia* rather than *parabolē*) to explicit christological claims. The sheep-gate metaphor establishes exclusivity of access, while the shepherd imagery emphasizes intimate knowledge—the verb *ginōskō* (γινώσκω) in verses 14–15 denotes relational knowing, paralleling the mutual knowledge between Father and Son. This reciprocal intimacy becomes soteriologically significant when Jesus speaks of laying down his life *voluntarily*, a theme unique in its emphasis on Jesus's sovereign agency over his own death.",
+        "Verse 16's reference to \"other sheep not of this fold\" has generated considerable interpretive discussion, with most scholars understanding this as anticipating Gentile inclusion within the unified flock. The chapter concludes at Solomon's Portico during Hanukkah, where Jesus's claim that he and the Father \"are one\" (*hen esmen*, verse 30) provokes charges of blasphemy. The neuter *hen* suggests unity of will and action rather than ontological identity, though patristic and later trinitarian theology would develop these implications extensively. The passage thus integrates ecclesiology, soteriology, and Christology within evocative pastoral imagery."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 10: Prophetic perspective",
+      "overview": [
+        "John chapter ten unfolds during the final year of Christ's earthly ministry, approximately AD 32-33, spoken in Jerusalem during the Feast of Dedication—what we know as Hanukkah—a celebration commemorating the Maccabean cleansing of the temple some 165 years earlier. This placing is no accident, for Jesus stands in Solomon's Colonnade declaring Himself the true consecration, the living Temple, the authentic Shepherd of Israel at the very moment the nation remembers deliverance from false shepherds who had defiled holy things.",
+        "Within the grand sweep of redemptive history, this chapter stands at the climactic hinge between promise and fulfillment. The prophets had thundered against Israel's corrupt shepherds—Ezekiel 34 pronounced woe upon leaders who fed themselves rather than the flock and promised that God Himself would come to shepherd His people. Jeremiah lamented shepherds who scattered the sheep and foretold a righteous Branch who would gather them. In John 10, these ancient oracles find their yes and amen in the incarnate Word. Jesus is not merely a good shepherd among many; He is the Good Shepherd, the Lord Yahweh of Ezekiel's prophecy now walking in human flesh among His scattered sheep.",
+        "The typological resonances echo through centuries. David, the shepherd-king taken from following the ewes to feed Jacob and Israel, foreshadowed this greater Son of David who calls His own sheep by name. The Passover lamb whose blood marked doorposts in Egypt finds its ultimate expression in the Shepherd who lays down His life voluntarily—not as victim but as victor. The door of the sheepfold recalls both the entrance to Eden guarded after the fall and the gate through which the high priest alone could enter God's presence. Christ declares Himself both Door and Shepherd, both access and guide, both sacrifice and sovereign.",
+        "The eschatological horizon stretches forward as Jesus speaks of \"other sheep not of this fold\"—the Gentile multitudes who would be gathered into one flock under one Shepherd through the apostolic mission. This ingathering continues throughout the church age as the voice of the Good Shepherd calls His elect from every tribe and tongue.",
+        "For the church dwelling between advents, this chapter offers unshakeable assurance: those held in the Father's hand cannot be snatched away. The Shepherd who laid down His life has taken it up again and even now intercedes, protects, and leads His flock toward green pastures in the age to come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.632536+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

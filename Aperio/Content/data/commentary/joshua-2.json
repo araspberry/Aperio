@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 2: The God Who Sees the Outsider",
+      "overview": [
+        "The heart of this passage is the extraordinary discovery that faith recognizes no ethnic or social boundary—God saves those who seek Him, regardless of their past or status.",
+        "When the Israelite spies arrive at Rahab's house in Jericho, they find themselves not among enemies but among the faithful. This woman, a Canaanite prostitute, embodies a profound spiritual truth: she has heard what God did for Israel at the Red Sea, her heart has trembled with reverence, and she has staked everything on the God of Israel. She hides the spies, misleads the city guards, and makes a covenant with them—not for money or strategic advantage, but out of conviction that the Lord is God. What the fortified walls of Jericho represent as immovable obstacles, Rahab sees as already fallen.",
+        "Her confession in verse 11 is remarkably complete: she declares that God rules heaven and earth, acknowledges His mighty deeds, and positions herself on the side of His purposes. More striking still is how Joshua's narrative welcomes her. She is not merely tolerated as a useful informant; she is grafted into God's people, eventually becoming an ancestor of King David and appearing in Matthew's genealogy of Jesus. The God who parts seas and conquers cities also bends low to the desperate faith of an unlikely woman.",
+        "This passage speaks to anyone who has felt disqualified by their past or background. Rahab's story insists that surrender to God matters infinitely more than where you started. Her courage springs not from power or position but from simple trust that God's ways are unstoppable. She didn't need to be respectable to be righteous; she needed only to recognize where true strength lay.",
+        "What walls in your own life seem insurmountable? Can you, like Rahab, acknowledge God's sovereignty over them and choose to align yourself with His purposes rather than your fears?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 2: Scholarly study",
+      "overview": [
+        "Joshua 2 presents a narratively complex account of the Israelite reconnaissance mission to Jericho and the encounter with Rahab, a Canaanite woman whose profession and subsequent actions have generated extensive scholarly discussion. The chapter functions as a crucial transition between the preparatory material of Joshua 1 and the actual crossing of the Jordan in chapters 3–4, establishing theological themes that pervade the conquest narrative. Composed within the Deuteronomistic historical framework, this text reflects the theological concerns of covenant faithfulness, divine providence, and the incorporation of outsiders into Israel's community.",
+        "The Hebrew term *zônâ*, traditionally rendered \"prostitute\" or \"harlot,\" describes Rahab's occupation, though some ancient interpreters, including Josephus, attempted to soften this designation by translating it as \"innkeeper.\" The Septuagint, however, retains *pornē*, confirming the straightforward meaning. Her marginal social status paradoxically positions her as an ideal informant and host for the spies, as her dwelling in the city wall and her profession would explain visitors without arousing suspicion. The verb *ṭāman*, meaning \"to hide\" or \"to conceal,\" appears when Rahab secretes the spies under stalks of flax, demonstrating her active complicity against her own people.",
+        "Rahab's confession in verses 9–11 constitutes remarkable theological testimony, employing covenantal language as she declares that Yahweh has given the land to Israel. Her statement that the inhabitants' hearts \"melted\" (*māsas*) echoes Exodus 15:15 and anticipates Joshua 5:1, creating intertextual resonance with the exodus tradition. This confession from a Canaanite woman's lips serves the Deuteronomistic purpose of demonstrating Yahweh's reputation among the nations.",
+        "The scarlet cord (*tiqwat ḥûṭ haššānî*) that Rahab must display carries symbolic weight, with interpreters noting parallels to the Passover blood. The oath-making ceremony between Rahab and the spies establishes binding obligations that later narratives honor, as Joshua 6:25 confirms her survival and integration into Israel. The New Testament reception of Rahab in Hebrews 11:31 and James 2:25 further canonizes her as a paradigm of faith expressed through works, demonstrating how this ancient narrative continued generating theological meaning across testamental boundaries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 2: Prophetic perspective",
+      "overview": [
+        "The events of Joshua chapter two unfold approximately 1406 years before the birth of Christ, at the threshold of Israel's long-awaited entry into the Promised Land. Forty years of wilderness wandering have ended, Moses has died on Mount Nebo, and Joshua now leads the second generation to claim the inheritance promised to Abraham some six centuries earlier. This moment represents the fulfillment of covenant promise—the land sworn to the patriarchs is about to become Israel's possession, advancing God's redemptive plan from the Abrahamic covenant toward the establishment of the kingdom.",
+        "Within the grand narrative of redemption, Jericho stands as the first conquest in the land of promise, the initial displacement of Canaanite darkness by the light of Yahweh's dwelling presence. Yet hidden within this military reconnaissance mission lies one of Scripture's most stunning portraits of sovereign grace: the salvation of Rahab the harlot. Here the reader encounters a Gentile woman, an outcast by profession and nationality, who becomes a vessel of divine mercy and a mother in the messianic line.",
+        "Rahab emerges as a profound type of the church gathered from among the nations. She dwelt among the condemned, yet through faith she was separated unto life. Her confession—\"Yahweh your God, He is God in heaven above and on earth beneath\"—echoes with the clarity of covenant knowledge, though she possessed neither law nor prophet. The scarlet cord hung in her window foreshadows the blood of Christ, marking her household for deliverance just as the Passover blood marked Israelite doorposts in Egypt. What Moses inaugurated in Goshen, Rahab received on Jericho's wall: salvation through faith, signified by crimson.",
+        "The spies' oath to Rahab—\"our lives for yours\"—whispers of a greater exchange to come, when the Righteous One would give His life for the unrighteous. Matthew's Gospel deliberately names Rahab in Christ's genealogy, declaring that Gentile sinners grafted by faith stand among the ancestors of the Messiah Himself.",
+        "For the church dwelling between the advents, Rahab's story proclaims that no one lies beyond the reach of saving grace. She who was far off was brought near. The walls of Jericho would fall, but the house under the scarlet cord would stand. So too shall all who shelter beneath the blood of Christ endure the coming judgment and inherit the eternal city whose builder and maker is God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.185583+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

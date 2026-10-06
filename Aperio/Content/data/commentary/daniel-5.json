@@ -1,0 +1,55 @@
+{
+  "book": "Daniel",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 5: The Writing on the Wall",
+      "overview": [
+        "When God withdraws His favor, no amount of human confidence can save us. Daniel 5 presents one of Scripture's most sobering pictures of judgment—a king abandoned by God at the moment of his greatest pride, forced to read the verdict written by a divine hand.",
+        "Belshazzar throws a lavish feast, boasting and desecrating the sacred vessels from Jerusalem's temple. His blasphemy invites divine response. A hand appears and writes three Aramaic words on the palace wall: *Mene, Mene, Tekel, Upharsin*—\"numbered, numbered, weighed, divided.\" The king's astrologers cannot interpret it. But Daniel, still faithful though old and seemingly forgotten, enters and reads the stark message: God has numbered the king's days and ended them, weighed him and found him wanting, and divided his kingdom between the Medes and Persians.",
+        "The tragedy here is not merely political but spiritual. Belshazzar had opportunity to learn from his predecessor Nebuchadnezzar's humiliation and restoration, yet he hardened his heart instead. He knew what God had done, yet deliberately mocked Him. This is the peculiar danger of privilege without submission—we can witness God's power firsthand and still choose rebellion.",
+        "The passage speaks to our own era's tendency toward moral numbness. We live surrounded by evidence of God's sovereignty, yet we can drift toward the same presumption Belshazzar displayed. How easily we trust in our accomplishments, our plans, our security, forgetting that all is held in God's hands and can be withdrawn in a moment.",
+        "Yet Daniel's presence offers hope. Even in a pagan palace under a doomed king, a faithful remnant remains, ready to speak truth. This reminds us that our calling transcends circumstances. Whether circumstances vindicate us or judge others, we are called to remain faithful witnesses.",
+        "Where in your life are you tempted toward the pride Belshazzar displayed? What \"walls\" might God be writing on to call you back to humility and reverence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 5: Scholarly study",
+      "overview": [
+        "Daniel 5 presents one of the most dramatically constructed narratives in the Hebrew Bible, recounting the final night of Belshazzar's reign and the fall of the Neo-Babylonian Empire to the Medo-Persian forces in 539 BCE. The chapter functions as a theological counterpoint to Nebuchadnezzar's humbling in chapter 4, demonstrating that while the earlier king eventually acknowledged divine sovereignty, Belshazzar's persistent arrogance leads to immediate and irrevocable judgment. Historical questions arise regarding Belshazzar's designation as \"king,\" since cuneiform records identify Nabonidus as Babylon's final monarch; however, administrative texts confirm Belshazzar served as co-regent during his father's extended absence, exercising royal prerogatives—which explains why Daniel is offered the position of \"third\" ruler rather than second.",
+        "The narrative pivots on the mysterious inscription written by disembodied fingers upon the plastered wall during Belshazzar's sacrilegious feast, where vessels plundered from Jerusalem's temple serve pagan revelry. The Aramaic words *mĕnēʾ mĕnēʾ tĕqēl ûp̄arsîn* constitute a wordplay functioning on multiple semantic levels. These terms denote weights or monetary units—mina, shekel, and half-minas—yet Daniel's interpretation exploits verbal roots: *mĕnāh* (\"to number\"), *tĕqal* (\"to weigh\"), and *pĕras* (\"to divide\"), with the latter additionally punning on \"Persia\" (*pārās*). This polyvalent inscription exemplifies the apocalyptic literature's characteristic use of symbolic language requiring divinely-gifted interpretation.",
+        "The queen mother's testimony regarding Daniel's interpretive abilities during Nebuchadnezzar's reign provides narrative continuity with earlier chapters while underscoring the Babylonian court's spiritual amnesia. Daniel's refusal of royal gifts before interpreting—contrasting with his acceptance afterward—emphasizes prophetic independence from political patronage. The chapter's concluding notice of Belshazzar's death \"that very night\" and Darius the Mede's succession raises complex historiographical questions, as no figure named Darius the Mede appears in extrabiblical sources, prompting various identification proposals including Gubaru, Cyrus himself under a throne name, or a literary-theological composite. Theologically, the chapter reinforces the book's central thesis: earthly kingdoms rise and fall according to divine decree, and rulers who fail to humble themselves before the Most High face certain judgment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 5: Prophetic perspective",
+      "overview": [
+        "The dramatic events of Daniel chapter five unfold in the year 539 BC, on the very night that the Babylonian empire fell to the Medo-Persian forces under Cyrus the Great. This places the passage approximately seventy years after the initial exile of Judah and precisely at the moment when God's prophesied judgment against Babylon reaches its climactic fulfillment. Jeremiah had declared that the nations would serve Babylon for seventy years, and now that appointed time had reached its terminus. Within the grand narrative of redemptive history, this chapter marks the transition from the head of gold to the chest of silver in Nebuchadnezzar's dream—the passing of world dominion from Babylon to Persia, moving God's plan inexorably toward the eventual restoration of His people to Jerusalem.",
+        "Belshazzar's feast represents the apex of human arrogance against the Most High. By deliberately desecrating the sacred vessels taken from Solomon's temple—vessels consecrated for worship of the living God—the king committed an act of cosmic rebellion. These vessels were typologically significant, pointing forward to the holy things of God that would find their ultimate expression in Christ Himself, the true temple. To profane what belongs to God while praising idols of gold and silver is to repeat the primal sin of exchanging the glory of the incorruptible God for created things.",
+        "The mysterious hand writing upon the wall unveils a profound truth that echoes through all subsequent history: human kingdoms exist under divine evaluation. \"MENE, MENE, TEKEL, UPHARSIN\"—numbered, weighed, divided. Every empire, every ruler, every human institution stands perpetually before the scales of heaven. What Belshazzar experienced in one terrifying night, all nations will experience at the final judgment. The handwriting on the wall prefigures the opening of books described in Revelation, when all deeds will be measured against divine standards.",
+        "Daniel's role as interpreter demonstrates that God always preserves a prophetic witness within the corridors of worldly power. Though kingdoms rise and fall, the word of the Lord endures. The prophet's courage before a doomed king typologically anticipates Christ standing before Pilate—truth personified before corrupt authority, yet knowing that all power derives from above.",
+        "For the church awaiting Christ's return, Daniel five thunders an eternal warning: the God who weighs kingdoms still reigns. Babylon fell in a single night; earthly powers remain subject to divine timetables. The faithful must hold loosely to temporal securities while clinging firmly to the kingdom that cannot be shaken."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.219184+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

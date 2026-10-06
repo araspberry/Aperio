@@ -1,0 +1,54 @@
+{
+  "book": "Ezekiel",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 16: The Difficult Love of God",
+      "overview": [
+        "This chapter narrates a love story twisted into heartbreak—God's unflinching account of Israel's unfaithfulness told through the metaphor of a foundling child rescued and clothed, then later utterly defiled by infidelity. The spiritual heart here is devastating and essential: God does not minimize sin, yet His love persists even through exposure of our deepest shame.",
+        "Ezekiel's opening frames Israel as an abandoned newborn, left unwashed in blood on the day of birth. God passes by and raises this helpless child into a beautiful woman, adorning her with fine linen and jewelry. This poetic reversal of fortune illustrates the extravagant grace of God's choosing love—undeserved, generous, and entirely His initiative. But then comes the reckoning. The favored bride turns prostitute, not merely committing infidelity but paying *others* to reject her, compounding her humiliation with willful degradation.",
+        "What makes this passage spiritually vital is that God refuses to look away from Israel's betrayal or soften its description. He names it plainly: idolatry, injustice, bloodshed, the exploitation of the vulnerable. There is no enabling here, no pretense that sin doesn't matter. Yet even in judgment, God's love is not retracted—it is grieved. The passage concludes with a promise of restoration: God will remember His covenant and establish an everlasting relationship, not on Israel's merit but on His mercy alone.",
+        "This speaks directly to our condition. We are all like Judah—rescued by grace, clothed in Christ's righteousness, yet prone to squandering our inheritance on lesser lovers: ambition, comfort, approval, false saviors. The text refuses us the luxury of self-deception. Our unfaithfulness matters profoundly. Yet the same God who names our sin with clarity remains committed to our restoration.",
+        "What patterns of unfaithfulness has God been patient enough to reveal in your own life? How might His willingness to speak truth be itself an expression of His covenant love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 16: Scholarly study",
+      "overview": [
+        "Ezekiel 16 stands as one of the most extended and graphic allegorical narratives in prophetic literature, comprising sixty-three verses that trace Jerusalem's history from infancy through apostasy to eventual restoration. Composed during the Babylonian exile, likely between 593 and 571 BCE, this chapter addresses the exiled community's need to comprehend why Jerusalem fell. Ezekiel employs the marriage metaphor common in prophetic discourse, yet extends it with unprecedented detail and shocking imagery that has generated considerable interpretive discussion across centuries of reception.",
+        "The foundational metaphor presents Jerusalem as an abandoned infant of mixed Amorite and Hittite parentage, emphasizing the city's pre-Israelite Canaanite origins and theological illegitimacy apart from divine election. The Hebrew term *mĕkōrōtayik* (your origin) in verse 3 denotes ancestral lineage, underscoring that Israel possessed no inherent claim to covenant blessing. YHWH's discovery of the blood-covered newborn and command to live (*ḥăyî*, an emphatic imperative repeated for emphasis in verse 6) establishes the relationship as purely gracious initiative. The subsequent adorning with fine garments, jewelry, and royal status (verses 10–14) employs wedding and coronation imagery drawn from ancient Near Eastern royal conventions.",
+        "The chapter's central section (verses 15–34) details Jerusalem's unfaithfulness through the term *taznût* (prostitution/whoring), which appears with striking frequency throughout. Scholarly debate surrounds whether the sexual imagery refers primarily to political alliances with Egypt, Assyria, and Babylon, or to syncretistic worship practices, though the text likely encompasses both dimensions. The comparison with Sodom and Samaria (verses 44–58) employs a lesser-to-greater argument, declaring Jerusalem's sins exceeded those of proverbially wicked cities—a rhetorical strategy designed to demolish any residual self-righteousness among the exiles.",
+        "The concluding verses introduce the critical term *bĕrît ʿôlām* (everlasting covenant) in verse 60, pointing toward restoration grounded not in Israel's faithfulness but in divine commitment. This tension between devastating judgment and ultimate restoration reflects the broader prophetic pattern wherein covenant curses serve redemptive purposes. The chapter's canonical placement between chapters 15 and 17, both employing vine imagery, creates a triptych examining Jerusalem's failed vocation, with chapter 16 providing the theological and emotional center of this indictment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 16: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter sixteen stands as one of the most devastating and tender passages in all prophetic literature, delivered approximately 593 to 571 years before the incarnation of Christ, during the darkest hour of Judah's exile in Babylon. The prophet speaks while Jerusalem still stands but totters toward her final destruction in 586 BC. This extended allegory arrives after the northern kingdom has already fallen to Assyria and while the southern kingdom drinks the dregs of her own unfaithfulness. Within redemptive history, this passage belongs to the era of exile and judgment, that painful season when God's covenant discipline fell upon His people for their persistent idolatry, yet even here the seeds of restoration whisper through the ruins.",
+        "The allegory presents Jerusalem as an abandoned infant, cast out at birth with umbilical cord uncut, unwashed, and left to die in her blood—a picture of utter helplessness and defilement representing Israel's origins among the Canaanite peoples before any covenant existed. The Lord passed by and spoke life over this dying child: \"Live!\" This sovereign word of grace transformed a rejected foundling into a royal bride adorned with embroidered cloth, fine leather, linen, silk, gold, silver, and a crown of beauty. Here shimmers the typological pattern of divine election and unmerited favor that reaches its fullest expression in Christ's love for His church, the bride He found dead in trespasses and sins and raised to sit with Him in heavenly places.",
+        "Yet Jerusalem's grotesque betrayal forms the chapter's agonizing center. She took the very gifts of her Bridegroom—the gold, silver, oil, and fine flour—and fashioned them into instruments of spiritual adultery, offering them to false gods and even sacrificing her children, those who belonged to the Lord, in the fires of Molech. The prophetic indictment escalates as God declares Jerusalem worse than Sodom and Samaria, her sister cities in shame. This was fulfilled in the Babylonian destruction that reduced the temple to ashes and scattered the covenant people among the nations.",
+        "Yet the chapter does not end in judgment. The Lord remembers His covenant and promises to establish an everlasting covenant, a promise that reaches across centuries to find its fulfillment in the new covenant sealed in Christ's blood. The church now lives as the restored bride, clothed not in her own righteousness but in garments washed white, awaiting the marriage supper of the Lamb when shame shall be swallowed in eternal glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.12219+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

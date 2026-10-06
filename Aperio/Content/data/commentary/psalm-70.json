@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 70,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 70 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalms 70: When You Need God Right Now",
+      "overview": [
+        "Psalm 70 is a desperate cry for urgent help, a prayer that teaches us God welcomes our most honest pleas when we are cornered and afraid. In just five verses, the psalmist models how to bring our raw need to the God who alone can rescue us.",
+        "The poem opens with a striking directness: \"Make haste, O God, to deliver me.\" There is no polite distance here, no pretense of composure. The psalmist is being pursued by enemies who mock and despise him, and he cannot wait. He needs God *now*—not in some distant, theoretical future, but in this urgent, pressing moment. What makes this prayer so powerful is its honesty. The psalmist doesn't manufacture confidence he doesn't feel. Instead, he names his desperation and brings it straight to God's attention, trusting that urgency itself is a valid prayer.",
+        "Notice that this prayer is not primarily about defending his honor or punishing his enemies, though he does ask that. Rather, the psalmist's deepest concern is that God be glorified and that he himself experience God's salvation. \"Let those who love your salvation say continually, 'God is great!'\" This reframing is crucial. Even in the midst of personal crisis, the psalmist longs for God's name to be lifted up and for others to join in celebration of His greatness.",
+        "The repeated closing—\"O Lord, do not delay\"—returns us to that note of urgent dependence. The psalm teaches that waiting itself is a form of prayer, an act of faith that acknowledges our weakness and God's power. When we bring our desperate needs to God without pretense, we actually honor His sufficiency by admitting we have nowhere else to turn.",
+        "What area of your life feels urgent and beyond your control? How might bringing that raw need to God, just as the psalmist did, deepen your trust that He cares about your deliverance?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 70: Scholarly study",
+      "overview": [
+        "Psalm 70 presents itself as a urgent petition for divine deliverance, attributed to David through its superscription and designated \"for the memorial offering\" (lehazkir), a liturgical notation that likely connects this composition to specific cultic practices involving the burnt offering. The psalm's relationship to Psalm 40:13–17 is immediately apparent, as it reproduces that passage with minor variations, suggesting either common source material, deliberate editorial extraction, or liturgical adaptation of earlier material for independent use. This phenomenon of doublet psalms within the Psalter raises important questions about the collection's compositional history and the fluidity of liturgical texts in ancient Israel.",
+        "The opening cry \"Make haste\" (ḥushah) establishes the tone of desperate urgency that pervades the entire composition. The Hebrew verb conveys not merely speed but the critical nature of timing—the petitioner requires immediate divine intervention. This urgency is reinforced by the repetition of similar imperatives throughout, creating a concentrated intensity unusual even among lament psalms. The divine name Elohim predominates here, consistent with the Elohistic Psalter (Psalms 42–83), where editorial preference replaced the tetragrammaton with Elohim, though YHWH appears in verse 5.",
+        "The psalmist employs standard imprecatory language against enemies, requesting that those who seek his life (nephesh) experience shame and confusion. The Hebrew phrase \"let them be turned back\" (yissogû) envisions a military retreat in disgrace. The taunting cry \"Aha, aha!\" (heʾaḥ heʾaḥ) represents onomatopoeic mockery that the psalmist's adversaries direct toward him in his distress.",
+        "The concluding verses shift to communal and personal affirmation, expressing confidence that all seekers of God will rejoice while simultaneously acknowledging the petitioner's poverty and need. The self-designation as \"poor and needy\" (ʿani weʾevyon) represents conventional piety language identifying the speaker among the faithful remnant who depend entirely upon divine provision. The tension between communal praise and individual desperation creates theological depth, suggesting that personal suffering exists within the broader context of God's salvific relationship with the covenant community. The psalm's brevity belies its theological sophistication in addressing theodicy through persistent, faith-filled petition."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 70: Prophetic perspective",
+      "overview": [
+        "This urgent cry for deliverance flows from the pen of David, likely composed during the tumultuous years of his reign around 1000 BC, a millennium before the Incarnation. The psalm itself appears as a near-duplicate of Psalm 40:13-17, suggesting David returned to this prayer in multiple seasons of distress, preserving it as a standalone petition for the worshiping community. Within redemptive history, this lament emerges from the Kingdom period, when God's anointed king sat upon the throne in Jerusalem, yet still faced enemies who sought his destruction—a tension that would mark the entire Davidic dynasty until the true and final King would come.",
+        "The superscription's phrase \"to bring to remembrance\" reveals the liturgical heart of this psalm. David calls upon Yahweh to remember His covenant, His promises, His steadfast love toward His anointed. This act of divine remembrance echoes backward to God remembering Noah in the flood, remembering Abraham's descendants in Egyptian bondage, and remembering Hannah in her barrenness. When God remembers, He acts with saving power.",
+        "David's cry \"make haste to help me\" carries typological weight that extends far beyond his personal circumstances. Here stands the righteous sufferer, surrounded by those who seek his life and delight in his harm. The enemies who say \"Aha, aha!\" mock not merely a man but the very notion that God defends His chosen one. This pattern finds its ultimate expression in Christ at Calvary, where mockers surrounded the cross crying, \"He trusted in God; let Him deliver Him now.\" Jesus, the greater David, entered fully into this experience of being poor and needy, forsaken and mocked, yet He did not open His mouth in self-defense.",
+        "The psalm's eschatological dimension emerges in its vision of two destinies: shame and confusion for those who oppose God's servant, joy and magnification of Yahweh for those who seek Him. This separation anticipates the final judgment when all who opposed Christ's kingdom will be turned back in dishonor, while those who loved His appearing will rejoice eternally.",
+        "For the church living between the advents, this psalm teaches the legitimacy of urgent, even desperate prayer. Believers remain poor and needy, dependent upon divine rescue in a world still hostile to their King. Yet they pray with resurrection confidence, knowing that God did not delay forever—He made haste in raising Christ from the dead. The final deliverance draws near."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_070",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.314187+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

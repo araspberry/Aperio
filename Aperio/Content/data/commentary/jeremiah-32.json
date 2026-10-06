@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 32,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 32 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 32: Hope When Circumstances Scream Otherwise",
+      "overview": [
+        "The spiritual heart of Jeremiah 32 rests on a counterintuitive act of faith—buying property in a city under siege—that becomes a living parable about the unshakeable sovereignty of God's restoration.",
+        "Jeremiah sits imprisoned in Jerusalem while Nebuchadnezzar's army surrounds the walls. The city is starving. Death and defeat seem certain. Yet God commands the prophet to purchase his cousin's field at full market price. To any observer, this transaction appears utterly absurd. Why invest in land destined for enemy conquest? Why cling to property when survival itself hangs by a thread?",
+        "This is where Jeremiah's faith becomes revolutionary. By signing the deed, obtaining witnesses, and preserving the legal documents, he declares through action what his lips had proclaimed through words: *God will restore this people to this land.* The purchase isn't a financial strategy; it's a prophetic sign. It says that beyond the smoke and rubble, beyond the immediate catastrophe, there exists a future worth investing in.",
+        "This passage meets us in our own devastations—the job loss, the fractured relationship, the diagnosis, the wilderness season where circumstances shriek that hope is naive. Jeremiah teaches us that faith isn't the absence of fear but the decision to act as though God's promises are truer than our circumstances. It's continuing to plant gardens during the plague, to save for college amid uncertainty, to pursue reconciliation when bitterness feels safer.",
+        "Notice too that Jeremiah doesn't pretend he's not troubled. He pours out his confusion to God even as he obeys. Real faith often coexists with honest doubt. The invitation isn't to blind optimism but to a resolute trust that allies our actions with God's character, not merely with what we can see.",
+        "What area of your life is asking you to invest hope in God's promises despite circumstances that contradict them? Where might God be calling you to make an act of faith that declares His restoration is real?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 32: Scholarly study",
+      "overview": [
+        "Jeremiah 32 stands as one of the most theologically significant chapters in the prophetic corpus, narrating the prophet's purchase of a field in Anathoth during the Babylonian siege of Jerusalem in 588/587 BCE. This symbolic act, performed while Jeremiah himself was confined in the court of the guard for prophesying Jerusalem's fall, creates a striking juxtaposition between imminent judgment and future restoration. The chapter divides into three major sections: the divine command and land purchase (vv. 1–15), Jeremiah's prayer of perplexity (vv. 16–25), and Yahweh's extended response (vv. 26–44).",
+        "The Hebrew term *ge'ullah* (redemption/right of purchase) governs the legal transaction in verses 6–12, invoking the Levitical provisions of ancestral land redemption found in Leviticus 25. Jeremiah's cousin Hanamel approaches him to exercise this kinship obligation, and the prophet's compliance—purchasing the field for seventeen shekels of silver with meticulous attention to documentary procedure—becomes a prophetic sign-act (*'ôt*) declaring that \"houses and fields and vineyards shall again be bought in this land\" (v. 15). The careful preservation of sealed and open deeds in an earthenware vessel suggests long-term expectation, pointing beyond the prophet's lifetime.",
+        "Jeremiah's subsequent prayer rehearses Yahweh's mighty acts in creation and exodus while confessing bewilderment at the divine command to purchase property in a land about to be devastated. The divine response employs the rhetorical question central to Jeremianic theology: \"Is anything too wonderful (*pālā'*) for me?\" (v. 27), echoing the Genesis 18:14 promise to Sarah. Yahweh then delivers an extended oracle acknowledging the justice of impending judgment while promising future restoration characterized by an \"everlasting covenant\" (*berît 'ôlām*) and the gift of \"one heart and one way\" (v. 39).",
+        "Interpreters debate whether the chapter's lengthy divine speech represents later Deuteronomistic expansion or authentic Jeremianic material, though recent scholarship increasingly recognizes theological coherence across supposedly disparate sources. The passage's placement within the \"Book of Consolation\" (chapters 30–33) contextualizes individual prophetic action within cosmic restoration, demonstrating how embodied prophetic witness proclaimed hope amid catastrophe."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 32: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter thirty-two unfolds around 587 BC, during the final siege of Jerusalem by Nebuchadnezzar's Babylonian forces, approximately six centuries before Christ's incarnation. The prophet Jeremiah, imprisoned in the court of the guard by King Zedekiah for prophesying Jerusalem's fall, receives one of the most remarkable commands in all of Scripture—to purchase a field at the very moment when land ownership in Judah appeared utterly worthless. This passage stands at the darkest hour of the Davidic kingdom, within the exile phase of redemptive history, yet it simultaneously reaches forward to the ultimate restoration that would come through the true Son of David.",
+        "The transaction itself carries profound typological weight. Jeremiah, the suffering prophet rejected by his own people, prefigures Christ who would purchase His inheritance at the moment of apparent defeat. Just as Jeremiah bought the field in Anathoth when Babylonian armies surrounded the city, so the Son of God purchased His bride and His creation at Calvary when all seemed lost. The sealed deed and the open copy placed in an earthen vessel point toward the hidden and revealed dimensions of God's covenant purposes—mysteries concealed yet accessible, preserved through ages of apparent abandonment.",
+        "The divine promise thundering through this chapter—\"Houses and fields and vineyards shall again be bought in this land\"—received partial fulfillment when the remnant returned under Zerubbabel and Ezra seventy years later. Yet the extravagant language of verses thirty-seven through forty-four stretches beyond any historical restoration Judah experienced. The everlasting covenant, the one heart and one way, the promise that God will never turn away from doing good to His people—these find their substance only in the new covenant inaugurated by Christ's blood. The geography of Benjamin, the places around Jerusalem, and the cities of Judah mentioned in verse forty-four become templates for the worldwide inheritance Christ secures.",
+        "Jeremiah's prayer in this chapter models faith wrestling with providence. He confesses God's omnipotence in creation and exodus, then honestly questions the command to buy land in a doomed nation. God's response reveals that nothing is too difficult for Him—the very confession Jeremiah made becomes God's own declaration.",
+        "For the church awaiting Christ's return, this chapter proclaims that our Kinsman-Redeemer has already signed the deed. The field appears occupied by hostile powers, but the purchase is eternally secure, awaiting the day of full possession."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_032",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.989991+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

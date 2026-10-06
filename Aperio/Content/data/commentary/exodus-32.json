@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "chapter": 32,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 32 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 32: The Cost of Turning Away",
+      "overview": [
+        "When God's people exchange His presence for the work of their own hands, they discover that spiritual compromise always carries consequences that ripple far beyond what they imagined.",
+        "Aaron stands at a crossroads. The people are restless, afraid that Moses has abandoned them on the mountain, and they demand a tangible god they can see and control. Rather than hold firm to what they know to be true, Aaron capitulates. He collects their gold, fashions it into a calf, and announces a feast to the Lord. What begins as a compromise becomes full-blown idolatry. The people, now freed from Moses' authority and God's presence, abandon themselves to revelry and sin. The very people who witnessed God's power at the Red Sea now serve a statue carved from their own wealth.",
+        "Moses returns to discover not a community growing in faith but one imploding in faithlessness. His anger is justified, but what breaks his heart is the rupture between God and His covenant people. The golden calf represents more than bad theology; it symbolizes humanity's deep temptation to create manageable gods who fit our comfort and desires rather than submit to the God who calls us to transformation.",
+        "The aftermath is sobering. Thousands die. The people face judgment. Yet even in discipline, God's covenant holds. Moses intercedes, standing in the gap as mediator, and God's mercy eventually prevails. The broken tablets represent broken trust, but God Himself renews the covenant because His faithfulness doesn't depend on ours.",
+        "This passage confronts us with uncomfortable truth: compromise often feels safer than faith, especially when we're afraid or uncertain. We fashion our own \"calves\"—comfort, control, approval—whenever we doubt that God's way is truly best. Yet these hollow substitutes never satisfy. They only distance us from the God whose presence alone sustains us.",
+        "Where have you been tempted lately to settle for a manageable substitute rather than trust the living God? What might it look like to turn back?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 32: Scholarly study",
+      "overview": [
+        "Exodus 32 stands as one of the most theologically dense and narratively dramatic chapters in the Pentateuch, recounting Israel's apostasy at Sinai through the golden calf incident while Moses remained on the mountain receiving the tablets of the covenant. The chapter's placement is structurally significant, interrupting the detailed instructions for tabernacle worship (Exodus 25–31) with a stark portrayal of covenant violation, thereby heightening the tension between divine intention and human failure. The narrative unfolds during the wilderness period, likely in the late second millennium BCE, though scholarly dating varies considerably between traditional and critical frameworks.",
+        "The Hebrew term for the molten image, *ʿēgel massēkâ* (עֵגֶל מַסֵּכָה), literally \"cast calf,\" has generated substantial debate regarding whether Aaron fashioned an idol intended to represent Yahweh or a competing deity. Ancient Near Eastern iconography frequently depicted deities standing upon bulls or calves, suggesting the image may have functioned as a pedestal for the invisible God rather than a replacement deity. Nevertheless, the text condemns the act unambiguously, with the people's proclamation \"these are your gods (*ʾĕlōhîm*) who brought you up from Egypt\" representing a fundamental covenant breach regardless of their theological intent.",
+        "Moses' intercession in verses 11–14 presents remarkable theological complexity, as he appeals not to Israel's merit but to Yahweh's reputation among the nations and his promises to the patriarchs. The phrase describing divine relenting, *wayyinnāḥem YHWH* (וַיִּנָּחֶם יהוה), has troubled interpreters who wrestle with anthropopathic language applied to an immutable God. Some scholars argue this reflects genuine divine responsiveness to intercessory prayer, while others maintain the language accommodates human understanding of eternal divine decrees.",
+        "The chapter's conclusion, featuring the Levites' violent purge and Moses' renewed intercession offering himself as a substitute, anticipates later atonement theology while raising difficult questions about collective punishment. The breaking of the tablets symbolizes covenant rupture, yet the narrative's continuation into chapters 33–34 demonstrates that divine judgment, however severe, does not constitute final abandonment—a pattern reverberating throughout Israel's subsequent canonical history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 32: Prophetic perspective",
+      "overview": [
+        "The events of Exodus 32 unfold approximately 1446 years before Christ's birth, mere weeks after Israel's deliverance from Egypt and during the forty days Moses spent receiving the law on Sinai. This chapter stands at the threshold between Exodus and Kingdom in God's redemptive narrative, occurring at the very moment when Yahweh was establishing His covenant people and giving them the blueprints for His dwelling among them. The golden calf incident represents one of Scripture's most grievous ruptures—a fall within the Fall—where the redeemed people plunge back into the idolatry of Egypt even as their deliverer communes with God on their behalf.",
+        "The typological patterns here burn with prophetic significance. Aaron's failure as high priest, fashioning an idol and declaring a feast \"to the LORD\" while Moses is absent, reveals the inadequacy of the Levitical priesthood and creates a longing for a faithful High Priest who would never compromise. Moses descending the mountain to find covenant betrayal foreshadows Christ's own descent into a world that had rejected the Father. The shattering of the tablets at the mountain's base prophetically pictures what sin does to God's law—humanity cannot keep it, and it stands broken at our feet in condemnation.",
+        "Yet Moses' intercession blazes as the chapter's redemptive center. Standing in the breach, he pleads God's own covenant promises back to Him, invoking Abraham, Isaac, and Israel. Here is the mediator-type in full relief—one who refuses personal exaltation when God offers to make him a great nation, choosing instead solidarity with sinful people. Moses even offers his own life, asking to be blotted from God's book if Israel cannot be forgiven. This self-sacrificial intercession points unmistakably toward Calvary, where a greater Prophet than Moses would not merely offer but actually give His life, and whose blood would speak better things than Abel's or the slain three thousand at Sinai.",
+        "The Levites' consecration through judgment against their own brothers establishes a priesthood born in zeal for God's holiness—yet this too awaits transformation when Christ creates a kingdom of priests not through the sword but through His own blood.",
+        "For the church living between advents, Exodus 32 warns that proximity to redemption guarantees nothing without persevering faith. The people who saw the Red Sea part crafted an idol within weeks. Yet it also proclaims hope: we have a Mediator whose intercession never fails, who ever lives to plead for His people until He comes again."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_032",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.844276+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

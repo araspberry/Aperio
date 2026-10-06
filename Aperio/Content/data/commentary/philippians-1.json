@@ -1,0 +1,323 @@
+{
+  "book": "Philippians",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "title": "Partners When the Future Is Uncertain",
+  "sources": [
+    {
+      "id": "phil1",
+      "label": "Philippians 1 · BSB text and translation notes",
+      "url": "https://biblehub.com/bsb/philippians/1.htm"
+    },
+    {
+      "id": "phil2",
+      "label": "Philippians 2 · The mind of Christ and the care of coworkers",
+      "url": "https://biblehub.com/bsb/philippians/2.htm"
+    },
+    {
+      "id": "phil3",
+      "label": "Philippians 3 · Knowing Christ and awaiting resurrection",
+      "url": "https://biblehub.com/bsb/philippians/3.htm"
+    },
+    {
+      "id": "phil4",
+      "label": "Philippians 4 · Shared need, generosity, and grace",
+      "url": "https://biblehub.com/bsb/philippians/4.htm"
+    },
+    {
+      "id": "acts16",
+      "label": "Acts 16:11–40 · Paul and the community at Philippi",
+      "url": "https://biblehub.com/bsb/acts/16.htm"
+    },
+    {
+      "id": "nabintro",
+      "label": "Philippians introduction · NABRE discussion of setting and uncertain prison location",
+      "url": "https://bible.usccb.org/bible/philippians/0"
+    },
+    {
+      "id": "rom8",
+      "label": "Romans 8:31–39 · God’s love amid suffering and death",
+      "url": "https://biblehub.com/bsb/romans/8.htm"
+    },
+    {
+      "id": "greek127",
+      "label": "Philippians 1:27 · Greek command addressed to the community",
+      "url": "https://biblehub.com/text/philippians/1-27.htm"
+    },
+    {
+      "id": "citizen",
+      "label": "Politeuomai · Thayer’s entry on conduct and citizenship",
+      "url": "https://biblehub.com/greek/4176.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "A Joy That Makes Room for One Another",
+      "overview": [
+        "Paul writes with his freedom restricted and his future unsettled. Yet the first people he brings into view are his friends in Philippi. Their partnership gives him reason to thank God, and their growth gives him reason to remain engaged with life. The chapter’s joy has room for affection, uncertainty, and costly service. It grows around a shared allegiance to Christ and the knowledge that no one has to carry the work alone."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 2,
+          "title": "Grace before the work begins",
+          "paragraphs": [
+            "Paul and Timothy introduce themselves as servants of Christ Jesus. They address the whole community, including its overseers and deacons, and begin by wishing them grace and peace. Before any instruction about courage or conduct, the letter names what these people receive from God.",
+            "That opening changes the atmosphere of the demands that follow. Christian service begins with belonging to Christ, not with proving indispensable. Leaders and other members receive the same greeting. When responsibilities become heavy, it is worth remembering that the person doing the work also needs the grace and peace being offered to everyone else."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "title": "Love that learns to see clearly",
+          "paragraphs": [
+            "Paul’s thanks are specific: the Philippians have shared in the gospel from the beginning, including during his imprisonment. He remembers their commitment with affection and trusts God to bring His work in them to completion. His confidence looks toward the day of Christ, farther than the next turn in his own circumstances.",
+            "He still prays for their love to grow in knowledge and discernment. A loving intention does not settle every difficult choice. People need wisdom to recognize what truly helps, what deserves their attention, and what faithfulness requires. We can pray for someone with confidence in God while also asking for that person’s next step in maturity."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "title": "Rejoicing without pretending motives are pure",
+          "paragraphs": [
+            "Paul reports that his imprisonment has helped others hear about Christ and has encouraged fellow believers to speak more boldly. Some preachers, however, hope to make his confinement harder through rivalry. He names their motives plainly. Joy has not made him unable to notice harm.",
+            "What he refuses to do is make his own reputation the measure of whether good has occurred. Christ is being proclaimed, and he can rejoice in that even when the messengers disappoint him. The passage invites freedom from comparison. It does not ask us to excuse abusive behavior or to declare every message true simply because a preacher mentions Jesus."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "title": "A life still given to other people",
+          "paragraphs": [
+            "Paul faces the possibility of death and hopes that Christ will be honored whatever happens. Being with Christ is his deepest hope, but remaining alive means fruitful work and further service to the Philippians. Their progress and joy matter to him. His thoughts return from his own fate to the people who still need his presence.",
+            "These are the words of a prisoner facing a possible fatal outcome, not instructions to seek death. His confidence in Christ strengthens his willingness to keep serving. For a reader living with uncertainty, the passage offers a question about today: who might be helped by the attention, encouragement, or practical care you can still give?"
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "title": "Courage practiced together",
+          "paragraphs": [
+            "Whether Paul visits again or remains absent, the Philippians must live in a way that fits the gospel. He describes people standing firm and striving together. The strength he seeks is shared: a community whose members refuse to let opposition pull them apart.",
+            "Paul places their suffering for Christ alongside his own. He does not tell them to manufacture hardship or remain silent about wrongdoing. He tells them that costly faithfulness does not mean they have been abandoned. Their next act of courage may be to stand beside another believer whose fear would be harder to bear alone."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        }
+      ],
+      "reflection": "Who has helped you remain faithful, and how could you return that partnership with prayer, encouragement, or practical help?"
+    },
+    "scholarly": {
+      "title": "A Prison Letter Turns Toward the Community",
+      "overview": [
+        "The chapter moves from greeting and prayer to Paul’s circumstances, then turns directly to the Philippians’ conduct. This is more than an update from prison: Paul’s response to confinement prepares his appeal for their unity. Acts 16 places Philippi in Macedonia and identifies it as a Roman colony. The location of Paul’s imprisonment while writing this letter is uncertain; Rome, Caesarea, and Ephesus have been proposed. The argument does not require one proposal to be treated as settled."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 2,
+          "title": "The whole church receives the greeting",
+          "paragraphs": [
+            "Timothy is named with Paul in the opening, while the first-person account that follows centers on Paul. The recipients are all the saints in Christ Jesus at Philippi, with overseers and deacons specifically included. “Saints” here designates the believing community, rather than a special class of exceptionally accomplished Christians.",
+            "The greeting attests to recognized roles within that community, but it does not describe their duties in detail. It would be premature to read a complete later church structure into these two titles. Paul’s opening emphasis falls on shared service to Christ and on grace and peace from God the Father and the Lord Jesus Christ."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "title": "Partnership gives the prayer its shape",
+          "paragraphs": [
+            "The thanksgiving gathers partnership, affection, and confidence in God’s work. Chapter 4 will give the partnership a material expression through the Philippians’ gifts. Here verse 7 also connects it with Paul’s chains and his defense of the gospel. Participation is wider than friendship at a distance.",
+            "The “good work” in verse 6 belongs within that communal setting. Paul’s confidence includes the believers’ life in Christ and their participation in the gospel; the sentence is not a promise that every project a Christian begins will succeed. Verses 9–11 explain the growth he desires: discerning love that produces righteous fruit through Jesus Christ and directs praise toward God."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil4"
+          ]
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "title": "Advance measured by the gospel",
+          "paragraphs": [
+            "Paul offers two reasons his circumstances have advanced the gospel: his connection with Christ is known among those guarding him and beyond, and other believers have become bolder. The BSB renders the term in verse 13 “palace guard,” with “Praetorium” as an alternative. The expression does not by itself settle the city from which he writes.",
+            "Verses 15–18 distinguish the preachers by motive. One group acts from love, the other from rivalry and selfish ambition. Paul can welcome their proclamation of Christ while rejecting the motives he describes. This is a judgment about this situation, not an assertion that the content of Christian teaching never matters; chapter 3 will make the latter reading especially difficult."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil3",
+            "nabintro"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "title": "Deliverance and an unresolved outcome",
+          "paragraphs": [
+            "Paul links his anticipated deliverance with the Philippians’ prayers and the help of the Spirit of Jesus Christ. Verse 20 then speaks of honoring Christ whether he lives or dies. That qualification prevents us from reducing his confidence to certainty of immediate release, even though verses 25–26 express his expectation of further ministry among them.",
+            "The alternatives in verses 21–24 are described relationally: life means fruitful labor for others, and departure means being with Christ. Paul does not supply a timetable or a complete account of the state between death and resurrection. Philippians 3:20–21 will make bodily transformation explicit. Reading these passages together preserves the breadth of his hope without forcing every question into this paragraph."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil3"
+          ]
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "title": "A public life worthy of the gospel",
+          "paragraphs": [
+            "The command πολιτεύεσθε, politeuesthe, means “conduct yourselves,” with a background in living as a citizen. It is a plural command addressed to the community. Philippi’s status as a Roman colony and the explicit citizenship language in 3:20 make that resonance worth noticing, while the following phrases explain its immediate content: unity, shared effort, and steadiness under opposition.",
+            "The opponents are not identified precisely. Paul interprets the conflict in light of God’s salvation and judgment, then places the Philippians’ struggle alongside his own. The passage offers solidarity to believers suffering because of Christ. It does not label every unpleasant experience persecution or give readers permission to declare the final fate of particular adversaries."
+          ],
+          "sourceIds": [
+            "phil1",
+            "greek127",
+            "citizen",
+            "acts16",
+            "phil3"
+          ]
+        }
+      ],
+      "reflection": "How does the appeal to shared conduct in verses 27–30 gather up the themes of partnership, courage, and service developed earlier?"
+    },
+    "prophetic": {
+      "title": "Living Now in the Light of Christ’s Day",
+      "overview": [
+        "Philippians 1 contains an explicit future horizon: the day of Christ. Paul places the community’s growth and his own uncertain future within that hope. The chapter is a pastoral letter, so its prison details should not be turned into a hidden forecast of later events. Its prophetic force lies in the coming accountability and completion it names, and in the kind of shared life that hope makes possible now."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 2,
+          "title": "A community gathered around Jesus",
+          "paragraphs": [
+            "The greeting locates the Philippians “in Christ Jesus” while also locating them in a particular city. Acts 16 describes the gospel taking root there through people and households, including Lydia’s welcome. The letter addresses that local community as belonging to Christ, with its leaders included among those who depend on grace.",
+            "This is a canonical connection between the letter and Acts, not a claim that the greeting fulfills a particular prediction. It directs Christian readers toward a concrete expression of hope: people in an actual place learning to receive and extend God’s peace. Their public identity grows from whom they belong to."
+          ],
+          "sourceIds": [
+            "phil1",
+            "acts16"
+          ]
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "title": "The day that gives growth a direction",
+          "paragraphs": [
+            "The day of Christ appears in both Paul’s confidence and his prayer. God will complete the work He has begun, and Paul desires that the community be ready for that day with discerning love and righteous fruit. Future hope therefore gives present growth a purpose.",
+            "The promise does not release the Philippians from attention to one another. It supports the patience required for that attention. Christian communities can expect God’s faithfulness while continuing to learn, repent, and practice love. The chapter offers confidence about God’s work in His people, rather than a schedule for Christ’s appearing or a guarantee about every near-term outcome."
+          ],
+          "sourceIds": [
+            "phil1"
+          ]
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "title": "A witness that confinement cannot explain away",
+          "paragraphs": [
+            "Paul’s circumstances place a Christian witness inside structures that restrict his freedom. The surprising advance of the gospel is his report of what has happened. It is not a formula requiring every injustice to produce a visible benefit before the injured person may grieve or seek help.",
+            "Within the larger letter, the report anticipates the humble pattern of Christ in chapter 2. This is a theological connection drawn from Paul’s own unfolding argument, not a prediction hidden in his chains. The church can learn to recognize faithful witness where prestige and freedom are absent, without blessing the injustice that made such witness costly."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil2"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "title": "Hope stronger than the threat of death",
+          "paragraphs": [
+            "Paul’s desire to be with Christ belongs alongside the promise in Philippians 3:20–21 that Christ will transform believers’ bodies. Romans 8:35–39 offers a related assurance: suffering and death cannot sever God’s people from His love in Christ. These texts join present vulnerability to a future held by the risen Lord.",
+            "The result in this chapter is renewed concern for the Philippians’ life. Paul looks toward remaining for their progress. Christian hope honors the life that can still be given in service, even while refusing to make death the final word. It cannot rightly be used to hurry someone toward death or to treat a suffering person’s continued presence as unimportant."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil3",
+            "rom8"
+          ]
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "title": "Steadfastness before final judgment",
+          "paragraphs": [
+            "Paul interprets the community’s courage in light of salvation and judgment. Their opponents do not hold the last word over their future. This conviction supports a public life that remains worthy of the gospel even when that life is costly.",
+            "The chapter gives that life a shared form: standing and striving together. Read toward the humility of chapter 2, the future vindication Paul expects cannot become an excuse for arrogance now. The present response is solidarity with those under pressure, conduct consistent with Christ, and trust that ultimate judgment belongs to God."
+          ],
+          "sourceIds": [
+            "phil1",
+            "phil2"
+          ]
+        }
+      ],
+      "reflection": "What would change in your community’s priorities if Christ’s coming day, rather than immediate reputation or security, shaped its understanding of faithfulness?"
+    }
+  },
+  "crossReferences": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "start": 11,
+      "end": 40,
+      "label": "Acts 16:11–40",
+      "relationship": "Narrative background",
+      "note": "Acts describes Paul’s work at Philippi and identifies the city as a Roman colony; it does not identify the prison location of this letter."
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "start": 1,
+      "end": 11,
+      "label": "Philippians 2:1–11",
+      "relationship": "The letter’s developing argument",
+      "note": "The appeal to unity in chapter 1 leads into the humble, self-giving pattern of Christ."
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "start": 20,
+      "end": 21,
+      "label": "Philippians 3:20–21",
+      "relationship": "The letter’s explicit future hope",
+      "note": "The promise of bodily transformation complements Paul’s confidence about being with Christ."
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "start": 14,
+      "end": 18,
+      "label": "Philippians 4:14–18",
+      "relationship": "Partnership made concrete",
+      "note": "The later account of gifts gives practical substance to the partnership celebrated in 1:5."
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "start": 35,
+      "end": 39,
+      "label": "Romans 8:35–39",
+      "relationship": "Related assurance in suffering",
+      "note": "Paul also confesses that suffering and death cannot separate believers from God’s love in Christ."
+    }
+  ],
+  "revision": "Bounded Philippians passage-study draft; AI-assisted targeted source checks; independent review and human theological review pending"
+}

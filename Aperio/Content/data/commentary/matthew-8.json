@@ -1,0 +1,58 @@
+{
+  "book": "Matthew",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 8: Authority Over All Things",
+      "overview": [
+        "Matthew 8 reveals a stunning truth: Jesus possesses complete authority over disease, nature, demons, and death itself. This chapter doesn't merely report miraculous events; it demonstrates that the kingdom of heaven has arrived in power through the person of Jesus Christ.",
+        "The chapter unfolds as a series of encounters—a leper, a centurion's servant, Peter's mother-in-law, demon-possessed men, and a storm—each revealing Jesus's authority in different spheres of human suffering. What strikes the reader is Jesus's consistent responsiveness. He doesn't withhold compassion or wait for perfect faith; He moves toward the broken. The leper approaches hesitantly, unsure if Jesus will touch him, and Jesus immediately extends His hand. The centurion exhibits remarkable faith by asking Jesus to simply speak healing from a distance, and Jesus marvels at this trust. In each interaction, Jesus meets people where they are while calling them toward greater faith.",
+        "The storm scene particularly captures the disciples' struggle—and ours. Despite witnessing miracle after miracle, the disciples panic when their boat is nearly swamped. Jesus's rebuke, \"Why are you afraid, O you of little faith?\" isn't harsh condemnation but an invitation to trust the One already present with them. We find ourselves in that boat too, don't we? We've experienced God's faithfulness, yet we forget when new storms arise.",
+        "This chapter also contains the sobering accounts of demon-possessed men and Jesus's permission for demons to enter a herd of pigs. These passages remind us that spiritual forces are real and that Jesus's authority extends into realms we often ignore. His power isn't ceremonial; it's absolute and purposeful.",
+        "Living in light of Matthew 8 means learning to take our fears, illnesses, and desperate situations directly to Jesus. It means cultivating trust that isn't dependent on calm circumstances but rooted in His character.",
+        "What storm or struggle in your life is calling you to remember Jesus's authority and presence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 8: Scholarly study",
+      "overview": [
+        "Matthew 8 marks a significant structural transition in the First Gospel, moving from the extended discourse of the Sermon on the Mount (chapters 5–7) to a carefully arranged collection of miracle narratives that demonstrate Jesus's authority in deed as the preceding chapters demonstrated it in word. The evangelist, writing primarily for a Jewish-Christian audience likely in Syrian Antioch during the 70s–80s CE, constructs this chapter as part of a larger unit (chapters 8–9) containing ten miracles, a number resonant with the ten plagues of Exodus and suggesting a new Moses typology.",
+        "The chapter opens with the healing of a leper, an act of profound social and religious significance given that leprosy (Greek: *lepra*) rendered one ritually unclean under Levitical law. Jesus's willingness to touch the leper before pronouncing healing inverts expected purity protocols, suggesting that holiness in Matthew's theological vision is contagious rather than contaminated by contact with impurity. The subsequent command to show oneself to the priest and offer the gift Moses commanded functions as a witness (*martyrion*) to the religious establishment.",
+        "The centurion narrative introduces the theme of Gentile faith that exceeds Jewish expectation, anticipating the Great Commission's universal scope. The term *exousia* (authority) appears prominently, with the centurion recognizing in Jesus a chain of command that mirrors military hierarchy yet transcends it cosmically. Jesus's response about many coming from east and west to recline at table with Abraham constitutes a jarring reversal of Jewish eschatological expectations.",
+        "The stilling of the storm employs the verb *epitimaō* (rebuke), the same term used for exorcism, suggesting the sea represents chaotic forces requiring divine subjugation—imagery deeply rooted in Ancient Near Eastern mythology and Hebrew scriptures such as Psalm 89. The disciples' question \"What sort of man is this?\" (*potapos*) drives the christological inquiry underlying the entire chapter.",
+        "The Gadarene demoniacs episode concludes the chapter with Jesus's authority extending over the demonic realm, though interpretive challenges arise regarding the geographical designation and the variation between Matthew's two demoniacs versus Mark's singular figure. Matthew's doubling pattern appears elsewhere and may reflect his concern for the Deuteronomic requirement of two witnesses."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 8: Prophetic perspective",
+      "overview": [
+        "Matthew chapter eight unfolds approximately AD 28–29, during the early Galilean ministry of Jesus Christ, roughly three years before His crucifixion and resurrection. This places the narrative some fifteen centuries after the Exodus, a millennium after David's throne, five centuries after the return from Babylonian exile, and in the fullness of time when God sent forth His Son, born under the law, to redeem those under the law. Within the grand arc of redemptive history, this chapter belongs to the season of Incarnation—the long-awaited King has arrived, and through mighty works He demonstrates that the kingdom of heaven has drawn near.",
+        "What Moses and the prophets declared from afar, Matthew now records in eyewitness detail. The leper who approaches Jesus embodies Israel's uncleanness under the old covenant; his healing by divine touch—\"I am willing; be cleansed\"—signals that the One greater than the Levitical system has come. Where the law quarantined the unclean, Christ absorbs impurity and radiates wholeness. The command to show oneself to the priest and offer the gift Moses commanded serves as testimony, yet the true offering for cleansing would soon be made on Calvary's altar.",
+        "The centurion's servant presents an even more startling prophetic disclosure. A Gentile soldier exercises faith that surpasses all Israel, prompting Jesus to announce that many will come from east and west to recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom are cast into outer darkness. Here the Abrahamic promise—\"in you all the families of the earth shall be blessed\"—leaps beyond ethnic boundaries, foreshadowing the ingathering of the nations that would explode at Pentecost and continue until the full number of Gentiles comes in.",
+        "The stilling of the storm declares what Job and the Psalms proclaimed: Yahweh alone commands wind and wave. The disciples' astonished question—\"What sort of man is this?\"—echoes down the ages. The One asleep in the boat is the eternal Word through whom all creation was spoken into being, now veiled in flesh yet sovereign over chaos.",
+        "The deliverance of the Gadarene demoniacs anticipates the ultimate binding of Satan and the liberation of all captives when Christ returns. The demons recognize Him before His hour, trembling at the judgment to come.",
+        "For the church living between advents, Matthew eight assures believers that the same Lord who cleansed lepers, healed servants, calmed seas, and cast out demons reigns now at the Father's right hand, interceding, commanding, and preparing the consummation when every knee shall bow."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.45104+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

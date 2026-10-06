@@ -1,0 +1,150 @@
+{
+  "book": "Jonah",
+  "bookIndex": 31,
+  "status": "Editorial draft",
+  "title": "The mercy a prophet resists",
+  "subtitle": "A story about flight, rescue, repentance, and the difficulty of wishing an enemy well.",
+  "atAGlance": {
+    "genre": "Prophetic narrative with irony, a psalm-like prayer, and a closing question",
+    "setting": "The story concerns Jonah son of Amittai and the Assyrian city of Nineveh",
+    "composition": "Disputed; many scholars favor a postexilic literary setting, distinct from the eighth-century prophet named in 2 Kings 14:25",
+    "audience": "Readers asked to reconsider the boundaries of divine compassion"
+  },
+  "sections": [
+    {
+      "title": "A story about a prophet",
+      "paragraphs": [
+        "Jonah differs from the neighboring prophetic books because it is principally a narrative about a prophet rather than a collection of his speeches. Its central figure shares the name and patronymic of Jonah son of Amittai in 2 Kings 14:25, associated with the eighth century BC. That connection concerns the character’s setting. It does not by itself establish when the book was composed.",
+        "Many scholars read the work as a later, often postexilic narrative employing irony and exaggeration; traditional readers frequently understand it as an account of historical events. Its composition date and genre remain debated. Whatever position a reader takes, the story’s literary design deserves close attention. The remarkably brief message preached to Nineveh is surrounded by a much longer account of the messenger’s resistance and education."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "Flight reveals the prophet’s contradiction",
+      "paragraphs": [
+        "The opening command sends Jonah to Nineveh, but he takes a ship toward Tarshish. The route represents flight from his commission. The exact modern identification of Tarshish is uncertain and is not necessary to understand the contrast. Jonah’s descent into the ship and sleep amid danger place his refusal beside the sailors’ energetic attempts to save life.",
+        "The sailors pray, question, and struggle against the sea. Jonah can accurately confess the God who made sea and dry land while acting as though that God’s claim can be escaped by travel. Knowledge and conduct are out of alignment. The outsiders, meanwhile, become increasingly attentive to the LORD. Their reluctance to throw Jonah overboard complicates any simple assumption that religious insiders automatically show greater reverence or compassion."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Rescue does not complete the transformation",
+      "paragraphs": [
+        "The great fish receives far more attention in popular retellings than its place in the book’s argument requires. It is an appointed means of preserving Jonah, not the narrative’s final destination. The prayer in chapter 2 looks back on descent, distress, and deliverance using language familiar from biblical psalms. Jonah remembers God and gives thanks for rescue.",
+        "The prayer should be heard sincerely, but it should also be read beside the chapters that follow. Gratitude for one’s own deliverance does not necessarily produce generosity toward others. The narrator has not yet shown that Jonah accepts the purpose of his commission. His return to dry land supplies a new beginning rather than proof that every resistance within him has disappeared."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Nineveh responds to a warning",
+      "paragraphs": [
+        "The second commission closely echoes the first, and this time Jonah goes. The city’s response is immediate and sweeping. People fast; the king leaves his throne; even animals enter the public sign of mourning. The enlarged scale is part of the narrative’s force. The response exceeds what the reluctant messenger appears to expect or desire.",
+        "The king’s words include a call to turn from violence. Repentance is therefore not simply ceremonial sorrow. The story identifies changed conduct as well as humility. God sees the response and does not carry out the threatened destruction. This raises an important question about prophetic warning: its purpose may be to bring about a change that makes disaster unnecessary, rather than to establish the predictor’s reputation through catastrophe."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The real conflict comes after success",
+      "paragraphs": [
+        "Chapter 4 reveals that Jonah’s flight was connected with his knowledge of God’s mercy. The divine character that should ground praise becomes the reason for his complaint. He would rather die than accept the spared city. At this point the central difficulty is no longer whether Nineveh will listen. It is whether the prophet can live with the consequences of the message he has delivered.",
+        "The plant, worm, and hot wind make Jonah’s disproportionate concern visible. He grieves the loss of shade that benefited him but resents compassion toward a city full of lives. God’s questions expose the gap without giving readers a narrated conversion at the end. The final reference to people and animals broadens the field of care beyond Jonah’s comfort, status, or preferred outcome."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "An unanswered question for the reader",
+      "paragraphs": [
+        "Nineveh was associated with Assyrian imperial violence, so the story’s mercy is not directed toward an innocuous stranger. It confronts the difficulty of imagining repentance and preservation for a feared enemy. Yet the book does not dismiss Nineveh’s wrongdoing: violence is named and a turning from it is required. Mercy and moral seriousness are held together.",
+        "Read Jonah in one sitting if possible, tracing the two commissions and the contrasting responses of sailors, citizens, and prophet. The New Testament later invokes Jonah in connection with Jesus’ mission and the response to it, but the short narrative retains its own challenge. The ending leaves Jonah silent and the reader addressed. Can someone who welcomes compassion as a recipient also welcome its extension beyond the boundaries of the group they prefer?"
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The call refused",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Jonah flees while sailors struggle for life and encounter the LORD."
+    },
+    {
+      "label": "A rescued prophet prays",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Thanksgiving follows deliverance from the sea."
+    },
+    {
+      "label": "The call renewed",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Nineveh responds to warning with repentance."
+    },
+    {
+      "label": "Mercy questioned",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "God confronts Jonah’s anger through a plant and an unanswered question."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Mercy beyond familiar boundaries",
+      "description": "God’s concern extends to people the prophet regards as enemies."
+    },
+    {
+      "name": "Repentance",
+      "description": "A warning can achieve its purpose when threatened destruction is averted."
+    },
+    {
+      "name": "Self-examination",
+      "description": "Correct belief does not guarantee a generous response to divine compassion."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Story linked with an eighth-century BC prophet; composition disputed",
+    "context": "Jonah’s mission to Assyrian Nineveh",
+    "note": "The named prophet belongs to the eighth-century setting; many scholars date the written story substantially later."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 4,
+      "era": "divided-kingdom",
+      "label": "Jonah’s mission to Assyrian Nineveh",
+      "dateLabel": "Story linked with an eighth-century BC prophet; composition disputed",
+      "note": "The named prophet belongs to the eighth-century setting; many scholars date the written story substantially later."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Jonah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Jonah",
+      "url": "https://bible.usccb.org/bible/jonah/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 24",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-24"
+    }
+  ]
+}

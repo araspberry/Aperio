@@ -1,0 +1,55 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 4,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Song of Solomon 4 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Song of Solomon 4: The Gaze of Love",
+      "overview": [
+        "This chapter captures the profound intimacy of being fully seen and deeply cherished by another person—a glimpse into how the beloved makes us beautiful simply by looking at us with wonder.",
+        "The lover's extended meditation on his beloved's beauty reveals something crucial about love's nature: it doesn't merely observe; it celebrates. When he speaks of eyes like doves, hair like a flock of goats descending from Gilead, teeth like freshly washed sheep, he isn't employing flattery but rather the language of presence. He sees her not as she compares to some cultural ideal, but as she uniquely is—and in that seeing, she becomes radiant. His gaze transforms her self-perception. This is what genuine love does: it attends so carefully to the beloved that the beloved begins to recognize their own worth reflected in that loving attention.",
+        "Notice the garden imagery that dominates these verses. The beloved is called a \"locked garden,\" a \"spring enclosed,\" a \"sealed fountain.\" Some read this as protection or exclusivity, but consider another angle: perhaps she is whole and complete in herself, her beauty and depth not requiring external validation. The lover's role isn't to unlock or claim what was hidden, but to delight in what is already there, to honor her boundaries and selfhood while celebrating her presence.",
+        "For those of us shaped by a culture constantly demanding transformation—a better body, sharper edges, more marketable skills—this passage offers counter-formation. We are not projects requiring improvement before we can be loved. We are gardens to be appreciated, sources of refreshment and wonder just as we are. When we receive love that genuinely sees us, we discover capacities for joy and generosity we didn't know we possessed.",
+        "What would change in your relationship with yourself if you believed you were already worthy of being beheld with delight?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Song of Solomon 4: Scholarly study",
+      "overview": [
+        "Song of Solomon 4 presents one of the most elaborate wasf compositions in ancient Near Eastern literature, a poetic genre employing anatomical imagery to praise physical beauty. This chapter divides naturally into two movements: the lover's descriptive praise of his beloved (vv. 1–7) and his invitation to her accompanied by expressions of longing (vv. 8–16). The superscription identifying the speaker as the bridegroom situates this poetry within the broader dialogue structure that characterizes the entire collection, traditionally attributed to Solomon though likely representing a compilation of love poetry from Israel's wisdom tradition.",
+        "The opening declaration \"you are beautiful\" employs the Hebrew *yaphah*, a term denoting physical attractiveness that appears repeatedly throughout the Song. The beloved's eyes are compared to doves \"behind your veil\" (*tsammah*), a term whose precise meaning remains contested—some scholars suggest it refers to flowing hair rather than a face covering, based on cognate evidence from other Semitic languages. The cascade of similes that follows—hair like goats descending Gilead, teeth like shorn ewes, lips like scarlet thread, temples like pomegranate halves—draws extensively from pastoral and agricultural imagery native to the Palestinian landscape, grounding erotic poetry in the concrete realities of Israelite daily life.",
+        "The geographical references in verses 8 from Lebanon, Amana, Senir, and Hermon have generated scholarly discussion regarding whether they indicate the beloved's actual location or function symbolically to evoke remoteness and inaccessibility. The term \"bride\" (*kallah*) appearing in verse 8 has puzzled interpreters, as the narrative context elsewhere seems to depict unmarried lovers; some resolve this by positing multiple compositional layers or understanding *kallah* as an affectionate designation rather than a legal status.",
+        "The garden imagery dominating verses 12–16 employs *gan* (garden) and *maʿyan* (spring) as metaphors for feminine sexuality, with the \"locked garden\" and \"sealed fountain\" traditionally interpreted as signifying virginity or exclusive devotion. The catalogue of exotic spices—nard, saffron, calamus, cinnamon—evokes luxury trade goods, elevating the beloved's worth beyond ordinary measure. The chapter concludes with the woman's own voice inviting her lover into his garden, demonstrating the remarkable mutuality and female agency that distinguishes this biblical text within its ancient context."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Song of Solomon 4: Prophetic perspective",
+      "overview": [
+        "Song of Solomon 4 emerges from the golden age of Israel's united monarchy, composed approximately 950 years before Christ's incarnation during the reign of Solomon, when the temple stood newly dedicated and Israel enjoyed unprecedented peace and prosperity. Within the biblical timeline, this wisdom literature appears after the establishment of the Davidic covenant but long before the exile, standing as a celebration of covenantal love within the promised land during the kingdom era of redemptive history.",
+        "This exquisite love poetry operates on multiple levels of meaning, functioning both as a celebration of marital intimacy within God's good creation and as a profound typological portrait of the love between Yahweh and His people—a theme later consummated in Christ and His bride, the church. The bridegroom's sevenfold praise of his beloved's beauty echoes the completeness of divine affection, while his declaration \"You are altogether beautiful, my love; there is no flaw in you\" prefigures the eschatological reality announced in Ephesians 5:27, where Christ presents to Himself a church \"without spot or wrinkle.\"",
+        "The imagery of the enclosed garden and sealed fountain carries covenant significance throughout Scripture. Eden was a garden sanctuary where God walked with humanity, and here the beloved is described as \"a garden locked, a fountain sealed\"—language of exclusive covenant devotion that anticipates the faithful bride awaiting her bridegroom. When she finally cries, \"Let my beloved come to his garden,\" we witness the voluntary surrender of covenant love, the mutual delight that marks true union.",
+        "The geographical references—Lebanon, Amana, Senir, Hermon—evoke the promised land in its fullness, yet the bridegroom calls his beloved to \"come away\" from the mountains where lions and leopards dwell. This descent from dangerous heights into the safety of covenantal embrace shadows Christ's call to His church to come out from the world's dangers into the security of His love.",
+        "The spices and fragrances permeating this chapter—myrrh, frankincense, saffron, calamus—appear again at Christ's birth, death, and burial, binding this ancient love song to Calvary's self-giving devotion. The church living between the advents reads these words as both memory and anticipation: we have been betrothed to Christ through faith, declared beautiful through His righteousness, yet we await the marriage supper of the Lamb when the Bridegroom returns to claim His beloved forever. Until that day, we remain the sealed garden, keeping covenant faithfulness for Him alone."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "22_004",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.702964+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

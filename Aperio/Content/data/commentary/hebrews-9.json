@@ -1,0 +1,56 @@
+{
+  "book": "Hebrews",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hebrews 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Hebrews 9: The Once-for-All Sacrifice",
+      "overview": [
+        "The heart of Hebrews 9 is Jesus Christ's singular, eternally sufficient sacrifice—He has done what the old covenant system could never accomplish, and His work stands complete forever.",
+        "The writer moves us through the architecture of the old tabernacle and its rituals with intentional purpose. Those annual sacrifices, the blood sprinkled on altars, the priest entering the holy place—all were copies, shadows cast by something infinitely greater approaching in time. Yet what strikes the attentive reader is the weariness built into that system. Year after year, the same sacrifices were offered because they could never actually perfect the worshipers. The repetition itself testified to their insufficiency. There was always another sacrifice coming, always another chance to get right with God through human effort and intermediaries.",
+        "Then Christ entered—not a building made with hands, but heaven itself. He brought not the blood of goats or bulls, but His own blood, shed once. The word \"once\" (ephapax) rings through this chapter like a bell: one sacrifice, one offering, finished work. What the old covenant priests could never accomplish through thousands of annual transactions, Christ completed in a single redemptive act. The veil is torn. Direct access to God is now open. The conscience of the believer is cleansed entirely.",
+        "This transforms how we live. For those of us who labor under personal guilt, who repeat our confessions as though God's memory fails, who perform spiritual works hoping this time we'll finally be acceptable—this text comes as shatteringly good news. We are not saved by our performance. Our forgiveness is not annual; it is absolute. Christ's blood covers what we were, what we are, and what we will become in this journey of faith.",
+        "When tempted to earn God's favor through self-improvement or religious striving, return to this chapter. Stand with those ancient worshipers outside the veil, and then step through into the presence of the Living God, where Christ has already opened the way.",
+        "What aspect of your life have you been trying to perfect through your own effort that Christ may be inviting you to release to His finished work?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hebrews 9: Scholarly study",
+      "overview": [
+        "Hebrews 9 represents one of the most sophisticated theological arguments in the New Testament, wherein the anonymous author constructs an elaborate comparison between the earthly tabernacle service and Christ's superior heavenly ministry. Writing to a community of Jewish Christians likely tempted to return to Judaism amid persecution, the author demonstrates mastery of both Hellenistic rhetoric and priestly tradition, drawing extensively upon Exodus 25–40 and Leviticus 16 to establish the inadequacy of the old covenant's cultic apparatus.",
+        "The chapter opens with a meticulous description of the tabernacle's structure, distinguishing between the outer \"holy place\" (τὰ ἅγια, *ta hagia*) and the inner \"Holy of Holies\" (Ἅγια Ἁγίων, *Hagia Hagiōn*), separated by a veil that symbolized restricted access to God's presence. The author's reference to the golden altar of incense being \"in\" the Holy of Holies (9:4) has generated considerable scholarly debate, since Exodus places it in the outer chamber; most interpreters resolve this by understanding the preposition as indicating liturgical association rather than physical location, given the altar's function on the Day of Atonement.",
+        "Central to the author's argument is the term διαθήκη (*diathēkē*), which carries the dual meaning of \"covenant\" and \"testament\" or \"will.\" The author exploits this semantic range in 9:15–17, arguing that just as a will requires the testator's death to become effective, so Christ's death inaugurated the new covenant. This wordplay, more natural in Greek than Hebrew, suggests the author's facility with Hellenistic conceptual categories.",
+        "The chapter's climax emphasizes Christ's singular, unrepeatable sacrifice through the adverb ἐφάπαξ (*ephapax*, \"once for all\") in 9:12, contrasting the annual repetition of Levitical offerings. Christ enters not an earthly copy but the heavenly sanctuary itself, obtaining \"eternal redemption\" (αἰωνίαν λύτρωσιν, *aiōnian lytrōsin*). The author employs Platonic-influenced spatial metaphors of earthly shadows and heavenly realities, though this framework serves distinctly Jewish eschatological purposes rather than ontological dualism.",
+        "The chapter concludes with a tripartite temporal structure—Christ's past sacrifice, present intercession, and future appearing—establishing a comprehensive soteriology that addresses sin's consequences decisively while orienting believers toward eschatological hope."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hebrews 9: Prophetic perspective",
+      "overview": [
+        "This majestic chapter was composed during the apostolic age, likely in the mid-60s AD, approximately thirty years after Christ's resurrection and ascension, addressed to Jewish believers who were tempted to return to the shadows of temple worship as persecution mounted. The writer stands at a pivotal moment in redemptive history—the old covenant sanctuary still functioned in Jerusalem, yet the new covenant realities it foreshadowed had already been accomplished through Christ's finished work. Within the grand arc of God's plan, this passage interprets the entire sacrificial system stretching from Sinai to Calvary, declaring that what Moses constructed in the wilderness and Solomon perfected in Jerusalem were never ultimate realities but pedagogical shadows preparing Israel for the substance now revealed.",
+        "The earthly tabernacle with its two chambers becomes a profound typological map of redemption. The Holy Place, where priests ministered daily before lampstand, table, and altar of incense, represented the ongoing but incomplete access of the old covenant. The Most Holy Place, separated by that heavy veil and containing the ark overshadowed by cherubim of glory, stood as the throne room of God's presence—entered only once yearly by the high priest bearing blood not his own. The Holy Spirit was signifying through this very arrangement that the way into God's immediate presence remained closed while the first tabernacle retained its standing.",
+        "Christ appears as both the greater High Priest and the superior sacrifice, collapsing the distinction between offerer and offering that characterized all previous mediation. He entered not through curtains woven by human hands but through his own flesh torn at Calvary. The blood he carried was not the borrowed life of bulls and goats—creatures whose deaths could only sanctify flesh and produce ceremonial cleanness—but his own eternal blood, securing not annual reprieve but everlasting redemption. Where earthly priests repeated their ministry because death interrupted their service and sin contaminated their offerings, Christ offered himself once for all, the unblemished Lamb whose single sacrifice perfected forever those being sanctified.",
+        "The eschatological framework here is crucial: Christ has appeared once at the end of the ages to put away sin by his sacrifice. He now appears in heaven itself before the Father's face on our behalf, his intercession perpetually effective. And he shall appear a second time, not to deal again with sin but to bring salvation to completion for those eagerly awaiting him. The church lives between these appearings—the accomplished atonement and the anticipated consummation—entering boldly through the new and living way into the holiest, the veil forever rent, the way eternally open."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "58_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.985819+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

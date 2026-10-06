@@ -1,0 +1,55 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 35 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Heart That Seeks to Honor God",
+      "overview": [
+        "When King Josiah reads the Book of the Law and discovers how far Judah has strayed, something awakens in his spirit—a desperate hunger to turn his nation back toward the God they have abandoned. His response reveals a profound truth: genuine repentance overflows in action, and authentic leadership means calling others into covenant faithfulness.",
+        "Josiah's greatest achievement wasn't military victory or political power. It was organizing a Passover celebration so magnificent that the chronicler records no such observance had occurred since the days of Samuel the prophet. He didn't simply go through religious motions. He invested his own resources generously, gave animals from his own herds, and invited all Israel and Judah to remember what God had done. Most remarkably, he honored the priests and Levites, ensuring they could serve without distraction. Here stands a young king who understood that renewal of faith requires both personal commitment and the sacrifice of one's resources.",
+        "Yet the passage concludes with tragic irony. After leading such spiritual reformation, Josiah encounters Neco, king of Egypt, at Megiddo. Rather than seeking God's counsel, he chooses his own path and loses his life in an unnecessary conflict. Even the most devoted followers of Christ sometimes stumble into situations of our own making, forgetting to seek wisdom before acting.",
+        "This paradox teaches us that spiritual growth is not linear. One moment of beautiful faithfulness doesn't exempt us from future struggles with pride or presumption. Yet it also means our sincere efforts to honor God, to lead others toward Him, and to steward our resources for His kingdom matter deeply. God sees the heart that earnestly seeks Him, even when that same heart will later stumble.",
+        "What area of your life is calling you to costly obedience right now—a resource to share, a priority to realign, or a group of people to lead toward greater faithfulness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 35: Scholarly study",
+      "overview": [
+        "Second Chronicles 35 presents the Chronicler's most extensive treatment of a Passover celebration, dedicating considerable narrative space to Josiah's observance of this foundational Israelite festival. Writing from a post-exilic perspective, the Chronicler portrays Josiah's Passover as the climactic expression of his religious reforms, surpassing even the celebrated Passover of Hezekiah recorded in chapter 30. The chapter divides naturally into two distinct sections: the elaborate Passover celebration (vv. 1–19) and Josiah's tragic death at Megiddo (vv. 20–27), creating a profound theological tension between covenant faithfulness and unexpected divine judgment.",
+        "The Hebrew term *pesach* (פֶּסַח) appears throughout the opening section, anchoring the narrative firmly within Israel's exodus traditions while simultaneously emphasizing proper cultic observance. The Chronicler's attention to Levitical organization reflects characteristic theological concerns, with the verb *kūn* (כּוּן, \"to prepare\" or \"to establish\") recurring throughout verses 4–16, underscoring the meticulous preparation required for legitimate worship. This terminology connects Josiah's reforms to David's original temple preparations, establishing continuity within the Chronicler's idealized cultic vision.",
+        "Particularly striking is the assessment in verse 18 that no Passover like Josiah's had been observed since Samuel's days—a claim that notably bypasses even Hezekiah's celebration and reaches back to pre-monarchic Israel. This evaluation elevates Josiah's observance as the definitive model of proper Passover practice, likely reflecting the Chronicler's concern to establish authoritative precedent for Second Temple worship patterns.",
+        "The narrative shift at verse 20 introduces considerable interpretive difficulty. Pharaoh Neco's claim to divine commission, using the Hebrew *ʾĕlōhîm* (אֱלֹהִים), raises questions about whether YHWH genuinely spoke through a foreign king or whether Josiah simply failed to discern authentic divine communication. The Chronicler's verdict that Josiah \"did not listen to the words of Neco from the mouth of God\" suggests the former, presenting a troubling scenario wherein a righteous king dies for disregarding a pagan monarch's oracle. This theological paradox has generated substantial scholarly debate regarding the Chronicler's understanding of prophetic mediation and divine sovereignty operating beyond Israel's conventional religious boundaries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 35: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 622 years before the incarnation of Christ, during the final spiritual revival of the Davidic monarchy under King Josiah. The northern kingdom had fallen to Assyria nearly a century earlier, and Judah itself stood only thirty-five years from its own destruction at Babylon's hands. Within the grand arc of redemption, this passage occupies the twilight of the kingdom era—that heartbreaking period when Israel's monarchy, established as a pointer toward the true King, gasped its final faithful breaths before exile swallowed the nation whole.",
+        "Josiah's Passover stands as the most magnificent celebration of this feast since the days of Samuel, surpassing even the reformations of Hezekiah. Here the typological weight becomes immense. The Passover lamb, slaughtered and its blood applied, had always pointed beyond itself to the night in Egypt when death passed over the covenant people. Yet through prophetic eyes, every lamb sacrificed in Josiah's magnificent assembly whispered of Another—the Lamb of God who would come to take away the sins of the world. The meticulous instructions regarding the lamb's preparation, the prohibition against breaking its bones, the precise timing of the fourteenth day—all these details were being inscribed into Israel's muscle memory, preparing a people to recognize their Messiah when He would be lifted up on Passover, His bones unbroken, His blood poured out for many.",
+        "The Levitical order on display—priests and singers stationed according to David's ancient arrangements, each family receiving its portion—prefigures the ordered worship of the new covenant community where Christ, our High Priest, has stationed each member according to grace and gifting. Josiah's generous provision of lambs from his own flocks shadows the Father's provision of the Lamb from His own heart.",
+        "Yet tragedy closes this chapter. Josiah falls at Megiddo, struck down by Pharaoh Neco's arrow despite his disguise. The most faithful king since David dies at thirty-nine, and Jeremiah composes laments that echo through generations. This death announces that even the greatest human reform cannot finally deliver God's people. The kingdom needed more than renewal—it needed resurrection. It needed not another Josiah but the Son of David who would pass through death into indestructible life.",
+        "For the church dwelling between advents, this chapter declares that our Passover Lamb has been sacrificed and that the feast continues until He comes. We proclaim His death, celebrate His provision, and await the marriage supper when all types find their eternal substance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_035",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.861241+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

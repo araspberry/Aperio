@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 30,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 30 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 30: From Weeping to Dancing",
+      "overview": [
+        "When sorrow threatens to swallow us whole, we need permission to believe that joy will return. Psalm 30 is that permission—a hymn of deliverance that teaches us how to move from the depths of despair to the heights of celebration, and more importantly, how to remember God's faithfulness when our circumstances shift.",
+        "The psalmist begins by declaring what God has done: he has drawn the speaker up from Sheol, kept him from descending into the pit. This isn't poetic flourish—it's the language of genuine spiritual crisis. The writer has walked through a season so dark that he felt abandoned, even forgotten by God. Yet in the telling of this story, something sacred happens. By naming what God has already accomplished, the psalmist invites us to examine our own experience of divine rescue.",
+        "What makes this psalm particularly rich is its honesty about the journey. The speaker doesn't skip over the weeping. \"Weeping may stay for the night, but rejoicing comes in the morning,\" he tells us—not because sorrow instantly disappears, but because darkness is not permanent. God's favor, though it may seem hidden during our struggles, contains an eternal quality. The anger of the Lord lasts but a moment; his favor lasts a lifetime. This is the mathematical equation of grace: our trials are brief interruptions in a larger story of steadfast love.",
+        "The psalm culminates in dancing, in silence transformed into singing. The writer moves from patient waiting in pain to active celebration. This movement reflects the truth that spiritual growth often requires us to process grief fully rather than bypass it. God doesn't rush us out of our darkness, but he does meet us there.",
+        "When you face your next season of sorrow, what would it mean to trust that your weeping, however real and necessary, is not your final chapter? How might you prepare your heart now to recognize and join God's joy when morning breaks?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 30: Scholarly study",
+      "overview": [
+        "Psalm 30 bears the superscription identifying it as \"A Song at the Dedication of the House,\" traditionally associated with David, though the Hebrew term *ḥănukkâ* (\"dedication\") has generated considerable scholarly discussion regarding whether this refers to David's palace, the temple site after the census incident (2 Samuel 24), or represents a later liturgical adaptation for temple rededication ceremonies, possibly including the Maccabean period. The psalm exemplifies the individual thanksgiving genre (*tôdâ*), characterized by public acknowledgment of divine deliverance following personal crisis, likely severe illness approaching death.",
+        "The theological architecture of the psalm moves through testimony of deliverance, reflection on past complacency, remembrance of distress and supplication, and concluding praise. The opening verb *rômamtānî* (\"you have lifted me up\") derives from the root *rwm*, evoking the image of drawing water from a cistern, which correlates with the subsequent imagery of being brought up from Sheol. This vertical spatial theology—descent into the pit versus elevation by divine intervention—structures the psalm's soteriology and reflects ancient Near Eastern conceptions of death as a realm beneath the living.",
+        "The pivotal theological statement in verse 5 employs the Hebrew term *rega'* (\"moment\") to characterize divine anger in contrast to lifelong favor (*rāṣôn*), establishing a remarkable asymmetry between judgment and grace. The juxtaposition of weeping lodging (*yālîn*) for the night with joy arriving at morning reflects both literal experience of nocturnal suffering and broader prophetic themes of eschatological reversal.",
+        "Verse 6 presents interpretive complexity, as the psalmist confesses *šalwâ* (\"ease\" or \"prosperity\") that bred false security, a theological motif connecting to wisdom literature's warnings about complacency. The divine hiding of face (*histartā pānêkā*) in verse 7 represents covenant disruption, employing relational language central to Israel's understanding of blessing and curse.",
+        "The rhetorical questions of verses 9–10 present a striking argument: the dead cannot praise God, thus preservation serves divine purposes. This pragmatic appeal, while seemingly self-interested, reflects the Hebrew Bible's emphasis on embodied worship within the covenant community rather than abstract immortality. The transformation from mourning to dancing (*māḥôl*), from sackcloth to gladness, culminates in perpetual praise, fulfilling the psalm's doxological purpose."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 30: Prophetic perspective",
+      "overview": [
+        "This psalm of David was composed approximately one thousand years before Christ's birth, likely during the united monarchy period when Israel experienced its golden age under David's reign. The superscription identifies it as \"a song at the dedication of the house,\" suggesting its use either at the dedication of David's palace or prophetically anticipating Solomon's temple dedication. Within redemptive history, this psalm emerges from the Kingdom era, that pivotal moment when God established the Davidic throne as the visible manifestation of His rule on earth, pointing forward to the eternal throne that Christ would inherit.",
+        "David's testimony of deliverance from the grave carries profound typological weight. When he declares that Yahweh lifted his soul from Sheol and kept him alive from going down to the pit, he speaks as the anointed king whose preservation guarantees the continuation of the messianic line. Yet David's experience shadows a greater reality. Christ, the true Anointed One, would descend into death itself, and God would not abandon His soul to Sheol nor allow His Holy One to see corruption. What David experienced as rescue from the brink, Jesus accomplished through actual resurrection from the dead. The Father heard the cry of the beloved Son and brought Him up from death's domain on the third morning.",
+        "The psalm's movement from weeping to joy, from mourning to dancing, from sackcloth to gladness, establishes a pattern that governs all of salvation history. This rhythm of descent and ascent, of death and resurrection, becomes the very heartbeat of God's redemptive work. Israel would experience this pattern corporately through exile and restoration. The church experiences it sacramentally through baptism into Christ's death and rising to walk in newness of life.",
+        "David's declaration that God's anger lasts but a moment while His favor endures for a lifetime reveals the proportional structure of divine dealings. The cross concentrated God's wrath into one cosmic moment so that mercy might flow unhindered through endless ages. The night of weeping that Christ endured in Gethsemane and Golgotha has given way to the morning joy of resurrection that shall never fade.",
+        "For the church dwelling between Christ's ascension and return, this psalm teaches us to interpret present sufferings through resurrection hope. Our momentary afflictions, however severe, stand under the sign of Easter morning. The God who turned David's mourning into dancing, who raised Jesus from the tomb, will transform our groaning into eternal praise when the final morning breaks and weeping is swallowed up in everlasting joy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_030",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.20601+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

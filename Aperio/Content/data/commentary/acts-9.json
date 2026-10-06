@@ -1,0 +1,57 @@
+{
+  "book": "Acts",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 9: The Transforming Power of Jesus",
+      "overview": [
+        "The spiritual heart of this chapter is the radical conversion of Saul—the church's fiercest opponent becomes Jesus's most devoted servant—revealing that no one is beyond the reach of God's transforming grace.",
+        "Acts 9 presents one of Scripture's most dramatic reversals. Saul, breathing threats and murder against the disciples, encounters the risen Jesus on the Damascus road and is utterly undone. The man who saw Christians as obstacles to destroy becomes the man who will spend his life announcing that very name he sought to erase. This is not a simple change of mind; it is a death and resurrection of the soul itself.",
+        "What strikes us most is not merely that Saul converts, but how completely his entire framework collapses and rebuilds. His credentials—his zealous orthodoxy, his certainty, his power—become worthless in the light of Christ's presence. He goes blind before he can truly see. He must be led like a child into the city. A disciple named Ananias, terrified and hesitant, must restore his sight with trembling hands. Even his conversion involves humility layered upon humility.",
+        "This passage speaks directly to our own resistance and hardness. We may not persecute Christians, but we all harbor corners of our hearts that resist Jesus's lordship. We all run from particular callings, clutch certain ambitions too tightly, or armor ourselves against conviction. Saul's encounter teaches us that Jesus doesn't negotiate gently with our self-made kingdoms—He dismantles them. He blinds us to our own sufficiency so we might truly see Him.",
+        "Yet there is tenderness here too. Jesus doesn't destroy Saul; He redirects the very intensity and passion that made him dangerous into channels of world-changing ministry. Our deepest gifts, even those twisted by sin, can be healed and repurposed by His hands.",
+        "Where in your life have you been resisting Jesus's work? What might it look like to surrender that resistance completely, as Saul did on that road?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 9: Scholarly study",
+      "overview": [
+        "Acts 9 presents one of the most theologically significant conversion narratives in the New Testament canon, recounting Saul of Tarsus's dramatic encounter with the risen Christ on the Damascus road. Luke, writing to Theophilus as part of his two-volume work, considers this event so pivotal that he narrates it three times throughout Acts (chapters 9, 22, and 26), each iteration serving distinct rhetorical purposes within the broader narrative of the gospel's expansion from Jerusalem to Rome. The chapter falls within the section of Acts depicting the church's movement beyond its initial Jerusalem boundaries, functioning as a hinge between the ministries of Peter and Paul.",
+        "The opening verses depict Saul \"breathing out threats and murder\" (ἐμπνέων ἀπειλῆς καὶ φόνου, *empneōn apeilēs kai phonou*), a vivid participial construction suggesting that persecution had become his very life-breath. This portrayal intensifies the reversal that follows. The christophany itself employs the term *phōs* (φῶς), \"light,\" connecting to Luke's broader light-darkness motif and recalling Old Testament theophanies. Christ's self-identification—\"I am Jesus whom you are persecuting\"—establishes the crucial theological principle of the church's union with Christ; to persecute believers is to persecute Christ himself.",
+        "The role of Ananias introduces the pattern of the believing community's necessity in conversion. Despite his understandable hesitation, Ananias addresses Saul as \"brother\" (*adelphe*), signaling immediate incorporation into the covenant community. The restoration of Saul's sight, his baptism, and subsequent table fellowship compress the essential elements of Christian initiation.",
+        "Scholars debate whether Luke's three accounts contain contradictions (particularly regarding what Saul's companions perceived) or represent complementary perspectives emphasizing different aspects. The variations likely reflect ancient historiographical conventions permitting rhetorical adaptation while maintaining historical core.",
+        "The chapter concludes by returning to Peter's ministry, specifically the healings of Aeneas and the raising of Tabitha (*Dorcas* in Greek). These miracles parallel Jesus's own ministry and demonstrate apostolic authority, while the Joppa setting strategically positions Peter for the Cornelius narrative that follows, advancing Luke's theme of gentile inclusion. Thus Acts 9 masterfully weaves individual conversion with ecclesiological expansion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 9: Prophetic perspective",
+      "overview": [
+        "This pivotal chapter unfolds approximately three to five years after the resurrection of Christ, around AD 33-36, during the earliest expansion of the church beyond Jerusalem. We stand at a moment when the blood of Stephen, the first martyr, has barely dried, and the man who held the cloaks of his executioners now breathes murderous threats against every follower of the Way. The passage sits precisely at the hinge point between the Church Age's inauguration at Pentecost and its explosion to the Gentile world—a transition this very conversion will catalyze.",
+        "Within the grand arc of redemption, Acts 9 represents the divine strategy of conquest through grace. What Israel's kings could never achieve through military might—the subjugation of hostile powers—the risen Christ accomplishes through a single blinding light on a Damascus road. Here the persecutor becomes the apostle, and in this transformation we witness a pattern that echoes throughout Scripture: God choosing the least likely vessels to carry His glory. As He took Jacob the deceiver, Moses the murderer, and David the adulterer, so He arrests Saul the blasphemer. This is Joseph's brothers falling before the one they sought to destroy, now reversed—Christ confronting His enemy not with vengeance but with vocation.",
+        "The typological richness overwhelms careful readers. Saul's three days of blindness and fasting mirror Christ's three days in the tomb; his emergence into new sight and baptism pictures resurrection from death to life. He who entered Damascus to bind the saints leaves that city lowered in a basket like an infant Moses set adrift, preserved for deliverance he cannot yet imagine. The scales falling from his eyes recall the veil over Israel's heart that Paul himself would later describe, removed only in Christ.",
+        "Prophetically, this chapter fulfills what God declared to Ananias: \"He is a chosen vessel of Mine to bear My name before Gentiles, kings, and the children of Israel.\" The mystery hidden for ages—that Gentiles would be fellow heirs with Israel—required an apostle uniquely positioned to bridge both worlds. Saul's Pharisaic training, Roman citizenship, and Greek fluency were providentially prepared for a mission still unfolding.",
+        "For the church awaiting Christ's return, Acts 9 proclaims an unshakeable hope: no heart lies beyond the reach of sovereign grace. The same Lord who interrupted Saul's journey continues interrupting sinners on their roads to destruction, transforming enemies into ambassadors until that final day when every knee shall bow."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.683426+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

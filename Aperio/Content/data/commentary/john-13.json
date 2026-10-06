@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 13: The Love That Stoops to Serve",
+      "overview": [
+        "The heart of John 13 is this: love is not measured in grand declarations but in the humble willingness to wash another's feet. Here, Jesus demonstrates that true greatness in God's kingdom flows downward, not upward, and that discipleship means following a Leader who serves rather than demanding to be served.",
+        "The setting matters deeply. Jesus, fully aware of His authority and destiny, strips off His outer garment and wraps a towel around His waist—the posture of a slave, not a king. In that culture, foot-washing was beneath dignity, assigned only to servants and non-Jewish slaves. When Peter resists, caught between offense and love, Jesus gently insists: \"Unless I wash you, you have no part with me.\" These words pierce through our resistance. Jesus is saying that to belong to Him means accepting His love on His terms, not ours, even when that love unsettles us.",
+        "What follows is Jesus' new commandment: love one another as He has loved them. But this isn't sentimental love. It's the love that descends, that makes itself vulnerable, that chooses the other's dignity over its own reputation. It's the love that later that evening would submit to crucifixion.",
+        "For those of us living ordinary lives in ordinary communities, this passage asks a searching question: Where do we resist being loved by Jesus? Where do we insist on maintaining our dignity rather than receiving grace? And crucially, how are we treating the people around us? Are we competing for prominence, or are we quietly serving, washing feet in the metaphorical sense—listening deeply, helping without recognition, preferring others?",
+        "The towel becomes the symbol of the kingdom. Jesus doesn't just teach about servanthood; He becomes the servant. He invites us into the same pattern, not as burden but as freedom.",
+        "What feet has Jesus asked you to wash lately, and what kept you from doing it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 13: Scholarly study",
+      "overview": [
+        "The thirteenth chapter of John marks a decisive turning point in the Fourth Gospel, transitioning from the Book of Signs (chapters 1–12) to what scholars often term the Book of Glory or the Farewell Discourse material (chapters 13–17). The evangelist signals this structural shift immediately with the temporal marker \"before the feast of the Passover,\" situating the narrative within the final hours preceding Jesus' arrest and crucifixion. The Johannine community, writing likely near the end of the first century, shaped this material to address questions of discipleship, community ethics, and the nature of authentic leadership within their particular ecclesial context.",
+        "The foot-washing episode, unique to John's Gospel, carries profound theological weight through the term *niptō* (νίπτω), meaning to wash a specific body part, distinguished from *louō* (λούω), which denotes bathing the whole body. Jesus' statement to Peter in verse 10—\"the one who has bathed needs only to wash his feet\"—has generated considerable scholarly debate, with some interpreting the distinction sacramentally as referencing baptism, while others read it as purely metaphorical concerning ongoing purification within the believing community. The act itself subverts Greco-Roman and Jewish social hierarchies, as foot-washing was typically relegated to the lowest servants or, in certain contexts, performed by disciples for their rabbis—never the reverse.",
+        "The introduction of Judas as betrayer employs the verb *paradidōmi* (παραδίδωμι), meaning to hand over or deliver up, a term carrying covenantal overtones of broken trust and appearing throughout the Passion narratives. The \"morsel\" (*psōmion*) dipped and given to Judas represents a gesture of honor at ancient Near Eastern meals, heightening the tragedy of the betrayal. When Satan enters Judas and he departs into the night, the evangelist deploys the light-darkness motif pervasive throughout the Gospel, with *nyx* (νύξ) functioning as both literal and symbolic descriptor.",
+        "The chapter concludes with the \"new commandment\" of mutual love (*agapē*), which will serve as the community's distinguishing mark. This commandment's novelty lies not in the love command itself—present in Leviticus 19:18—but in its christological grounding: \"as I have loved you.\" Peter's confident declaration of loyalty, followed by Jesus' prediction of denial, prepares readers for the forthcoming narrative of human frailty confronting divine purpose."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 13: Prophetic perspective",
+      "overview": [
+        "John chapter thirteen unfolds in the final hours before the crucifixion, approximately AD 33, during the Passover feast in Jerusalem—nearly fifteen centuries after the first Passover in Egypt and mere hours before the Lamb of God would fulfill what that ancient night had always foreshadowed. This passage stands at the threshold between the old covenant's final Passover observance and the inauguration of the new covenant in Christ's blood, positioning us at the very hinge of redemptive history where the long arc bending from Abraham through Moses through David now reaches its climactic turning point.",
+        "The washing of the disciples' feet presents a stunning typological reversal of all that came before. Where the Levitical priests washed themselves before ministering in the tabernacle, here the eternal High Priest stoops to wash those He is consecrating for apostolic ministry. Jesus removes His outer garments, takes the posture of the lowest servant, and performs the work assigned to Gentile slaves—a prophetic enactment of Philippians 2, where He who was in the form of God emptied Himself, taking the form of a servant. Peter's initial refusal and subsequent overcorrection reveal humanity's persistent misunderstanding of divine grace: we resist both the humiliation of receiving what we cannot earn and the boundaries of what Christ declares sufficient. The Lord's word to Peter—\"Unless I wash you, you have no share with me\"—thunders across the centuries as the gospel's essential demand: salvation comes only by receiving Christ's cleansing work, never by self-purification.",
+        "The identification of Judas as the betrayer unveils the mystery of divine sovereignty intersecting with human culpability. Jesus quotes Psalm 41, demonstrating that even this treachery unfolds according to prophetic Scripture, yet Judas departs into the night bearing full moral responsibility. When Satan enters him, we witness the cosmic conflict reaching its fever pitch—the serpent of Genesis 3 now mobilizing his final assault against the seed of the woman.",
+        "The \"new commandment\" to love one another as Christ has loved carries eschatological weight: this mutual love becomes the mark identifying the new covenant community until Christ returns. The church now lives as the foot-washing people, demonstrating servant love in a world that grasps for power, bearing witness that the kingdom operates by cruciform principles until the King returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.6403+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

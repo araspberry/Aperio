@@ -1,0 +1,55 @@
+{
+  "book": "John",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 21: Restoration After Failure",
+      "overview": [
+        "Jesus' appearance to the disciples on the shore of the Sea of Galilee offers one of Scripture's most tender portraits of grace—a God who meets us not to condemn our failure, but to restore us to mission and love.",
+        "The setting itself speaks volumes. After Peter's catastrophic denial and the disciples' paralysis in the upper room, they have retreated to the familiar security of their boats and nets. They are trying to resume life as it was before Jesus, which is what frightened, defeated people often do—we retreat to what we know. But Jesus will not allow them to hide there. He appears on the shore as the risen Lord, and what strikes us is his gentleness. He does not shame Peter for the triple denial. Instead, he asks the threefold question: \"Do you love me?\" This is not interrogation; it is invitation. Three times Peter denied knowing Jesus, and three times Jesus offers him the chance to reaffirm his love. Each affirmation is met with a commission: \"Feed my lambs. Tend my sheep. Feed my sheep.\" Restoration and purpose are woven together.",
+        "This passage teaches us that following Jesus is not ultimately about our competence or consistency—it is about love. Peter will still stumble. We all will. But our stumbling does not disqualify us from serving Christ. It actually positions us to shepherd others with the tenderness we ourselves have received. The risen Jesus meets us in our failure, asks us to acknowledge his lordship, and then sends us back into the world with renewed calling.",
+        "Many of us know the crushing weight of having let Christ down. We understand Peter's shame and his desperate hope that somehow, we might be useful again. The gospel of John insists that you are. Not because you have earned it back, but because love—Christ's love for you—is the currency that matters. Your failures have become the classroom where grace teaches you to love others well.",
+        "What specific failure or doubt in your walk with Jesus might he be inviting you to bring before him, not for condemnation, but for commission?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 21: Scholarly study",
+      "overview": [
+        "John 21 presents interpreters with significant compositional and theological questions, as this chapter appears to function as an epilogue to a Gospel that seemingly concluded at 20:30–31 with a formal purpose statement. Whether this material derives from the Evangelist's own hand, a later redactor within the Johannine community, or represents an integral part of the original composition remains debated among scholars. The setting returns to Galilee and the Sea of Tiberias, creating a geographical inclusio with the earlier Galilean ministry and recalling the initial call of the disciples.",
+        "The miraculous catch of fish carries profound symbolic weight, with the precise number of 153 fish generating extensive scholarly speculation. Jerome famously suggested this represented the number of known fish species, symbolizing the universal mission of the church. The Greek term for \"net\" (δίκτυον, *diktuon*) remaining unbroken despite the enormous catch likely symbolizes the church's unity amid its catholic reach. The breakfast scene echoes eucharistic imagery, with Jesus taking bread (ἄρτον, *arton*) and fish, distributing them to the disciples in language reminiscent of the feeding narratives.",
+        "The threefold restoration of Peter corresponds structurally to his threefold denial, though the interchange between ἀγαπάω (*agapaō*) and φιλέω (*phileō*) for \"love\" has occasioned considerable debate. Some interpreters detect significant theological distinction between these terms, while others, including D.A. Carson, argue the Evangelist employs them as stylistic variation without semantic differentiation, consistent with Johannine literary practice elsewhere. Jesus' commissioning language—\"feed my lambs,\" \"tend my sheep,\" \"feed my sheep\"—establishes Peter's pastoral authority while simultaneously grounding that authority in love for Christ rather than institutional office.",
+        "The chapter concludes with the enigmatic exchange concerning the Beloved Disciple, whose identity remains the Gospel's central mystery. The community's apparent misunderstanding regarding this figure's mortality and Jesus' return suggests the passage addresses internal confusion following the Beloved Disciple's death. The final verses authenticate the Gospel's testimony through this eyewitness while the plural \"we know\" in verse 24 indicates communal endorsement, revealing the corporate nature of the Gospel's transmission and preservation within the Johannine circle."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 21: Prophetic perspective",
+      "overview": [
+        "John 21 unfolds in the mysterious days following Christ's resurrection, approximately forty days after Passover in AD 30, during that sacred interval between the empty tomb and the ascension. This chapter belongs to the hinge moment of redemptive history—the old covenant has been fulfilled at Calvary, the resurrection has vindicated the Son, yet the Spirit has not yet been poured out at Pentecost. The disciples stand in a liminal space, caught between the accomplished work of redemption and the inauguration of the church age.",
+        "The setting itself carries profound typological weight. Seven disciples return to the Sea of Galilee, to their former trade, casting nets through the night and catching nothing. This fruitless labor under darkness echoes the condition of Israel and all humanity apart from Christ—toiling under the curse, laboring in the night of the old creation. Yet when morning breaks, the risen Lord stands on the shore, commanding them to cast their nets on the right side. The haul of 153 large fish, with the net unbroken, presents a prophetic picture of the church's mission: a great ingathering from every nation, held together in the unbreakable fellowship of Christ's kingdom. The specific number—whether representing the known nations of the ancient world or the fullness of the elect—signals a complete harvest, none lost.",
+        "The charcoal fire on the shore deliberately recalls another charcoal fire in the high priest's courtyard where Peter denied his Lord three times. Jesus, the great High Priest of the new covenant, orchestrates Peter's restoration with three questions that undo the threefold denial. \"Do you love me?\" pierces to the heart of apostolic calling. This restoration scene typifies Christ's ongoing ministry of intercession—He who was wounded for our transgressions now tends and restores His wandering sheep.",
+        "The commission to \"feed my lambs\" and \"tend my sheep\" establishes the pastoral office that would characterize the church age. Peter, once scattered, now becomes an under-shepherd pointing to the Chief Shepherd. Christ's prophecy concerning Peter's death—stretching out his hands, carried where he would not go—reveals that martyrdom would mark the apostolic witness. Tradition records Peter's crucifixion under Nero, fulfilling this word.",
+        "The enigmatic mention of the beloved disciple \"remaining\" until Christ comes has fueled speculation across centuries, yet its deepest meaning lies in the church's posture: watching, waiting, bearing witness through written testimony until the Lord returns. The church today lives in this same tension—laboring at Christ's command, restored by His grace, shepherding His flock, awaiting the morning when He appears on the eternal shore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.660975+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

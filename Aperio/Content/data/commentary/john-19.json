@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 19: The King Who Dies for Love",
+      "overview": [
+        "The crucifixion of Jesus is the central act of redemption, where the King of kings surrenders his life in agony and love, transforming shame and death into salvation for all who believe. Here at Calvary, divine power reveals itself through supreme vulnerability.",
+        "John's account strips away much detail to focus on the bare theological reality: this execution is a coronation. Even in mockery, the inscription reads \"King of the Jews.\" Even in death, Jesus maintains authority, committing his mother to John's care and declaring \"It is finished\"—not in defeat, but as the completion of what his Father sent him to accomplish. There is profound dignity here, not victimhood but willing self-gift.",
+        "What strikes the pastoral heart is how Jesus' physical suffering becomes inseparable from his relational love. He thinks of his mother. He makes provision. Even pierced and dying, he acts like a king by tending to those he loves. This tells us something essential about the kingdom he has established: it operates on the currency of self-giving, sacrifice, and care for the vulnerable. Power, in Christ's hands, always bends toward tenderness.",
+        "The soldiers' actions—casting lots for his garment, offering sour wine—fulfill Scripture and reveal human indifference toward divine love. Yet Jesus absorbs this cruelty without retaliation. His silence and surrender teach us that redemption works not through our strength but through our willingness to entrust ourselves to God's purposes, even when those purposes lead through suffering.",
+        "For disciples walking through their own pain, John's crucifixion account offers a revolutionary comfort: suffering itself, when joined to Christ's, becomes redemptive. Our struggles need not be meaningless or punitive; they can become channels through which God's love flows to a broken world.",
+        "Where in your life are you being invited to move from demanding justice to offering mercy, as Christ did at the cross?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 19: Scholarly study",
+      "overview": [
+        "The nineteenth chapter of John's Gospel presents the Johannine passion narrative with distinctive theological emphases that set it apart from the Synoptic accounts. Writing likely in the final decade of the first century, the Fourth Evangelist crafts a portrayal of Jesus's crucifixion that emphasizes sovereignty, fulfillment of Scripture, and the revelatory significance of the cross as the moment of divine glorification.",
+        "The narrative opens with Pilate's flogging of Jesus and the soldiers' mockery, wherein they dress him in purple and crown him with thorns while hailing him as \"King of the Jews.\" The Greek term for the crown, *stephanos* (στέφανος), typically denotes a victor's wreath, creating profound irony—what the soldiers intend as ridicule becomes, in Johannine theology, an inadvertent proclamation of Christ's true kingship. Pilate's declaration *ecce homo* (\"Behold the man,\" *ide ho anthrōpos*) in verse 5 has generated considerable scholarly discussion. Some interpreters see an allusion to the Son of Man tradition, while others understand it as Pilate's dismissive presentation of a beaten prisoner; the Johannine tendency toward double meaning suggests both levels operate simultaneously.",
+        "The crucifixion account emphasizes Jesus's agency throughout. Unlike the Synoptics, John portrays Jesus carrying his own cross without Simon of Cyrene's assistance, and his final words—*tetelestai* (τετέλεσται), \"It is finished\" or \"It is accomplished\"—convey completion rather than abandonment. This term carries connotations of bringing something to its intended goal or perfection, suggesting the fulfillment of the Father's salvific mission.",
+        "The seamless tunic (verse 23) has been interpreted variously as symbolic of priestly garments, ecclesial unity, or simply historical detail. The presence of Jesus's mother and the Beloved Disciple at the cross, unique to John, establishes a new familial relationship that many scholars understand as representing the formation of the believing community. The flow of blood and water from Jesus's pierced side (verse 34) holds sacramental significance for many interpreters, pointing to baptism and Eucharist, though the Evangelist's primary emphasis appears to be eyewitness testimony and scriptural fulfillment. The chapter thus presents the crucifixion not as defeat but as the culmination of Jesus's revelatory mission."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 19: Prophetic perspective",
+      "overview": [
+        "John chapter nineteen unfolds during the final hours before the crucifixion, approximately AD 30-33, at the climax of Jesus' earthly ministry. This passage records events that took place during the Jewish Passover festival in Jerusalem, under Roman occupation, roughly fifteen centuries after the Exodus and at the precise moment when all Old Testament prophecy concerning the suffering Servant converged upon a single day in history.",
+        "Within the grand narrative of redemption, this chapter stands at the absolute center—the hinge upon which all salvation history turns. Everything from the promise in Eden that the seed of the woman would crush the serpent's head, through Abraham's near-sacrifice of Isaac, the Passover lamb's blood on doorposts, the scapegoat sent into the wilderness, and Isaiah's prophecy of one pierced for our transgressions—all of it finds its terminus here on Golgotha. The cross is not merely an event within redemptive history; it is the event toward which creation groaned and from which new creation springs.",
+        "The typological density of this chapter is staggering. When Pilate declares \"Behold the man,\" he unknowingly presents the true Adam, the perfect human who succeeds where the first Adam failed. Jesus carries His cross to the place of the skull, echoing Isaac carrying wood up Moriah, yet here the Father does not stay His hand. The seamless garment for which soldiers cast lots recalls the high priest's robe, for Christ is both sacrifice and priest. When Jesus thirsts and receives sour wine on hyssop—the same plant used to apply lamb's blood in Egypt—the Passover typology reaches completion. His declaration \"It is finished\" announces not defeat but the fulfillment of every sacrificial shadow.",
+        "The detail that His bones remained unbroken while His side was pierced fulfills both the Passover requirement and Zechariah's prophecy of one pierced whom Israel would mourn. Water and blood flowing from His side signify cleansing and atonement, the dual provision the church receives through baptism and communion. Joseph of Arimathea and Nicodemus—one secret disciple, one who came by night—now emerge publicly, demonstrating that Christ's death already draws hearts from hiddenness into open confession.",
+        "For the church awaiting Christ's return, this chapter declares that our redemption rests not on religious striving but on finished work. The Lamb has been slain, the price fully paid, the curse exhausted. We proclaim this death until He comes, living as those for whom the veil is torn, the grave is conquered, and the King who hung upon the tree shall return wearing many crowns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.655487+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "book": "Romans",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 8 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Romans 8:29 · Original-language text",
+      "url": "https://biblehub.com/text/romans/8-29.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Romans 8: The Unshakeable Ground of God's Love",
+      "overview": [
+        "The deepest cry of the human heart finds its answer in Romans 8—a chapter that stands as the bedrock of Christian confidence, declaring that nothing in all creation can separate us from the love of God in Christ. This is where Paul moves from doctrine into the doxology of the redeemed heart.",
+        "The chapter begins where chapter 7 left off: trapped and desperate. But immediately Paul announces the great reversal—\"there is now no condemnation for those who are in Christ Jesus.\" This is not because we have finally gotten ourselves together or earned God's approval. Condemnation is removed because Christ has done what the law could never do. The Spirit now indwells us, not to condemn but to transform, to cry out \"Abba, Father\" through our lips and to assure us we are God's beloved children. This is the gospel's deepest comfort: we belong.",
+        "As believers, we live in the middle—already reconciled to God, yet not yet fully redeemed. Paul names this honestly. We suffer. We groan. Creation itself groans under the weight of sin's consequences. Yet even our weaknesses are not beyond God's reach. When we don't know how to pray, the Spirit intercedes for us with wordless sighs. God understands what we cannot articulate.",
+        "The chapter crescendos with Paul's magnificent affirmation: God works all things—even our failures, losses, and pain—toward our good, for those called according to His purpose. This doesn't mean suffering becomes pleasant or that God causes evil. Rather, nothing falls outside His redemptive purpose. If God gave His own Son for us, what else would He withhold?",
+        "This passage invites us to live without fear, knowing we are held by a love that the powers of heaven and earth cannot break. Our adoption is secure. Our future is certain. Our present struggles have meaning within God's grand narrative.",
+        "What specific circumstance in your life right now needs the reassurance that God's love is unbreakable and His purposes unshakeable?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 8: Scholarly study",
+      "overview": [
+        "Romans 8 stands as the theological apex of Paul's epistle to the Romans, completing the argument begun in chapter 5 regarding the new life available to those united with Christ. Written from Corinth around 57 CE to a congregation Paul had not yet visited, this chapter synthesizes his teaching on justification, sanctification, and glorification into a magnificent crescendo of Christian assurance. The chapter divides naturally into four movements: life in the Spirit (vv. 1–17), the groaning of creation and believers (vv. 18–27), the golden chain of salvation (vv. 28–30), and the hymn of divine love (vv. 31–39).",
+        "The opening declaration that there is \"no condemnation\" (*katakrima*) for those in Christ Jesus marks a dramatic shift from the anguished cry of 7:24. This legal term denotes not merely acquittal but the complete absence of any adverse verdict, grounding the believer's status in Christ's redemptive work rather than personal achievement. Paul's contrast between the \"law of the Spirit of life\" and the \"law of sin and death\" employs *nomos* in a broader sense than the Mosaic code, referring instead to operative principles or powers that govern human existence.",
+        "The pneumatological emphasis of this chapter is extraordinary, with *pneuma* appearing twenty-one times. Paul distinguishes between those who walk \"according to the flesh\" (*kata sarka*) and \"according to the Spirit\" (*kata pneuma*), where \"flesh\" represents not merely physicality but the entire orientation of unredeemed humanity toward self-sufficiency and rebellion. The Spirit's indwelling constitutes believers as God's children, with *Abba* preserving the intimate Aramaic address Jesus himself used, suggesting early liturgical practice.",
+        "Verses 28–30 present what theologians have termed the \"golden chain\" of salvation, moving from foreknowledge through predestination, calling, justification, and glorification. Interpretive debate continues regarding whether *proegnō* (\"he foreknew\") indicates mere foresight or a relational knowing that involves divine initiative. The chapter's conclusion employs rhetorical questions characteristic of the diatribe style, building toward the unassailable conviction that no cosmic power—death, angels, principalities, or any created thing—can sever believers from God's love manifested in Christ, providing the epistle's most profound statement of Christian security."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 8: Prophetic perspective",
+      "overview": [
+        "Romans 8 emerges from the pen of the apostle Paul around AD 57, written from Corinth to the church in Rome approximately twenty-five years after the resurrection and ascension of Christ. This places the letter firmly within the early church age, that pivotal era between Pentecost and the return of Christ when the Spirit has been poured out and the new covenant community lives as firstfruits of the coming kingdom. Within the grand arc of redemptive history, Romans 8 stands as the theological summit explaining what God has accomplished through the Cross and what awaits those united to the risen Messiah.",
+        "The chapter opens with the triumphant declaration that condemnation has been abolished for those in Christ Jesus—a verdict that echoes backward to Eden's curse and forward to the final judgment. What the law could not accomplish because of the weakness of fallen flesh, God accomplished by sending His own Son in the likeness of sinful flesh. Here Paul reveals that the sacrificial system of Israel, with its endless offerings that could never perfect the worshiper, has reached its terminus in Christ, the true and final sacrifice who condemned sin in the flesh once for all.",
+        "The indwelling Spirit emerges as the defining mark of new covenant existence. Just as God's presence dwelt in the tabernacle and temple, so now the Spirit takes up residence in the believer's mortal body—the ultimate temple not made with hands. This same Spirit who raised Jesus from the dead becomes the guarantee of our own bodily resurrection, linking present sanctification to future glorification in an unbreakable chain.",
+        "Paul then unveils a cosmic eschatology: creation itself groans under the weight of the curse pronounced in Genesis 3, longing for liberation when the sons of God are finally revealed in glory. The redemption secured at Calvary extends beyond human souls to encompass the entire created order, pointing toward the new heavens and new earth where righteousness dwells.",
+        "The golden chain of salvation—foreknowledge, predestination, calling, justification, glorification—declares that what God has begun He will complete. The rhetoric crescendos toward an unassailable conclusion: nothing in all creation can separate the redeemed from the love of God in Christ Jesus.",
+        "For the church living between the advents, Romans 8 provides unshakeable assurance. Believers possess the Spirit as down payment, groan in hope alongside creation, and rest secure in a love that transcends death, angels, principalities, and every power that will be subjected when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.753741+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-057"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

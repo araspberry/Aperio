@@ -1,0 +1,172 @@
+{
+  "book": "Daniel",
+  "bookIndex": 26,
+  "status": "Editorial draft",
+  "title": "Faithfulness under empires, hope beyond them",
+  "subtitle": "Court stories and apocalyptic visions confront the claims of absolute human power.",
+  "atAGlance": {
+    "genre": "Court narratives, dreams, prayers, and apocalyptic visions",
+    "setting": "Stories set in Babylonian and Persian courts; visions extend into later imperial conflict",
+    "composition": "Traditional reading: sixth-century Daniel; many scholars date final form to the second-century BC crisis under Antiochus IV, drawing on older tales",
+    "audience": "Jewish communities negotiating foreign rule, cultural pressure, and persecution"
+  },
+  "sections": [
+    {
+      "title": "Two time horizons must be distinguished",
+      "paragraphs": [
+        "Daniel places its principal character among Judeans carried into the world of Babylonian kings. Its narratives move from Nebuchadnezzar toward the transition to Persian rule, a sixth-century BC setting. Its visions range much further. Chapters 8 and 11 focus attention on conflicts associated with Greek kingdoms and the persecution connected with Antiochus IV in the second century BC.",
+        "Many scholars date the book’s final form to the crisis of approximately 167–164 BC, while recognizing older court tales. Traditional Jewish and Christian approaches often locate its authorship in the sixth-century Daniel and understand the later events as prediction. These are different claims about composition. The story unfolds in the sixth century, while many of its visions concern later struggles. Keeping those horizons distinct clarifies both the narrative and the debate about how the book reached its final form."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "Serving within a world one cannot control",
+      "paragraphs": [
+        "Chapter 1 introduces Daniel and his companions through education, food, names, and service. Imperial power reaches into ordinary habits and identity. Their response combines a clear boundary with practical negotiation. Wisdom is represented as a gift from God, but it is exercised in a setting that requires learning and discernment. The opening establishes that faithful life can involve public service without surrendering every conviction to the state.",
+        "The following stories test that possibility more severely. A furnace and a lions’ den expose the violence behind demands for unquestioning loyalty. Deliverance reveals the limits of royal power. Yet the companions’ refusal in chapter 3 is not conditional on a guaranteed rescue. Their confession allows that God may not deliver them in the way the king can see. Faithfulness is therefore deeper than confidence in a favorable immediate outcome."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The education of kings",
+      "paragraphs": [
+        "Nebuchadnezzar’s dreams, the judgment on his pride, and Belshazzar’s banquet repeatedly challenge rulers who confuse their position with unlimited authority. Daniel’s wisdom enables him to speak truth before people who can reward or destroy him. The stories do not merely ridicule foreign kings; they ask whether power can recognize that it is accountable.",
+        "The statue of chapter 2 and the creatures of chapter 7 present imperial succession through different images. Splendor seen from one angle becomes brutality from another. Both sequences culminate in a kingdom that human empire does not establish for itself. Readers should notice this repeated argument before trying to identify every symbol. The central contrast concerns the character and limits of dominion, not simply the order of political events."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Visions for people facing pressure",
+      "paragraphs": [
+        "In chapters 7–12, the wise interpreter increasingly becomes a troubled recipient of revelation. Daniel needs explanations and is physically overwhelmed by what he sees. Apocalyptic literature uses symbolic animals, heavenly courts, angelic interpreters, and patterned periods to unveil a dimension of reality hidden from ordinary sight. The strange form is part of the message: visible power does not reveal the whole truth.",
+        "The holy ones suffer before receiving vindication. The humanlike figure in chapter 7 is considered alongside the interpretation concerning those holy ones; later Jewish and Christian readings develop the image in distinctive ways. In the Gospels, the language of the Son of Man becomes particularly important. That later reception should be recognized without bypassing the vision’s original contrast between beastly rule and dominion bestowed by God."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Prayer and resurrection enlarge the hope",
+      "paragraphs": [
+        "Chapter 9 interrupts the visionary sequence with a prayer that reads present distress in light of Scripture and communal wrongdoing. Daniel does not approach the future only as a puzzle to solve. Confession, petition, and attention to Jeremiah’s words are part of his response. The explanation that follows uses a symbolic scheme of weeks; interpretations of its details vary widely.",
+        "Chapter 12 reaches beyond survival within ordinary history toward resurrection, judgment, and enduring life. This matters because persecution can kill the faithful. Hope is inadequate if it belongs only to those who happen to escape. The book’s ending acknowledges limits to Daniel’s understanding and directs him toward endurance. It does not give its readers permission to announce a precise modern calendar for the end of the world."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "How to read the stories and visions together",
+      "paragraphs": [
+        "The narratives and visions share a concern with worship, wisdom, imperial arrogance, and fidelity under pressure. Read them together rather than treating the first half as children’s stories and the second as a prediction code. The prayers and refusals of the early chapters supply an ethical setting for the cosmic scenes that follow.",
+        "The BSB presents twelve chapters. Some Christian traditions include additional Greek material, such as Susanna and Bel and the Dragon, which is not included in the BSB. Within these twelve chapters, chronological headings sometimes move backward. Follow those headings carefully, distinguish a vision’s reception from the events it depicts, and allow the book’s hope to challenge the assumption that oppressive power will always have the last word."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Identity in the royal court",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Daniel and his companions enter imperial service."
+    },
+    {
+      "label": "Kings confronted by God’s sovereignty",
+      "startChapter": 2,
+      "endChapter": 6,
+      "description": "Dreams, refusal, judgment, and deliverance expose the limits of royal power."
+    },
+    {
+      "label": "Kingdoms in symbolic vision",
+      "startChapter": 7,
+      "endChapter": 8,
+      "description": "Beasts and other figures portray conflict and divine judgment."
+    },
+    {
+      "label": "Prayer and the seventy weeks",
+      "startChapter": 9,
+      "endChapter": 9,
+      "description": "Daniel seeks understanding through confession and Scripture."
+    },
+    {
+      "label": "Conflict, endurance, and resurrection",
+      "startChapter": 10,
+      "endChapter": 12,
+      "description": "The final revelation extends from imperial struggle to ultimate vindication."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Limited empire",
+      "description": "Earthly rulers remain accountable to an authority beyond themselves."
+    },
+    {
+      "name": "Costly fidelity",
+      "description": "Loyalty to God cannot depend on promised immediate safety."
+    },
+    {
+      "name": "Hope beyond death",
+      "description": "The final vision answers suffering with resurrection and judgment."
+    }
+  ],
+  "timeline": {
+    "era": "exile",
+    "dateLabel": "Narrative setting: sixth century BC; major visionary horizon: second century BC",
+    "context": "Daniel’s court setting and the scholarly dating of the final book are distinct.",
+    "note": "The narrative begins in exile; the visions extend into later imperial conflict and ultimate vindication."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 6,
+      "era": "exile",
+      "label": "Daniel in imperial courts",
+      "dateLabel": "Sixth-century BC narrative setting",
+      "note": "Many scholars understand these stories as older traditions used in a later collection; traditional authorship dates differ."
+    },
+    {
+      "start": 7,
+      "end": 9,
+      "era": "exile",
+      "label": "Visions framed in Babylonian and Median reigns",
+      "dateLabel": "Sixth-century narrative dates; visions extend beyond them",
+      "note": "The sequence returns to earlier reigns; apocalyptic periods are not a modern calendar."
+    },
+    {
+      "start": 10,
+      "end": 12,
+      "era": "return",
+      "label": "A vision framed in the reign of Cyrus",
+      "dateLabel": "Sixth-century Persian frame; second-century BC conflict in view",
+      "note": "The return-era label identifies the narrative frame, not the date of the depicted persecution or the debated final composition."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Daniel, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Daniel",
+      "url": "https://bible.usccb.org/bible/daniel/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 23",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-23"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Daniel",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Daniel 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Daniel 11: The Sovereignty of God Over History's Chaos",
+      "overview": [
+        "The spiritual heart of Daniel 11 is this: God knows the future completely, and His purposes will not be thwarted, no matter how tumultuous human affairs become. Through detailed prophecy of kingdoms yet to come, Daniel receives assurance that history is not spinning out of divine control.",
+        "What strikes many readers first about this chapter is its extraordinary specificity—kings and wars, north and south, detailed military campaigns spanning centuries into the future. Yet beneath the geopolitical detail lies a pastoral purpose. Daniel's people would face persecution and uncertainty during the Greek and Syrian periods. By revealing what would come, God anchored their faith. They could trust that He was not surprised, not overwhelmed, and not absent from their suffering.",
+        "This passage teaches us that divine sovereignty and human reality are not opposites. Kings scheme and armies clash with apparent freedom, yet God's knowledge encompasses every move. History is not a drama whose outcome God anxiously awaits; rather, it unfolds according to His eternal perspective. This doesn't diminish human choice or responsibility, but it locates them within a larger narrative where God's purposes ultimately prevail.",
+        "For believers today, Daniel 11 speaks to the anxiety we feel when current events seem chaotic or when evil appears to be winning. We live in moments when the future feels uncertain, when political powers shift unpredictably, when suffering touches our lives without warning. Daniel's testimony invites us to remember that God's knowledge is not merely academic—it is pastoral. He knows what is coming because He cares about His people within it.",
+        "The greatest comfort isn't that we can predict the future, but that we don't need to. Our God is neither caught off-guard nor powerless in any generation.",
+        "What situation in your life or in the world makes you doubt God's knowledge or control? How might trusting in His complete awareness reshape your response to uncertainty today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Daniel 11: Scholarly study",
+      "overview": [
+        "Daniel 11 constitutes one of the most detailed prophetic passages in the Hebrew Bible, presenting what scholars recognize as an extraordinarily precise account of Hellenistic history from the Persian period through the reign of Antiochus IV Epiphanes. The chapter forms the central portion of the extended revelation given to Daniel in chapters 10–12, delivered by an angelic messenger following Daniel's three-week fast beside the Tigris River. The passage's remarkable historical correspondence has generated significant scholarly debate regarding its compositional date, with critical scholars generally dating it to the Maccabean period (circa 167–164 BCE) while conservative interpreters maintain its sixth-century origin as genuine predictive prophecy.",
+        "The chapter opens with references to Persian kings before transitioning to Alexander the Great, designated as the \"mighty king\" whose empire would be divided toward the \"four winds of heaven\" (v. 4). The bulk of the chapter traces the conflicts between the Ptolemaic dynasty (\"king of the South\") and the Seleucid dynasty (\"king of the North\"), employing the Hebrew term *melek* (מֶלֶךְ) repeatedly to denote these royal antagonists. The detailed accounts of marriages, betrayals, and military campaigns in verses 5–20 correspond remarkably to documented Hellenistic history, including the marriage of Berenice to Antiochus II and the campaigns of Antiochus III.",
+        "Verses 21–35 focus extensively on a \"contemptible person\" widely identified as Antiochus IV Epiphanes, describing his desecration of the Jerusalem temple through the \"abomination that causes desolation\" (*shiqquts meshomem*, שִׁקּוּץ מְשֹׁמֵם)—terminology that later appears in Jesus's Olivet Discourse. The Hebrew *shiqquts* denotes an idolatrous abomination, while *meshomem* suggests desolating horror, together describing the altar to Zeus erected in 167 BCE.",
+        "Interpretive complexity intensifies in verses 36–45, where the text's correspondence to known history becomes less precise. Some scholars view this section as describing Antiochus's anticipated but unfulfilled end, while others discern a typological shift toward an eschatological figure. The passage's canonical function within apocalyptic literature establishes paradigmatic patterns of divine sovereignty over human empires, assuring faithful readers that earthly powers, however formidable, remain subject to divine determination and ultimate judgment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Daniel 11: Prophetic perspective",
+      "overview": [
+        "Daniel chapter eleven stands as one of the most remarkably detailed prophetic passages in all of Scripture, delivered to Daniel approximately 536 years before Christ during the Persian period, following the Babylonian exile. The prophet receives this vision in the third year of Cyrus, placing us in the era of restoration when Jews had begun returning to Jerusalem. Within the grand arc of redemption, this chapter bridges the exile and the intertestamental period, pointing forward through centuries of Gentile dominion toward the ultimate establishment of God's eternal kingdom.",
+        "The prophecy opens with precise predictions concerning Persia and Greece, foretelling the rise of a mighty king whose empire would be divided fourfold. History confirms the fulfillment through Alexander the Great's conquests and the subsequent partition among his generals. The extensive section detailing conflicts between the king of the North and the king of the South traces the Seleucid and Ptolemaic struggles over the land of Israel with extraordinary accuracy. Scholars recognize in verses 21 through 35 the unmistakable portrait of Antiochus IV Epiphanes, the Syrian tyrant who desecrated the temple in 167 BC, establishing the abomination that made desolate and triggering the Maccabean revolt.",
+        "Yet prophetic Scripture often exhibits a layered fulfillment, and Antiochus emerges as a type of the final Antichrist. The passage transitions mysteriously around verse 36 to describe a king who exalts himself above every god, speaking blasphemies against the God of gods. This willful king, honoring no deity but his own power, foreshadows the man of lawlessness whom Paul describes and the beast of Revelation. The pattern of temple desecration, persecution of the saints, and self-deification finds its ultimate expression in the end-times adversary.",
+        "The chapter reveals that God's covenant people will face refinement through tribulation, yet those who know their God shall stand firm and take action. The wise shall shine and lead many to righteousness, even as some fall to purify and refine them until the time of the end.",
+        "For the church living between the advents, Daniel eleven declares that history unfolds under sovereign direction. Every empire rises and falls according to divine decree. The faithful may suffer under beastly powers, but the appointed time remains fixed in heaven. The same God who fulfilled these prophecies with precision will complete all that remains, vindicating His people and establishing His everlasting dominion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "27_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.239+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

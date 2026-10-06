@@ -1,0 +1,55 @@
+{
+  "book": "Obadiah",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Obadiah 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Obadiah 1",
+      "overview": [
+        "The book of Obadiah speaks to one of the deepest wounds in the human heart—the sting of betrayal by those closest to us—and promises that God's justice will ultimately vindicate the broken and restore what has been lost.",
+        "Obadiah opens with a vision of God's word against Edom, a nation born from Esau, Jacob's own brother. This is not merely geopolitics; it is spiritual heartbreak. Edom's sin was not grand rebellion or idolatry, but something more cutting: standing aloof when their own relatives faced destruction, even gloating over Jerusalem's fall. They did nothing to help; worse, they stood with the enemies of God's people. In this ancient conflict lies a timeless pattern of human pain—when family turns away, when those who share our blood remain silent in our suffering, the wound cuts deepest.",
+        "What makes Obadiah's message so powerful is that God sees every act of indifference, every moment we fail to stand with the vulnerable. God promises that pride—Edam's exaltation in their secure mountain strongholds—will not shield anyone from accountability. The message is clear: we cannot hide from God's justice, and we cannot escape the consequences of choosing self-protection over compassion.",
+        "Yet beneath the judgment lies extraordinary comfort for God's people. When Obadiah declares that deliverers will arise on Mount Zion and the kingdom will belong to the Lord, he reminds us that God has not abandoned His people. Our pain is seen. Our losses matter to Him. The God who judges faithlessness is the same God who remembers our faithfulness and will restore what was stolen.",
+        "This matters for us today whenever we've experienced betrayal or silence from those who should have stood with us. We worship a God who witnesses everything and promises that ultimate justice and restoration belong to Him alone.",
+        "Where has indifference or betrayal wounded you, and how might you invite God's healing into that place?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Obadiah 1: Scholarly study",
+      "overview": [
+        "The prophecy of Obadiah opens with a superscription that establishes both the genre and divine origin of the oracle: \"The vision of Obadiah.\" The Hebrew term *ḥāzôn* (vision) designates prophetic revelation received through supernatural means, connecting this brief work to the broader prophetic tradition exemplified by Isaiah, Nahum, and Habakkuk, whose books similarly begin with this technical term. The prophet's name, *ʿŌḇaḏyāh* (\"servant of Yahweh\" or \"worshiper of Yahweh\"), was exceedingly common in ancient Israel, making precise identification impossible. Despite numerous attempts to connect this Obadiah with figures mentioned in 1 Kings 18 or various postexilic administrators, the text provides no biographical information, suggesting the focus should remain entirely on the divine message rather than its human mediator.",
+        "The verse proceeds to announce its subject matter—\"concerning Edom\"—before presenting a complex interplay of divine and human speech. The phrase \"Thus says the Lord GOD\" (*kōh ʾāmar ʾăḏōnāy yhwh*) employs the messenger formula characteristic of prophetic oracles, establishing Yahweh's sovereign authority over the pronouncement that follows. The subsequent report introduces a *šĕmûʿâ* (report or rumor), a term carrying diplomatic and military connotations, suggesting intelligence about impending action. This report has been heard \"from the LORD,\" yet simultaneously an envoy (*ṣîr*) has been dispatched among the nations summoning them to battle against Edom.",
+        "Scholars have long debated whether the prophetic voice merges with the divine perspective here or whether multiple speakers are distinguished. The parallel passage in Jeremiah 49:14–16 suggests both prophets drew upon common prophetic traditions concerning Edom's judgment, though questions of literary dependence remain contested. The nations summoned against Edom become unwitting instruments of divine judgment, a theological motif pervading the prophetic corpus wherein Yahweh orchestrates international affairs to accomplish covenant purposes. The verse thus establishes the theological framework for the entire book: Edom's fate is neither accidental nor merely the result of geopolitical forces, but rather the deliberate enactment of divine justice against a nation whose crimes against Israel, detailed in subsequent verses, demand recompense from the God who governs all peoples."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Obadiah 1: Prophetic perspective",
+      "overview": [
+        "Obadiah stands as the shortest book in the Old Testament, delivered approximately 586 years before Christ's birth, in the immediate aftermath of Jerusalem's destruction by Babylon. The prophet speaks during one of Israel's darkest hours—the exile—when Edom, the nation descended from Esau, celebrated Judah's catastrophe and participated in the plundering of their brother nation. This positions Obadiah squarely in the Exile phase of redemptive history, that devastating moment when the covenant curses of Deuteronomy fell upon a rebellious people, yet God's prophets simultaneously announced future restoration.",
+        "The ancient conflict between Jacob and Esau reaches its prophetic climax here. What began in Rebekah's womb as two nations struggling continues across centuries of hostility. Esau, who despised his birthright for a bowl of stew, becomes the typological ancestor of all who trade eternal inheritance for temporal satisfaction. Edom dwelling in the clefts of Sela, proud and self-secure in rocky fortresses, represents every heart that trusts in earthly strongholds rather than the living God. Their rhetorical question—\"Who will bring me down?\"—echoes the pride of Babel and anticipates every kingdom that exalts itself against the knowledge of God.",
+        "The prophecy unfolds in two movements: judgment upon Edom and deliverance for Zion. Edom's destruction was historically fulfilled when the Nabateans displaced them from Petra by the fourth century before Christ, and later when the Idumeans (descendants of Edom) disappeared entirely from history after Rome's destruction of Jerusalem in 70 AD. Herod the Great, an Idumean, represents Edom's final desperate grasp at Jacob's inheritance—and his slaughter of Bethlehem's infants reveals the serpentine hostility that always marked Esau's line toward the seed of promise.",
+        "Yet the greater fulfillment stretches toward the Day of the Lord. \"The kingdom shall be the LORD's\" points beyond any earthly restoration to Christ's universal reign. \"Deliverers shall go up to Mount Zion\" finds its ultimate realization in the apostolic mission and the ongoing work of gospel proclamation. The mountain of Esau—all opposing kingdoms—shall be judged when the true Heir of Jacob returns.",
+        "The church lives as the Israel of God, the inheritors of Jacob's blessing through Christ. Every Edom still rages—every system celebrating Zion's apparent defeat—yet the prophetic word stands certain. Pride precedes destruction, but the meek shall inherit the earth. The kingdom belongs to the Lord, and His deliverers continue ascending Zion's hill until He comes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "31_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.319258+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "book": "Nahum",
+  "bookIndex": 33,
+  "status": "Editorial draft",
+  "title": "An empire is not beyond judgment",
+  "subtitle": "The fall of Nineveh is heard from the world that Assyrian power has terrorized.",
+  "atAGlance": {
+    "genre": "Prophetic poetry, a divine-warrior hymn, and vivid siege imagery",
+    "setting": "The Assyrian empire and the approaching or remembered destruction of Nineveh",
+    "composition": "Usually associated with the seventh century BC and Nineveh’s fall in 612; precise stages of composition are uncertain",
+    "audience": "Judah and other communities living under the shadow of Assyrian power"
+  },
+  "sections": [
+    {
+      "title": "Hearing the poem from beneath an empire",
+      "paragraphs": [
+        "Nahum announces an oracle concerning Nineveh and identifies its prophet as an inhabitant of Elkosh, a place whose location is uncertain. Nineveh was a major Assyrian royal center. For smaller peoples, Assyria’s power meant conquest, tribute, deportation, and coercion. The fall of the city in 612 BC supplies the decisive historical horizon for the book’s announcement.",
+        "Chapter 3 recalls the fate of Thebes, or No-amon, which Assyria had taken in 663 BC. This comparison is one reason the core prophecy is commonly situated in the seventh century. Scholars differ over whether particular descriptions anticipate Nineveh’s fall or reflect knowledge of it, and over later shaping. The text does not permit a secure year for Nahum’s ministry or a full biography of its named prophet."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "The opening presents power under a higher authority",
+      "paragraphs": [
+        "Chapter 1 begins with a portrayal of God whose presence unsettles sea, mountains, and earth. The imagery enlarges the scene beyond the apparently immovable scale of an empire. The power able to shake creation is not intimidated by an imperial city. That is the setting for the book’s insistence that wrongdoing will not simply be overlooked.",
+        "The same opening also describes God as a refuge for those in distress. Judgment and protection are related perspectives within the poem. What threatens an oppressor may be heard as release by those it has harmed. Keeping both statements in view prevents the opening from being reduced either to abstract rage or to a comforting line disconnected from the violence that makes refuge necessary."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Changing addressees, changing fortunes",
+      "paragraphs": [
+        "The first chapter moves among addresses connected with the enemy and with Judah. These shifts can be difficult to follow in translation. They nevertheless establish the central reversal: a burden that seemed permanent will be broken, and the power that imposed it will not have the last word. For Judah, the prospect includes renewed worship and the fulfillment of vows.",
+        "The good news of peace is therefore concrete. It concerns the end of an oppressive yoke, not only an inward feeling. Nahum’s horizon is the experience of people who have lived with the threat of imperial intervention. At the same time, a reader should resist treating every contemporary conflict as a replay of this one. The poem addresses a named ancient empire and its particular record of domination."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The siege is made visible and audible",
+      "paragraphs": [
+        "Chapter 2 portrays movement, color, speed, alarm, and plunder. The city appears unable to control the scene. The rapid succession of images makes collapse feel immediate, whether read as anticipatory vision or poetic representation of an event. A once-threatening power becomes the place where fear and confusion gather.",
+        "The lion imagery concentrates the reversal. A predator that had accumulated prey and filled its den is itself exposed. The point is not a zoological riddle but a judgment on predatory rule. Wealth and magnificence are reconsidered in light of how they were obtained. The poem’s artistry forces the audience to see the imperial center from the perspective of the people whose labor and losses supported its abundance."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The cost of conquest cannot disappear",
+      "paragraphs": [
+        "Chapter 3 identifies the city with bloodshed, deceit, and plunder. The accusation connects its reputation and riches with the violence beneath them. The comparison with Thebes asks why Nineveh should imagine itself exempt from a fate it has helped impose on others. Geography, allies, and military preparations do not make any power invulnerable.",
+        "The chapter also uses images of sexual humiliation and public exposure. These are severe features of ancient war rhetoric, and they should be acknowledged as such rather than recommended as ways to speak about or treat actual people. Reading the book ethically includes hearing the anger of the oppressed without reproducing every violent metaphor in one’s own conduct. The oracle witnesses against domination; it is not a general permission slip for cruelty."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "What the final question leaves with readers",
+      "paragraphs": [
+        "The ending imagines relief among those who hear of Nineveh’s collapse and asks who has not experienced its persistent wickedness. There is no extended restoration scene for the city. The emphasis falls on the reach of its harm and the end of its claim to permanence. The poem makes room for a perspective that imperial self-presentation usually suppresses.",
+        "Placed alongside Jonah, another book involving Nineveh, Nahum invites a broader canonical conversation about mercy, repentance, judgment, and the victims of violence. The two works should not be collapsed into a single date or interchangeable message. Read Nahum’s three chapters as a sustained challenge to the belief that overwhelming power is self-justifying. Its unsettling poetry insists that what an empire does to others remains morally significant even when that empire appears unchallengeable."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Divine power and a broken yoke",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "The opening joins judgment on the oppressor with refuge for the afflicted."
+    },
+    {
+      "label": "Nineveh’s defenses fail",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Siege imagery reverses the fortunes of the predatory city."
+    },
+    {
+      "label": "The violent city held accountable",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Accusation and comparison expose the fragility of imperial confidence."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Accountability of power",
+      "description": "Military success does not settle whether an empire’s conduct is just."
+    },
+    {
+      "name": "Refuge",
+      "description": "The end of oppression is heard as good news by those who endured it."
+    },
+    {
+      "name": "Memory of victims",
+      "description": "The city’s wealth and reputation are measured against the reach of its violence."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Seventh century BC; Nineveh falls in 612",
+    "context": "Judah in the shadow of the Assyrian empire",
+    "note": "The historical horizon is clearer than the exact date of the poem or whether each scene precedes or follows the fall."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "divided-kingdom",
+      "label": "Judah in the shadow of the Assyrian empire",
+      "dateLabel": "Seventh century BC; Nineveh falls in 612",
+      "note": "The historical horizon is clearer than the exact date of the poem or whether each scene precedes or follows the fall."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Nahum, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Nahum",
+      "url": "https://bible.usccb.org/bible/nahum/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 18",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-18"
+    }
+  ]
+}

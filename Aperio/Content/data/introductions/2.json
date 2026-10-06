@@ -1,0 +1,146 @@
+{
+  "book": "Leviticus",
+  "bookIndex": 2,
+  "status": "Editorial draft",
+  "title": "Learning to Live Near a Holy God",
+  "subtitle": "Worship, bodies, work, and the care of a covenant community",
+  "atAGlance": {
+    "genre": "Priestly instruction, ritual law, ethical teaching, and brief narratives",
+    "setting": "Israel camped at Sinai, with the tabernacle established",
+    "composition": "Traditionally connected with Moses; priestly transmission and the book’s formation are debated",
+    "audience": "Israel’s priests and households, learning the practices of covenant life"
+  },
+  "sections": [
+    {
+      "title": "The question behind the details",
+      "paragraphs": [
+        "Leviticus begins where Exodus leaves us: God has taken up His dwelling among Israel. The next question is how a community can live in that presence. Offerings, purity instructions, festivals, and economic obligations all belong to the answer. The book assumes that worship involves bodies, food, time, property, and relationships. Nothing in ordinary life is too small to matter to a holy God.",
+        "That setting helps when the instructions feel unfamiliar. Read for the relationships being ordered: between worshiper and God, priest and community, neighbor and neighbor, Israel and its land. The book speaks from an ancient sacrificial world. Its practices require historical and literary attention before they can be brought into a modern discussion. Patient reading reveals a more connected vision than a collection of isolated restrictions."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Offerings and the responsibility of priests",
+      "paragraphs": [
+        "The opening chapters distinguish several kinds of offerings. Some address wrongdoing and repair; others express thanksgiving, dedication, or fellowship. Sacrifice therefore cannot be reduced to a single meaning. Instructions about portions, preparation, and who may eat communicate that worship is an ordered relationship, shared by people whose responsibilities differ. Where another person has been wronged, restitution can accompany the offering.",
+        "Aaron and his sons are then ordained. Their ministry is public and accountable, and the deaths of Nadab and Abihu give the narrative a sobering turn. Leviticus does not treat access to holy things as personal entitlement. Priests must learn to distinguish, teach, and serve with care. Their role exists for the community’s relationship with God, rather than as permission to place themselves above responsibility."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Purity, atonement, and a restored community",
+      "paragraphs": [
+        "The purity instructions include childbirth, bodily discharges, skin conditions, and affected houses. Ritual impurity is not simply another name for moral guilt: several of these conditions arise through ordinary bodily life. The text makes distinctions that modern readers should preserve. It also describes ways for people to return to communal and sanctuary participation. Avoid assuming that every ancient category corresponds neatly to a modern medical diagnosis.",
+        "Chapter 16 gathers the concern for cleansing and atonement into an annual rite involving the sanctuary and the people. Its placement helps explain the book’s larger movement. Life near God requires an answer to the contamination and wrongdoing that accumulate within a community. This is a shared concern, not merely the private spiritual experience of isolated individuals."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Holiness in the field and at the table",
+      "paragraphs": [
+        "The later chapters connect holiness with concrete conduct. Harvesters must leave provision for the poor and the foreign resident. Employers must not withhold wages. Courts must resist partiality. Neighbors must not use another person’s vulnerability for advantage. Commands about worship stand alongside commands concerning speech, sexuality, family, and justice. Leviticus 19 presses love of neighbor into a network of ordinary obligations.",
+        "The calendar and the land laws extend that vision across time. Sabbath, festivals, and the Jubilee provisions interrupt the assumption that work and accumulation can proceed without limits. The land belongs to God, and Israel’s life upon it carries obligations toward those who fall into poverty. The closing warnings make the covenant’s stakes explicit, while provisions concerning vows return attention to the seriousness of commitments made before God."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading from Sinai and beyond it",
+      "paragraphs": [
+        "The book presents its instructions within Moses’s Sinai ministry. Its composition is a different question: traditional attribution to Moses stands alongside scholarly study of priestly preservation and development. A precise modern date for every legal collection would exceed the evidence. The timeline therefore locates the narrated setting at Sinai.",
+        "Christian readers will find extensive later reflection on sacrifice and priesthood in Hebrews. Those connections become clearer when Leviticus is first allowed to describe its own world. Begin with its central concern: a rescued people learning to honor God through both worship and conduct. Holiness here reaches the sanctuary, but it also reaches the worker waiting for wages and the neighbor gathering food at the edge of a field."
+      ],
+      "sourceIds": [
+        "text",
+        "intro",
+        "torah"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Offerings",
+      "startChapter": 1,
+      "endChapter": 7,
+      "description": "Distinct offerings organize dedication, fellowship, cleansing, and the repair of wrongdoing."
+    },
+    {
+      "label": "Priests commissioned",
+      "startChapter": 8,
+      "endChapter": 10,
+      "description": "Ordination, inaugural worship, and a grave failure establish the responsibilities of priestly service."
+    },
+    {
+      "label": "Purity and atonement",
+      "startChapter": 11,
+      "endChapter": 16,
+      "description": "Instructions distinguish conditions of purity and culminate in the annual Day of Atonement."
+    },
+    {
+      "label": "Holy community life",
+      "startChapter": 17,
+      "endChapter": 26,
+      "description": "Worship, ethics, festivals, land, and covenant consequences are brought together."
+    },
+    {
+      "label": "Vows and dedicated gifts",
+      "startChapter": 27,
+      "endChapter": 27,
+      "description": "The closing instructions address property and commitments dedicated to God."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Holiness",
+      "description": "Belonging to God shapes conduct throughout the community."
+    },
+    {
+      "name": "Restoration",
+      "description": "Offerings and purification provide ordered ways to address rupture and return."
+    },
+    {
+      "name": "Neighborly justice",
+      "description": "The poor, workers, and foreign residents belong within the reach of covenant responsibility."
+    }
+  ],
+  "timeline": {
+    "era": "exodus",
+    "dateLabel": "At Sinai, after the tabernacle’s completion",
+    "context": "The people learn the practices of life around God’s dwelling.",
+    "note": "This marks the narrative setting, not a settled date for the composition of every law."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 27,
+      "era": "exodus",
+      "label": "Holiness at Sinai",
+      "dateLabel": "The Sinai encampment",
+      "note": "The book’s teaching is placed within Moses’s ministry before departure from Sinai."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Leviticus · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Leviticus",
+      "url": "https://bible.usccb.org/bible/leviticus/0"
+    },
+    {
+      "id": "torah",
+      "label": "Pentateuch · authorship and composition traditions",
+      "url": "https://bible.usccb.org/bible/thepentateuch/0"
+    }
+  ]
+}

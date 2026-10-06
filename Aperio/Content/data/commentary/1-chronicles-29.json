@@ -1,0 +1,55 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Chronicles 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A Devotional on 1 Chronicles 29",
+      "overview": [
+        "This chapter captures the most vulnerable and generous moment in King David's life—a man at the threshold of legacy, giving everything away and inviting others to do the same. It reveals the deepest truth about worship: that our most authentic offering to God comes when we surrender not just our wealth, but our control over it.",
+        "David stands before the assembly and makes a stunning confession. Everything he has gathered—the gold, silver, bronze, iron, and precious stones destined for the temple—comes from God's hand. He possessed nothing independent of divine grace. More remarkably, he has determined to give it all for the building of God's house, and he invites the people to join him in this sacrifice. What follows is a spontaneous outpouring of generosity that moves him to tears. The people give joyfully, David rejoices, and together they experience something transcendent: a moment when human generosity becomes an act of corporate worship.",
+        "This invitation to give resonates deeply with the human heart because it transforms sacrifice into celebration. David doesn't shame people into giving or demand reluctant compliance. He models transparent joy in surrender, and others respond because they recognize something beautiful happening—a community choosing to build something greater than themselves.",
+        "In our own lives, we face countless opportunities to tighten our grip or open our hands. We protect what we've earned, what we've built, what we fear losing. Yet David's example whispers a gentle truth: everything we hold belongs to God already. The peace that passes understanding comes not from accumulation but from alignment with God's purposes. When we release our death-grip on security and join something transcendent, we discover the liberation only surrender brings.",
+        "What might change in your life if you truly believed that everything you have belongs to God? Where is the Spirit inviting you to open your hands and trust Him with your future?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Chronicles 29: Scholarly study",
+      "overview": [
+        "The concluding chapter of 1 Chronicles represents the theological and literary climax of the Chronicler's extended treatment of David's reign, presenting an idealized portrait of royal succession and cultic preparation that stands in marked contrast to the contested transition depicted in 1 Kings 1–2. Writing in the post-exilic period, likely during the late fifth or fourth century BCE, the Chronicler crafts this narrative to address a community without monarchy, redirecting covenantal hopes toward the temple and proper worship. The chapter divides naturally into David's final address concerning temple preparations and offerings (vv. 1–9), the people's generous response (vv. 10–19), the public coronation of Solomon (vv. 20–25), and a summary of David's reign (vv. 26–30).",
+        "David's prayer in verses 10–19 constitutes one of the most theologically dense passages in Chronicles, employing the divine name YHWH combined with the patriarchal identification \"God of Israel our father\" to emphasize covenantal continuity. The term \"greatness\" (gědullâ) appears alongside other royal attributes—power, glory, victory, and majesty—forming a doxological catalog that acknowledges YHWH's universal sovereignty. Particularly significant is the vocabulary of \"freewill offering\" (nědābâ) in verses 6–9 and 14–17, emphasizing the voluntary, wholehearted nature of giving that the Chronicler consistently valorizes.",
+        "The confession that Israel dwells as \"strangers and sojourners\" (gērîm wětôšābîm) before God echoes Leviticus 25:23 and Psalm 39:12, establishing a theology of stewardship wherein all wealth ultimately belongs to YHWH. This theological framework proved essential for the post-exilic community's self-understanding. The Hebrew term for \"integrity\" or \"uprightness\" (yōšer) in verse 17 connects moral character to acceptable worship, a persistent Chronistic theme.",
+        "Solomon's second anointing (v. 22) has generated scholarly discussion, with some viewing it as the Chronicler's harmonization with earlier traditions and others interpreting it as distinguishing private from public coronation ceremonies. The chapter's concluding regnal formula, with its unprecedented reference to foreign source documents, demonstrates the Chronicler's historiographical methodology while emphasizing David's international reputation—a legacy now invested entirely in the temple that Solomon would construct."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Chronicles 29: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 970 years before the birth of Christ, at the twilight of David's reign, as Israel's greatest king prepares to transfer the throne to Solomon. Within the grand arc of redemption, we stand at the zenith of the Davidic kingdom—that pivotal era between the Exodus deliverance and the eventual exile, when God established through David an everlasting covenant that would find its ultimate fulfillment in great David's greater Son.",
+        "David's final public act centers not on military conquest but on worship—specifically, the lavish preparation of materials for the temple his son would build. Here the aging warrior-poet models what it means to give extravagantly from a willing heart, offering his personal treasury of gold and silver beyond what duty required. The response of Israel's leaders mirrors his generosity, and together they pour out wealth with joy, understanding that all they possess first flowed from God's open hand. David's prayer crystallizes this truth: \"All things come from You, and of Your own we have given You.\"",
+        "The typological weight of this chapter is profound. David, though prevented from building the temple himself, gathers every resource Solomon will need—just as the Father prepared everything necessary for Christ to accomplish His redemptive work. David's willing-hearted offering foreshadows the Son who would give not silver and gold but His own body as the temple that would be destroyed and raised in three days. The congregation's united generosity prefigures the Spirit-filled church at Pentecost, where believers held nothing back but shared all things in common for the building of Christ's spiritual house.",
+        "David's declaration that human life is but a shadow upon the earth, that we are strangers and sojourners before God, echoes through the ages to the church in her pilgrim state. We too dwell in the already-and-not-yet, possessing citizenship in heaven while laboring faithfully on earth. The prayer's confession—\"all this abundance comes from Your hand\"—remains the proper posture for every generation of God's people.",
+        "This chapter points forward to the throne Solomon would occupy, itself a shadow of the throne Christ now occupies at the Father's right hand. The kingdom transferred that day in Jerusalem was glorious yet temporary; the kingdom inaugurated at Christ's resurrection endures forever. Until He returns to consummate that reign, the church is called to David's spirit of joyful generosity, building not with perishable stones but with living ones, offering not earthly treasure but ourselves as living sacrifices upon the altar of the eternal temple."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "13_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.757172+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

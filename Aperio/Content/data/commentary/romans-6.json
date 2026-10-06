@@ -1,0 +1,56 @@
+{
+  "book": "Romans",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 6: Dead to Sin, Alive in Christ",
+      "overview": [
+        "The spiritual heart of Romans 6 is liberation—Paul teaches that through union with Christ's death and resurrection, believers are no longer enslaved to sin's dominion but are now alive to God and free to serve righteousness.",
+        "Paul opens with a surprising question: \"Shall we go on sinning so that grace may increase?\" The apostle's answer is a resounding no, and his reasoning cuts to the core of Christian identity. Those who have been baptized into Christ have been baptized into His death. This is not merely symbolic sentiment but a radical claim about participation—we have died with Christ and therefore our old selves no longer rule us. Sin no longer has legal claim on us because we have entered into Christ's victorious resurrection.",
+        "What makes this passage so powerful is Paul's insistence that this is not just positional truth to believe intellectually but a reality to be lived out. We are to \"count ourselves dead to sin but alive to God in Christ Jesus.\" The word \"count\" suggests deliberate reckoning, a conscious choice to agree with what God has already accomplished. This is how transformation happens—not through willpower alone, but through aligning our self-perception with our new identity in Christ.",
+        "The passage addresses a deeply human struggle: our lingering attachments to destructive patterns. Even after encountering Christ's grace, believers often live as though they still belong to their old master. Paul's remedy is refreshingly simple yet profoundly challenging—remember who you are now. You have been transferred from one kingdom to another, from slavery to freedom, from death to life.",
+        "The call that echoes through this chapter is to offer ourselves and our members as instruments of righteousness. This is not joyless obligation but grateful response to the One who has already freed us from sin's tyranny.",
+        "How does viewing yourself as truly dead to sin and alive to God reshape the way you approach the particular temptations or habits that still whisper to you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 6: Scholarly study",
+      "overview": [
+        "Romans 6 represents a pivotal transition in Paul's theological argument, where the apostle moves from his exposition of justification by faith to address the ethical implications of grace. Writing from Corinth around 57 CE to a congregation he had not yet visited, Paul anticipates and refutes the antinomian objection that his radical gospel of grace might encourage moral license. The rhetorical question opening the chapter—\"Shall we continue in sin that grace may abound?\"—functions as a diatribal device common in Greco-Roman philosophical discourse, allowing Paul to engage an imaginary interlocutor.",
+        "Central to Paul's response is the concept of baptismal union with Christ, expressed through the Greek term *synetaphēmen* (\"we were buried together with\"), which emphasizes the participatory nature of Christian identity. Believers have been incorporated into Christ's death and resurrection, creating an ontological break with the former existence under sin's dominion. The phrase *palaios anthrōpos* (\"old self\" or \"old man\") denotes not merely past behaviors but the entire Adamic mode of existence discussed in chapter 5, now rendered inoperative through crucifixion with Christ.",
+        "Paul's imperative that sin should not *basileuetō* (\"reign\" or \"exercise kingly rule\") employs political metaphor to depict sin as a tyrannical sovereign demanding absolute allegiance. This language connects to the broader Pauline theme of competing lordships—believers have transferred citizenship from the kingdom of sin and death to the dominion of righteousness and life. The chapter's conclusion presents the starkest contrast: the \"wages\" (*opsōnia*, a military term for soldier's pay) of sin is death, while eternal life comes as a \"gift\" (*charisma*), emphasizing the asymmetry between earned condemnation and gracious salvation.",
+        "Interpreters have debated whether Paul's indicatives (what God has accomplished) or imperatives (what believers must do) take logical priority. Lutheran readings have traditionally emphasized the indicative as foundational, while Reformed interpreters often stress the necessary outworking of sanctification. The text itself holds both in dynamic tension—the reality of union with Christ necessarily produces transformed conduct. Romans 6 thus establishes that authentic grace, far from promoting libertinism, actually liberates believers for genuine righteousness, anticipating the fuller development of life in the Spirit elaborated in chapter 8."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 6: Prophetic perspective",
+      "overview": [
+        "Romans 6 emerges from the pen of the apostle Paul around AD 57, written from Corinth during his third missionary journey, approximately twenty-five years after the resurrection and ascension of Christ. This places the letter squarely within the early church age, that pivotal era between Pentecost and the Lord's return when the Spirit-empowered community lives as the firstfruits of the new creation while still inhabiting mortal flesh. The great redemptive events—the incarnation, crucifixion, and resurrection—stand as accomplished facts in recent memory, and Paul writes to a church he has never visited, laying out the most systematic exposition of the gospel found anywhere in Scripture.",
+        "Within the grand arc of redemption, Romans 6 occupies the territory of application following justification. Having declared in chapter 5 that where sin increased, grace abounded all the more, Paul now anticipates the objection that such lavish grace might license continued sinning. His answer thunders across the centuries with eschatological force: those united to Christ have died to sin and been raised to walk in newness of life. Here the believer's biography is rewritten according to Christ's own death and resurrection, events that serve not merely as historical occurrences but as participatory realities into which the baptized are plunged.",
+        "The typological richness cannot be missed. Just as Israel passed through the Red Sea, leaving Egyptian bondage behind and emerging as a liberated people, so the believer descends into baptismal waters, buried with Christ, and rises to freedom from sin's tyrannical dominion. The Exodus pattern finds its ultimate antitype here—not mere geographical deliverance but ontological transformation. The \"old self\" crucified with Christ echoes Adam's condemnation, while the \"newness of life\" anticipates the resurrection body yet to come. Believers inhabit an already-not-yet tension: already dead to sin's reign, not yet freed from sin's presence; already raised in Christ, not yet raised in glorified flesh.",
+        "Paul's exhortation to present bodily members as instruments of righteousness rather than unrighteousness reveals that the eschatological battle between the ages occurs precisely in human bodies. The coming kingdom invades the present through sanctified living. Sin shall not have dominion because believers stand under grace, not law—the new covenant reality promised through Jeremiah and Ezekiel now operative.",
+        "For the church awaiting Christ's return, Romans 6 declares that union with the risen Lord transforms ethical possibility. The resurrection was not merely Christ's private victory but the fountainhead of new humanity's liberation, empowering holy living until He appears and mortality is swallowed by immortality forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.747954+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

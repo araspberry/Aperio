@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 139,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 139 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 139: Known and Loved Beyond Measure",
+      "overview": [
+        "The deepest spiritual truth of Psalm 139 is strikingly simple yet transformative: God knows you completely and loves you still. This psalm unveils the radical reality that our Creator has exhaustive knowledge of our inner worlds—our thoughts before they form, our words before they're spoken, our movements before we take them. Rather than this omniscience feeling invasive or condemning, the psalmist celebrates it as the foundation of being deeply cherished.",
+        "In our fragmented modern existence, we work hard to curate our image. We present carefully edited versions of ourselves to different audiences, always aware that full disclosure might mean rejection. Yet Psalm 139 invites us into a startling freedom: the God who matters most already knows everything about us. He knows when we sit and when we rise, when we're anxious about the presentation at work or wrestling with shame in the quiet of night. He traces our comings and goings as intimately as a parent learning their newborn's rhythms.",
+        "The psalmist responds to this penetrating knowledge not with fear but with wonder: \"Such knowledge is too wonderful for me\" (verse 6). This is the voice of someone encountering grace. When we truly grasp that we're fully known and fully accepted, the anxiety that drives our self-protection begins to release. We can be honest with ourselves, with God, and eventually with others. We can grieve losses, confess failures, and admit our deep longings without rehearsing a sanitized version.",
+        "The psalm concludes with an invitation: \"Search me, God, and know my heart\" (verse 23). This is active cooperation with divine love—asking God not just to observe us but to search the hidden places where we hide from ourselves and others, to illuminate where our desires have gone askew, and to refine us toward wholeness.",
+        "What would it mean for you to stop hiding from the God who already sees you completely?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 139: Scholarly study",
+      "overview": [
+        "Psalm 139 stands as one of the most theologically profound compositions in the Psalter, attributed to David according to its superscription and addressed to the choirmaster. This wisdom-infused hymn belongs to the final book of the Psalter and exhibits characteristics of both individual lament and contemplative meditation. The psalm's sophisticated theological reflection on divine omniscience, omnipresence, and creative sovereignty suggests either a late monarchic or possibly post-exilic context, though the Davidic attribution remains a matter of scholarly debate.",
+        "The opening verb *ḥāqar* (חָקַר), meaning \"to search out\" or \"to examine thoroughly,\" establishes the psalm's central concern with God's exhaustive knowledge of human existence. This term, drawn from mining and exploratory contexts, conveys the thoroughness of divine investigation into every dimension of human life—sitting, rising, thoughts, and words before they reach the tongue. The psalmist's declaration that such knowledge is *pelî'āh* (פְּלִיאָה), \"too wonderful\" or \"incomprehensible,\" reflects genuine theological humility rather than anxiety, though the density of divine presence initially creates rhetorical tension.",
+        "The celebrated meditation on human formation in verses 13–16 employs the verb *qānāh* (קָנָה), which can mean either \"to create\" or \"to acquire,\" connecting this passage to wisdom traditions found in Proverbs 8. The imagery of being \"knit together\" (*sākak*) in the mother's womb and fashioned in \"the depths of the earth\" draws upon ancient Near Eastern cosmological imagery while affirming the intimate, artisanal character of divine creative activity. The reference to God's book containing unformed days raises complex questions about divine foreknowledge and human contingency that interpreters have long debated.",
+        "The psalm's imprecatory conclusion in verses 19–22 strikes many modern readers as discordant with the preceding meditation, yet within the psalm's logic, hatred of the wicked represents alignment with divine purposes rather than personal vengeance. The concluding petition for divine examination (*ḥāqar*) in verse 23 forms an inclusio with the opening, transforming the psalmist from observed subject to willing participant in divine scrutiny. This movement from recognition of inescapable divine presence to embrace of that presence constitutes the psalm's profound spiritual trajectory, inviting readers into similar surrender before the God from whom no thought remains hidden."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 139: Prophetic perspective",
+      "overview": [
+        "Psalm 139 emerges from the pen of David, Israel's shepherd-king, composed approximately one thousand years before the incarnation of Christ. This places the psalm firmly within the era of the united monarchy, after God had established His covenant with David promising an eternal throne, yet centuries before the Babylonian exile would temporarily shatter the visible expression of that kingdom. Within redemptive history, we stand at the height of Israel's golden age, when the temple plans were being drawn and the messianic hope was crystallizing around David's house.",
+        "David's meditation on divine omniscience, omnipresence, and omnipotence reveals the God who will ultimately accomplish salvation through intimate knowledge of His people. When David declares that the Lord knew him in his mother's womb, he speaks a truth that finds its supreme fulfillment in the incarnation itself. The eternal Son, who searches and knows all hearts, submitted Himself to be fearfully and wonderfully made in the womb of Mary. The One who formed David in secret was Himself formed in secret, knitting together divine and human natures in the mystery of the virgin's conception.",
+        "The inescapable presence David describes—in the heights of heaven, the depths of Sheol, the wings of the morning, the uttermost parts of the sea—prophetically anticipates the One who descended into the lowest parts of the earth and ascended far above all heavens that He might fill all things. Christ's resurrection and ascension fulfill what David could only glimpse: there is nowhere in creation or beyond where God's redemptive hand cannot reach His own.",
+        "David's cry against the wicked who speak against God with malicious intent points forward to the ultimate judgment when Christ returns to make His enemies a footstool. The imprecatory elements find their resolution not in David's sword but in the final separation of sheep and goats, wheat and tares.",
+        "The psalm's closing prayer—\"Search me, O God, and know my heart; try me and know my anxious thoughts\"—becomes the perpetual posture of the church between the advents. We who have been known before the foundation of the world, chosen in Christ, and sealed by the Spirit, now invite the sanctifying examination of our covenant God. The One who numbers our days in His book has written our names in the Lamb's Book of Life. Until He leads us in the everlasting way—that final road into the New Jerusalem—we rest in the knowledge that darkness and light are alike to Him who holds us eternally."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_139",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.527725+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

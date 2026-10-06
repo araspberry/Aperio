@@ -1,0 +1,56 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Corinthians 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Corinthians 7: The Courage to Love and Be Loved",
+      "overview": [
+        "When Paul writes to the Corinthian church, he is not a distant authority figure but a pastor who has wept over his flock. This entire chapter reveals the deep soul-work that happens when we learn to love boldly, speak truthfully, and trust God's redemptive purpose in our relationships.",
+        "Paul opens by reminding the Corinthians that their separation from idolatry is inseparable from their closeness to God. This is not about perfectionism but about the natural overflow of intimacy with the Father. When we belong to God, our desires realign. But belonging to God also means belonging to God's people, and Paul vulnerably shares his own emotional journey: he had sent them a difficult letter and worried about their response. He admits to fear. He admits to sleepless nights. This is the pastor's heart—not ashamed to feel deeply, not afraid to show that correction given in love can cost the giver something.",
+        "What emerges through his anxiety is profound joy. Titus arrives with news that the Corinthians responded with repentance and genuine sorrow—not the worldly sorrow that breeds death, but the godly sorrow that produces life. Paul explains the difference with striking clarity: worldly sorrow is self-focused, leading to shame and despair, while godly sorrow is God-focused, leading to repentance and restoration. The Corinthians didn't just feel bad; they changed direction.",
+        "This passage invites us into honest examination: What kind of sorrow marks our spiritual lives? When we stumble, do we hide in shame or run toward the God who grieves with us but never gives up on us? Paul's relief and delight in their response shows something beautiful—that community built on truth and redemption is worth every vulnerable moment. The church is not a museum for the perfect but a fellowship of those brave enough to change, supported by others who believe in that change.",
+        "What would shift in your relationships if you believed that loving correction ultimately builds intimacy rather than destroys it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Corinthians 7: Scholarly study",
+      "overview": [
+        "Second Corinthians chapter seven represents a pivotal transition in Paul's correspondence with the Corinthian congregation, moving from theological exhortation to deeply personal reflection on the restoration of his relationship with this troubled community. Written likely from Macedonia around 55-57 CE, this chapter follows the emotionally charged \"severe letter\" that Paul had dispatched earlier, and it reveals the apostle's profound relief upon receiving favorable news from Titus regarding the Corinthians' response to his pastoral correction.",
+        "The chapter opens with Paul urging the community toward holiness, employing the term \"katharisōmen\" (καθαρίσωμεν), meaning \"let us cleanse ourselves,\" which carries cultic connotations of ritual purification now applied to moral and spiritual transformation. This imperative connects to the preceding temple imagery of 6:16-18, establishing believers as the dwelling place of God who must therefore pursue comprehensive sanctification of both flesh and spirit. Paul's language here demonstrates his Jewish heritage while reframing purity concepts within the new covenant framework.",
+        "Central to this chapter is Paul's discussion of godly sorrow versus worldly sorrow, introducing the significant term \"metanoian\" (μετάνοιαν), denoting repentance as a fundamental reorientation of mind and life direction. Paul distinguishes between \"lupē kata theon\" (grief according to God), which produces salvific repentance, and worldly grief that leads to death—a distinction that has profoundly shaped Christian pastoral theology and the understanding of genuine contrition.",
+        "The chapter reaches its emotional apex in Paul's account of meeting Titus in Macedonia, where the term \"paraklēsis\" (παράκλησις)—comfort or encouragement—appears repeatedly, emphasizing the consolation Paul experienced upon learning of the Corinthians' earnest response. Scholars have debated whether this \"severe letter\" is lost or partially preserved in chapters 10-13, though the literary unity of Second Corinthians remains contested.",
+        "Theologically, this passage illustrates the pastoral dimension of apostolic authority, demonstrating that Paul's corrections aimed not at domination but at the community's spiritual welfare. The chapter beautifully portrays the reciprocal nature of Christian fellowship, where mutual encouragement flows between apostle and congregation, and where authentic repentance restores broken relationships within the body of Christ."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Corinthians 7: Prophetic perspective",
+      "overview": [
+        "This letter was penned approximately twenty-five years after the resurrection and ascension of Christ, during Paul's third missionary journey around AD 55-56. The apostle writes from Macedonia to the church at Corinth, a congregation he had founded some five years earlier and with whom he had experienced both profound spiritual partnership and painful relational rupture. This chapter arrives at a crucial moment in the relationship between apostle and church, following a severe letter Paul had sent that caused the Corinthians deep grief. Within the grand arc of redemption, we stand firmly in the Church Age—that mysterious epoch between Pentecost and Parousia when the Spirit gathers a people from every nation, conforming them to the image of Christ through suffering, repentance, and sanctification.",
+        "Paul opens by summoning the Corinthians to complete their holiness, cleansing themselves from every defilement of flesh and spirit. Here the prophetic pattern of temple purification finds its new covenant fulfillment. What the priests of old performed with water and blood in the tabernacle, believers now accomplish through the indwelling Spirit. The church herself has become the dwelling place of God, and as such, she must maintain the holiness befitting that sacred identity. This echoes the ancient call through Ezekiel and Isaiah—that God's people would be purified and set apart for His glory.",
+        "The distinction Paul draws between godly sorrow and worldly sorrow carries immense prophetic weight. Worldly sorrow produces death, recalling Adam's fall and the curse that followed humanity's first disobedience. But godly sorrow works repentance unto salvation—a reversal of the curse, a participation in resurrection life even now. This is the fruit of new covenant transformation promised through Jeremiah: hearts of stone becoming hearts of flesh, capable of genuine contrition that leads to life.",
+        "Titus emerges as a type of the faithful messenger, carrying word between the apostle and the church, bringing comfort through his testimony of the Corinthians' longing, mourning, and zeal. In this we glimpse the Spirit's own ministry—the divine Comforter who mediates between the ascended Christ and His earthly people, carrying intercession heavenward and consolation below.",
+        "For the church awaiting Christ's return, this chapter teaches that godly grief is never wasted. The pain of conviction, the sting of discipline, the sorrow of sanctification—all serve the Father's purpose of presenting a spotless bride to His Son. We grieve now, but our mourning leads to unshakeable joy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "47_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.830351+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

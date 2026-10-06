@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 40,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 40 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 40: The God Who Rescues and Restores",
+      "overview": [
+        "Psalm 40 captures the profound journey from desperation to deliverance, inviting us into the deeper truth that our rescue by God transforms not merely our circumstances but our very purpose. The psalmist moves from crying out in distress to declaring that his life has been completely reoriented around worship and obedience to the God who saved him.",
+        "The opening image is vivid and relatable: waiting patiently, sinking in mire, calling to the Lord. Many of us know this territory intimately—those seasons when we feel stuck, helpless, unable to save ourselves. Yet into this darkness comes an astounding rescue. God hears, lifts the psalmist out of the pit, and sets his feet upon a rock. This is not merely a physical rescue; it is spiritual restoration that resets the entire trajectory of a life. The psalmist's response reveals what genuine deliverance produces: a new song of praise and a deepened reverence before God.",
+        "What makes Psalm 40 particularly rich is that the psalmist doesn't simply rejoice in personal relief. Instead, he recognizes that his rescue has meaning beyond himself. He speaks of declaring God's righteousness and faithfulness to the great assembly. Our own deliverances are never meant to be private treasures kept to ourselves; they become testimonies that strengthen faith in the community around us.",
+        "The second half shifts toward a commitment to obedience and trust, even as the psalmist acknowledges his own weakness and the persistence of enemies. There's realism here—faith doesn't eliminate struggle, but it relocates our confidence. The closing verses express vulnerability: troubles surround us, and we're conscious of our shortcomings. Yet the prayer remains: \"O Lord, do not withhold your mercy from me.\"",
+        "This is the maturity Psalm 40 models: not the denial of difficulty, but the stubborn commitment to trust in God's character even when circumstances remain challenging.",
+        "What rescue in your life deserves to be remembered and retold, not for self-promotion but as testimony to God's faithfulness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 40: Scholarly study",
+      "overview": [
+        "Psalm 40 presents a sophisticated theological composition traditionally attributed to David, combining elements of individual thanksgiving (verses 1-10) with urgent lament (verses 11-17), a structure that has generated considerable scholarly discussion regarding its compositional unity. The apparent disjunction between the confident praise of the opening section and the desperate pleading of the conclusion has led some form critics to posit two originally independent compositions, though others recognize this juxtaposition as a deliberate rhetorical strategy reflecting the cyclical nature of faithful existence.",
+        "The psalm opens with the striking phrase \"waiting, I waited\" (*qawwoh qiwwiti*), an intensified verbal construction employing the infinitive absolute that emphasizes the prolonged, patient anticipation characteristic of authentic faith. This waiting is not passive resignation but active trust directed toward Yahweh, who responds by lifting the psalmist from the \"pit of destruction\" (*bor sha'on*) and the \"miry clay\" (*tit hayyawen*)—imagery evoking both literal cisterns used as prisons and metaphorical descent into chaos and death.",
+        "Theologically significant is the remarkable declaration in verses 6-8, where the psalmist asserts that sacrifice and offering (*zebach uminchah*) are not what God desires, but rather \"ears you have dug for me\" (*oznayim karita li*), a striking anthropomorphism suggesting divinely enabled receptivity to God's will. The Septuagint's rendering \"a body you have prepared for me\" (*soma de katertiso moi*) diverges notably and becomes the basis for the christological interpretation in Hebrews 10:5-7, demonstrating the psalm's significant reception history within New Testament theology.",
+        "The transition at verse 11 shifts abruptly to petition, with \"innumerable evils\" surrounding the psalmist. This section substantially parallels Psalm 70, raising questions about literary dependence and the editorial processes shaping the Psalter's final form. The designation \"poor and needy\" (*ani we'ebyon*) in the conclusion identifies the speaker with the vulnerable faithful who depend entirely upon divine intervention.",
+        "Within the Psalter's canonical architecture, Psalm 40 bridges Book I's Davidic collection while anticipating themes developed throughout subsequent books, particularly the tension between cultic observance and interior devotion that prophetic literature would later elaborate extensively."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 40: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the period of Israel's united monarchy, approximately one thousand years before Christ, during an era when God was establishing the throne that would ultimately belong to the Messiah. Within the grand arc of redemption, this song rises from the Kingdom stage, that pivotal epoch between the Exodus deliverance and the coming Exile, when Israel's poets and prophets began articulating with increasing clarity the shape of the Coming One who would fulfill all that the sacrificial system could only shadow.",
+        "David opens with testimony of divine deliverance from \"the pit of destruction\" and \"the miry clay,\" language that transcends his personal experience to become the vocabulary of resurrection itself. The writer of Hebrews, under the Spirit's inspiration, explicitly attributes verses six through eight to Christ upon His entrance into the world, revealing that David's words were never merely autobiographical. When David declared, \"Sacrifice and offering You did not desire, but a body You have prepared for Me,\" he was prophetically voicing the incarnational purpose of the eternal Son who would accomplish what ten thousand bulls and goats could never achieve.",
+        "Here emerges a stunning typological reality: David functions as a prophetic shadow of great David's greater Son. The deliverance from the pit, the new song placed in the mouth, the proclamation of righteousness in the great assembly—each element finds its ultimate fulfillment in Christ's descent into death, His triumphant resurrection, and His ongoing declaration of salvation to the gathered church. The scroll of the book written concerning Him points to the entirety of Scripture bearing witness to His person and work.",
+        "The eschatological thread running through this psalm stretches from Calvary to consummation. Christ's perfect obedience—\"I delight to do Your will, O my God\"—was accomplished once for all at the cross, yet the cry of verses eleven through seventeen for continued deliverance and the vindication of all who seek the Lord awaits final resolution at His appearing. The confession of being poor and needy, surrounded by evils without number, mysteriously reflects both Christ's identification with sinners in His earthly ministry and the church's ongoing experience as she groans for redemption.",
+        "For believers dwelling between the advents, this psalm teaches that our afflictions are never ultimate, our Deliverer has already conquered the pit, and our new song has already begun. We join the great congregation proclaiming His faithfulness, awaiting the day when every tongue will sing His praise and none shall wait any longer for His appearing."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_040",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.233626+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

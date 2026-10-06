@@ -1,0 +1,55 @@
+{
+  "book": "Judges",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Judges 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Judges 6: Called from Fear to Faith",
+      "overview": [
+        "When God appears to a trembling man hiding in a winepress, it is never to mock his weakness but to reveal a strength he has yet to discover. Judges 6 presents one of Scripture's most transformative encounters—Gideon's call—and in it lies a profound message about how God recruits the unlikely and redeems the fearful.",
+        "Israel has spent seven years under Midianite oppression, their crops destroyed, their confidence shattered. Gideon threshes wheat in secret, hoping the Midianites won't notice. He is afraid, practical, small in his own eyes. Yet God's angel greets him with an almost jarring affirmation: \"The Lord is with you, mighty warrior.\" The very words seem designed to contradict Gideon's self-perception. He is not mighty. He is hiding. But God sees not what Gideon is; he sees what Gideon will become when faith takes root.",
+        "What follows is a beautiful dialogue between divine calling and human doubt. Gideon asks reasonable questions: Why is God's presence absent? Where are the miracles? How can I, the least in my family, deliver Israel? These aren't signs of disobedience—they are the honest wrestling of a man being invited into something far larger than himself. God answers not with impatience but with patience, even providing a sign through the fleece to strengthen Gideon's wavering faith.",
+        "The heart of this passage reminds us that God's call often comes to ordinary people in ordinary moments of ordinary fear. He does not wait until we feel confident or competent. He calls us while we are still trembling, still doubting, still asking why. And then he begins, gradually and graciously, to transform our fear into faith through obedience.",
+        "Where in your life right now is God calling you to step out, despite your hesitation? What small act of faith might you take today, trusting that his presence goes with you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Judges 6: Scholarly study",
+      "overview": [
+        "The sixth chapter of Judges marks a pivotal transition in the cyclical narrative of Israel's apostasy, oppression, and deliverance, introducing Gideon as the fifth major judge. The chapter opens against the backdrop of Midianite oppression, a seven-year period during which Israel suffered devastating annual raids that reduced the agrarian society to subsistence existence. The Midianites, semi-nomadic descendants of Abraham through Keturah, employed early domesticated camels in warfare, representing a technological advantage that allowed swift, overwhelming incursions into Israelite territory. This historical context illuminates the severity of Israel's predicament and the theological pattern the Deuteronomistic historian emphasizes throughout Judges.",
+        "The Hebrew term *ra'* (evil) appearing in verse 1 connects this narrative to the recurring refrain of covenant unfaithfulness, while the verb *dalal* (to be brought low, impoverished) in verse 6 captures the comprehensive nature of Israel's humiliation. Particularly significant is the divine response through an unnamed prophet who rehearses salvation history before Gideon's commissioning, establishing that deliverance flows from remembrance of Yahweh's prior acts.",
+        "Gideon's call narrative bears striking structural parallels to Moses's commissioning, including the theophanic encounter, objections based on inadequacy, and confirmatory signs. The angel's greeting—\"Yahweh is with you, mighty warrior (*gibbor hayil*)\"—employs dramatic irony, addressing a man threshing wheat in a winepress to hide from enemies. Gideon's response questioning divine presence amid suffering represents authentic theodicy, a theological wrestling the text neither condemns nor dismisses.",
+        "The destruction of Baal's altar and Asherah pole constitutes Gideon's first act of faithfulness, performed at night due to fear yet nonetheless obedient. His new name, Jerubbaal (\"let Baal contend\"), ironically demonstrates Baal's impotence. The chapter concludes with the famous fleece episodes, which interpreters have variously understood as faithful testing or faithless doubt. The Hebrew *nasah* (to test) carries both legitimate and illegitimate connotations depending on whether humans test God or vice versa. Within the narrative, Yahweh accommodates Gideon's weakness, demonstrating patient divine condescension toward human frailty while simultaneously preparing an unlikely deliverer for impossible victory."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Judges 6: Prophetic perspective",
+      "overview": [
+        "The events of Judges chapter six unfold approximately 1200 years before the birth of Christ, during the turbulent era of the judges when Israel had no king and every man did what was right in his own eyes. This passage sits within the darkest period of the covenant nation's history—after the conquest of Canaan but before the establishment of the monarchy. In the grand arc of redemption, Israel has received the law at Sinai, inherited the promised land under Joshua, yet now spirals through repeated cycles of apostasy, oppression, crying out, and deliverance. The Midianite oppression described here represents the fifth such cycle, revealing both the depths of human rebellion and the relentless grace of the covenant-keeping God.",
+        "The seven years of Midianite devastation present a sobering type of sin's dominion over the soul. Like locusts consuming every green thing, the enemies of God's people stripped the land bare, forcing Israel into caves and mountain dens. This humiliation echoes the curse of Deuteronomy 28 and foreshadows the greater bondage from which humanity requires rescue—not merely from Midianite raiders but from the tyranny of sin and death itself. The imagery of Israel hiding in dens and strongholds while enemies devour their sustenance portrays the human condition apart from divine intervention.",
+        "Gideon emerges as a rich typological figure pointing toward Christ. Found threshing wheat in a winepress—hiding from oppressors in a place of crushing—he embodies Israel's fear and weakness. Yet the Angel of the Lord addresses him as \"mighty warrior,\" speaking not to present reality but to divine purpose. This theophany, where the Angel accepts worship and sacrifice, reveals the pre-incarnate Son appearing to commission deliverance. Just as Gideon was called from obscurity and weakness to save Israel, so Christ came in humble form to accomplish an infinitely greater salvation.",
+        "The altar Gideon builds—Yahweh-Shalom, \"The Lord is Peace\"—prophetically declares what the cross would secure. True peace comes not through military victory alone but through reconciliation with the Holy One. Gideon's nighttime destruction of Baal's altar and Asherah pole typifies Christ's triumph over false gods and demonic powers, a victory accomplished in apparent weakness but demonstrating divine strength.",
+        "For the church awaiting Christ's return, Judges six proclaims that God deliberately chooses the weak and fearful, transforms them by His presence, and through them overthrows the mightiest oppressors. The same Lord who spoke peace to trembling Gideon speaks peace to His blood-bought people today."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "07_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.339247+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

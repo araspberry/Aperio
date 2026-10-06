@@ -1,0 +1,56 @@
+{
+  "book": "Leviticus",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 22: A Heart Set Apart for Holy Service",
+      "overview": [
+        "God's call to Aaron and the priests in Leviticus 22 reveals a profound truth: those who serve the Lord must guard their own hearts and bodies with the same reverence they bring to His altar. This chapter pulses with the conviction that holiness is not merely ceremonial—it springs from a life genuinely consecrated to God.",
+        "The detailed regulations about which priests may eat the holy offerings and which blemishes disqualify them from service might seem archaic, yet they communicate something vital. God is saying: your personal integrity matters. Your physical and spiritual condition shapes your capacity to represent the holy God to His people. When a priest carried unhealed wounds, mourning, or ceremonial uncleanness into sacred work, the contradiction weakened the message. Holiness demanded wholeness.",
+        "For contemporary believers, this principle still cuts deep. We cannot offer our best service to God while living double lives. The pastor who preaches grace but harbors bitterness poisons his own words. The worship leader singing about surrender while clutching control reduces the offering to performance. The counselor advising others toward freedom while imprisoned by hidden shame diminishes their witness. God invites His servants to an integrity that begins in the private places—in how we treat our bodies, manage our emotions, and order our relationships.",
+        "This is not perfectionism; the regulations allowed for natural seasons of life and made provision for cleansing. Rather, it is accountability. We are called to take seriously the condition of our own souls because it affects our service. When we neglect our spiritual health, we cheat the people we shepherd.",
+        "The Lord still calls: come near to Me with clean hands and pure hearts. Not to earn His favor, but to express it faithfully. Not to prove ourselves, but to steward His holiness with reverence.",
+        "What area of your life needs attention so that your service to God reflects genuine wholeness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 22: Scholarly study",
+      "overview": [
+        "Leviticus 22 continues the Holiness Code's stringent requirements for priestly conduct, following directly from chapter 21's regulations concerning priestly purity and now addressing the proper handling of sacred donations. The chapter divides naturally into two major sections: verses 1-16 govern priestly access to holy offerings, while verses 17-33 establish standards for acceptable sacrificial animals. This material reflects the post-exilic priestly tradition's concern with maintaining clear boundaries between the sacred and profane, ensuring that Israel's worship remains untainted by ritual contamination.",
+        "The opening verses introduce the concept of sacred donations through the Hebrew term *qodashim*, referring to the consecrated portions that Israelites dedicate to YHWH and which subsequently become the priests' legitimate sustenance. The text employs the verb *nazir* in the Niphal stem, commanding priests to \"separate themselves\" or \"keep away\" from these holy things when in states of impurity, lest they \"profane\" (*chalal*) the divine name. This desecration language carries enormous theological weight, as the priest's mishandling of sacred food directly implicates YHWH's honor among the nations.",
+        "The catalog of disqualifying conditions in verses 4-8 mirrors broader ancient Near Eastern purity concerns while distinctively connecting them to covenantal theology. Bodily emissions, contact with corpses, and skin afflictions render the priest temporarily unfit to consume what has been sanctified. The text notably permits household members and slaves purchased with priestly money to partake of sacred food, while excluding hired workers and daughters married outside priestly families—distinctions revealing the economic and social dimensions embedded within ritual legislation.",
+        "The second section's requirements for unblemished sacrificial animals (*tamim*) parallel the physical requirements for priests themselves in chapter 21, establishing a symbolic correspondence between the one who offers and what is offered. The prohibition against animals with defects—blindness, broken limbs, or crushed testicles—reflects the theological principle that worship demands humanity's best. Verses 26-28, forbidding the sacrifice of newborns before their eighth day and the simultaneous slaughter of mother and offspring, may reflect early humanitarian sensibilities or concern with proper natural order, though scholarly opinion remains divided on their precise rationale."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 22: Prophetic perspective",
+      "overview": [
+        "Leviticus 22 emerges from the wilderness period of Israel's history, roughly 1445 BC, approximately fifteen centuries before the incarnation of Christ. The nation has been delivered from Egypt and now camps at Sinai, receiving the constitution of their covenant life with Yahweh. Within the grand redemptive arc, this chapter stands in the Exodus-to-Kingdom phase—after deliverance, before possession of the land—when God was forming a people who would bear witness to His holiness until the Seed of Abraham should come.",
+        "The chapter addresses two consuming concerns: the purity of the priests who approach the altar and the perfection of the offerings laid upon it. No priest bearing uncleanness could eat of the holy things; no animal with defect could ascend as smoke before the Lord. These twin demands pulsate with prophetic anticipation. The priests who must purify themselves before touching sacred food foreshadow the Great High Priest who needed no purification, being Himself the Holy One of God. Where Aaron's sons could become temporarily unclean through contact with death, Christ entered death itself and emerged undefiled, the Living One who holds the keys of death and Hades.",
+        "The unblemished animal requirement carries profound typological weight. Each lamb inspected and found without spot pointed centuries forward to the Lamb of God, whom Peter would identify as one \"without blemish and without spot.\" The meticulous examination of every sacrifice trained Israel's eye to recognize perfection when it finally arrived in flesh. What the law demanded in shadow, Christ provided in substance—a life of complete moral perfection offered voluntarily upon the altar of the cross.",
+        "The chapter's closing refrain—\"I am the LORD who sanctifies you, who brought you out of the land of Egypt, to be your God\"—reveals the heartbeat of all holiness legislation. Holiness was never merely ritual; it was relational. God was preparing a dwelling place for His presence among His people, and that presence could not coexist with defilement. This points ultimately to the church as God's temple, where the Holy Spirit now dwells, and forward still to the New Jerusalem, where nothing unclean shall ever enter.",
+        "For the church living between the advents, Leviticus 22 declares that the standard of holiness has not diminished—it has been fulfilled. We approach no earthly altar with animal blood, for we have come to Jesus, the mediator of a new covenant, and to sprinkled blood that speaks a better word. Having such a High Priest and such a sacrifice, we draw near with confidence, our hearts sprinkled clean from an evil conscience."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.991202+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 23 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on 2 Chronicles 23",
+      "overview": [
+        "Restoration often requires courage from unexpected people and unwavering commitment to what is right, even when darkness has ruled for far too long. This chapter shows us how God uses faithful servants to reclaim what was broken and return His people to their proper worship.",
+        "When young King Joash is hidden away by his nurse Jehoiada while the wicked Athaliah seizes the throne, the kingdom falls into spiritual chaos. Yet notice that restoration does not happen through a dramatic divine intervention, but through the patient, deliberate faithfulness of one priest who remembers God's covenant and refuses to accept the status quo. Jehoiada gathers the Levites and stationed guards, moving with careful wisdom rather than reckless haste. He understands that reclaiming the kingdom for God requires both spiritual preparation and practical organization.",
+        "The pivotal moment comes when young Joash is crowned before the Lord in the temple. The people respond with joy and the sound of trumpets, and Athaliah—recognizing she has been overthrown—tears her clothes in anguish. The message is clear: when God's people unite around His purpose, no throne of wickedness can ultimately stand. Then comes the beautiful act of covenant renewal, where Joash, Jehoiada, and all the people commit themselves to be the Lord's people. They immediately begin undoing the damage—tearing down Baal's altar, destroying his images, and restoring proper worship in God's house.",
+        "This passage speaks powerfully to those moments in our own lives when we must choose to restore what has been broken. Perhaps spiritual coldness has crept in, or we have tolerated what we knew was wrong. Like Jehoiada, we may need to act with both faith and wisdom, gathering allies and moving deliberately toward restoration. The key is remembering our covenant with God and His covenant faithfulness to us.",
+        "What area of your spiritual life or community needs restoration? What would it look like to commit yourself—like Jehoiada—to see God's kingdom reclaimed there?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 23: Scholarly study",
+      "overview": [
+        "Second Chronicles 23 records the pivotal coup d'état orchestrated by the priest Jehoiada against the usurper queen Athaliah, resulting in the coronation of the young Joash and the restoration of the Davidic dynasty in Judah. This narrative, paralleling 2 Kings 11 with notable Chronicler expansions, represents one of the most dramatic moments in Judahite history, occurring around 835 BCE. The Chronicler's version distinctively emphasizes the role of the Levites and the proper ordering of temple worship, reflecting his persistent theological concern with cultic legitimacy and the centrality of the Jerusalem sanctuary.",
+        "The Hebrew term *bĕrît* (covenant) appears at a crucial juncture when Jehoiada establishes a covenant between himself, the people, and the king. This covenantal framework underscores the theological significance of the restoration—this is not merely political maneuvering but a reconstitution of the proper relationship between Yahweh, the Davidic monarch, and the covenant community. The Chronicler's emphasis on *mišmeret* (guard duty, prescribed service) throughout the chapter highlights the Levitical organization essential to the coup's success, with the Levites positioned according to their divisions as prescribed by David.",
+        "The narrative structure moves from secret conspiracy to public proclamation, from illegitimate rule to legitimate succession. Jehoiada's distribution of weapons \"which had been King David's\" carries profound symbolism, connecting Joash's kingship directly to the founder of the dynasty. The acclamation formula *yĕḥî hammelek* (\"long live the king\") represents the formal recognition of royal authority, a ritual moment of immense political and theological weight.",
+        "Scholars have debated the Chronicler's expansion of Levitical involvement compared to Kings, with some viewing this as theological embellishment and others arguing for access to independent sources. The careful attention to who may enter the temple precincts reflects post-exilic concerns about sacred boundaries. The destruction of the Baal temple and execution of Mattan the priest demonstrate the comprehensive nature of this reform, purging foreign religious influence introduced during Athaliah's reign. This chapter thus serves as a paradigm of restoration—legitimate kingship, proper worship, and covenant fidelity renewed through faithful priestly leadership."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 23: Prophetic perspective",
+      "overview": [
+        "The events recorded in this chapter unfold approximately 835 years before the birth of Christ, during one of the darkest hours in Judah's history. For six years, the usurper Athaliah—daughter of Ahab and Jezebel, carrier of Baal worship into the Davidic line—had occupied the throne of David after slaughtering the royal seed. Yet hidden in the house of God, preserved by divine providence, the child Joash survived as the sole remaining heir of the Messianic promise made to David. This chapter records the restoration of the legitimate king and the purging of apostasy from Judah.",
+        "Within the grand arc of redemption, this passage stands in the Kingdom era, after the division of Solomon's united monarchy, when God was preserving the lamp of David despite covenant unfaithfulness. The survival of Joash represents nothing less than the preservation of the line through which Messiah would come—the scarlet thread running from Judah to David to Christ hung by the slenderest filament during Athaliah's reign.",
+        "Jehoiada the priest emerges as a magnificent type of the faithful mediator. He alone knew where the true king was hidden; he orchestrated the covenant renewal; he crowned the king and placed the testimony in his hands; he stationed guards around the anointed one; he destroyed the false worship system. In all this, Jehoiada shadows the work of Christ our great High Priest, who brings forth the hidden purposes of God in their appointed time, who mediates the new covenant, and who destroys every false system that usurps divine authority.",
+        "The crowning of Joash typologically anticipates the coronation of David's greater Son. The placing of the testimony upon him—the law of the king from Deuteronomy—foreshadows Christ, the living Word who perfectly embodies Torah. The shout \"Long live the king!\" at the pillar echoes forward to every tongue confessing Jesus as Lord. Athaliah's violent end prophetically declares the fate of every Babylon, every system that persecutes God's people and attempts to extinguish His purposes.",
+        "The covenant renewal, the destruction of Baal's temple, and the restoration of proper worship prefigure the new covenant reality inaugurated at Calvary, where Satan's temple was overthrown and true worship restored.",
+        "For the church awaiting Christ's return, this chapter proclaims that no power—however entrenched—can ultimately prevent the rightful King from taking His throne. The hidden one shall be revealed, the usurper destroyed, and joyful worship shall fill the holy city."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_023",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.82652+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

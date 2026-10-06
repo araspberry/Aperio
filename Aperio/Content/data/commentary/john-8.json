@@ -1,0 +1,57 @@
+{
+  "book": "John",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 8 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 8: The Light That Exposes and Frees",
+      "overview": [
+        "The heart of John 8 is the stark contrast between Jesus as the light of the world and the spiritual blindness of those who refuse to see. This chapter unfolds the deepest struggle of discipleship: whether we will come to Jesus as we truly are, or hide in the darkness of self-justification.",
+        "The passage opens with the woman caught in adultery, and immediately we encounter grace that exposes without condemning. Jesus does not excuse her sin, yet neither does he join the accusers in their stones. He sees the real crisis: everyone present is broken, all need mercy, and only he is qualified to judge. When he finally speaks to the woman, he offers what no one else can—genuine freedom from both guilt and the power of sin to define us. This is not permissiveness; it is transformation rooted in being truly seen and genuinely forgiven.",
+        "The rest of the chapter deepens this theme as Jesus claims, \"I am the light of the world.\" He is not offering a moral philosophy or self-help spirituality. He is declaring himself the source of illumination that makes all things visible as they truly are—including ourselves. When we step into that light, we cannot hide anymore. But paradoxically, that exposure is liberation, not condemnation.",
+        "What makes John 8 so piercing is how it reveals the human heart's resistance to this light. Those who refuse to see themselves honestly become increasingly defensive, increasingly hostile. They choose the darkness not because they lack information but because the light threatens their self-image. The question Jesus poses to each of us remains: Will we allow ourselves to be fully known by him, or will we maintain the comfortable lies we tell ourselves?",
+        "True discipleship begins when we stop defending ourselves before God and start receiving his scandalous grace. Jesus meets us not where we pretend to be, but where we actually are.",
+        "What would change in your life today if you truly believed Jesus sees you completely and loves you anyway?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 8: Scholarly study",
+      "overview": [
+        "The eighth chapter of John's Gospel stands as one of the most theologically dense and narratively complex sections of the Fourth Gospel, presenting interpreters with both textual and theological challenges that have occupied scholarship for centuries. Composed likely in the final decade of the first century within a community experiencing tension with emerging rabbinic Judaism, this chapter showcases the Johannine Jesus in direct confrontation with religious authorities during the Feast of Tabernacles, a setting rich with symbolic import given the festival's light and water ceremonies.",
+        "Central to the chapter's theological architecture is Jesus's declaration *egō eimi to phōs tou kosmou* (\"I am the light of the world,\" v. 12), the second of seven \"I am\" statements with predicate nominatives in this Gospel. The term *phōs* carries substantial weight in Johannine thought, appearing programmatically in the Prologue and functioning as a soteriological and revelatory category. Against the backdrop of the temple's illumination during Tabernacles, this claim assumes heightened significance, suggesting Jesus fulfills and transcends the festival's symbolism.",
+        "The chapter's extended dialogue concerning Abraham's descendants introduces the crucial term *eleutheros* (\"free,\" vv. 32–36), where Jesus redefines freedom not in political or genealogical terms but as liberation from sin's bondage. This semantic redefinition creates the dramatic tension that escalates throughout the discourse. The opponents' claim to Abrahamic lineage meets Jesus's counter-claim regarding their spiritual paternity, culminating in the provocative identification of the devil as their father (v. 44).",
+        "The chapter reaches its theological climax in verse 58 with the absolute *egō eimi* (\"before Abraham was, I am\"), an unmistakable echo of the divine name revealed in Exodus 3:14. The response of attempted stoning indicates the audience understood this as a claim to deity. Scholarly debate continues regarding whether this represents historical memory or later Christological development, though the literary function within John's narrative theology remains clear: Jesus possesses divine preexistence and identity.",
+        "The interplay between *alētheia* (\"truth\") and *pseudos* (\"falsehood\") throughout structures the chapter's epistemological concerns, presenting discipleship as fundamentally about recognizing and abiding in truth that liberates."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 8: Prophetic perspective",
+      "overview": [
+        "John chapter eight unfolds during the final months of Jesus' earthly ministry, approximately three years after His baptism and roughly six months before His crucifixion, placing these events around AD 32-33 during the Feast of Tabernacles in Jerusalem. This situates the passage firmly in the climactic phase of the Incarnation, when God-in-flesh walked among His covenant people, offering them light and life before the darkness of Golgotha would give way to resurrection glory.",
+        "The chapter opens with the woman caught in adultery, a living portrait of Israel herself—a covenant bride caught in spiritual harlotry, dragged before her Judge, yet finding mercy instead of the stones the Law demanded. Here Christ demonstrates what the prophets long proclaimed: that God takes no pleasure in the death of the wicked but desires repentance and life. The scribes and Pharisees, thinking to trap the Lawgiver with His own Law, discover instead that He writes in the dust as Yahweh once wrote on stone—but this time mercy triumphs over judgment for the penitent.",
+        "The declaration \"I am the light of the world\" resonates with cosmic authority, reaching back to Genesis where God's first creative word summoned light from darkness, and forward to Revelation where the Lamb Himself illumines the New Jerusalem, making sun and moon obsolete. Jesus speaks these words during Tabernacles, when massive golden lampstands blazed in the temple courts commemorating the pillar of fire that guided Israel through wilderness wanderings. The type now stands before them in flesh—the true Pillar, the authentic Light, the genuine Guide through the wilderness of sin and death.",
+        "The chapter's climax arrives with staggering force: \"Before Abraham was, I AM.\" With these words, Jesus claims the covenant name revealed at the burning bush, the name above every name, the eternal self-existence that belongs to God alone. The stones lifted against Him confirm that His audience understood precisely what He claimed. Abraham rejoiced to see Christ's day because the patriarch glimpsed, through the ram caught in the thicket and the promises of blessing to all nations, the Seed who would come—the true Isaac who would willingly lay upon the altar of Calvary.",
+        "The church now dwells in the light Christ spoke of, freed like that adulterous woman from condemnation, awaiting the day when shadows flee entirely and we see face to face the One who was, and is, and is to come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.627884+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

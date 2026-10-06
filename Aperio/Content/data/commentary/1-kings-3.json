@@ -1,0 +1,54 @@
+{
+  "book": "1 Kings",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 3: The Wisdom to Know What We Need",
+      "overview": [
+        "When Solomon ascends to Israel's throne as a young man, his first instinct is not to ask for power, wealth, or long life, but for wisdom to govern God's people with justice. This passage reveals what happens when a new leader recognizes the weight of responsibility and humbly asks God for what he truly needs rather than what his flesh desires.",
+        "Solomon's dream at Gibeon captures something profoundly human: the disorientation of stepping into a role far larger than ourselves. He admits, \"I am only a little child and do not know how to carry out my duties\" (3:7). Rather than bluffing his way forward with false confidence, he brings his inadequacy directly to God. This honesty becomes the doorway to blessing. God not only grants him wisdom beyond measure but adds the very things he didn't ask for—riches and honor—because his priorities were ordered rightly.",
+        "The famous test with the two mothers and the disputed child (3:16-28) demonstrates Solomon's wisdom in action. Rather than relying on external evidence or the louder voice, he perceives the deepest truth: a mother's love would rather lose her child than see him harmed. This insight wins the people's awe and respect, not because Solomon is clever, but because his wisdom taps into something true about human nature and God's character.",
+        "There is a word here for anyone navigating new seasons of responsibility—whether in parenting, leadership, work, or ministry. The invitation is not to pretend we have all the answers, but to ask God for the discernment to see clearly, judge fairly, and lead with justice rather than ambition. When we seek wisdom first, God adds everything else that matters.",
+        "What responsibility or role is calling you to grow in wisdom? What would it look like to ask God for discernment before asking for comfort or advancement?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 3: Scholarly study",
+      "overview": [
+        "The third chapter of 1 Kings marks a pivotal transition in the Davidic succession narrative, establishing Solomon's reign through both political consolidation and divine legitimation. The chapter opens with Solomon's marriage alliance with Pharaoh's daughter, a diplomatic maneuver reflecting standard ancient Near Eastern practice for securing international relationships, though the narrator's notation that \"Solomon loved the LORD\" immediately afterward creates theological tension that will resurface later in the narrative. The reference to sacrificing at high places (*bamot*) indicates the pre-temple cultic situation, which the narrator carefully qualifies as provisional rather than apostate, since \"no house had yet been built for the name of the LORD.\"",
+        "The Gibeon theophany constitutes the chapter's theological center, employing the dream-vision genre common to ancient Near Eastern royal legitimation texts. When God invites Solomon to request anything, the young king's response demonstrates sophisticated covenantal awareness, acknowledging divine *hesed* (covenantal faithfulness, loving-kindness) shown to David. Solomon's request for a \"listening heart\" (*lev shomea*) to judge the people deserves careful attention; the Hebrew *lev* encompasses intellect, will, and emotion, while *shomea* implies both hearing and obedience. This is no mere request for intelligence but for discerning wisdom rooted in receptivity to divine instruction. The verb \"to discern\" (*havin*) between good and evil echoes judicial language throughout Deuteronomic literature, connecting Solomon's petition to Israel's covenantal vocation.",
+        "God's response establishes a conditional promise structure characteristic of Deuteronomistic theology: longevity depends upon covenant fidelity, foreshadowing the tragic trajectory of Solomon's later reign. The narrative then provides immediate verification of the granted wisdom through the famous judgment concerning the two prostitutes and the disputed child. This test case is significant precisely because it involves marginalized women without male advocates—Solomon's wisdom extends to the most vulnerable. His psychological insight in proposing to divide the living child exposes authentic maternal compassion versus calculating self-interest. The concluding notice that \"all Israel\" recognized divine wisdom in the king serves the narrator's legitimating purpose while establishing judicial wisdom as the hallmark of ideal Israelite kingship, a standard against which subsequent monarchs would be measured."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 3: Prophetic perspective",
+      "overview": [
+        "The events recorded in this chapter unfold approximately 970 years before Christ's incarnation, in the early days of Solomon's reign following David's death. Israel stands at the pinnacle of its kingdom glory, the golden age anticipated since God's promise to Abraham that his descendants would become a great nation. Within the grand redemptive arc, this moment occupies the height of the Kingdom era—the monarchy established, enemies subdued, and the temple about to rise. Yet even at this zenith, shadows of future failure and exile already flicker beneath the surface.",
+        "Solomon's marriage to Pharaoh's daughter opens the chapter with troubling irony. The nation delivered from Egypt now finds its king bound in political alliance with the house of bondage. This union, though diplomatically astute, plants seeds of the syncretism that will eventually tear the kingdom asunder. The high places where Solomon sacrifices at Gibeon—legitimate worship lacking its proper center—whisper of Israel's perpetual struggle between faithfulness and compromise, between convenient religion and costly obedience.",
+        "At Gibeon, the Lord appears in a nocturnal vision, offering Solomon whatever he desires. The young king's request for \"an understanding heart to judge Your people\" reveals genuine humility and royal wisdom. God grants not only wisdom but riches and honor besides, establishing a pattern that Christ Himself would later articulate: \"Seek first the kingdom of God and His righteousness, and all these things shall be added to you.\" Solomon becomes a type of the greater Son of David who would embody divine wisdom perfectly. Yet Solomon's wisdom, however extraordinary, remained derived and dependent; Jesus would declare Himself greater than Solomon, being Wisdom incarnate rather than wisdom granted.",
+        "The famous judgment between the two harlots demonstrates Solomon's discernment in action. The true mother's anguished willingness to surrender her child rather than see him destroyed mirrors the heart of sacrificial love that finds its ultimate expression at Calvary. The sword that threatens division becomes the instrument of revelation—just as the sword of God's Word pierces to divide soul and spirit, exposing the thoughts and intentions of hearts.",
+        "Solomon's wisdom drew the nations to Jerusalem, foreshadowing the day when One greater than Solomon would draw all peoples to Himself. The church now possesses access to wisdom that Solomon could only glimpse—Christ crucified, the wisdom of God hidden in mystery, now revealed to those living in the light of resurrection, awaiting wisdom's final vindication when every knee bows."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.537747+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

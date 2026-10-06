@@ -1,0 +1,135 @@
+{
+  "book": "Philippians",
+  "bookIndex": 49,
+  "status": "Editorial draft",
+  "title": "Philippians: A Shared Life of Joy",
+  "subtitle": "From prison, Paul writes about Christ, friendship, humility, and the courage to keep serving.",
+  "atAGlance": {
+    "genre": "Apostolic letter of friendship, encouragement, and exhortation",
+    "setting": "Paul’s imprisonment and his continuing partnership with the church at Philippi.",
+    "composition": "Written by Paul, with Timothy named in the greeting. The prison location is disputed; dates commonly fall in the AD 50s or early 60s.",
+    "audience": "Believers in Philippi, including their overseers and deacons."
+  },
+  "sections": [
+    {
+      "title": "Joy within a costly friendship",
+      "paragraphs": [
+        "Philippians is filled with affection. Paul remembers the church with gratitude, prays for its growth, and recognizes a partnership that has endured across distance. The Philippians have supported his mission and sent help through Epaphroditus. Their relationship is practical as well as spiritual: gifts, travel, illness, concern, and prayer belong to its texture.",
+        "Paul writes as a prisoner whose future is uncertain. That circumstance gives weight to the letter’s joy. He can see the gospel advancing even through his confinement, yet he also speaks honestly about the possibility of death and his desire to remain useful to others. Joy here grows within devotion to Christ and shared purpose. It has room for costly service and for the emotional demands of loving people whose lives are vulnerable."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The historical setting and the letter’s voice",
+      "paragraphs": [
+        "Paul’s authorship is widely accepted. Timothy is included in the greeting and later commended as a trusted coworker. The location of Paul’s imprisonment is uncertain. Rome provides the traditional setting, often dated in the early AD 60s; an imprisonment in Ephesus would place the letter earlier, in the AD 50s. The evidence does not settle the question decisively.",
+        "The Philippians are also facing opposition and internal strain. Paul urges them to stand together, and near the end he asks Euodia and Syntyche to agree in the Lord. He identifies both women as coworkers in the gospel. Their disagreement matters because the community’s unity matters. The letter’s repeated appeals to shared thinking concern a common disposition of humility and love, not the erasure of every personal difference."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The mind of Christ",
+      "paragraphs": [
+        "Chapter 2 brings the call to humility into focus through Jesus Christ. The passage traces His self-humbling, His taking the form of a servant, His obedience unto death, and God’s exaltation of Him. Its confession reaches toward every knee bowing and every tongue acknowledging His lordship. Christians have long found in it a profound account of Christ’s identity and mission.",
+        "The passage appears within an appeal to attend to the interests of others. Its theological height therefore has immediate social consequences. Timothy’s concern and Epaphroditus’s costly service offer concrete examples nearby. Paul wants the Philippians to see self-giving as the form of life appropriate to their Lord. The command to work out their salvation is joined to confidence that God is already at work in their willing and doing."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Worth, citizenship, and the hope ahead",
+      "paragraphs": [
+        "In chapter 3 Paul reconsiders the sources of status that once shaped his confidence. His history is not denied, but knowing Christ changes how he values it. He wants to share in Christ’s life and resurrection, and he describes himself as continuing toward a goal still ahead. Spiritual maturity includes this recognition that the journey remains unfinished.",
+        "The language of heavenly citizenship then locates the church’s ultimate allegiance in its Lord. The expected Savior will transform their lowly bodies. That hope concerns embodied life and gives the present a direction. It also challenges any community tempted to measure its worth entirely by social standing or outward achievement. Paul’s own example asks how knowing Christ can reorder ambition, memory, and the meaning of success."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Contentment, prayer, and shared responsibility",
+      "paragraphs": [
+        "The closing chapter joins reconciliation, rejoicing, gentleness, prayer, disciplined attention, and generous support. The promise of God’s peace accompanies the invitation to bring concerns before Him with thanksgiving. Paul also asks the church to attend to what is true, honorable, just, and worthy of praise. The life of thought is part of the life of faith.",
+        "His statement about being strengthened through Christ comes in a discussion of contentment in abundance and need. It expresses endurance through changing circumstances, rather than an unlimited guarantee of personal achievement. The Philippians’ gift remains meaningful even though Paul has learned contentment: their participation in his trouble is an act of fellowship.",
+        "Read Philippians with particular attention to the people named. Their presence keeps its memorable sayings anchored in a shared mission. The letter’s joy becomes concrete where people pray for one another, resolve strained relationships, support difficult work, and place Christ’s self-giving at the center of their ambitions. Its confidence is large enough to face uncertainty without pretending that friendship and material help are unnecessary."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Partnership and Paul’s circumstances",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Thanksgiving, prayer, imprisonment, and courage together."
+    },
+    {
+      "label": "The way of humility",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Christ’s self-giving and the examples of Timothy and Epaphroditus."
+    },
+    {
+      "label": "Knowing Christ and pressing forward",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Reconsidered status, resurrection hope, and heavenly citizenship."
+    },
+    {
+      "label": "Peace, contentment, and generosity",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Reconciliation, prayer, careful attention, and gratitude for support."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Joy in Christ",
+      "description": "Confidence persists within uncertainty through a shared life with the Lord."
+    },
+    {
+      "name": "Humility in practice",
+      "description": "Christ’s self-giving shapes concern for others."
+    },
+    {
+      "name": "Partnership",
+      "description": "Prayer, gifts, friendship, and service belong to one mission."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "AD 50s–early 60s; prison location disputed",
+    "context": "The letter belongs to Paul’s ministry from imprisonment. Its present setting is distinct from the future resurrection for which he hopes.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 4,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "AD 50s–early 60s; prison location disputed",
+      "note": "The letter belongs to Paul’s ministry from imprisonment. Its present setting is distinct from the future resurrection for which he hopes."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Philippians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Philippians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/philippians/lessons/summary-of-philippians/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 26,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 26 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 26: The Power of a Personal Testimony",
+      "overview": [
+        "The spiritual heart of Acts 26 beats with the transformative power of a personal encounter with the risen Christ. When Paul stands before King Agrippa, he does not argue theology in the abstract—he tells his story, because nothing silences skepticism quite like a life that has been radically remade.",
+        "Paul's testimony unfolds in three movements: his former life as a persecutor of Christians, his dramatic conversion on the Damascus Road, and his present calling as an apostle to the Gentiles. What makes this account so compelling is its honesty. He doesn't hide behind polished rhetoric or diplomatic language. Instead, he invites Agrippa into the very moment when Jesus appeared to him with blazing light, when the voice asked why he was kicking against the goads of conscience, when everything he thought he knew was shattered and rebuilt. Paul describes not just what happened to him, but what still grips him—this is a man fully possessed by an encounter that continues to shape every decision.",
+        "Notice what Paul emphasizes: he was obedient to the heavenly vision. This obedience isn't grudging compliance; it flows from gratitude and transformation. He preached repentance and faith to both Jews and Gentiles, calling them toward the same light that blinded and healed him.",
+        "For those of us who follow Jesus today, this passage invites a searching question. Do we know our own story of transformation? When was the last time we actually articulated to someone else what Jesus has done in our lives, without apology or embarrassment? We don't need dramatic Damascus Road moments to have something worth sharing. Every genuine encounter with Christ—every moment of healing, forgiveness, redirected purpose, or deepened faith—becomes a testimony that carries weight in a skeptical world.",
+        "What part of your own spiritual journey have you been hesitant to share, and why? Where might Jesus be inviting you to speak up about what He has done?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 26: Scholarly study",
+      "overview": [
+        "Acts 26 presents Paul's defense before King Herod Agrippa II and Festus, the Roman procurator, constituting the third and most elaborate of Paul's apologetic speeches in the final section of Acts. This audience before Agrippa, likely occurring around 59-60 CE in Caesarea Maritima, represents Luke's literary climax of Paul's legal proceedings, as Agrippa possessed particular competence in Jewish religious matters given his oversight of the Jerusalem temple and authority to appoint high priests. The setting reflects Luke's sophisticated understanding of Roman provincial administration and his theological interest in demonstrating Christianity's compatibility with both Jewish heritage and Roman order.",
+        "The speech's structure follows conventions of Greco-Roman forensic rhetoric while incorporating distinctly Jewish elements. Paul's opening employs the captatio benevolentiae typical of ancient oratory, acknowledging Agrippa's expertise in Jewish customs and controversies. The term *apologia* (ἀπολογία), appearing in verse 2, carries legal weight as a formal defense speech, yet Paul transforms his defense into proclamation. Central to the narrative is Paul's recounting of his Damascus road experience, the third such account in Acts, with variations that scholars have extensively debated. The divine commission employs the phrase \"hard for you to kick against the goads\" (*kentra*, κέντρα), a Greek proverbial expression found in Euripides and Aeschylus, suggesting Luke's adaptation for Hellenistic audiences.",
+        "Theologically significant is Paul's assertion that his message proclaims nothing beyond what Moses and the prophets declared, particularly regarding a suffering Messiah (*pathētos*, παθητός) who would be first to rise from the dead. This christological formulation emphasizes continuity between Christianity and Israel's scriptures, a persistent Lukan theme. Festus's accusation that Paul's learning has driven him to madness (*mania*, μανία) and Agrippa's ambiguous response about being persuaded to become a Christian have generated considerable interpretive discussion, with some scholars viewing Agrippa's reply as dismissive irony and others as genuine hesitation.",
+        "The chapter concludes with the declaration of Paul's innocence by both Agrippa and Festus, fulfilling Luke's apologetic purpose of demonstrating that Roman authorities found no legitimate charge against early Christian leaders. This verdict, while affirming Paul's legal innocence, simultaneously confirms the necessity of his journey to Rome, advancing Luke's narrative toward its predetermined conclusion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 26: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately thirty years after the resurrection and ascension of Christ, around AD 59-60, as the Apostle Paul stands before King Agrippa II in Caesarea Maritima. We are firmly within the early church age, that period of redemptive history following Pentecost when the Spirit-empowered witness of the apostles carries the gospel from Jerusalem outward to the ends of the earth. The prophetic promises given to Abraham that all nations would be blessed through his seed are now being fulfilled as Paul, a Hebrew of Hebrews, proclaims the risen Messiah to a Jewish king descended from Herod and a Roman governor representing the greatest Gentile empire.",
+        "Paul's defense before Agrippa constitutes one of Scripture's most profound testimonies to the continuity between Israel's hope and the gospel of Jesus Christ. The apostle anchors his entire message in \"the promise made by God to our fathers\"—that ancient covenant expectation of resurrection and restoration that animated the patriarchs, sustained the exiles, and burned in the hearts of the twelve tribes serving God night and day. Paul stands not as an innovator but as a faithful Israelite who has discovered that what the prophets foretold has been accomplished in Jesus of Nazareth.",
+        "The Damascus Road encounter recounted here carries immense typological weight. Just as light invaded the primordial darkness at creation, so the risen Christ—the true Light of the world—shattered Paul's spiritual blindness with glory exceeding the noonday sun. Paul's commission echoes the Servant Songs of Isaiah: to open blind eyes, to turn people from darkness to light, and from the dominion of Satan to God. What Isaiah prophesied concerning Israel's Messiah is now being fulfilled through His apostolic ambassador.",
+        "Particularly significant is Paul's declaration that he preaches \"nothing but what the Prophets and Moses said would come to pass\"—that the Christ must suffer, that He would be first to rise from the dead, and that He would proclaim light both to Israel and to the Gentiles. The entire Old Testament, rightly understood, bends toward the crucified and risen Jesus.",
+        "The scene itself anticipates the final judgment, when every knee shall bow and every tongue confess. Agrippa, almost persuaded, represents all who stand at the threshold of the kingdom yet hesitate. For the church today, this passage calls us to bold proclamation, confident that the same gospel powerful enough to transform a persecutor into an apostle remains the power of God unto salvation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_026",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.726336+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

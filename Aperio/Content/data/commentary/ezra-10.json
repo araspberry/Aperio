@@ -1,0 +1,56 @@
+{
+  "book": "Ezra",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezra 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezra 10: The Courage to Start Over",
+      "overview": [
+        "The spiritual heart of Ezra 10 is that genuine repentance, though costly and humbling, opens the way for God's people to rebuild their lives and walk in renewed covenant faithfulness. This is the chapter where broken hearts lead to broken chains.",
+        "After Ezra's anguished prayer in chapter 9, the people face an agonizing reality: many have married women from the surrounding nations, directly violating God's covenant instructions. Rather than despair, the community gathers in Jerusalem in the winter rain, shivering and sorrowful, ready to confess. What follows is neither easy nor painless—families are separated, lives are overturned, and the cost of obedience feels unbearably high. Yet notice what makes this moment redemptive: the people choose to pay that price willingly. They don't rationalize or minimize their unfaithfulness. They don't negotiate with God. They simply say, \"We have broken faith... but there is still hope for us if we act now.\"",
+        "This passage speaks to anyone who has wandered from their commitment to Christ and faces the daunting prospect of turning around. Repentance is never comfortable. It requires naming what we've done, accepting the consequences, and sometimes grieving what we must release. But here's the grace embedded in Ezra 10: God meets people in their willingness to change. The community doesn't earn restoration through their action alone; rather, their sincere turning creates the space where God's restoration can flow.",
+        "The weeks of weeping, confession, and difficult decisions that follow aren't punishment but medicine for the soul. Sometimes following Jesus means letting go of what felt safe or pleasurable. Sometimes it means returning to boundaries we've crossed and saying a painful goodbye.",
+        "Where in your own life might God be inviting you toward costly obedience? What would it cost to truly repent, and are you willing to pay that price knowing that restoration waits on the other side?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezra 10: Scholarly study",
+      "overview": [
+        "Ezra 10 represents the dramatic culmination of the crisis introduced in chapter 9, wherein the community's intermarriage with foreign peoples threatened the reconstituted Israelite identity in the early Persian period. Composed likely in the late fifth or early fourth century BCE, this narrative reflects the post-exilic community's intense concern with maintaining covenant faithfulness and ethnic-religious boundaries following the trauma of exile. The chapter must be understood within the broader context of Persian imperial policy, which paradoxically both enabled Jewish restoration and created conditions for cultural assimilation that community leaders found deeply troubling.",
+        "The chapter opens with Ezra's dramatic public mourning, which draws a large assembly (*qāhāl*) to Jerusalem. The term *qāhāl* carries covenantal overtones, evoking the wilderness assembly and suggesting that what transpires constitutes a reconstitution of Israel's covenant community. Shecaniah's proposal employs the theologically significant phrase \"let us cut a covenant\" (*nikrōt berît*), utilizing covenantal vocabulary to address a situation caused precisely by inappropriate covenant-like unions. The Hebrew term for the foreign wives, *nāšîm nokrîyôt*, emphasizes their outsider status and echoes Deuteronomic prohibitions, though scholars debate whether the Deuteronomic restrictions originally applied to all foreign marriages or specifically to Canaanite peoples.",
+        "The procedural elements of the chapter—the three-day assembly, the systematic investigation by appointed officials, and the detailed genealogical list—demonstrate the juridical character of the proceedings. The list of offenders in verses 18–44 functions similarly to other post-exilic genealogical records, establishing who belonged within the purified community. Notably, priests head the list, indicating that even religious leadership had transgressed boundaries.",
+        "The chapter's conclusion remains textually and theologically difficult. The phrase in verse 44 is grammatically obscure in Hebrew, leading to various reconstructions regarding whether children were also dismissed. This interpretive crux raises profound ethical questions that continue to trouble modern readers. Some scholars view the text as describing an ideal or partial implementation rather than a complete historical account. Within the canonical shape of Ezra-Nehemiah, this episode establishes the rigorous boundary maintenance that would characterize Second Temple Judaism, though the human cost implicit in the narrative remains theologically unsettling."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezra 10: Prophetic perspective",
+      "overview": [
+        "Ezra chapter ten unfolds approximately 458 years before the incarnation of Christ, during the Persian period following the Babylonian exile. The events recorded here occur roughly eighty years after the first wave of Jewish exiles returned under Zerubbabel and about thirteen years after the temple was completed. This moment stands within the Restoration phase of redemptive history, that critical period when God was reconstituting His covenant people in preparation for the coming Messiah.",
+        "The scene opens with Ezra prostrate before the house of God, weeping and confessing the sin of intermarriage with pagan nations. A great congregation gathers, themselves weeping bitterly, and Shecaniah speaks what becomes the hinge of the chapter: \"We have been unfaithful to our God... yet now there is hope for Israel in spite of this.\" Here emerges the ancient pattern that courses through all Scripture—confession, covenant renewal, and costly obedience as the pathway to restoration.",
+        "The radical action demanded—the putting away of foreign wives and children—strikes modern readers as severe, yet it must be understood within its redemptive-historical context. The messianic line required protection. The covenant community through which the Seed of Abraham would come could not dissolve into syncretistic paganism as it had before the exile. This was not ethnic prejudice but spiritual preservation; the issue was theological allegiance, not bloodline. The foreign wives had brought foreign gods, and God's people stood again at the precipice that had cast them into Babylon.",
+        "Typologically, this mass divorce points forward to the more radical separation Christ would accomplish. What Ezra addressed externally, the New Covenant would address internally. The putting away of that which defiles anticipates Paul's command to the Corinthians not to be unequally yoked, and more profoundly, it shadows the believer's decisive break with the old life at conversion. The trembling assembly standing in the rain, confessing corporate sin, prefigures the church's ongoing call to purify herself as a bride preparing for her Bridegroom.",
+        "The chapter closes with a list of names—priests, Levites, and laymen who had transgressed. This public record demonstrates that covenant accountability extends to all, leadership bearing greater responsibility. No one stands exempt from the demands of holiness.",
+        "For the church awaiting Christ's return, Ezra ten declares that genuine repentance costs something. The covenant community must maintain its distinctiveness from the world, not through external regulations but through hearts wholly devoted to the Lord. The God who preserved a holy remnant then still purifies His people now, preparing a spotless bride for the coming King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "15_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.891698+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

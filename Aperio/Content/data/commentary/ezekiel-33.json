@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 33,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 33 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 33: The Watchman's Heart",
+      "overview": [
+        "Ezekiel 33 reveals God's passionate heart for human redemption and the sacred responsibility of those called to speak His truth. This chapter transforms us from passive observers of spiritual danger into active sentries called to warn others, while also reminding us that ultimately, each person answers for their own choices.",
+        "The opening passage establishes the watchman's role with striking clarity: when danger approaches, the watchman must sound the alarm. If he fails to warn, the blood of the perishing falls on his hands. Yet—and this is crucial—if the watchman warns and people refuse to listen, his responsibility is discharged. God places enormous weight on faithful communication, then releases us from controlling the outcome. This liberates the faithful messenger from the paralysis of perfectionism. We cannot force change; we can only offer truth in love.",
+        "What makes this chapter pastoral rather than merely prophetic is its second half, where God addresses the exiles' sense of hopelessness and unfairness. They believe their case is hopeless, their sins too great. But God clarifies that He takes no pleasure in death; He desires repentance and life. When the wicked turns from wickedness, that person lives. The door to redemption never closes so long as breath remains. This speaks to anyone who feels irredeemable or forgotten—God's arms remain open.",
+        "The chapter also confronts those who hear truth but do not live it. These people love God's words yet their hearts pursue gain and injustice. We must examine whether our faith is merely intellectual appreciation or genuine transformation. True hearing produces change.",
+        "The watchman's call applies to many of us today—parents, leaders, friends, and believers in our communities. We are entrusted with warnings about spiritual danger and invitations toward redemption. Meanwhile, God reminds us that our job is faithfulness, not results, and that His mercy extends to all who genuinely turn.",
+        "What truth might God be calling you to speak in love to someone in your circle?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 33: Scholarly study",
+      "overview": [
+        "Ezekiel 33 marks a decisive structural pivot in the prophetic book, transitioning from oracles of judgment against Israel and the nations to messages of restoration and hope. This chapter, likely composed around 586 BCE following Jerusalem's fall, reintroduces the watchman metaphor first articulated in chapter 3, framing it now within a context of national catastrophe and theological reassessment. The prophet, having been silenced since 24:27, receives news of Jerusalem's destruction from a fugitive survivor, an event that restores his speech and validates his prophetic ministry to the exilic community in Babylon.",
+        "The watchman imagery employs the Hebrew term *tsopheh*, denoting one who keeps vigil from an elevated position to warn of approaching danger. This metaphor establishes a covenantal framework of responsibility: the watchman bears guilt only for failing to sound the warning, not for the people's subsequent choices. The passage twice emphasizes divine reluctance toward judgment through the rhetorical question utilizing *chaphets* (to delight or take pleasure), asserting that Yahweh finds no satisfaction in the death of the wicked but rather desires their turning (*shuv*), a term carrying rich connotations of repentance, return, and covenant restoration.",
+        "The chapter's central theological tension addresses the exiles' fatalistic complaint recorded in verse 10: \"Our transgressions and our sins are upon us, and we rot away in them; how then can we live?\" This despairing cry reflects a misappropriation of collective guilt theology, which the prophet counters with an emphatic assertion of individual moral agency. The divine response employs legal terminology, establishing that present righteousness or wickedness determines one's standing before God, thereby rejecting both presumptuous confidence in past merit and paralyzing despair over accumulated guilt.",
+        "Interpreters have debated whether verses 23-29 constitute a separate oracle addressing those remaining in Judah's ruins or whether it forms a unified composition with the preceding material. The survivors' appeal to Abraham's singular inheritance of the land represents a theological miscalculation, presuming covenant privilege without covenant fidelity. The chapter thus establishes foundational principles for the restoration oracles that follow, insisting that renewed relationship with Yahweh requires genuine repentance rather than presumptuous claims to ancestral promise."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 33: Prophetic perspective",
+      "overview": [
+        "Ezekiel 33 emerges from the depths of Israel's darkest hour, spoken in approximately 586 BC, the very year Jerusalem fell to Nebuchadnezzar's armies. The prophet had been among the exiles in Babylon since 597 BC, and this chapter marks a pivotal turning point in his ministry—news of Jerusalem's destruction has finally reached the captives, confirming every warning Ezekiel had proclaimed for years. Within the grand sweep of redemptive history, this passage stands at the nadir of the Exile period, when the covenant people faced the devastating consequences of centuries of rebellion, yet simultaneously stood at the threshold of promised restoration.",
+        "The chapter opens with the profound commissioning of Ezekiel as watchman over Israel, a typological office that shadows the greater Watchman to come. Just as Ezekiel was appointed to warn the wicked of impending judgment, so Christ came as the ultimate sentinel over God's people, weeping over Jerusalem and crying out for repentance. The blood-responsibility placed upon the watchman who fails to warn anticipates the costly nature of prophetic ministry that finds its fullest expression in the One who shed His own blood to deliver those He came to save.",
+        "The divine declaration in verses 11 through 20 unveils the very heart of God—\"I have no pleasure in the death of the wicked\"—a truth that runs like a golden thread through all Scripture, finding its ultimate demonstration at Calvary. Here the Lord establishes a principle that shatters presumption in both directions: the righteous cannot rest upon past faithfulness if they turn to wickedness, nor are the wicked forever condemned if they genuinely repent. This pattern of divine justice anticipates the new covenant reality where transformation, not mere external conformity, marks the people of God.",
+        "When the fugitive arrives with news of Jerusalem's fall, Ezekiel's muteness ends—his tongue is loosed, and his vindication as a true prophet is complete. Yet the people's response reveals the perennial danger of treating God's word as entertainment rather than summons. They gather to hear beautiful words while their hearts pursue unjust gain, a warning that echoes into every age of the church.",
+        "For believers dwelling between Christ's advents, Ezekiel 33 sounds an urgent call. The church inherits the watchman's commission, bearing responsibility to proclaim both judgment and mercy. The God who takes no pleasure in death has demonstrated this at the cross; the invitation to repentance remains open until the final trumpet sounds."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_033",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.170212+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

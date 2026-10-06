@@ -1,0 +1,57 @@
+{
+  "book": "2 Samuel",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 10 — When Kindness Is Misread",
+      "overview": [
+        "In this passage, David's gesture of genuine compassion becomes the catalyst for misunderstanding, suspicion, and ultimately unnecessary war—a humbling reminder that even our best intentions can be distorted by the fears and shame of others.",
+        "When King Nahash of Ammon dies, David resolves to show kindness to his son Hanun, honoring both the memory of their relationship and the dignity of a grieving family. This is David at his best: magnanimous, forward-thinking, seeking peace through generosity. Yet Hanun's advisors poison his mind, convincing him that David's messengers are actually spies sent to scout the land for invasion. What David meant as a bridge becomes, in their interpretation, a trap.",
+        "In that fatal moment, Hanun responds with public humiliation—he mutilates David's servants and sends them back shamed. David, faced with this shocking rejection and affront, has little choice but to defend his honor and his people. The misreading of kindness ignites a destructive cycle of pride, shame, and bloodshed that costs thousands of lives and leaves deeper scars on both kingdoms.",
+        "This painful narrative speaks to our contemporary experience with unsettling accuracy. How often do our sincere efforts to reach out, reconcile, or help get twisted by the insecurities and assumptions of others? We cannot always control how our actions are received or interpreted. Sometimes people project their own fears onto our intentions. Sometimes our attempts at bridge-building are met with defensive hostility born from past wounds we know nothing about.",
+        "The text does not offer us simple resolution—only the ache of fractured relationships and the reality that sin distorts perception in all directions. Yet it calls us to examine our own hearts: Are we too quick to suspect motives? Do our own shame and insecurity make us defensive toward genuine kindness?",
+        "What past misunderstanding in your own life might be waiting for honest conversation and renewed trust?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 10: Scholarly study",
+      "overview": [
+        "Second Samuel 10 narrates the diplomatic rupture between Israel and the Ammonite kingdom, providing crucial historical context for understanding David's expanding military campaigns and the geopolitical dynamics of the early monarchic period. The chapter divides naturally into two movements: the humiliation of David's ambassadors (vv. 1–5) and the subsequent military confrontation with the Ammonite-Aramean coalition (vv. 6–19). The death of Nahash the Ammonite king occasions David's gesture of covenant loyalty (ḥesed), reflecting ancient Near Eastern diplomatic protocols wherein treaty relationships required renewal upon royal succession.",
+        "The term ḥesed in verse 2, rendered variously as \"kindness\" or \"loyalty,\" carries significant covenantal weight, suggesting a formal alliance between David and Nahash—possibly established during David's fugitive years when both shared Saul as a common adversary. Hanun's advisors interpret David's embassy with suspicion, employing the verb *rāgal* (\"to spy out\"), which connects lexically to the reconnaissance narratives in Joshua and Numbers. Their counsel reflects the precarious nature of ancient diplomacy, where ambassadors frequently served dual purposes as intelligence gatherers.",
+        "The shaving of beards and cutting of garments constituted profound dishonor in ancient Semitic culture. The beard (zāqān) symbolized masculine dignity and social standing; its forcible removal represented emasculation and public shaming. David's instruction that the men remain at Jericho until their beards regrew demonstrates pastoral sensitivity while acknowledging the gravity of their humiliation.",
+        "The military narrative introduces significant Aramean powers—Beth-rehob, Zobah, Maacah, and Tob—whose hired intervention reveals Ammon's recognition of inadequate military resources. The tactical description of Joab's two-front battle strategy showcases Israelite military sophistication, while his theological declaration in verse 12 (\"the LORD will do what is good in his eyes\") balances human agency with divine sovereignty. The concluding Aramean capitulation establishes David's hegemony over the Transjordanian region, fulfilling aspects of the Abrahamic territorial promises.",
+        "Scholars debate the chapter's relationship to the parallel account in First Chronicles 19, noting minor variations that illuminate the Chronicler's theological emphases. This narrative also establishes essential background for the Bathsheba episode in chapter 11, where the Ammonite siege at Rabbah provides the setting for David's moral collapse."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 10: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before Christ's incarnation, during the zenith of David's reign around 990 BC, when the united monarchy stood as the fullest expression of theocratic rule Israel would ever experience before the coming of the true King. Within the grand arc of redemption, we stand firmly in the Kingdom phase—that glorious yet fragile era when God's anointed shepherd-king prefigured the reign of the Greater David who would one day sit upon an everlasting throne.",
+        "The narrative opens with David extending covenant kindness to Hanun, king of the Ammonites, seeking to honor the memory of Nahash's loyalty. Here shines a profound typological reality: David, the victorious king secure in his dominion, reaches out in grace to a foreign nation. This pictures Christ extending covenant mercy to the Gentiles—those who were once strangers to the promises, now invited into fellowship with the King of Kings. Yet Hanun's advisors poison his perception, convincing him that David's ambassadors are spies. The resulting humiliation of David's servants—their beards half-shaved, their garments cut to expose their shame—becomes an act of war against the throne itself.",
+        "What unfolds prophetically demonstrates the certain judgment awaiting those who despise the King's messengers. Throughout redemptive history, the pattern holds: those who shame the servants of the Lord make themselves enemies of the Lord Himself. The Ammonites, recognizing their offense has made them odious to David, hire Syrian mercenaries to bolster their defenses. Yet no coalition of earthly powers can withstand the Lord's anointed. Joab and Abishai execute brilliant military strategy, routing both the Syrians and the Ammonites in devastating defeat. When Hadadezer gathers all Syria for a decisive confrontation at Helam, David himself crosses the Jordan and annihilates them, causing tributary nations to abandon their alliance and make peace with Israel.",
+        "This military triumph foreshadows Christ's ultimate victory over all hostile powers arrayed against His kingdom. The nations may rage and conspire together, but the Father has installed His King on Zion's holy hill. Every knee shall bow—willingly in worship or forcibly in judgment.",
+        "For the church dwelling between the advents, this chapter speaks with prophetic clarity: the world will misinterpret the grace extended through Christ's ambassadors. Persecution and shame will come. Yet the King remembers every indignity suffered by His servants, and He is marching toward that final day when every enemy will become His footstool, and those who trusted His covenant kindness will share in His eternal triumph."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.492941+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

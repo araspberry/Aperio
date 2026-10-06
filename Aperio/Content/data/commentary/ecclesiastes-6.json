@@ -1,0 +1,57 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 6: The Hunger That Wealth Cannot Satisfy",
+      "overview": [
+        "The deepest spiritual problem Ecclesiastes diagnoses is not poverty but the human heart's capacity to have everything and still feel empty. In this chapter, the Teacher forces us to confront an unsettling truth: material abundance, without wisdom and contentment, becomes its own peculiar form of misery.",
+        "The passage opens with a sobering image—a person blessed with wealth, possessions, and honor, yet unable to enjoy any of it. Instead of gratitude, there is restlessness. Instead of peace, there is frustration. The Teacher then asks a penetrating question: What good is having much if the soul remains spiritually malnourished? This is not the complaint of a pauper but the confession of someone who has tested pleasure's promises and found them hollow.",
+        "What makes this chapter particularly relevant to our modern age is its unflinching exposure of consumerism's lie. We live in a culture that whispers constantly: \"Just one more purchase, one more achievement, one more accomplishment—then you'll be satisfied.\" Yet Ecclesiastes testifies that this is vanity. A person may accumulate a lifetime's worth of desires fulfilled, only to discover that satisfaction itself is what eludes them.",
+        "The chapter concludes with a striking image: both the toiling rich and the satisfied poor benefit from simply eating and drinking with a calm soul. This is not permission for indulgence but an invitation to contentment—to recognize that life's deepest goods are often the simplest: food, rest, and peace with God.",
+        "The spiritual revolution Ecclesiastes calls for is not a change in circumstance but a change in desire. It beckons us away from the endless treadmill of wanting and toward the richer freedom of being content with enough.",
+        "What desires are you chasing that, if fulfilled, would still leave your soul hungry? Where might the Lord be inviting you toward simpler, deeper satisfactions?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 6: Scholarly study",
+      "overview": [
+        "Ecclesiastes 6 continues the Preacher's sustained meditation on the vexing disparity between divine blessing and human satisfaction, forming a coherent unit that bridges the preceding discourse on wealth (chapter 5) with the proverbial collection that follows (chapter 7). The chapter divides naturally into two movements: verses 1–6 present a hypothetical case study of unfulfilled prosperity, while verses 7–12 offer broader philosophical reflections on human limitation and the inscrutability of what constitutes genuine good.",
+        "The opening verses describe what Qoheleth terms a \"grievous evil\" (*raʿah rabbah*)—a person whom God grants wealth, possessions, and honor, yet who cannot enjoy (*ʾakal*, literally \"eat\") these blessings because a stranger consumes them instead. The Hebrew verb *šālaṭ* in verse 2, indicating the capacity to \"have power over\" or \"master\" one's possessions, suggests that enjoyment requires more than mere ownership; it demands a divinely granted ability to appropriate what one possesses. This theological nuance positions God as the ultimate arbiter of human satisfaction, a theme resonating throughout wisdom literature.",
+        "The shocking declaration that a stillborn child (*nēpel*) fares better than the unfulfilled rich man intensifies the argument through hyperbolic comparison. Though the stillborn enters darkness nameless and without experience, it possesses what the dissatisfied wealthy person lacks: rest (*naḥat*). This term carries connotations of settled tranquility, standing in sharp contrast to the restless accumulation that characterizes the unsatisfied life.",
+        "The chapter's second half pivots toward epistemological concerns. The rhetorical questions of verses 8 and 11–12 emphasize human inability to discern what is truly \"good\" (*ṭôb*) during one's fleeting days, described memorably as passing like a shadow. The query \"who can tell a person what will happen under the sun after them?\" underscores the temporal limitations constraining human knowledge and planning.",
+        "Interpreters debate whether Qoheleth's perspective reflects cynical despair or realistic wisdom meant to redirect readers toward present enjoyment and divine dependence. Within the canonical context, this passage functions as part of the larger dialectic between observed injustice and theological affirmation that characterizes the book's distinctive contribution to Israelite wisdom, preparing readers for the more prescriptive counsel that emerges in subsequent chapters."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 6: Prophetic perspective",
+      "overview": [
+        "Ecclesiastes 6 emerges from the pen of Solomon approximately 950 years before the incarnation of Christ, written during the zenith of Israel's united monarchy when Jerusalem stood as the center of wisdom and wealth in the ancient Near East. This passage falls within the Wisdom Literature era, positioned between the establishment of David's eternal covenant and the eventual division and exile of the kingdom—a time when Israel possessed every material blessing yet stood on the precipice of spiritual decline.",
+        "Within the grand redemptive arc, Ecclesiastes occupies a crucial space between Kingdom and Exile, serving as a prophetic diagnosis of humanity's condition under the curse. Solomon, the son of David who built the temple, functions here as a type of the greater Son of David who would come. Yet where Solomon's wisdom could only expose the wound of human vanity, Christ would bring the healing. The Preacher's exhaustive search \"under the sun\" anticipates the necessity of One who would descend from above the sun—from heaven itself—to break the endless cycle of futility.",
+        "Chapter 6 intensifies the indictment against life apart from God's redemptive intervention. The man who possesses wealth, honor, and children yet cannot enjoy them stands as a type of Adam's race—possessing Eden's abundance yet losing it through the curse. The stillborn child who finds more rest than the wealthy man unable to satisfy his soul points forward to the great reversal Christ proclaimed: the last shall be first, the poor in spirit inherit the kingdom. This haunting comparison exposes what the cross would later confirm—that life measured by accumulation leads only to the grave, while death in God's purposes can lead to eternal rest.",
+        "The rhetorical question \"who can tell a man what will be after him under the sun?\" echoes across the centuries until answered by Christ's resurrection. The sealed future that tormented the Preacher has been unsealed by the Lamb. The \"shadow\" existence described here awaited the substance that came in Christ, in whom all the fullness of God dwells bodily.",
+        "For the church living between the advents, Ecclesiastes 6 serves as a perpetual guard against the prosperity gospel's deception and a summons to find satisfaction in Christ alone. The vanity diagnosed here has been conquered but not yet eradicated—we taste the firstfruits while groaning for final redemption. Until Christ returns to make all things new, this chapter reminds believers that no earthly portion can substitute for the inheritance kept in heaven, imperishable and unfading."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.674807+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

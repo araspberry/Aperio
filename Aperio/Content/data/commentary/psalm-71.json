@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 71,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 71 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 71: A Lifetime Anchor in God's Faithfulness",
+      "overview": [
+        "The deepest cry of this psalm is the assurance that God's faithfulness extends across our entire lifespan—from childhood dependence through aging vulnerability. Here we encounter a soul clinging to God not despite the ravages of time, but because of time's very proof of His steadfast love.",
+        "The psalmist opens with urgent appeal: \"In you, O Lord, I take refuge.\" This is not the tentative hope of someone testing the waters, but the decisive commitment of one with a lifetime of evidence. Notice how the prayer moves backward through memory and forward through faith. The writer recalls being \"cast upon you from my birth\"—suggesting a history of reliance on God that stretches back to the beginning. This is profoundly comforting: God's care is not something we must earn or maintain through perfect obedience, but something woven into our very existence from the start.",
+        "What makes Psalm 71 especially relevant for our scattered modern moment is its unflinching honesty about aging and decline. The psalmist does not pretend that bodily strength remains constant or that enemies disappear with maturity. Instead, the prayer acknowledges real fear: \"Do not cast me away when my strength is spent.\" Yet even in this vulnerability lies the deepest faith. The psalmist knows that physical decline does not diminish God's power or presence. The body may age, but the covenant holds.",
+        "The psalm's power lies in its stubborn, lived certainty. This is not theoretical trust but the hard-won confidence of someone who has tested God's character across decades and found Him faithful. Each gray hair becomes a testimony; each challenge overcome becomes a reason to praise.",
+        "As we face our own seasons of change and uncertainty, this psalm invites us to build our lives on the same foundation: a God whose faithfulness does not fluctuate with our circumstances or capacities. What season of life are you in right now, and how might God's lifelong faithfulness speak directly to your current fears?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 71: Scholarly study",
+      "overview": [
+        "Psalm 71 stands as one of the most poignant prayers of the Hebrew Psalter, presenting the voice of an elderly suppliant who has known divine faithfulness from youth and now pleads for continued protection in the vulnerability of old age. The psalm lacks a superscription in the Masoretic tradition, though the Septuagint attributes it to David and connects it with the sons of Jonadab during the Babylonian exile. Most scholars recognize its close literary relationship with Psalm 70, which may explain its untitled status, treating it as a continuation or liturgical companion piece. The extensive verbal parallels with Psalms 22, 31, and 35 suggest either common authorship, shared liturgical tradition, or deliberate intertextual borrowing characteristic of late psalmody.",
+        "The theological architecture of the psalm revolves around the Hebrew term *mivtach* (מִבְטָח, \"confidence\" or \"trust\"), appearing in verse 5, which establishes the foundational disposition of the petitioner toward Yahweh. This trust is not abstract but rooted in biographical memory—the psalmist recalls being sustained from the womb (*mibeten*, מִבֶּטֶן), creating a comprehensive temporal framework encompassing birth, youth, and anticipated old age. The term *tzedaqah* (צְדָקָה, \"righteousness\") appears with remarkable frequency throughout, functioning not merely as a divine attribute but as the saving activity of God that the psalmist both celebrates and invokes.",
+        "The passage's literary structure reveals a sophisticated alternation between petition and praise, with verses 1-13 dominated by urgent requests for deliverance from enemies, while verses 14-24 shift toward confident anticipation of future thanksgiving. The enemies' accusation that God has abandoned the aged worshiper (verse 11) represents both the crisis of the psalm and its theological stakes—whether divine covenant faithfulness endures through human frailty.",
+        "Interpreters have debated whether this psalm reflects individual experience or functions as a representative voice for the marginalized elderly within Israel's worshiping community. The transmission of faith across generations emerges as a significant concern in verses 17-18, where the psalmist desires preservation specifically to declare divine mighty acts to subsequent generations, thereby situating personal suffering within the larger narrative of communal memory and testimony."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 71: Prophetic perspective",
+      "overview": [
+        "This psalm emerges from the latter period of David's life, approximately one thousand years before Christ's advent, when the aging king faced the rebellion of his son Absalom and the betrayal of trusted counselors. Within the grand arc of redemption, this prayer stands in the Kingdom epoch—that pivotal era when God established His throne in Israel through David's line, pointing forward to the eternal throne that Christ would inherit. Here the aged servant cries out not merely for personal deliverance but voices the groan of all God's people awaiting their final vindication.",
+        "The psalmist's declaration \"In You, O LORD, I have taken refuge\" echoes the foundational covenant promise threading from Eden's protevangelium through Abraham's blessing to Sinai's sheltering wings. This refuge motif finds its ultimate expression in Christ Himself, the Rock of Ages, the Stronghold into whom believers flee. When the psalmist confesses \"You have been my trust from my youth,\" he traces a lifetime of faithfulness that typologically prefigures the Son's perfect trust in the Father—from Bethlehem's manger through Gethsemane's agony to Calvary's darkness.",
+        "The cry against enemies who say \"God has forsaken him\" carries profound prophetic weight. These very words find their terrible fulfillment at Golgotha, where mockers hurled this accusation at the crucified Messiah. Yet the psalmist's confidence—\"Do not cast me off in the time of old age\"—speaks to the resurrection hope that God will not abandon His Holy One to see corruption. What David feared in his declining years, Christ conquered absolutely through His triumph over death.",
+        "The vow to declare God's righteousness \"to this generation\" and His power \"to all who are to come\" has been fulfilled through the gospel proclamation that continues from Pentecost until the Lord's return. The church inherits this testimony, standing as witnesses between the ages, declaring Christ's mighty acts to each successive generation until He comes.",
+        "The restoration promised—\"You will revive me again, and bring me up again from the depths of the earth\"—points beyond David's temporal deliverance to the bodily resurrection awaiting all who trust in David's greater Son. For the church dwelling in this present age, this psalm teaches that faithful endurance through suffering, unwavering trust amid apparent abandonment, and confident proclamation of God's righteousness constitute our calling until that day when every mouth confessing Christ shall be filled with His praise forevermore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_071",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.31706+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

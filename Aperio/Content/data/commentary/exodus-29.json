@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 29: The Sacred Beauty of Consecration",
+      "overview": [
+        "God's meticulous instructions for consecrating Aaron and the priests reveal a profound spiritual truth: our access to God's presence requires intentional preparation, cleansing, and surrender. This chapter moves beyond abstract theology into concrete, embodied worship—showing us that holiness touches every dimension of our lives.",
+        "The elaborate ritual described here—the anointing oil, the sin offerings, the wave offerings—communicates something our hurried hearts desperately need to hear: drawing near to God matters enough to deserve our focused attention and care. When Aaron and his sons are washed, clothed in priestly garments, and anointed with oil, they're not merely going through ceremonial motions. They're being set apart, their whole persons—body, mind, will—consecrated for sacred service. God doesn't want a fragment of our worship; He calls for integrated devotion.",
+        "This passage also reveals God's surprising tenderness. Despite the strictness of the requirements, there's profound grace in the provision. God provides the means of atonement through the sin offering. God ensures the priests are fed by the fellowship offerings. The eight-day ordination isn't punishment but protective scaffolding, giving them time to adjust to their new calling before entering full duties. God is preparing them, not abandoning them to sink or swim.",
+        "For us, this echoes in our own spiritual preparation. Before we lead others, serve in ministry, or approach God's presence in prayer, we need seasons of intentional consecration. We need to be washed by God's Word, clothed in Christ's righteousness, and anointed by His Spirit. The priesthood of all believers means each of us participates in this sacred calling.",
+        "The beauty of Exodus 29 is that it teaches us holiness isn't a distant, impossible standard. Rather, it's a loving invitation to be set apart for something greater than ourselves—to step into God's presence not as strangers, but as beloved servants.",
+        "What area of your life is the Spirit inviting you to consecrate more fully to His service?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 29: Scholarly study",
+      "overview": [
+        "Exodus 29 presents a detailed priestly ordination ritual that stands at the heart of the Pentateuchal cultic legislation, following the instructions for constructing the tabernacle and its sacred vestments in chapters 25–28. This chapter, attributed to the Priestly source by most critical scholars, reflects the theological concerns of Israel's postexilic community regarding proper worship and sacred boundaries, though the traditions it preserves likely extend considerably earlier. The ritual described here establishes Aaron and his sons in perpetual priestly office, creating a hereditary institution that would define Israelite worship for centuries.",
+        "The central concept governing this passage is consecration, expressed through the Hebrew verb *qadash*, meaning to set apart or make holy. The elaborate seven-day ritual transforms ordinary Israelites into sacred personnel capable of mediating between YHWH and the community. The process involves washing (*rachats*), signifying purification from common impurity, followed by investiture with the priestly garments described in the preceding chapter. Particularly significant is the anointing with oil, which creates an ontological change in status, marking the priests as belonging to the divine sphere.",
+        "The sacrificial sequence—bull as sin offering, first ram as burnt offering, and second ram as ordination offering—follows a carefully ordered logic. The term for ordination offering, *millu'im* (literally \"filling\"), derives from the idiom \"to fill the hand,\" likely referring to the portions placed in the priests' hands during consecration. This ceremony effectively transfers authority and responsibility for sacrificial ministry. The blood manipulation ritual, involving application to the right ear, thumb, and toe, consecrates the whole person for sacred service—hearing divine instruction, handling sacred objects, and walking in holy spaces.",
+        "The chapter concludes with YHWH's promise to dwell among Israel, revealing the ultimate purpose behind these elaborate preparations. Some interpreters debate whether the chapter describes an idealized ritual never fully enacted or preserves authentic ancient practice. The relationship between this text and the narrative fulfillment in Leviticus 8–9 has also generated scholarly discussion regarding compositional history. Regardless, Exodus 29 articulates a profound theological vision: human beings, properly consecrated, may serve in the presence of the holy God who has chosen to tabernacle with Israel."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 29: Prophetic perspective",
+      "overview": [
+        "Exodus 29 emerges from the wilderness encampment at Sinai, approximately 1446 years before the incarnation of Christ, during the foundational period when Israel had been delivered from Egypt but not yet entered the Promised Land. This chapter stands at the hinge point between the Abrahamic promise and the establishment of the Davidic kingdom, belonging to that crucial era when God was constituting a priestly nation through whom all families of the earth would be blessed. The elaborate consecration ritual described here was prophetic instruction—shadows cast backward from Calvary's hill onto the desert sands.",
+        "The seven-day ordination of Aaron and his sons into priestly service presents one of Scripture's most concentrated foreshadowings of Christ's ultimate priesthood. The washing with water, the clothing with holy garments, and the anointing with oil trace the contours of Jesus's own consecration—baptized in Jordan, clothed with righteousness, and anointed with the Spirit without measure. Yet where Aaron required repeated washings because of inherent uncleanness, the Son of God submitted to baptism to fulfill all righteousness, needing no purification but sanctifying the waters themselves.",
+        "The blood ritual reveals profound typological significance. Blood placed upon the right ear, thumb, and toe of the priests consecrated their hearing, their working, and their walking to holy service. This same pattern appears in the cleansing of lepers, binding priesthood and purification together—a connection only resolved when the Great High Priest became simultaneously the offering and the offerer, the cleansed leper and the cleansing priest. The ram of ordination, whose blood marked the priests, pointed to the Lamb whose blood would consecrate a kingdom of priests from every nation.",
+        "Most remarkably, this chapter culminates not in priestly activity but in divine promise: \"I will dwell among the children of Israel and will be their God.\" The entire sacrificial system, the tabernacle itself, existed for this singular purpose—Emmanuel, God with us. What was architecturally achieved in the tabernacle became incarnationally realized in Christ, who tabernacled among humanity, and will find consummate expression when the dwelling of God descends as the New Jerusalem.",
+        "The church now lives as a royal priesthood, consecrated not by animal blood but by the blood of the eternal covenant. Believers hear the echo of ordination in their own calling—ears consecrated to hear His voice, hands devoted to His service, feet directed in His paths. The shadows have passed; the substance remains forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.836308+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

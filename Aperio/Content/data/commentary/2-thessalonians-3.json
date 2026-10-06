@@ -1,0 +1,56 @@
+{
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Thessalonians 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Thessalonians 3: Living Faithfully Until the End",
+      "overview": [
+        "The spiritual heart of this chapter lies in Paul's tender concern for a community tempted toward spiritual laziness and restlessness. He urges the Thessalonians to continue in steady, faithful living—not as a burden, but as the natural overflow of genuine faith working through love.",
+        "Paul opens by asking for prayer, acknowledging that the gospel's advance depends on both the apostle's faithfulness and the church's intercession. This humility reminds us that no spiritual leader stands alone. We all need one another's prayers and support to persevere. He then addresses a troubling reality: some believers have stopped working and have become disruptive busybodies, possibly because they believed Christ's return was so imminent that daily labor seemed pointless. Paul's response is neither harsh nor dismissive. Instead, he models the very thing he teaches—he worked with his own hands to support himself, setting an example of dignity in labor.",
+        "The principle Paul articulates transcends first-century concerns: work is not a curse but a calling. When we labor faithfully, we participate in God's creative design and provide for our own needs without burdening others. This frees us to give generously and live with integrity. Yet Paul recognizes that some cannot work due to genuine need, so the church must never abandon compassion. The balance he strikes—accountability without coldness, encouragement without enabling—remains vital for Christian community today.",
+        "Perhaps most movingly, Paul addresses those who've grown weary of well-doing. He doesn't promise that faithfulness will be easy or that struggle will disappear before Christ returns. Rather, he calls believers to steadfast perseverance, to live orderly lives, and to continue working for peace and righteousness. This is the patient endurance of hope—not passive waiting, but active, faithful living in the present.",
+        "What area of your life feels weary or pointless right now? How might viewing that struggle as an expression of faith in Christ reshape your perspective and renew your heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Thessalonians 3: Scholarly study",
+      "overview": [
+        "The third chapter of Paul's second letter to the Thessalonian church represents the epistolary conclusion while addressing practical concerns that had evidently intensified since his first correspondence. Writing from Corinth around 51-52 CE, Paul confronts a persistent problem of disorderly conduct rooted in eschatological misunderstanding, likely exacerbated by the confusion addressed in chapter two regarding the Day of the Lord.",
+        "Paul opens with a request for prayer, employing the verb *trechō* (τρέχω, \"to run\"), a metaphor drawn from athletic competition common in Greco-Roman discourse, expressing his desire that the gospel message spread rapidly and be honored. The transition to addressing the \"disorderly\" (*ataktoi*, ἄτακτοι) represents the chapter's central concern. This term, originally military vocabulary describing soldiers who broke rank, had broader application in Hellenistic moral discourse to those who violated social expectations. In the Thessalonian context, it specifically designates those who had ceased working, likely in anticipation of Christ's imminent return.",
+        "Paul's response appeals to *paradosis* (παράδοσις, \"tradition\"), a technical term for authoritative teaching transmitted from teacher to community. This appeal to apostolic tradition demonstrates early Christian concern for doctrinal and ethical continuity. Paul presents himself as the exemplary model, noting that he worked with his own hands rather than burdening the community—a remarkable statement given that accepting financial support from converts was an established apostolic right.",
+        "The famous injunction \"if anyone will not work, neither shall he eat\" reflects both Jewish wisdom tradition and Greco-Roman attitudes toward labor, though some scholars detect echoes of a proverbial saying. Significantly, Paul commands the congregation to avoid associating with the idle while simultaneously clarifying that such persons should be admonished as fellow believers rather than treated as enemies—a nuanced balance between discipline and restorative purpose.",
+        "The chapter's conclusion features Paul's authentication mark, noting his signature as a safeguard against forgery, which gains significance given the reference in 2:2 to potentially spurious letters. This authentication concern has fueled scholarly debate regarding Pauline authorship, with some viewing it as genuine apostolic practice and others as a later imitator's device. The closing benediction emphasizes peace, bookending the letter with the pastoral warmth characteristic of Pauline correspondence despite its corrective tone."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Thessalonians 3: Prophetic perspective",
+      "overview": [
+        "This epistle reaches the church in Thessalonica approximately twenty years after the resurrection and ascension of Christ, written by the Apostle Paul around AD 51–52 during his ministry in Corinth. The young congregation stands in the earliest decades of the church age, that mysterious interval between Christ's first advent and His promised return—an era the prophets glimpsed only dimly but which the apostles now inhabited with urgent expectation. Within the grand redemptive arc, this passage belongs to the Church Age, that period following Pentecost when the Spirit indwells believers, the gospel advances among the nations, and the people of God await the consummation of all things at Christ's appearing.",
+        "Paul opens this final chapter with a request for prayer that the word of the Lord would \"run and be glorified\"—language echoing the psalmist's declaration that God's word runs swiftly throughout the earth. Here the apostle reveals the missionary heartbeat of the new covenant era: the gospel must spread with speed and power until it reaches every corner of creation. This is the fulfillment of God's ancient promise to Abraham that through his seed all nations would be blessed, now manifesting through the proclamation of Christ crucified and risen.",
+        "The apostle's confidence that \"the Lord is faithful\" who will \"establish and guard\" the Thessalonians from the evil one carries profound eschatological weight. The serpent who deceived in Eden, who prowled throughout Israel's history, who tempted Christ in the wilderness—this ancient adversary still wages war against the saints. Yet the Faithful One who crushed the serpent's head at Calvary continues His protecting work until the final victory.",
+        "Paul's stern instruction concerning the disorderly—those who refused to work while awaiting Christ's return—corrects a dangerous misunderstanding of eschatology. Some believers had apparently abandoned their earthly responsibilities, presuming the Lord's imminent return rendered daily labor meaningless. The apostle reorients their vision: faithful living in the present age is itself a testimony to the coming kingdom. The pattern Paul established—working with his own hands, becoming no burden to others—typifies Christ Himself who labored in obscurity before His public ministry and taught that the greatest must serve.",
+        "For the church today, still positioned between the advents, this chapter speaks with undimmed relevance. Believers are called to faithful labor, mutual accountability, patient endurance, and confident hope—neither so consumed by present concerns that eternity fades nor so fixated on the future that present duties dissolve. The Lord who is faithful will complete His work."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "53_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.921784+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

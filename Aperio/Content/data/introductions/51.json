@@ -1,0 +1,129 @@
+{
+  "book": "1 Thessalonians",
+  "bookIndex": 51,
+  "status": "Editorial draft",
+  "title": "1 Thessalonians: Hope That Cares for the Living",
+  "subtitle": "Paul and his coworkers encourage a young church to endure, love deeply, and grieve with hope.",
+  "atAGlance": {
+    "genre": "Apostolic pastoral letter",
+    "setting": "A recently formed congregation in Thessalonica facing opposition and questions about believers who have died.",
+    "composition": "Written by Paul with Silvanus and Timothy, around AD 50–51; among the earliest surviving Christian writings.",
+    "audience": "The church in Thessalonica, whose faith and love are reported by Timothy."
+  },
+  "sections": [
+    {
+      "title": "A young church remembered with affection",
+      "paragraphs": [
+        "First Thessalonians opens in gratitude for a community’s faith, love, and hope. Paul and his coworkers remember how the message was received and how the believers’ changed lives became known beyond their city. Turning from idols to serve God involved a new allegiance with social consequences. The church’s endurance is therefore a matter of deep concern to those who helped establish it.",
+        "The letter is unusually tender. Paul recalls sharing not only the gospel but his own life, using the language of family care. Separation has been painful, and Timothy’s visit has brought welcome news. Such affection is part of the theological message. The gospel creates relationships in which the condition of another community matters personally, and encouragement becomes a serious responsibility."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "An early witness to Christian life",
+      "paragraphs": [
+        "The greeting names Paul, Silvanus, and Timothy, and much of the letter speaks with a shared “we.” Paul is generally recognized as its principal author. It is commonly dated around AD 50–51, making it one of the earliest New Testament writings. The account in Acts provides additional context for the mission in Thessalonica, while the letter gives direct access to the missionaries’ concerns.",
+        "The congregation has experienced pressure, and the missionaries defend the sincerity of their conduct. Their appeal to remembered labor and care suggests that their motives may have been questioned. We do not possess every accusation or conversation behind the letter. What is clear is their desire to strengthen the church’s confidence and help its members continue in holiness, mutual love, and expectation of Jesus’ return."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Faithfulness in the ordinary work of life",
+      "paragraphs": [
+        "The first three chapters look back on the relationship, but their purpose is to encourage further growth. Timothy’s report prompts prayer that love will increase and hearts will be strengthened. Chapters 4–5 then address conduct more directly. The community is called to honor God in bodily life, treat others without exploitation, and continue growing in love.",
+        "Paul also urges a quiet, responsible life and work that avoids unnecessary dependence. This counsel belongs beside the letter’s warmth and shared concern. Expectation of the Lord’s coming is compatible with attention to daily responsibilities. Holiness includes the way people conduct themselves toward neighbors and the care they take with obligations. The future hope being proclaimed should make the present community more trustworthy and more generous."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Grief within the promise of resurrection",
+      "paragraphs": [
+        "Some believers have died, and the community needs assurance about their place when Jesus returns. Paul begins with the death and resurrection of Jesus. Those who have died in Him will not be left behind. The vivid description of the Lord’s coming culminates in the promise that His people will be with Him together.",
+        "The pastoral direction is explicit: use this teaching to comfort one another. Its purpose is therefore easily lost when the passage becomes mainly a timetable for speculative predictions. Paul allows grief while placing it within hope. The promise concerns belonging that death cannot finally destroy. The following discussion of the day of the Lord turns from calculation toward wakefulness, faith, love, and the hope of salvation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A community able to encourage different needs",
+      "paragraphs": [
+        "The closing instructions distinguish among people who require different forms of care. The idle need correction, the fainthearted encouragement, the weak support, and everyone patience. This is a remarkably attentive picture of communal responsibility. A single harsh response cannot address every condition. Discernment begins by noticing what a person actually needs.",
+        "Prayer, gratitude, testing what is heard, and holding to what is good belong to the same pattern. The Spirit’s work is to be welcomed with discernment. The prayer for the community’s complete sanctification rests in the faithfulness of the God who calls them. The letter closes as it began, within grace and shared belonging.",
+        "Read First Thessalonians as an early portrait of hope becoming a way of life. The expectation of Christ’s return shapes comfort in bereavement, integrity in work, and patient attention to others. Its most searching question is how a congregation can become strong enough to hold grief, pressure, and joy together. Paul’s answer grows through remembrance of Jesus, the encouragement of coworkers, and steady acts of mutual care."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "A remembered partnership",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Thanksgiving, the missionaries’ conduct, separation, and Timothy’s report."
+    },
+    {
+      "label": "Holiness, love, and resurrection hope",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Daily conduct and comfort concerning believers who have died."
+    },
+    {
+      "label": "Wakefulness and mutual encouragement",
+      "startChapter": 5,
+      "endChapter": 5,
+      "description": "The day of the Lord, community care, discernment, and blessing."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Faith, love, and hope",
+      "description": "The community’s endurance has practical and relational expression."
+    },
+    {
+      "name": "Comfort in grief",
+      "description": "Jesus’ resurrection grounds the hope of being with Him together."
+    },
+    {
+      "name": "Patient care",
+      "description": "Different needs call for wise, attentive encouragement."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Around AD 50–51",
+    "context": "One of the earliest surviving letters of the Christian movement. Its future-facing passages encourage faithful life in the community’s present circumstances.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 5,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Around AD 50–51",
+      "note": "One of the earliest surviving letters of the Christian movement. Its future-facing passages encourage faithful life in the community’s present circumstances."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Thessalonians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "1 Thessalonians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/1-thessalonians/lessons/summary-of-1-thessalonians/"
+    }
+  ]
+}

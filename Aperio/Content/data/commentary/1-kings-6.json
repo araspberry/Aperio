@@ -1,0 +1,55 @@
+{
+  "book": "1 Kings",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 6: Building God's House",
+      "overview": [
+        "The heart of this passage is that the physical construction of God's temple reflects the people's covenant commitment to Him, and the care given to this building becomes a tangible expression of worship and devotion.",
+        "Solomon's temple rises stone by stone, precisely measured and elaborately adorned, representing not mere human ambition but the fruit of a nation's love for their God. The seven-year building project, with its detailed specifications and skilled craftsmen, teaches us something profound: that which is built for God deserves excellence, planning, and sacrifice. The temple's inner walls are adorned with cedar and gold, carved with images of cherubim and open flowers—not wasteful extravagance but lavish hospitality for the God who had shown such grace to Israel. The innermost sanctuary, the Holy of Holies, remains intentionally hidden and austere, a sacred mystery shrouded in darkness where God's presence would dwell in ways beyond human comprehension.",
+        "What strikes us is not the building's grandeur alone but what it represents: a people saying yes to God with their resources, time, and creativity. In our own day, we don't construct literal temples, yet we are called the living temple of the Holy Spirit. This passage invites us to consider how we \"build\" our lives as dwellings for God's presence. Are we offering Him excellence or leftovers? Are we willing to sacrifice and invest in what honors Him? Do we cultivate both the visible beauty of obedience and the hidden depths of genuine devotion?",
+        "The temple story also reminds us that God's presence cannot be contained by human structures, yet He graciously accepts our sincere offerings. Our worship—whether in prayer, service, generosity, or consecrated living—constructs a spiritual house where God's presence transforms us from the inside out.",
+        "What does it look like for you to build your life as a temple worthy of God's dwelling presence?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 6: Scholarly study",
+      "overview": [
+        "The account of Solomon's temple construction in 1 Kings 6 represents one of the most architecturally detailed passages in the Hebrew Bible, providing specifications for what would become ancient Israel's central cultic institution. Composed within the Deuteronomistic History, this chapter likely draws upon archival temple records, though the final form reflects theological shaping by exilic or post-exilic editors who wrote with the temple's destruction firmly in mind. The narrative situates the construction precisely \"in the four hundred and eightieth year after the Israelites came out of Egypt,\" a chronological marker that symbolically positions the temple as the culmination of salvation history, with many scholars noting that 480 represents twelve generations of forty years each.",
+        "The Hebrew term *bayit* (house) carries dual significance throughout the chapter, denoting both the physical structure and Yahweh's dwelling place, thus bridging architectural and theological concerns. The interior was lined with *ʾerez* (cedar) from Lebanon, a material signifying royal prestige throughout the ancient Near East and connecting Solomon's project to broader patterns of Syro-Palestinian temple construction. The innermost sanctuary, the *debir* (inner sanctuary or \"oracle\"), measured twenty cubits in each dimension, forming a perfect cube that scholars have interpreted as representing cosmic perfection and divine completeness.",
+        "Particularly significant is the parenthetical insertion in verses 11–13, where Yahweh's conditional promise interrupts the architectural description. This theological commentary, bearing distinctly Deuteronomistic vocabulary, transforms the building account into covenantal exhortation, suggesting that divine presence depends not upon architectural magnificence but upon obedience to Torah. The tension between temple theology and prophetic critique of cultic externalism emerges here in nascent form.",
+        "The chapter's relationship to the tabernacle traditions in Exodus remains debated. Some scholars identify deliberate parallels suggesting continuity between wilderness and monarchic worship, while others emphasize discontinuities reflecting competing priestly traditions. The seven-year construction period echoes creation themes, implicitly presenting the temple as microcosm. The absence of iron tools during construction (verse 7) has been variously explained as preserving ritual purity, since iron was associated with warfare, or as reflecting archaic building practices invested with sacred significance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 6: Prophetic perspective",
+      "overview": [
+        "The construction of Solomon's temple recorded in this chapter occurred approximately 966 BC, some 480 years after Israel's exodus from Egypt, during the zenith of the united monarchy's power and peace. This places the narrative squarely within the Kingdom era of redemptive history, that brief golden age when David's throne was established and God's promises to Abraham regarding land, seed, and blessing appeared to reach their fullest Old Testament expression. The temple's completion marked the culmination of centuries of preparation—from the tabernacle in the wilderness to David's gathering of materials—yet it simultaneously pointed forward to realities far greater than cedar and gold could contain.",
+        "Every dimension of this sacred structure pulses with typological significance. The temple itself stands as a shadow of Christ's body, which He declared would be destroyed and raised in three days. The holy of holies, that perfect cube overlaid with pure gold where the Shekinah presence dwelt, anticipates both the incarnation—God tabernacling in human flesh—and the New Jerusalem descending from heaven, itself a perfect cube where God dwells eternally with His people. The cherubim overshadowing the mercy seat, their wings touching wall to wall, recall Eden's guardians while pointing to that throne of grace where mercy and justice meet at Calvary.",
+        "The divine word interrupting the construction narrative in verses eleven through thirteen carries profound prophetic weight. God's conditional promise—that He would dwell among Israel if Solomon walked in His statutes—revealed the temple's provisional nature. This glorious house would stand only as long as covenant faithfulness endured. History would demonstrate Israel's failure, the temple's destruction, and the departure of God's glory. Yet embedded in this warning lay the seed of hope: one greater than Solomon would build an eternal house not made with hands, a temple of living stones indwelt by the Spirit without condition of human merit.",
+        "The seven years of construction echo the creation week, suggesting that Solomon built a microcosm of heaven on earth, a garden-sanctuary adorned with palm trees, flowers, and cherubim—Eden restored in architectural form. Yet this restoration remained anticipatory, a pattern of heavenly things rather than the substance itself.",
+        "The church now lives as that living temple, indwelt by the Spirit, awaiting the day when shadow gives way to substance and God's dwelling with humanity requires no building at all, for the Lord God Almighty and the Lamb are its temple forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.54617+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

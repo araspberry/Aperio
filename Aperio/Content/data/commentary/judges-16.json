@@ -1,0 +1,55 @@
+{
+  "book": "Judges",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Judges 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Judges 16: The Cost of Unguarded Desires",
+      "overview": [
+        "Samson's tragic downfall teaches us that spiritual gifting never exempts us from the consequences of moral compromise. Even the mightiest among us can be undone by the pleasures we refuse to resist.",
+        "Samson possessed extraordinary strength—a supernatural gift meant to deliver Israel from Philistine oppression. Yet he squandered this calling through a pattern of sensual indulgence that revealed a deeply divided heart. His affair with Delilah was not a momentary lapse but a persistent vulnerability he willfully ignored. Three times she attempted to discover the secret of his strength, and three times he lied. But on the fourth attempt, worn down by her relentless manipulation, he surrendered the truth. The narrative invites us to see ourselves in this slow moral erosion. How often do we entertain what we know will weaken us, telling ourselves we can manage it, only to find our defenses crumbling?",
+        "What makes this passage particularly sobering is Samson's apparent obliviousness to his spiritual peril. \"He did not know that the Lord had left him\" (16:20)—these words capture the danger of taking divine grace for granted. Samson had grown so accustomed to his strength that he failed to notice when God withdrew it. His enemies gouged out his eyes, enslaved him, and reduced him to grinding grain in a prison. The man who once defeated armies now could not save himself.",
+        "Yet God's mercy persists even here. In his final moments, blind and broken, Samson calls out to the Lord, and God grants him strength one last time to pull down the temple, saving Israel in death as he had in life. This closing act reminds us that grace is never truly exhausted, but how much unnecessary suffering might have been spared by guarding his heart from the beginning?",
+        "What unguarded desire in your life might be slowly eroding your spiritual strength?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Judges 16: Scholarly study",
+      "overview": [
+        "Judges 16 constitutes the dramatic culmination of the Samson narrative (chapters 13–16), presenting the Danite judge's final exploits and catastrophic downfall through his relationship with Delilah. This chapter belongs to the latter section of Judges, which illustrates Israel's progressive moral and spiritual deterioration during the pre-monarchic period. The narrative artistry here is remarkable, employing repetition, irony, and carefully constructed dialogue to convey theological truths about covenant faithfulness, divine patience, and the consequences of persistent disobedience.",
+        "The chapter opens with Samson's visit to a prostitute in Gaza, establishing the pattern of sexual vulnerability that will prove his undoing. The Hebrew term *zonah* (prostitute) appears without authorial condemnation, yet the narrative structure itself provides implicit judgment through the sequence of events that follows. Samson's encounter with Delilah in the Valley of Sorek represents the theological center of the chapter. Her name, possibly derived from a Semitic root meaning \"devotion\" or connected to the Arabic word for \"grape,\" carries ironic undertones given her ultimate betrayal.",
+        "The fourfold repetition of Delilah's questioning and Samson's responses creates mounting tension while exposing his gradual capitulation. The verb *nagas* (to press or urge) describes her persistent manipulation, wearing down his resistance until he reveals the secret of his Nazirite consecration. When Samson discloses that a razor has never touched his head, he effectively renounces his covenantal identity. The statement that \"the LORD had left him\" represents one of Scripture's most sobering declarations, though scholars debate whether this departure was permanent or temporary given his final prayer.",
+        "The chapter's climax in the temple of Dagon presents rich theological irony. The Philistines attribute their victory to their god, yet Samson's death accomplishes more than his life, as he destroys Philistine leadership in Dagon's own sanctuary. The Hebrew *lehistaʿasheaʿ* (to entertain or make sport) indicates the Philistines' mockery, which becomes their undoing. Samson's final prayer demonstrates partial restoration, though his request for personal vengeance reveals continuing spiritual immaturity. The narrative thus presents a complex portrait of divine sovereignty working through deeply flawed human instruments."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Judges 16: Prophetic perspective",
+      "overview": [
+        "The events of Judges 16 unfold approximately 1075 years before Christ's birth, during the dark period of the tribal confederacy when \"everyone did what was right in his own eyes.\" This chapter records the final days of Samson's twenty-year judgeship over Israel, a time when the Philistine oppression weighed heavily upon God's covenant people. Within the grand sweep of redemptive history, we stand here between the Exodus deliverance and the establishment of the Davidic kingdom—in that troubled era when Israel's cyclical unfaithfulness required God to raise up flawed deliverers who prefigured the perfect Deliverer yet to come.",
+        "Samson emerges as one of Scripture's most paradoxical types of Christ—a Nazirite from birth, announced by the Angel of the Lord, empowered by the Spirit for the salvation of his people. Yet unlike the sinless Savior he shadows, Samson squandered his consecration in the lap of Delilah, trading covenant faithfulness for forbidden pleasure. His shorn locks represent the visible severing of what had already been surrendered inwardly. When he awoke saying, \"I will go out as at other times,\" unaware that the Lord had departed, we witness the terrible tragedy of presumption upon grace—a warning that echoes across every generation.",
+        "The Philistines gouged out Samson's eyes, bound him with bronze fetters, and set him to grinding grain in prison—the mighty judge reduced to the labor of beasts and women. Here the typology grows profound and mysterious. Samson, blinded and bound between two pillars, stretching out his arms in death to destroy God's enemies and deliver God's people, prefigures Christ crucified between two thieves, arms extended on the wooden beams, conquering through apparent defeat. The text declares that Samson killed more enemies in his death than in his life—a pattern perfectly fulfilled at Calvary, where Christ's death accomplished what His life of ministry could only announce.",
+        "Yet the type fails where all types must fail. Samson died for his own sins as much as for Israel's deliverance; Christ died sinless, bearing sins not His own. Samson's victory was partial and temporary; Christ's victory is complete and eternal.",
+        "For the church living between the advents, Judges 16 sounds both warning and hope. We are warned against presuming upon Spirit-empowerment while entertaining covenantal compromise. Yet we are given hope that God accomplishes His redemptive purposes even through broken vessels, and that the true and better Samson has already stretched out His arms in death, winning an eternal deliverance no Philistine power can reverse."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "07_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.366123+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "book": "Titus",
+  "bookIndex": 55,
+  "status": "Editorial draft",
+  "title": "Titus: Grace Teaches a Community to Live",
+  "subtitle": "Reliable leadership and generous conduct make the goodness of the gospel visible.",
+  "atAGlance": {
+    "genre": "Pastoral letter about leadership, teaching, and conduct",
+    "setting": "Titus is addressed on Crete with responsibility for appointing elders and strengthening local churches.",
+    "composition": "Presented as Paul’s letter to Titus. Traditional placement is in the AD 60s; many scholars favor a later Pauline setting in the late first or early second century.",
+    "audience": "Titus and the Christian communities on Crete."
+  },
+  "sections": [
+    {
+      "title": "The work of making a community trustworthy",
+      "paragraphs": [
+        "Titus presents Christian teaching as something that should produce a recognizable way of life. Leaders need integrity, households need wise instruction, and the whole community should be ready for good work. The letter is short, but its repeated concern with conduct gives it a clear direction: the gospel should become visible through people whose lives benefit others.",
+        "Paul is portrayed as having left Titus on Crete to complete unfinished work and appoint elders in the towns. The responsibility involves both organization and discernment. Some teaching is disrupting households and serving dishonest gain. Titus must therefore attend to the character of those who speak with authority. A sound message and a trustworthy messenger belong together when the well-being of a community is at stake."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The Pastoral setting and its limits",
+      "paragraphs": [
+        "The letter identifies Paul as its sender and Titus as his child in a shared faith. Alongside the two letters to Timothy, it belongs to the group called the Pastoral Epistles. Traditional interpretation places it late in Paul’s ministry, commonly in the AD 60s. Many modern scholars instead understand it as a later work carrying Paul’s teaching into a new generation, often in the late first or early second century. The authorship question remains debated.",
+        "Crete supplies the letter’s stated setting, but a complete itinerary cannot be reconstructed from its brief references. Nor should its severe quotation about Cretans become an endorsement of ethnic stereotyping. The rhetoric belongs to a specific polemical argument. The community being addressed includes Cretans whom the letter expects to become examples of faithful and honorable conduct."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Leadership and teaching at close range",
+      "paragraphs": [
+        "The qualifications for elders focus on household faithfulness, hospitality, self-control, justice, and freedom from greed or aggression. Leaders must hold to trustworthy teaching so that they can encourage others and answer error. Authority is placed under moral scrutiny. The task requires people whose daily conduct supports the instruction they give.",
+        "Chapter 2 addresses older and younger members of the community, with Titus himself expected to provide an example. Different circumstances call for particular counsel, but the recurring aims include moderation, love, perseverance, and integrity. The letter assumes ancient household structures, including slavery. Those assumptions need historical interpretation, and its instructions must never be used to justify owning people or to shield abusive power. Its wider demand is that Christian conduct display the goodness of God’s saving work."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Grace as a teacher",
+      "paragraphs": [
+        "At the center of the letter stands an account of grace that has appeared in Jesus Christ. Grace saves and also trains. It teaches people to turn from destructive desires and to live with self-control, righteousness, and devotion while awaiting the fulfillment of their hope. The future appearing of Christ gives direction to present conduct.",
+        "Chapter 3 returns to the source of salvation. God’s kindness and love act toward people who have no basis for boasting. Mercy, renewal, and the Holy Spirit provide the language of rescue. Good works then follow as a fitting concern for those who have believed. The order matters: generosity and service grow from received grace. They cannot be made a substitute for the mercy on which the whole community depends."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Public conduct and the avoidance of useless conflict",
+      "paragraphs": [
+        "The letter urges readiness for good work in public life, courtesy toward others, and freedom from slander and needless quarrels. Remembering former foolishness is meant to soften superiority. A community that knows it has received mercy should deal with its neighbors in a manner consistent with that memory.",
+        "The warning against fruitless controversies concerns arguments that consume attention without helping people live faithfully. Correction is sometimes necessary, but the aim is the health of the community. The closing travel instructions return the discussion to actual people and needs. The churches are to learn to support necessary work and avoid unfruitfulness.",
+        "Read Titus by following its repeated references to good works, then tracing each back to its account of grace. This keeps the letter from shrinking into a handbook of appearances. Its concern is a life being taught by God’s generosity. Trustworthy leadership, patient instruction, and useful service allow a congregation’s confession to gain substance in the world around it. The question is how the kindness that saved a people becomes recognizable in the kindness they practice."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Trustworthy elders and sound teaching",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Titus’s responsibility, qualifications for leaders, and harmful instruction."
+    },
+    {
+      "label": "A community trained by grace",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Counsel for shared life and the saving grace that teaches conduct."
+    },
+    {
+      "label": "Mercy and useful service",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Public gentleness, renewal, good works, and practical support."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Grace that trains",
+      "description": "God’s saving generosity forms a new way of life."
+    },
+    {
+      "name": "Reliable leadership",
+      "description": "Character gives teaching credibility."
+    },
+    {
+      "name": "Good works for common needs",
+      "description": "Faith becomes fruitful in helpful, responsible conduct."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Early Christian communities on Crete",
+    "context": "The letter’s stated address belongs to the Pauline mission. The exact date and later formation of the Pastoral Epistles remain subjects of discussion.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Early Christian communities on Crete",
+      "note": "The letter’s stated address belongs to the Pauline mission. The exact date and later formation of the Pastoral Epistles remain subjects of discussion."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Titus · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Titus · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/titus/lessons/summary-of-titus/"
+    }
+  ]
+}

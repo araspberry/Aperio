@@ -1,0 +1,54 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 22: The Heart of All Obedience",
+      "overview": [
+        "Matthew 22 invites us to discover what truly matters to God—not our surface-level religious compliance, but a love that flows from the deepest places of our hearts. Through encounters with Pharisees, Sadducees, and one perceptive scribe, Jesus strips away pretense and reveals the measure by which all of life is meant to be lived.",
+        "The chapter opens with the parable of the wedding banquet, where Jesus illustrates the lavish invitation of God's kingdom and the grave consequences of rejecting it. Yet the heart of Matthew 22 emerges most clearly in the exchange about the greatest commandment. When asked which law matters most, Jesus doesn't equivocate. He points directly to love: love God with everything you are, and love your neighbor as yourself. Then comes the stunning declaration—\"all the Law and the Prophets hang on these two commandments.\" In other words, every biblical principle, every moral boundary, every spiritual discipline finds its purpose in these two loves. They are not commands among many; they are the beating heart from which all obedience flows.",
+        "This transforms how we approach faith. We're not gathering a collection of rules to follow or boxes to check. We're learning to love—first toward our God with undivided loyalty, and then toward others with the same care we naturally extend to ourselves. The Pharisees, for all their knowledge and precision, had missed this. They had substituted technical correctness for genuine love, and Jesus exposed the tragedy of that exchange.",
+        "For disciples today, this passage cuts through the fog of religious performance. It asks: Are we following God from obligation or from love? Are we serving others from duty or from authentic affection? Do we know the difference between keeping the rules and keeping company with the God of grace?",
+        "Where in your life might Jesus be inviting you to move from mere obedience toward deeper love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 22: Scholarly study",
+      "overview": [
+        "Matthew 22 occupies a pivotal position in the escalating conflict between Jesus and the Jerusalem religious establishment during the final week before his crucifixion. Situated within the larger complex of temple controversies (21:23–22:46), this chapter presents four distinct pericopes: the parable of the wedding feast, the question of tribute to Caesar, the Sadducees' query about resurrection, and the inquiry concerning the greatest commandment, culminating in Jesus' counterquestion about David's son. The evangelist arranges these confrontations to demonstrate Jesus' superior wisdom while simultaneously pronouncing judgment upon Israel's leadership for their rejection of God's Messiah.",
+        "The parable of the wedding banquet (22:1–14) employs the Greek term *gamos* (wedding feast), a common metaphor in Jewish apocalyptic literature for messianic fulfillment. The king's violent response to those who mistreat his servants likely reflects Matthew's post-70 CE perspective, interpreting Jerusalem's destruction as divine judgment. The troubling conclusion concerning the guest without proper wedding garments (*endyma gamou*) has generated considerable scholarly debate, with interpretations ranging from allegorical readings about righteous deeds to warnings against presumptuous grace without transformed living.",
+        "The tribute question (22:15–22) introduces the term *kēnsos* (census tax), a loan word from Latin that evoked deep resentment among Jews as a symbol of Roman occupation. Jesus' famous response—\"render unto Caesar\"—employs *apodidōmi*, meaning to give back what is owed, subtly distinguishing between political obligation and ultimate allegiance to God. This passage has profoundly influenced Christian political theology, though interpreters remain divided on whether Jesus endorses, relativizes, or subverts imperial authority.",
+        "The Sadducean challenge regarding resurrection (22:23–33) reveals intra-Jewish theological disputes that Matthew's Jesus decisively resolves through scriptural exegesis. The final controversy concerning the great commandment synthesizes Deuteronomy 6:5 and Leviticus 19:18, presenting love as the hermeneutical lens through which Torah must be read. Jesus' concluding question about Psalm 110:1 reverses the interrogative dynamic entirely, silencing his opponents while implicitly asserting a messianic identity that transcends Davidic categories. Throughout, Matthew portrays Jesus as the authoritative interpreter of Scripture whose wisdom confounds all challengers."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 22: Prophetic perspective",
+      "overview": [
+        "Matthew 22 unfolds during the final week of Jesus' earthly ministry, approximately AD 30, as He teaches in the Jerusalem temple courts just days before His crucifixion. This chapter belongs to the climactic confrontation between the Messiah and Israel's religious establishment, occurring nearly two thousand years after Abraham, one thousand years after David, and mere days before the cross would become the hinge point of all redemptive history. Within the grand arc of God's plan, we stand at the threshold of the new covenant's inauguration, where the long-anticipated Kingdom is being offered to Israel even as her leaders plot to reject the King.",
+        "The Parable of the Wedding Feast unveils prophetic dimensions that span centuries. The king who prepares a marriage banquet for his son typifies the Father's eternal purpose to honor Christ through a redeemed people. The servants sent to call the invited guests represent the prophets of old, from Moses through Malachi, who summoned Israel to covenant faithfulness. Their rejection and murder foreshadow both historical persecution and the imminent crucifixion of the Son Himself. The burning of the city points unmistakably to Jerusalem's destruction in AD 70—a prophecy fulfilled within a generation. The invitation extended to those on the highways and byroads anticipates the gospel's expansion to Gentile nations, while the man without wedding garments warns that entry into the Kingdom requires the righteousness Christ alone provides, not mere external association.",
+        "The controversies that follow—regarding tribute to Caesar, the resurrection, and the greatest commandment—reveal Jesus as the Prophet greater than Moses, the Wisdom surpassing Solomon, and the Teacher whose authority silences all opposition. His final question about David's Son exposes the mystery hidden for ages: the Messiah is not merely David's descendant but David's eternal Lord, the divine-human King whose throne endures forever.",
+        "The church now lives within the feast's extended invitation. The King's servants continue gathering guests from every nation while the wedding hall fills. The bridegroom has departed to prepare a place, yet He remains present through His Spirit. Those clothed in His righteousness await the consummation when shadows yield to substance, and the marriage supper of the Lamb commences in glory. Until that day, believers proclaim the invitation with urgency, knowing the door remains open but will not remain so forever. The King is coming to inspect His guests."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.487814+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

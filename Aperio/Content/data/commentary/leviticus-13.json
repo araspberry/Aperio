@@ -1,0 +1,56 @@
+{
+  "book": "Leviticus",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 13: The God Who Sees What Is Hidden",
+      "overview": [
+        "At its heart, Leviticus 13 reveals a God who cares deeply about the health, holiness, and belonging of His people—even in their most vulnerable and isolating moments. This chapter on skin diseases invites us into a profoundly tender truth: nothing in our lives falls outside God's notice or His compassionate intention.",
+        "The detailed instructions about identifying and managing skin conditions might feel clinical on first reading, but they disclose something beautiful about ancient Israel's covenant community. Rather than abandoning the afflicted to shame and death, God established a system of examination, diagnosis, and hope. Priests served as physicians and healers, not mere enforcers of isolation. People weren't forgotten—they were observed, assessed, and restored when healing came.",
+        "The repeated phrase \"the priest shall examine\" echoes throughout these verses like a heartbeat. It speaks to the importance of honest diagnosis before healing can occur. Sometimes our spiritual ailments—pride, bitterness, despair, brokenness—require the same courageous examination. We must let trusted believers and God Himself look closely at what we've hidden, not to condemn us, but to diagnose and heal.",
+        "Notice too that isolation, though painful, served a protective purpose. The quarantine protected the community while preserving the afflicted person's dignity within a structured process. Even in separation, the individual remained part of Israel's narrative, awaiting restoration. This mirrors our own seasons of limitation and struggle—when illness, failure, or grief isolates us, we're not abandoned by God's covenant. We remain His people, and our isolation has boundaries and purpose.",
+        "The chapter's repeated emphasis on observation and re-examination suggests that healing isn't always instantaneous, and that's acceptable within God's economy. Progress matters. Time matters. The pastoral care of the examining priest matters.",
+        "When you face something that feels shameful or hidden, what would it mean to invite the examining gaze of Christ, trusting that His scrutiny comes from love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 13: Scholarly study",
+      "overview": [
+        "Leviticus 13 constitutes one of the most detailed legislative sections in the Priestly literature, presenting comprehensive diagnostic protocols for skin afflictions that rendered individuals ritually impure. The chapter belongs to the larger purity code (Leviticus 11–15) and reflects the ancient Israelite concern with maintaining the holiness of the covenant community in proximity to YHWH's dwelling place. The priest functions here not as a physician offering medical treatment but as a ritual specialist determining cultic status—a distinction essential for understanding the passage's theological rather than therapeutic orientation.",
+        "The Hebrew term צָרַעַת (*tsara'at*), traditionally rendered \"leprosy,\" almost certainly does not correspond to Hansen's disease (modern leprosy), which was likely unknown in the ancient Near East during this period. The term encompasses a range of eruptive skin conditions characterized by discoloration, scaling, and spreading—phenomena that signaled boundary transgression and ritual danger. The afflicted person is declared טָמֵא (*tame'*, \"unclean\"), a cultic category indicating unfitness for participation in sacred assembly rather than moral failing. Equally significant is the diagnostic declaration טָהוֹר (*tahor*, \"clean\"), which restored full communal standing.",
+        "The meticulous examination procedures—including seven-day quarantine periods, inspection of hair color changes, and assessment of whether afflictions spread or remain contained—demonstrate the liminal nature of these conditions. The priest examines whether the condition penetrates \"deeper than the skin\" (עָמֹק מִן־הָעוֹר), a phrase recurring throughout the chapter that distinguishes superficial blemishes from those representing genuine impurity. This systematic approach extends beyond human flesh to garments (verses 47–59), where צָרַעַת manifests as persistent discoloration in wool, linen, or leather—suggesting the term encompasses various forms of corruption or decay.",
+        "Scholars debate whether these regulations reflect actual Israelite practice or represent idealized priestly instruction. The passage's placement within the Holiness Code emphasizes that physical wholeness symbolized spiritual integrity before God. The social consequences—dwelling outside the camp, torn garments, covered lip, and the cry \"Unclean!\"—dramatically enacted separation from the holy community. This theological framework anticipates later prophetic connections between צָרַעַת and divine judgment while establishing purification as fundamentally a matter of divine prerogative mediated through legitimate priestly authority."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 13: Prophetic perspective",
+      "overview": [
+        "Leviticus 13 was given to Israel approximately 1445 years before the incarnation of Christ, during the wilderness wanderings following the exodus from Egypt. This chapter belongs to the Sinai legislation, delivered in the second year after Israel's deliverance, as the nation encamped at the foot of the holy mountain learning what it meant to dwell in the presence of a holy God. Within the grand redemptive arc, this passage stands firmly in the post-Exodus epoch, after deliverance but before inheritance, where Israel learns through detailed instruction that covenant fellowship with Yahweh requires radical separation from all that defiles.",
+        "The elaborate regulations concerning skin diseases, discoloration, and contaminated garments reveal far more than ancient hygiene protocols. Here the LORD provides a sustained meditation on the nature of sin itself. Leprosy in Scripture functions as a living parable of corruption—beginning small, spreading inexorably, defiling everything it touches, rendering the afflicted unclean and excluded from the congregation. The leper's torn clothes, uncovered head, and mournful cry of \"Unclean! Unclean!\" dramatizes sin's devastating social and spiritual consequences. Cast outside the camp, the diseased person embodies humanity's exile from God's presence, recapitulating in individual experience what Adam and Eve suffered when expelled from Eden.",
+        "The priestly examination prescribed throughout this chapter establishes a crucial typological pattern. Aaron's sons must scrutinize, diagnose, isolate, and pronounce judgment—they stand as mediators between holiness and corruption. Yet these priests could only identify the disease; they possessed no power to heal. Their ministry of diagnosis awaited its fulfillment in the Great Physician who would not merely pronounce upon uncleanness but would reach out and touch the leper, speaking those revolutionary words: \"I am willing; be clean.\"",
+        "Christ's healing of lepers throughout His earthly ministry signaled the in-breaking of the kingdom where sin's curse is reversed. He sent cleansed lepers to show themselves to the priests, fulfilling Levitical protocol while demonstrating that One greater than the temple had arrived. The incarnate Son entered humanity's quarantine, became sin who knew no sin, and was Himself cast outside the camp—crucified beyond Jerusalem's walls—that we who were unclean might be pronounced clean forever.",
+        "The church now lives as a community of healed lepers, once excluded but now welcomed into the holy of holies, awaiting that final day when every trace of corruption will be purged from creation and the cry \"Unclean!\" will never again be heard."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.96804+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

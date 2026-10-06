@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 24: Standing Firm When Accused",
+      "overview": [
+        "The spiritual heart of Acts 24 is Paul's steadfast faithfulness under false accusation—a picture of how followers of Jesus are called to maintain integrity and Christian witness even when the world distorts our character and intentions.",
+        "Paul stands before Felix, the Roman governor, to answer charges brought by the Jewish leaders. The accusations are serious: sedition, heresy, and desecration of the temple. Yet notice how Paul responds. Rather than defensive anger or clever manipulation, he speaks with clarity and composure, acknowledging his faith while honestly addressing the charges. He doesn't deny being a follower of \"the Way,\" but he reframes the narrative: he worships the God of Abraham, believes Scripture, and practices hope in resurrection. What his accusers call rebellion, Paul calls faith.",
+        "This scene teaches us something vital about living as Christians in a secular world. We will sometimes be misunderstood. Our motives will be questioned. Our faith may be labeled divisive or intolerant. The temptation is either to become silent or to fight fire with fire, matching hostility with hostility. But Paul models a third way: honest, humble confidence in the gospel even when the system seems stacked against you.",
+        "What strikes deeper is Felix's response. He postpones judgment, perhaps afraid of the riots that might follow, but also genuinely interested in hearing Paul speak about Jesus. The gospel doesn't always convert immediately, but faithful witness plants seeds. Felix hears about righteousness, self-control, and coming judgment—the very things his corrupt governorship lacked.",
+        "Our calling today is similar. We're not all called to stand before magistrates, but we are called to stand firm in our faith amid misrepresentation and pressure. We maintain our integrity not to win arguments, but to honor Christ and leave room for the Spirit to work in watching hearts.",
+        "What accusation or misunderstanding about your faith has shaken you lately? How might Paul's example encourage you to speak truth in love without needing to defend your reputation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 24: Scholarly study",
+      "overview": [
+        "Acts 24 presents Paul's formal defense before the Roman procurator Marcus Antonius Felix, marking a pivotal moment in the apostle's legal proceedings that would eventually lead him to Rome. Felix governed Judea from approximately 52 to 59 CE, and ancient sources including Tacitus portray him as a freedman who wielded power with cruelty and licentiousness. The setting reflects the sophisticated Roman provincial legal system, where a Jewish prisoner stood before a Roman magistrate while Jewish authorities brought formal charges.",
+        "The prosecution employs Tertullus, a professional rhetorician whose speech follows classical forensic conventions with its *captatio benevolentiae* (attempt to win goodwill) toward Felix. Tertullus labels Paul a \"pestilent fellow\" using the Greek *loimos*, a term denoting someone who spreads social contagion or plague-like disruption. The charges strategically combine religious and political accusations: Paul allegedly stirs *staseis* (insurrections, seditious disturbances) among Jews throughout the empire and leads the sect of the Nazarenes. Most seriously, Tertullus claims Paul attempted to profane (*bebēloō*) the temple, an accusation that if proven would justify execution under both Jewish and Roman law, since Rome permitted Jews to execute even Roman citizens who violated the temple's sanctity.",
+        "Paul's defense demonstrates sophisticated rhetorical skill while systematically dismantling each accusation. He distinguishes *latreuō* (worship, service to God) from criminal activity, positioning the Way not as a sectarian deviation but as authentic continuation of ancestral faith in the resurrection—a belief shared with the Pharisees. Luke's narrative emphasizes that Paul's accusers cannot provide witnesses to substantiate their claims, highlighting procedural deficiencies in the prosecution.",
+        "Felix's response reveals the political complexities confronting Roman administrators in Judea. His familiarity with \"the Way\" (*hodos*) suggests Christianity had already gained sufficient visibility to reach administrative awareness. The procurator's subsequent conversations with Paul about righteousness, self-control, and coming judgment create dramatic irony, given Felix's notorious moral character. His detention of Paul for two years while hoping for a bribe illustrates the corruption that characterized his administration. This extended imprisonment advances Luke's larger theological purpose: demonstrating that Roman authorities found no legitimate basis for condemning Christianity, even as individual officials failed to act justly."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 24: Prophetic perspective",
+      "overview": [
+        "Acts chapter twenty-four unfolds approximately twenty-five years after the resurrection of Christ, around AD 57-59, during the height of Roman imperial power under Nero. Paul stands as a prisoner in Caesarea Maritima, the Roman administrative capital of Judea, before Governor Felix. This moment occurs in the church age, that extended period between Pentecost and the Parousia when the gospel advances through suffering witnesses who carry the testimony of the risen King into hostile territories. Within the grand arc of redemption, we stand well past the cross and resurrection, in the era of the Spirit's outpouring, watching the word of God penetrate the very courts of Gentile power as promised by Christ himself.",
+        "The typological richness here is striking. Paul before Felix mirrors Joseph before Pharaoh's officials, Daniel before Babylonian kings, and supremely, Jesus before Pilate. The righteous servant stands accused by religious authorities who manipulate political powers for their ends. Tertullus the orator presents the charges with flattery and falsehood, calling Paul a plague and a ringleader of the Nazarene sect. Yet Paul, like his Lord who stood silent before unjust accusations yet spoke truth to power, offers reasoned defense concerning the resurrection—the hinge of all history. The resurrection of the dead, both just and unjust, forms the heart of Paul's proclamation, pointing forward to that final assize when Felix himself, and all rulers, shall stand before the Judge of all the earth.",
+        "Felix trembles when Paul reasons concerning righteousness, self-control, and the judgment to come. Here prophetic proclamation does its appointed work—the word of God, sharper than any two-edged sword, pierces even the conscience of a notoriously corrupt governor. Yet Felix dismisses Paul with that most dangerous of responses: \"When I have a convenient season, I will call for you.\" He sought bribes rather than repentance, delaying decision until opportunity calcified into condemnation. Felix represents all who hear truth, feel conviction, yet defer the soul's business for temporal advantage.",
+        "Paul's two-year imprisonment under Felix demonstrates that the kingdom advances not through political triumph but through patient endurance. The servant is not above his master. Christ's witnesses fill up what remains of his sufferings, their chains becoming pulpits, their trials becoming testimonies. For the church awaiting Christ's return, this passage warns against the Felix spirit—trembling at truth yet never bowing—while encouraging perseverance in proclamation regardless of outcome. The Judge before whom Felix trembled is coming again, and every deferred decision will meet its reckoning."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.721002+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "book": "1 Chronicles",
+  "bookIndex": 12,
+  "status": "Editorial draft",
+  "title": "Remembering a People Before Rebuilding Its Future",
+  "subtitle": "Ancestry, David, and the shared work of worship",
+  "atAGlance": {
+    "genre": "Genealogical history, royal narrative, speeches, and descriptions of worship",
+    "setting": "A broad ancestral survey followed chiefly by David’s reign",
+    "composition": "An anonymous work from after the exile, commonly situated in the Persian period; exact dating is debated",
+    "audience": "A restored Jewish community considering its identity, worship, and continuity with Israel’s past"
+  },
+  "sections": [
+    {
+      "title": "Why begin with so many names?",
+      "paragraphs": [
+        "First Chronicles opens with Adam and moves through generations before it reaches David. To readers seeking immediate action, the names may seem like a barrier. For a community whose history includes exile, however, ancestry asks an urgent question: do we still belong to the people whose story we have inherited? The lists place the restored community within a history larger than its recent losses.",
+        "The genealogies are selective rather than an equally detailed family register for everyone. Judah, Levi, and Benjamin receive particular attention, and brief notices interrupt the names with memories of land, worship, conflict, and prayer. Reading them well means noticing where the narrator slows down. The opening survey provides a map of belonging before the book turns to a king."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "David remembered through worship",
+      "paragraphs": [
+        "The narrative passes quickly through Saul’s death and gives its main attention to David. His rise gathers people from across Israel, while Jerusalem becomes the center of the developing story. The movement of the ark makes God’s presence and the community’s approach to it central concerns. An initial failure is followed by a more careful, ordered procession. Celebration and reverence have to be learned together.",
+        "David’s prayer and the promise concerning his house connect this account with Samuel, but Chronicles chooses its own emphases. It is especially interested in the preparation for temple worship and in the participation of priests, Levites, musicians, gatekeepers, leaders, and households. David’s lasting contribution is presented through what he makes possible for the community after his own lifetime."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A history with a particular purpose",
+      "paragraphs": [
+        "Chronicles retells material also found in Samuel and Kings, but it is not simply an abbreviated copy. Some episodes receive less attention, while worship and temple preparation receive far more. The difference invites readers to ask what questions this later work is addressing. A community living after catastrophe needs more than an explanation of how disaster happened; it also needs to know what can sustain a faithful future.",
+        "That purpose does not remove every failure from David’s story. The census brings judgment, grief, and the choice of a place for an altar. The narrative makes the future temple site part of a story involving mercy as well as royal planning. The king’s authority cannot turn wrongdoing into something harmless, and worship cannot be understood apart from dependence on God."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Preparing what someone else will build",
+      "paragraphs": [
+        "David will not build the temple himself. Much of the book’s closing movement therefore concerns preparation: materials, plans, assignments, public encouragement, and provision for Solomon. This gives leadership an unusual horizon. The work matters even when another person will complete it and receive much of its visible recognition.",
+        "The contributions of the people culminate in a prayer acknowledging that everything offered has first come from God. Generosity is presented as a response to received gifts. The many lists of duties also insist that worship depends on shared service, including work that attracts little notice. A community’s life cannot be carried by the public figure at its center alone."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Two historical horizons",
+      "paragraphs": [
+        "The principal narrative setting is David’s monarchy, broadly the tenth century BC. The opening genealogies stretch much farther, from humanity’s beginnings into the community after exile. The book itself was written later by an unnamed author, often called the Chronicler; many scholars place its formation in the Persian period, while details remain disputed. Those horizons should remain distinct in a timeline.",
+        "Read Chronicles beside Samuel without requiring the two books to have identical aims. Notice what this retelling invites a later community to remember: God’s promise, the possibility of gathering again, the dignity of shared service, and the importance of preparing a future one may not personally complete. The names at the beginning and the offerings at the end belong to the same question: how will this people recognize itself and live faithfully together?"
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "A people remembered by name",
+      "startChapter": 1,
+      "endChapter": 9,
+      "description": "Genealogies connect humanity, Israel’s tribes, and the restored community across many periods."
+    },
+    {
+      "label": "David’s kingdom and the ark",
+      "startChapter": 10,
+      "endChapter": 16,
+      "description": "Saul’s death, David’s rise, and the ark’s arrival establish the narrative’s royal and worship setting."
+    },
+    {
+      "label": "Promise, victories, and judgment",
+      "startChapter": 17,
+      "endChapter": 21,
+      "description": "The royal covenant, military accounts, and the census prepare the temple’s future location."
+    },
+    {
+      "label": "Preparing for Solomon and the temple",
+      "startChapter": 22,
+      "endChapter": 29,
+      "description": "David organizes service, gathers resources, and leads the community in giving and prayer."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Continuity",
+      "description": "A community after exile is connected to a much larger inherited story."
+    },
+    {
+      "name": "Shared worship",
+      "description": "Many forms of service sustain the people’s life before God."
+    },
+    {
+      "name": "Preparation",
+      "description": "Faithful leadership can devote itself to work completed by the next generation."
+    }
+  ],
+  "timeline": {
+    "era": "united-kingdom",
+    "dateLabel": "David’s reign, framed by a much wider ancestry",
+    "context": "The main narrative concerns David; the genealogies survey many eras.",
+    "note": "The book’s postexilic composition is distinct from David’s tenth-century setting."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 8,
+      "era": "many-eras",
+      "label": "Israel’s remembered ancestry",
+      "dateLabel": "Genealogies spanning many generations",
+      "note": "These family lines range from the beginnings to later communities. They are not events confined to David’s reign."
+    },
+    {
+      "start": 9,
+      "end": 9,
+      "era": "return",
+      "label": "The community after exile",
+      "dateLabel": "After the Babylonian exile",
+      "note": "The chapter recalls people resettled in Jerusalem and their responsibilities before the narrative returns to Saul and David."
+    },
+    {
+      "start": 10,
+      "end": 29,
+      "era": "united-kingdom",
+      "label": "From Saul to the reign of David",
+      "dateLabel": "Broadly the tenth century BC",
+      "note": "The narrative begins with Saul’s death and follows David’s reign and preparations for the temple."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Chronicles · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 1 Chronicles",
+      "url": "https://bible.usccb.org/bible/1chronicles/0"
+    }
+  ]
+}

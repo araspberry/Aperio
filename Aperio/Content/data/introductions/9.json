@@ -1,0 +1,140 @@
+{
+  "book": "2 Samuel",
+  "bookIndex": 9,
+  "status": "Editorial draft",
+  "title": "The Promise and the Cost of Royal Power",
+  "subtitle": "David’s kingdom grows while his household bears the consequences of his choices",
+  "atAGlance": {
+    "genre": "Theological historical narrative, court story, poetry, and royal covenant",
+    "setting": "David’s reign, from divided allegiance to rule from Jerusalem",
+    "composition": "Part of the anonymous Samuel narrative; sources and stages of composition remain debated",
+    "audience": "Israel reflecting on the Davidic promise and the accountability of its king"
+  },
+  "sections": [
+    {
+      "title": "A throne reached through grief",
+      "paragraphs": [
+        "Second Samuel begins with David lamenting Saul and Jonathan. The deaths remove a threat to David’s future, but he refuses to reduce them to political advantage. His lament gives grief a public voice. The transfer of authority that follows is gradual and contested, involving rival loyalties, violence, and the difficult work of uniting the tribes.",
+        "David’s eventual rule from Jerusalem marks a new stage in Israel’s life. The ark is brought into the city, making worship central to the capital’s identity. Yet the account includes fear, death, celebration, and conflict within David’s household. The establishment of a kingdom is never presented as a process untouched by moral ambiguity or personal cost."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A house promised by God",
+      "paragraphs": [
+        "Chapter 7 turns on the meaning of a house. David proposes a dwelling for God, while God promises a continuing house for David: a dynasty. The initiative shifts away from what the king will build toward what God will establish. David’s prayer responds with wonder rather than a claim that his success has earned the future.",
+        "This promise becomes a major reference point for later biblical hope. Within Second Samuel, it also establishes a tension that will govern the rest of the story. A promise concerning the royal line does not remove the king’s responsibility for his conduct. God’s commitment and David’s accountability stand together. Reading only the promise, without the chapters that follow, would miss the book’s searching examination of power."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The turning point in David’s reign",
+      "paragraphs": [
+        "David’s treatment of Bathsheba and Uriah exposes what royal authority can become when desire governs it. He takes Bathsheba and arranges the circumstances of Uriah’s death. The narrative places responsibility on David; it should not be shifted onto Bathsheba by speculation about motives the text does not supply. Nathan’s confrontation breaks through the king’s concealment and requires him to face what he has done.",
+        "David’s confession matters, but forgiveness does not mean that the resulting harm disappears. The chapters that follow show a household and kingdom living with violence, grief, and ruptured trust. This is one reason the book remains so searching: it resists the thought that spiritual language or a privileged calling can make the consequences of wrongdoing unreal."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A household in which power fails to protect",
+      "paragraphs": [
+        "Amnon’s assault on Tamar and David’s failure to bring effective justice create a devastating setting for Absalom’s revenge. Tamar’s voice deserves careful attention. She reasons, protests, and then bears the consequences of what others do. The royal family’s public importance does not make its vulnerable members safe.",
+        "Absalom’s rebellion transforms unresolved household conflict into national crisis. David flees, supporters choose allegiances, counsel competes with counsel, and victory eventually brings a father’s anguished grief. The kingdom survives, but survival is not the same as wholeness. The narrative asks what kind of leadership can acknowledge loss without neglecting the people who have borne the conflict alongside their king."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "An ending arranged for reflection",
+      "paragraphs": [
+        "The final chapters gather famine, battles, songs, notable warriors, and the census. They should not all be assumed to occur after the preceding chapter in a strict sequence. Their arrangement invites a wider assessment of David’s reign, including its dependence on God and the judgment attached to royal decisions. The closing altar scene leaves worship and mercy in view.",
+        "The narrative setting is David’s monarchy, conventionally placed around the tenth century BC. The history of the book’s writing is less securely known; its unnamed compilers drew on traditions whose formation remains debated. Read it beside First Samuel, and later beside Kings, to see the continuity of both promise and unanswered questions. David’s importance does not come from being an unblemished example. His story teaches readers to hold divine generosity, honest repentance, the suffering of others, and public responsibility within the same field of attention."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "A contested succession",
+      "startChapter": 1,
+      "endChapter": 4,
+      "description": "David laments, becomes king in Hebron, and faces the violence surrounding rival claims."
+    },
+    {
+      "label": "Jerusalem and the royal promise",
+      "startChapter": 5,
+      "endChapter": 10,
+      "description": "The kingdom is established, the ark arrives, and God promises David a continuing house."
+    },
+    {
+      "label": "Wrongdoing and a fractured household",
+      "startChapter": 11,
+      "endChapter": 14,
+      "description": "David’s actions against Bathsheba and Uriah are followed by judgment and family violence."
+    },
+    {
+      "label": "Rebellion and its aftermath",
+      "startChapter": 15,
+      "endChapter": 20,
+      "description": "Absalom’s revolt, David’s flight, and further conflict reveal the kingdom’s fragility."
+    },
+    {
+      "label": "Reflections on the reign",
+      "startChapter": 21,
+      "endChapter": 24,
+      "description": "Selected episodes and poems gather themes of kingship, judgment, deliverance, and worship."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Covenant promise",
+      "description": "God’s commitment to David’s house becomes a lasting horizon of hope."
+    },
+    {
+      "name": "Abused power",
+      "description": "Royal privilege creates no exemption from responsibility for those harmed."
+    },
+    {
+      "name": "Repentance and consequences",
+      "description": "Confession matters while the work and pain of repair remain real."
+    }
+  ],
+  "timeline": {
+    "era": "united-kingdom",
+    "dateLabel": "David’s reign, broadly the tenth century BC",
+    "context": "The narrative moves from Hebron to Jerusalem and through crises in David’s kingdom.",
+    "note": "The concluding collection is thematic and should not be dated as a simple chronological sequence."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 24,
+      "era": "united-kingdom",
+      "label": "The reign of David",
+      "dateLabel": "Broadly the tenth century BC",
+      "note": "Individual episodes and final collections are not assigned precise chapter dates."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Samuel · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 2 Samuel",
+      "url": "https://bible.usccb.org/bible/1samuel/0"
+    }
+  ]
+}

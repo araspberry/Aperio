@@ -1,0 +1,54 @@
+{
+  "book": "Luke",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 2: The Humble Birth of Hope",
+      "overview": [
+        "The birth of Jesus in a forgotten Bethlehem barn is not simply a Christmas story—it is God's radical statement about where He chooses to be found. In Luke's account, we encounter the stunning reversal at the heart of the gospel: the King of heaven arrives not in a palace but in poverty, announced not to the powerful but to shepherds, the most overlooked members of society.",
+        "Luke carefully sets this nativity within the machinery of empire. Caesar Augustus orders a census, unwittingly becoming God's instrument to position Mary and Joseph in Bethlehem, exactly where the prophet had said the Messiah would be born. Even the world's great powers serve God's purposes, though they rarely realize it. Yet the empire's machinery is oblivious to what is actually happening—Heaven itself has entered human history, and the world's authorities notice nothing.",
+        "The birth details matter profoundly. There is no room at the inn. The baby lies in a feeding trough for animals. His mother is a young, unknown woman from a backwater village. If we were writing this redemption story, we would begin differently. But God writes differently. He chooses obscurity, vulnerability, and the margins of society as the place where salvation enters the world. This should utterly transform how we see the forgotten, the poor, the marginalized—they are precisely where God's attention has always rested.",
+        "The shepherds receive the first announcement of Jesus's arrival. Despised and excluded from religious life, they encounter the hosts of heaven declaring joy to *all people*. Angels, not priests. A barn, not the temple. Fishermen and shepherds, not the learned. The gospel spreads outward from the powerless, always has, always will.",
+        "This is a God who moves toward the overlooked, who finds us in our lowliness. As you read these familiar verses this season, notice where God positioned Himself. Where are the overlooked in your world, and how might God be inviting you to see them as He does?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 2: Scholarly study",
+      "overview": [
+        "Luke's nativity narrative stands as one of the most carefully crafted passages in the New Testament, reflecting the evangelist's stated commitment to orderly and well-researched composition outlined in his prologue. Writing likely in the 80s CE for a predominantly Gentile audience, Luke situates the birth of Jesus within the broader sweep of Roman imperial history, mentioning Caesar Augustus's census decree and the Syrian governorship of Quirinius. This historiographical framing serves theological purposes: the ruler of the known world unwittingly facilitates divine providence, bringing Mary and Joseph to Bethlehem to fulfill Micah's prophecy concerning the Messiah's birthplace.",
+        "The term *katalyma* (translated variously as \"inn\" or \"guest room\") has generated considerable scholarly discussion. Rather than a commercial establishment, the word more likely denotes a private home's guest quarters, suggesting that Joseph's relatives' accommodations were simply full, leading the family to occupy the main living area where animals were customarily sheltered. The *phatne* (manger) where the infant is laid becomes a recurring identifier, mentioned three times and functioning as a sign for the shepherds—an ironic detail given that the Lord of creation finds his first bed among feeding troughs.",
+        "Luke's inclusion of shepherds as the first witnesses carries profound theological weight. These figures, occupying marginal social status in first-century Palestine, exemplify the Lukan theme of divine reversal: God reveals salvation first to the lowly rather than to religious or political elites. The angelic proclamation employs significant christological terminology, declaring Jesus as *sōtēr* (Savior), *Christos* (Messiah), and *kyrios* (Lord)—titles that in the Roman world were associated with the emperor, creating an implicit challenge to imperial ideology.",
+        "The chapter concludes with two temple episodes: Jesus's presentation according to Mosaic law and his later appearance at age twelve. Simeon's *Nunc Dimittis* extends salvation's scope to include Gentiles alongside Israel, while the aged prophet's warning to Mary foreshadows the passion. Anna's prophetic witness reinforces the testimony. The young Jesus's declaration that he must be \"in my Father's house\" anticipates the Lukan journey motif, where Jesus progressively moves toward Jerusalem and his appointed destiny."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 2: Prophetic perspective",
+      "overview": [
+        "Luke 2 unfolds approximately four years before the commonly calculated start of the first century, during the final years of Herod the Great's reign, when Caesar Augustus ruled the Roman Empire and decreed a census that would unknowingly serve the eternal purposes of God. This chapter records events that mark the hinge point of all human history—the moment when prophecy crystallized into flesh, when the promises spoken to Abraham two thousand years prior and to David one thousand years prior received their definitive answer in a manger in Bethlehem.",
+        "Within the grand arc of redemption, Luke 2 stands at the threshold of the Incarnation, the pivotal turning point toward which all of Scripture had been straining. The long night of exile, though Israel had returned geographically to the land, had never truly ended—the glory had not returned to the temple, no prophet had spoken for four centuries, and foreign powers still dominated the covenant people. Into this darkness, the true Light enters. The birth in Bethlehem fulfills Micah's ancient oracle that from this small town would come forth one whose origins are from everlasting. That the Davidic heir should be born in David's city establishes Jesus as the rightful King, the shoot from Jesse's stump, the one through whom God would restore the fallen tent of David.",
+        "The typological richness here is staggering. Jesus is the new Moses, delivered in infancy from murderous powers, yet He is greater—not merely a deliverer but deliverance itself. He is wrapped in swaddling cloths and laid in a manger, the feeding trough for animals, already identifying with the lowly and foreshadowing how His body would become bread for the world. Simeon's prophecy that a sword would pierce Mary's soul points unmistakably toward the cross, where this infant King would accomplish the exodus that Moses could only typify.",
+        "The eschatological threads are explicit in Simeon's song: this child is salvation prepared before all peoples, a light for revelation to the Gentiles and glory to Israel. Anna the prophetess, representing faithful Israel who had long awaited redemption, recognizes that the consolation of Jerusalem has arrived. Yet the full redemption of Jerusalem—and the cosmos—awaits the second advent. The church now lives in the already of Christ's first coming while awaiting the not yet of His return, when He who was once wrapped in burial cloths will wrap all creation in resurrection glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.549593+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "book": "2 Timothy",
+  "bookIndex": 54,
+  "status": "Editorial draft",
+  "title": "2 Timothy: Guarding a Living Trust",
+  "subtitle": "A final charge joins courage, Scripture, patient teaching, and the need for faithful companions.",
+  "atAGlance": {
+    "genre": "Pastoral letter with the character of a farewell testament",
+    "setting": "Paul is portrayed in Roman imprisonment, expecting death and urging Timothy to remain faithful.",
+    "composition": "Presented as Paul’s final counsel. Pauline authorship is defended; many scholars date the work within a later Pauline tradition in the late first or early second century.",
+    "audience": "Timothy, with a wider church audience learning how to continue the apostolic witness."
+  },
+  "sections": [
+    {
+      "title": "A charge shaped by affection",
+      "paragraphs": [
+        "Second Timothy begins with remembered faith. Paul recalls Timothy’s tears and the faith associated with his grandmother Lois and mother Eunice. The work entrusted to Timothy has a personal history: people have taught, prayed, and cared before this moment of responsibility. The opening appeal is to rekindle the gift he has received and to serve with power, love, and sound judgment.",
+        "The letter’s urgency is sharpened by imprisonment and the prospect of death. Paul asks Timothy not to be ashamed of the gospel or of a prisoner who bears witness to it. Courage is grounded in the God who calls and preserves. The tone is intimate because the future of the message is being considered through the future of a beloved coworker."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Authorship and the farewell setting",
+      "paragraphs": [
+        "The letter names Paul as its sender and presents him as a prisoner whose departure is near. Traditional interpretation regards it as his final surviving letter, usually placed in the AD 60s. Many scholars understand it as a later testament written in Paul’s name to carry his authority into another generation. Its relation to First Timothy and Titus, its vocabulary, and its portrait of church life contribute to the debate. Pauline authorship remains a defended view.",
+        "Whatever conclusion is reached about composition, the literary situation should be heard clearly: an experienced apostle is entrusting the work to a younger companion. Personal memories and named friends give that charge weight. The letter asks how faithfulness can continue when a founding leader is no longer present and public pressure makes loyalty costly."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Passing on the message without losing its character",
+      "paragraphs": [
+        "Timothy is told to entrust what he has heard to reliable people able to teach others. The sequence imagines a chain of responsible transmission. Images of a soldier, athlete, and farmer emphasize focus, discipline, and patient labor. Remembering Jesus Christ, raised from the dead, keeps the calling attached to its center.",
+        "The warning against quarrels is equally important. Timothy must handle the word faithfully, but the Lord’s servant is to correct opponents with gentleness. The manner of teaching belongs to the truth being taught. Harshness can become a form of self-importance even when it claims to defend doctrine. The letter asks for perseverance without a combative spirit, and for hope that a person caught in error may yet come to a clearer understanding."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Scripture that equips a life of service",
+      "paragraphs": [
+        "Chapter 3 recalls Timothy’s familiarity with the sacred writings from childhood. In the immediate setting, these are the Scriptures inherited from Israel, now understood in relation to faith in Christ. The description of Scripture as God-breathed joins its divine source to its uses: teaching, correction, restoration of understanding, and training in righteousness.",
+        "The stated outcome is a person equipped for every good work. That purpose matters when the passage is used in discussions of biblical authority. Scripture is to shape faithful, capable service. The charge to proclaim the word then calls for patience and careful instruction amid resistance. Timothy’s responsibility includes both conviction and endurance, with attention to people whose preferences may lead them away from difficult truth."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Faithfulness has a human texture",
+      "paragraphs": [
+        "The final chapter contains the memorable image of a completed race and a faith kept. Hope rests in the Lord’s righteous judgment and the promised crown. Yet the letter also asks for a cloak, books, and companionship before winter. These requests keep the farewell from becoming an abstract portrait of spiritual heroism. A faithful servant still feels cold, needs friends, and values the materials of study.",
+        "Some companions have departed, others remain, and Mark is now described as useful for ministry. The account of a first defense includes the pain of abandonment and the assurance that the Lord stood near. The letter does not conceal loneliness. It locates endurance within God’s presence and the continuing importance of human loyalty.",
+        "Read Second Timothy as an invitation to consider what must be preserved and how it should be carried. The message is guarded through truthful teaching, a disciplined life, patient correction, and the training of others. Its closing details remind a church that honoring the gospel also means caring for those who serve it. Faithfulness can require a public testimony, a well-prepared lesson, or simply coming to someone who needs a friend."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Remembered faith and renewed courage",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Timothy’s heritage, the entrusted gift, and loyalty under pressure."
+    },
+    {
+      "label": "The character of faithful teaching",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Transmission, endurance, careful instruction, and gentle correction."
+    },
+    {
+      "label": "Scripture and perseverance",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "Discernment in difficult times and preparation for good work."
+    },
+    {
+      "label": "The final charge and personal needs",
+      "startChapter": 4,
+      "endChapter": 4,
+      "description": "Proclamation, the completed race, companions, and requests."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "A living trust",
+      "description": "The gospel is handed on through reliable people and faithful practice."
+    },
+    {
+      "name": "Courage with gentleness",
+      "description": "Endurance must preserve the character of Christ’s service."
+    },
+    {
+      "name": "Scripture and good work",
+      "description": "Biblical instruction equips a life useful to others."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Paul’s final ministry as portrayed; composition disputed",
+    "context": "The letter presents Paul near the end of his life. Its date of writing is considered separately from that farewell setting.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 4,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Paul’s final ministry as portrayed; composition disputed",
+      "note": "The letter presents Paul near the end of his life. Its date of writing is considered separately from that farewell setting."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Timothy · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "2 Timothy · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-timothy/lessons/summary-of-2-timothy/"
+    }
+  ]
+}

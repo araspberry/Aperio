@@ -1,0 +1,186 @@
+{
+  "book": "Ezekiel",
+  "bookIndex": 25,
+  "status": "Editorial draft",
+  "title": "God’s presence beyond a ruined sanctuary",
+  "subtitle": "An exiled priest envisions judgment, a renewed people, and life flowing from God’s dwelling.",
+  "atAGlance": {
+    "genre": "Prophetic visions, symbolic performances, oracles, and a temple vision",
+    "setting": "Judean deportees in Babylonia, before and after Jerusalem’s destruction",
+    "composition": "Dated visions run from the early sixth century into the 570s BC; the collection’s editorial development is debated",
+    "audience": "The exiled community, Jerusalem’s people and leaders, and surrounding nations"
+  },
+  "sections": [
+    {
+      "title": "An exile called to speak",
+      "paragraphs": [
+        "Ezekiel is a priest among Judean deportees in Babylonia. The book dates his first vision by the exile of King Jehoiachin, deported in 597 BC, placing the opening commission around 593. Jerusalem’s temple still stands when the ministry begins. Its destruction in 587/586 becomes a decisive turning point. The book’s latest dated oracle belongs around 571, although its literary order does not always follow those dates.",
+        "This historical position explains the urgency of Ezekiel’s work. Some exiles hope that their displacement will be brief; others assume that removal from the land means removal from God’s care. Ezekiel challenges both conclusions. The presence of God meets him beside a foreign waterway, while the fate of Jerusalem demands a more searching explanation than either easy reassurance or complete abandonment."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "A vision that unsettles familiar boundaries",
+      "paragraphs": [
+        "The opening vision describes living creatures, wheels, dazzling brightness, and something like a throne. Repeated comparisons acknowledge the difficulty of putting the vision into ordinary language. Its theological force does not depend on turning every detail into a mechanical diagram. God’s glory is mobile and overwhelming; the exiles are not beyond its reach.",
+        "Ezekiel is repeatedly addressed as a human being, or son of man, emphasizing the contrast between the mortal messenger and the divine speaker. He eats a scroll and receives the responsibility of a watchman. His task is to communicate a warning, even when listeners resist it. The message enters his own body and daily life through silence, unusual actions, restrictions, and grief. Prophecy is presented as a demanding vocation rather than detached prediction."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Why the sanctuary cannot protect corruption",
+      "paragraphs": [
+        "Chapters 4–24 confront Jerusalem through enacted signs, accusations, stories, and visions. The temple tour in chapters 8–11 exposes what the book portrays as religious betrayal within a supposedly secure sacred place. God’s glory departs. The movement does not simply announce that an enemy is stronger; it interprets the city’s collapse as a crisis in its relationship with God.",
+        "The sexual and violent imagery of chapters 16 and 23 is deliberately shocking and difficult. It represents cities and political-religious allegiances through gendered metaphors. Responsible reading should name that rhetorical violence rather than treating it as a model for human relationships. Elsewhere, especially chapter 18, the book challenges fatalism about inherited guilt and calls individuals to turn from destructive conduct. Judgment is joined to a summons to live."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "From failed shepherds to a restored people",
+      "paragraphs": [
+        "After the report that Jerusalem has fallen, restoration becomes increasingly prominent. Chapter 34 condemns shepherds who feed themselves while neglecting the flock. God’s promised care answers particular abuses: the weak, injured, scattered, and lost have been left unprotected. Renewed leadership therefore means more than replacing one powerful ruler with another. It means a different treatment of those who have been harmed.",
+        "Chapters 36–37 describe cleansing, a new heart, a new spirit, and the revival of dry bones. The bones are interpreted in the text as the house of Israel, whose hope appears dead. The vision first addresses the restoration of a devastated people; its later associations with resurrection build on that image. The joined sticks add reconciliation between divided communities to the picture of national renewal."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The future is larger than survival",
+      "paragraphs": [
+        "The Gog visions in chapters 38–39 dramatize a final threat to a restored people and its defeat. Their imagery should be read within Ezekiel’s assurance that God’s purposes will not be overturned. The text does not supply a dependable identification of present-day nations or a schedule for contemporary warfare. Its ancient names and visionary scale belong to its own literary world.",
+        "The long concluding vision measures a sanctuary, assigns responsibilities, orders land, and describes water flowing outward to bring life. What may initially seem like dry architectural detail expresses a longing for renewed order after catastrophic disorder. The river in chapter 47 makes that order fruitful beyond the building itself. The closing name of the city concentrates the hope: God’s presence will characterize the shared life of the people again."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Reading the whole movement",
+      "paragraphs": [
+        "Follow the changes in location and in the movement of divine glory: beside the exiles, departing Jerusalem, and returning in the final vision. Notice the repeated concern that people and nations will recognize who God is. Ezekiel presents both punishment and restoration in relation to that recognition, while also pressing questions about responsibility, leadership, worship, and communal identity.",
+        "The book’s visions are not interchangeable with its dated reports. A scene can be received in exile while depicting a future beyond it. Keeping those levels distinct lets readers take both history and symbolism seriously. Ezekiel’s extraordinary language serves a sustained purpose: to dismantle false security, confront moral failure, and imagine life for people who believe their history has reached a dead end."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The exiled priest commissioned",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Glory appears in Babylonia and Ezekiel receives a watchman’s task."
+    },
+    {
+      "label": "Jerusalem confronted",
+      "startChapter": 4,
+      "endChapter": 24,
+      "description": "Signs and visions interpret the coming disaster."
+    },
+    {
+      "label": "The nations addressed",
+      "startChapter": 25,
+      "endChapter": 32,
+      "description": "Neighboring powers face judgment for pride and violence."
+    },
+    {
+      "label": "A people given new life",
+      "startChapter": 33,
+      "endChapter": 37,
+      "description": "The fall of Jerusalem opens a sustained movement toward restoration."
+    },
+    {
+      "label": "The last threat defeated",
+      "startChapter": 38,
+      "endChapter": 39,
+      "description": "Gog’s invasion is portrayed within a future vision of divine vindication."
+    },
+    {
+      "label": "A renewed dwelling and land",
+      "startChapter": 40,
+      "endChapter": 48,
+      "description": "The final vision orders worship, leadership, territory, and life-giving water."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Divine presence",
+      "description": "God meets the displaced beyond the land and promises renewed dwelling."
+    },
+    {
+      "name": "Responsibility and repentance",
+      "description": "Inherited disaster does not eliminate the call to turn and live."
+    },
+    {
+      "name": "Renewal",
+      "description": "New hearts, gathered people, and just care belong together."
+    }
+  ],
+  "timeline": {
+    "era": "exile",
+    "dateLabel": "Approximately 593–571 BC",
+    "context": "Ezekiel speaks from Babylonia across the destruction of Jerusalem.",
+    "note": "The visions are received in exile and look beyond it; they supply no dates for modern events."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 24,
+      "era": "exile",
+      "label": "Exile before Jerusalem’s fall",
+      "dateLabel": "Approximately 593–588 BC",
+      "note": "Jerusalem is still standing; symbolic actions anticipate its destruction."
+    },
+    {
+      "start": 25,
+      "end": 32,
+      "era": "exile",
+      "label": "Oracles concerning the nations",
+      "dateLabel": "Sixth century BC; dates are not in strict order",
+      "note": "The latest dated oracle in chapter 29 reaches approximately 571 BC."
+    },
+    {
+      "start": 33,
+      "end": 39,
+      "era": "exile",
+      "label": "After the fall: renewed hope",
+      "dateLabel": "After 587/586 BC, with future visions",
+      "note": "The historical audience remains displaced even when the vision portrays restoration."
+    },
+    {
+      "start": 40,
+      "end": 48,
+      "era": "exile",
+      "label": "A future sanctuary seen from exile",
+      "dateLabel": "Vision dated approximately 573 BC",
+      "note": "This is the date of the vision’s setting, not the date of an accomplished building project."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Ezekiel, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Ezekiel",
+      "url": "https://bible.usccb.org/bible/ezekiel/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 19",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-19"
+    }
+  ]
+}

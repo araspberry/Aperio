@@ -1,0 +1,58 @@
+{
+  "book": "Proverbs",
+  "chapter": 27,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 27 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 27: The Gift of Honest Friendship",
+      "overview": [
+        "The heart of Proverbs 27 beats with a conviction that true friendship is among life's greatest treasures, and that honest love—even when it wounds—protects us far better than flattery ever could. Throughout these verses, wisdom calls us away from the comfort of deception and toward the transformative power of truthful relationships.",
+        "Notice how the chapter opens with warnings against pride and self-praise. We're urged not to boast about tomorrow or congratulate ourselves, for we simply don't know what a day may bring. This isn't pessimism; it's liberation. When we release our need to be impressed with ourselves, we become available for genuine connection. Verse 12 reminds us that a prudent person sees danger and takes refuge, while the simple keep going and pay the penalty—wisdom is about learning from others' mistakes, not only our own.",
+        "But the real treasure emerges in the passages about friendship. \"As iron sharpens iron, so one person sharpens another\" (verse 17). Real friends make us better by their presence and honesty. They're willing to risk our temporary displeasure for our lasting good. This is countercultural in an age of shallow social media connections and conflict-avoidant relationships. Proverbs invites us into something deeper: friendships where both people are committed to the other's growth, even when growth requires honest, sometimes difficult words.",
+        "The chapter also acknowledges the complexity of loyalty and care. We're called to tend our relationships as carefully as a gardener tends fruit trees (verses 18–27). This requires attention, consistency, and the willingness to be present through seasons.",
+        "In our relationships today, we face a choice. Do we want friends who simply agree with us, who preserve false peace? Or are we brave enough to pursue friendships where truth is spoken in love, where iron sharpens iron, and where genuine transformation becomes possible?",
+        "Who in your life has offered you the gift of honest love, and how might you extend that same gift to someone today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 27: Scholarly study",
+      "overview": [
+        "Proverbs 27 belongs to the second Solomonic collection (Proverbs 25–29), which the editorial superscription in 25:1 attributes to the scribal activity of Hezekiah's court officials who copied and transmitted earlier wisdom materials. This chapter exemplifies the miscellaneous character of later proverbial collections, presenting discrete sayings without the thematic clustering found in chapters 1–9, though careful reading reveals subtle connections through catchwords and conceptual resonances.",
+        "The chapter opens with a sobering meditation on temporal uncertainty, warning against boasting (*hālal*) about tomorrow, a term carrying connotations of foolish self-glorification that stands in tension with appropriate humility before divine providence. This theme of epistemic limitation—the recognition that humans cannot fully know or control their futures—establishes a framework for understanding subsequent proverbs about human relationships and self-knowledge. The striking image in verse 2 introduces the motif of external evaluation: praise should emerge from the mouth of a stranger (*zār*), not from oneself, suggesting that authentic honor requires communal recognition rather than self-promotion.",
+        "Verses 5–6 present a paradox concerning friendship that has generated interpretive discussion: open rebuke (*tôkaḥat*) proves superior to hidden love, and faithful are the wounds of a friend (*ʾôhēb*). The Hebrew construction employs the niphal passive participle *neʾĕmānîm* (faithful/trustworthy) to characterize wounds that, though painful, proceed from genuine affection and contribute to moral formation. This stands in deliberate contrast with the excessive, potentially deceptive kisses of an enemy.",
+        "The agricultural imagery pervading verses 23–27 concludes the chapter with sustained reflection on pastoral economy, unusual in its extended development compared to typical proverbial brevity. These verses emphasize the provisional nature of wealth—crowns do not endure to all generations—while commending attentive stewardship of flocks and fields. The Hebrew term *pānîm* (face/appearance) in verse 23 suggests intimate, personal knowledge of one's herds, not mere distant ownership.",
+        "Within the canonical wisdom tradition, Proverbs 27 balances realistic assessment of human nature—including jealousy's destructive power (v. 4) and the insatiability of desire (v. 20)—with confidence that wisdom enables navigation of social complexity. The chapter resists systematic organization, reflecting wisdom's conviction that life itself presents discrete situations requiring discernment rather than formulaic application."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 27: Prophetic perspective",
+      "overview": [
+        "Proverbs 27 emerges from the golden age of Israel's wisdom tradition, compiled during or shortly after Solomon's reign around 950-700 BC, placing this collection roughly a millennium after Abraham and a thousand years before Christ's advent. This chapter belongs to the Restoration period of the proverbs' final editing, likely reaching its canonical form after the exile, when Israel desperately needed practical wisdom for covenant faithfulness in a hostile world. Within redemptive history, Proverbs stands at the Kingdom stage, representing the flowering of wisdom that God promised would distinguish His people among the nations, yet simultaneously pointing forward to One greater than Solomon who would embody wisdom itself.",
+        "The opening verse strikes with prophetic force: \"Do not boast about tomorrow, for you do not know what a day may bring.\" This temporal humility threads through all Scripture, from James's epistle to Christ's own teaching about anxious care for tomorrow. Here wisdom anticipates the eschatological tension the church now inhabits—living faithfully in the present while awaiting an uncertain hour of the Lord's return.",
+        "Verse 6 unveils a profound typological truth: \"Faithful are the wounds of a friend, but deceitful are the kisses of an enemy.\" This aphorism finds its darkest fulfillment in Gethsemane's garden, where Judas's kiss became history's most infamous betrayal, while the wounds Christ received from His Father's righteous judgment became the faithful wounds that heal all who believe. The entire sacrificial system—those wounds inflicted upon innocent lambs—foreshadowed this costly faithfulness.",
+        "The imagery of verse 17, \"Iron sharpens iron, and one man sharpens another,\" prefigures the ecclesial reality of Christ's body, where believers in community sanctify one another through mutual exhortation. This was partially realized in Israel's covenant assembly but finds fuller expression in the Spirit-indwelt church.",
+        "The chapter's agricultural metaphors—knowing the condition of flocks, attending to herds—echo the shepherd typology that runs from Abel through David to Christ the Good Shepherd. The diligent oversight commended here shadows the pastoral care Christ exercises over His flock and delegates to under-shepherds until His appearing.",
+        "For the church awaiting Christ's return, Proverbs 27 calls believers to faithful stewardship of relationships, resources, and time. The wisdom offered here is not mere pragmatism but covenant faithfulness expressed in daily decisions—the sanctified common sense of those whose lives are hidden with Christ, managing the Master's household until that unknown day He returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_027",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.646509+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

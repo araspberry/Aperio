@@ -1,0 +1,135 @@
+{
+  "book": "Ephesians",
+  "bookIndex": 48,
+  "status": "Editorial draft",
+  "title": "Ephesians: A Household Built in Peace",
+  "subtitle": "God’s grace brings a divided humanity into a shared life shaped by the risen Christ.",
+  "atAGlance": {
+    "genre": "Letter of praise, theological reflection, and community instruction",
+    "setting": "Communities associated with the Pauline mission, considering unity, maturity, and daily conduct.",
+    "composition": "Presented as a letter from Paul in prison. Pauline authorship is defended; many scholars favor a later writer in his tradition. Proposed dates extend from the AD 60s to the late first century.",
+    "audience": "Believers with a strong Gentile presence; the letter may have circulated among several communities."
+  },
+  "sections": [
+    {
+      "title": "Praise opens the horizon",
+      "paragraphs": [
+        "Ephesians begins by blessing God for a purpose that reaches beyond the immediate circumstances of its audience. Adoption, redemption, forgiveness, and the gift of the Spirit belong within a plan to unite all things in Christ. The language gathers abundance upon abundance because the church is being invited to see itself within the scope of God’s generosity.",
+        "The opening prayer asks for enlightened understanding. Knowing Christ includes recognizing the hope of God’s calling and the power at work in His resurrection. This larger horizon prepares the letter’s practical teaching. A congregation’s quarrels, habits of speech, and household relationships will be considered in light of the One raised above every authority. Praise becomes a way of learning whose world the church inhabits and what kind of life is possible within it."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Paul’s name and the question of composition",
+      "paragraphs": [
+        "The letter identifies Paul as its sender and describes him as a prisoner. Traditional interpretation places it within one of his imprisonments, often in the AD 60s. Many modern scholars point to differences in style, vocabulary, and presentation of the church as reasons to attribute it to a later writer working within Paul’s tradition. Others regard those differences as compatible with Paul addressing a different occasion. The question remains debated.",
+        "The letter’s broad address and limited personal detail suggest a purpose extending beyond one local controversy. Some early manuscripts omit the reference to Ephesus in the opening address, supporting the possibility of circulation. Its teaching should therefore be approached as a vision of shared Christian identity and conduct. A precise reconstruction of the first recipients is less secure than the themes the letter repeatedly develops."
+      ],
+      "sourceIds": [
+        "text",
+        "background",
+        "address-note"
+      ]
+    },
+    {
+      "title": "Grace creates a new belonging",
+      "paragraphs": [
+        "Chapter 2 moves from death in wrongdoing to life given with Christ. Salvation is described as God’s gift, and the resulting life is directed toward good works. Grace and transformed conduct belong to the same movement. The gift supplies the foundation from which a new way of living can grow.",
+        "The next passage addresses Gentiles who once stood at a distance from Israel’s covenants and hope. Christ brings them near and makes peace. Images of citizenship, household, and temple explain their new belonging. The reconciliation is with God and also between people whose histories had divided them. The church becomes a dwelling in which God’s presence is known through the Spirit. The language asks a community to embody the peace it confesses."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Unity matures through everyday practices",
+      "paragraphs": [
+        "The call in chapter 4 is to live in a manner worthy of this calling. Humility, patience, and bearing with one another preserve unity. Gifts of ministry equip the whole body for service and growth. Maturity is described through truth spoken in love, with each part contributing to the life of the whole.",
+        "The counsel becomes strikingly practical: replace falsehood with truth, destructive speech with words that build up, stealing with useful work and generosity, bitterness with kindness and forgiveness. Such instructions explain what spiritual growth looks like at close range. The letter’s language about light also concerns a visible way of life. Wisdom means attending to conduct, using time responsibly, and allowing gratitude, worship, and the Spirit’s influence to shape relationships."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Households, power, and standing firm",
+      "paragraphs": [
+        "The household instructions address wives and husbands, children and parents, enslaved people and masters within the social arrangements of the ancient world. Their setting requires careful interpretation. They include demands on those with authority, especially the call for husbands to love with Christ’s self-giving care and the reminder that masters answer to the same heavenly Lord. The text should never serve as protection for coercion or abuse.",
+        "The final image of God’s armor describes a community standing firm through truth, righteousness, readiness for peace, faith, salvation, God’s word, and persistent prayer. Its struggle is not a license to turn human neighbors into enemies. The weapons named direct attention toward faithful endurance and dependence on God.",
+        "Read Ephesians by tracing the movement from gift to practice. Its majestic opening and ordinary instructions illuminate each other. The peace made through Christ becomes credible where people learn to speak honestly, forgive, share, and exercise influence with care. The church’s unity is a received gift that calls for patient cultivation in the actual relationships of its members."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "God’s purpose and a shared household",
+      "startChapter": 1,
+      "endChapter": 3,
+      "description": "Blessing, prayer, grace, reconciliation, and the revealed mystery."
+    },
+    {
+      "label": "A life worthy of the calling",
+      "startChapter": 4,
+      "endChapter": 5,
+      "description": "Unity, maturity, renewed conduct, worship, and household relationships."
+    },
+    {
+      "label": "Faithfulness and endurance",
+      "startChapter": 6,
+      "endChapter": 6,
+      "description": "Responsibilities within households, God’s armor, prayer, and closing greetings."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Grace before achievement",
+      "description": "God’s gift creates the life in which good works become possible."
+    },
+    {
+      "name": "Peace across division",
+      "description": "Jews and Gentiles share one household through Christ."
+    },
+    {
+      "name": "Maturity in love",
+      "description": "The body grows through truthful, generous, responsible relationships."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century Christian communities",
+    "context": "The letter addresses the life of communities in the Pauline tradition. Its theological references to creation and the heavenly realms do not imply a dated sequence of events.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 6,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century Christian communities",
+      "note": "The letter addresses the life of communities in the Pauline tradition. Its theological references to creation and the heavenly realms do not imply a dated sequence of events."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Ephesians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Ephesians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/ephesians/lessons/summary-of-ephesians/"
+    },
+    {
+      "id": "address-note",
+      "label": "Ephesians 1:1 · BSB manuscript note",
+      "url": "https://biblehub.com/bsb/ephesians/1.htm"
+    }
+  ]
+}

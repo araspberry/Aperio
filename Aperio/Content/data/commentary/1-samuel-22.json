@@ -1,0 +1,54 @@
+{
+  "book": "1 Samuel",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 22: Refuge in the Storm",
+      "overview": [
+        "David's flight to the cave of Adullam reveals how God gathers the broken and transforms them into something whole and purposeful. In this chapter, we witness the profound truth that our lowest moments often become the birthplace of God's deepest work in our lives.",
+        "When David reaches the cave, he is utterly alone—a hunted man, rejected by his king and cut off from his home. Yet something remarkable happens: those who were in distress, in debt, and discontented gather around him. The broken collect around the broken. This is not coincidental; it is redemptive. David's pain becomes the gateway through which others find purpose. His cave becomes their sanctuary, and his leadership becomes shaped not by royal comfort but by hard-won empathy.",
+        "Notice that David brings his parents to safety in Moab, securing those he loves before leading his growing band. Even while fleeing for his life, he shows pastoral care. Then David moves forward into trust, seeking the prophet Gad's guidance. He does not sit paralyzed by circumstance; he seeks God's word and direction. Meanwhile, Saul, consumed by jealousy and paranoia, commits a horrifying massacre of innocent priests at Nob—a descent into tyranny that contrasts starkly with David's growth toward justice.",
+        "This passage invites us into a deep truth: the God who allows us to be refined in caves is shaping us for purposes we cannot yet see. Our seasons of loss and hiding are not divine mistakes; they are divine classrooms. David did not become a great king despite the cave—he became a great king because of it. His willingness to lead the wounded taught him to lead with mercy.",
+        "What breaks us, when surrendered to God, can remake us. What isolation we experience can become the crucible where we learn to value others deeply. Consider where you find yourself today: Are you in a cave? Are others gathering around your pain? What might God be forming in this season that you cannot yet perceive?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 22: Scholarly study",
+      "overview": [
+        "The twenty-second chapter of 1 Samuel represents a critical juncture in the David narrative, marking the definitive rupture between Saul's regime and David's emerging alternative community while simultaneously depicting one of the most disturbing episodes of royal violence in the Hebrew Bible. The chapter divides naturally into three movements: David's gathering of a marginalized following at Adullam (vv. 1–5), Saul's paranoid confrontation with his servants at Gibeah (vv. 6–19), and Abiathar's escape to David (vv. 20–23). Scholars generally assign this material to an early source within the History of David's Rise, likely preserving authentic historical memory given its unflattering portrait of David as leader of social outcasts.",
+        "The description of those who gathered to David at the cave of Adullam carries significant socioeconomic implications. The Hebrew terms employed—those in \"distress\" (*matzōq*), those with \"debt\" (*nōsheh*), and those \"bitter of soul\" (*mar-nephesh*)—paint a portrait of systemic dysfunction under Saul's monarchy. David becomes captain (*śar*) over approximately four hundred men, a term suggesting military organization that foreshadows his later royal administration. This assembly of the dispossessed echoes ancient Near Eastern patterns where charismatic leaders attracted disaffected populations, paralleling the *ḫapiru* phenomenon documented in Amarna correspondence.",
+        "Saul's massacre of the priests at Nob constitutes a pivotal theological moment. When the Israelite servants refuse to execute the priests, Doeg the Edomite—significantly marked as an outsider—performs the slaughter, killing eighty-five who wore the linen ephod (*'ēphōd bad*). This priestly vestment specification emphasizes the sacrilege involved. The herem-like destruction of Nob, including women, children, and livestock, ironically recalls Saul's incomplete execution of the ban against Amalek in chapter 15, suggesting he now perpetrates against Yahweh's servants what he failed to accomplish against Yahweh's enemies.",
+        "The chapter concludes with Abiathar's flight to David, bringing the ephod that will later facilitate divine inquiry. David's acceptance of responsibility—\"I have occasioned the death of all the persons of your father's house\"—demonstrates the narrative's complex characterization, neither whitewashing David nor condemning him entirely, while establishing the theological continuity between legitimate priesthood and David's nascent kingdom."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 22: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, during the turbulent transition between the judges and the established monarchy in Israel. Saul reigns as the rejected king—anointed but abandoned by the Spirit—while David, the secretly anointed future king, wanders as a fugitive in the wilderness of Judah. Within redemptive history, we stand in the Kingdom period, that era when God grants Israel visible monarchy as a shadow of the eternal throne to come, yet the immediate reality reveals how deeply human kingship fails when divorced from covenant faithfulness.",
+        "David's flight to the cave of Adullam becomes a profound typological tableau. Here the true anointed one, rejected by the established powers, gathers to himself the distressed, the indebted, and the discontent—four hundred outcasts who become the nucleus of his mighty men. This pattern finds its ultimate fulfillment in Christ, who was despised and rejected, yet draws to Himself those burdened by sin's debt, those crushed by the present age, gathering a kingdom from the margins of society. The cave itself whispers of burial and emergence, of hiddenness before manifestation, as David's kingdom exists in embryonic concealment before its glorious revelation.",
+        "The massacre at Nob stands as one of Scripture's darkest moments, revealing the satanic character of all power that opposes God's anointed. Saul, paranoid and murderous, slaughters eighty-five priests of the Lord through Doeg the Edomite—a descendant of Esau executing judgment on the servants of the sanctuary. Here the seed of the serpent strikes at the priestly order itself. Yet Abiathar escapes, preserving the Aaronic line and carrying the ephod to David, so that legitimate priestly ministry now attends the rejected king in exile rather than the throne in Gibeah. The institutions of Israel—kingship and priesthood—begin their journey toward reunion in David's house, pointing forward to that final convergence in Christ who is both King and Priest forever.",
+        "David's confession of guilt over Nob and his protective gathering of his vulnerable family reveals the heart of the coming Shepherd-King who takes responsibility for His people and shelters them under His care. The church now lives as David's band once did—gathered around a rejected but anointed King, awaiting His public vindication, sharing His reproach while knowing His certain victory. The Sauls of this age still rage, but their thrones crumble while Christ's kingdom, formed in caves and wilderness, endures forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.444+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

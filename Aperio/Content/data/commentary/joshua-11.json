@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 11: The Courage of Faithful Obedience",
+      "overview": [
+        "Joshua 11 records the final major military campaign that secured the Promised Land—a sweeping victory against a coalition of northern kingdoms that seemed impossibly superior in numbers and resources. Yet beneath the battle narratives lies a profound spiritual truth: when God's people move forward in obedience despite overwhelming odds, they discover that the Lord fights on their behalf.",
+        "The passage opens with an image of fear. The northern kings, witnessing Israel's earlier victories, gather together—horsemen, chariots, and a vast multitude. The natural human response would be paralysis. But God speaks directly to Joshua: \"Do not be afraid of them, for tomorrow about this time I will hand them all over to Israel, slain\" (11:6). This promise isn't based on military superiority; it's rooted entirely in God's covenant faithfulness. Joshua responds not with hesitation but with immediate action, and the Lord delivers exactly as promised. Even the iron chariots—symbols of military might—become irrelevant against God's power.",
+        "What strikes the heart in this narrative is how Joshua's obedience becomes the vehicle through which God's promises are realized. He doesn't wait for perfect circumstances or ideal conditions. He trusts the word of the Lord and mobilizes his people accordingly. There's a beautiful partnership here: God provides the promise and power, but Joshua must still lead, march, and fight. Faith and action intertwine.",
+        "For followers of Jesus today, this passage speaks to seasons when we face overwhelming spiritual opposition or life circumstances that seem too large for us. The enemy of our souls often uses intimidation to keep us paralyzed. Joshua's example reminds us that victory belongs not to the strong but to those who trust God's word and step forward in obedience despite fear.",
+        "What \"impossible\" situation in your life might God be asking you to approach with the courage of faith? What would change if you truly believed that the Lord fights for those who obey Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 11: Scholarly study",
+      "overview": [
+        "Joshua 11 represents the climactic conclusion to the conquest narratives of northern Canaan, forming a literary parallel to the southern campaign described in chapter 10. The chapter divides naturally into two movements: the battle against the northern coalition led by Jabin of Hazor (vv. 1–15) and a comprehensive summary of the entire conquest (vv. 16–23). Compositionally, this text likely draws upon older military annals that were later shaped by Deuteronomistic editors who emphasized theological themes of divine mandate and complete obedience to covenantal stipulations.",
+        "The narrative opens with Jabin king of Hazor initiating a vast coalition, identifying Hazor as \"the head of all these kingdoms\" (v. 10). Archaeological evidence confirms Hazor's prominence as the largest Bronze Age city in Canaan, covering approximately 200 acres. The Hebrew term *ḥerem* (חֵרֶם), typically rendered \"devoted to destruction\" or \"utterly destroyed,\" appears throughout this chapter and carries significant theological weight. This concept of consecrated warfare, where all spoils belong exclusively to YHWH, reflects ancient Near Eastern practices while serving the Deuteronomistic agenda of preventing religious contamination from Canaanite worship.",
+        "The divine oracle in verse 6—\"Do not be afraid of them\"—employs the characteristic formula *ʾal-tîrāʾ* (אַל־תִּירָא), the encouragement formula appearing consistently at pivotal moments in Joshua. The command to hamstring horses (*ʿāqar*, עָקַר) and burn chariots demonstrates that Israel's victories derived from divine intervention rather than military technology, a theme reinforcing the broader Deuteronomistic theology of dependence upon YHWH.",
+        "Scholars debate the historical reliability of the wholesale destruction described here, noting tensions with Judges 1, which presents a more gradual and incomplete conquest. The summary statement that Joshua \"left nothing undone of all that the LORD commanded Moses\" (v. 15) functions theologically rather than as strict historiography, portraying Joshua as the ideal successor who fulfilled Mosaic directives completely. The concluding notice that \"the land had rest from war\" (v. 23) employs *šāqaṭ* (שָׁקַט), anticipating the rest motif that achieves fuller expression in later canonical texts, particularly Hebrews 3–4, where Canaan's rest typologically foreshadows eschatological Sabbath rest."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 11: Prophetic perspective",
+      "overview": [
+        "Joshua 11 records events approximately 1400 years before the birth of Christ, during the conquest of Canaan that followed Israel's forty years of wilderness wandering. This chapter describes the northern campaign against a massive coalition of Canaanite kings, completing the initial phase of Israel's possession of the promised land. Within redemptive history, this moment stands as the fulfillment of promises made to Abraham six centuries earlier—that his descendants would inherit this land after the iniquity of the Amorites reached its full measure.",
+        "The gathering of kings under Jabin of Hazor presents a fearsome spectacle: armies as numerous as sand on the seashore, horses and chariots representing the apex of ancient military technology. Yet the Lord's word to Joshua burns with sovereign certainty: \"Do not be afraid because of them, for tomorrow about this time I will deliver all of them slain before Israel.\" Here the divine warrior fights for His people, and no confederation of earthly powers can stand against the counsel of heaven. The hamstringing of horses and burning of chariots declare that Israel's security rests not in adopting pagan methods but in absolute dependence upon Yahweh.",
+        "Joshua emerges as a profound type of Christ—his very name meaning \"Yahweh saves,\" the Hebrew form of Jesus. As Joshua led Israel into rest by conquering their enemies, so the greater Joshua leads His people into eternal rest through victory over sin, death, and every hostile power. The utter destruction of the Anakim giants, before whom Israel had trembled a generation earlier at Kadesh-barnea, demonstrates that faith's obedience accomplishes what fear's rebellion never could. The giants who caused Israel to see themselves as grasshoppers are now swept away like chaff.",
+        "The summary statement that \"Joshua took the whole land\" while \"the land had rest from war\" whispers of a greater rest still to come. The author of Hebrews understood that Joshua's rest was incomplete—a shadow pointing toward the Sabbath rest remaining for God's people. The conquered land still required ongoing possession; enemies remained in pockets throughout the territory.",
+        "The church now lives as spiritual Israel, possessing heavenly promises while warfare continues. Every enemy Christ conquered at the cross must be progressively claimed in our experience. The final rest awaits His return, when every hostile power will be placed beneath His feet and the meek shall inherit not merely Canaan but the entire renewed earth."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.208347+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Genesis",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 18: The God Who Meets Us Where We Are",
+      "overview": [
+        "The spiritual heart of Genesis 18 is the stunning accessibility of God's presence—He arrives at Abraham's tent not as a distant monarch but as a welcomed guest, bringing covenant promises through intimate conversation and revealing His heart through honest dialogue.",
+        "Abraham's encounter with three visitors reveals something profound about the character of God. Here is a man living in the heat of the day, and when he sees travelers approaching, he runs to meet them with genuine hospitality. He doesn't know yet that he is entertaining the Lord Himself, yet his instinctive generosity mirrors something of God's own lavish grace. This passage invites us to consider how often God draws near to us through ordinary moments—through a conversation, a meal shared, a friend's presence—and we fail to recognize the sacred in the simple.",
+        "What strikes deepest is Abraham's growing boldness in the conversation that follows. As God reveals His plan to judge Sodom, Abraham doesn't shrink back but questions, even negotiates. \"Will you sweep away the righteous with the wicked?\" he asks. Rather than silencing him, God engages. This is the portrait of a relationship where honest wrestling with God's justice is not only permitted but valued. Abraham's intercession—bargaining down from fifty righteous people to ten—shows us that God genuinely cares what His people think and feel about His purposes.",
+        "Yet beneath Abraham's advocacy for Sodom lies a deeper issue: his own faith. God will soon test whether Abraham truly believes the covenant promises about Isaac, asking him to offer his son. The beautiful hospitality of Genesis 18 stands in stark contrast to the terrifying obedience of Genesis 22, reminding us that walking with God means embracing both His intimate nearness and His mysterious demands.",
+        "How might your attitude toward hospitality change if you viewed each guest as a potential encounter with the divine?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 18: Scholarly study",
+      "overview": [
+        "Genesis 18 presents one of the most theologically significant theophanies in the Pentateuch, narrating Abraham's encounter with three visitors at the oaks of Mamre and the subsequent dialogue concerning Sodom's fate. The passage likely derives from the Yahwist source, evidenced by its anthropomorphic depiction of divine interaction and the consistent use of the tetragrammaton. Set within the broader Abrahamic cycle, this chapter serves as a pivotal transition between the covenant promises of chapters 15–17 and the judgment narrative of chapter 19, while reinforcing themes of divine faithfulness, hospitality, and justice.",
+        "The opening scene employs the Hebrew term *'adonay*, which presents interpretive complexity—appearing to function both as a polite address to human guests and as a divine title. This ambiguity reflects the mysterious nature of the visitation itself, where the boundaries between human and divine remain deliberately fluid. Abraham's lavish hospitality, offering cakes made from three seahs of fine flour (*solet*) alongside a prepared calf, exemplifies ancient Near Eastern conventions of guest reception while establishing a paradigm of righteous conduct that contrasts sharply with Sodom's inhospitality in the following chapter.",
+        "The reaffirmation of Sarah's promised conception introduces the phrase \"at the appointed time\" (*la-mo'ed*), emphasizing divine sovereignty over human impossibility. Sarah's internal laughter and subsequent denial create narrative tension, prompting the rhetorical question that has resonated throughout Jewish and Christian interpretation: \"Is anything too wonderful for the LORD?\"",
+        "The extended dialogue concerning Sodom's judgment (verses 22–33) represents remarkable theological development in the Hebrew Bible. Abraham's progressive intercession—moving from fifty righteous persons to ten—raises profound questions about collective versus individual responsibility and the nature of divine justice. The verb *hashḥit* (to destroy) appears repeatedly, while Abraham's self-description as \"dust and ashes\" (*'aphar wa-'epher*) demonstrates appropriate humility before divine majesty. Scholars debate whether Abraham's negotiation reflects genuine influence upon divine decision-making or serves a pedagogical function revealing God's commitment to justice tempered by mercy. This passage significantly influenced later Jewish traditions regarding intercessory prayer and became foundational for theological reflection on theodicy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 18: Prophetic perspective",
+      "overview": [
+        "Genesis 18 unfolds approximately two thousand years before the birth of Christ, in the era of the patriarchs, when God was establishing His covenant with Abraham as the foundation for all redemptive history. This chapter stands within the Abrahamic epoch of the grand narrative—after the call of Abraham but before the birth of Isaac, the child of promise through whom the covenant seed would come. Here we witness the Lord Himself descending to confirm His promise and to execute judgment upon Sodom, events that cast long shadows forward to both the first and second advents of Christ.",
+        "The chapter opens with a theophany of breathtaking intimacy: three men appear at Mamre, and Abraham, recognizing something of the divine presence, bows low and offers hospitality. The text moves fluidly between references to \"the LORD\" and \"the men,\" revealing that the pre-incarnate Son has come in human form, accompanied by two angels. This visitation is a profound type of the Incarnation itself—the eternal Word who would one day take on permanent human flesh here appears temporarily in bodily form, eating bread and meat at Abraham's table. The meal shared beneath the oak trees whispers of the marriage supper yet to come, when the Lord will feast with His redeemed.",
+        "Sarah's laughter at the promise of a son becomes the occasion for one of Scripture's most piercing questions: \"Is anything too hard for the LORD?\" This rhetorical declaration echoes through the centuries, answered definitively at the virgin's conception of the Messiah and at the empty tomb. The promised birth of Isaac, humanly impossible, typifies the greater impossible birth—God entering creation through the womb of a maiden.",
+        "The chapter then pivots to divine deliberation regarding Sodom. The Lord's determination not to hide His intentions from Abraham establishes the prophetic office: God reveals His purposes to His servants before He acts in judgment. Abraham's intercession for the righteous in Sodom stands as a type of Christ's greater intercession, the righteous One whose presence saves many. The destruction that follows Sodom foreshadows the eschatological judgment Christ Himself invoked, warning that the day of the Son of Man would mirror Lot's deliverance amid fire.",
+        "For the church awaiting the Lord's return, Genesis 18 calls us to faithful hospitality, bold intercession, and confident trust that nothing is too hard for the God who keeps His promises across millennia."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.680959+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Acts",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 2: The Spirit Comes and the Church Awakens",
+      "overview": [
+        "When the Holy Spirit falls at Pentecost, the church is born not from human planning but from God's generous outpouring. This passage reveals the reality that belonging to Jesus is never meant to be solitary; it is fundamentally communal, Spirit-empowered, and irrepressibly public.",
+        "The disciples waited in Jerusalem as Jesus commanded, expectant but uncertain. When the Spirit came like a rushing wind and appeared as tongues of fire, it was both terrifying and transformative. Peter, the one who had denied Jesus weeks before, stood up and proclaimed Christ's resurrection with boldness that could only come from beyond himself. The barrier of language dissolved as believers spoke in other tongues—not as ecstatic gibberish, but as a sign that God's good news transcends every human division. Devout Jews from distant lands heard the mighty works of God in their own languages, a reversal of Babel where human pride built walls through confusion. Here, the Spirit builds bridges through clarity.",
+        "What follows reveals the character of the Spirit-filled community. Three thousand people were baptized, and immediately they devoted themselves to apostolic teaching, fellowship, breaking bread, and prayer. This wasn't spiritual ecstasy without substance; it was doctrine grounded in community care. They sold possessions and distributed to anyone in need. Joy and awe characterized their gatherings. They were attractive not because they were slick or impressive by worldly standards, but because Christ was genuinely present in their shared life.",
+        "This passage invites us to consider what the Spirit's indwelling actually produces. Are we experiencing the apostles' boldness, their willingness to be countercultural? Do our churches reflect the radical generosity and genuine fellowship described here? The Spirit doesn't come to make us comfortable; he comes to remake us into the image of Jesus and bind us together in costly love.",
+        "What specific area of your life or church community is the Spirit inviting you to yield to his reshaping?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 2: Scholarly study",
+      "overview": [
+        "The second chapter of Acts stands as the theological and narrative fulcrum of Luke's two-volume work, depicting the fulfillment of Jesus's promise in Acts 1:8 and marking the inauguration of the eschatological community. The setting is the Jewish festival of Pentecost (πεντηκοστή, *pentēkostē*), occurring fifty days after Passover, when Jerusalem swelled with diaspora pilgrims—a detail Luke exploits to demonstrate the universal scope of the gospel from its inception. The precise location, whether the temple courts or a private dwelling, remains debated, though the public nature of the subsequent events suggests accessibility to the gathered multitudes.",
+        "The phenomena accompanying the Spirit's descent—wind and fire—deliberately evoke Sinai theophany traditions, positioning this event as a new covenant moment paralleling Torah's giving. The term *glossais* (γλώσσαις) in verse 4, rendered \"tongues,\" has generated substantial scholarly discussion regarding whether these were ecstatic utterances or actual foreign languages. The immediate context, with its catalogue of nations and the crowd's recognition of their native dialects (*dialektos*, διάλεκτος, vv. 6, 8), strongly favors the latter interpretation, though the accusation of drunkenness (v. 13) suggests the speech possessed unusual characteristics.",
+        "Peter's sermon (vv. 14–36) represents the first Christian proclamation and establishes a kerygmatic pattern repeated throughout Acts. His exegesis of Joel 3:1–5 (LXX) employs pesher-style interpretation, identifying the \"last days\" as presently inaugurated. The christological argument reaches its apex in the application of Psalm 16 to Jesus's resurrection, with Peter arguing that David, having died and possessing an identifiable tomb, could not be the psalm's ultimate referent. The climactic declaration that God has made Jesus \"both Lord and Christ\" (*kyrion kai christon*, κύριον καὶ χριστόν, v. 36) represents a sophisticated confession linking messianic expectation with divine authority.",
+        "The chapter concludes with the community's response: repentance, baptism, and incorporation into a fellowship characterized by apostolic teaching, communal meals, and shared possessions. This summary (vv. 42–47) presents an idealized portrait that functions both descriptively and paradigmatically, establishing expectations for ecclesial life while acknowledging, as subsequent chapters reveal, the community's imperfect realization of these ideals."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 2: Prophetic perspective",
+      "overview": [
+        "This passage unfolds approximately fifty days after the resurrection of Christ, ten days following His ascension from the Mount of Olives. The disciples have gathered in Jerusalem during the Feast of Pentecost—one of Israel's three great pilgrimage festivals—when suddenly the promise of the Father descends in wind and fire. We stand here at the hinge point of redemptive history, the moment when the age of the Spirit formally begins and the church is born as the new covenant community empowered for worldwide mission.",
+        "In the grand narrative of Scripture, Pentecost marks the reversal of Babel and the inauguration of the restoration long prophesied. Where humanity was once scattered and their languages confused as judgment for prideful rebellion, now the Spirit gathers representatives from every nation under heaven and enables them to hear the wonderful works of God in their own tongues. The prophetic word of Joel finds its fulfillment—\"In the last days, God declares, I will pour out my Spirit on all flesh.\" Peter's sermon makes explicit what the prophets glimpsed in shadows: the last days have dawned. The crucified Jesus whom Israel rejected has been raised and enthroned at the Father's right hand as both Lord and Christ, the true Davidic King whose throne endures forever.",
+        "The typological richness here is profound. Pentecost was originally the celebration of firstfruits, fifty days after Passover, commemorating the giving of the Law at Sinai. Now the true Passover Lamb has been slain, and fifty days later, instead of law written on stone, God writes His law on human hearts through the indwelling Spirit. Moses longed that all God's people would be prophets; at Pentecost that longing begins its fulfillment. The three thousand who respond to the gospel that day mirror and redeem the three thousand who perished at Sinai for the golden calf. What the law could not accomplish—a holy people united in worship—the Spirit now creates through the proclaimed Word.",
+        "The eschatological tension of this chapter frames the entire church age. The last days have begun but not yet reached their consummation. The Spirit has been poured out, yet we still await the day of the Lord with its cosmic signs. The church now lives in the overlap of ages—experiencing the powers of the age to come while still inhabiting mortal flesh, proclaiming the exalted Christ while awaiting His visible return. This is our identity and calling until He comes: a Spirit-empowered community declaring repentance and forgiveness in His name to all nations."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.665756+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

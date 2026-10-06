@@ -1,0 +1,57 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Corinthians 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Corinthians 3: The Freedom of God's Transformed Heart",
+      "overview": [
+        "Paul invites the Corinthians—and us—into the astonishing liberation that comes when we move beyond outward religious performance into the transforming presence of the Holy Spirit. This is the gospel's most radical promise: that God doesn't simply demand better behavior from us, but actually rewrites our hearts.",
+        "The contrast here is profound. The old covenant was written on stone tablets, magnificent and intimidating, yet it killed because it could only condemn. It brought glory, yes, but a fading glory—the kind that required a veil to hide its diminishment. But the new covenant is written on human hearts by the Spirit himself, and its glory never fades. This isn't a minor upgrade; it's a complete transformation of how God relates to us.",
+        "When Paul writes that \"the Lord is the Spirit\" and \"where the Spirit of the Lord is, there is freedom,\" he's describing something the religious world rarely experiences. True Christianity isn't about striving harder to keep rules while secretly failing. It's about the Spirit's presence fundamentally reshaping our desires, inclinations, and capacities. We're changed \"from glory to glory,\" slowly but surely becoming who we're actually meant to be.",
+        "Consider your own spiritual journey. How much of your faith has been about external conformity—doing the right things, saying the right words—versus invitation into genuine transformation? The Corinthians were struggling with this tension, drawn toward impressive external displays of spirituality. But Paul calls them deeper.",
+        "The veil that obscured the old covenant's fading glory has been lifted in Christ. We don't need to hide behind spiritual facades or exhaust ourselves performing righteousness. The Spirit's work is interior, progressive, and liberating. Our role is simply to turn our faces toward the Lord and allow ourselves to be changed.",
+        "What would it mean for you to trust the Spirit's quiet transformation more than your own religious effort this week?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Corinthians 3: Scholarly study",
+      "overview": [
+        "Second Corinthians chapter three emerges from Paul's extended defense of his apostolic ministry amid challenges to his authority in Corinth, likely composed around 55–56 CE from Macedonia. The chapter functions as a crucial hinge in the letter, transitioning from Paul's self-commendation (2:14–17) to his exposition of ministerial glory, and represents one of the most sophisticated theological arguments in the Pauline corpus regarding the relationship between the old and new covenants.",
+        "Paul opens with a rhetorical question about letters of recommendation, a common practice in the ancient Mediterranean world where itinerant teachers carried credentials from established authorities. His response introduces the striking metaphor of the Corinthian believers themselves as his letter, \"written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts\" (v. 3). The term *kardia* (heart) deliberately echoes the prophetic promises of Jeremiah 31:33 and Ezekiel 36:26, situating Paul's ministry within the eschatological fulfillment of Israel's hopes.",
+        "Central to the chapter is Paul's contrast between two ministries: that of *gramma* (letter/written code) and *pneuma* (Spirit). This distinction, often misread as a simple law-versus-grace dichotomy, is more precisely understood as contrasting the old covenant's provisional arrangement with the new covenant's transformative power. Paul's declaration that \"the letter kills, but the Spirit gives life\" (v. 6) has generated considerable interpretive debate, with scholars like Richard Hays arguing that *gramma* refers specifically to the Torah's condemnatory function apart from Christ, rather than dismissing Jewish Scripture wholesale.",
+        "The midrashic exposition of Exodus 34:29–35 regarding Moses's veiled face constitutes the chapter's theological apex. Paul employs the term *kalymma* (veil) to describe both the literal covering Moses wore and the metaphorical obstruction preventing Israel from perceiving Christ in their Scriptures. The hermeneutical key appears in verse 16: when one turns to the Lord, the veil is removed, enabling transformative encounter.",
+        "The chapter culminates in verse 18's vision of believers \"beholding as in a mirror the glory of the Lord\" and being progressively transformed (*metamorphoumetha*) into Christ's image. This participatory understanding of salvation through contemplation represents Paul's distinctive contribution to early Christian spirituality, linking epistemology, ethics, and eschatology in a unified vision of covenant renewal."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Corinthians 3: Prophetic perspective",
+      "overview": [
+        "This epistle emerges from the apostolic era, written approximately twenty-three years after the resurrection of Christ, around AD 55-56, during Paul's third missionary journey. The church at Corinth, planted just a few years earlier, stands at the threshold of understanding the epochal transition that has occurred in redemptive history—the shift from the old covenant administration to the new covenant reality inaugurated through the blood of Christ.",
+        "Within the grand narrative of Scripture, this passage occupies a pivotal interpretive position. Paul writes from the Church Age, looking backward to Sinai and the Exodus while simultaneously illuminating the surpassing glory of what has now arrived in Christ. The apostle stands as a minister of the new covenant, that very covenant promised through Jeremiah when God declared He would write His law upon human hearts rather than tablets of stone.",
+        "The typological density of this chapter is extraordinary. Moses himself becomes a type whose ministry, though genuinely glorious, pointed beyond itself to something infinitely greater. The veil Moses wore after descending Sinai served a dual function—protecting Israel from fading glory while simultaneously symbolizing the concealment that would characterize old covenant understanding until Messiah came. This veil, Paul reveals, now rests upon hearts whenever Moses is read apart from Christ, but it is removed when one turns to the Lord. Here the pattern reaches its fulfillment: what was veiled is now unveiled, what was external becomes internal, what was temporary gives way to the permanent.",
+        "The contrast between letter and Spirit, between ministry of death and ministry of righteousness, between fading glory and surpassing glory—these are not depreciations of God's revelation at Sinai but rather demonstrations that the old covenant always anticipated its own transcendence. The law carved in stone accomplished its holy purpose of exposing sin and guarding Israel until the Seed should come, yet it could never transform the human heart. Now, through the Spirit of the living God, believers are being transformed from glory to glory into the image of Christ Himself.",
+        "For the church dwelling between the advents, this passage speaks with urgent relevance. Believers now behold with unveiled faces the glory of the Lord—not yet face to face as in the consummation, but truly and transformatively through the gospel. The same Spirit who hovered over primordial waters now writes Christ upon redeemed hearts, guaranteeing that the new creation already begun will reach its appointed completion when He appears."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "47_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.820105+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

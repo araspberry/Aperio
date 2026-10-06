@@ -1,0 +1,56 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 18: The Prophet Like Moses",
+      "overview": [
+        "God's promise of future prophetic guidance reveals His intention never to leave His people without a voice speaking truth into their lives. In this chapter, Moses establishes how the Lord will continue shepherding Israel through divinely appointed messengers—and ultimately points toward Jesus Himself.",
+        "The passage begins by securing the Levites' material welfare, ensuring they could serve without anxious distraction. This foundational truth teaches us something vital: spiritual leadership requires care and provision. When we neglect those who feed our souls, we impoverish ourselves. The principle extends beyond ancient priesthood—it reminds modern believers that those who give their lives to ministry deserve our support and honor.",
+        "But the chapter's heart lies in verses 15–18, where Moses promises a prophet like himself will arise. Unlike the false prophets and diviners surrounding Israel—those who dabble in sorcery, omens, and spiritualism—God's true prophets will speak with clarity and authority. Notice the test: if a prophet's words don't come to pass, he hasn't spoken for the Lord. God's word carries the weight of reality; it doesn't bend to tickle ears but stands firm and true.",
+        "For the Christian, this passage points unmistakably to Jesus, the ultimate Prophet who fulfills what Moses began. Where Moses gave the Law, Christ brought grace and truth. Where Moses interceded for Israel, Christ intercedes eternally for believers. Just as Israel needed genuine guidance in a world of spiritual confusion, we need discernment today amid countless voices claiming to speak for God.",
+        "The deeper invitation is to trust God's faithfulness. He doesn't abandon His people to wander in darkness. He speaks, He guides, He sends His Word. In a world of spiritual noise, counterfeit spirituality, and competing voices demanding our allegiance, this passage anchors us in confidence that God provides what we truly need.",
+        "What voices are you listening to? Are they leading you closer to Christ, or away from His truth?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 18: Scholarly study",
+      "overview": [
+        "Deuteronomy 18 occupies a pivotal position within the Deuteronomic code, addressing the institutional framework of religious leadership and prophetic authority in Israel as Moses prepares the people for life in Canaan. The chapter divides naturally into three sections: provisions for the Levitical priesthood (vv. 1–8), prohibitions against Canaanite divinatory practices (vv. 9–14), and the promise of a prophetic succession (vv. 15–22). This arrangement reflects the Deuteronomist's concern to establish legitimate channels of divine communication while categorically rejecting the mantological practices endemic to the surrounding cultures.",
+        "The opening section reaffirms that the tribe of Levi possesses no territorial inheritance (*naḥălâ*), as YHWH himself constitutes their portion (*ḥēleq*). This theological assertion grounds priestly sustenance not in landed wealth but in covenantal relationship, with priests receiving designated portions from sacrificial offerings. The legislation permitting rural Levites to minister at the central sanctuary (vv. 6–8) addresses the practical challenges created by cultic centralization, though 2 Kings 23:9 suggests this provision faced resistance in actual implementation.",
+        "The catalogue of prohibited practices in verses 9–14 employs comprehensive terminology for divination and necromancy, including *qōsēm* (diviner), *mĕʿônēn* (soothsayer), and *dōrēš ʾel-hammētîm* (one who consults the dead). The characterization of these practices as *tôʿăbâ* (abomination) places them among the most serious covenant violations, justifying the dispossession of Canaan's inhabitants.",
+        "The prophetic oracle in verses 15–22 has generated extensive interpretive discussion regarding its referent. The singular \"prophet\" (*nābîʾ*) like Moses whom YHWH will raise up has been understood variously as a collective reference to the prophetic institution, a specific messianic figure, or both through a sensus plenior reading. New Testament appropriation (Acts 3:22–23; 7:37) interprets this christologically, though the immediate Deuteronomic context appears to establish criteria for evaluating prophetic claims generally. The dual test of prophetic authenticity—theological fidelity and predictive fulfillment—provides practical guidance while acknowledging the genuine danger of false prophecy. This passage thus establishes prophecy as Israel's legitimate alternative to pagan divination, mediating divine guidance through human spokespersons who stand in Mosaic succession."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 18: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 18 stands at a pivotal moment in redemptive history, delivered approximately 1400 years before Christ's birth, as Israel camped on the plains of Moab preparing to cross the Jordan into Canaan. Moses, the great prophet who mediated the Sinai covenant, speaks these words knowing he will not enter the land—and in doing so, he points forward to One greater than himself who would come.",
+        "Within the grand arc of God's redemptive plan, this chapter occupies the space between Exodus and Kingdom, establishing the prophetic office that would guide Israel through centuries of monarchy, exile, and restoration until the fullness of time. Here Moses legislates the Levitical priesthood's inheritance, forbids pagan divination, and delivers one of Scripture's most luminous messianic prophecies—the promise of the Prophet like Moses whom the Lord would raise up from among the brethren.",
+        "The typological dimensions of this passage are breathtaking. Moses himself functions as a type of Christ: deliverer from bondage, covenant mediator, lawgiver, and intercessor who stood between a holy God and sinful people. Yet Moses declares that another Prophet would arise who would surpass him—one to whom all Israel must listen on pain of divine judgment. The apostolic church recognized this prophecy's fulfillment unmistakably. Peter, preaching in Solomon's portico after Pentecost, declared Jesus to be this very Prophet, and Stephen, in his final sermon before martyrdom, invoked this text to demonstrate Israel's pattern of rejecting God's appointed deliverers.",
+        "The prohibition against divination, necromancy, and sorcery carries eschatological weight extending into the present age and beyond. These practices represent humanity's illicit attempt to penetrate the veil between present and future, between the living and the dead—a veil that God alone may lift through His appointed mediator. Christ, as the Prophet greater than Moses, has brought the definitive word from the Father. In Him, all God's promises find their \"Yes\" and \"Amen.\" The age of shadows has yielded to the age of substance.",
+        "For the church living between the advents, this passage speaks with urgent relevance. Believers possess in Christ the final Prophet, the ultimate Word made flesh, beside whom all other voices must be tested and before whom all other claims to divine revelation must bow. The same Lord who warned ancient Israel against false prophets calls His church to discern the spirits, holding fast to apostolic testimony until that Prophet returns—not to speak, but to reign."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.139739+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

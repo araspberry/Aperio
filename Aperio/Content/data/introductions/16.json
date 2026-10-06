@@ -1,0 +1,134 @@
+{
+  "book": "Esther",
+  "bookIndex": 16,
+  "status": "Editorial draft",
+  "title": "Courage When Silence Becomes Dangerous",
+  "subtitle": "Esther, Mordecai, and Jewish survival in the Persian court",
+  "atAGlance": {
+    "genre": "Court narrative shaped by irony, reversal, feasts, and the establishment of a festival",
+    "setting": "The Persian Empire, chiefly Susa, during the reign of Ahasuerus, commonly identified with Xerxes I",
+    "composition": "Anonymous; its composition and relation to historical events are debated",
+    "audience": "Jewish communities remembering threatened survival and the origin of Purim"
+  },
+  "sections": [
+    {
+      "title": "Life within an unpredictable empire",
+      "paragraphs": [
+        "Esther opens with a royal display of wealth and a decision that turns a household conflict into an imperial decree. The atmosphere is extravagant, but power is unstable. Counselors exploit the king’s concerns, written orders travel across the empire, and decisions made close to the throne affect people who have no voice there. The story invites readers to notice both the magnificence and the absurdity of such authority.",
+        "Esther enters this world as a young Jewish woman raised by Mordecai. Her rise to queenship does not place her beyond vulnerability. She remains dependent on royal favor and subject to court rules. The book’s interest lies partly in what she can do from within those limits, especially when the danger facing her people becomes impossible to keep at a distance."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A private grievance becomes a public threat",
+      "paragraphs": [
+        "Haman’s anger at Mordecai expands into a plan against all Jews in the empire. The movement from personal resentment to collective destruction exposes the danger of power joined to prejudice. Haman presents an entire people as a problem to be removed, and the king grants the means. The resulting decree turns ordinary communal life into a period of dread.",
+        "Mordecai asks Esther to intervene. Their exchange in chapter 4 is the book’s decisive moral moment. Esther must face both the danger of approaching the king and the limits of remaining silent. Her position may offer an opportunity, but it does not supply certainty. She asks the community to fast with her before she acts. Courage develops through a shared response to risk."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Timing, speech, and reversal",
+      "paragraphs": [
+        "Esther’s intervention unfolds through carefully arranged banquets rather than a single immediate accusation. Meanwhile, an apparently small event—the king’s sleepless night—brings a forgotten act of Mordecai’s loyalty back into view. Haman prepares honor for the man he intends to destroy, and his confidence collapses. The narrative repeatedly turns expectations back upon those who feel most secure.",
+        "The reversal does not end the crisis at once. Haman’s death leaves the destructive decree in force, so Esther must continue to plead and another authorization must be issued. The distinction matters: removing a powerful wrongdoer is not always enough to repair the machinery that person has put in motion. Deliverance requires further action on behalf of the threatened community."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Remembering survival without ignoring violence",
+      "paragraphs": [
+        "The final conflict and the establishment of Purim turn the story toward communal memory. Feasting, gifts, and provision for the poor make remembrance something practiced together. The book explains why a people living across imperial territories will keep telling this story of danger and reversal.",
+        "The violence in the closing chapters deserves attention rather than celebration at a distance. Read the actions in relation to the earlier decree and the threat against Jewish lives, while also allowing the scale of the conflict to remain troubling. The narrative’s concern with survival should not become permission to transfer its enemies onto present-day peoples. Its force lies in exposing how prejudice becomes public danger and how costly intervention can preserve life."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "God’s hiddenness and the book’s setting",
+      "paragraphs": [
+        "In the Hebrew form represented by the BSB, God is not explicitly named. That absence is a distinctive feature of the reading experience, not proof that the story has no theological dimension. Jewish and Christian readers have long discerned providence in its timing and reversals. Such a reading should acknowledge that it is interpreting the pattern of the narrative rather than quoting an explicit explanation from its narrator.",
+        "The story belongs to Persian imperial life in the fifth century BC. Its unnamed author wrote at a date that remains debated, and scholars differ over how to relate its carefully shaped plot to recoverable history. Greek forms of Esther include additional material and explicit prayers; this introduction follows the ten-chapter BSB text. Read with attention to Esther’s developing voice, the difference between access and safety, and the moment when another person’s danger becomes a responsibility that can no longer be set aside."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Esther enters the court",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "Royal decisions, Esther’s selection, and Mordecai’s service establish the setting."
+    },
+    {
+      "label": "A people threatened",
+      "startChapter": 3,
+      "endChapter": 4,
+      "description": "Haman secures a destructive decree, and Esther must decide whether to intervene."
+    },
+    {
+      "label": "The reversal unfolds",
+      "startChapter": 5,
+      "endChapter": 7,
+      "description": "Banquets, a sleepless night, and exposed intentions bring Haman’s downfall."
+    },
+    {
+      "label": "Deliverance remembered",
+      "startChapter": 8,
+      "endChapter": 10,
+      "description": "A further decree, conflict, and the institution of Purim shape the community’s future memory."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Responsible courage",
+      "description": "Influence becomes meaningful when it is used for people facing danger."
+    },
+    {
+      "name": "Reversal",
+      "description": "The narrative repeatedly exposes the fragility of apparent power."
+    },
+    {
+      "name": "Communal memory",
+      "description": "Survival is remembered through shared celebration and care for the poor."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "Persian period, fifth century BC",
+    "context": "Jewish life in the diaspora unfolds alongside the wider era of return and restoration.",
+    "note": "Esther takes place chiefly in Persia; the era label does not mean its characters return to Jerusalem."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 10,
+      "era": "return",
+      "label": "Jewish life in the Persian diaspora",
+      "dateLabel": "Fifth-century BC narrative setting",
+      "note": "Ahasuerus is commonly identified with Xerxes I; composition is a separate and disputed question."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Esther · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Esther",
+      "url": "https://bible.usccb.org/bible/esther/0"
+    }
+  ]
+}

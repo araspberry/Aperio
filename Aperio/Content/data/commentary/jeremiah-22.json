@@ -1,0 +1,65 @@
+{
+  "book": "Jeremiah",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 22 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Jeremiah 22 · Scripture",
+      "url": "https://biblehub.com/bsb/jeremiah/22.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 22: The Reckoning of a Righteous King",
+      "overview": [
+        "When a leader forgets whom he serves, the entire kingdom suffers. Jeremiah 22 presents God's stern rebuke to Judah's kings, a message that cuts to the heart of what it means to wield authority with integrity or lose it through corruption.",
+        "The prophet stands at the palace gate and demands that the king—likely Jehoiakim—listen to God's word. The contrast is immediately clear: God calls for righteousness, justice, and deliverance of the oppressed, yet the king has chosen plunder, exploitation, and dishonest gain. This is not abstract theology; these are concrete, observable sins. The king has built his house through unrighteousness, taking wages from workers without payment, enslaving and using people for his own advancement. God sees it all, and He will not ignore it.",
+        "What makes this passage particularly haunting is its specificity. Jeremiah names the consequences: this king will die without honor, his body will be dragged beyond Jerusalem's gates, and his name will live in infamy. The promise extends further—his children, too, will fall. God's patience with persistent unfaithfulness has limits, and accountability comes.",
+        "Yet embedded within this judgment lies a pastoral truth often missed. God cares deeply about justice because He cares about the poor and vulnerable. When leaders exploit the defenseless, they strike at God's character itself. He is a God who remembers the widow, who hears the cry of the oppressed, and who will settle accounts.",
+        "For us today, this passage invites honest reflection. Whether we hold formal authority or influence in our families and communities, do we use it to serve others or ourselves? Are we advancing righteousness and protecting the vulnerable, or are we complicit in systems that benefit us at others' expense?",
+        "Where are you tempted to use influence for personal gain rather than others' good? Invite God's Spirit to examine your heart and realign your priorities with His justice."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 22: Scholarly study",
+      "overview": [
+        "Jeremiah 22 constitutes a significant collection of prophetic oracles directed primarily against the Davidic monarchy during the final tumultuous decades of Judah's existence as an independent kingdom. Composed during the reigns spanning from Josiah's sons to his grandson, this chapter preserves Jeremiah's theological assessment of kingship in crisis, delivered likely between 609 and 597 BCE as Babylonian hegemony increasingly threatened Judean sovereignty.",
+        "The chapter opens with a royal summons employing the Hebrew term *mishpat* (justice/judgment), which carries covenantal weight denoting not merely legal proceedings but the comprehensive social order that kings were obligated to maintain. The prophet's descent to the \"house of the king\" reverses the expected prophetic audience pattern, emphasizing divine initiative in confronting royal failure. The conditional promise regarding the throne's perpetuity deliberately echoes the Davidic covenant while simultaneously threatening its abrogation should covenantal fidelity fail.",
+        "Central to the chapter's theology is the concept of *tsedaqah* (righteousness), paired repeatedly with *mishpat* to form a hendiadys expressing comprehensive covenantal justice. Jehoiakim's exploitation of forced labor (*rea'*, fellow/neighbor) for palatial construction stands in stark contrast to Josiah's exemplary reign, creating an implicit father-son comparison that indicts the living king through praise of the dead. The rhetorical question \"Is not this to know me?\" profoundly redefines religious knowledge as ethical praxis rather than cultic performance.",
+        "The oracles against Shallum (Jehoahaz), Jehoiakim, and Coniah (Jehoiachin) follow chronological succession while intensifying in severity. Particularly striking is the declaration that Coniah, even if a signet ring (*chotam*) on God's right hand, would be torn off—imagery suggesting intimate relationship violently severed. The chapter concludes with Coniah rendered effectively childless regarding dynastic succession, a devastating pronouncement given ancient Near Eastern royal ideology.",
+        "Within Jeremiah's broader structure, chapter 22 functions as the centerpiece of the royal oracle collection (21:1–23:8), providing concrete historical examples before the messianic restoration promise follows. Interpreters debate whether the Jehoiakim oracle's placement disrupts strict chronology for theological effect, arranging material to emphasize progressive covenant breakdown. The chapter remains essential for understanding prophetic critique of institutional power and the conditional nature of divine promises to human institutions."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 22: Prophetic perspective",
+      "overview": [
+        "Jeremiah 22 emerges from the tumultuous final decades of Judah's existence as an independent kingdom, approximately 609–597 BC, some six centuries before Christ's advent. The prophet speaks during the reigns of the last Davidic kings—Shallum (Jehoahaz), Jehoiakim, and Coniah (Jehoiachin)—as Babylon rises to dominance and Jerusalem staggers toward its inevitable destruction. Within redemptive history, this passage stands at the precipice of exile, that devastating rupture when God's visible kingdom collapses under divine judgment, yet precisely this collapse prepares the way for a greater restoration.",
+        "The chapter opens with Jeremiah descending to the royal palace, commanding kings to execute justice and righteousness, to deliver the oppressed, and to shed no innocent blood. Here the Davidic covenant confronts its conditional dimensions: the throne promised to David's descendants carries moral obligations. These kings were meant to image the coming Messiah's reign—righteous judgment, protection of the vulnerable, shepherding care for God's people. Instead, Jehoiakim builds his palace through unrighteousness, using unpaid labor while his people suffer. The contrast is devastating: his father Josiah \"judged the cause of the poor and needy\" and therefore it \"was well with him.\" To know God, Jeremiah declares, is to do justice. Here emerges a profound typological inversion: where these failed shepherds exploit and scatter, Christ the true King will gather, protect, and lay down His life for His sheep.",
+        "The prophecies concerning individual kings demonstrate remarkable precision. Shallum would never return from Egyptian captivity—fulfilled when Pharaoh Necho deported him. Jehoiakim would receive the burial of a donkey, unhonored and unmourned. Most striking is the oracle against Coniah: God declares that even if he were a signet ring on His right hand, He would tear him off. This young king would be written \"childless\"—not literally without offspring, but with no descendant sitting on David's throne. The Davidic line appears terminates in disgrace.",
+        "Yet this seeming dead end becomes the hinge of eschatological hope. The genealogies of Matthew and Luke trace Jesus through this very line, and what appeared as curse becomes the pathway to blessing. The virgin birth circumvents the curse while maintaining the legal lineage. Christ ascends to David's throne not through Coniah's disqualified succession but through resurrection power.",
+        "The church today lives under the reign of the King these failed monarchs foreshadowed. Where they demanded unjust labor, Christ invites the weary to find rest. Where they shed innocent blood, He offered His own life for others."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.963257+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-029"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

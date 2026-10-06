@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 10: The God Who Fights for His People",
+      "overview": [
+        "Joshua 10 displays a God whose power extends beyond human limitation and whose commitment to His people's victory is absolute. In this account of the conquest of Canaan, we witness not merely military strategy but divine intervention that reshapes the very fabric of creation itself.",
+        "The Gibeonites had made a covenant with Israel through deception, yet Joshua honored that covenant when five Amorite kings threatened them. What follows is stunning: as Israel marches through the night to defend their agreement, the Lord hurls down massive hailstones that kill more enemies than Israel's swords do. Then comes the extraordinary moment when Joshua commands the sun and moon to stand still so that Israel might complete their victory in daylight. This is not mythology or poetic license—it is testimony to a God who bends creation to His purposes when His people are faithful to their covenant obligations.",
+        "This passage invites us to consider what it means to fight battles we cannot win alone. Joshua did not hesitate to march forward despite overwhelming odds. He trusted that God's reputation was bound up with Israel's faithfulness, and God proved faithful beyond imagination. The standing still of the heavens was not primarily about extending daylight; it was about demonstrating that the God of Israel transcends the laws of nature itself.",
+        "For those of us who follow Christ, the principle remains vital. We face spiritual enemies—doubt, despair, injustice, fear—that seem insurmountable by human strength alone. Yet the God who commanded the heavens to pause is the same God who conquered death through resurrection. When we stand with integrity, honor our commitments, and call upon the Lord in faith, we discover that His power works through our weakness and transforms what seemed impossible into victory.",
+        "What battle in your own life feels too large for you to win? What would it look like to trust that God fights on behalf of those who trust Him completely?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 10: Scholarly study",
+      "overview": [
+        "Joshua 10 presents one of the most dramatic military narratives in the Deuteronomistic History, recounting the southern campaign following Israel's initial conquest of Jericho and Ai. The chapter opens with a defensive coalition formed by five Amorite kings—Adoni-zedek of Jerusalem, Hoham of Hebron, Piram of Jarmuth, Japhia of Lachish, and Debir of Eglon—in response to Gibeon's treaty with Israel (chapter 9). This coalition reflects the political fragmentation of Late Bronze Age Canaan, where city-states frequently formed ad hoc alliances against common threats, a pattern well-attested in the Amarna letters from fourteenth-century Egypt.",
+        "The theological center of the chapter lies in the famous petition for solar and lunar standstill (vv. 12-14), where Joshua commands the sun to be silent or stand still (Hebrew *dôm*, דום) over Gibeon and the moon over the Valley of Aijalon. The precise nature of this phenomenon has generated extensive scholarly discussion. Some interpreters understand *dôm* as indicating cessation of movement, while others note its semantic range includes \"being silent\" or \"ceasing to shine,\" possibly suggesting an extended period of darkness favorable for military operations or a prolonged hailstorm already mentioned in verse 11. The reference to the \"Book of Jashar\" (*sēpher hayyāshār*) indicates the author drew upon earlier poetic sources, lending the account an archival character.",
+        "The systematic execution of the five kings in the cave at Makkedah (vv. 16-27) follows ancient Near Eastern conventions of royal humiliation, with Joshua commanding his officers to place their feet on the kings' necks—a gesture of total subjugation depicted in Egyptian and Mesopotamian iconography. The chapter concludes with a rapid conquest summary employing the term *ḥērem* (חרם), the ban or devoted destruction, indicating total consecration of conquered peoples and property to YHWH.",
+        "Within the canonical structure, Joshua 10 demonstrates the fulfillment of Deuteronomic promises regarding land possession while raising enduring questions about divine warfare and violence that subsequent biblical tradition, particularly the prophetic literature, would reframe eschatologically. The repeated refrain \"YHWH fought for Israel\" (v. 14, 42) establishes divine agency as the chapter's controlling theological motif."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 10: Prophetic perspective",
+      "overview": [
+        "Joshua chapter ten unfolds approximately 1400 years before the birth of Christ, during the conquest of Canaan under Joshua's leadership. This moment stands at a pivotal juncture in redemptive history—the promises made to Abraham some six centuries earlier are now being realized as his descendants take possession of the land sworn to them by covenant oath. Israel has crossed the Jordan, Jericho has fallen, Ai has been conquered, and now the southern Canaanite kings unite in desperate confederation against the people of God.",
+        "The chapter opens with the Gibeonite crisis bearing unexpected fruit. These former enemies, having made covenant with Israel through deception, now cry out for deliverance when five Amorite kings besiege their cities. Here emerges a profound typological pattern: those who were once outside the commonwealth of Israel, having entered covenant relationship, now receive the full protection of their redeemer. Joshua rises through the night, marches his army from Gilgal, and falls upon the enemy with devastating force. The Lord Himself fights for Israel, casting down great hailstones from heaven that slay more than the sword.",
+        "Then comes the extraordinary moment when Joshua commands the sun and moon to stand still over Gibeon and the Valley of Aijalon. Heaven itself pauses at the word of a man because the Lord hearkens to human voice in the day of battle. There has been no day like it before or since. This cosmic sign prefigures the greater Joshua—Yeshua—who would command wind and wave, who would darken the sun at Calvary, and who will one day return with cosmic upheaval attending His appearing. The sun standing still declares that all creation serves the purposes of redemption.",
+        "The five kings hiding in the cave at Makkedah present another striking type. Joshua commands stones rolled against the mouth of the cave, sealing them in darkness until the victory is complete—then brings them forth to judgment, placing his commanders' feet upon their necks before executing them. This shadows the ultimate victory of Christ, who has bound the principalities and powers, made a public spectacle of them, and will bring forth all His enemies for final judgment when He returns.",
+        "For the church living between the advents, Joshua ten declares that our greater Joshua fights for us, that cosmic powers bend to redemptive purposes, and that every enemy will ultimately lie beneath the feet of the conquering King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.206033+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

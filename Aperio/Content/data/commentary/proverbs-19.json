@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 19: The Wisdom of Humility and Restraint",
+      "overview": [
+        "Proverbs 19 calls us to examine the hidden places of our hearts—our pride, our speech, our appetites—and invites us toward the freedom that comes through self-control and reverent submission to God's way.",
+        "Throughout this chapter, Solomon returns again and again to a pattern: foolishness leads to ruin while wisdom leads to flourishing. We see it in verses about hasty speech (verse 2), foolish anger (verse 19), and the way poverty overtakes the lazy while diligence leads to abundance (verse 15). But beneath these surface lessons lies something deeper: the repeated warning against pride. A person's own folly ruins their way, Solomon notes, and then \"their heart rages against the Lord\" (verse 3). Our failures often provoke not repentance but rebellion, not humility but blame-shifting.",
+        "This is where the grace of wisdom becomes precious. When we truly listen to correction, especially from those who love us, we invite growth into our lives. When we guard our tongue against rash words and consider the weight of what we're about to say, we protect not just our relationships but our own souls. When we order our desires rather than being mastered by them, we discover unexpected freedom.",
+        "The beautiful thread running through this chapter is that God cares about the small, hidden choices we make daily. He sees our kindness to the poor (verse 17) and our mercy (verse 11). He watches how we respond to instruction and whether we humble ourselves before His wisdom. The way we speak, the pace at which we move through decisions, the management of our appetites—these are not trivial matters. They are the substance of a life well-lived.",
+        "As you move through this week, where do you sense God inviting you toward greater wisdom? Where might pride be disguising itself as something else—as justified anger, as innocent speed, as reasonable indulgence? What would change if you genuinely believed that His way leads to life?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 19: Scholarly study",
+      "overview": [
+        "Proverbs 19 continues the second major collection of Solomonic proverbs, a compilation that likely achieved its final form during the reign of Hezekiah when royal scribes gathered and edited earlier wisdom materials. This chapter exemplifies the characteristic features of Israelite wisdom literature: antithetical parallelism, comparative sayings, and keen observations about social dynamics in ancient Near Eastern life. The proverbs here reflect the concerns of a scribal class familiar with royal courts, agricultural economics, and the complexities of communal existence in monarchic Israel.",
+        "The chapter opens with a \"better than\" saying that establishes a recurring theme: the superiority of integrity over wealth obtained through moral compromise. The Hebrew term *tam* (תָּם), translated \"integrity\" or \"blameless,\" carries connotations of wholeness and completeness rather than sinless perfection, denoting one whose character exhibits consistency between inner disposition and outward conduct. This term appears strategically throughout the chapter, creating a literary frame that privileges moral character over social status.",
+        "Particularly significant is the threefold repetition concerning treatment of the poor in verses 4, 7, and 17. The term *dal* (דַּל), referring to the economically vulnerable, appears alongside teaching that lending to the poor constitutes lending to Yahweh himself—a remarkable theological assertion that grounds social ethics in divine reciprocity. This personification of divine involvement in economic justice reflects broader ancient Near Eastern concerns but receives distinctly covenantal grounding in Israelite thought.",
+        "The chapter also addresses the Hebrew concept of *musar* (מוּסָר), typically rendered \"discipline\" or \"instruction,\" which appears in verses 18, 20, and 27. This term encompasses not merely punishment but the entire educational process by which wisdom is acquired, including correction, guidance, and formation of character. Interpreters debate whether verse 18's injunction to discipline children \"while there is hope\" advocates corporal punishment or simply emphasizes the critical window for moral formation in youth.",
+        "The relationship between verses 21 and 22 demonstrates the theological sophistication underlying these seemingly disconnected sayings: human plans ultimately yield to divine purpose, and what Yahweh desires is covenant faithfulness (*chesed*), not merely external compliance. This juxtaposition reveals the editors' deliberate arrangement, creating theological coherence within apparent randomness."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 19: Prophetic perspective",
+      "overview": [
+        "Proverbs 19 emerges from the golden age of Israel's united monarchy, compiled during Solomon's reign approximately 950 years before Christ's advent, though given final form during Hezekiah's reformation some two centuries later. This places the wisdom tradition firmly within the Kingdom epoch of redemptive history—that era when God's people possessed the land, the Davidic throne was established, and the temple represented heaven's dwelling among mortals. Yet this was also a period of tremendous tension, for the very prosperity that enabled wisdom's cultivation would soon corrupt the nation and hasten the exile.",
+        "Within the grand narrative stretching from Eden to New Jerusalem, Proverbs functions as covenant instruction for life in the land—practical righteousness flowing from the fear of the Lord. The wisdom enterprise itself carries typological weight, for Solomon, the son of David who built God's house, foreshadows a greater Son who would declare, \"Something greater than Solomon is here.\" Christ embodies the wisdom personified throughout Proverbs, the one in whom are hidden all treasures of wisdom and knowledge.",
+        "Chapter 19 particularly illuminates themes that find their ultimate resolution in Christ and His kingdom. The repeated contrast between poverty with integrity and wealth with perversion anticipates the Beatitudes, where the poor in spirit inherit the kingdom while the self-satisfied are sent away empty. The verse declaring that \"a man's own folly ruins his life, yet his heart rages against the Lord\" penetrates to humanity's fundamental condition after the Fall—our tendency to blame God for consequences we ourselves have sown. This spiritual blindness awaited the cross, where divine wisdom appeared as foolishness to the perishing.",
+        "The proverb stating \"many seek the favor of a generous man\" shadows the nations streaming to Zion, seeking the face of the truly generous King who gives without reproach. When we read that \"kindness to the poor is lending to the Lord,\" we hear prophetic anticipation of Christ's identification with the least of these—what you do unto them, you do unto Me. The warning against false witnesses points toward that night when lies condemned the Righteous One.",
+        "For the church dwelling between resurrection and return, Proverbs 19 calls us to embody counter-cultural wisdom in an age of folly. We serve the Greater Solomon, walking as children of light, lending to the Lord through mercy to the broken, and trusting that what appears as loss in this present evil age yields eternal reward when the kingdom comes in fullness."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.622385+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

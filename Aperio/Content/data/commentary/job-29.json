@@ -1,0 +1,56 @@
+{
+  "book": "Job",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 29: The Ache of Memory and Lost Blessing",
+      "overview": [
+        "Job's reflections on his former prosperity reveal a soul haunted by the distance between who he was and who he has become—a poignant reminder that spiritual maturity often involves grieving what God has allowed us to lose.",
+        "In this chapter, Job does not curse God, but he does something perhaps more deeply human: he remembers. He recalls the days when his household was established, when his children gathered around him, when he commanded respect and influence in the community. He remembers himself as a man through whom God's blessing flowed visibly—to the poor, the widow, the stranger. These were not arrogant boasts but humble recollections of a life aligned with God's purposes. Job had been a conduit of divine compassion.",
+        "What makes this passage spiritually rich is its honesty about loss. Job is not pretending his suffering hasn't changed him or that he hasn't lost real, good things. The danger here is not that he remembers his blessings, but that memory might become a prison, trapping him in bitterness. Yet even in his lament, there's something tender: he recalls the years when \"God watched over me\" and when he \"chose the way\" and \"sat as chief.\" He knows these were God's gifts, even if he cannot understand why they were withdrawn.",
+        "This teaches us something vital about discipleship. Faith is not about denying real loss or pretending that diminishment doesn't hurt. Instead, it invites us to remember God's goodness without letting that remembrance curdle into despair. Job's chapter models how to hold grief and trust together—to acknowledge the reality of fallen seasons while still believing in God's character.",
+        "Where in your own life are you grieving a lost blessing or season? Can you remember God's hand in that time without letting the memory become a source of bitterness? What would it mean to trust that even this present difficulty is held by the God who once blessed you so richly?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 29: Scholarly study",
+      "overview": [
+        "Job 29 marks the opening of Job's magnificent final soliloquy, comprising chapters 29–31, which represents his concluding defense before the theophany of chapters 38–41. This chapter functions as a nostalgic retrospective in which Job contrasts his former blessed state with his present misery, employing the Hebrew particle אָז ('az, \"then\") to anchor his memories in a past now irretrievably lost. The chapter belongs to the wisdom tradition's reflection on the relationship between righteousness and prosperity, a connection Job's experience has catastrophically disrupted.",
+        "The passage opens with Job's longing for \"the months of old\" when God's נֵר (ner, \"lamp\" or \"light\") shone upon his head, a metaphor conveying divine favor and guidance. This imagery draws on ancient Near Eastern royal iconography where light symbolized divine blessing and protection. The term סוֹד (sod), appearing in verse 4, denotes intimate counsel or confidential friendship, indicating Job's former experience of God's presence was characterized not merely by prosperity but by relational closeness—a fellowship now painfully absent.",
+        "The chapter's central section (verses 7–17) portrays Job's former social prominence through judicial imagery. Job sat at the gate—the civic center where legal and commercial matters were adjudicated—commanding universal respect. Elders rose, princes silenced themselves, and nobles restrained their speech in his presence. This description reflects the honor-shame dynamics of ancient Near Eastern society, where public recognition constituted a fundamental component of personal identity and worth.",
+        "Particularly significant is Job's self-portrayal as defender of the marginalized: the poor, orphans, widows, blind, and lame. The term צְדָקָה (tsedaqah, \"righteousness\") in verse 14 encompasses both judicial fairness and covenantal faithfulness, suggesting Job's ethics extended beyond legal obligation to compassionate advocacy. His claim to have been \"eyes to the blind and feet to the lame\" employs embodiment language that positions him as mediator of divine care.",
+        "The chapter concludes with Job's expectation of an honorable death and enduring influence, using agricultural imagery of roots spreading toward water. This confident anticipation heightens the tragic irony readers already know—Job's assumptions about the moral order have been shattered, preparing for his lament in chapter 30."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 29: Prophetic perspective",
+      "overview": [
+        "Job 29 belongs to the wisdom literature of ancient Israel, likely set during the patriarchal period contemporary with Abraham, Isaac, and Jacob—roughly 2000 years before Christ and centuries before Moses received the Law at Sinai. This places Job among the earliest testimonies of faith in the one true God, a voice crying out from the pre-Mosaic darkness when no written Scripture existed and humanity groped toward understanding divine justice through direct encounter with the Almighty. Within redemptive history, Job stands in that shadowy epoch between the Abrahamic promises and their unfolding through Israel, bearing witness that God had not left Himself without testimony among the nations.",
+        "In this magnificent lament, Job recounts his former glory—days when God's lamp shone upon his head, when the Almighty's intimate counsel rested over his tent, when young and old rose in his presence and princes held their peace before him. Here emerges a profound typological pattern: Job the righteous sufferer who once mediated blessing to his community stands as a shadow of the greater Mediator who would come. Job delivered the poor who cried out, the fatherless, and those with none to help them. He put on righteousness as his clothing and justice as his robe and turban. He was eyes to the blind and feet to the lame, a father to the needy. These descriptions anticipate the ministry of Christ, who would fulfill every dimension of righteous kingship that Job here embodies in diminished, human measure.",
+        "Yet Job's backward glance reveals what all human righteousness ultimately cannot secure—permanence. Job expected to die in his nest, to multiply his days like sand, his glory fresh within him and his bow renewed in his hand. The irony cuts deep: the most righteous man on earth could not preserve his own blessed estate. This points forward to humanity's desperate need for a righteousness not merely practiced but imputed, for a salvation accomplished not by human faithfulness but by divine intervention.",
+        "The eschatological thread running through Job's reminiscence whispers that no earthly Eden restored through human virtue can endure. Only the Second Adam, descending into suffering far deeper than Job's, rising triumphant from death itself, could establish an unshakeable kingdom where the righteous truly dwell secure forever.",
+        "For the church awaiting Christ's return, Job 29 reminds us that our present sufferings are not the final word, and our former glories are but shadows of the weight of glory being prepared for those who endure."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.042921+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

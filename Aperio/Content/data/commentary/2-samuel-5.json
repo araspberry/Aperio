@@ -1,0 +1,56 @@
+{
+  "book": "2 Samuel",
+  "chapter": 5,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 5 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 5: The Strength of Submission",
+      "overview": [
+        "David's consolidation of the kingdom reveals that true power flows through humble submission to God's established order, not through the grasping ambition we might expect from a warrior king.",
+        "When David becomes king over all Israel at age thirty, the narrative emphasizes something striking: the people themselves crown him, recognizing what God had already declared. David didn't seize the throne through cunning or force. Instead, he waited—sometimes painfully—until the nation itself acknowledged his calling. This patience testifies to a remarkable spiritual maturity. He understood that a kingdom built on human manipulation crumbles, but one built on God's timing becomes unshakeable.",
+        "The capture of Jerusalem demonstrates this principle in concrete action. Rather than viewing the impregnable fortress as his trophy to claim, David inquires of the Lord before attacking. When his mighty men accomplish the impossible, David gives the credit and reward to Joab, his commander. Even in victory, David's instinct is to defer to God's guidance and to honor those around him. This is leadership shaped by submission, not domination.",
+        "The passage also shows us David building a palace and family—establishing normalcy and legacy. Yet even this domestic settling includes the reminder of God's promise: \"The Lord had established him as king over Israel and had exalted his kingdom for the sake of his people Israel\" (5:12). David's success wasn't ultimately about him; it was about God's covenant purposes for his people.",
+        "Living as disciples today, we often face the same temptation to force our own outcomes. We grasp at opportunities, manipulate circumstances, and demand recognition for our achievements. David's example invites us into something countercultural: waiting for God's timing, honoring those around us, and remembering that our influence exists for purposes larger than ourselves.",
+        "What area of your life are you trying to control rather than surrender to God's timing?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 5: Scholarly study",
+      "overview": [
+        "The fifth chapter of Second Samuel marks a pivotal transition in the Davidic narrative, recording the consolidation of David's kingship over the united tribes of Israel following the protracted civil conflict with the house of Saul. The chapter divides naturally into three movements: David's anointing as king over all Israel (vv. 1–5), the capture of Jerusalem (vv. 6–12), and the expansion of David's household (vv. 13–16), with the final section recounting two decisive victories over the Philistines (vv. 17–25).",
+        "The tribal leaders' declaration that they are David's \"bone and flesh\" (*ʿeṣem* and *bāśār*) employs covenant terminology signifying kinship solidarity, rhetorically bridging the previously fractured relationship between Judah and the northern tribes. The term *nāgîd* (v. 2), often rendered \"ruler\" or \"prince,\" carries theocratic overtones distinct from *melek* (\"king\"), suggesting divine designation preceding human acclamation—a concept central to Deuteronomistic theology regarding legitimate monarchy.",
+        "The Jerusalem conquest narrative presents interpretive challenges, particularly concerning the enigmatic reference to the \"blind and lame\" and the *ṣinnôr* (v. 8), variously understood as a water shaft, scaling hook, or windpipe. The Jebusite taunt and David's response have generated considerable scholarly discussion, with some interpreting the passage as etiological explanation for temple exclusionary practices. Jerusalem's selection as capital demonstrates shrewd political calculus: located on the tribal boundary between Judah and Benjamin, the city belonged to neither faction, enabling David to establish a neutral administrative center.",
+        "The theological claim that David \"became greater and greater\" (*hālôk wĕgādôl*) because \"Yahweh, the God of hosts, was with him\" (v. 10) establishes the interpretive lens through which subsequent Davidic achievements must be read. Within the broader canonical context, this chapter fulfills Nathan's later dynastic oracle (chapter 7) proleptically and stands in deliberate contrast to Saul's rejected kingship. The Philistine encounters demonstrate David's continued dependence upon divine guidance through oracular inquiry, modeling the theocratic ideal wherein military success flows from covenantal obedience rather than mere strategic prowess."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 5: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the incarnation of Christ, following the death of Saul and the seven-year civil war between the house of David and the house of Saul. Within the grand narrative of redemption, we stand at the establishment of the united monarchy—that pivotal moment when God's promises to the patriarchs begin crystallizing into visible, territorial form. The covenant with Abraham spoke of a great nation and a land; the prophecy of Jacob over Judah foretold that the scepter would not depart from that tribe until Shiloh comes. Now David, son of Jesse, from Bethlehem of Judah, ascends to reign over all Israel.",
+        "The elders of Israel come to Hebron confessing three realities: David is their bone and flesh, David was their true shepherd even under Saul's reign, and the Lord Himself had designated David as nagid—prince and shepherd over His people. Here the typological pattern blazes forth. David emerges as the anointed king rejected by his own, wandering in wilderness exile, gathering a faithful remnant, until at last all Israel recognizes what God had decreed from the beginning. So the greater Son of David was rejected, crucified outside the camp, yet now gathers His church from every tribe while awaiting that day when all Israel shall look upon Him whom they pierced and own Him as bone of their bone, flesh of their flesh, the true Shepherd-King.",
+        "The conquest of Jerusalem carries profound prophetic weight. The Jebusites mocked David, trusting in their stronghold's impregnability—yet David took the fortress of Zion. This mountain, wrested from pagan hands, becomes the city of the great King, the place where God would set His name forever. Every subsequent reference to Zion in the prophets and psalms flows from this conquest. Mount Zion becomes the earthly shadow of the heavenly Jerusalem, the mother of all who believe, the city whose builder and maker is God.",
+        "David's victories over the Philistines at Baal-perazim and the valley of Rephaim demonstrate the divine pattern: inquire of the Lord, receive His word, obey precisely, and watch Him break forth upon enemies like a flood. The kingdom advances not by human strategy alone but by Spirit-directed obedience.",
+        "The church today lives as David's company once lived—already anointed, not yet fully enthroned, warring under our King's command, awaiting the day when every knee shall bow and the kingdoms of this world become the kingdom of our Lord and of His Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_005",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.480464+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

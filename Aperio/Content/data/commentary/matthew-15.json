@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 15,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 15 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 15: The Pure Heart and the Merciful King",
+      "overview": [
+        "At the heart of Matthew 15 lies a profound question: what truly defiles us, and where does genuine righteousness come from? As Jesus moves beyond the externals that religious leaders obsess over, He reveals that the kingdom belongs to those with clean hearts and open hands—and that His mercy extends far beyond the boundaries we impose.",
+        "The chapter opens with a confrontation about washing hands before eating, a tradition the Pharisees treated as divine law. Jesus cuts through their defensiveness with surgical precision: the real problem is not what enters the mouth but what comes out of it, because our words flow from what already corrupts the heart. This is liberating truth for those of us burdened by endless rules and exhausting performance. The gospel calls us not to external perfection but to inner transformation—to confess our pride, our judgments, our selfish desires, and to let Christ's Spirit remake us from within.",
+        "What makes this chapter remarkable is what follows: Jesus immediately encounters a Canaanite woman, a foreigner, an outsider by every category that mattered in first-century Jewish society. She recognizes Him as Lord and pleads for her daughter's healing. His initial response stuns us—He seems cold, even dismissive, suggesting His mission is only to the lost sheep of Israel. Yet her faith pierces through every barrier. She approaches His rebuff not with anger but with persistent, humble trust. In His willingness to be moved by her faith, Jesus shows that the boundaries we draw around God's grace are far too small.",
+        "Both stories demolish our tendency to draw lines: around who's truly righteous, around who deserves God's mercy. They call us to examine our own hearts and to expand our arms to embrace those we might have excluded.",
+        "How much of your spiritual energy goes toward external appearances versus internal transformation? And whom might God be calling you to love more boldly?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 15: Scholarly study",
+      "overview": [
+        "Matthew 15 presents a significant discourse on purity, faith, and the expanding boundaries of Jesus's ministry, situated at a pivotal juncture in the First Gospel's narrative architecture. The chapter divides into two major sections: a controversy dialogue with Pharisees and scribes concerning ritual purity (vv. 1–20) and a series of healing narratives culminating in a second feeding miracle (vv. 21–39). Composed likely in the 80s CE for a predominantly Jewish-Christian community, Matthew's Gospel here engages deeply with questions of Torah interpretation and Gentile inclusion that would have resonated profoundly with his audience navigating their relationship to emerging rabbinic Judaism.",
+        "The purity controversy opens with Pharisees from Jerusalem challenging Jesus's disciples for neglecting handwashing traditions. Jesus responds by distinguishing between human traditions (*paradosis*, παράδοσις) and divine commandments (*entolē*, ἐντολή), a distinction carrying substantial weight in Second Temple Judaism. His citation of Isaiah 29:13 employs the Septuagint rendering to critique externalized religion, while his teaching on defilement—that what emerges from the heart (*kardia*, καρδία) rather than what enters the mouth constitutes true impurity—represents a radical reorientation of purity categories. Matthew's retention of the vice list (vv. 18–19) reflects moral rather than ritual concerns, though scholars debate whether this passage abrogates Levitical food laws or merely subordinates them to ethical priorities.",
+        "The Canaanite woman pericope (vv. 21–28) raises complex interpretive questions. Jesus's initial silence and subsequent statement about being sent only to Israel's lost sheep appear harshly exclusivist, yet the woman's persistent faith (*pistis*) ultimately elicits commendation and healing. Matthew's designation of her as \"Canaanite\"—an archaic term absent from Mark's parallel—evokes Israel's ancient enemies while simultaneously demonstrating that such boundaries yield before authentic faith. This narrative anticipates the Great Commission's universal scope while acknowledging the historical particularity of Jesus's earthly ministry.",
+        "The chapter concludes with healings and a feeding of four thousand, likely representing Gentile crowds given the Decapolis setting. The structural parallel with chapter 14's feeding of five thousand suggests Matthew's deliberate juxtaposition of Jewish and Gentile mission, prefiguring the church's universal reach."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 15: Prophetic perspective",
+      "overview": [
+        "Matthew 15 unfolds during the middle years of Christ's earthly ministry, approximately AD 29, some three decades after the incarnation and roughly two years before the cross. This places the passage firmly within the climactic moment of redemptive history when the long-awaited Messiah walks among His covenant people, the promises to Abraham finding their Yes in human flesh. We stand here at the hinge of the ages—the old covenant still operative in its external forms, yet the new covenant reality already breaking in through the person of Jesus.",
+        "The chapter opens with a confrontation that carries centuries of spiritual weight. The Pharisees, guardians of tradition accumulated during the intertestamental period, challenge Jesus over ceremonial handwashing. Christ's response cuts to the marrow of Israel's persistent failure: the tragic divorce between lip and heart that the prophets had thundered against for generations. When Jesus quotes Isaiah—\"This people honors Me with their lips, but their heart is far from Me\"—He reaches back eight centuries to indict the same spiritual condition that preceded exile. The pattern remains unbroken. External religion without internal transformation has always been Israel's temptation, and here stands the One who alone can circumcise the heart.",
+        "Jesus then unveils a truth that will reshape the entire landscape of covenant life: defilement flows outward from the corrupted human heart, not inward from external sources. This teaching prophetically anticipates the abolition of the dietary laws and the ceremonial system—a reality Acts 10 will later make explicit to Peter. The old wineskins cannot contain what Christ is bringing.",
+        "The encounter with the Canaanite woman carries extraordinary typological significance. Here is a daughter of those ancient enemies whom Joshua was commanded to drive out, yet she approaches Israel's Messiah with covenant language: \"Son of David.\" Her persistent faith, which Jesus publicly commends as great, prophetically foreshadows the ingathering of the Gentiles that Paul will later call the mystery hidden for ages. The crumbs from the children's table will become a feast for all nations.",
+        "The feeding of the four thousand—occurring in Gentile territory—confirms this trajectory. Where the feeding of the five thousand pictured Christ as Israel's shepherd, this multiplication signals abundance flowing beyond ethnic Israel to the ends of the earth.",
+        "The church today lives as the fulfillment of what this Canaanite woman embodied: outsiders brought near, aliens made citizens, those far off welcomed to the table of the King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_015",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.468943+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

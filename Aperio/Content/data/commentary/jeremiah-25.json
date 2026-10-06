@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 25: The Call to Repent Before Judgment Falls",
+      "overview": [
+        "The spiritual heart of Jeremiah 25 is God's patient, urgent call to repentance before His judgment becomes irreversible. Through decades of faithful warning, the prophet offers Israel one final opportunity to turn from idolatry and return to the Lord.",
+        "Jeremiah reminds the people that he has faithfully delivered God's message \"again and again\" for twenty-three years, yet they have consistently refused to listen. This isn't a God who suddenly erupts in anger; it is a God who has repeatedly sent His servants, extending mercy and opportunity across generations. The image of the prophet as a patient messenger standing at the door knocks deeply on our conscience. How many times has God's Spirit whispered warnings through Scripture, circumstances, and trusted voices before we finally heed them?",
+        "Yet beneath this relentless call lies a profound truth: God's judgment is not arbitrary cruelty but the inevitable consequence of sustained rebellion. When we repeatedly say no to God's invitation toward life, we choose the path of separation from Him. Jeremiah's message to drink from \"the cup of the Lord's wrath\" speaks to the reality that sin has genuine consequences. This is not vindictiveness; it is what happens when people persistently turn away from the source of blessing.",
+        "What strikes the pastoral heart is the tenderness wrapped around this severity. God sends prophet after prophet because He genuinely desires repentance, not punishment. He gives time, opportunity, and clear warnings because He loves His people and wants them restored.",
+        "The passage reminds us that God's patience is real but not endless. His love includes the willingness to let us face the natural results of our choices. For those caught in patterns of disobedience, Jeremiah's urgency should awaken us: today is the day to listen, to repent, to turn.",
+        "What warning has God been gently or persistently placing in your path that you've been reluctant to hear?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 25: Scholarly study",
+      "overview": [
+        "Jeremiah 25 stands as a pivotal watershed in the prophetic corpus, marking both a chronological anchor and a theological turning point in the prophet's ministry. The superscription dates this oracle to the fourth year of Jehoiakim (605 BCE), coinciding precisely with Nebuchadnezzar's decisive victory at Carchemish—an event that reshaped the ancient Near Eastern political landscape and signaled Babylon's emergence as the dominant imperial power. This timing is no coincidence; the chapter represents Jeremiah's summary of twenty-three years of prophetic labor (627–605 BCE) while simultaneously announcing the instrument of divine judgment.",
+        "The Hebrew term *shaqad* (\"to watch\" or \"be wakeful\"), which appeared programmatically in Jeremiah's call narrative (1:11–12), finds its fulfillment here as Yahweh demonstrates his vigilance over his word. The prophecy of seventy years of Babylonian dominion (v. 11) has generated considerable scholarly discussion regarding its precise calculation and referent. Some interpreters understand this as a round number signifying a complete lifetime of judgment, while others attempt precise chronological correlations with either the temple's destruction (586 BCE) or the first deportation (597 BCE) extending to various restoration dates.",
+        "The striking image of the \"cup of the wine of wrath\" (*kos yayin hachemah*) in verses 15–29 draws upon ancient Near Eastern treaty-curse traditions and establishes a metaphor that reverberates through later prophetic and apocalyptic literature, culminating in Revelation's appropriation of this imagery. The cup's circulation among the nations—beginning with Jerusalem and extending to Egypt, Uz, Philistia, Edom, Moab, Ammon, Tyre, Sidon, and ultimately \"Sheshach\" (an atbash cipher for Babylon)—demonstrates the universal scope of divine sovereignty over history.",
+        "The chapter's conclusion (vv. 30–38) employs theophanic language reminiscent of earlier Sinai traditions, depicting Yahweh roaring from his holy habitation like a lion and treading the winepress of judgment. The term *ra'ah* (\"evil\" or \"disaster\") appears repeatedly, emphasizing the comprehensive nature of the coming catastrophe. Within the book's macrostructure, this chapter serves as a hinge connecting the earlier Judah-focused oracles with the subsequent oracles against foreign nations, thereby positioning Judah's fate within Yahweh's governance of all peoples."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 25: Prophetic perspective",
+      "overview": [
+        "Jeremiah chapter twenty-five stands at a pivotal juncture in redemptive history, dated precisely to the fourth year of Jehoiakim king of Judah, which corresponds to approximately 605 BC—the very year Nebuchadnezzar defeated Egypt at Carchemish and established Babylon as the dominant world power. This places the prophecy roughly six centuries before Christ's advent, during the final desperate decades before Jerusalem's destruction. The chapter marks both a summary of twenty-three years of rejected prophetic ministry and a decisive announcement that judgment can no longer be delayed.",
+        "Within the grand arc of Scripture, this passage occupies the threshold between Kingdom and Exile. The Davidic monarchy, established as a type of Messiah's eternal reign, now faces the covenant curses Moses pronounced at Sinai. God had warned through Deuteronomy that persistent unfaithfulness would result in expulsion from the land, and Jeremiah now declares that dreadful hour has arrived. The seventy years of Babylonian captivity announced here become a defining prophetic marker—later studied by Daniel in exile and ultimately fulfilled when Cyrus decreed Israel's return.",
+        "The cup of wrath presented to the nations reveals a profound typological pattern. Jeremiah is commanded to make all nations drink from God's cup of fury, beginning with Jerusalem and extending to Egypt, Philistia, Edom, Moab, and ultimately Babylon itself. This same cup appears in Christ's agony at Gethsemane, where He pleads that it might pass, yet drinks it to the dregs on behalf of His people. What the nations deserved, the sinless Son absorbed. The cup that brings staggering, madness, and sword to the rebellious brings salvation to those sheltered in the crucified Messiah.",
+        "The chapter closes with cosmic imagery of divine judgment sweeping from nation to nation, with the Lord roaring from His holy habitation like a lion against His flock-become-prey. This eschatological vision extends beyond Babylon's historical fall to encompass the final Day of the Lord, when all nations will give account. The seventy years found their initial fulfillment in the Persian restoration, yet the pattern of exile and return typifies the church's present sojourn—scattered among nations, awaiting our ultimate homecoming.",
+        "For believers living between the advents, Jeremiah twenty-five issues both warning and comfort. The God who judges covenant unfaithfulness is the same God who limits exile to seventy years—who sets boundaries on suffering and ordains restoration. We who have drunk the cup of salvation through Christ now await the day when every nation acknowledges His reign."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.97051+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Matthew",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 11: The Doubt That Deepens Faith",
+      "overview": [
+        "The spiritual heart of Matthew 11 is the collision between expectation and reality—how Jesus meets us in our confusion when He doesn't match our blueprints for who He should be.",
+        "John the Baptist, languishing in Herod's prison, sends messengers to ask Jesus the piercing question: \"Are you the one who is to come, or should we expect someone else?\" This isn't casual curiosity. John had baptized Jesus, heard the voice from heaven, and proclaimed Him as the Lamb of God. Yet now, confined in darkness, he wrestles with doubt. Rather than rebuking John, Jesus responds with extraordinary tenderness. He points to His works—the blind see, the lame walk, the dead are raised—inviting John to find faith not in a predetermined messiah profile but in Jesus's actual compassion and power.",
+        "This passage teaches us that doubt itself can be holy ground. John's question wasn't faithlessness; it was faith wrestling with reality. We too often come to Jesus with our checklists of how He should behave, what He should accomplish, the timeline He should keep. When life doesn't cooperate with our expectations, disappointment can feel like betrayal. Yet Jesus invites us to look at what He *is* actually doing rather than mourn what He's not.",
+        "The passage then shifts to Jesus's own lament over the crowds. Despite miracles and teaching, many reject Him. He pronounces judgment on cities that witnessed His power yet turned away. There's sorrow here—the sorrow of One who offers Himself freely yet is refused. Yet immediately, Jesus extends an invitation of stunning grace: \"Come to me, all you who are weary and burdened, and I will give you rest.\" The same Jesus who judges indifference also welcomes the exhausted with open arms.",
+        "This is the rhythm of discipleship: our doubts are met with evidence of His character, our resistance is met with His persistent invitation, and our weariness is met with His promise of rest.",
+        "Where are you wrestling with an unmet expectation of Jesus? What actual evidence of His character might He be inviting you to see?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 11: Scholarly study",
+      "overview": [
+        "Matthew 11 represents a pivotal transitional chapter in the First Gospel, marking a shift from Jesus's instructions to the Twelve (chapter 10) toward escalating conflict with religious authorities and growing rejection of his ministry. Composed likely in the 80s CE for a predominantly Jewish-Christian community, this chapter addresses the critical question of Jesus's messianic identity while simultaneously redefining expectations surrounding the kingdom of heaven.",
+        "The chapter opens with John the Baptist's inquiry from prison—\"Are you the one who is to come (*ho erchomenos*), or should we expect another?\"—a question reflecting genuine uncertainty about messianic fulfillment. The designation *ho erchomenos* carries eschatological weight, drawing from prophetic traditions including Malachi 3:1 and Daniel 7. Jesus's response notably avoids direct affirmation, instead pointing to his deeds (*ta erga*) as evidence: the blind see, the lame walk, lepers are cleansed, and the poor receive good news. This evokes Isaiah 35:5-6 and 61:1, situating Jesus within prophetic restoration theology while simultaneously challenging nationalistic messianic expectations that anticipated military deliverance.",
+        "The subsequent material concerning John's identity proves equally significant. Jesus's declaration that John is \"more than a prophet\" and his identification of John with Elijah (11:14) establishes the Baptist as the forerunner of Malachi 4:5. The enigmatic statement that \"the least in the kingdom of heaven is greater than he\" has generated substantial interpretive discussion—most scholars understand this as distinguishing between the preparatory phase John represents and the inaugurated reality of God's reign through Jesus's ministry.",
+        "The pronouncements of judgment upon Chorazin, Bethsaida, and Capernaum (11:20-24) employ the rhetorical device of prophetic oracle, comparing Galilean towns unfavorably to Tyre, Sidon, and even Sodom. The term *dynameis* (mighty works/miracles) underscores that these communities witnessed divine power yet remained unrepentant (*metanoēsan*).",
+        "The chapter culminates in Jesus's thanksgiving prayer and the celebrated invitation to the weary (11:28-30). The \"yoke\" (*zygos*) metaphor, common in Jewish wisdom literature for Torah, here represents Jesus's own teaching—presented as gentler than the burdensome interpretations of contemporary religious authorities, thus anticipating later Matthean critiques."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 11: Prophetic perspective",
+      "overview": [
+        "Matthew chapter eleven emerges approximately thirty years after the birth of Christ, during the middle period of His Galilean ministry, roughly AD 28-29. This places us at the hinge point of all human history—the long-awaited Messiah walks among His people, yet the mystery of His kingdom confounds even the greatest of the prophets. We stand here in the era of fulfillment, where centuries of prophetic expectation collide with a present reality that defies human expectation.",
+        "John the Baptist, languishing in Herod's dungeon, sends his disciples with the haunting question: \"Are You the Coming One, or do we look for another?\" Here is the final and greatest prophet of the old covenant, the voice crying in the wilderness foretold by Isaiah and Malachi, now wrestling with doubt in his darkest hour. John had proclaimed the Coming One who would baptize with fire and gather wheat into the garner—yet Jesus was healing lepers and dining with sinners rather than overthrowing Rome. The kingdom had come, but not as expected.",
+        "Christ's response unveils the prophetic pattern: \"The blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, the poor have the gospel preached to them.\" These are the precise signs Isaiah foretold for the messianic age. Jesus announces that the ancient prophecies are being fulfilled in their very hearing, yet through mercy rather than judgment. The ax lies at the root, but the tree is offered yet more seasons of grace.",
+        "The Lord's declaration that John is the Elijah who was to come marks a profound prophetic pivot. Malachi's promise finds its initial fulfillment in the forerunner, yet a shadow of future fulfillment remains before the great and terrible Day of the Lord. The kingdom of heaven suffers violence as the old age resists the new—a tension that will characterize the entire church age until consummation.",
+        "Christ's denunciation of Chorazin, Bethsaida, and Capernaum reveals that greater revelation brings greater accountability. These cities witnessed the works of the kingdom yet refused repentance, storing up judgment more severe than Tyre and Sodom. Here is solemn warning for all who possess gospel light yet remain unchanged.",
+        "The chapter's crescendo—\"Come to Me, all you who labor and are heavy laden\"—becomes the perpetual invitation extended throughout this age of grace. The church lives under this tender summons, finding rest in the One who is gentle and lowly, while awaiting that final rest when every burden shall cease and every yoke be lifted in the kingdom fully come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.458854+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

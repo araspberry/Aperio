@@ -1,0 +1,192 @@
+{
+  "book": "Jeremiah",
+  "bookIndex": 23,
+  "status": "Editorial draft",
+  "title": "Faithfulness when a kingdom collapses",
+  "subtitle": "A prophet’s costly witness, a city’s destruction, and the promise of a renewed covenant.",
+  "atAGlance": {
+    "genre": "Prophetic poetry, sermons, symbolic actions, and biographical narratives",
+    "setting": "Judah’s final decades, Jerusalem’s fall, and the first years of Babylonian exile",
+    "composition": "Traditions from Jeremiah’s ministry were collected and transmitted in more than one ancient edition; final formation is debated",
+    "audience": "Judah’s kings and people, deportees in Babylon, and survivors in the land and Egypt"
+  },
+  "sections": [
+    {
+      "title": "The crisis behind the book",
+      "paragraphs": [
+        "Jeremiah is introduced as a priest from Anathoth, called during the reign of Josiah. His ministry extends into the collapse of Judah. Assyria’s dominance gives way to Babylon’s, and Judah’s rulers attempt to survive through shifting loyalties and resistance. Jerusalem falls to the Babylonians in 587/586 BC. Jeremiah’s words belong within this concrete emergency: families, land, worship, and political independence are all at stake.",
+        "The book combines speeches, personal laments, narrative scenes, and later perspectives on disaster. Its arrangement is not chronological. Ancient Hebrew and Greek forms also differ in length and organization, evidence of a complex transmission history. The BSB follows the familiar Hebrew ordering. It is therefore better to speak of a book preserving and interpreting Jeremiah’s ministry than to assume every chapter was written consecutively by the prophet."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro",
+        "yale"
+      ]
+    },
+    {
+      "title": "A commission that reaches into the prophet’s life",
+      "paragraphs": [
+        "In chapter 1, Jeremiah protests that he is too young to speak. God’s response connects his task with uprooting and planting, destruction and rebuilding. Those paired actions anticipate the book’s full movement. His calling neither promises popularity nor removes fear. It places an ordinary and resistant human speaker within a public responsibility he cannot control.",
+        "The laments scattered through chapters 11–20 make the personal cost audible. Jeremiah describes hostility, isolation, frustration, and the difficulty of carrying a message that brings him pain. These prayers prevent readers from confusing prophetic courage with emotional invulnerability. His grief for the people and his protest to God are part of the witness. He speaks about judgment while suffering within the threatened community himself."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Why sacred institutions cannot guarantee safety",
+      "paragraphs": [
+        "The temple sermon in chapter 7 challenges people who trust the presence of the sanctuary while continuing injustice and violence. The repeated appeal to the temple’s name cannot replace changed conduct. Treatment of foreigners, orphans, and widows becomes a direct measure of fidelity. Chapter 26 returns to the controversy surrounding such preaching and shows how threatening the message sounded to religious and civic authorities.",
+        "Jeremiah also confronts royal injustice and reassuring prophets. Not every message that promises peace is a word from God. In chapters 27–29, the dispute becomes urgent: should Judah resist Babylon, and should exiles expect an immediate return? Jeremiah’s unpopular answer calls the deportees to build homes, raise families, and seek the welfare of the city where they live. Hope must make room for a long and difficult present."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Promises planted inside catastrophe",
+      "paragraphs": [
+        "Chapters 30–33 form a concentrated sequence of restoration promises. Return from displacement is joined to healing, renewed communal life, and a changed relationship with God. The new covenant in chapter 31 is explicitly promised to Israel and Judah. Its language concerns instruction written inwardly, knowledge of God, and forgiveness; it should first be heard as hope for a people whose existing life has fractured.",
+        "The purchase of a field in chapter 32 gives that hope a material form. Jeremiah acquires land while conquest threatens to make the transaction absurd. Documents, payment, and witnesses turn a public legal action into a sign that ordinary life will become possible again. Christian interpretation of the new covenant belongs to the passage’s later reception, but should not erase its original address to Israel and Judah."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The prophet, the scroll, and the fall of the city",
+      "paragraphs": [
+        "Chapter 36 shows Baruch writing Jeremiah’s message and a king cutting and burning the scroll. The word is written again. The scene makes preservation itself part of the story: royal power can destroy a document without settling the truth of its warning. Other narratives follow Jeremiah through imprisonment, dangerous counsel, and rescue. Ebed-melech’s intervention in chapter 38 is a striking instance of courageous mercy amid official failure.",
+        "After Jerusalem falls, survival does not produce immediate clarity. Chapters 40–44 describe fragile leadership, assassination, fear, and flight to Egypt. The survivors continue to debate whose word they will trust. The closing historical chapter recalls the destruction and ends with a small change in the circumstances of the captive king Jehoiachin. It is not a full restoration, but neither does the final image reduce the future to complete closure."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Reading a difficult witness responsibly",
+      "paragraphs": [
+        "Jeremiah’s images can be severe, and his account of national disaster should not be turned into a universal explanation for every sufferer’s pain. The book presents a particular covenant dispute in a particular historical crisis. It also contains tears, protest, threatened lives, and promises that exceed punishment. Attend to all those voices rather than extracting only the harshest or most comforting sentences.",
+        "A useful reading habit is to identify the ruler, location, and audience whenever the text supplies them. Distinguish a speech before the fall from a letter to deportees or a narrative after destruction. The book’s purpose emerges through these changing scenes: to expose false confidence, preserve a costly word of truth, and sustain a future grounded in God’s capacity to renew a broken relationship."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Calling and early warnings",
+      "startChapter": 1,
+      "endChapter": 6,
+      "description": "Jeremiah’s commission and the accusation against Judah."
+    },
+    {
+      "label": "A people and its leaders confronted",
+      "startChapter": 7,
+      "endChapter": 25,
+      "description": "Temple preaching, laments, symbolic actions, and warnings of Babylonian judgment."
+    },
+    {
+      "label": "Disputed words and the life of exiles",
+      "startChapter": 26,
+      "endChapter": 29,
+      "description": "Public conflict over prophecy and counsel for deportees."
+    },
+    {
+      "label": "Restoration and a new covenant",
+      "startChapter": 30,
+      "endChapter": 33,
+      "description": "Promises of renewal are embodied in the purchase of a field."
+    },
+    {
+      "label": "Collapse and its aftermath",
+      "startChapter": 34,
+      "endChapter": 45,
+      "description": "Narratives return to the last kings, the scroll, siege, and flight to Egypt."
+    },
+    {
+      "label": "Oracles concerning the nations",
+      "startChapter": 46,
+      "endChapter": 51,
+      "description": "Judgment extends beyond Judah, including Babylon."
+    },
+    {
+      "label": "Remembering the catastrophe",
+      "startChapter": 52,
+      "endChapter": 52,
+      "description": "A historical appendix recounts destruction and Jehoiachin’s release from prison."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Truth under pressure",
+      "description": "The reliable word may challenge both rulers and comforting religious expectations."
+    },
+    {
+      "name": "Covenant renewal",
+      "description": "Judgment does not exhaust God’s purposes for Israel and Judah."
+    },
+    {
+      "name": "Hope in ordinary life",
+      "description": "Homes, fields, families, and communal welfare become signs of a future."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Late seventh to early sixth century BC",
+    "context": "The ministry spans Judah’s final reigns, Jerusalem’s destruction, and displacement.",
+    "note": "Sections are arranged thematically as well as historically; chapter order is not a timeline."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 38,
+      "era": "divided-kingdom",
+      "label": "Judah’s final decades",
+      "dateLabel": "From Josiah’s reign to the siege of 587/586 BC",
+      "note": "Includes letters to earlier deportees and promises reaching beyond the fall; narratives move backward and forward."
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "era": "exile",
+      "label": "Jerusalem falls and survivors scatter",
+      "dateLabel": "587/586 BC and its aftermath",
+      "note": "The setting includes survivors in Judah and Egypt, not only deportees in Babylon."
+    },
+    {
+      "start": 45,
+      "end": 51,
+      "era": "divided-kingdom",
+      "label": "Collected words from the Babylonian crisis",
+      "dateLabel": "Late seventh and sixth centuries BC",
+      "note": "Chapter 45 returns to Jehoiakim’s reign; the nation-oracles span multiple settings and future horizons."
+    },
+    {
+      "start": 52,
+      "end": 52,
+      "era": "exile",
+      "label": "Destruction remembered from exile",
+      "dateLabel": "587/586 BC to Jehoiachin’s release around 562/561",
+      "note": "This retrospective appendix extends beyond the main ministry narratives."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Jeremiah, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Jeremiah",
+      "url": "https://bible.usccb.org/bible/jeremiah/0"
+    },
+    {
+      "id": "yale",
+      "label": "Christine Hayes, Open Yale Courses, lecture 18",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-18"
+    }
+  ]
+}

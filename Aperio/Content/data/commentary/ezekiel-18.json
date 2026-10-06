@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 18: The God Who Wants Us to Live",
+      "overview": [
+        "The spiritual heart of Ezekiel 18 is a revolutionary message: God does not delight in death, but earnestly desires that we turn from our wickedness and live. In a time when Israel believed they were irredeemably trapped by their ancestors' sins, God speaks through Ezekiel to shatter this fatalism with the promise of personal accountability and genuine redemption.",
+        "The chapter directly confronts a despairing proverb circulating among the exiles: \"The fathers eat sour grapes, and the children's teeth are set on edge.\" They felt powerless, victims of inherited guilt with no hope of change. But God establishes a principle that cuts against despair: the soul who sins will die, but righteousness brings life. This is not harsh judgment; it is liberating truth. A wicked person who repents will live. A righteous person who turns to wickedness will die. What matters is not where you have been, but where you are going.",
+        "This is deeply personal theology. God asks about specific choices: Do you oppress others? Do you feed the hungry and clothe the naked? Do you lend without interest? Do you turn from idolatry? These are not abstract virtues but tangible expressions of covenant faithfulness. The prophet paints portraits of three generations—grandfather, father, son—showing how each person stands before God on their own merits, their own choices, their own capacity for repentance.",
+        "In our own era of inherited trauma, family dysfunction, and societal sin, this word speaks with urgent tenderness. We are not slaves to our past. We are not defined by our parents' mistakes or our culture's brokenness. God looks at you now, in this moment, and asks: Will you turn? Will you choose life?",
+        "What area of your life feels determined by past failure—yours or someone else's—where God might be inviting you to believe in the possibility of real change?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 18: Scholarly study",
+      "overview": [
+        "Ezekiel 18 stands as one of the most theologically significant chapters in prophetic literature, representing a decisive articulation of individual moral responsibility within the context of Israel's exilic crisis. Composed during the Babylonian captivity following 597 BCE, this extended disputation addresses a cynical proverb circulating among the deportees: \"The fathers have eaten sour grapes, and the children's teeth are set on edge.\" This fatalistic saying reflected a theological despair suggesting that the current generation suffered unjustly for ancestral sins, rendering personal righteousness meaningless.",
+        "The prophet Yahweh employs a striking declaration of divine ownership—\"all souls are mine\" (*kol-hannĕphāshôt lî hēnnāh*)—establishing the theological foundation for individual accountability. The term *nephesh* here transcends simple notions of \"soul,\" encompassing the entire living person in relationship to God. This assertion of divine sovereignty over every individual life directly challenges the notion that guilt transfers mechanistically across generations.",
+        "The chapter proceeds through an elaborate casuistic structure examining three generations: a righteous father, his wicked son, and that son's righteous grandson. Each receives judgment according to his own conduct, demonstrating that moral status is neither inherited nor immutable. The catalog of righteous behaviors in verses 5–9 draws heavily from Levitical holiness traditions and reflects covenant faithfulness expressed through cultic purity, economic justice, and sexual ethics. The phrase *mišpāṭ we'ṣĕdāqāh* (\"justice and righteousness\") functions as a hendiadys representing comprehensive covenant fidelity.",
+        "Particularly significant is the concept of repentance articulated in verses 21–23 and 30–32. The verb *šûb* (\"to turn, return\") appears repeatedly, emphasizing that past wickedness need not determine one's fate. God derives no pleasure (*ḥāphēṣ*) from death but desires that all turn and live. This pastoral dimension challenges interpretations reading the chapter as merely juridical.",
+        "Scholars debate whether Ezekiel here innovates or articulates longstanding Deuteronomic principles. The chapter likely represents not an absolute rejection of corporate solidarity—still assumed elsewhere in Ezekiel—but rather a contextual corrective against misappropriated tradition. Within the canon, this text anticipates Jeremiah 31:29–30 and provides crucial background for later Jewish and Christian reflection on divine justice, free will, and the possibility of genuine moral transformation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 18: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter eighteen stands approximately 593 to 571 years before the Incarnation, delivered during the darkest hour of Judah's exile in Babylon. The prophet speaks to a displaced people who have watched Jerusalem's slow collapse and now languish by foreign rivers, nursing a fatalistic proverb: \"The fathers have eaten sour grapes, and the children's teeth are set on edge.\" This chapter arrives at the hinge point between Kingdom and Exile in God's redemptive arc, precisely when Israel needed to understand that exile was not merely inherited fate but the consequence of covenant unfaithfulness—and that the door of repentance remained open.",
+        "The prophetic weight of this passage shatters the deterministic theology the exiles had constructed to excuse their own sin. Through Ezekiel, the Lord declares with thundering clarity that every soul belongs to Him and that each person stands accountable before the divine tribunal on the basis of their own righteousness or wickedness. The text presents three generations—a righteous father, a violent son, and a grandson who turns back to covenant faithfulness—to demonstrate that neither merit nor guilt transfers automatically through bloodlines. This teaching prepares the soil for the new covenant promise already germinating in Jeremiah's prophecy, where God will write His law on individual hearts rather than merely on national tablets.",
+        "Here we glimpse typological anticipation of the gospel's radical personalization of salvation. Just as Ezekiel declares that the soul who sins shall die, Paul will later echo that all have sinned and face death. Yet Ezekiel's call to \"make yourselves a new heart and a new spirit\" points forward to what only the Spirit of Christ can accomplish. The prophet commands what grace alone enables—and this very tension awaits resolution at Calvary, where the Righteous One dies in place of the unrighteous.",
+        "The eschatological thread running through this chapter concerns divine justice itself. God's ways are declared just when humanity protests they are unfair. This vindication of God's character will find its ultimate demonstration at the final judgment, where every mouth is stopped and the equity of divine reckoning is manifest before all creation.",
+        "For the church dwelling between the advents, Ezekiel eighteen thunders with present relevance: no one inherits salvation through family pedigree, no one perishes by another's transgression alone. Each soul must turn. Each heart must be made new. And the God who takes no pleasure in death extends life to all who repent—today as surely as in Babylon's shadow."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.128218+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

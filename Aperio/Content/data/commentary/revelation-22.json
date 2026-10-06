@@ -1,0 +1,55 @@
+{
+  "book": "Revelation",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 22: The Homecoming of All Things",
+      "overview": [
+        "The closing chapter of Scripture invites us into the tender reality of God's ultimate purpose—not escape from creation, but its glorious restoration and our eternal communion with the Father. Here, in these final verses, John pulls back the curtain to show us that history is not a tragedy without resolution, but a story moving toward the wedding feast of heaven itself.",
+        "What strikes the heart about Revelation 22 is how deeply personal it makes eternity. We see the river of the water of life, crystal clear, flowing from God's throne. We glimpse the tree of life with its twelve kinds of fruit, healing for the nations. These are not abstract concepts but lived realities—abundance, nourishment, and wholeness without end. God does not offer us disembodied escape; He restores us to a creation renewed, where we drink and eat and dwell in His presence as we were always meant to do.",
+        "Notice how the chapter anchors us in the present moment. Jesus says, \"I am coming soon,\" and three times invites us to urgent readiness. This is not meant to paralyze us with anxiety but to clarify our priorities. Everything we do matters because it echoes into eternity. The way we love our neighbor, serve the vulnerable, and pursue holiness—these are not temporary exercises but investments in the kingdom that endures forever. We are not simply waiting for rescue; we are laborers preparing the way.",
+        "The promise that \"His servants will serve Him\" speaks to a fundamental human need—to matter, to contribute, to live for something greater than ourselves. In heaven, we do not drift in passive bliss but participate joyfully in God's eternally unfolding purposes. Our work, finally perfected and freed from sin's corruption, becomes pure worship.",
+        "What area of your life needs to be reoriented by the reality that Christ is returning and eternity is not distant? How might embracing that truth reshape your choices today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 22: Scholarly study",
+      "overview": [
+        "Revelation 22 serves as the magnificent conclusion to John's apocalyptic vision, drawing together the prophetic threads of the entire canonical narrative while simultaneously functioning as the epilogue to the Apocalypse itself. Written during the reign of Domitian (circa 95 CE) to seven churches in Asia Minor experiencing persecution and cultural pressure, this final chapter moves from the visionary description of the New Jerusalem's interior (verses 1-5) to a series of authentication statements and warnings (verses 6-21) that frame the entire work's authority and urgency.",
+        "The chapter opens with the river of the water of life flowing from the throne of God and the Lamb, employing the Greek term *potamos* (ποταμός) to evoke both Ezekiel's temple vision (Ezek. 47:1-12) and the primordial rivers of Eden (Gen. 2:10-14). This deliberate intertextual resonance signals the eschatological restoration of paradise, now transformed and elevated through Christological fulfillment. The tree of life (*xulon zōēs*), bearing twelve kinds of fruit and offering leaves for the healing (*therapeia*) of the nations, resolves the narrative tension initiated in Genesis 3, where humanity was barred from this same tree. The term *therapeia* suggests ongoing restoration and wholeness rather than mere medical cure, indicating the complete reconciliation of creation.",
+        "The declaration that God's servants will see his face (*opsontai to prosōpon autou*) represents a remarkable theological claim, given the Hebrew Bible's consistent testimony that no one can see God's face and live (Exod. 33:20). This beatific vision becomes possible only through the mediating presence of the Lamb and the transformed state of the redeemed community.",
+        "Scholarly debate surrounds the relationship between verses 6-21 and the body of the Apocalypse, with some arguing these verses constitute multiple editorial additions. The threefold repetition of Christ's imminent return (*erchomai tachu*, \"I am coming quickly\") in verses 7, 12, and 20 creates liturgical intensity while raising persistent questions about the delay of the parousia that subsequent Christian theology has addressed in various ways. The concluding maranatha-like response, \"Come, Lord Jesus,\" preserves early Christian liturgical practice, binding the written text to the worshiping community's lived expectation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 22: Prophetic perspective",
+      "overview": [
+        "Revelation 22 stands at the terminus of all biblical revelation, written approximately sixty years after Christ's resurrection, when the aged apostle John received this vision on Patmos around 95 AD during Domitian's persecution. This chapter completes not merely one book but the entire canon of Scripture, bringing the redemptive narrative full circle from Eden's garden to the New Jerusalem's eternal garden-city. Here the grand arc reaches its glorious consummation in the New Creation, where every promise finds its \"yes\" in Christ and every prophetic thread is woven into the tapestry of endless glory.",
+        "The river of life flowing from the throne of God and of the Lamb echoes Eden's rivers while surpassing them infinitely. Where Genesis presented a garden with a river, Revelation presents a city with a river—humanity's cultural development redeemed and glorified rather than erased. The tree of life, from which Adam was barred after the fall, now stands accessible on both banks, its leaves healing the nations of every wound sin ever inflicted. This typological fulfillment reveals that paradise was never meant to be merely recovered but exceeded. The first Adam lost access to the tree; the Last Adam secures eternal access for His bride.",
+        "The threefold declaration \"I am coming quickly\" punctuates this chapter with eschatological urgency. Christ's promised return, spoken directly three times, remains the great unfulfilled prophecy toward which all creation groans. The church has lived for two millennia in the tension of this \"quickly\"—a word measuring divine certainty rather than human chronology. What was future to John remains future to us, yet each generation rightly lives as though it might be the last.",
+        "The curse's removal marks the complete reversal of Genesis 3. Where thorns, sweat, pain, and death entered through Adam's transgression, now \"there shall be no more curse.\" His servants shall serve Him—the very purpose for which humanity was created—and they shall see His face, that beatific vision which Moses was denied and which remains the soul's deepest longing. His name on their foreheads declares ownership, identity, and intimate belonging.",
+        "The Spirit and the Bride cry \"Come!\"—both to Christ in His return and to the thirsty who would drink freely. The church living between the advents holds this dual invitation: longing for the Bridegroom while beckoning sinners to the fountain. Until He appears, we guard these words, refuse to add or subtract from this completed revelation, and echo with all the redeemed across every age: \"Even so, come, Lord Jesus.\""
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.104854+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

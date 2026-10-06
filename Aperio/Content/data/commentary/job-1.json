@@ -1,0 +1,74 @@
+{
+  "book": "Job",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 1 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Job 1:1 · Original-language text",
+      "url": "https://biblehub.com/text/job/1-1.htm"
+    },
+    {
+      "id": "correction-2",
+      "label": "Job 1 · Scripture",
+      "url": "https://biblehub.com/bsb/job/1.htm"
+    },
+    {
+      "id": "correction-3",
+      "label": "Job 2 · Scripture",
+      "url": "https://biblehub.com/bsb/job/2.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Job 1: The Testing of Trust",
+      "overview": [
+        "The opening chapter of Job invites us into one of Scripture's most difficult and necessary conversations about suffering—the reality that faithfulness does not guarantee comfort, and that God's character must be trusted even when circumstances seem utterly unjust.",
+        "Job is introduced as a man of remarkable integrity: blameless, upright, God-fearing, and prosperous. He is not perfect, but he is genuinely devoted. The text does not hide his goodness; rather, it establishes that his suffering cannot be blamed on secret sin or moral failure. This matters deeply because it names what many of us have experienced: terrible things happen to good people. A child dies of cancer. A faithful worker is laid off. A marriage dissolves despite years of commitment. Job's story says these tragedies are not necessarily God's judgment on hidden wickedness.",
+        "The heavenly scene that follows reveals a cosmic perspective we rarely see. Satan appears before God, and their conversation touches something raw in our faith: does anyone serve God purely, or only because blessing follows? Satan essentially challenges whether our worship survives when the rewards disappear. God permits Satan to test Job, not to destroy him, but to prove that genuine faith exists—faith that loves God for who He is, not merely for what He provides.",
+        "When calamity strikes—raiders, fire, wind that kills Job's children—his response cuts to the heart of discipleship. He tears his robe, shaves his head, falls to the ground, and worships. \"Naked I came from my mother's womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.\" This is not denial of pain; Job later grieves profoundly. Rather, it is the deep conviction that God's character transcends circumstance, and worship belongs to Him regardless.",
+        "Where are you being invited to trust God's goodness when life offers no visible proof? What would it mean to worship Him today, not for what He gives, but for who He is?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 1: Scholarly study",
+      "overview": [
+        "The book of Job opens with a prose prologue that establishes the cosmic framework for the poetic dialogues that constitute the majority of the text. The narrative introduces Job as a man from the land of Uz, a region likely situated in Edomite territory east of the Jordan, though its precise location remains contested among scholars. The temporal setting is deliberately archaic, placing Job in a patriarchal era reminiscent of Genesis, with wealth measured in livestock and the protagonist functioning as priest for his household. This compositional strategy distances the story from specific Israelite history, universalizing its exploration of innocent suffering.",
+        "The characterization of Job employs four Hebrew descriptions: *tam* (blameless), *yashar* (upright), *yare elohim* (fearing God), and *sar mera* (turning from evil). The term *tam* does not denote sinless perfection but rather integrity and completeness of character, a crucial distinction that shapes proper interpretation of the subsequent debates. The narrator's omniscient perspective establishes Job's righteousness as objective fact, not merely subjective self-assessment, thereby intensifying the theological crisis that unfolds.",
+        "The heavenly council scene introduces *hasatan*, a figure whose definite article indicates a functional title—\"the adversary\" or \"the accuser\"—rather than a proper name. This prosecutorial figure operates within divine permission, reflecting ancient Near Eastern conceptions of the divine council attested in Ugaritic literature and elsewhere in Hebrew Scripture. The satan's challenge strikes at the heart of wisdom theology: is disinterested piety possible, or does righteousness always serve self-interest? The phrase *hinam* (for nothing) appears in both the satan's accusation and God's later assessment, creating deliberate theological resonance.",
+        "The rapid succession of catastrophes—Sabeans, divine fire, Chaldeans, and whirlwind—systematically dismantles Job's prosperity and family. Job's response introduces liturgical language of mourning, yet his declaration that Yahweh both gives and takes demonstrates a theology of divine sovereignty that the subsequent dialogues will severely test. The narrator closes by affirming that Job did not sin or charge God with wrongdoing (1:22). The more specific statement about his speech appears after the next trial, in 2:10. This prologue thus establishes dramatic irony, granting readers cosmic knowledge denied to Job himself throughout his ordeal."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 1: Prophetic perspective",
+      "overview": [
+        "Job 1 stands at the threshold of Israel's wisdom tradition, likely composed during or shortly after the patriarchal period, placing it among the oldest texts in Scripture—perhaps contemporaneous with Abraham, roughly 2000 years before Christ's birth. This chapter emerges from the era before Moses, before Sinai, before the formal covenant with Israel, yet it speaks with stunning clarity into the eternal counsels of God and the cosmic conflict that frames all human history.",
+        "Within the grand arc of redemption, Job 1 occupies the space between Creation and the calling of Abraham—a period when God's revelation came through conscience, creation, and direct encounter rather than through written Torah. Job himself functions as a Gentile saint, a righteous man from the land of Uz, demonstrating that even before Israel's election, God preserved for Himself worshippers who feared Him and turned from evil. This universal scope anticipates the inclusion of all nations that would come through Abraham's seed.",
+        "The heavenly council scene reveals a dimension of reality largely hidden until the later prophets and the New Testament would pull back the veil further. Satan—\"the adversary\"—appears not as an independent power but as one who must present himself before Yahweh, whose movements require divine permission, whose accusations demand heaven's authorization before touching God's servant. Here is the prototype of every spiritual conflict: the accuser challenges the authenticity of covenant faithfulness, asking whether any creature truly loves God for Himself alone.",
+        "Job emerges as a profound type of Christ. The blameless and upright one, greatest among all the people of the East, is handed over to suffering not for his own sin but according to the mysterious purposes of divine wisdom. His children perish, his possessions vanish, yet he falls to the ground in worship—\"The LORD gave, and the LORD has taken away; blessed be the name of the LORD.\" This is the grammar of Gethsemane before Gethsemane existed, the surrender of the Son before the incarnation.",
+        "For the Church living between the advents, Job 1 stands as both warning and comfort. The adversary still accuses the brethren day and night, still questions whether our faith is genuine. Yet he remains on heaven's leash. The sufferings we endure are not evidence of divine abandonment but often of divine confidence—that through our trials, the wisdom of God might be displayed to principalities and powers, and the authenticity of grace-wrought faith vindicated before the watching universe."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.964602+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-053",
+      "patch-054"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

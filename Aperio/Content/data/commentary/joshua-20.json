@@ -1,0 +1,55 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joshua 20 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joshua 20: The Grace of Refuge",
+      "overview": [
+        "When someone has committed unintentional harm, they need more than judgment—they need sanctuary. Joshua 20 establishes cities of refuge, revealing God's compassionate heart toward those who have caused death by accident rather than malice. This passage speaks to a God who distinguishes between the guilty heart and the guilty act, between murder and manslaughter, between intentional violence and tragic mishap.",
+        "The cities of refuge were strategically distributed throughout Israel's territory—three on each side of the Jordan—so that someone fleeing in panic wouldn't have to travel an impossible distance. Imagine the person who has just killed someone while felling a tree, their hands shaking, their mind reeling. The law protecting them mattered. They could run to the nearest city and find shelter, a place where the avenger of blood couldn't simply strike them down in revenge. There, before the city's elders, their case would be heard with care and discernment.",
+        "This reveals something vital about God's character: He cares about justice that is *just*, not merely swift. He values protection for the vulnerable, even those guilty of causing death. The cities of refuge functioned as a buffer between the heat of human vengeance and the cool clarity of legal judgment. They existed because God knows how grief can twist into violence, how a family's pain can eclipse all reason.",
+        "For us today, this passage invites reflection on grace within accountability. Do we create space in our families, churches, and communities for genuine repentance and restoration? Are we quick to assume the worst about others' intentions, or do we pause to distinguish between malice and mistake? Do we offer sanctuary to those whose failures are real but not deliberate?",
+        "What areas of your life might need this kind of just mercy—where accountability matters, but grace matters equally?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joshua 20: Scholarly study",
+      "overview": [
+        "Joshua 20 presents the implementation of a distinctive institution in ancient Israelite jurisprudence: the cities of refuge. This chapter fulfills the divine mandate previously articulated in Numbers 35:9-34 and Deuteronomy 19:1-13, demonstrating the theological continuity between Mosaic legislation and its actualization under Joshua's leadership following the conquest. The passage occurs strategically after the land distribution narratives of chapters 13-19, indicating that the establishment of these sanctuaries represented an essential component of Israel's settled existence in Canaan.",
+        "The central Hebrew term requiring examination is the verbal root *ratsach*, which designates the act of killing that necessitates flight to these cities. This term carries a semantic range encompassing both intentional murder and unintentional homicide, though the passage explicitly qualifies the eligible party as one who kills \"unintentionally\" (*bishgagah*), literally \"in error\" or \"through inadvertence.\" This linguistic precision distinguishes the biblical concept from modern legal categories while establishing that culpability remained subject to communal adjudication. The designation *goel haddam* (\"avenger of blood\") refers to the kinsman responsible for executing justice upon the manslayer—an institution reflecting the ancient Near Eastern pattern of blood vengeance that Israelite law sought to regulate rather than abolish.",
+        "The six cities selected—Kedesh, Shechem, Hebron in Cisjordan, and Bezer, Ramoth, and Golan in Transjordan—demonstrate careful geographical distribution ensuring accessibility from any location within the tribal territories. Their placement on both sides of the Jordan River reflects the unified conception of Israelite territory despite the river's natural division. Several of these locations, particularly Shechem and Hebron, carried significant patriarchal associations, suggesting that sacred geography informed their selection.",
+        "Scholarly debate surrounds the relationship between this chapter and Joshua 21's Levitical city allocations, since all six refuge cities appear among the forty-eight Levitical cities. Some source critics have attributed these chapters to different redactional layers, while others recognize a coherent priestly administration of judicial sanctuaries. The passage ultimately demonstrates Israel's attempt to balance communal justice with individual protection, embedding mercy within legal structure and revealing a theology wherein even accidental bloodshed disrupted the covenant community's holiness yet permitted restoration through regulated asylum."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joshua 20: Prophetic perspective",
+      "overview": [
+        "Joshua 20 unfolds approximately fourteen centuries before the birth of Christ, during the period of Israel's settlement in Canaan following the forty years of wilderness wandering. The conquest under Joshua's leadership has largely concluded, and now the LORD commands the formal establishment of the cities of refuge—a divine institution first announced through Moses in the plains of Moab. This moment stands at a pivotal point in redemptive history, between the Exodus deliverance and the coming monarchy, as Israel transitions from wandering pilgrim nation to covenant community settled in the land of promise.",
+        "Within the grand arc of Scripture, this chapter represents the detailed outworking of God's kingdom order in the promised inheritance. The six cities—Kedesh, Shechem, Hebron in the hill country, and Bezer, Ramoth, and Golan across the Jordan—were strategically positioned so that no Israelite would be more than a day's journey from sanctuary. The manslayer who killed unintentionally could flee to these cities and find protection from the avenger of blood until standing trial before the congregation and until the death of the high priest.",
+        "Here the typological richness becomes luminous. These cities stand as shadows of Christ Himself, the true refuge for sinners. Just as the gates stood perpetually open and the roads were maintained and marked, so the gospel invitation extends universally with clear direction to the Savior. The fleeing manslayer pictures every sinner running from the just consequences of transgression, finding in Christ a shelter from divine wrath. Most striking is the provision that the manslayer's full freedom came only upon the death of the high priest. This points with unmistakable clarity to our great High Priest whose death secures not merely temporary asylum but eternal liberty. When Jesus died, the veil tore, and all who had fled to Him received permanent release from condemnation.",
+        "The cities themselves bear prophetic names: Kedesh means \"holy place,\" Shechem \"shoulder\" suggesting strength, and Hebron \"fellowship\"—together painting a portrait of the sanctuary believers find in Christ's holiness, power, and communion.",
+        "For the church dwelling between the advents, this ancient institution proclaims present comfort and future hope. We have fled to Jesus, our imperishable refuge, and we await that day when death itself is swallowed up and we dwell eternally in the city whose builder and maker is God, never again to fear judgment but only to know everlasting fellowship with our risen High Priest."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "06_020",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.231755+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

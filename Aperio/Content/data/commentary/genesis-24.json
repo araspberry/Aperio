@@ -1,0 +1,57 @@
+{
+  "book": "Genesis",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 24: The Providence of Patient Love",
+      "overview": [
+        "This remarkable chapter reveals how God works through the ordinary faithfulness of his people to accomplish his purposes, teaching us that providence operates not through dramatic miracles alone but through attentive listening, humble service, and trust in divine ordering.",
+        "Abraham's servant undertakes an arduous journey to find a wife for Isaac, knowing only that God will guide him. What strikes us immediately is his method: he doesn't rush ahead with his own schemes but pauses at a well and prays for a specific sign. This is not presumption dressed as faith, but genuine dependence—he asks God to confirm his path through circumstances. When Rebekah appears and acts with the exact kindness he requested, he worships, recognizing God's hand in what might otherwise seem coincidental.",
+        "This story speaks to how divine guidance often comes not through booming voices but through the alignment of our faithful actions with God's gentle orchestration. The servant remains utterly devoted to his master's mission, traveling miles away from home without knowing the outcome. His reliability and trustworthiness become the very instruments through which God works. When he finally presents his testimony to Rebekah's family, his careful attention to detail—what God did, how he prayed, what happened—demonstrates that faith notices and narrates God's faithfulness.",
+        "The chapter also shows us something tender about God's care for the marginal. Rebekah, a young woman far from home, receives water and kindness. She discovers herself chosen, elevated, part of a covenant family. God sees her. His providence includes her thriving.",
+        "For those of us navigating uncertainty, this passage invites us to the same posture: pray specifically, remain faithful in the small things assigned to us, watch for God's confirmation, and trust that he cares about the details of our stories. Providence means we need not anxiously orchestrate our lives; we can serve faithfully where we are while remaining alert to how God guides.",
+        "What area of your life invites you to pray specifically and then watch attentively for God's guidance?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 24: Scholarly study",
+      "overview": [
+        "Genesis 24 stands as the longest chapter in the book of Genesis and represents one of the most artfully constructed narratives in the Hebrew Bible. This account of securing a bride for Isaac unfolds during the final phase of Abraham's life, functioning as a pivotal transition text that ensures the continuation of the covenant promises through the proper lineage. The narrative likely reflects patriarchal marriage customs of the early second millennium BCE, where endogamy—marriage within one's kinship group—served to preserve family identity, inheritance rights, and religious distinctiveness.",
+        "The chapter opens with Abraham commissioning his senior servant, traditionally identified as Eliezer of Damascus though unnamed here, to undertake the momentous task of finding a wife for Isaac. The oath-taking ceremony involves placing the hand under Abraham's \"thigh\" (*yarek*), a euphemism likely referring to the reproductive organs, signifying that the servant swears by Abraham's descendants—the very posterity at stake in this mission. Abraham's insistence that the bride not be taken from the Canaanites reflects theological concerns about maintaining covenant purity rather than mere ethnic prejudice, anticipating later Deuteronomic prohibitions against intermarriage.",
+        "The servant's prayer at the well introduces the key term *hesed*, often translated \"steadfast love\" or \"loving-kindness,\" which appears three times in this chapter. When Rebekah appears and fulfills the precise conditions the servant had proposed, he recognizes divine *hesed* at work, acknowledging that YHWH has guided (*nahah*) his journey. This verb of guidance emphasizes providential direction throughout the narrative.",
+        "Structurally, the chapter employs extensive repetition—the servant recounts the entire episode to Rebekah's family—a literary device that emphasizes the significance of these events and demonstrates divine orchestration. Some scholars have noted this repetition as evidence of source compilation, while others view it as deliberate narrative artistry common in ancient Near Eastern literature.",
+        "Rebekah emerges as a remarkably active figure, demonstrating initiative, hospitality, and ultimately consenting to the marriage with the decisive declaration \"I will go\" (*elek*). Her characterization balances agency with providential determination, establishing her as a worthy matriarch. The chapter concludes with Isaac's love for Rebekah providing comfort after Sarah's death, thus completing one generational transition while inaugurating the next."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 24: Prophetic perspective",
+      "overview": [
+        "Genesis 24 unfolds approximately 2,000 years before Christ, roughly 1900 BC, in the aftermath of Sarah's death recorded in the previous chapter. Abraham is now advanced in years, and Isaac has reached marriageable age. This pivotal narrative stands within the patriarchal period, between the Abrahamic covenant's establishment and the eventual descent into Egypt, firmly planted in that critical epoch where God was forming a covenant family through whom all nations would be blessed.",
+        "Within the grand redemptive arc, this chapter advances the promise from Abraham to the next generation. The seed through whom blessing flows must continue, and that continuation requires a bride. Here the Spirit of God pulls back the veil on a profound mystery that would not be fully understood until the advent of Christ and His church.",
+        "Abraham, the aged father, sends his most trusted servant—unnamed but faithful—to obtain a bride for his beloved son. The servant journeys to a far country, bearing gifts and the authority of his master's name. He does not speak of himself but testifies of the son's glory, declaring that the father has given all things into the son's hand. Rebekah is found at the well, responds to the servant's word, receives his gifts, and willingly leaves her father's house to journey toward a bridegroom she has never seen. Isaac, meanwhile, has come from Beer Lahai Roi—\"the well of the Living One who sees me\"—and goes out into the field at evening to meet her.",
+        "The typological pattern blazes with light. The Father sends the Spirit into the world to call out a Bride for His beloved Son. The Spirit does not speak of Himself but glorifies Christ, testifying of all the Father has given Him. The Bride is found at the well of living water, hears the testimony, receives the earnest gifts, and forsakes all to follow One she has not yet seen but loves. The Son, who has passed through death and emerged from the place of resurrection life, goes forth to meet His Bride.",
+        "This ancient narrative prophetically frames the entire church age. We are Rebekah, called from among the nations, betrothed but not yet united, traveling toward the evening hour when we shall see Him face to face. The Spirit adorns us with gifts, assuring us of our Bridegroom's wealth and love. We journey by faith, not by sight, until that glorious moment when the heavens part and we behold the One for whom we have waited. The marriage supper of the Lamb approaches."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.69487+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

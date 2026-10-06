@@ -1,0 +1,64 @@
+{
+  "book": "Hosea",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Hosea 2 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Hosea 2 · Scripture",
+      "url": "https://biblehub.com/bsb/hosea/2.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Hosea 2: The Love That Refuses to Let Go",
+      "overview": [
+        "At the heart of Hosea 2 lies an astonishing truth: God's love persists even when pursued with anger and judgment. This passage reveals a God who breaks rather than simply discards, who disciplines those he cherishes rather than abandoning them to their choices.",
+        "Hosea depicts Israel as an unfaithful spouse who has forgotten that every good gift—bread, water, wool, and linen—comes from the Lord's hand alone. The people had attributed their blessings to false gods and lovers, constructing a comfortable mythology that absolved them of gratitude and covenant faithfulness. God's response is not cold rejection but a love so fierce it looks like judgment. He will strip away the very provisions that enabled their wandering, not to destroy but to awaken them to reality.",
+        "Yet notice the movement within this judgment: God speaks of leading Israel into the wilderness—that ancient place of covenant formation and intimate encounter. He calls it a place of speaking to her heart. This is devastating tenderness. God removes the distractions precisely because he wants Israel back, fully and consciously. The judgment contains within it an invitation to remember who she really belongs to.",
+        "This mirrors the redemptive work in our own lives. How often does God allow circumstances to unravel our false securities—our pride in accomplishments, our reliance on relationships, our comfort in status—not because he hates us but because he loves us with a desperation that demands our full attention? The wilderness seasons we fear are often the pathways back to genuine encounter with the God whose gifts we've taken for granted.",
+        "Hosea 2 promises that beyond judgment comes restoration: betrothals in righteousness and faithfulness, knowing the Lord in ways prosperity never permits. God's final word is always redemption for those who will be found again.",
+        "What areas of your life has God had to strip bare to reclaim your attention and love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Hosea 2: Scholarly study",
+      "overview": [
+        "Hosea 2 stands as one of the most theologically dense and emotionally charged chapters in the prophetic corpus, extending the marriage metaphor introduced in chapter 1 to articulate Yahweh's complex relationship with Israel. The historical setting places this oracle during the tumultuous final decades of the Northern Kingdom, approximately 750–720 BCE, when Israel's syncretistic worship practices—particularly the veneration of Baal alongside Yahweh—had reached critical proportions under Jeroboam II's prosperous but spiritually compromised reign.",
+        "The chapter divides into three movements: accusation and threatened punishment (vv. 2–13), restoration through wilderness renewal (vv. 14–17), and eschatological covenant blessing (vv. 18–23). The legal terminology in verse 2, where the children are commanded to \"contend\" (*rîbû*) with their mother, evokes covenant lawsuit imagery familiar from ancient Near Eastern treaty contexts. The accusation centers on Israel's \"adultery\" (*na'ăpûpîm*), a term denoting both literal sexual infidelity and metaphorical religious apostasy, as Israel attributed agricultural fertility to Baal rather than Yahweh.",
+        "The Hebrew term *ba'al* carries significant double meaning throughout this passage, functioning simultaneously as the name of the Canaanite storm deity and as a common noun meaning \"master\" or \"husband.\" Verse 16 exploits this ambiguity masterfully, declaring that Israel will call Yahweh \"*îšî*\" (my husband) rather than \"*ba'lî*\" (my Baal/my master), signaling a transformed relationship characterized by intimate partnership rather than mere ownership.",
+        "The wilderness motif in verses 14–15 draws upon exodus traditions, presenting the desert not as punishment but as a liminal space of renewed courtship where Yahweh will \"speak to her heart\" (*dibbartî 'al-libbāh*), an idiom suggesting tender persuasion. Scholars debate whether this wilderness sojourn represents historical exile or a spiritualized return to covenantal origins. The chapter culminates in comprehensive cosmic restoration, employing betrothal language (*'ēraśtîk*) that emphasizes Yahweh's initiative and permanence. The reversal of the children's names—Lo-ruhamah becoming Ruhamah (pitied) and Lo-ammi becoming Ammi (my people)—demonstrates that divine judgment serves ultimately redemptive purposes, a theological trajectory that later canonical texts, including Romans 9:25–26, would appropriate for understanding gentile inclusion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Hosea 2: Prophetic perspective",
+      "overview": [
+        "Hosea chapter two emerges from the tumultuous final decades of the northern kingdom of Israel, approximately 750-722 BC, some seven centuries before Christ's incarnation. The prophet ministers during the reign of Jeroboam II, a period of material prosperity masking profound spiritual decay. Within two decades of this prophecy, Assyria would sweep away the ten northern tribes forever, fulfilling the threatened judgment. Yet this chapter reaches far beyond that immediate horizon, stretching across millennia to touch the church age and extending still further to consummate glories yet unrevealed.",
+        "This passage stands at the hinge between Kingdom and Exile in redemption's grand narrative. Israel has played the harlot, pursuing the Baals—those fertility gods she credits with providing her grain, wine, and oil. The divine Husband speaks through Hosea with wounded fury and relentless love intertwined. The covenant made at Sinai has been grotesquely violated, yet the Covenant-Maker refuses to abandon His adulterous bride. Here the scandal of divine grace reaches shocking intensity: God will hedge up her way with thorns, strip her naked in judgment, yet ultimately allure her into the wilderness for tender courtship.",
+        "The typological riches overflow. Hosea's marriage to Gomer shadows the greater mystery Paul unveils in Ephesians—Christ and His church. The wilderness wooing recalls Israel's honeymoon period after Egypt, but points forward to how Christ pursues His bride through the desolation of this present age. The Valley of Achor, place of Achan's troubling, becomes a door of hope—prefiguring how sites of Israel's greatest failures become theaters of grace. The promised betrothal \"in righteousness, justice, lovingkindness, and compassion\" finds fulfillment only in Christ, the Bridegroom who clothes His bride in His own righteousness.",
+        "The eschatological threads weave through three horizons. The immediate judgment fell when Assyria devoured Samaria in 722 BC. The restoration language found partial fulfillment when remnants returned from Babylon, yet the sweeping cosmic reconciliation described—beasts of the field, birds of the sky, creeping things joined in covenant peace, bow and sword abolished—clearly awaits the new creation. The declaration \"I will say to those who were not My people, 'You are My people'\" reaches its present fulfillment as Gentiles are grafted into covenant relationship through Christ, as Paul explicitly applies in Romans 9.",
+        "The church lives as the betrothed bride, already purchased by blood, awaiting the wedding supper. We know the Husband's faithfulness even when we wander. This chapter assures us: the same jealous love that confronts betrayal also promises restoration."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "28_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.251111+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-033"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

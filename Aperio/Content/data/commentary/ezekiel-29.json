@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 29,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 29 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Devotional Commentary on Ezekiel 29",
+      "overview": [
+        "Egypt's fall becomes a portrait of human pride meeting divine reality—a sobering word about the fragility of earthly power when it turns away from the God of all nations. Ezekiel's prophecy against Egypt reminds us that no kingdom, no matter how mighty or ancient, stands outside God's sovereign judgment.",
+        "Pharaoh boasts that the Nile belongs to him, that he made himself. This is the voice of every human heart that has ever believed its own strength sufficient, its own wisdom adequate, its own achievement worthy of ultimate worship. The king of Egypt gazes into still waters and sees only his own reflection, mistaking self-reliance for strength. God's response is neither petty nor vindictive—it is the necessary consequence of a creation-order out of alignment with truth. When we claim ownership of what we only steward, when we inflate our own significance, we invite the gentle but firm correction of reality itself.",
+        "The God who calls Ezekiel to speak this word is not distant or detached. He sees Egypt's pride precisely because He sees all human hearts. His judgment flows from intimate knowledge and patient warning. Egypt will learn through exile and humiliation that history belongs to God, not to Pharaohs. Yet even here, redemption waits in the margins. God promises restoration—forty years of desolation, then Egypt will return to its modest place among nations, no longer a dominating power but a quieter witness to God's sovereignty.",
+        "This passage invites us to honest self-examination. Where do we trust in human strength rather than divine guidance? What \"Nile rivers\" do we claim as our own—our talents, our resources, our reputations? The invitation is not toward shame but toward freedom: releasing our white-knuckled grip on what was never ours to command.",
+        "What area of your life are you tempted to believe you alone control, and how might releasing that bring you closer to God's peace?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 29: Scholarly study",
+      "overview": [
+        "Ezekiel 29 initiates an extended collection of oracles against Egypt spanning chapters 29–32, representing the most substantial prophetic corpus directed at any foreign nation in the book. The chapter itself contains two distinct oracles dated to 587 BCE (vv. 1–16) and 571 BCE (vv. 17–21), the latter being the latest dated prophecy in Ezekiel. These proclamations emerge during the final years of Judah's existence, when Egypt under Pharaoh Hophra (Apries) had proven an unreliable ally against Babylonian aggression, having withdrawn support during Nebuchadnezzar's siege of Jerusalem.",
+        "The dominant imagery presents Pharaoh as the great sea monster (*tannîm*), lounging in the Nile channels and boastfully declaring ownership over the river. This creature, evoking ancient Near Eastern chaos mythology, represents both Egyptian royal ideology and the life-giving Nile upon which Egyptian civilization depended. Pharaoh's claim \"my Nile is my own; I made it for myself\" exemplifies the hubris (*gāʾôn*) that Ezekiel consistently identifies as warranting divine judgment. The verb *ʿāśâ* (\"to make/create\") here borders on blasphemous self-deification, appropriating creative prerogatives belonging solely to YHWH.",
+        "The prophecy of Egypt's forty-year desolation and subsequent restoration as a \"lowly kingdom\" (*mamlākâ šĕpālâ*) presents interpretive challenges, as no extrabiblical evidence confirms such extended devastation. Some scholars understand this typologically rather than literally, paralleling Israel's wilderness experience, while others suggest partial fulfillment through Egypt's diminished political status following Persian conquest.",
+        "The supplementary oracle in verses 17–21 addresses the historical reality that Nebuchadnezzar's thirteen-year siege of Tyre yielded insufficient plunder to compensate his army. YHWH therefore grants Egypt as wages, demonstrating divine sovereignty over imperial ambitions and historical outcomes. The concluding promise of a \"horn sprouting\" for Israel introduces unexpected hope within judgment oracles, suggesting that Egypt's downfall coincides with Israel's eventual restoration.",
+        "Within the canonical structure, these Egyptian oracles complete Ezekiel's systematic demonstration that YHWH's sovereignty extends over all nations, preparing readers for the restoration oracles beginning in chapter 33. Egypt's judgment confirms that no earthly power can substitute for trust in Israel's covenant God."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 29: Prophetic perspective",
+      "overview": [
+        "This oracle against Egypt was delivered in the tenth year of Jehoiachin's exile, approximately 587 BC, just months before Jerusalem's final destruction by Nebuchadnezzar. Ezekiel prophesied from Babylon while his countrymen in Jerusalem foolishly looked to Pharaoh Hophra for deliverance from the Babylonian siege. Within the grand arc of redemption, this passage stands in the period of covenant judgment, when God was executing the curses of Deuteronomy upon His rebellious people and simultaneously demonstrating His sovereignty over all nations.",
+        "The prophetic word against Pharaoh carries immense typological weight. Egypt throughout Scripture functions as the archetypal kingdom of this world—the house of bondage from which God delivered His people at the first Exodus. Pharaoh himself embodies the serpentine powers of darkness, and Ezekiel's imagery makes this explicit: the great dragon lying in the midst of his rivers, boasting \"My Nile is my own; I made it for myself.\" Here is the primal sin of Eden echoing through history—the creature claiming the prerogatives of the Creator. This dragon-king who enslaved God's people and opposed their redemption foreshadows that ancient serpent whose head the seed of the woman would crush.",
+        "God's judgment upon Egypt—the hooks in the dragon's jaws, the scattering among nations for forty years, the reduction to a lowly kingdom—was fulfilled in the Babylonian conquest and Egypt's subsequent diminishment. Yet this historical judgment ripples forward eschatologically. Every proud empire that sets itself against God's purposes and oppresses His people shares Egypt's destiny. The forty years of Egyptian desolation echoes Israel's wilderness wandering, suggesting that even judgment contains a strange mercy, a measured discipline rather than total annihilation.",
+        "The chapter's promise that Nebuchadnezzar would receive Egypt as wages for his service against Tyre reveals God's mysterious sovereignty over pagan empires. The Lord conscripts even godless kings as instruments of His justice. This same pattern culminates at Calvary, where wicked hands accomplish heaven's eternal purpose.",
+        "For the church dwelling between the advents, Egypt's judgment declares that no earthly power can ultimately shelter God's people or thwart His purposes. The dragon has been cast down; Christ has plundered the strong man's house. Yet until the final day, we must not lean on Egypt's arm but trust wholly in the Lord who makes rivers into wilderness and brings every proud thing low before His throne."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_029",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.158884+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 96,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 96 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 96: A Song for the Whole Earth",
+      "overview": [
+        "Psalm 96 invites us into a cosmic celebration where heaven and earth join in an uncontainable chorus of worship—a joy so big it demands to be sung aloud and shared with everyone we meet.",
+        "The psalmist opens with an urgent summons: \"Sing to the Lord a new song.\" This is not quiet, private devotion. This is exuberant, contagious praise that overflows from a heart so full of God's goodness that silence becomes impossible. The \"newness\" isn't about musical novelty but about the freshness of encounter with God—the way each day brings reason to worship again, as if for the first time. We are called to tell the nations of His glory and all peoples of His marvelous works. Our worship isn't meant to stay contained within church walls; it spills into our neighborhoods, workplaces, and relationships through our words and changed lives.",
+        "What makes this psalm particularly moving is its universal scope. The writer celebrates that God's kingdom encompasses all creation. Every family of nations, every people group, every corner of the earth is invited into this joy. This transforms how we pray and witness—we're not fighting for territory or trying to convince God's enemies to surrender. We're inviting them to a party, to join a celebration already happening. When we worship with this expansive vision, we begin seeing neighbors not as obstacles to our faith but as those whom God has already claimed and is inviting to abundant life.",
+        "The psalm reminds us that authentic worship produces authentic witness. When our joy in Christ becomes genuine and visible, people notice. They sense something real. In a world of manufactured happiness and surface-level contentment, the depth of joy found in knowing God stands out like light in darkness.",
+        "Where in your daily life might your worship—your genuine delight in God—become a natural invitation for others to encounter His goodness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 96: Scholarly study",
+      "overview": [
+        "Psalm 96 stands as one of the enthronement psalms celebrating Yahweh's kingship over all creation and the nations, sharing substantial textual parallels with the liturgical material preserved in 1 Chronicles 16:23–33, where it appears in the context of David bringing the ark to Jerusalem. The psalm likely originated within the Jerusalem cult, possibly associated with an annual festival commemorating Yahweh's cosmic reign, though scholars continue to debate whether Israel actually celebrated a formal enthronement festival analogous to Babylonian akitu celebrations, as Sigmund Mowinckel famously proposed.",
+        "The opening imperative to sing a \"new song\" (*shir chadash*) carries theological weight beyond mere novelty; this terminology appears in contexts of fresh divine intervention and eschatological expectation, suggesting that Yahweh's salvific acts continually demand renewed liturgical response. The threefold repetition of \"sing to Yahweh\" in verses 1–2 creates emphatic urgency while the command extends progressively outward—from an unspecified audience to \"all the earth\" (*kol-ha'aretz*), establishing the universal scope that pervades the entire composition.",
+        "The polemic against other deities in verse 5 employs a striking wordplay: while the nations worship *elilim* (a term suggesting \"worthless things\" or \"nothings,\" possibly a deliberate deformation of *elohim*), Yahweh alone made the heavens. This theological claim situates Israel's God not as merely superior among divine beings but as ontologically distinct as Creator. The Hebrew term *kavod* (glory) and *hadar* (majesty) in verse 6 describe the theophanic presence characterizing Yahweh's sanctuary, linking earthly temple worship to cosmic reality.",
+        "The psalm's concluding section anticipates Yahweh's coming to judge (*shaphat*) the earth with righteousness and faithfulness. The personification of nature—sea roaring, fields exulting, trees singing—reflects ancient Near Eastern conventions while expressing the theological conviction that creation itself responds appropriately to its sovereign. The term *mishpat* encompasses both judicial verdict and the establishment of right order, suggesting that divine judgment represents not merely retribution but cosmic restoration. This eschatological horizon influenced later Jewish and Christian apocalyptic expectation, as the psalm envisions a future definitive manifestation of divine kingship already celebrated proleptically in worship."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 96: Prophetic perspective",
+      "overview": [
+        "Psalm 96 emerges from the liturgical life of Israel during the monarchic period, likely composed for temple worship in Jerusalem sometime after David brought the ark to the city, around 1000 BC. A nearly identical version appears in 1 Chronicles 16, where it forms part of the celebration when the ark entered Jerusalem. This places the psalm approximately one thousand years before Christ's advent, during the era of the united kingdom when Israel stood as a light among the nations, foreshadowing the universal reign of the coming Messiah.",
+        "Within the grand sweep of redemptive history, this psalm stands at the Kingdom stage, when God's throne was visibly established in Zion through David's dynasty. Yet the psalm strains forward with prophetic urgency, looking beyond Israel's borders to a day when all nations would stream to worship Yahweh. The command to \"sing to the LORD a new song\" signals eschatological anticipation—something unprecedented is coming that demands fresh praise.",
+        "The typological richness here is profound. The call for \"all the earth\" to sing, for families of nations to ascribe glory to the LORD, and for peoples to bring offerings into His courts prefigures the ingathering of Gentiles into the covenant community through Christ. What Israel enacted in shadow—the nations bringing tribute to Jerusalem's temple—finds its substance in the church, that living temple built from every tribe and tongue. The sanctuary where God's glory dwells is no longer confined to Zion's hill but inhabits His redeemed people scattered across the earth.",
+        "The eschatological declaration \"the LORD reigns\" reverberates across redemptive history. This enthronement language found initial fulfillment when Christ ascended to the Father's right hand, receiving all authority in heaven and earth. The principalities and powers that once held humanity captive were publicly defeated at the cross, and heaven's throne room now resounds with the proclamation that the Lamb who was slain is worthy. Yet the psalm's closing verses—\"He is coming to judge the earth\"—remain future. Creation itself groans for this moment when the righteous Judge will set all things right, when equity and truth will govern every nation.",
+        "The church now lives in the already-and-not-yet tension this psalm embodies. Christ reigns, yet His enemies have not become His footstool. The new song has begun, yet its final crescendo awaits His appearing. Until that day, believers join creation's chorus, declaring among the nations that the LORD reigns and anticipating the cosmic renovation when heaven and earth will sing in unison before their returning King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_096",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.388354+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

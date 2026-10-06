@@ -1,0 +1,54 @@
+{
+  "book": "Psalm",
+  "chapter": 38,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 38 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 38: Crying Out in the Wreckage",
+      "overview": [
+        "The spiritual heart of Psalm 38 is the honest cry of someone broken by sin and suffering, learning that even in our deepest distress, God remains present and attentive to our pain.",
+        "This psalm is a lament of terrible consequences. The psalmist describes physical and emotional devastation—his body wracked with pain, his wounds festering, his strength ebbing away, his friends and loved ones abandoning him. Yet notice what makes this psalm distinctly spiritual: he traces his anguish to his own guilt. \"There is no health in my bones because of my sin,\" he cries. He is not blaming God; he is owning the reality that his choices have created this wreckage. This honesty is both terrifying and liberating. Rather than hiding behind excuses or self-pity, he stands before God with unmasked vulnerability.",
+        "What strikes us most profoundly is his refusal to despair despite this devastation. Even in the darkness, he addresses God directly: \"Lord, all my desire is before you; my sighing is not hidden from you.\" He knows his pain matters to God. He believes, somehow, that God sees him in this ruin and does not turn away in disgust.",
+        "This psalm teaches us something essential about repentance and restoration. True sorrow for sin need not be quiet or dignified—it can be raw, physical, desperate. When we've brought consequences upon ourselves through poor choices, the path forward isn't denial or self-condemnation, but rather honest acknowledgment of what we've done and desperate appeal to God's steadiness. The psalmist doesn't promise that his confession will instantly heal his wounds. But he affirms that God is still there, still listening, still able to rescue.",
+        "Many of us know what it feels like to suffer under the weight of our own failures. What would change in your heart if you truly believed God receives even your most shameful confession with compassion rather than rejection?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 38: Scholarly study",
+      "overview": [
+        "Psalm 38 stands as one of the seven traditional penitential psalms of the Christian church, attributed to David according to its superscription, which also designates it as \"for the memorial offering\" (לְהַזְכִּיר, *lehazkir*), possibly connecting it to liturgical use alongside the grain offering described in Leviticus 2:2. This individual lament emerges from a context of profound physical affliction that the psalmist interprets through the lens of divine discipline, representing a theological perspective deeply rooted in ancient Israelite wisdom traditions that understood suffering as potentially connected to moral failure.",
+        "The psalm opens with urgent petition using the Hebrew verb יָכַח (*yakach*), meaning \"to rebuke\" or \"to correct,\" which carries forensic connotations of legal argumentation and appears frequently in wisdom literature. The psalmist does not deny wrongdoing but pleads for measured divine response rather than punishment administered in fierce anger (חֵמָה, *chemah*), a term denoting burning wrath. The graphic corporeal imagery that follows—arrows sunk deep, festering wounds, bent frame—reflects ancient Near Eastern conventions for describing illness while simultaneously employing metaphorical language for spiritual anguish.",
+        "Structurally, the psalm exhibits careful organization moving from acknowledgment of divine discipline through descriptions of physical deterioration, social abandonment, and enemy scheming, before concluding with renewed supplication. The threefold address to Yahweh as \"Lord\" in verses 15, 21, and 22 provides rhetorical anchoring. Particularly striking is the confession in verse 18 where the psalmist declares ongoing concern (דָּאַג, *da'ag*) for iniquity, suggesting not merely acknowledgment of past sin but present distress over its continuing effects.",
+        "The social dimension of suffering receives significant attention: friends and companions maintain distance, enemies plot, and the psalmist adopts postures of silence reminiscent of the servant figure in Isaiah 53. This intersection of physical ailment, social ostracism, and spiritual distress creates a comprehensive portrait of human vulnerability that has resonated across interpretive communities. Some scholars detect connections to Job's protestations, while others emphasize the psalm's distinctive integration of penitential acknowledgment with lament. The concluding appeal to Yahweh as \"my salvation\" (תְּשׁוּעָתִי, *teshu'ati*) reaffirms covenantal relationship despite present affliction, demonstrating that even profound suffering cannot sever the bond between the faithful and their God."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 38: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the period of the united monarchy, roughly a thousand years before Christ's incarnation, during the golden age of Israel's kingdom yet in a moment of profound personal anguish. David writes as a man under divine chastisement, his body wracked with affliction, his soul crushed beneath the weight of acknowledged transgression. Within the grand redemptive arc, this psalm stands in the Kingdom era—after God's covenant promises to Abraham and the deliverance from Egypt, yet centuries before the Babylonian exile would scatter the nation. Israel possessed the throne, the temple worship, and the sacrificial system, yet even the king himself discovered that no animal sacrifice could fully remove the crushing burden of guilt or heal the fundamental breach between sinful humanity and a holy God.",
+        "David's condition throughout this psalm functions as a living portrait of humanity's desperate state apart from redemptive grace. His bones have no soundness, his wounds fester and grow foul, he is bowed down and brought low, going about mourning all day long. His friends stand afar off, his loved ones keep their distance from his affliction. Here the typological shadows lengthen toward Golgotha, where Another would bear wounds not for His own iniquity but for ours, where the Sinless One would cry out under the weight of divine displeasure He willingly absorbed, where companions would scatter and loved ones would watch from a distance as His body was broken.",
+        "The psalm's most piercing cry—\"Do not forsake me, O LORD; O my God, be not far from me\"—echoes forward through the centuries until it reaches its ultimate utterance from the lips of Christ Himself: \"My God, my God, why have You forsaken me?\" What David feared, Jesus experienced in full. The chastisement David endured as discipline, Christ endured as substitutionary judgment. The silence of heaven that threatened to swallow the psalmist actually descended upon the Son at Calvary, that we might never taste that abandonment ourselves.",
+        "For the church dwelling between the advents, this psalm teaches us to bring our full brokenness before God without pretense, knowing that our Great High Priest has already borne the ultimate weight of divine wrath. We confess sin not to earn favor but because favor has already been secured through blood. And we wait, as David waited, for the LORD who is both our salvation and our haste to help—the One who came once in suffering and will come again in glory to make all wounds whole."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_038",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.228268+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

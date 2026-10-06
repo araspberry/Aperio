@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 37,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 37 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 37: Trust When Everything Feels Unjust",
+      "overview": [
+        "This psalm speaks to the deepest ache of the human heart: the raw unfairness of watching wicked people prosper while the righteous suffer. Yet rather than demanding explanations from God, the psalmist offers us something far more healing—an invitation to trust that God's justice moves according to a timetable we cannot see, and that our peace lies not in revenge but in surrender.",
+        "The psalmist keeps returning to a single refrain: \"Do not fret\" (verses 1, 7, 8). This is not shallow optimism or denial of real suffering. It is a mother's voice saying, gently but firmly, \"I know your pain, but anguish will destroy you from within.\" The repeated command suggests this is our hardest work—to release the bitterness that festers when we fixate on others' wrongdoing. When we find ourselves obsessing over someone else's success or scheming, the psalmist diagnoses the real disease: we have stopped trusting God's character.",
+        "What makes this psalm so beautiful is its realism. It does not deny that \"the wicked draw the sword and bend their bows\" (verse 14). Evil is real. Injustice is real. But the psalmist has discovered something deeper: the wicked are ultimately fragile. They are like grass that withers and flowers that fade. Their prosperity has an expiration date written by God's own hand. Meanwhile, those who delight in God and commit their way to Him discover something the wicked never will—a settled peace that outlasts circumstances.",
+        "This is how we live in an unjust world without becoming consumed by it. We stop monitoring the scoreboard. We turn our attention toward what God is doing in our own small plot of earth. We cultivate righteousness not because it guarantees earthly reward, but because it connects us to the God who will ultimately make all things right.",
+        "What injustice in your world tempts you toward anxiety rather than trust? How might your peace grow if you released the outcome to God's hands today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 37: Scholarly study",
+      "overview": [
+        "Psalm 37, attributed to David according to its superscription, represents one of the finest examples of wisdom poetry within the Psalter, bearing remarkable thematic and structural affinities with the book of Proverbs and the broader ancient Near Eastern wisdom tradition. The psalm is composed as an acrostic, with successive units beginning with consecutive letters of the Hebrew alphabet, a mnemonic device that both aids memorization and signals the comprehensive nature of its teaching. This literary form, while imposing certain constraints on the poet, demonstrates considerable artistry in maintaining thematic coherence throughout.",
+        "The central theological tension animating the psalm concerns the apparent prosperity of the wicked (*rĕšāʿîm*) and the corresponding anxiety this provokes among the righteous. The opening imperatives—\"do not fret\" (ʾal-titḥar)—recur strategically throughout the composition, addressing the perennial human struggle with theodicy. The Hebrew verb *ḥārâ* carries connotations of burning anger or heated agitation, suggesting that the psalmist recognizes the visceral, emotional nature of this spiritual challenge rather than treating it as mere intellectual curiosity.",
+        "The promised inheritance of the land (*ʾereṣ*) constitutes a central motif, appearing seven times throughout the psalm. This terminology deliberately evokes the Abrahamic and Mosaic covenant traditions, grounding the wisdom instruction in Israel's foundational theological narrative. The righteous who wait patiently for Yahweh will possess the land, while the wicked, despite temporary flourishing, face inevitable destruction. Interpreters have debated whether this land promise should be understood literally, eschatologically, or metaphorically as divine blessing more broadly conceived.",
+        "The psalm's placement within Book I of the Psalter creates instructive canonical resonances with adjacent compositions addressing the fate of the righteous sufferer. The temporal perspective proves crucial to the psalm's argument: what appears as injustice in the short term resolves into divine justice when viewed across a longer horizon. The sage voice of verse 25—\"I have been young, and now am old\"—lends experiential authority to this claim. Contemporary readers must wrestle with whether the psalm's confident retributive framework adequately addresses the complexity of innocent suffering, a tension the canonical inclusion of Job and Ecclesiastes suggests Israel itself recognized."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 37: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the early monarchic period, approximately 1000 years before Christ's incarnation, composed by the king in his mature years as he reflects upon a lifetime of witnessing both the apparent triumph of the wicked and the ultimate vindication of the righteous. Within redemptive history, this wisdom psalm stands in the age of the kingdom, when God's anointed ruler sat upon the throne in Jerusalem, foreshadowing that greater Son of David whose eternal reign would perfectly resolve the tension between present injustice and future restoration.",
+        "David addresses the perennial scandal that troubled the saints of every age—the prosperity of the wicked and the suffering of the righteous. Yet his answer is thoroughly eschatological, repeatedly promising that the meek shall inherit the land. This phrase reverberates across the centuries until Christ Himself takes it upon His lips in the Beatitudes, transforming the promised land into the promised earth, the kingdom inheritance awaiting those who trust in the Lord rather than grasping power through violence. Here typology shimmers beneath the surface: the land of Canaan, given to Abraham's seed, becomes a shadow of the new creation, the heavenly country that the patriarchs truly sought.",
+        "The psalm's central exhortation—\"Commit your way to the LORD, trust also in Him, and He shall bring it to pass\"—finds its perfect embodiment in Christ, who entrusted Himself to the Father even unto death. Where David counseled patience before enemies, Jesus practiced it before Pilate, Herod, and the cross. The righteous sufferer of this psalm is ultimately the Righteous One, whose vindication came not merely in temporal deliverance but in resurrection from the dead. His righteousness shone forth like the noonday when the Father raised Him and seated Him at His right hand.",
+        "The eschatological tension remains palpable for the church living between the advents. The wicked still flourish momentarily; the faithful still wait for vindication. Yet David's prophetic certainty anchors hope: evildoers shall be cut off, but those who wait on the Lord shall inherit the earth. This promise stretches forward to that day when Christ returns to judge the living and the dead, when every wrong shall be righted, when the meek shall finally receive their inheritance in a renewed creation purged of all wickedness.",
+        "For the pilgrim church, this psalm teaches the discipline of holy waiting—not passive resignation but active trust, knowing that the final word belongs to the King whose kingdom shall never end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_037",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.226035+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

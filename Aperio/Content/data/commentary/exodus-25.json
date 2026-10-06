@@ -1,0 +1,55 @@
+{
+  "book": "Exodus",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 25: Building a Dwelling Place for God",
+      "overview": [
+        "The heart of this passage beats with a profound truth: God desires intimate nearness with His people and invites them into partnership in creating the very space where His presence will dwell. Having delivered Israel from Egypt and established covenant at Mount Sinai, the Lord now calls His people to build a sanctuary—not as a monument to human achievement, but as a concrete expression of belonging to God.",
+        "Notice how the passage begins: \"Tell the Israelites to bring me an offering.\" This is not compulsory taxation but invitation. God asks His people to contribute from their own resources—gold, silver, bronze, fine linen, acacia wood—materials they had received from Egypt or possessed in the wilderness. In giving these gifts, the Israelites participate in making space for God among themselves. This transforms the building project from mere construction into an act of worship and covenant solidarity.",
+        "The detailed instructions for the ark, the table, and the lampstand reveal something essential about God's nature. These are not arbitrary designs but symbols of His presence and care. The ark holds the testimony of God's law and covenant. The table bears bread representing God's provision. The lampstand's perpetual light embodies His constancy. Each element speaks of a God who wants to be known, remembered, and encountered by His people in concrete, tangible ways.",
+        "This echoes our own experience of faith. Just as ancient Israel was invited to participate in building God's earthly sanctuary, believers today are called to make their lives, homes, and communities places where God's presence can be known and experienced. Every act of hospitality, every moment of worship, every choice to reflect God's character becomes a brick in the sanctuary we're building together.",
+        "What spaces in your life could become more intentionally devoted to encountering God's presence? How might your home, work, or relationships reflect that you are inviting the Lord to dwell there?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 25: Scholarly study",
+      "overview": [
+        "Exodus 25 marks a pivotal transition in the Pentateuchal narrative, inaugurating the lengthy Tabernacle instructions that dominate the remainder of Exodus. Following the theophany at Sinai and the covenant ratification in chapters 19–24, Moses ascends the mountain to receive detailed divine blueprints for Israel's portable sanctuary. This shift from narrative to prescriptive legislation reflects ancient Near Eastern patterns wherein covenant establishment was followed by provisions for ongoing divine-human communion. The chapter divides into three main sections: the call for voluntary offerings (vv. 1–9), instructions for the ark and mercy seat (vv. 10–22), and specifications for the table of showbread (vv. 23–30) and golden lampstand (vv. 31–40).",
+        "The Hebrew term *terumah* (תְּרוּמָה), appearing prominently in verse 2, denotes a \"contribution\" or \"heave offering,\" emphasizing the elevation or setting apart of materials for sacred purposes. Significantly, Yahweh commands that these offerings come only from those whose hearts compel them (*yiddevennû libbô*), establishing the principle of voluntary, heartfelt worship as foundational to Israelite cultic practice. The materials enumerated—gold, silver, bronze, fine linens, animal skins, acacia wood, and precious stones—represent the finest available, likely acquired during the exodus from Egypt as noted in Exodus 12:35–36.",
+        "Central to this chapter is the *kappōret* (כַּפֹּרֶת), traditionally rendered \"mercy seat,\" though its etymology connects to the Hebrew root *k-p-r* meaning \"to cover\" or \"to atone.\" This golden lid, adorned with cherubim whose wings create a throne-like space, represents the earthly footstool of Yahweh's heavenly throne. The declaration that God will meet Moses \"from above the mercy seat, from between the two cherubim\" (v. 22) establishes this as the locus of divine presence and revelation.",
+        "The concluding admonition to construct everything \"according to the pattern\" (*tabnît*) shown on the mountain (v. 40) has generated considerable theological reflection, particularly in Hebrews 8:5, where the author interprets the earthly sanctuary as a shadow of heavenly realities. This concept resonates with broader ancient Near Eastern beliefs that earthly temples corresponded to cosmic archetypes, positioning Israel's worship within creation's sacred order."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 25: Prophetic perspective",
+      "overview": [
+        "Exodus 25 emerges from the wilderness of Sinai approximately 1446 years before the incarnation of Christ, merely months after Israel's dramatic liberation from Egyptian bondage. This chapter marks a pivotal transition in redemptive history—God has redeemed His people through blood and water at Passover and the Red Sea, and now He reveals His intention to dwell among them. Within the grand arc of Scripture, this passage stands between the Exodus deliverance and the establishment of Israel's worship, preparing the way for the tabernacle that will serve as the meeting place between holy God and sinful humanity until Solomon's temple arises nearly five centuries later.",
+        "The divine command opens with an invitation to willing-hearted generosity: \"from every man whose heart moves him you shall receive the contribution.\" Here already is foreshadowed the new covenant reality that acceptable worship flows not from compulsion but from hearts transformed by grace. The materials specified—gold, silver, bronze, precious fabrics, costly stones—represent the complete dedication of earthly wealth to heavenly purposes, a pattern fulfilled when the early church laid everything at the apostles' feet and ultimately perfected when the nations bring their glory into the New Jerusalem.",
+        "The ark of the covenant, overlaid with pure gold and crowned with the mercy seat, stands as the supreme type of Christ in this passage. Between the cherubim, above the place where atoning blood would be sprinkled, God promised to meet with Moses and speak His commands. This mercy seat—*kapporeth* in Hebrew, rendered *hilasterion* in the Greek Old Testament—is the very word Paul employs in Romans 3:25 to describe Christ Jesus, \"whom God put forward as a propitiation by his blood.\" The ark contained the tablets of the law that condemned humanity, yet the mercy seat covered that condemnation, declaring that God would relate to His people through atonement rather than judgment.",
+        "The table of showbread pointed forward to Christ as the bread of life, perpetually set before the Father's face on behalf of His people. The golden lampstand, hammered from a single talent of pure gold with its seven branches, prefigured Christ as the light of the world and the sevenfold Spirit illuminating the church.",
+        "What remains unfulfilled is the ultimate purpose declared in verse eight: \"Let them make me a sanctuary, that I may dwell in their midst.\" This longing finds progressive fulfillment—in the incarnate Word who tabernacled among us, in the church as God's living temple, and finally in Revelation 21 when the dwelling place of God is eternally with man, requiring no temple, for the Lord God Almighty and the Lamb are its temple."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.824741+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

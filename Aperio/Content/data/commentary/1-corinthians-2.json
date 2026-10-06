@@ -1,0 +1,57 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 2: The Wisdom That Changes Everything",
+      "overview": [
+        "The deepest reality of Christian faith is not found in human cleverness or impressive rhetoric, but in the cross of Christ and the power of God's Spirit working through our weakness and simplicity.",
+        "Paul opens this letter knowing he faces a church fracturing over status and sophistication. The believers in Corinth were impressed by eloquent speakers and worldly wisdom, so Paul deliberately establishes a counterintuitive foundation: the gospel was not delivered through the polished arguments of Greek philosophy but through a crucified Messiah. When Paul came to them, he came \"in weakness and in fear and in much trembling\" (verse 3). He wasn't trying to impress anyone. He was simply announcing Jesus, knowing that the power to transform lives doesn't reside in human words but in God's Spirit.",
+        "This strikes at something we desperately need to remember. We live in an age of personal branding, self-promotion, and carefully curated impressions. We measure success by followers, influence, and eloquence. The world tells us that the most impressive person in the room wins. But Paul insists that God's wisdom—demonstrated through a carpenter executed as a criminal—shatters human categories of prestige entirely. The cross looks like foolishness to those relying on worldly standards, yet it contains the only true power that remakes hearts and resurrects the dead.",
+        "What changes lives in our churches isn't the slickest presentation or the smartest pastor. It's the faithful preaching of Christ, combined with the Holy Spirit's work in human hearts. When we try to make the gospel more appealing through human ingenuity, we actually diminish its power. The Spirit works through simplicity, truth, and authentic witness.",
+        "This invitation applies to each of us. We don't need to master impressive arguments to share our faith. We simply need the Spirit's courage to speak Christ plainly and trust that God's Word accomplishes what it's sent to do.",
+        "What if you stopped trying to make your faith sound impressive and simply let Jesus speak for himself?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 2: Scholarly study",
+      "overview": [
+        "The second chapter of Paul's first letter to the Corinthians continues the apostle's sustained critique of worldly wisdom that dominates the epistle's opening section. Written from Ephesus around 55 CE, this correspondence addresses a community fractured by factionalism, with various groups claiming allegiance to different teachers. Paul here develops his theological rationale for rejecting rhetorical sophistication in favor of a message centered entirely on the crucified Christ.",
+        "Paul opens with autobiographical reflection, recalling his initial preaching at Corinth as deliberately avoiding the persuasive techniques prized in Greco-Roman oratory. The term *sophia* (wisdom) appears repeatedly throughout, functioning as a technical designation for the philosophical and rhetorical education that conferred social status in ancient Mediterranean culture. Paul's admission of \"weakness\" (*astheneia*) and \"fear\" (*phobos*) subverts conventional expectations of authoritative speech, suggesting that divine power operates paradoxically through human inadequacy. This rhetorical self-deprecation serves a profoundly theological purpose: ensuring that faith rests upon God's power rather than human eloquence.",
+        "The chapter pivots at verse six, where Paul introduces a crucial distinction between the wisdom of \"this age\" (*aiōn*) and the hidden wisdom of God predetermined before the ages. This apocalyptic framework positions the cross as the decisive revelation that exposes the ignorance of cosmic and earthly rulers alike. The citation in verse nine, loosely drawn from Isaiah 64:4, emphasizes the discontinuity between divine and human modes of knowing.",
+        "The passage culminates in an exposition of pneumatological epistemology. The Spirit (*pneuma*) searches the depths of God and communicates divine wisdom to believers. Paul contrasts the \"natural person\" (*psychikos anthrōpos*) with the \"spiritual person\" (*pneumatikos*), establishing categories that would significantly influence later Christian anthropology and prove contentious in gnostic appropriations of this text. The chapter concludes with the striking claim that believers possess \"the mind of Christ\" (*noun Christou*), asserting that participation in Christ through the Spirit grants access to otherwise inaccessible divine purposes.",
+        "Interpreters debate whether Paul entirely rejects rhetoric or merely certain pretentious forms of it. His sophisticated argumentation suggests the latter, indicating that his critique targets not persuasion itself but misplaced confidence in human wisdom divorced from cruciform revelation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 2: Prophetic perspective",
+      "overview": [
+        "The first letter to the Corinthians was penned by the apostle Paul around 55 AD, approximately twenty-two years after the resurrection and ascension of Christ, during the explosive growth of the early church throughout the Roman Empire. This places the passage firmly within the inaugurated kingdom age—that mysterious era between Pentecost and the Parousia when the Spirit has been poured out, the new covenant is operative, yet the full consummation of all things remains future. Within the grand arc of redemptive history, we stand here in the Church Age, that pregnant interval where the already and the not-yet overlap like the first rays of dawn breaking while night still lingers.",
+        "Paul's declaration that he came proclaiming not with lofty speech but determined to know nothing except Jesus Christ and him crucified reveals the scandal at the heart of redemptive history. The cross—that shameful instrument of Roman execution—has become the axis upon which all of God's purposes turn. What Israel's prophets glimpsed in shadows through the suffering servant of Isaiah 53, what the Passover lamb typified in Exodus, what the brazen serpent lifted in the wilderness foreshadowed—all find their substance in the crucified Messiah. The wisdom of God hidden for ages has been unveiled not through philosophical sophistication but through apparent weakness and folly.",
+        "The Spirit's role in revealing these mysteries fulfills the prophetic promises of Joel and Ezekiel concerning the new covenant age. What eye has not seen nor ear heard, what never entered the human heart, God has prepared for those who love him—and the Spirit searches even the depths of God to disclose these treasures. This is the eschatological gift par excellence: the mind of Christ given to his people. The natural person cannot receive these things because they are spiritually discerned; a categorical distinction exists between those indwelt by the Spirit and those yet outside covenant life.",
+        "Here the rulers of this age stand exposed in their tragic blindness—had they understood, they would not have crucified the Lord of glory. Their ignorance served God's hidden purposes, and thus the cross becomes simultaneously humanity's greatest crime and God's greatest triumph.",
+        "For the church journeying between the advents, this passage anchors our confidence: we possess not merely human wisdom but divine revelation through the indwelling Spirit. The same power that raised Christ from the dead illuminates our understanding, enabling us to grasp realities that angels longed to comprehend, sustaining us until that day when we shall know fully, even as we are fully known."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.779821+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

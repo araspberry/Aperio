@@ -1,0 +1,56 @@
+{
+  "book": "Numbers",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Numbers 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Numbers 11: The Burden of Faithlessness and God's Persistent Mercy",
+      "overview": [
+        "The spiritual heart of this passage rests on a painful paradox: God's people, having witnessed His miraculous deliverance, find themselves gripped by ingratitude and complaint, testing the very patience that saved them. What unfolds is not merely a story of wilderness wandering, but an examination of how quickly faith gives way to nostalgia and doubt.",
+        "The Israelites' complaint about the manna—bread they called contemptible despite its miraculous provision—reveals something devastating about the human heart. They remember Egypt's food with longing, conveniently forgetting the whips, the bondage, and the hopelessness. This isn't simple hunger; it's spiritual amnesia. They want the comforts of slavery more than they want the freedom that demands trust. Moses, burdened by their relentless grumbling, reaches his breaking point and cries out to God with raw honesty: he cannot carry this people alone.",
+        "God's response is striking. Rather than consuming the complainers in judgment, He does something surprising—He shares the burden. He instructs Moses to gather seventy elders and pours His Spirit upon them, distributing the weight of leadership. Even two who missed the gathering receive the Spirit and prophesy. God could have crushed the rebellion, but instead He multiplies the shoulders bearing the load. The quail He sends becomes both provision and judgment; their hunger is satisfied, but so is their desire for judgment.",
+        "This passage speaks directly to the weariness we experience when faith falters. How often do we find ourselves complaining about God's provision, longing for old struggles because they felt more real than present uncertainty? More important still, it shows us a God who doesn't abandon His people even when they fail, but rather transforms their rebellion into an opportunity for deeper community and shared responsibility.",
+        "What comfort or provision from God have you recently overlooked or forgotten? How might you invite others into bearing life's burdens together rather than facing them alone?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Numbers 11: Scholarly study",
+      "overview": [
+        "Numbers 11 represents a pivotal narrative within the wilderness wanderings, marking a significant transition from the Sinai revelation to the extended journey toward Canaan. This chapter, situated within the broader murmuring tradition of the Pentateuch, presents two interconnected episodes that expose the escalating tensions between Yahweh, Moses, and the Israelite community approximately one year after the exodus.",
+        "The chapter opens with an unnamed complaint at Taberah, where divine fire consumes the camp's outskirts—a motif connecting this narrative to theophanic traditions throughout the Hebrew Bible. The subsequent and more extensive episode centers on the people's craving for meat, introduced through the Hebrew term *hit'avvah* (התאוו), expressing intense, almost obsessive desire. This lexeme carries connotations beyond mere hunger, suggesting a fundamental rejection of divine provision and a nostalgic idealization of Egyptian bondage. The catalog of remembered foods—fish, cucumbers, melons, leeks, onions, and garlic—functions rhetorically to contrast perceived Egyptian abundance with the perceived monotony of manna.",
+        "Moses' response constitutes one of Scripture's most candid prophetic laments. His rhetorical questions to Yahweh employ striking maternal imagery: \"Did I conceive (*harithi*) all this people? Did I give them birth (*yelidtihu*)?\" This language challenges the boundaries of Moses' mediatorial role while simultaneously affirming that Israel's ultimate parentage belongs to Yahweh alone. The prophet's expressed death wish echoes similar prophetic despair found in Elijah's flight and Jeremiah's confessions.",
+        "The divine response addresses both the leadership crisis and the people's complaint. The distribution of Moses' spirit (*ruach*) upon seventy elders establishes a paradigm for shared charismatic leadership, while Eldad and Medad's unauthorized prophesying within the camp raises questions about institutional versus spontaneous spiritual authority. Moses' generous response—\"Would that all Yahweh's people were prophets\"—anticipates Joel's later eschatological vision.",
+        "The quail narrative concludes with severe judgment at Kibroth-hattaavah (\"graves of craving\"), where the very object of desire becomes an instrument of divine discipline. This episode illustrates a persistent Pentateuchal theme: that testing in the wilderness reveals both human faithlessness and divine patience, with consequences that shape Israel's covenantal identity throughout subsequent canonical tradition."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Numbers 11: Prophetic perspective",
+      "overview": [
+        "Numbers 11 unfolds approximately 1,445 years before Christ's birth, roughly one year after the exodus from Egypt, as Israel journeys from Sinai toward the promised land. This chapter records events during the wilderness wandering period, situated within the grand redemptive arc between the Exodus deliverance and the eventual establishment of the Davidic kingdom—a liminal season of testing where God was forming a covenant people through trial and provision.",
+        "The narrative opens with Israel's complaint and divine fire consuming the camp's edges, establishing a solemn pattern that echoes throughout Scripture: murmuring against God's provision invites judgment. Yet the deeper crisis emerges when the mixed multitude's craving for Egypt's foods infects the congregation. They weep for leeks, onions, garlic, and flesh, despising the manna—that mysterious bread from heaven which sustained them daily. Here lies a profound typological reality, for Christ Himself declared, \"I am the bread which came down from heaven\" and rebuked those who, like their wilderness fathers, ate manna yet died. Israel's rejection of heaven's bread foreshadows humanity's perennial rejection of Christ, preferring the fleeting satisfactions of the world to the eternal sustenance God freely gives.",
+        "Moses' complaint reveals the crushing burden of mediatorial leadership, crying out that he cannot carry this people alone. God's response points prophetically forward: the Spirit resting upon Moses is distributed among seventy elders, who then prophesy. This multiplication of Spirit-anointed leadership anticipates Pentecost, when the Spirit would be poured out not merely on prophets and elders but upon all flesh. The seventy elders receiving Moses' spirit typologically shadow the church receiving Christ's Spirit, equipped to shepherd God's pilgrim people through their own wilderness journey.",
+        "The quail judgment that follows carries eschatological weight. God grants Israel's craving but sends leanness into their souls—the meat is still between their teeth when plague strikes. This severe mercy warns that God sometimes gives what rebellious hearts demand, yet such gifts apart from gratitude become graves of lust, hence the name Kibroth-hattaavah.",
+        "For the church dwelling between Christ's advents, Numbers 11 speaks with urgent relevance. Believers traverse their own wilderness, tempted to despise daily manna—the Word, the sacraments, Christ Himself—while craving Egypt's passing pleasures. Yet the Spirit has been given, leadership multiplied, and the true Promised Land awaits. May the church learn from Israel's graves of craving, feeding instead on the Bread of Life until faith becomes sight."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "04_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.030941+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

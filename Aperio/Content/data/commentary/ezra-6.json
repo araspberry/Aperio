@@ -1,0 +1,55 @@
+{
+  "book": "Ezra",
+  "chapter": 6,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezra 6 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezra 6: When God Completes What He Begins",
+      "overview": [
+        "The completion of the temple stands as a profound reminder that God's purposes cannot be thwarted by human opposition, and that His faithfulness extends across the longest seasons of waiting and struggle. Ezra 6 records the triumphant finishing of what the first generation began decades earlier—a monument to perseverance, answered prayer, and the sovereign hand of the God who orchestrates history.",
+        "The opposition that threatened the temple's construction in earlier chapters finds its answer here. King Darius, unlike his predecessor, investigates the original decree from Cyrus and affirms the Jewish builders' right to continue. What strikes the heart is how God uses a pagan king's administrative diligence to accomplish His purposes. This reveals a truth many disciples need: God works through unexpected channels and secular authorities cannot ultimately obstruct His will. The temple rises not because circumstances became ideal, but because God's people persisted through hardship while trusting His sovereignty.",
+        "When the temple is finally dedicated, the passage records celebration mixed with weeping. Some who remembered the glory of Solomon's original temple wept at the diminished splendor of this one, yet joy overwhelmed the sorrow. This captures something true about faithful obedience: the fruit of our labor often looks different than we imagined, yet it remains precious because it represents God's faithfulness, not our achievement.",
+        "The Passover celebration that follows the dedication connects the temple's completion to God's redemptive history. The people were not simply finishing a building; they were restoring their place in God's covenant story. They were positioning themselves once again as worshippers of the God who had brought them through exile, opposition, and discouragement.",
+        "For modern disciples, this passage invites examination of delayed promises and incomplete victories in our own lives. Are there spiritual projects you've begun but struggle to complete? Does opposition tempt you to surrender God's work? The God who finished the temple invites you to trust that His purposes will ultimately prevail.",
+        "What unfinished work in your spiritual life is God calling you to complete with fresh courage?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezra 6: Scholarly study",
+      "overview": [
+        "Ezra 6 represents a pivotal turning point in the post-exilic restoration narrative, documenting the successful conclusion of the temple reconstruction project that had been initiated under Cyrus but subsequently halted during the reign of Cambyses and the early years of Darius I. The chapter divides naturally into two movements: the discovery of Cyrus's original decree and Darius's confirmatory edict (verses 1–12), followed by the temple's completion and the celebratory Passover observance (verses 13–22). The transition from Aramaic, which characterizes the correspondence sections, continues through verse 18 before returning to Hebrew in the Passover narrative, reflecting the bilingual nature of official Persian administrative documents and their preservation within Jewish historiography.",
+        "The search for Cyrus's decree takes place in Ecbatana (Aramaic: *Achmetha*), the summer residence of Persian monarchs, where a memorandum (*dikronah*) is discovered rather than a formal decree. This archival terminology carries significant weight, as it suggests an internal administrative record rather than a public proclamation, lending authenticity to the account. Darius's response demonstrates the Persian imperial policy of supporting local religious institutions, a practice well-attested in contemporary sources including the Cyrus Cylinder and various Egyptian temple restoration edicts.",
+        "The dedication ceremony described employs the term *ḥanukkah*, cognate with the later festival commemorating the Maccabean rededication, though considerably more modest in its sacrificial offerings compared to Solomon's original dedication. The twelve male goats offered as a sin offering \"for all Israel\" (verse 17) carries profound theological significance, asserting the continuity between the restored community and the twelve-tribe confederation despite the apparent absence of the northern tribes.",
+        "The Passover celebration concluding the chapter presents interpretive complexity, particularly regarding those who \"separated themselves from the uncleanness of the nations\" (verse 21). Scholarly debate continues whether this phrase references returning exiles who had maintained ritual purity, non-exiled Judeans who now aligned with the restoration community, or perhaps foreigners who adopted Yahwistic worship. This ambiguity reflects emerging tensions regarding community boundaries that would intensify throughout Ezra-Nehemiah, foreshadowing the later marriage crisis while simultaneously emphasizing the inclusive joy attending the temple's completion under divine providence and Persian authorization."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezra 6: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 516 years before the birth of Christ, marking the triumphant completion of the second temple under the decree of the Persian king Darius. The events recorded here span roughly four years from the prophetic ministries of Haggai and Zechariah to the temple's dedication, situated firmly within the post-exilic restoration period. On the grand arc of redemption, this passage stands at the hinge between exile and the long prophetic silence that would precede the Incarnation—a moment when God demonstrates His sovereign power over pagan empires to accomplish His purposes for His covenant people.",
+        "The discovery of Cyrus's original decree in the fortress of Ecbatana reveals a stunning pattern of divine providence working through secular archives. What the enemies of Judah intended for harm—requesting an official search of royal records—God transformed into the very instrument of their defeat. Darius not only confirms the original permission but expands it with royal treasury funds and severe penalties against interference. Here the prophetic principle emerges: the kings of the earth may rage and plot, yet the Lord who sits in heaven holds their decrees in His hand, turning the wrath of man to praise Him.",
+        "The temple's completion and dedication on the third day of Adar carries typological weight that reverberates through Scripture. This house, though inferior in glory to Solomon's temple according to those who wept at its foundation, becomes the very structure where the Word made flesh would teach, cleanse, and declare Himself greater than the temple itself. The Passover celebration recorded in the chapter's closing verses points both backward to Egypt's deliverance and forward to the true Paschal Lamb whose blood would inaugurate an exodus from sin's dominion. The priests and Levites purifying themselves, standing in their divisions, foreshadow the royal priesthood of all believers who now serve in the true temple not made with hands.",
+        "The phrase \"the God of Israel\" echoes throughout this chapter, even from Persian lips, testifying that Yahweh alone orchestrates the rise and fall of empires for His redemptive purposes. The joy of that Passover feast—kept by returned exiles joined by those who had separated themselves from the uncleanness of the nations—prefigures the eschatological feast when every tribe and tongue will celebrate the marriage supper of the Lamb. For the church dwelling between the advents, Ezra 6 declares that no political power, no bureaucratic opposition, no delay of decades can frustrate what God has decreed. The temple is built. The feast is kept. The King is coming."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "15_006",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.880515+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

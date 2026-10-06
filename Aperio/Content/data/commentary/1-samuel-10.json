@@ -1,0 +1,55 @@
+{
+  "book": "1 Samuel",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 10: The Hidden Kingdom",
+      "overview": [
+        "Samuel anoints Saul in secret, setting him apart as Israel's first king, yet God works through hidden signs and quiet affirmations to prepare him for a calling he doesn't yet understand. This passage teaches us that God's election often precedes our awareness, and His leading frequently comes through small confirmations rather than dramatic announcements.",
+        "When Samuel anoints Saul with oil, something profound shifts in the spiritual realm, though the visible world seems unchanged. Saul remains in his father's fields, unaware of the weight now upon him. Yet God immediately provides three signs—a lost donkey found, provision from a stranger, and ecstatic prophecy—each one a whispered confirmation that Samuel's word was true. These aren't flashy miracles but intimate moments of reassurance designed for Saul's heart alone.",
+        "This reflects how God often leads us. We receive a word, a calling, or a sense of direction that seems too large or too strange to be true, and we wait. Then small mercies arrive. A conversation that perfectly speaks to our doubt. A door that opens when we needed guidance. A friend's unexpected encouragement. These are God's signs to us, breadcrumbs of assurance along the path of faith.",
+        "Yet notice that Saul keeps silent. He doesn't broadcast what he's experienced; he carries the anointing quietly. There's wisdom here about spiritual maturity—the truest confirmations are often kept close to the heart, pondered rather than proclaimed. Our deepest convictions about God's calling don't need social validation. They need time, prayer, and the kind of discernment that comes only through patient obedience.",
+        "When Saul's identity is eventually revealed publicly at Mizpah, the people recognize something true about him because his character has been quietly developing in the hidden place. God's calling seasons us inwardly before it exposes us outwardly.",
+        "What small signs has God given you recently that confirm His leading? How might you honor those whispers by keeping them in your heart until He brings them fully to light?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 10: Scholarly study",
+      "overview": [
+        "The tenth chapter of 1 Samuel marks a pivotal transition in Israel's political history, narrating the private anointing and public selection of Saul as Israel's first king. This passage must be understood within the broader Deuteronomistic History's ambivalent presentation of monarchy, which simultaneously acknowledges kingship as divinely permitted while subtly critiquing its establishment as a departure from theocratic ideals. The chapter divides naturally into three movements: Samuel's anointing of Saul with confirmatory signs (vv. 1–13), Saul's return home and reticence about the kingship (vv. 14–16), and the public lot-casting ceremony at Mizpah (vv. 17–27).",
+        "The anointing ritual employs the verb *mashach* (מָשַׁח), from which the term \"messiah\" derives, establishing Saul as Yahweh's designated *nagid* (נָגִיד), a term better rendered \"designated leader\" or \"prince\" rather than simply \"king\" (*melek*). This lexical distinction may reflect an early attempt to differentiate Israelite leadership from surrounding Canaanite monarchies, though scholars debate whether this represents authentic early tradition or later theological reflection. The confirmatory signs—particularly Saul's prophetic ecstasy among the prophets—introduce the memorable proverb \"Is Saul also among the prophets?\" which the narrator presents etiologically. The phrase *libbô ʾaḥēr* (\"another heart,\" v. 9) suggests divine transformation, though whether this constitutes permanent spiritual change or temporary charismatic empowerment remains contested in scholarship.",
+        "The Mizpah assembly scene employs sacred lot-casting (*gôrāl*), demonstrating that despite popular demand for a king, divine sovereignty controls the selection process. Saul's concealment among the baggage (*kēlîm*) has generated diverse interpretations—some reading it as genuine humility befitting a modest leader, others detecting narrative foreshadowing of Saul's later psychological instability and inadequacy. The chapter concludes with societal division: \"worthless fellows\" (*bĕnê bĕliyyaʿal*) question Saul's legitimacy while he maintains dignified silence. This tension anticipates the ongoing conflict between prophetic authority and royal power that dominates Samuel-Kings. Canonically, this passage establishes patterns of anointing, spirit-empowerment, and popular acclamation that inform later Davidic messianism and ultimately New Testament christological reflection."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 10: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1050 years before the birth of Christ, during the transitional period when Israel moved from the era of judges to the establishment of monarchy. Samuel, the last judge and a prophet of the Lord, here anoints Saul as Israel's first king, marking a pivotal moment in redemptive history that stands between the period of tribal confederation and the kingdom era that would eventually produce David's throne—the very throne upon which Christ would eternally sit.",
+        "The anointing of Saul carries profound typological weight. Samuel pours oil upon Saul's head and kisses him, declaring him \"captain over his inheritance.\" This sacred anointing ritual—the Hebrew word *mashach* from which we derive \"Messiah\"—establishes a pattern that reaches its ultimate fulfillment in Jesus of Nazareth, the Anointed One par excellence. Yet Saul stands as a shadow that reveals by contrast; he is the king Israel wanted, chosen for his impressive stature and outward appearance, while David, and ultimately Christ, would be the king after God's own heart, chosen not by human estimation but by divine election.",
+        "The signs given to Saul—the donkeys found, the provisions received, the encounter with prophets—demonstrate God's sovereign orchestration of circumstances to confirm His word. Most striking is the promise that the Spirit of the Lord would come upon Saul and transform him into \"another man.\" This temporary endowment of the Spirit under the old covenant anticipates Pentecost, when the Spirit would permanently indwell all believers, making them new creations in Christ. Saul's prophesying among the prophets so astonished observers that it became a proverb, yet this charismatic gifting would later depart from him—a sobering reminder that external manifestations without heart transformation prove insufficient.",
+        "Samuel's summoning of Israel to Mizpah for the public selection reveals another layer: though God grants their request for a king, He ensures the nation understands this represents their rejection of divine kingship. The lot falls to Saul, hiding among the baggage—an inauspicious beginning that foreshadows his eventual failure of courage and faith. Some valiant men followed him, while worthless men despised him, a division that would attend every anointed leader until Christ Himself would face rejection by His own.",
+        "For the church awaiting her returning King, this chapter teaches that human institutions, even those ordained by God, remain provisional. Every earthly throne points beyond itself to the throne of the Lamb, where Christ reigns as the true Anointed One whose kingdom shall never end."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.413785+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

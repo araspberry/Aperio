@@ -1,0 +1,55 @@
+{
+  "book": "Joel",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joel 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joel 2: The Day of the Lord and Divine Compassion",
+      "overview": [
+        "The heart of Joel's prophecy beats with an urgent call to repentance followed by an extraordinary promise of God's restorative grace. What begins as a terrifying portrait of judgment transforms into a vision of divine mercy that restores what locusts have devoured—both literally and spiritually.",
+        "Joel opens with apocalyptic urgency: an invading army of locusts, darkening the sky and consuming everything in their path. The imagery is visceral and overwhelming, designed to shake God's people awake. Yet this catastrophe is not meaningless destruction; it is God's wake-up call, a messenger sent to interrupt complacency and call Israel back to covenant faithfulness. The prophet summons priests and people alike to gather, to weep, and to return to the Lord with genuine repentance—\"rend your hearts and not your garments.\" This is the pivotal moment where judgment becomes an invitation.",
+        "What makes Joel's message transformative is what follows the call to repentance. God promises not merely to forgive but to restore abundance beyond measure. The Lord will send rain, grain, and wine will overflow, and the years the locusts have eaten will be repaid. More profoundly, God pledges to pour out His Spirit on all people—sons and daughters, young and old, servants and handmaidens—a promise that echoes through to Pentecost itself.",
+        "This pattern mirrors the rhythm of our spiritual lives. We experience seasons of loss, emptiness, and devastation. Sometimes these come as divine correction; sometimes they're simply the consequences of living in a broken world. But Joel teaches us that judgment is never God's final word. Behind every call to repentance stands a God who delights in restoring what has been lost and in pouring out His Spirit generously on those who turn back to Him.",
+        "What areas of your life feel devoured by locusts—consumed by regret, loss, or spiritual depletion? How might God be inviting you to return to Him, not in fear, but with hope for restoration?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joel 2: Scholarly study",
+      "overview": [
+        "Joel 2 stands as one of the most theologically dense and literarily sophisticated chapters in the Book of the Twelve, presenting interpreters with significant hermeneutical challenges regarding its compositional unity and eschatological orientation. The prophet Joel, whose name means \"Yahweh is God,\" likely composed this work in the post-exilic period, though scholarly dating ranges from the ninth to the fourth century BCE. The chapter divides naturally into two major movements: a terrifying depiction of an invading army (vv. 1–11) followed by an urgent call to repentance and divine promises of restoration (vv. 12–32).",
+        "The opening verses employ the שׁוֹפָר (shofar), the ram's horn trumpet, as an instrument of alarm signaling the approach of the יוֹם יְהוָה (yom YHWH), the Day of the Lord. This concept, central to prophetic eschatology, carries inherent ambiguity throughout Joel—functioning simultaneously as judgment against Israel and ultimately against the nations. The invading force described in verses 2–11 has generated considerable interpretive debate: some scholars read the imagery as a literal locust plague continuous with chapter 1, while others identify a human army, perhaps Babylonian or eschatological in nature. The supernatural characteristics attributed to this force—darkening heavens, earth-shaking tremors, and seemingly invincible warriors—suggest Joel intentionally transcends mundane historical categories to depict cosmic warfare.",
+        "The pivotal transition occurs at verse 12 with וְגַם־עַתָּה (vegam-attah), \"yet even now,\" introducing divine speech that reveals Yahweh's character as חַנּוּן וְרַחוּם (channun verachum), \"gracious and compassionate,\" echoing the foundational creedal statement of Exodus 34:6–7. The call to \"rend your hearts and not your garments\" (v. 13) emphasizes internal transformation over external ritual, a theme resonant with other prophetic critiques of superficial worship.",
+        "The chapter culminates in verses 28–32, quoted by Peter at Pentecost (Acts 2:17–21), promising the democratization of prophetic experience through the outpouring of רוּחִי (ruchi), \"my Spirit,\" upon all flesh regardless of age, gender, or social status. This passage's New Testament appropriation raises complex questions about prophetic fulfillment, inaugurated eschatology, and the relationship between Israel and the emerging Christian community—debates that continue to shape contemporary theological discourse."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joel 2: Prophetic perspective",
+      "overview": [
+        "Joel chapter two stands at a pivotal moment in Israel's history, likely written during the ninth or eighth century before Christ, in the period of the divided kingdom when God's people had grown complacent in their covenant relationship. The immediate occasion was a devastating locust plague that had reduced Judah to ruin, yet the prophet lifts his gaze beyond the natural disaster to perceive the Day of the Lord itself—that recurring pattern of divine judgment and salvation that would find its ultimate expression in events still centuries distant.",
+        "Within the grand narrative of redemption, Joel speaks from the era of the prophets, that long season between the establishment of David's throne and the coming exile, when God sent messenger after messenger to call His wayward people back. The prophet stands as a hinge figure, looking backward to the covenant promises while straining forward to see their cosmic fulfillment.",
+        "The army described in terrifying detail—darkening the sun, shaking the earth, scaling walls like warriors—functions as more than mere locusts. Here is a type of every instrument God employs to discipline His people and judge the nations, culminating in those final armies that will gather against Jerusalem before Messiah's return. The land described as Eden before them and desolate wilderness behind echoes the original garden and anticipates the restoration of all things.",
+        "Yet the heart of this chapter beats with mercy. The call to rend hearts rather than garments, to return to the Lord who is gracious and compassionate, slow to anger and abounding in steadfast love—this reveals the unchanging character of Israel's God who desires repentance rather than destruction. The promise that follows, of grain and wine and oil restored, of the years the locusts have eaten being repaid, speaks to every generation that has known devastation and longed for renewal.",
+        "The climactic prophecy of the Spirit poured out on all flesh found its initial fulfillment at Pentecost, when Peter declared \"this is what was spoken by the prophet Joel.\" Sons and daughters prophesying, young men seeing visions, old men dreaming dreams—the church lives in this promised outpouring. Yet the cosmic signs of blood and fire and darkness await their consummation when Christ returns. The church therefore dwells in the overlap of ages, having received the Spirit as firstfruits while awaiting the full harvest, calling upon the name of the Lord who alone delivers, and summoning all nations to that same salvation before the great and dreadful Day arrives in its fullness."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "29_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.288818+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

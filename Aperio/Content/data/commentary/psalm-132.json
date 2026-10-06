@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 132,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 132 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 132: The Prayer of a Devoted Heart",
+      "overview": [
+        "Psalm 132 opens a window into the deepest yearning of a worshiper's heart—the longing to see God's kingdom established and God's presence honored in a permanent dwelling place. This psalm reveals what happens when faith moves beyond personal comfort into covenant commitment, when our deepest desires align with God's purposes.",
+        "The psalm begins with David's remembrance of his vow to find a resting place for the ark of the Lord. Here is a leader so consumed with honor for God that he cannot rest while God's sanctuary remains without a fixed home. This speaks to a profound truth: authentic devotion creates restlessness until God receives the worship He deserves. David's determination to build the Temple wasn't a project born from personal ambition but from a heart that couldn't bear the thought of God dwelling in a tent while his own family lived in palaces.",
+        "The second half shifts to God's response—His covenant with David and the promise that his descendants would reign eternally. This exchange reveals something beautiful about how God honors those whose primary passion is His glory rather than their own advancement. When we subordinate our desires to God's honor, we discover that He doesn't leave us without reward or recognition.",
+        "For those of us who follow Christ today, this psalm invites a searching question: What am I restless about? Where does my primary energy flow? The danger we face isn't usually dramatic disobedience but spiritual inattention—living comfortably while God's kingdom awaits our engagement. David's example calls us to the kind of devotion that cannot be satisfied with halfway commitment, that sees our resources and influence as tools for establishing God's kingdom, not building our own.",
+        "What vow or commitment might God be inviting you to make for the sake of His glory? What would it look like to exchange personal comfort for kingdom passion?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 132: Scholarly study",
+      "overview": [
+        "Psalm 132 stands as one of the fifteen Songs of Ascents (Psalms 120–134), liturgical compositions likely sung by pilgrims ascending to Jerusalem for festival worship. This particular psalm uniquely interweaves two theological themes central to Israel's identity: the Davidic covenant and Zion theology. Most scholars date its composition to the monarchic period, though its precise origin remains debated, with some attributing it to Solomonic temple dedication ceremonies and others to later royal commemorations.",
+        "The psalm opens with a petition that Yahweh \"remember\" (*zākar*) David's hardships, employing covenantal language that calls upon God to act faithfully based on prior commitments. The Hebrew term *ʿunnôtô* in verse 1, traditionally rendered \"afflictions\" or \"hardships,\" carries connotations of self-imposed discipline and zealous effort, pointing to David's passionate determination to find a dwelling place for the Ark of the Covenant. The vow David swore \"to the Mighty One of Jacob\" (*ʾăbîr yaʿăqōb*), an archaic divine epithet, connects this royal aspiration to patriarchal traditions.",
+        "Verses 6–9 preserve what appears to be ancient liturgical material recalling the Ark's journey from Ephrathah (likely Bethlehem's region or possibly Kiriath-jearim) to Jerusalem. The term *miškān* (\"dwelling place\" or \"tabernacle\") emphasizes the portable sanctuary tradition now finding permanent rest in Zion. The divine response beginning at verse 11 presents Yahweh's irrevocable oath regarding Davidic succession, employing the emphatic construction \"Yahweh has sworn to David in truth\" (*nišbaʿ-yhwh le-dāwid ʾĕmet*), establishing an unconditional yet conditional covenant—unconditional in its perpetuity, conditional in its application to individual heirs.",
+        "The psalm's chiastic structure moves from human vow to divine oath, from David's seeking a place for God to God's choosing Zion as eternal habitation. Interpreters debate whether verses 17–18 reflect pre-exilic confidence or post-exilic hope; the imagery of the sprouting horn (*qeren*) and prepared lamp (*nēr*) became foundational for later messianic expectation. Within canonical context, this psalm bridges historical memory and eschatological anticipation, providing theological warrant for both temple worship and Davidic messianism that early Christianity would appropriate in its Christological reflection."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 132: Prophetic perspective",
+      "overview": [
+        "Psalm 132 emerges from the liturgical life of Israel during the monarchy period, likely composed for use in worship processions celebrating the ark of the covenant and the Davidic dynasty. The psalm looks backward to David's era around 1000 BC when he captured Jerusalem and brought the ark to Zion, while simultaneously projecting forward with divine promises that stretch into eternity. Within the grand arc of redemption, this psalm stands at the Kingdom phase, that glorious moment when God established His throne in Jerusalem through David's line, yet it pulses with prophetic energy pointing toward a greater Son and an eternal dwelling.",
+        "The opening verses recount David's passionate vow to find a dwelling place for the Mighty One of Jacob, recalling his sleepless determination recorded in 2 Samuel 7. Here David functions as a type of Christ—the shepherd-king who labors not for his own comfort but to establish God's presence among His people. David found the ark at Ephrathah, the region of Bethlehem, a detail pregnant with prophetic significance, for from this same Ephrathah would come forth the One whose origins are from everlasting, the true Shepherd of Israel.",
+        "The covenant oath of verses 11-12 forms the prophetic heart of this psalm. God swears to David with an unbreakable promise that his descendants will sit upon his throne forever, conditioned upon covenant faithfulness. This Davidic covenant finds its ultimate fulfillment not in Solomon or any subsequent king who failed, but in Jesus Christ, whom Gabriel announced would receive \"the throne of His father David\" and reign over an everlasting kingdom. The conditional elements were perfectly satisfied in Christ alone, the faithful Son who kept all covenant stipulations.",
+        "Zion theology reaches its apex in the closing verses where God declares His eternal choice of this dwelling place. The promise of abundant provision, clothed priests, and a sprouting horn all find their substance in Christ—the Bread of Life who feeds the poor, the One who clothes His ministers with salvation, and the Branch who has sprouted from David's root. The lamp prepared for God's anointed burns eternally in the risen Christ, the Light of the World whose crown flourishes forever.",
+        "The church now lives as the true Zion, the dwelling place of God through the Spirit, awaiting that day when the Davidic King returns to consummate His reign and tabernacle with His people in the New Jerusalem forevermore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_132",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.506536+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

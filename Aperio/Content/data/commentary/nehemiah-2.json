@@ -1,0 +1,56 @@
+{
+  "book": "Nehemiah",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 2: The Power of Prepared Prayer",
+      "overview": [
+        "When our deepest burdens are brought before God with integrity and courage, He opens doors we never thought possible. Nehemiah's prayer moves from his heart into his hands, and in this chapter we witness what happens when someone trusts God enough to act on their conviction.",
+        "The cupbearer's sadness has been laid bare before the king, and now Nehemiah must ask the impossible. Yet notice the simplicity of his request and the clarity of his purpose. He doesn't launch into a lengthy presentation or manipulate the king's emotions. Instead, he sends up what might be the shortest prayer in Scripture—a silent cry to heaven—and then speaks his petition plainly. There's profound wisdom in this. Nehemiah had already spent months in prayer and fasting; this moment needed faith, not further delay.",
+        "What strikes the heart is Nehemiah's transparency about fear. \"Why should my face not be sad?\" he asks, naming the grief that wells up when we see God's house in ruins. His emotional honesty made space for the king's compassion. And the king grants not just permission, but protection—letters of safe passage, timber from the royal forest, even an escort. What seemed like an insurmountable barrier became a doorway.",
+        "Yet Nehemiah doesn't celebrate alone. Upon arrival in Jerusalem, he moves quietly through the night, surveying the broken walls without fanfare or announcement. He's gathered information, assessed the true scope of the work, and only then does he summon the people to rebuild. His private conviction becomes a shared vision because it's grounded in honest assessment and prayerful wisdom.",
+        "This is the pattern of faithful leadership: hidden prayer, bold asking, careful listening, and sober evaluation before mobilizing others. Nehemiah shows us that God uses both our tears and our courage, both our vulnerability and our clarity of vision.",
+        "What burden has God placed on your heart that's waiting for your honest request and faithful action?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 2: Scholarly study",
+      "overview": [
+        "Nehemiah chapter two marks a pivotal transition from lamentation to action, recording the cupbearer's bold request before Artaxerxes I and his subsequent nocturnal reconnaissance of Jerusalem's devastated fortifications. The narrative unfolds in the twentieth year of Artaxerxes (approximately 445 BCE), situating these events within the broader context of Persian imperial administration over the province of Yehud. Nehemiah's position as cupbearer (mashqeh) was one of considerable influence, involving intimate access to the monarch and implicit trust regarding the king's security—a role often filled by individuals of exceptional loyalty and discretion.",
+        "The chapter opens with Nehemiah's emotional state becoming visible to the king, described through the term \"ra'\" (evil or distressed) characterizing his countenance. This visible sorrow before a Persian monarch carried genuine peril, as courtiers were expected to maintain composure in the royal presence. Nehemiah's candid response regarding Jerusalem—\"the city of my fathers' graves\" (qivrot avotai)—strategically appeals to Persian respect for ancestral burial sites, a theme resonant across ancient Near Eastern cultures. His immediate prayer before answering the king demonstrates the book's distinctive theology of petition interwoven with practical action.",
+        "The authorization Nehemiah receives includes letters (iggerot) to regional governors and timber requisitions from Asaph, keeper of the royal forest, revealing the bureaucratic mechanisms of Persian provincial administration. His appointment as governor, though not explicitly stated until later chapters, is implicit in the military escort and official documentation provided.",
+        "The nocturnal survey of Jerusalem's walls introduces key antagonists—Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab—whose opposition will intensify throughout the narrative. Scholarly debate continues regarding whether Sanballat held official Persian authority over Samaria or represented local power structures resistant to Judean restoration. The inspection itself proceeds counterclockwise, with Nehemiah carefully concealing his intentions until the reconnaissance concludes. His subsequent address to Jerusalem's inhabitants employs covenant language, framing the rebuilding project as response to divine initiative rather than mere political ambition. The chapter thus establishes the theological and narrative framework for the reconstruction account that follows, presenting Nehemiah as a figure embodying both prayerful dependence and administrative competence."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 2: Prophetic perspective",
+      "overview": [
+        "Nehemiah chapter two unfolds approximately 445 years before the birth of Christ, during the Persian period when God's people lived under Gentile dominion following the Babylonian exile. Nearly a century had passed since the first wave of exiles returned under Zerubbabel, and the temple had been rebuilt, yet Jerusalem's walls remained broken—a visible testimony to Israel's ongoing humiliation among the nations. This chapter stands within the restoration phase of redemptive history, that bittersweet season when God began regathering His scattered people while they still awaited the greater deliverance promised through the prophets.",
+        "The narrative opens in the citadel of Susa, where Nehemiah serves as cupbearer to Artaxerxes—a position of intimate trust in the Persian court. When the king perceives Nehemiah's sorrow and inquires after its cause, we witness a remarkable providence unfolding. Nehemiah's silent prayer before answering the king reveals a man who understood that earthly monarchs operate under the sovereign hand of heaven's throne. The favor Nehemiah receives—letters of safe passage, timber from the king's forest, and military escort—demonstrates how God moves pagan hearts like channels of water to accomplish His redemptive purposes.",
+        "Nehemiah himself stands as a profound type of Christ. Like the coming Messiah, he leaves a position of honor and comfort to identify with his afflicted brethren. His nighttime inspection of Jerusalem's ruins, riding alone through the Valley Gate and past the Dragon's Well, prefigures the One who would come to survey the devastation of human sin and undertake the reconstruction that no earthly builder could accomplish. Where Nehemiah rebuilt physical walls, Christ builds a spiritual temple composed of living stones gathered from every nation.",
+        "The opposition that immediately arises through Sanballat, Tobiah, and Geshem foreshadows the perpetual resistance God's rebuilding work faces throughout history. Yet Nehemiah's confident declaration—\"The God of heaven will give us success\"—echoes forward through the ages to every generation of the church facing mockery and opposition.",
+        "For believers dwelling between Christ's advents, this chapter speaks with urgent relevance. The walls of spiritual Jerusalem are being built stone by stone as the gospel advances. Every believer who rises to build despite opposition participates in the same divine construction project. The full restoration awaits the day when the New Jerusalem descends, needing no walls for protection, for God Himself shall be her everlasting light."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.896836+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

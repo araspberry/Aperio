@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 32,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 32 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 32: The Freedom of Confession",
+      "overview": [
+        "The deepest joy available to the human heart flows from a single source: the honest acknowledgment of our sin before God and the receipt of His forgiveness. Psalm 32 captures this profound truth with the voice of someone who has experienced both the weight of hidden shame and the lightness of divine grace.",
+        "David opens with a celebration: \"Blessed is the one whose transgressions are forgiven, whose sins are covered\" (v. 1). He knows this blessing intimately because he has lived on both sides of it. The verses that follow reveal what happens when we refuse to confess: our bones waste away, we groan all day long, God's hand grows heavy upon us, and our strength withers as summer's drought dries up the earth (vv. 3–4). This is not punishment imposed arbitrarily from outside but the natural consequence of denying reality to ourselves, to God, and to others. Unconfessed sin creates an exhausting internal conflict—we become strangers to ourselves, at war with our own conscience.",
+        "Then comes the turning point: \"Then I acknowledged my sin to you and did not cover up my iniquity\" (v. 5). In that moment of radical honesty, everything changes. Forgiveness flows, and joy floods back. The psalmist's bones dance again. His strength returns. He feels light.",
+        "This passage speaks directly to the spiritual exhaustion many of us carry. We spend tremendous energy maintaining false images, justifying our failures, and rehearsing our shame in private. We assume that confession will destroy us, when in fact it is confession that sets us free. God is not waiting to punish confession but to embrace it. When we stop hiding, we stop hurting.",
+        "The psalm ends with David offering shelter to others: \"I will instruct you and teach you in the way you should go\" (v. 8). Those who have experienced forgiveness become guides for others seeking the same freedom.",
+        "Where in your life might honest confession with God bring unexpected joy and relief?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 32: Scholarly study",
+      "overview": [
+        "Psalm 32 stands as one of the seven traditional penitential psalms of the church, attributed to David in its superscription and classified as a *maśkîl*, a term whose precise meaning remains debated among scholars but likely indicates a contemplative or instructional composition. The psalm moves through a profound theological arc from the torment of unconfessed sin to the liberation found in divine forgiveness, making it a foundational text for understanding Israelite conceptions of guilt, confession, and restoration.",
+        "The opening verses employ three distinct Hebrew terms for wrongdoing that illuminate the comprehensive nature of human failure before God. The word *peša'* (transgression) denotes rebellion or willful violation of covenant boundaries, while *ḥăṭā'â* (sin) carries the sense of missing a mark or falling short of divine expectation. The third term, *'āwôn* (iniquity), suggests the twisted or distorted condition that results from moral failure. Correspondingly, the psalmist celebrates forgiveness through equally rich vocabulary: *nāśā'* (to lift up or carry away), *kāsâ* (to cover), and the negation of *ḥāšab* (to reckon or impute). This semantic density demonstrates that Israel's theology of forgiveness was neither simplistic nor monolithic but encompassed removal, concealment, and non-imputation of guilt.",
+        "The vivid physiological description in verses 3–4, where the psalmist's bones wasted away and vitality dried up like summer heat, reflects the ancient Near Eastern understanding of psychosomatic unity. Unexpressed guilt manifests in bodily deterioration, a connection that finds parallels in Mesopotamian penitential literature. The turning point arrives in verse 5 with the psalmist's resolve to acknowledge sin, met immediately by divine forgiveness, suggesting that confession itself constitutes the essential human response that enables restoration.",
+        "The psalm's placement within Book I of the Psalter creates intertextual resonance with Psalm 51, another Davidic penitential composition, while its didactic conclusion in verses 8–11 shifts from personal testimony to communal instruction. The New Testament appropriation of this psalm by Paul in Romans 4:7–8 to support justification by faith demonstrates its enduring theological significance, particularly the concept of non-imputation establishing the groundwork for later discussions of forensic righteousness within Protestant soteriology."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 32: Prophetic perspective",
+      "overview": [
+        "Psalm 32 emerges from the pen of David approximately one thousand years before the incarnation of Christ, during the united monarchy period of Israel's history. Ancient tradition connects this psalm to David's restoration following his grievous sins of adultery and murder recorded in 2 Samuel 11-12, placing it in the aftermath of Nathan's confrontation and David's broken repentance expressed in Psalm 51. This positions the psalm within the kingdom era of redemptive history, when God's anointed king sat upon the throne in Jerusalem, foreshadowing the greater King who would come to deal definitively with human transgression.",
+        "David opens with a double blessing pronounced upon those whose transgression is forgiven, whose sin is covered, and against whom the Lord counts no iniquity. These three terms—transgression, sin, and iniquity—encompass the full spectrum of human rebellion: willful crossing of boundaries, missing God's holy standard, and the twisted perversity of the fallen heart. The threefold remedy—forgiveness, covering, and non-imputation—anticipates with remarkable precision what the apostle Paul would later expound in Romans 4, where he quotes this very passage to demonstrate justification by faith apart from works. What David experienced typologically under the old covenant, believers now receive fully through Christ's atoning sacrifice.",
+        "The imagery of divine covering points backward to Eden, where God clothed guilty Adam and Eve with animal skins, and forward to Calvary, where the Lamb of God would provide the ultimate covering for sin. David's description of unconfessed sin—bones wasting away, vitality drained as by summer heat—reveals the covenant Lord's relentless pursuit of His wayward children. This severe mercy, this gracious pressure, demonstrates that whom the Lord loves He disciplines, refusing to let His own remain in spiritual destruction.",
+        "The promise that God will instruct and guide with His eye upon His people anticipates the new covenant reality where believers receive the indwelling Spirit as counselor and guide. The contrast between the stubborn mule requiring bit and bridle and the one who trusts in the Lord and is surrounded by steadfast love illustrates two postures before God that persist throughout every age.",
+        "For the church living between Christ's ascension and return, Psalm 32 proclaims the gospel with stunning clarity. The blessedness David tasted in shadow, believers now possess in substance—complete forgiveness, full justification, and intimate communion with the God who hides us in Himself while surrounding us with songs of deliverance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_032",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.211465+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

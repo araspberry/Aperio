@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 16: The Gospel Breaks Every Barrier",
+      "overview": [
+        "Acts 16 shows us the gospel's unstoppable power to transcend every human boundary—geography, ethnicity, gender, and even prison walls. This chapter reveals that the Spirit moves with particular care toward those the world overlooks, and it demonstrates what it truly means to follow Jesus wherever he leads.",
+        "The chapter opens with Paul and Silas traveling through Asia Minor, but a vision redirects them toward Macedonia—toward Europe and the Gentile world. This wasn't a strategic business decision; it was obedience to the Spirit's mysterious call. Their arrival in Philippi marks a turning point: the gospel reaches a woman named Lydia, a successful businesswoman, who becomes the first European believer. Then comes Philippian jailer—a man of authority and brutal circumstances—who experiences radical conversion when an earthquake shakes his prison. Between these two stands the story of a enslaved girl possessed by a spirit that made her profitable to others. Paul's act of liberation, freeing her from exploitation, cost him his freedom and led to imprisonment. Yet even in stocks and bleeding, he and Silas sang hymns and prayed, their worship becoming an invitation to salvation.",
+        "The beauty of this chapter lies in its democratic vision of grace. The Spirit doesn't discriminate between a prosperous woman and an enslaved girl, between a respectable Roman official and the lowest social rungs. All are equally loved, equally lost, equally redeemable. Our modern temptation is to assume the gospel travels smoothly when we plan carefully—but Luke shows us that the most fruitful work often happens through unexpected redirects, costly convictions, and faithfulness in suffering.",
+        "The jailer's midnight question captures the entire gospel: \"What must I do to be saved?\" The answer is simple and radical: \"Believe in the Lord Jesus.\"",
+        "Where might the Spirit be calling you to go or speak, even if it costs you something? What barriers exist between you and true freedom in Christ?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 16: Scholarly study",
+      "overview": [
+        "Acts 16 represents a pivotal turning point in Luke's narrative of early Christian expansion, marking the decisive shift of the gospel mission from Asia Minor into the European continent. This chapter belongs to the second major missionary journey of Paul, likely occurring around 49-51 CE, and notably introduces the first of the \"we\" passages (16:10-17), suggesting Luke's personal participation in these events. The narrative unfolds against the backdrop of Roman colonial administration, as Philippi was a Roman colonia with special privileges, populated significantly by military veterans and governed by Roman law.",
+        "The chapter opens with Paul's recruitment of Timothy at Lystra, whose mixed Jewish-Gentile parentage occasioned his circumcision—an action that appears paradoxical given the Jerusalem Council's recent decision but demonstrates Paul's pragmatic missiological principle of becoming \"all things to all people\" (1 Corinthians 9:22). The Greek term *mathētēs* (disciple) applied to Timothy emphasizes his role as a learner under apostolic tutelage. The mysterious divine restraint from preaching in Asia and Bithynia (16:6-7), attributed to both the Holy Spirit and the \"Spirit of Jesus,\" underscores Luke's pneumatological emphasis throughout Acts, presenting mission as fundamentally directed by divine agency rather than human strategy.",
+        "The Macedonian vision (16:9) employs the verb *parakaleō* (to appeal, summon), carrying overtones of both urgent request and divine calling. This vision narrative follows ancient literary conventions while asserting Christianity's providential westward movement. At Philippi, Luke presents three conversion accounts representing distinct social strata: Lydia, a prosperous merchant of purple goods and a *sebomenē ton theon* (God-fearer); an anonymous enslaved girl possessed by a *pneuma pythōna* (spirit of divination); and the Roman jailer. The exorcism terminology connects to Delphic oracular traditions, while the subsequent imprisonment narrative raises questions about Roman citizenship claims and magisterial abuse of power.",
+        "Scholarly debate surrounds the precise location of the \"place of prayer\" (*proseuche*) by the river—whether a formal synagogue structure or informal gathering site. The earthquake deliverance motif parallels Acts 12 and ancient divine intervention narratives, while the jailer's soteriological question and baptism emphasize Lukan themes of household salvation and immediate sacramental response to faith."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 16: Prophetic perspective",
+      "overview": [
+        "The events of Acts 16 unfold approximately two decades after the resurrection and ascension of Christ, around AD 49-50, during Paul's second missionary journey. This places us firmly in the early expansion of the church age, that remarkable epoch between Pentecost and the Parousia when the Spirit-empowered gospel advances from Jerusalem to the uttermost parts of the earth. The prophecy of Acts 1:8 is here being fulfilled before our eyes as the word leaps from Asia into Europe, crossing not merely a geographical boundary but inaugurating the westward march of redemption that would reshape human civilization.",
+        "The chapter opens with the selection of Timothy, whose mixed heritage—Jewish mother, Greek father—embodies in his very person the breaking down of the dividing wall that Christ accomplished at Calvary. Paul's circumcision of Timothy for the sake of gospel advance demonstrates that new covenant freedom operates not by rigid principle but by missionary wisdom. Timothy emerges as a type of faithful succession, the spiritual son who carries forward what his father in the faith has planted, pointing toward that unbroken chain of gospel witness that extends to our own generation.",
+        "The mysterious prohibition by the Spirit against preaching in Asia and Bithynia reveals divine sovereignty orchestrating history toward appointed ends. The Macedonian vision marks one of Scripture's pivotal turning points—God summoning His messenger westward, toward Philippi, toward Rome, toward us. Here we witness the Lord of the harvest directing His laborers according to counsels determined before the foundation of the world.",
+        "In Philippi, three conversion accounts display the gospel's universal power. Lydia, the prosperous merchant whose heart the Lord opened, represents the called among the nations—her opened heart echoing Ezekiel's prophecy of new hearts given to God's people. The slave girl delivered from the python spirit demonstrates Christ's authority over demonic powers, a foretaste of that final crushing of the serpent's head. The Philippian jailer, trembling under divine earthquake judgment, voices humanity's essential question—\"What must I do to be saved?\"—and receives the gospel's magnificent answer: \"Believe on the Lord Jesus Christ.\"",
+        "The earthquake that opened prison doors carries exodus typology: God liberating His people from bondage through mighty acts. Paul and Silas, praying and singing hymns at midnight, model the church's posture in suffering—worship amid chains, anticipating vindication.",
+        "For the church awaiting Christ's return, Acts 16 declares that no Roman prison, no cultural boundary, no demonic opposition can hinder the advancing kingdom. The gospel that broke into Europe continues breaking into every nation until He comes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.70101+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

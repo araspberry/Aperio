@@ -1,0 +1,140 @@
+{
+  "book": "John",
+  "bookIndex": 42,
+  "status": "Editorial draft",
+  "title": "John: Life in the Son",
+  "subtitle": "Signs, conversations, and the love of God made known in Jesus.",
+  "atAGlance": {
+    "genre": "Gospel: testimony, signs, and extended discourse",
+    "setting": "Jesus’ ministry in Galilee, Samaria, and Judea, with repeated visits to Jerusalem and a sustained account of His final hours.",
+    "composition": "Traditionally associated with John son of Zebedee; the beloved disciple remains unnamed in the text. Usually placed in the later first century, with its formation and precise date debated.",
+    "audience": "People invited to believe, or grow in belief, that Jesus is the Messiah and Son of God."
+  },
+  "sections": [
+    {
+      "title": "The Word comes close",
+      "paragraphs": [
+        "John begins before the first encounter in Galilee. The Word is with God, is God, and is the One through whom creation comes into being. Then the announcement becomes startlingly intimate: the Word becomes flesh. The Gospel’s large claims about God will unfold through conversation, friendship, weariness, tears, conflict, and the death of Jesus.",
+        "That movement gives John its distinctive character. A question about water becomes an invitation to living water. A meal opens discussion of the bread of life. A man’s restored sight exposes different kinds of blindness. The ordinary objects remain part of the scene, but Jesus uses them to disclose a deeper reality. John asks us to stay with the conversation long enough for its meaning to become clear."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Testimony and the Gospel’s formation",
+      "paragraphs": [
+        "The Gospel appeals to the testimony of the disciple Jesus loved, especially in its final chapter. It does not directly identify that disciple by name. Early Christian tradition connects the work with John son of Zebedee; modern scholars continue to debate the beloved disciple’s identity and the relationship between that witness and the book’s final form. A later first-century setting is common, although proposed dates vary.",
+        "The Gospel’s stated purpose in 20:30–31 provides firmer guidance than a speculative reconstruction of its community. Its selected signs are presented so that people may believe Jesus is the Messiah, the Son of God, and have life in His name. Attention to that purpose helps unite passages whose style differs greatly: poetic proclamation, public dispute, personal encounter, and extended instruction all serve the invitation to trust."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Signs and the people who encounter them",
+      "paragraphs": [
+        "John calls Jesus’ extraordinary works “signs.” The emphasis falls on what they reveal about Him and how people respond. Wine at a wedding, bread for a crowd, healing at a pool, and Lazarus’s return from the tomb each provoke recognition, questions, or resistance. Spectacular evidence alone does not guarantee a settled response of faith. Festivals also shape the sequence, placing Jesus’ claims within the worship and hopes of Israel.",
+        "Conversations give the narrative its personal depth. Nicodemus struggles with new birth; a Samaritan woman gradually recognizes the stranger addressing her; Martha confesses faith while grieving her brother. These people are allowed to ask questions and misunderstand. Read their exchanges in sequence. John often brings understanding through a conversation’s movement rather than through an isolated sentence, and Jesus’ words take their force from the particular person and need before Him."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Life, glory, and abiding",
+      "paragraphs": [
+        "“Life” is a central word in John. Eternal life includes the future hope of resurrection and a present relationship with God through the Son. Jesus’ language of abiding, developed especially through the vine image, describes continuing dependence, trust, and fruitfulness. The disciples receive life they are then called to express in love.",
+        "“Glory” reaches an unexpected focus when Jesus speaks of His approaching hour. The cross belongs within the revelation of who He is and how He loves. In the farewell chapters, washing His disciples’ feet and commanding them to love one another prepare them for that self-giving. The promise of the Spirit assures them that His departure will not leave them without help. Prayer, obedience, witness, and mutual love belong together in the life He gives."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading conflict in its setting",
+      "paragraphs": [
+        "John contains sharp disputes and sometimes speaks broadly of “the Jews.” Context is essential: Jesus, His family, and His first disciples are themselves Jewish, and the Gospel’s festivals and Scriptures are Jewish. In many conflict scenes the immediate reference concerns particular opponents or authorities. The expression cannot responsibly become a judgment against all Jewish people.",
+        "The final chapters bring the testimony to the cross and the empty tomb. Mary Magdalene hears Jesus address her by name; Thomas is invited to confront his doubt; Peter receives a renewed calling to care for Jesus’ sheep. These encounters show resurrection faith taking shape in grief, uncertainty, and remembered failure. Read John’s great declarations beside those individual encounters. The Gospel presents knowledge of God as a relationship that draws people toward trust, love, and a life of witness."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The Word and His first witnesses",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "The prologue, John’s testimony, and the gathering of disciples."
+    },
+    {
+      "label": "Signs and growing conflict",
+      "startChapter": 2,
+      "endChapter": 12,
+      "description": "Public ministry, revealing encounters, festivals, and the raising of Lazarus."
+    },
+    {
+      "label": "Love and preparation for departure",
+      "startChapter": 13,
+      "endChapter": 17,
+      "description": "Footwashing, farewell teaching, the Spirit’s promise, and Jesus’ prayer."
+    },
+    {
+      "label": "The hour of death and resurrection",
+      "startChapter": 18,
+      "endChapter": 20,
+      "description": "Arrest, trial, cross, empty tomb, and resurrection encounters."
+    },
+    {
+      "label": "A renewed calling",
+      "startChapter": 21,
+      "endChapter": 21,
+      "description": "A meal by the sea, Peter’s commission, and the witness behind the Gospel."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Revelation through Jesus",
+      "description": "The Son makes the Father known through His words, actions, and self-giving."
+    },
+    {
+      "name": "Believing and abiding",
+      "description": "Faith is a continuing relationship of trust that bears fruit in love."
+    },
+    {
+      "name": "Life overcoming death",
+      "description": "Resurrection hope is inseparable from the life Jesus gives."
+    }
+  ],
+  "timeline": {
+    "era": "jesus",
+    "dateLabel": "First century AD; Jesus’ ministry",
+    "context": "John recounts Jesus’ ministry, death, and resurrection. Its prologue reaches back to creation, and its promises look forward, without changing the narrative’s main historical setting.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 21,
+      "era": "jesus",
+      "label": "Jesus’ life and ministry",
+      "dateLabel": "First century AD; Jesus’ ministry",
+      "note": "John recounts Jesus’ ministry, death, and resurrection. Its prologue reaches back to creation, and its promises look forward, without changing the narrative’s main historical setting."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "John · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "John · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/john/lessons/summary-of-john/"
+    }
+  ]
+}

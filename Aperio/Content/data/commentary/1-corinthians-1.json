@@ -1,0 +1,57 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Corinthians 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Corinthians 1: Called to Christ and His Cross",
+      "overview": [
+        "At the heart of Paul's opening to the Corinthian church lies a paradox that continues to reshape every generation of believers: God's salvation comes through weakness, not strength; through a crucified carpenter, not human wisdom or status.",
+        "Paul greets the Corinthians as \"those sanctified in Christ Jesus and called to be his holy people.\" Notice he doesn't begin with their problems—though this letter will address plenty—but with their identity in Christ. This matters profoundly. Before Paul ever corrects their divisions, their pride, or their sexual immorality, he anchors them in grace. They are holy not because they've earned it but because Christ has made them so. This is the foundation upon which all correction and growth must rest.",
+        "The divisions plaguing Corinth reveal a church seduced by worldly values. Some claim allegiance to Paul, others to Apollos, still others to Cephas. It sounds like modern tribalism around personalities and styles, doesn't it? The Corinthians had baptized their human preferences into spiritual factions. Paul's response is stark: Christ was not divided for you. He alone is the source and center, not the leaders who point toward him.",
+        "This leads to Paul's most powerful declaration: the cross of Christ seems like utter foolishness to human reason. The world prizes power, eloquence, and status. The gospel announces that God's power is perfected in weakness, that God's wisdom is hidden in the scandal of an executed criminal. When we lean on human wisdom and strength—our talents, our credentials, our strategies—we miss the transforming power available only at the cross.",
+        "Living as disciples means daily choosing to trust not in ourselves but in the crucified and risen Christ. It means valuing what Christ values, even when the world mocks. It means recognizing that God's ways often look like foolishness until we see them with eyes transformed by grace.",
+        "Where are you tempted to trust human wisdom or status rather than the power of Christ's cross?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Corinthians 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Paul's first canonical letter to the Corinthian assembly establishes the theological foundation for addressing the profound divisions threatening this young community. Written approximately 53-55 CE from Ephesus, this epistle responds to reports of factionalism and moral disorder within a congregation Paul had founded during his eighteen-month residence in Corinth, a cosmopolitan Roman colony renowned for its commercial prosperity, religious pluralism, and philosophical culture.",
+        "Paul's salutation employs the term *ekklēsia* (ἐκκλησία), deliberately invoking both the Septuagintal designation for Israel's covenant assembly and the Greco-Roman political gathering, thereby positioning the Corinthian believers within salvation history while distinguishing them from surrounding civic institutions. The phrase \"sanctified in Christ Jesus, called to be saints\" (*klētois hagiois*) emphasizes divine initiative rather than human achievement, a theme that pervades the entire chapter.",
+        "The central crisis Paul addresses is the emergence of personality-based factions rallying around Paul, Apollos, Cephas, and Christ himself. The rhetorical questions in verses 13-17 expose the theological absurdity of such divisions: Christ cannot be divided (*memeristai*), and baptism establishes union with Christ rather than allegiance to human ministers. Paul's deliberate minimization of his baptismal ministry underscores that the gospel's power resides not in ritualistic mediation but in proclamation itself.",
+        "The chapter's theological climax appears in verses 18-31, where Paul develops a profound critique of human wisdom (*sophia*). The \"word of the cross\" (*ho logos ho tou staurou*) constitutes a radical inversion of conventional values: what appears as foolishness (*mōria*) to Greek philosophical sensibility and scandal (*skandalon*) to Jewish messianic expectation becomes the very locus of divine power and wisdom. This paradox challenges the Corinthians' apparent infatuation with rhetorical sophistication and social prestige.",
+        "Paul's appeal to the congregation's own demographics—predominantly lacking noble birth, influence, or wisdom by worldly standards—reinforces the theological argument. God's election of the lowly (*ta agene*) and despised nullifies human boasting, establishing Christ alone as wisdom, righteousness, sanctification, and redemption. This christological concentration, echoing Jeremiah 9:23-24, provides the interpretive key for understanding the practical exhortations that follow throughout the letter."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Corinthians 1: Prophetic perspective",
+      "overview": [
+        "The apostle Paul penned this letter around AD 55, approximately twenty-two years after the resurrection of Christ and the outpouring of the Spirit at Pentecost. The church at Corinth had been established just a few years earlier during Paul's second missionary journey, making this congregation a young assembly wrestling with the implications of the gospel within a thoroughly pagan Roman colony. This opening chapter situates us firmly in the Church Age—that mysterious interval between Christ's ascension and His return, when the Spirit gathers a people from every nation into the body of the Messiah.",
+        "Within the grand arc of redemption, Corinth represents the firstfruits of God's ancient promise to Abraham that through his seed all nations would be blessed. What began with one man called out of Ur has now blossomed into an international fellowship of Jews and Gentiles united in the crucified Messiah. The exile is over, not merely geographically but spiritually—God's scattered people are being regathered, not to a rebuilt temple of stone but into a living temple animated by the Spirit.",
+        "Paul's assault on worldly wisdom carries profound prophetic weight. The cross stands as the great reversal of all human expectation, the apocalyptic unveiling of God's hidden plan. Where the Jews demanded signs—recalling the mighty works of the Exodus—and Greeks sought philosophical wisdom, God answered with what appeared to be weakness and foolishness: a crucified carpenter from Nazareth. Yet this scandalous message is nothing less than the power of God and the wisdom of God concentrated in a single event. The cross is the true tree of life, reversing the curse of Eden. Christ crucified becomes the antitype of the bronze serpent lifted in the wilderness, the Passover lamb whose blood marks out a new Israel, the temple destroyed and raised in three days.",
+        "The divine election described here—God choosing the foolish, weak, lowly, and despised—echoes His pattern throughout Scripture: Abel over Cain, Jacob over Esau, David over his brothers, Israel over mightier nations. This is eschatological reversal already breaking into the present: the last becoming first, the humble exalted. Christ Himself has become for His people wisdom, righteousness, sanctification, and redemption—the complete provision anticipated in every Old Testament type and offering.",
+        "For the church awaiting Christ's appearing, this chapter thunders with urgent relevance. Our boasting must terminate on the Lord alone, for we stand as living proof that God's kingdom advances not through human ingenuity but through cruciform power—strength perfected in apparent weakness until the age to come dawns in fullness."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "46_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.776667+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

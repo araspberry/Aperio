@@ -1,0 +1,56 @@
+{
+  "book": "Joel",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Joel 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Joel 1 – When Devastation Becomes a Call to Return",
+      "overview": [
+        "The spiritual heart of Joel's opening cry is this: catastrophe can awaken us to the reality of God's presence and the urgency of repentance. When Joel witnesses the locust plague consuming Judah's land, he sees beyond the natural disaster to something far more significant—God's invitation to return.",
+        "Joel begins not with despair but with a prophet's clarity. The locusts have stripped the vineyards, fig trees, and pomegranates bare. The people are left with nothing. Yet rather than describing this merely as tragedy, Joel interprets it as a wake-up call. He calls the priests and elders to gather, to fast, to cry out to the Lord. He wants them to understand that the locust plague is not meaningless suffering but a messenger—a visual sermon about what happens when we drift from God's heart.",
+        "What makes Joel's opening so pastoral is that he doesn't begin with accusation but with invitation. He sees the people's pain and uses it as an opportunity for return, not as reason for despair. The devastation is real—farmers will weep, livestock will groan with hunger—but Joel's prophetic voice insists that disaster need not have the final word. God is still present, still speaking, still offering a way back.",
+        "This resonates deeply with human experience. We all face seasons when everything seems stripped away—when loss, failure, or heartbreak leaves us bare. Joel teaches us that such moments, painful as they are, often carry God's most urgent invitations. Spiritual numbness sometimes needs the shock of disruption to awaken us. When our carefully constructed lives crumble, God's voice becomes harder to ignore.",
+        "The question Joel's words pose to us is both ancient and immediate: What would it look like to view my current struggles not as punishment to resent, but as God's invitation to draw near? Where have I drifted from His heart, and what would genuine return look like today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Joel 1: Scholarly study",
+      "overview": [
+        "The book of Joel opens with a superscription identifying the prophetic word as belonging to Joel son of Pethuel, though remarkably little can be determined about either figure or the precise historical setting of the composition. Unlike most prophetic books, Joel lacks explicit chronological markers linking it to particular kings or datable events, leading scholars to propose dates ranging from the ninth to the fourth centuries BCE. The absence of references to Assyria or Babylon, combined with the prominence of priests and temple worship, has inclined many contemporary scholars toward a postexilic dating, though this remains contested.",
+        "The chapter presents a devastating locust plague as both literal agricultural catastrophe and theological crisis. The Hebrew term *'arbeh* (locust) appears alongside three other terms—*gazam*, *yeleq*, and *hasil*—in verse 4, representing either distinct locust species at various developmental stages or a rhetorical fourfold intensification emphasizing totality of destruction. This accumulative imagery strips the land bare, leaving nothing for human sustenance or cultic offering.",
+        "Joel summons multiple constituencies to witness and respond: the elders (*zəqenim*), inhabitants of the land, drunkards, priests, and farmers. The call to \"awake\" (*haqiṣu*) directed at those drunk with wine carries both literal and figurative force, demanding recognition that unprecedented judgment has arrived. The prophet describes the invading swarm metaphorically as a nation (*goy*) with lion's teeth, suggesting military imagery that anticipates the cosmic armies of chapter two.",
+        "Particularly striking is the agricultural and cultic interconnection throughout the chapter. The destruction of vine, fig tree, grain, and oil eliminates not merely economic livelihood but the very materials required for temple offerings. The call in verses 13–14 for priests to lament and declare a sacred fast (*ṣom*) transforms agricultural disaster into liturgical response. The term *'asarah* (solemn assembly) indicates formal cultic gathering, positioning communal lamentation as the appropriate theological response to divine visitation.",
+        "The chapter concludes with Joel's own lament, employing the \"day of the LORD\" (*yom YHWH*) concept that dominates the book's theological architecture. This phrase, carrying both judgment and restoration implications throughout prophetic literature, here signals imminent divine intervention demanding urgent collective repentance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Joel 1: Prophetic perspective",
+      "overview": [
+        "Joel 1 emerges from a moment shrouded in historical mystery, with scholars placing the prophet's ministry anywhere from the ninth to the fifth century before Christ. The absence of explicit dating markers suggests the Spirit intended this word to transcend any single moment, speaking across generations with undimmed urgency. Whether Joel prophesied during the reign of Joash, in the shadow of Assyria's rise, or amid the struggles of the post-exilic community, his message arrives at a hinge point in redemptive history—after the establishment of the Davidic kingdom and its temple worship, yet before the promised Day of the Lord would break fully upon the world.",
+        "The devastation Joel describes—wave upon wave of locusts stripping the land bare—functions on multiple prophetic registers. Historically, a literal plague had reduced Judah to desolation, destroying grain, wine, and oil, the covenantal signs of divine blessing. Yet this natural catastrophe serves as a prophetic type, a shadow cast backward from a greater judgment and forward toward ultimate restoration. The locusts prefigure the invading armies that would sweep through covenant-breaking Israel, and beyond them, they gesture toward that final apocalyptic conflict when the nations gather against God's people before deliverance dawns.",
+        "Joel summons the entire community—elders, drunkards, priests, and farmers—to collective lamentation. The cessation of grain offering and drink offering strikes at the heart of Israel's worship, severing the visible means of communion between heaven and earth. Here we glimpse the deeper tragedy: sin severs relationship. The withered vines and dried-up oil become emblems of spiritual barrenness, what the prophets consistently named as the fruit of covenant unfaithfulness. Yet precisely in commanding mourning, God extends mercy. The call to weep and wail is itself grace, an invitation to return before judgment becomes irrevocable.",
+        "The chapter's cry for priests to minister in sackcloth anticipates the greater High Priest who would bear humanity's desolation upon Himself. Where Joel's priests could only lead in lamentation, Christ entered the ultimate wasteland of divine judgment and emerged bearing restoration.",
+        "For the church dwelling between Pentecost and Parousia, Joel 1 stands as perpetual summons. The locusts have come in various forms throughout history—plague, persecution, spiritual famine. Yet each devastation whispers the same truth: apart from God, all human flourishing withers. The call remains unchanged—sanctify a fast, call a solemn assembly, cry out to the Lord. He who commands mourning also promises morning."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "29_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.286407+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

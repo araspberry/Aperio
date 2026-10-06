@@ -1,0 +1,55 @@
+{
+  "book": "Exodus",
+  "chapter": 33,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Exodus 33 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Exodus 33: The Boldness of Intimate Prayer",
+      "overview": [
+        "When Moses asks God to show him his glory, he is asking for something that strikes at the deepest hunger of the human heart—the desire to truly know God, not merely his rules or his power, but his face, his character, his presence. This passage reveals that the spiritual life is not meant to be distant or formal, but marked by the kind of intimate, bold conversation that transforms both the one who asks and the one who listens.",
+        "God's response to Moses is remarkable. Rather than rebuke him for audacity, the Lord agrees—yet with a gracious limitation. No one can see God's face and live, so God offers something almost more precious: his back, the knowledge of God as he passes by. This is the nature of intimacy with our Creator. We are invited into relationship that is real and tender, yet ordered by God's own nature and our human capacity. We don't demand our terms; we receive what love offers.",
+        "What makes this conversation possible is the friendship that precedes it. Moses seeks God's face because he has already learned to seek God's presence. The tent of meeting becomes the context for bold prayer—the sanctuary where ordinary people can speak extraordinary requests to an extraordinary God. This tells us something crucial about our own prayer lives. When we cultivate a habit of meeting with God, showing up faithfully, and speaking honestly, we are not pestering him. We are engaging in the kind of relationship he desires to have with us.",
+        "The deeper truth is that God wants to be known. He responds to Moses not because he owes anything, but because he delights in revealing himself to those who hunger for him. In Jesus, this longing finds its fulfillment—God's glory is revealed most fully in a human face, the face of one who was willing to die so we could truly know him.",
+        "What would it look like to ask God for a deeper revelation of himself this week, and to trust that he desires such intimacy with you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Exodus 33: Scholarly study",
+      "overview": [
+        "Exodus 33 occupies a pivotal position in the Pentateuchal narrative, serving as the theological and dramatic fulcrum between the catastrophic golden calf apostasy of chapter 32 and the covenant renewal of chapter 34. The chapter preserves what appears to be a composite of traditions addressing the fundamental question of how Yahweh's presence can continue with a people who have demonstrated such profound covenant unfaithfulness. Moses emerges here not merely as political leader but as prophetic intercessor par excellence, mediating between divine wrath and human frailty.",
+        "The opening verses present a striking tension: Yahweh promises to fulfill the patriarchal land grant yet simultaneously threatens to withdraw his immediate presence, sending instead a מַלְאָךְ (malʾāk, \"messenger/angel\") to avoid consuming the people in their obstinacy. This distinction between mediated and immediate divine presence reflects ancient Near Eastern concepts of theophany while raising profound questions about the nature of God's dwelling among his people. The people's mourning response and removal of ornaments signifies genuine contrition and ritual humiliation.",
+        "The tent of meeting passage (verses 7–11) presents notable tensions with the later tabernacle traditions, describing a provisional sanctuary outside the camp where Moses enjoys unique face-to-face communion with Yahweh—a phrase employing the Hebrew פָּנִים אֶל־פָּנִים (pānîm ʾel-pānîm), which must be balanced against the later declaration that no one can see God's face and live. This apparent contradiction has generated extensive scholarly discussion regarding different source traditions and theological nuances in understanding divine visibility.",
+        "Moses' bold intercession reaches its climax in his request to see Yahweh's כָּבוֹד (kāḇôḏ, \"glory\"), the weighty, luminous manifestation of divine presence. Yahweh's response masterfully balances transcendence and immanence: Moses will witness the divine goodness and hear the proclamation of the sacred name, yet only God's \"back\" (אָחֹר, ʾāḥōr) will be visible as the glory passes. This theophanic compromise establishes enduring theological boundaries—genuine encounter with God remains possible, yet complete comprehension of the divine essence exceeds human capacity. The passage thus articulates what later tradition would develop as the distinction between God's essence and energies, his hidden depths and revealed attributes."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Exodus 33: Prophetic perspective",
+      "overview": [
+        "Exodus 33 unfolds approximately 1446 years before the birth of Christ, in the wilderness of Sinai, mere weeks after Israel's liberation from Egypt and immediately following the catastrophic worship of the golden calf recorded in the previous chapter. This pivotal moment occurs within the Exodus phase of redemptive history—after God's deliverance of His people from bondage but before their entry into the Promised Land, during the critical period when Yahweh is constituting Israel as His covenant nation and dwelling among them.",
+        "The chapter opens with divine tension. God commands Israel to depart toward Canaan but declares He will not go up in their midst, lest He consume them for their stiff-necked rebellion. This threatened absence strikes at the very heart of the covenant relationship. Israel responds with mourning, stripping off their ornaments in grief—a corporate repentance that acknowledges the unbearable prospect of possessing land without Presence. Here lies a profound typological reality: the land without the Lord is no blessing at all. This foreshadows the truth that heaven itself is defined not by golden streets but by unmediated communion with God.",
+        "Moses' tent of meeting, pitched outside the camp, becomes a threshold of mediation. The pillar of cloud descending while Yahweh speaks with Moses \"face to face, as a man speaks to his friend\" establishes Moses as the premier type of the coming Mediator. Yet even this intimacy remains veiled—Moses cannot see God's face and live. This limitation prophetically aches toward the Incarnation, when the Word becomes flesh and \"we have seen His glory.\" What Moses received in fragments, the apostles beheld fully in Christ, the exact imprint of God's nature.",
+        "Moses' audacious intercession reaches its apex in his plea: \"Show me Your glory.\" God's response unveils the deepest revelation of divine character in the Old Testament—proclaiming His name as merciful, gracious, and abounding in steadfast love. Moses is hidden in the cleft of the rock while glory passes by, seeing only God's back. This rock, sheltering the mediator while judgment-glory passes, typologically anticipates Christ, the Rock in whom believers are hidden. God's glory, which would have destroyed sinful Israel, would one day be manifested in a face they could behold—the face of Jesus Christ.",
+        "For the church awaiting Christ's return, Exodus 33 teaches that God's presence, not mere blessing, constitutes our inheritance. We who have beheld glory in Christ now walk by faith, awaiting the day when we shall see Him face to face."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "02_033",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.846852+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Romans",
+  "chapter": 16,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 16 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 16: Finishing Well Through Beloved Community",
+      "overview": [
+        "The closing chapter of Romans reveals Paul's heart for the church—a heart that treasures ordinary believers, celebrates their names, and binds them together in gospel partnership. This is not mere formality but the beating core of Christian witness: the church is nothing without the people who comprise it.",
+        "Paul greets Priscilla and Aquila, Epaenetus, Mary, Andronicus and Junia, Ampliatus, Urbanus, Stachys, and dozens more. These were not distant names to him but beloved companions in labor. Notice how Paul knew their stories—who worked hard, who was imprisoned, who risked their necks. In a movement that could become abstract and institutional, Paul made it fiercely personal. He remembered faces. He honored labor. He called women prophets and deacons and church planters by their actual names when many in his culture would have erased them.",
+        "This chapter teaches us that finishing well in faith means finishing well in love. The same apostle who wrote the theology of Romans 1–15 now does something equally important: he names the community that bears that theology to life. A theological masterpiece means nothing if it produces isolated believers. The gospel creates family.",
+        "There is also a subtle warning woven through Paul's greetings. When he instructs the church to \"avoid those who cause divisions and create obstacles contrary to the doctrine you have been taught,\" he is not speaking in the abstract. Real people with real names had come to sow discord. But rather than dwell on division, Paul pivots immediately to the God whose peace surpasses all schemes and scheming.",
+        "The devotional force of Romans 16 invites us to consider: Who are the \"Priscillas\" and \"Marys\" in our own church communities whose names we know, whose labor we honor, whose faith we celebrate? How does naming people and celebrating their particularity strengthen our gospel witness?",
+        "Consider taking time this week to thank someone by name for their faithful work in your church community. Notice how that act, however simple, deepens your own sense of belonging to Christ's body."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 16: Scholarly study",
+      "overview": [
+        "Romans 16 presents one of the most remarkable windows into early Christian social networks, offering a prosopographical treasury that illuminates the diversity and structure of Pauline communities. Composed around 57 CE from Corinth as Paul prepared for his Jerusalem collection journey, this chapter serves as both epistolary conclusion and strategic relational map. The authenticity of this chapter, once questioned by scholars who proposed it as a separate letter to Ephesus, is now widely accepted as integral to Romans, given the manuscript evidence and Paul's known connections to Rome through Prisca and Aquila.",
+        "The commendation of Phoebe in verses 1–2 employs the term *diakonos* (διάκονος), the same title Paul applies to himself and Apollos, suggesting an official ministerial function rather than generic service. The designation *prostatis* (προστάτις), rendered variously as \"benefactor\" or \"patron,\" indicates Phoebe held significant social and financial standing, functioning as a legal representative and financial supporter of the Cenchrean congregation. This terminology challenges assumptions about women's leadership limitations in Pauline churches.",
+        "The greeting list of verses 3–16 names twenty-six individuals, revealing a community characterized by ethnic diversity, mixed social status, and shared labor. Prisca (Priscilla) appears before her husband Aquila, possibly indicating her prominence. The designation of Junia in verse 7 as \"outstanding among the apostles\" (*episēmoi en tois apostolois*, ἐπίσημοι ἐν τοῖς ἀποστόλοις) has generated substantial interpretive debate. While some medieval manuscripts masculinized the name to \"Junias,\" the feminine \"Junia\" appears in early church fathers and reflects common Roman nomenclature, supporting her identification as a female apostle.",
+        "The warning against divisive teachers in verses 17–20 strikes a different tone, employing apocalyptic imagery of Satan's imminent defeat. This shift has puzzled commentators, though it coheres with Paul's pastoral vigilance throughout his correspondence. The chapter concludes with a doxology (verses 25–27) that some manuscripts place elsewhere, celebrating the revelation of the mystery long hidden but now disclosed through prophetic writings—a fitting theological summation of the epistle's central themes concerning God's righteousness revealed to all nations through faith."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 16: Prophetic perspective",
+      "overview": [
+        "Romans 16 emerges from the Apostle Paul's pen around 57 AD, approximately twenty-five years after Christ's resurrection and ascension, written during his third missionary journey while he stayed in Corinth. This closing chapter arrives in the church age, that pivotal epoch between Pentecost and the Parousia when the Spirit-empowered community of Christ advances the kingdom through proclamation and costly love. On the grand timeline of redemption, we stand here firmly within the \"already\" of the inaugurated kingdom—the cross accomplished, the Spirit poured out, the Gentiles streaming in—while the \"not yet\" of Christ's return and the consummation of all things remains on the horizon.",
+        "What appears at first glance to be a mere list of greetings reveals itself upon closer examination as a prophetic portrait of the new humanity God always intended. Here are Jews and Gentiles, slaves and free, men and women, laboring side by side in the gospel. Phoebe serves as a deacon and patron, Priscilla and Aquila risk their necks for Paul, and Junia is noted among the apostles. The ancient fractures of Eden—between man and woman, between peoples and nations—are being healed in Christ. This is the fulfillment of God's promise to Abraham that through his seed all families of the earth would be blessed. What was typologically foreshadowed in Israel's mixed multitude leaving Egypt and in Ruth the Moabitess grafted into the messianic line now reaches full flower in the Roman house churches.",
+        "Paul's warning against those who cause divisions carries eschatological weight. The serpent who deceived Eve still prowls, seeking to fracture the community through false teaching and selfish ambition. Yet the apostle speaks prophetically: \"The God of peace will soon crush Satan under your feet.\" This declaration reaches back to Genesis 3:15, the protoevangelium, and forward to Revelation 20. The crushing has begun at Calvary; it continues through the church's faithful witness; it will be consummated at Christ's return.",
+        "The doxology crescendos with the \"mystery kept secret for long ages but now disclosed\"—that Gentiles are fellow heirs, fully incorporated into the covenant people through faith. This mystery, hidden in the prophetic writings, now stands revealed.",
+        "For the church living between the advents, Romans 16 summons us to labor together, guard the faith, and live in confident hope that the God who has begun this work will complete it when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_016",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.774246+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "book": "Acts",
+  "bookIndex": 43,
+  "status": "Editorial draft",
+  "title": "Acts: The Spirit Sends a People",
+  "subtitle": "From Jerusalem toward Rome, the risen Jesus’ witnesses learn the reach of God’s welcome.",
+  "atAGlance": {
+    "genre": "Theological history and narrative; second volume of Luke–Acts",
+    "setting": "The first decades of the Jesus movement, from Jerusalem across the eastern Mediterranean to Rome.",
+    "composition": "Written by the author of Luke; traditionally attributed to Luke. Commonly placed in the later first century, though earlier and second-century dates are also proposed.",
+    "audience": "Addressed to Theophilus and a wider audience considering the origins and mission of the Christian movement."
+  },
+  "sections": [
+    {
+      "title": "The story continues",
+      "paragraphs": [
+        "Acts opens where Luke’s Gospel leaves its followers: the risen Jesus is preparing them for witness. They ask about the restoration of Israel, and He directs them toward the coming Spirit and a mission extending outward from Jerusalem. His ascension begins a season of waiting and prayer. At Pentecost, the Spirit’s arrival gives their testimony a public voice.",
+        "The book follows a movement through people, households, cities, and contested boundaries. Peter and John, Stephen and Philip, Barnabas and Paul, Priscilla and Aquila all contribute to a story larger than any one leader. Speech matters, but so do meals, shared resources, healing, journeys, and the welcome of strangers. The gospel becomes visible through communities learning what it means to belong to the risen Jesus."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "History told with a purpose",
+      "paragraphs": [
+        "Acts and Luke share a dedication and a connected narrative plan. The author remains unnamed within the works, while tradition identifies him as Luke, Paul’s associate. Many scholars place Acts late in the first century; the exact date is disputed. Its ending with Paul in Rome does not by itself establish the year of composition, because a narrative can end at a point chosen for its message.",
+        "The events described span approximately the AD 30s to the early 60s. Acts interprets those events through the conviction that God’s purpose is advancing. Its speeches explain that purpose in different settings: a Jerusalem festival, a synagogue, a public gathering in Athens, or a Roman hearing. Read the speeches with their audiences in view. Their common testimony takes different forms because the people being addressed bring different questions."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "A community learns the reach of grace",
+      "paragraphs": [
+        "The earliest chapters emphasize prayer, teaching, shared meals, and care for those in need. They also record deception, complaints about neglected widows, and conflict over leadership. Acts gives a hopeful portrait of the church without concealing its tensions. Faithfulness includes the practical work of responding when a community’s arrangements fail its members.",
+        "As the narrative moves through Samaria and toward Gentile households, the boundaries of belonging become urgent. Peter’s encounter with Cornelius and the gathering in Jerusalem in chapter 15 are decisive. The question is how Gentiles may enter fellowship with the God of Israel through Jesus. The Spirit’s work, remembered experience, and Scripture all contribute to the church’s discernment. Agreement requires listening as well as conviction, and its consequences reach the shared table."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Witness in public and under pressure",
+      "paragraphs": [
+        "Paul’s journeys carry the story through settings where religion, commerce, civic honor, and political authority overlap. The gospel can disrupt established interests, as events in Philippi and Ephesus show. Opposition is varied: sometimes an economic grievance, sometimes a theological dispute, sometimes the instability of a crowd. Acts does not reduce every conflict to a single cause.",
+        "The later chapters follow Paul through arrest, legal hearings, danger at sea, and arrival in Rome. His confinement limits his movement but does not silence his witness. The repeated accounts of his encounter with Jesus allow him to explain his calling before different audiences. Watch how courage and ordinary assistance work together: friends, relatives, hosts, and officials all affect the route. The Spirit’s mission unfolds through material circumstances and human relationships."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading Acts alongside the letters",
+      "paragraphs": [
+        "Acts is selective. It gives extensive attention to some workers while leaving others largely outside its narrative. Paul’s own letters provide another perspective on the same broad period and should be read beside Acts without forcing every detail into a certainty the evidence cannot support. The book’s “we” passages are significant, but their relationship to authorship remains debated.",
+        "The church’s prayers repeatedly accompany decisions, danger, and renewed boldness. The ending leaves Paul proclaiming God’s kingdom in Rome, still a prisoner yet able to receive visitors. That final emphasis points beyond the fate of one messenger to the continuing movement of the word. Read Acts by following its repeated questions: who receives the Spirit, who is welcomed, what must change, and how does the community respond? Its relevance lies in the patient, courageous work of bearing witness while learning to recognize God’s activity beyond familiar expectations."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Jerusalem and the Spirit’s arrival",
+      "startChapter": 1,
+      "endChapter": 7,
+      "description": "Pentecost, the first community, public witness, and Stephen."
+    },
+    {
+      "label": "The mission crosses boundaries",
+      "startChapter": 8,
+      "endChapter": 12,
+      "description": "Samaria, Saul’s call, Cornelius, and an expanding church."
+    },
+    {
+      "label": "Journeys and the question of Gentile belonging",
+      "startChapter": 13,
+      "endChapter": 15,
+      "description": "Mission through Asia Minor and the Jerusalem gathering."
+    },
+    {
+      "label": "Witness across the Mediterranean",
+      "startChapter": 16,
+      "endChapter": 20,
+      "description": "Communities, opposition, coworkers, and Paul’s farewell."
+    },
+    {
+      "label": "From arrest to Rome",
+      "startChapter": 21,
+      "endChapter": 28,
+      "description": "Hearings, testimony, sea travel, and proclamation in Rome."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "The Spirit’s initiative",
+      "description": "God equips witnesses and opens unexpected paths."
+    },
+    {
+      "name": "Belonging across boundaries",
+      "description": "The church learns how Gentiles share in the promise through Jesus."
+    },
+    {
+      "name": "Courageous public witness",
+      "description": "The message continues amid conflict, confinement, and care."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Approximately AD 30s–early 60s",
+    "context": "Narrative setting: the emergence and spread of the early church. These dates describe the events, not the later date of composition.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 12,
+      "era": "early-church",
+      "label": "Jerusalem and the expanding movement",
+      "dateLabel": "Approximately AD 30s–40s",
+      "note": "Broad narrative period; individual episodes are not dated precisely."
+    },
+    {
+      "start": 13,
+      "end": 20,
+      "era": "early-church",
+      "label": "Mission around the eastern Mediterranean",
+      "dateLabel": "Approximately AD 40s–50s",
+      "note": "Paul and coworkers establish and revisit communities; the chapter boundaries do not mark exact years."
+    },
+    {
+      "start": 21,
+      "end": 28,
+      "era": "early-church",
+      "label": "Paul’s arrest and journey to Rome",
+      "dateLabel": "Approximately late AD 50s–early 60s",
+      "note": "The narrative concludes with Paul in Rome; this does not establish when Acts was written."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Acts · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Acts · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/acts/lessons/summary-of-acts/"
+    }
+  ]
+}

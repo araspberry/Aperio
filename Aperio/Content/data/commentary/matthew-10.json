@@ -1,0 +1,55 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 10: The Call to Kingdom Work",
+      "overview": [
+        "Jesus' instructions to his twelve apostles reveal both the privilege and the cost of participating in God's redemptive mission. This chapter pulses with the tension of urgency and opposition, comfort and hardship—the essential realities of faithful Christian witness in a world that often resists the gospel.",
+        "When Jesus sends out the twelve with authority over illness and demonic forces, he dignifies their calling as an extension of his own healing kingdom work. Yet he immediately follows this empowerment with warnings about persecution, family division, and misunderstanding. This isn't meant to discourage; rather, Jesus prepares his followers for reality. The gospel advances not through power that coerces or comfort that compromises, but through vulnerable faithfulness that trusts God even when rejected.",
+        "The passage speaks profoundly to how disciples live among opposition. Jesus teaches that fearing God frees us from fearing people. When we remember that our Father knows the number of hairs on our heads and values us infinitely, the threats of earthly opposition lose their paralyzing grip. This doesn't mean discomfort disappears; it means our ultimate security rests elsewhere. We're called to be \"wise as serpents and innocent as doves\"—discerning about real dangers while maintaining integrity.",
+        "Perhaps most tenderly, Jesus acknowledges that following him may fracture earthly relationships. He never pretends discipleship fits neatly into existing loyalties. Yet he promises that those who lose their lives for his sake will find them. This invitation remains countercultural: in a culture that prizes comfort, convenience, and conflict avoidance, Jesus calls us to a love that transcends immediate comfort and embraces his purposes.",
+        "The chapter culminates with the assurance that anyone who welcomes Christ's messenger welcomes Christ himself. Our small acts of faithful witness carry cosmic significance. How might acknowledging Jesus' authority over your life today reshape how you speak of him to someone in your sphere of influence? What would it mean to trust his promise that he is with you in both reception and rejection?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 10: Scholarly study",
+      "overview": [
+        "Matthew 10 constitutes a pivotal discourse section in the First Gospel, presenting Jesus's commissioning of the twelve apostles for their inaugural mission to Israel. This missionary discourse, the second of five major teaching blocks that structure Matthew's narrative, emerges at a critical juncture following the demonstration of Jesus's authority through miracles in chapters 8–9. The evangelist, writing for a predominantly Jewish-Christian community likely in Syrian Antioch during the 80s CE, shapes this material to address both the historical mission of the Twelve and the ongoing missionary challenges facing his own community.",
+        "The chapter opens with the granting of authority (ἐξουσία, *exousia*) to the disciples, a term denoting delegated power that mirrors Jesus's own demonstrated authority over disease and demonic forces. This commissioning vocabulary deliberately echoes prophetic call narratives while establishing apostolic ministry as an extension of Jesus's messianic work. The restriction to \"the lost sheep of the house of Israel\" (10:6) reflects the salvation-historical priority that Paul also acknowledges, though Matthew's Gospel will ultimately climax with universal mission in 28:19–20.",
+        "The discourse transitions around verse 16 from immediate mission instructions to warnings about persecution that transcend the historical Galilean mission, addressing circumstances more applicable to the post-Easter church. The term παραδίδωμι (*paradidōmi*), meaning \"to hand over\" or \"betray,\" appears repeatedly, connecting the disciples' suffering to Jesus's own passion. This literary telescoping, where Jesus's instructions blend near and distant horizons, has generated scholarly debate about compositional history, with many identifying the fusion of Q material with Matthean redaction.",
+        "The concluding section introduces the challenging \"sword\" saying (10:34), where μάχαιρα (*machaira*) symbolizes not violence but the divisive effect of kingdom allegiance upon household loyalties—a theme with profound resonance in communities experiencing family rupture over faith commitments. The chapter's final verses establish principles of reception and reward that bind the missionary to Christ himself, creating a chain of representative authority. Throughout, Matthew presents discipleship as participation in the master's fate, establishing patterns of suffering and vindication that would sustain persecuted believers across subsequent centuries."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 10: Prophetic perspective",
+      "overview": [
+        "Matthew chapter ten unfolds during the earthly ministry of Jesus Christ, approximately three years before the cross, in the region of Galilee around AD 30. This commissioning of the twelve apostles occurs at the midpoint of Christ's public ministry, as opposition from religious leaders intensifies and the message of the kingdom presses outward with fresh urgency. Within the grand arc of redemption, this passage stands at the hinge point between promise and fulfillment—the long-awaited Messiah has arrived, and now He multiplies His presence through chosen vessels who will carry His authority to the lost sheep of Israel.",
+        "The selection of twelve apostles reverberates with typological significance, deliberately echoing the twelve sons of Jacob who became the twelve tribes. Where the old Israel was constituted through natural descent, Jesus now reconstitutes a new Israel around Himself, built not on bloodline but on calling and commission. These twelve become the foundation stones of a new covenant community, just as Revelation later depicts the twelve foundations of the New Jerusalem bearing apostolic names. The apostles function as a new priesthood, sent forth with delegated authority to heal, cleanse, and proclaim—mediating the presence of the King to a wayward nation.",
+        "The instructions Jesus provides oscillate remarkably between the immediate mission to Israel and far-reaching realities extending to the end of the age. When He speaks of being dragged before governors and kings \"as a testimony to them and to the Gentiles,\" the horizon expands beyond anything the disciples would experience before the cross. The promise that \"he who endures to the end will be saved\" and the mysterious declaration \"you will not finish going through the cities of Israel until the Son of Man comes\" contain eschatological tension that spans the entire church age. Some fulfillment came at Pentecost and throughout Acts; much continues in the suffering church across centuries; ultimate fulfillment awaits Christ's return.",
+        "The call to confess Christ before men with the promise of reciprocal confession before the Father reaches forward to the final judgment. The sword that divides households has cut through every generation since, as allegiance to Jesus severs the deepest natural bonds.",
+        "For the church living between the advents, this chapter establishes the permanent pattern of Christian existence: sent ones bearing kingdom authority, experiencing both miraculous provision and fierce opposition, losing life to find it, discovering that reception of Christ's messengers constitutes reception of Christ Himself. The mission inaugurated here continues until He comes."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.455886+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

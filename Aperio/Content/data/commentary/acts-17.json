@@ -1,0 +1,56 @@
+{
+  "book": "Acts",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 17: The God Who Is Near",
+      "overview": [
+        "The spiritual heart of Acts 17 lies in Paul's conviction that the God of all creation pursues relationship with every nation and person, meeting them exactly where they are—even in their confusion and searching.",
+        "This remarkable chapter records Paul's ministry in Thessalonica, Berea, and Athens. In each place, he encounters resistance, yet his persistence reveals something essential about the nature of Christian witness. Paul doesn't retreat when opposition comes; instead, he reasons, explains, and appeals to his listeners' existing understanding of truth. He recognizes that people are spiritual seekers by nature, even when they're seeking in incomplete or mistaken ways.",
+        "The Athens encounter especially captures this. Standing among pagan statues and idols, Paul notices an altar inscribed \"to an unknown god.\" Rather than scornfully condemn this religious confusion, he uses it as a bridge. He tells them about the God they've been unconsciously seeking, the one who \"made the world and everything in it\" and who \"is not far from each one of us.\" What tenderness in that truth—God is not distant and demanding but present and near, the source of our very breath and being.",
+        "This speaks directly to modern discipleship. Our neighbors, colleagues, and friends are often spiritual seekers too, though they may not yet recognize what they're seeking. They ask profound questions about meaning, belonging, and purpose. Rather than meeting spiritual hunger with judgment, Paul models compassionate engagement. He takes their culture seriously, learns their philosophers, speaks their language, and shows them how Jesus fulfills what their deepest questions point toward.",
+        "The chapter also reminds us that some will mock, some will believe, and many will remain uncertain. Paul accepted this varied response without losing either courage or gentleness. His confidence rested not in persuasive technique but in the truth that the living God continually reaches toward human hearts.",
+        "What unspoken spiritual hunger do you recognize in the people around you, and how might you speak Christ's nearness to that hunger?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 17: Scholarly study",
+      "overview": [
+        "Acts 17 presents a pivotal section of Luke's second volume, documenting Paul's missionary activity in Macedonia and Achaia during what scholars traditionally designate his second missionary journey, likely occurring around 49–51 CE. This chapter demonstrates Luke's sophisticated historiographical method, as he narrates Paul's proclamation of the gospel across diverse cultural contexts—from the synagogue settings of Thessalonica and Berea to the philosophical milieu of Athens. The passage reveals Luke's theological interest in showing how the Christian message engaged both Jewish scriptural traditions and Greco-Roman intellectual frameworks.",
+        "The Thessalonian episode (17:1–9) introduces the significant phrase \"κατὰ τὸ εἰωθὸς\" (kata to eiōthos), meaning \"according to custom,\" indicating Paul's established missionary pattern of beginning proclamation in synagogues. Luke employs the verb \"διελέξατο\" (dielexato), a term denoting reasoned discourse or dialogue, suggesting Paul's method involved careful argumentation from Scripture rather than mere proclamation. The accusation that these missionaries \"τὴν οἰκουμένην ἀναστατώσαντες\" (tēn oikoumenēn anastatōsantes)—have \"turned the world upside down\"—carries political overtones, with \"οἰκουμένη\" specifically denoting the Roman imperial order.",
+        "The Berean interlude (17:10–15) provides Luke's paradigmatic portrait of proper scriptural reception, with the community described as \"εὐγενέστεροι\" (eugenesteroi), meaning \"more noble\" or \"better born,\" here signifying intellectual openness rather than social status.",
+        "The Areopagus address (17:16–34) constitutes the chapter's theological centerpiece and represents Luke's most sustained engagement with Hellenistic philosophy. Paul's reference to the \"ἄγνωστος θεός\" (agnōstos theos), the \"unknown god,\" remains debated among scholars regarding its precise historical referent, though inscriptional evidence from Pergamum offers partial corroboration. The speech's citation of Greek poets—Epimenides and Aratus—demonstrates early Christian apologetic engagement with pagan literature. Scholarly discussion continues regarding whether this address represents authentic Pauline theology or Lukan composition, though the speech's emphasis on divine providence, human unity, and eschatological judgment coheres substantially with Pauline themes found in Romans 1–2. The mixed response—some mocking, others believing—typifies Lukan narrative patterns showing the gospel's divisive yet effective progress."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 17: Prophetic perspective",
+      "overview": [
+        "Acts chapter seventeen unfolds approximately two decades after the resurrection and ascension of Christ, somewhere around AD 50–51, during Paul's second missionary journey through Macedonia and Achaia. The church has now existed for roughly twenty years, the gospel has crossed from Jewish soil into Gentile territory, and the prophetic promise given at Babel—that God would one day reunite the scattered nations under one Lord—is being actively fulfilled through apostolic proclamation.",
+        "Within the grand arc of redemption, this chapter stands firmly in the Church Age, the era inaugurated at Pentecost when the Spirit was poured out on all flesh according to Joel's prophecy. The kingdom promises given to Abraham—that through his seed all nations would be blessed—are here reaching their intended scope as Paul carries the message from Thessalonica to Berea to Athens, the intellectual heart of the Gentile world. What Moses glimpsed from afar and the prophets announced in riddles now stands manifest: the God of Israel is summoning every tribe and tongue to repentance before the coming judgment.",
+        "Paul's sermon on the Areopagus constitutes one of Scripture's most profound prophetic declarations to pagan hearers. He announces that the \"Unknown God\" worshipped in Athenian ignorance is in fact the Creator who made all nations from one blood—a direct echo of Genesis and a reversal of Babel's scattering. The divine purpose in establishing times and boundaries for peoples was always redemptive: that they might grope for God and find Him. Here Paul reveals that the entire sweep of human history, every rise and fall of civilizations, has been sovereignly orchestrated toward this climactic moment when God commands all people everywhere to repent.",
+        "The eschatological weight of Paul's proclamation cannot be overstated. He declares that God has fixed a day of judgment and has furnished proof of this to all humanity by raising Jesus from the dead. The resurrection is not merely past event but future guarantee—the firstfruits assuring the coming harvest of judgment and vindication. Christ's rising from the tomb serves as heaven's appointment notice for the day when He shall judge the world in righteousness.",
+        "For the church dwelling between the advents, this chapter reminds us that we proclaim not merely religious opinion but the sovereign decree of history's Lord. Every philosophical system, every cultural idol, every human attempt at self-salvation stands under the summons to repent before the appointed Judge whose credentials are certified by an empty tomb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.703675+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "book": "2 Chronicles",
+  "bookIndex": 13,
+  "status": "Editorial draft",
+  "title": "The House, the Kings, and the Possibility of Return",
+  "subtitle": "Judah’s history retold around worship, repentance, and renewal",
+  "atAGlance": {
+    "genre": "Theological history, royal narrative, prayers, and accounts of temple reform",
+    "setting": "From Solomon through Judah’s kings to exile and Cyrus’s invitation to return",
+    "composition": "The continuation of the anonymous postexilic Chronicles work; exact date debated",
+    "audience": "The Jewish community after exile, asking how its past can guide renewed life"
+  },
+  "sections": [
+    {
+      "title": "Solomon builds what David prepared",
+      "paragraphs": [
+        "Second Chronicles begins with Solomon and the completion of the temple project that fills the closing chapters of First Chronicles. Wisdom, skilled labor, materials, and communal participation converge on a place of worship. The dedication makes the temple’s meaning explicit through prayer: this is where a people will seek God in gratitude, distress, wrongdoing, and the possibility of return.",
+        "Solomon acknowledges that God cannot be contained by a building. That confession is essential to everything that follows. The temple matters because of God’s chosen relationship with His people, not because architecture can guarantee security. The prayer already imagines situations in which the community will need forgiveness and renewal after serious failure."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Judah’s rulers under examination",
+      "paragraphs": [
+        "After Solomon, the story follows the kingdom of Judah much more closely than the northern kingdom. Its rulers are measured by how they seek God, respond to prophetic counsel, and order the people’s worship. The pattern is not a flat division between good people who never fail and bad people who can never change. Several kings begin well and later turn aside; others respond to judgment with humility.",
+        "Asa, Jehoshaphat, Joash, and Uzziah illustrate different dangers in the use of authority. Success can encourage self-reliance, a helpful alliance can conceal a compromised allegiance, and a leader who once listened can later refuse correction. Chronicles repeatedly asks what happens after an initial act of faithfulness. A reign, like a life, must be read through its changes."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The work of reform",
+      "paragraphs": [
+        "Hezekiah’s and Josiah’s reforms receive extended treatment. The temple is cleansed or repaired, neglected practices are restored, and Passover gathers people around a remembered deliverance. These accounts make renewal more than a private change of attitude. Rooms must be opened, responsibilities resumed, teaching heard, and a community invited to participate.",
+        "The invitations also reach beyond narrow political boundaries. The narrator’s interest in the whole people of Israel persists even when the story centers on Judah. Worship can recall an identity larger than the divisions people have inherited. At the same time, the book does not suggest that a single great celebration permanently secures a community’s faithfulness. Each generation still faces decisions of its own."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Repentance and its surprising reach",
+      "paragraphs": [
+        "The account of Manasseh includes humiliation and repentance as well as severe wrongdoing. This emphasis gives Chronicles a distinctive place alongside Kings. The later retelling asks readers to consider the possibility of return even in a life with a deeply damaging past. That possibility does not mean that the earlier harm was slight or that its effects simply disappear.",
+        "The language of seeking, humbling oneself, hearing, and returning recurs throughout the book. These actions describe responsiveness to God rather than a technique for controlling outcomes. Promises addressed to Israel in its covenant setting require care when readers apply them today. They should not be treated as automatic guarantees that a modern nation will receive prosperity if it performs a particular religious act."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The ending turns toward home",
+      "paragraphs": [
+        "The final chapter recounts Jerusalem’s destruction, the loss of the temple, and exile. Yet the book closes with Cyrus’s proclamation allowing a return and the rebuilding of God’s house. The invitation is the final word. For the community that received Chronicles, disaster belonged to its memory, but it did not have to exhaust its imagination.",
+        "The narrated history extends from the tenth into the sixth century BC. The book’s author wrote after these events, with the concerns of a restored community in view; the exact date and stages of composition remain debated. Read its retellings with that audience in mind. Chronicles asks how worship can become truthful again, how institutions can be repaired, and how people who know the consequences of failure can still answer an invitation to begin."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Solomon and the temple",
+      "startChapter": 1,
+      "endChapter": 9,
+      "description": "Wisdom, construction, dedication, and royal splendor establish the temple’s central role."
+    },
+    {
+      "label": "Judah’s kings and their choices",
+      "startChapter": 10,
+      "endChapter": 28,
+      "description": "A divided kingdom develops through alternating faithfulness, compromise, reform, and refusal."
+    },
+    {
+      "label": "Great reforms and continuing danger",
+      "startChapter": 29,
+      "endChapter": 35,
+      "description": "Hezekiah and Josiah renew worship; Manasseh’s story includes both corruption and repentance."
+    },
+    {
+      "label": "Exile and an invitation to return",
+      "startChapter": 36,
+      "endChapter": 36,
+      "description": "Jerusalem falls, but Cyrus’s proclamation opens the possibility of rebuilding."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Seeking God",
+      "description": "Responsiveness matters throughout a reign, including after success or failure."
+    },
+    {
+      "name": "Renewed worship",
+      "description": "Reform involves shared practices, repaired institutions, and remembered deliverance."
+    },
+    {
+      "name": "Return",
+      "description": "The final invitation gives a devastated history an unfinished future."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Tenth–sixth centuries BC",
+    "context": "Solomon’s reign leads through Judah’s history to exile and the permission to return.",
+    "note": "The postexilic author looks back across these periods with renewed community life in view."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 9,
+      "era": "united-kingdom",
+      "label": "Solomon and the temple",
+      "dateLabel": "Broadly the tenth century BC",
+      "note": "The temple project fulfills the preparations narrated in First Chronicles."
+    },
+    {
+      "start": 10,
+      "end": 35,
+      "era": "divided-kingdom",
+      "label": "The kings of Judah",
+      "dateLabel": "Late tenth–late seventh centuries BC",
+      "note": "The northern kingdom appears chiefly where its story intersects Judah’s."
+    },
+    {
+      "start": 36,
+      "end": 36,
+      "era": "exile",
+      "label": "Jerusalem’s fall and the opening of return",
+      "dateLabel": "Sixth century BC",
+      "note": "The chapter reaches beyond destruction to Cyrus’s invitation to rebuild."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Chronicles · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 2 Chronicles",
+      "url": "https://bible.usccb.org/bible/1chronicles/0"
+    }
+  ]
+}

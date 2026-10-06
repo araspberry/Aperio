@@ -1,0 +1,57 @@
+{
+  "book": "2 Samuel",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Samuel 17: The Cost of Seeking Wisdom",
+      "overview": [
+        "When we're at our most vulnerable, we desperately need trustworthy counsel—and this chapter shows us both the seduction of bad advice and the providence of God protecting us through it.",
+        "Absalom, David's rebellious son, finds himself at a crossroads. His counselor Ahithophel offers swift, devastating strategy: pursue David immediately while he's exhausted and scattered. The advice is shrewd and would likely succeed. Yet another counselor, Hushai, advocates for delay, appealing to Absalom's vanity and fear. Scripture tells us plainly: \"The Lord had ordained to defeat the good counsel of Ahithophel\" (17:14). Absalom chooses Hushai's counsel, and in that moment, God works through human preference to preserve David's life.",
+        "This passage reveals something profound about how God operates in our lives. He doesn't always shield us from temptation or bad counsel through supernatural intervention. Instead, He works within the texture of human choice and relationship. Hushai, David's friend, infiltrated Absalom's court and spoke wisdom clothed in flattery—not because deception is virtuous, but because sometimes faithfulness requires us to operate with shrewd love in broken situations.",
+        "The tragedy deepens when Ahithophel, rejected and humiliated, returns home and takes his own life. His intellectual superiority couldn't save him from despair when his counsel was dismissed. This reminds us that the human heart needs more than being right; it needs purpose, belonging, and grace.",
+        "For us, this chapter asks: Where are we receiving counsel? Are we surrounding ourselves with voices that tell us what we want to hear, or those willing to speak hard truth? More importantly, can we trust that God is sovereign even over our mistakes and poor decisions? Like David fleeing in the wilderness, we may not understand God's protection in the moment, but He is working through the maze of human choices to accomplish His purposes.",
+        "What voices are shaping your decisions right now—and are they leading you toward wisdom or away from it?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 17: Scholarly study",
+      "overview": [
+        "The seventeenth chapter of 2 Samuel continues the dramatic narrative of Absalom's rebellion, presenting a pivotal moment when competing counsel determines the fate of David's monarchy. This chapter, likely composed during the early monarchic period and preserved within the Court History or Succession Narrative (2 Samuel 9–20; 1 Kings 1–2), demonstrates the ancient Israelite conviction that divine providence operates through human wisdom and folly. The narrator masterfully weaves together political intrigue, psychological tension, and theological reflection as two advisors offer contradictory strategies to the usurper Absalom.",
+        "Ahithophel, whose counsel was regarded \"as if one inquired of the word of God\" (16:23), proposes immediate pursuit with twelve thousand men to strike David while he is weary and weak (*yāgēa'* יָגֵעַ, denoting exhaustion and demoralization). His strategy exhibits military pragmatism: isolate the king, minimize casualties, and reunite the kingdom swiftly. The verb *nāpēṣ* (נָפַץ, \"to scatter\") describes the anticipated dispersal of David's forces, imagery evoking sheep without a shepherd.",
+        "Hushai the Arkite, functioning as David's covert agent, counters with deliberately misleading advice designed to provide David time to regroup. His rhetoric appeals to Absalom's vanity, envisioning the prince himself leading \"all Israel\" (*kol-yiśrā'ēl*) in overwhelming force. The narrative tension reaches its climax in verse 14, where the narrator explicitly attributes Absalom's fatal choice to Yahweh's determination (*ṣiwwāh*, \"commanded, ordained\") to bring disaster upon him.",
+        "The chapter concludes with logistical details of David's flight across the Jordan to Mahanaim, where supporters provide sustenance for his depleted forces. Ahithophel's suicide—recorded with striking brevity—represents both personal despair and recognition that Absalom's cause is now doomed. His deliberate arrangement of household affairs before death reflects the calculated rationality that characterized his counsel.",
+        "Interpreters debate whether this narrative primarily serves political apologetics for David's regime or functions as wisdom literature demonstrating that human cleverness cannot ultimately thwart divine purposes. The interplay between human agency and divine sovereignty remains theologically generative, illustrating the Deuteronomistic conviction that Yahweh judges rebellion while preserving the Davidic covenant."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 17: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before Christ, during the darkest hour of David's reign, when his own son Absalom had seized Jerusalem and the anointed king fled eastward across the Jordan as a fugitive in his own kingdom. Within the grand arc of redemption, this moment belongs to the Kingdom era—that period when God was establishing through David's house a throne that would endure forever, even as human sin threatened to tear it asunder. The very dynasty through which Messiah would come hung in the balance, suspended between treacherous counsel and divine providence.",
+        "The chapter presents a striking contest between two counselors: Ahithophel, whose wisdom was regarded as the very oracle of God, and Hushai, David's secret ally planted in Absalom's court. Ahithophel's counsel was swift, surgical, and humanly brilliant—strike immediately while David is weary and weak, kill only the king, and bring the people back in peace. Yet Hushai's counter-counsel, though militarily inferior, appealed to Absalom's pride and bought David precious time. Here Scripture unveils a profound truth: \"The LORD had purposed to defeat the good counsel of Ahithophel, that the LORD might bring disaster on Absalom.\" Behind the deliberations of kings stands the sovereign God who turns the wisdom of the wise into foolishness.",
+        "Typologically, David fleeing Jerusalem while his throne is usurped by one from his own house foreshadows Christ, who was rejected by His own people and delivered over by one who had eaten at His table. Ahithophel himself becomes a haunting type of Judas—the trusted counselor whose advice was valued like divine utterance, yet who betrayed his lord and, when his counsel was not followed, went home, set his affairs in order, and hanged himself. This parallel, spanning a millennium, demonstrates how Scripture's patterns anticipate the gospel narrative with astonishing precision.",
+        "Yet even in exile, David was not abandoned. Provisions came from unexpected sources at Mahanaim—beds, basins, wheat, barley, honey, and curds—from men including Shobi the Ammonite and Barzillai the Gileadite. The rejected king received sustenance from Gentile hands, prefiguring how the rejected Messiah would find faith among the nations.",
+        "For the church living between the advents, this chapter declares that no counsel, however shrewd, can stand against God's purposes for His anointed. The enemy's strategies, though appearing victorious for a moment, will ultimately serve the Father's eternal plan to establish His Son's throne forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.510207+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

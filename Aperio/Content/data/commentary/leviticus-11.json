@@ -1,0 +1,55 @@
+{
+  "book": "Leviticus",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Leviticus 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Leviticus 11: The Gift of Distinction",
+      "overview": [
+        "At the heart of Leviticus 11 lies a profound spiritual principle: God calls His people to be set apart through the practice of holiness in the everyday rhythms of eating and living. These dietary laws, which may seem strange to modern readers, were Moses' way of teaching Israel that worship extends beyond the temple into the kitchen, the marketplace, and the dinner table.",
+        "The categories of clean and unclean animals served as constant, visible reminders that Israel belonged to the Lord. Every meal became a small act of covenant obedience. When a person refused to eat certain foods, they were literally digesting the truth that they had been chosen for something different. This wasn't arbitrary restriction; it was relational discipline. God was saying to His people: \"You are mine, and your choices about what you consume reflect whose you are.\"",
+        "What makes this passage spiritually rich is that it transforms the mundane into the sacred. The laws weren't primarily about hygiene or health, though God certainly cares for our bodies. Rather, they were about training the soul through the body. Each time an Israelite reached for food, they encountered a boundary marker of their covenant identity. That simple pause—\"Can I eat this?\"—became a spiritual practice, a small but repeated choice to honor their relationship with God.",
+        "For us today, while these specific laws no longer bind Christian consciences, the principle still resonates. We too are called to holiness in our ordinary moments. What we consume—whether food, media, information, or entertainment—shapes who we become. Our daily choices either reinforce our identity as God's beloved or pull us away from it.",
+        "The deeper question these ancient laws invite us to ask is this: In what everyday practices do I most clearly remember that I belong to God? What rhythms of my life could become spiritual disciplines that strengthen my covenant with Him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Leviticus 11: Scholarly study",
+      "overview": [
+        "Leviticus 11 constitutes the opening unit of a larger section spanning chapters 11–15, which addresses various forms of ritual impurity that affect the Israelite community. This chapter specifically establishes the dietary laws distinguishing clean from unclean animals, providing the foundational taxonomy that would shape Israelite identity for millennia. The passage emerges from the Priestly source tradition and reflects the post-Sinai legislative corpus delivered through Moses and Aaron jointly, a detail indicating the priestly implementation of these directives. The historical context likely reflects both ancient Near Eastern dietary customs and the intentional differentiation of Israel from surrounding peoples, though scholars continue to debate whether hygienic, symbolic, or purely theological rationales undergird these distinctions.",
+        "The central Hebrew term *ṭāmē'* (טָמֵא), rendered \"unclean,\" carries no inherent moral connotation but rather denotes a state of ritual unfitness for approaching sacred space. Its counterpart *ṭāhôr* (טָהוֹר), \"clean,\" indicates fitness for worship participation. The concept of *šeqeṣ* (שֶׁקֶץ), often translated \"detestable\" or \"abomination,\" appears prominently regarding aquatic and flying creatures, suggesting a stronger prohibitive force than mere uncleanness. This term later extends metaphorically to idolatrous practices, revealing the semantic range connecting dietary and religious fidelity.",
+        "The classificatory system operates through morphological criteria: land animals must possess split hooves and chew cud; aquatic creatures require fins and scales; flying creatures follow an exemplary list method rather than defining characteristics. Mary Douglas's influential anthropological analysis suggested these categories reflect a concern for taxonomic wholeness, with animals violating category boundaries rendered unclean. However, Jacob Milgrom argued more persuasively that the system fundamentally concerns life and death symbolism, with prohibited creatures associated with death, carrion, or predation.",
+        "The passage concludes with a theological rationale explicitly connecting dietary practice to holiness: Israel must distinguish clean from unclean because Yahweh, who brought them from Egypt, is holy. This literary-theological framing transforms seemingly mundane food regulations into expressions of covenant identity. The concluding summary formula in verses 46–47 employs *tôrâ* (תּוֹרָה), indicating this unit functions as authoritative instruction requiring ongoing interpretation. Later Jewish tradition would extensively develop these foundational categories, while early Christianity would wrestle significantly with their continuing validity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Leviticus 11: Prophetic perspective",
+      "overview": [
+        "Leviticus 11 emerges from the wilderness encampment at Sinai, approximately 1,446 years before Christ's birth, during the foundational year when Israel received the Torah following their dramatic exodus from Egypt. This chapter belongs to the era of covenant formation, positioned in redemptive history between the Exodus deliverance and the long journey toward the Promised Land—a people redeemed by blood now learning what it means to live as God's holy nation.",
+        "The detailed dietary regulations distinguishing clean from unclean animals constitute far more than ancient health codes. These laws served as a perpetual catechism written into daily meals, teaching Israel through every bite that they belonged to a God who separates, distinguishes, and calls His people out from the nations. The division between creatures that may be eaten and those that must be rejected typologically shadows the greater division between those gathered into covenant fellowship and those remaining outside. Every Israelite household became a classroom where children learned through tangible, visceral experience that holiness involves boundaries, that belonging to Yahweh requires visible distinction from surrounding peoples.",
+        "The categories themselves carry prophetic weight. The creatures that chew the cud and have divided hooves point toward those who both inwardly meditate on God's word and outwardly walk in separated paths. The sea creatures with fins and scales—equipped for purposeful navigation rather than aimless drifting—picture those who move through the world with direction and protective covering. These physical markers prophetically anticipate the spiritual realities that would be fully revealed in the new covenant.",
+        "The fulfillment of this passage arrives dramatically in Acts 10, when Peter receives the vision of the sheet descending from heaven with all manner of creatures, and the divine voice declares clean what God has cleansed. Christ's atoning work accomplished what dietary laws could only foreshadow—true purification of the heart that makes Jew and Gentile alike fit for God's presence. The wall of separation through food laws, having served its pedagogical purpose in redemptive history, gives way to the one new humanity created in Christ.",
+        "Yet the eternal principle pulsing through Leviticus 11 remains vibrantly alive for the church between the advents: \"Be holy, for I am holy.\" The shadows have passed, but the substance endures. God's people still bear the call to visible distinction, not through dietary restriction but through transformed lives that testify to a different allegiance. The church awaits the consummation when holiness will characterize all creation, when nothing unclean will enter the New Jerusalem, and the long training in separation will yield to eternal communion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "03_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.962452+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

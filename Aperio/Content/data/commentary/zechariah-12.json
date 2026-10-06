@@ -1,0 +1,55 @@
+{
+  "book": "Zechariah",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Zechariah 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Zechariah 12: The God Who Fights for His Beloved",
+      "overview": [
+        "In this remarkable prophecy, Zechariah unveils the tender heart of God toward Jerusalem—a God who positions himself as an unshakeable defender of his people, pouring out on them both protective strength and repentant grace. At its core, this passage reveals that God's commitment to his covenant people is not contingent on their merit but flows from his unwavering love.",
+        "Zechariah opens with a striking image: God makes Jerusalem \"a cup that sends all the surrounding peoples reeling\" and an immovable stone that crushes those who come against it. The prophecy assures believers facing overwhelming odds that divine protection operates on a different plane than human military might. Yet notice what troubles God most—not the external threat but the internal spiritual condition. The passage pivots toward something deeper: a spirit of grace and supplication poured out upon Jerusalem, leading them to \"look on the one they have pierced\" and mourn as for an only child.",
+        "This movement from protection to repentance mirrors the Christian journey. God doesn't simply shield us from hardship; he uses seasons of struggle to awaken us to our need for genuine transformation. The piercing grief described here isn't destructive; it's the holy sorrow that leads to healing. When we truly see our need—when we recognize how we've turned from God—authentic renewal begins.",
+        "For believers today, Zechariah reminds us that our God is both fortress and shepherd. He stands between us and destruction, but his greater concern is drawing us into restored relationship with himself. Our circumstances may feel precarious, our opposition real, but the promise stands: we are defended and loved by one whose purposes cannot be thwarted.",
+        "Where in your life do you need to trust God's protection? And what internal attitudes might God be inviting you to surrender so his grace can work more deeply in your heart?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Zechariah 12: Scholarly study",
+      "overview": [
+        "Zechariah 12 opens the second major oracle (massa') of the book's latter section, commonly designated Deutero-Zechariah by critical scholars, though debates regarding authorship and dating continue to occupy biblical scholarship. The superscription identifies this burden as concerning Israel, yet the content focuses predominantly on Jerusalem and Judah, employing apocalyptic imagery characteristic of late prophetic literature. The historical backdrop remains contested; proposals range from the Persian period to Hellenistic times, though the theological vision transcends immediate historical circumstances to articulate Yahweh's eschatological intervention on behalf of his people.",
+        "The chapter commences with a striking cosmological credentialing of the divine speaker, identifying Yahweh as the one who stretches out the heavens (noteh shamayim), lays the foundation of the earth, and forms the human spirit within. This threefold creative assertion establishes the authority behind the subsequent oracle and connects Yahweh's future salvific acts to his primordial creative power. The term saph, rendered \"cup\" or \"basin,\" appears in verse two describing Jerusalem as an instrument of divine judgment causing surrounding nations to reel in intoxication—a metaphor with extensive prophetic parallels in Isaiah and Jeremiah.",
+        "The imagery of Jerusalem as an immovable stone (even ma'amasa) that injures all who attempt to lift it reinforces the city's inviolability under divine protection. Verses four through nine detail Yahweh's supernatural intervention: striking enemy horses with confusion while keeping vigilant watch over Judah. Notably, the text emphasizes that Judah's clans will recognize their strength derives from Jerusalem's inhabitants through Yahweh Sebaoth, creating theological unity between countryside and capital.",
+        "The chapter's climactic section describes an outpouring of the spirit of grace and supplication (ruach chen wetachanunim), prompting communal mourning for \"the one whom they have pierced\"—a passage generating extensive christological interpretation in early Christianity, explicitly cited in John 19:37. The identity of this pierced figure remains exegetically contentious: proposals include a martyred prophetic figure, a royal representative, or a collective symbol. The mourning rituals described parallel those for Josiah at Hadad-rimmon, suggesting profound national grief. The separation of mourning by families—David, Nathan, Levi, Shimei—emphasizes both the universality and intensely personal nature of this eschatological repentance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Zechariah 12: Prophetic perspective",
+      "overview": [
+        "Zechariah 12 emerges approximately 520 years before the birth of Christ, during the fragile period following Judah's return from Babylonian exile. The prophet speaks to a remnant community rebuilding Jerusalem's walls and temple, yet his vision catapults far beyond that historical moment into the distant future—to events that remain partially fulfilled and partially awaiting consummation. This oracle stands at the hinge point between Restoration and the coming Messianic age, bridging the rebuilt city of Zerubbabel's generation with the ultimate destiny of Zion under her pierced King.",
+        "The chapter opens with a declaration of cosmic authority: the LORD who stretches out the heavens, lays the foundation of earth, and forms the human spirit now speaks concerning Israel's ultimate vindication. Jerusalem becomes a cup of reeling to surrounding nations—imagery recalling how God made Egypt drink the cup of judgment during the Exodus. What Pharaoh experienced, the final enemies of God's people shall experience. The city becomes an immovable stone; all who attempt to lift it shall be severely injured. Here the typological pattern of the Exodus finds its ultimate expression: as God once delivered Israel from Egyptian bondage through mighty acts, so He shall finally deliver Jerusalem from all hostile powers through supernatural intervention.",
+        "The governors of Judah recognize that Jerusalem's inhabitants possess strength through the LORD of hosts—a confession that echoes David's triumph over Goliath not by sword or spear but by the Name. The feeble among them shall become like David, and the house of David like God, like the Angel of the LORD going before them. This Angel—who appeared to Moses in the burning bush, who led Israel through the wilderness, who stood before Joshua with drawn sword—now becomes the measure of Davidic glory.",
+        "Then comes the piercing revelation: \"They shall look on Me whom they have pierced, and they shall mourn for Him as one mourns for an only son.\" The shift from \"Me\" to \"Him\" unveils the mystery of the incarnation—YHWH Himself will be pierced, yet as a man they shall mourn Him. John's Gospel explicitly identifies this fulfillment at Calvary when the soldier's spear opened Christ's side. Yet the national mourning described here—clan by clan, family by family, in the bitter grief reserved for firstborn sons—awaits a future day when Israel corporately recognizes her Messiah.",
+        "The church lives in the already of the piercing and the not-yet of Israel's full restoration, bearing witness to the Wounded King until all eyes behold Him."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "38_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.414105+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "book": "Genesis",
+  "bookIndex": 0,
+  "status": "Editorial draft",
+  "title": "A Beginning Larger Than One Family",
+  "subtitle": "Creation, fractured relationships, and the promise that keeps moving",
+  "atAGlance": {
+    "genre": "Foundational narrative, genealogies, ancestral stories, and poetry",
+    "setting": "From the beginnings of the world to Israel’s ancestors in Egypt",
+    "composition": "Traditionally associated with Moses; the formation and editing of the book remain debated",
+    "audience": "Israel reflecting on its origins, its God, and its calling among the nations"
+  },
+  "sections": [
+    {
+      "title": "The world before Israel",
+      "paragraphs": [
+        "Genesis begins with the whole world in view. Before Abraham is called or Israel receives a name, God creates a world He calls good and gives human beings a shared dignity. The opening chapters ask questions that remain close to ordinary life: Why is there beauty? Why do people hurt one another? What happens when trust gives way to suspicion, rivalry, and fear? The stories are compact, but their consequences spread through generations.",
+        "Read chapters 1–11 with attention to that widening pattern. Adam and Eve hide; Cain turns against Abel; violence fills the earth; a city seeks security in its own reputation. Judgment is real, yet the story repeatedly continues through divine provision and renewed blessing. Noah’s covenant includes living creatures as well as his family. Genesis has already established that God’s concern reaches farther than any one nation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A promise carried through imperfect households",
+      "paragraphs": [
+        "With Abraham and Sarah, the scale becomes intimate. God promises descendants, land, and blessing that will reach other families of the earth. Yet Sarah remains childless for many years, Abraham lives as a foreigner, and their decisions sometimes place others in danger. Faith here has a history: waiting, misunderstanding, obedience, and occasions when God must rescue people from the consequences of their own plans.",
+        "Isaac and Rebekah, Jacob and Esau, Leah and Rachel carry this complicated household story forward. Pay attention to who is overlooked and who is heard. Hagar encounters God in distress; rivalry wounds siblings; Jacob discovers that blessing cannot make his relationships disposable. The promises do not turn these families into simple moral examples. Their failures make God’s persistence, and the cost of human action, more visible."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Joseph and the long work of reconciliation",
+      "paragraphs": [
+        "The final movement follows Joseph from betrayal to authority in Egypt. His brothers return when famine leaves them dependent on a man they do not recognize. Food is at stake, but so are truth and the possibility of a changed family. Judah’s willingness to bear a brother’s loss marks a striking change from the brothers’ earlier conduct.",
+        "Joseph eventually speaks of God bringing life out of what others intended for harm. That conviction does not rename their betrayal as good. Genesis holds human responsibility and divine preservation together. The book ends in Egypt, with a death and a promise still awaiting fulfillment. Its closing horizon points toward Exodus rather than a finished, trouble-free life."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Setting, authorship, and the way to read",
+      "paragraphs": [
+        "Jewish and Christian tradition associates Genesis with Moses as part of the Torah. Modern scholarship debates how ancestral traditions and later editorial work contributed to its present form; many scholars place important stages of that work in the exilic or Persian periods. The book itself does not identify a named author. These questions concern composition, not a date printed beside creation. Aperio therefore leaves the origins narratives undated and identifies the ancestral setting broadly.",
+        "Begin by following repeated promises and changing relationships rather than trying to make every scene answer a modern question. Genealogies keep track of peoples beyond the central family and connect one generation to the next. Later biblical writers return to creation, Abraham, and Joseph in their own settings. Christian readings should notice those explicit connections while allowing Genesis’s households, griefs, and unfinished hopes to speak in their own voices."
+      ],
+      "sourceIds": [
+        "text",
+        "intro",
+        "torah"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The world and its peoples",
+      "startChapter": 1,
+      "endChapter": 11,
+      "description": "Creation, rebellion, flood, and dispersed nations establish the human setting for the ancestral promises."
+    },
+    {
+      "label": "Abraham and Sarah",
+      "startChapter": 12,
+      "endChapter": 24,
+      "description": "A household learns to live with promise amid migration, delay, danger, and the birth of Isaac."
+    },
+    {
+      "label": "Isaac, Jacob, and their families",
+      "startChapter": 25,
+      "endChapter": 36,
+      "description": "Inheritance and rivalry unfold through marriages, departures, encounters with God, and reconciliation."
+    },
+    {
+      "label": "Joseph and the family in Egypt",
+      "startChapter": 37,
+      "endChapter": 50,
+      "description": "Betrayal and famine lead toward preservation, testing, and a difficult reunion."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Blessing",
+      "description": "God’s gifts create responsibility toward people beyond the chosen household."
+    },
+    {
+      "name": "Promise and waiting",
+      "description": "Fulfillment often arrives through long delays rather than immediate possession."
+    },
+    {
+      "name": "Family and responsibility",
+      "description": "Election does not excuse deception, exploitation, or harm to the vulnerable."
+    }
+  ],
+  "timeline": {
+    "era": "origins",
+    "dateLabel": "Undated beginnings; ancestral era",
+    "context": "Genesis moves from the world’s origins to Israel’s ancestors before the exodus.",
+    "note": "The timeline distinguishes narrative sequence from independently established calendar dates."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 11,
+      "era": "origins",
+      "label": "The world’s beginnings",
+      "dateLabel": "Undated",
+      "note": "These chapters are not assigned a precise calendar year."
+    },
+    {
+      "start": 12,
+      "end": 50,
+      "era": "patriarchs",
+      "label": "Israel’s ancestral families",
+      "dateLabel": "Before the exodus",
+      "note": "The narrative belongs to the ancestral era; exact dates are not established by the text."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Genesis · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Genesis",
+      "url": "https://bible.usccb.org/bible/genesis/0"
+    },
+    {
+      "id": "torah",
+      "label": "Pentateuch · authorship and composition traditions",
+      "url": "https://bible.usccb.org/bible/thepentateuch/0"
+    }
+  ]
+}

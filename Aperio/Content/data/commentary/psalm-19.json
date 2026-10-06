@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 19: The Voice That Declares",
+      "overview": [
+        "The heavens declare God's glory through creation itself, while Scripture reveals His character through words—together they form a complete testimony that transforms the human heart from the inside out. Psalm 19 invites us into the wonder of encountering God through both the book of nature and the book of His law.",
+        "The psalm begins by lifting our eyes skyward. Day after day, night after night, creation speaks wordlessly of its Creator's majesty. No language barrier exists here; the glory is visible to every eye. Yet creation, though magnificent, can only point us toward God's power and artistry. It cannot guide us into righteousness or teach us how to live. This is where Scripture enters—God's revealed word completes what creation began. The law of the Lord is perfect, converting the soul. His precepts are right, rejoicing the heart. His commandment is pure, enlightening the eyes.",
+        "This movement from external witness to internal transformation happens because God's word doesn't merely inform us; it changes us. When we encounter Scripture seriously, we're encountering the character of the God who made us. We see our own smallness and His infinite wisdom. We recognize our waywardness and His gracious direction. The psalmist moves toward personal vulnerability: \"Who can discern their own errors? Forgive my hidden faults.\" There is spiritual honesty here—the awareness that we all stumble, often in ways we cannot even perceive.",
+        "The conclusion radiates confidence: \"May the words of my mouth and this meditation of my heart be pleasing in your sight, Lord, my Rock and my Redeemer.\" This is not arrogance but trust—the psalmist places his entire inner world, his thoughts and speech, before God for refinement.",
+        "We live in a world offering countless voices. Psalm 19 reminds us that God's voice comes to us through creation's silent testimony and Scripture's clear instruction. Both are meant to awaken us to His reality and reshape us into His image.",
+        "What area of your life is God's word currently trying to enlighten or correct? Invite Him to speak there."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 19: Scholarly study",
+      "overview": [
+        "Psalm 19 stands as one of the most theologically significant compositions in the Psalter, attributed to David and classified among the hymnic literature that celebrates divine revelation through two distinct yet complementary channels. The psalm divides naturally into two major sections—verses 1–6 addressing general revelation through creation, and verses 7–14 treating special revelation through Torah—though scholars have debated whether this represents a unified composition or the joining of originally independent poems. The sophisticated integration of themes, however, suggests deliberate authorial design, presenting a comprehensive theology of how God makes himself known.",
+        "The opening declaration employs the Hebrew term *kavod* (כָּבוֹד), translated \"glory,\" denoting the weighty, luminous presence of God that creation perpetually proclaims. The verbal forms *mesapperim* (\"are declaring\") and *maggid* (\"proclaims\") appear as participles, indicating continuous, unceasing testimony. This cosmic witness transcends linguistic barriers—verse 3 notes there is no speech nor words (*ayin devarim*), yet paradoxically this wordless proclamation reaches all the earth. The sun, depicted with Near Eastern imagery as a bridegroom and champion, serves as creation's primary witness, its circuit demonstrating divine ordering of the cosmos.",
+        "The transition in verse 7 introduces Torah using six synonymous terms—law (*torah*), testimony, precepts, commandment, fear, and rules—each paired with descriptive attributes and beneficial effects. The divine name shifts from *El* (God) in the creation section to the covenantal *YHWH* (LORD), appearing seven times, signifying the personal relationship available through revealed instruction. The term *torah* itself derives from *yarah*, meaning \"to instruct\" or \"to point the way,\" emphasizing guidance rather than mere legal demand.",
+        "The psalm concludes with personal application, as the psalmist moves from cosmic and scriptural revelation to individual response, praying for cleansing from hidden faults (*nistarot*) and presumptuous sins. The final petition—that words and meditation be acceptable (*ratson*)—employs sacrificial terminology, suggesting that responsive worship constitutes the appropriate offering to the God who reveals himself through both starry heavens and sacred scripture. This theological integration profoundly influenced later Christian readings, particularly Paul's argument in Romans 1–2 concerning natural and special revelation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 19: Prophetic perspective",
+      "overview": [
+        "Psalm 19 emerges from the pen of David during the golden age of Israel's united monarchy, approximately one thousand years before the incarnation of Christ. This places the psalm squarely within the Kingdom period of redemptive history, after God had established His covenant with David and promised an eternal throne to his descendant. David writes as king, prophet, and worshiper, standing at the apex of Israel's glory while pointing forward to glories yet unseen.",
+        "The psalm unfolds as a magnificent diptych of divine revelation. In the first movement, David contemplates what theologians call general revelation—the heavens declaring God's glory without syllable or sound, yet their testimony reaching the ends of the earth. This cosmic witness has thundered since creation itself, the original goodness of the made order still proclaiming its Maker despite the corruption of the fall. The sun emerging as a bridegroom from his chamber and running its circuit with joy presents a striking typological portrait. Here is an image that finds its ultimate fulfillment in Christ, the Sun of Righteousness prophesied by Malachi, who would arise with healing in His wings. The Bridegroom who emerges in strength and whose circuit encompasses all things is none other than the eternal Son, through whom all things were made and in whom all things hold together.",
+        "The second movement turns to special revelation—the Torah, the testimony, the statutes, the commandments of the Lord. David stacks descriptor upon descriptor, each revealing another facet of Scripture's perfection: reviving the soul, making wise the simple, rejoicing the heart, enlightening the eyes. This written Word would find its living expression in Christ Himself, the Word made flesh, the one who perfectly embodied every statute and fulfilled every righteous requirement. The law that David treasured more than gold and found sweeter than honey was preparing Israel for the One who would say, \"I have come to do your will, O God.\"",
+        "David's closing prayer—to be cleansed from hidden faults, kept from presumptuous sins, and found blameless—is the cry of every soul who has glimpsed both God's glory and their own depravity. This prayer finds its answer at Calvary, where the great transgression was laid upon the sinless One.",
+        "The church now lives in the full light of both revelations—creation still speaks, Scripture stands complete, and Christ has come. Yet we await the day when the knowledge of the Lord will cover the earth as waters cover the sea, when every tongue shall confess what the heavens have always declared."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.129726+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Romans",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Romans 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Romans 1: The Gospel's Unshakable Foundation",
+      "overview": [
+        "The letter to the Romans opens with Paul's unrelenting conviction that the gospel of Jesus Christ is the transformative power of God himself—not just an idea to believe, but a living force that saves everyone who trusts in it. This is where all authentic Christian faith begins: not with our spiritual achievement or moral accomplishment, but with God's radical, grace-filled initiative.",
+        "Paul greets the Roman church with remarkable warmth, describing himself as a servant set apart for the gospel's proclamation. He has never met these believers, yet his heart burns with intercession for them. He longs to see them, not for his own encouragement alone, but so that spiritual fruit might grow among them as it has in other places. This reveals something crucial about mature Christian faith: it is never self-contained. The gospel naturally overflows into longing for others to encounter its life-changing power.",
+        "What makes Romans 1 so penetrating is how Paul refuses to shy away from human brokenness. He declares that God's wrath is real and visible in the world—manifest in how sin leads to broken systems, fractured relationships, and human decay. Yet even as Paul unflinchingly describes our condition of spiritual rebellion and estrangement from God, he has already declared the answer: the righteousness of God is revealed through faith in Christ, accessible to all who believe, regardless of background or history.",
+        "This is the heart of Paul's message: we are more broken than we often admit, yet simultaneously more loved and rescued than we dare hope. The gospel doesn't gloss over our condition; it honestly names it, then offers something infinitely greater—not condemnation, but reconciliation through Christ's finished work.",
+        "How might acknowledging both the reality of sin's consequence and the sufficiency of Christ's grace reshape your understanding of evangelism and your own assurance today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Romans 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Paul's letter to the Romans serves as both a formal epistolary introduction and a theological prolegomenon to what many consider the apostle's most systematic exposition of the gospel. Written likely from Corinth around 57 CE during Paul's third missionary journey, this letter addresses a congregation Paul had not founded and had yet to visit, necessitating a more comprehensive articulation of his theological convictions than found in his earlier correspondence to communities he knew personally.",
+        "Paul's self-designation as a *doulos* (δοῦλος, \"slave\" or \"servant\") in verse 1 carries profound covenantal overtones, echoing the Hebrew *ebed* used of Moses, David, and the prophets, thereby situating Paul within Israel's prophetic tradition while simultaneously expressing total allegiance to Christ. The phrase *euangelion theou* (εὐαγγέλιον θεοῦ, \"gospel of God\") appears with programmatic significance, denoting both the message's divine origin and its content—God's redemptive action in Christ. The christological confession in verses 3–4 presents a pre-Pauline formula distinguishing Christ's Davidic lineage *kata sarka* (\"according to the flesh\") from his designation as Son of God *kata pneuma hagiosunes* (\"according to the Spirit of holiness\") through resurrection, reflecting early church tradition Paul inherited and affirmed.",
+        "The chapter's latter half (verses 18–32) constitutes one of Scripture's most sobering indictments of human rebellion. The divine *orge* (ὀργή, \"wrath\") revealed against ungodliness is not capricious anger but rather God's judicial response to humanity's suppression of evident truth. Paul's threefold repetition of *paredoken* (\"he gave them over\") in verses 24, 26, and 28 structures a descending spiral wherein divine judgment manifests not through external intervention but through abandonment to sin's consequences. Scholarly debate continues regarding whether Paul draws primarily on Hellenistic moral philosophy, Jewish wisdom traditions (particularly Wisdom of Solomon 13–14), or both in constructing this argument.",
+        "Within Romans' broader architecture, chapter 1 establishes the universal human predicament that necessitates the righteousness of God revealed through faith (1:17), preparing for the parallel indictment of Jewish presumption in chapter 2 and the climactic declaration of universal guilt in 3:23, thereby making the subsequent exposition of justification both necessary and glorious."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Romans 1: Prophetic perspective",
+      "overview": [
+        "Romans 1 emerges from the pen of the Apostle Paul around AD 57, placing this letter squarely in the early decades of the church age—approximately twenty-five years after the resurrection and ascension of Christ, yet still within the lifetime of those who had walked with Jesus. The temple in Jerusalem still stood, and the full implications of the gospel's spread to the Gentile world were only beginning to unfold. This epistle arrives at the hinge point of redemptive history: the old covenant shadows have given way to the substance, the promises to Abraham are cascading outward to all nations, and the church stands as the firstfruits of the age to come while awaiting the consummation.",
+        "Paul's opening declaration that Jesus Christ was \"declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead\" anchors the entire epistle in accomplished eschatology. The resurrection is not merely a private miracle but the inauguration of the new creation bursting into the old. What the prophets foresaw—the vindication of the righteous, the defeat of death, the outpouring of the Spirit—has begun in the firstborn from the dead. Christ now reigns, and the gospel Paul proclaims is \"the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.\" Here the Abrahamic promise finds its full expression: in you shall all the families of the earth be blessed.",
+        "The latter half of Romans 1 unveils a sobering prophetic pattern that stretches from Eden to the present hour. The descent into idolatry—exchanging the glory of the immortal God for images, suppressing truth in unrighteousness, being given over to degraded minds—traces the trajectory of fallen humanity apart from grace. This is not merely ancient history but a typological portrait of every culture that turns from the Creator to the creature. The threefold \"God gave them over\" echoes the exile motif: just as Israel was handed over to Babylon for her idolatry, so humanity experiences a moral exile, estranged from the garden presence of God.",
+        "Yet even this darkness serves the gospel's advance. Paul exposes the universal condition of sin precisely to magnify the universal offer of righteousness through faith. For the church living between the advents, Romans 1 issues both warning and hope: the same power that raised Christ from the dead now works salvation in all who believe, gathering from every nation a people who will worship the Creator forever in the age to come."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "45_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.734812+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

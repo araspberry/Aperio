@@ -1,0 +1,129 @@
+{
+  "book": "Galatians",
+  "bookIndex": 47,
+  "status": "Editorial draft",
+  "title": "Galatians: Freedom for a Life of Love",
+  "subtitle": "Paul defends the gospel of grace and the shared inheritance of all who belong to Christ.",
+  "atAGlance": {
+    "genre": "Apostolic letter of urgent argument and exhortation",
+    "setting": "Churches in Galatia facing pressure over circumcision and the conditions of Gentile belonging.",
+    "composition": "Written by Paul; commonly dated within the late AD 40s or 50s, depending on the recipients’ location and the reconstruction of his journeys.",
+    "audience": "Gentile believers in Galatia, addressed amid competing claims about the gospel."
+  },
+  "sections": [
+    {
+      "title": "Why Paul writes with such urgency",
+      "paragraphs": [
+        "Galatians moves quickly from greeting to alarm. Paul believes the churches are accepting a message that threatens the freedom they received in Christ. The issue is concrete: must Gentile believers be circumcised and take on the law’s requirements to belong fully to God’s people? For Paul, the answer concerns the sufficiency of God’s action in Christ and the character of grace.",
+        "The force of the letter reflects the depth of the relationship. Paul remembers their welcome and appeals to them as people for whom he has labored. His language can be severe, but his aim is their freedom and maturity. Read the passion alongside that pastoral concern. He is defending a gospel whose consequences include who may share a table and on what basis they are received."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Author, audience, and chronology",
+      "paragraphs": [
+        "Paul identifies himself directly, and his authorship is widely accepted. The identity of the Galatian communities is less certain. “Galatia” could refer to the northern ethnic region or to the broader Roman province, which included communities farther south. The choice affects how the letter is related to Acts and dated. Proposals range from the late AD 40s into the 50s.",
+        "Chapters 1–2 provide Paul’s own account of his calling and encounters with other Christian leaders. They are especially valuable because they reveal his perspective on the mission. Their chronology should be handled without pretending every visit can be matched beyond dispute. Paul’s central claim is firmer than those reconstructions: the gospel he received and proclaimed is grounded in Jesus Christ, and the Jerusalem leaders recognized his mission to Gentiles."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The promise and the family of Abraham",
+      "paragraphs": [
+        "Paul’s dispute with Peter at Antioch shows how theology can be contradicted by table practice. When fellowship changes under social pressure, Gentile believers receive a message about their place. Paul argues that being set right with God comes through Christ, and he describes his own life as bound to Christ’s self-giving.",
+        "Chapters 3–4 then turn to Abraham, promise, law, inheritance, and sonship. Paul asks how the Galatians received the Spirit and reads the promise to Abraham as reaching the nations through Christ. Baptism marks their shared belonging. His declaration concerning Jew and Greek, slave and free, male and female confronts the use of those distinctions as measures of access to the inheritance. The language concerns a common standing that has consequences for life together."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Freedom is formed by the Spirit",
+      "paragraphs": [
+        "The argument does not end when circumcision is refused as a requirement for Gentile membership. Paul immediately asks what freedom is for. Love of neighbor fulfills the law’s demand in the life of the community. The opposite danger is a freedom consumed by rivalry, anger, or self-indulgence, which can tear people apart.",
+        "The contrast between flesh and Spirit needs careful hearing. “Flesh” here concerns a way of life governed by disordered desires and self-assertion; it is not a declaration that the physical body is inherently evil. The fruit of the Spirit names qualities that make shared life possible: love, patience, gentleness, faithfulness, and self-control among them. Paul’s vision of freedom is therefore deeply relational. It grows through the Spirit’s work and becomes recognizable in the treatment of other people."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading a sharp argument carefully",
+      "paragraphs": [
+        "Galatians uses Israel’s Scriptures in vigorous, sometimes difficult ways, particularly in the discussion of Hagar and Sarah. Paul is making an argument about Gentile inclusion from within his own Jewish engagement with Scripture. His language should not become a caricature in which Judaism is reduced to graceless effort. The dispute has specific participants and a specific claim about what Gentiles must do.",
+        "The closing chapter brings freedom into practices of restoration, burden-bearing, generosity, and patient service. Those correcting another person are to act gently and watch themselves. Paul’s final emphasis falls on the cross and new creation. The letter’s strongest claims are thus joined to the ordinary work of caring for a neighbor.",
+        "A useful reading question is how each section protects the gift of belonging and then describes the life that follows from it. Galatians invites assurance in God’s grace without granting permission for indifference. The people freed by Christ are called to become people whose freedom makes love more possible."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The gospel and Paul’s calling",
+      "startChapter": 1,
+      "endChapter": 2,
+      "description": "Paul explains his commission and the implications of fellowship with Gentiles."
+    },
+    {
+      "label": "Promise, law, and inheritance",
+      "startChapter": 3,
+      "endChapter": 4,
+      "description": "Abraham, the Spirit, baptism, and belonging to God’s family."
+    },
+    {
+      "label": "Freedom lived through love",
+      "startChapter": 5,
+      "endChapter": 6,
+      "description": "Life in the Spirit, mutual care, and the significance of new creation."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Grace and belonging",
+      "description": "Gentiles share in God’s promise through Christ."
+    },
+    {
+      "name": "Freedom through the Spirit",
+      "description": "Freedom bears fruit in love rather than rivalry."
+    },
+    {
+      "name": "The cross and new creation",
+      "description": "Christ’s self-giving redefines the community’s identity."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Late AD 40s–50s; precise date disputed",
+    "context": "Paul addresses a crisis in Galatian churches during the early mission. References to Abraham and Sinai support his argument rather than dating the letter’s present situation.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 6,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Late AD 40s–50s; precise date disputed",
+      "note": "Paul addresses a crisis in Galatian churches during the early mission. References to Abraham and Sinai support his argument rather than dating the letter’s present situation."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Galatians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Galatians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/galatians/lessons/summary-of-galatians/"
+    }
+  ]
+}

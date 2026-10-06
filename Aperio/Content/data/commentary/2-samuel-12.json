@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Samuel 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "A God Who Pursues Us into Our Darkness",
+      "overview": [
+        "When King David fell into the darkness of adultery and murder, hiding behind the weight of his secret sin, God sent the prophet Nathan with a story. This passage reveals a heart-breaking truth: God loves us too much to let us remain comfortable in our own destruction. The turning point in David's life wasn't when he felt powerful or successful—it was when he was confronted, exposed, and brought to genuine repentance.",
+        "Nathan's parable about the rich man stealing the poor man's lamb cut to David's heart because it bypassed his defensiveness. Sometimes we cannot hear truth until it reaches us through unexpected doors. David's response—\"I have sinned against the Lord\"—demonstrates that true repentance isn't about making excuses or negotiating with God, but about complete honesty before Him. The consequences of his sin remained: the child would die, his household would know rebellion, his reign would bear suffering. Genuine repentance doesn't erase all earthly consequences, but it restores us to relationship with God.",
+        "What strikes us most powerfully is what comes next: David mourned the child, but then \"went into the house of the Lord and worshiped.\" And later, Solomon was born. The story doesn't end in shame; it ends in grace. God didn't remove David from kingship. He didn't revoke His covenants. Instead, He walked David through the valley of brokenness toward restoration and a future still filled with purpose.",
+        "This is the God we serve—not one who overlooks our sin, but one who pursues us relentlessly through it, calling us back to truth and wholeness. Like David, our greatest spiritual breakthroughs often come not from our moments of success, but from our willingness to acknowledge where we've failed and to genuinely turn.",
+        "What truth about yourself have you been avoiding, and what might God be inviting you to bring into the light?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Samuel 12: Scholarly study",
+      "overview": [
+        "The twelfth chapter of 2 Samuel presents one of the Hebrew Bible's most dramatic moments of prophetic confrontation, as Nathan the prophet delivers divine judgment upon David following his adultery with Bathsheba and orchestrated murder of Uriah the Hittite. This narrative, situated within the larger Court History or Succession Narrative (2 Samuel 9–20; 1 Kings 1–2), represents a theological turning point in the Davidic monarchy, marking the transition from David's ascent to his prolonged domestic and political decline.",
+        "Nathan's juridical parable in verses 1–4 employs the Hebrew term *keḇśāh* (כִּבְשָׂה, \"ewe lamb\"), emphasizing the intimacy and vulnerability of the poor man's single possession against the wealthy man's abundance. The parable functions as a literary trap, provoking David's self-condemnation before the devastating declaration *ʾattāh hāʾîš* (אַתָּה הָאִישׁ, \"You are the man\") in verse 7. This rhetorical strategy mirrors prophetic judgment oracles while exploiting David's role as royal judge, turning his judicial authority against himself.",
+        "The divine speech in verses 7–12 employs covenant lawsuit language, recounting Yahweh's gracious acts before pronouncing consequences. The term *rāʿāh* (רָעָה, \"evil\" or \"calamity\") appears prominently, establishing the measure-for-measure principle: because David acted in secret, judgment will come publicly; because he took another's wife, his own wives will be taken. This theological framework interprets subsequent events in David's household—Amnon's rape of Tamar, Absalom's rebellion—as divine retribution rather than mere political contingency.",
+        "David's response *ḥāṭāʾtî laYHWH* (חָטָאתִי לַיהוָה, \"I have sinned against Yahweh\") in verse 13 is remarkably terse, contrasting with Saul's elaborate self-justifications in 1 Samuel 15. Scholarly debate surrounds whether the child's death represents vicarious punishment or simply removes the visible evidence of David's transgression from the covenant community. The concluding birth of Solomon, named *Yĕdîdyāh* (\"beloved of Yahweh\") by Nathan, demonstrates that despite severe consequences, the Davidic covenant remains operative, preserving the dynasty through which messianic hope will ultimately flow. The chapter thus holds divine justice and mercy in profound tension."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Samuel 12: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately one thousand years before the Incarnation, during the golden age of Israel's united monarchy under David, roughly 970 BC. The kingdom promised to Abraham's seed has reached its zenith of territorial expansion, yet here we witness the devastating consequences of David's sin with Bathsheba and murder of Uriah—events that will fracture his household and foreshadow the eventual division of the kingdom itself.",
+        "Within the grand arc of redemption, this passage stands at the apex of the Davidic covenant era, between the establishment of God's promise to build David an eternal house and the slow unraveling that leads toward exile. Nathan's confrontation of the king represents the prophetic office in its purest expression—the voice of God penetrating royal power with uncompromising truth. The parable of the rich man who stole the poor man's lamb accomplishes what direct accusation could not, leading David through the doorway of his own judgment until Nathan's thundering declaration, \"You are the man,\" strips away every pretense.",
+        "The typological dimensions here are profound and sobering. David, the anointed shepherd-king, becomes in his sin an anti-type of the True Shepherd who would never exploit the vulnerable but would lay down His life for the sheep. The innocent lamb slaughtered in Nathan's parable whispers of the Lamb of God who would bear the sins of others rather than impose death upon the innocent. Uriah the Hittite—faithful, righteous, unwilling to enjoy comfort while the ark and Israel's army dwelt in tents—emerges as a Gentile who shames the covenant king, pointing forward to the inclusion of faithful Gentiles in God's purposes.",
+        "The prophecy that the sword would never depart from David's house found immediate and ongoing fulfillment in Amnon's rape of Tamar, Absalom's rebellion, and the bloodshed that plagued David's descendants until the Babylonian exile consumed the throne entirely. Yet from this very union, purified through judgment and repentance, would come Solomon, called Jedidiah—\"beloved of the LORD\"—through whom the messianic line continued.",
+        "David's response reveals the pathway that remains open to all who fall: \"I have sinned against the LORD.\" The immediacy of Nathan's reply, \"The LORD has put away your sin,\" demonstrates that broken and contrite hearts find mercy even when temporal consequences remain. For the church living between Christ's advents, this chapter stands as both warning and hope—warning against presumption upon grace, hope that no depth of failure places us beyond the reach of divine forgiveness when met with genuine repentance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "10_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.498032+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "1 Kings",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Kings 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Kings 19 — Finding Rest in the Presence of God",
+      "overview": [
+        "When the prophet Elijah finds himself utterly spent after his great victory at Mount Carmel, his collapse into despair teaches us that even the strongest faith needs renewal, rest, and the tender care of God's presence. This chapter speaks to the deep human need for recovery, particularly when spiritual exhaustion threatens to steal our hope.",
+        "Elijah's journey from triumph to despair happens swiftly. After calling fire from heaven and defeating the prophets of Baal, he flees into the wilderness, asking God to take his life. The contrast is jarring and painfully real. We recognize ourselves in his experience—those moments when victories feel hollow, when opposition seems unbearable, when we wonder if continuing even matters. The prophet's exhaustion was physical, emotional, and spiritual all at once.",
+        "What's remarkable is God's response. Rather than rebuke, the Lord sends an angel with bread and water. God meets Elijah's body's needs before addressing his troubled soul. We see divine compassion that recognizes our humanity. God doesn't demand immediate recovery or question the prophet's faith; He simply nourishes him. This tells us that rest, food, and care are not luxuries but spiritual necessities.",
+        "As Elijah journeys to Mount Horeb, God speaks not in the dramatic wind, earthquake, or fire, but in a gentle whisper. The Lord's still, small voice penetrates deeper than thunder ever could. God's presence itself becomes the remedy—more restorative than any achievement could be. In that quiet encounter, Elijah's perspective shifts. He's given new work, new companions, and renewed purpose.",
+        "For those of us running on empty, this passage offers profound comfort. We need not perform our way back to wholeness. God invites us to rest, to receive nourishment, and to encounter Him in stillness. Our exhaustion doesn't disqualify us from His presence; it often becomes the doorway to it.",
+        "What area of your life feels most depleted right now, and what would it mean to trust God's care for that specific need?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Kings 19: Scholarly study",
+      "overview": [
+        "The nineteenth chapter of 1 Kings presents one of the most psychologically complex narratives in the Deuteronomistic History, depicting the prophet Elijah's flight from Jezebel's death threat following his triumphant confrontation with the prophets of Baal on Mount Carmel. The dramatic contrast between Elijah's bold confidence in chapter eighteen and his despairing flight in chapter nineteen has long fascinated interpreters, raising questions about prophetic vulnerability and divine sustenance. The narrative likely draws upon earlier prophetic traditions while being shaped by the Deuteronomistic editors during the exilic period, who found in Elijah's experience a paradigm for understanding Israel's relationship with Yahweh during times of apostasy and persecution.",
+        "The Hebrew term *nefesh* (נֶפֶשׁ), appearing when Elijah requests death for his \"life\" (verse 4), carries connotations beyond mere biological existence, encompassing the totality of one's being, vitality, and emotional state. Elijah's exhaustion is thus portrayed as comprehensive—physical, spiritual, and psychological. The divine response through the angel's provision of food and water, enabling a forty-day journey to Horeb, deliberately evokes Mosaic typology, connecting Elijah to Israel's foundational prophet and the original covenant revelation. The phrase *qôl demāmâ daqqâ* (קוֹל דְּמָמָה דַקָּה) in verse 12, traditionally rendered \"still small voice,\" presents significant translation challenges; *demāmâ* suggests silence or calm while *daqqâ* indicates something fine or thin, together perhaps indicating \"a sound of sheer silence\"—a paradoxical expression suggesting divine presence through absence of the expected theophanic phenomena.",
+        "The theophany at Horeb consciously subverts expectations established by earlier Sinai traditions. Wind, earthquake, and fire—all previously associated with Yahweh's presence—are explicitly declared not to contain the Lord, suggesting a theological reorientation regarding how God communicates with his servants. Within the broader canonical context, this passage establishes patterns later echoed in prophetic call narratives and anticipates Elijah's succession by Elisha. Interpretive debate continues regarding whether God's question \"What are you doing here, Elijah?\" carries rebuke or pastoral concern, and whether Elijah's identical response before and after the theophany indicates spiritual transformation or persistent despair. The commission to anoint Hazael, Jehu, and Elisha suggests divine purposes continue despite prophetic discouragement."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Kings 19: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 870 years before the birth of Christ, during the divided kingdom period when Ahab ruled the northern tribes of Israel and Jezebel's Baal worship threatened to extinguish the flame of true worship from the land. The prophet Elijah has just witnessed the spectacular triumph on Mount Carmel, yet now flees for his life into the wilderness of Beersheba, then onward to Horeb, the mountain of God. This moment stands at a critical juncture in redemptive history—after the glory of David's kingdom has fractured, during the long decline toward exile, yet still within the age of prophetic witness that would preserve a faithful remnant.",
+        "The journey of Elijah to Horeb deliberately echoes Moses, creating a profound typological connection. Just as Moses encountered Yahweh at this same mountain amid fire, earthquake, and thick darkness, Elijah now stands at the cave's mouth while wind, earthquake, and fire pass before him. Yet God was not in these terrifying phenomena—He spoke instead in the still, small voice, the sound of sheer silence. This stunning reversal teaches that the new covenant would bring God's presence not through Sinai's thunder but through the gentle whisper of the Spirit and the quiet word of the gospel. Christ Himself would come not as a conquering warrior but as a suffering servant who would not break a bruised reed or quench a smoldering wick.",
+        "Elijah's despair—sitting under the broom tree, requesting death—foreshadows every servant of God who labors faithfully yet sees little fruit and faces overwhelming opposition. The angel's provision of bread and water, enabling a forty-day journey, anticipates Christ as the true bread from heaven who sustains His people through their wilderness wanderings. Elijah's complaint that he alone remains faithful receives divine correction: seven thousand knees have not bowed to Baal. This remnant theology runs like a golden thread through Scripture, culminating in Paul's argument in Romans 11 that God has always preserved a remnant chosen by grace.",
+        "The commissioning of Elisha as successor points forward to prophetic succession and ultimately to the One greater than Elijah—Christ Himself, whom John the Baptist would herald in Elijah's spirit and power. The mantle that fell upon Elisha would one day give way to the Spirit poured out on all flesh at Pentecost, empowering not one prophet but an entire community of witnesses who carry the testimony of Jesus through every generation until He returns."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "11_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.583869+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

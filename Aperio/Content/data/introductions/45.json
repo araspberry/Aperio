@@ -1,0 +1,141 @@
+{
+  "book": "1 Corinthians",
+  "bookIndex": 45,
+  "status": "Editorial draft",
+  "title": "1 Corinthians: Learning to Be One Body",
+  "subtitle": "Paul brings the cross and resurrection into a church’s arguments, worship, relationships, and daily choices.",
+  "atAGlance": {
+    "genre": "Apostolic pastoral letter",
+    "setting": "A congregation in Corinth dealing with divisions, ethical questions, worship disputes, and doubts about resurrection.",
+    "composition": "Written by Paul, with Sosthenes named in the greeting, from Ephesus in the AD 50s.",
+    "audience": "The church in Corinth and those who call on Jesus as Lord."
+  },
+  "sections": [
+    {
+      "title": "The gospel meets an unsettled community",
+      "paragraphs": [
+        "First Corinthians shows a church learning how far the gospel reaches. Its members possess spiritual gifts and strong opinions, yet they quarrel over leaders, status, conduct, and worship. Paul has received reports from Chloe’s people and a letter raising questions. His response moves through these concerns with the conviction that belonging to Christ must reshape life together.",
+        "The opening thanksgiving recognizes gifts already present among them. Correction therefore begins within a relationship of grace. Paul can speak sharply because the stakes are real: their treatment of one another may contradict the Lord they confess. The letter helps us see that theological depth is tested in ordinary practices—whose voice is valued, whose body is honored, who eats, and who is left humiliated."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A letter within a longer conversation",
+      "paragraphs": [
+        "Paul’s authorship is widely accepted. Sosthenes appears with him in the greeting, and the closing plans locate Paul in Ephesus. The letter belongs to the AD 50s, after the founding of the Corinthian congregation. It refers to earlier correspondence, so its title does not mean that it was the first message Paul ever sent them.",
+        "Corinth’s believers had differing resources and social positions. The letter itself makes those differences visible, especially at the communal meal. It also preserves fragments of arguments Paul is answering. Sometimes a phrase may echo a Corinthian claim before he qualifies it. Because the other side of the correspondence has not survived, reconstructions should remain modest. Reading whole sections helps distinguish the problems Paul reports from the conduct he commends."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "The cross changes the meaning of wisdom",
+      "paragraphs": [
+        "The first four chapters confront loyalties organized around impressive teachers. Paul points to the crucified Christ as the center of his message. The cross unsettles familiar assumptions about power and prestige. Apostles are servants through whom people come to faith; God gives the growth. A congregation cannot treat its leaders as competing sources of ultimate worth.",
+        "That foundation continues through disputes about bodies, sexuality, lawsuits, marriage, food, and freedom. Paul repeatedly asks how a choice affects another person and the community’s witness. Knowledge without love can become destructive. The argument about food associated with idols is especially useful for seeing his method: he holds theological conviction, conscience, and concern for a vulnerable neighbor in the same conversation."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Worship belongs to the whole body",
+      "paragraphs": [
+        "Chapters 11–14 focus on gathering as a church. The Lord’s Supper has become a setting in which some feast while others go hungry. Paul treats that humiliation as a serious failure to discern the community formed by Christ. Remembering Jesus’ self-giving must shape the way the meal is shared.",
+        "The discussion of spiritual gifts develops the image of one body with many members. Difference contributes to mutual dependence. The parts that seem less impressive are indispensable. Chapter 13 places love within this argument; its description of patience, generosity, and freedom from self-importance addresses a competitive church. In chapter 14, intelligibility and the building up of others guide worship. Read disputed instructions with those surrounding aims in view, alongside the evidence that women pray and prophesy in chapter 11."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Resurrection gives the present its horizon",
+      "paragraphs": [
+        "Chapter 15 responds to people who question the resurrection of the dead. Paul rehearses the proclamation of Christ’s death, burial, resurrection, and appearances, then explains why the future resurrection of believers is bound to it. The body’s transformation matters because God’s victory reaches human life in its fullness. His imagery of sowing and rising helps describe continuity together with profound change.",
+        "The argument ends by calling the congregation to steadfast work. Future hope gives present labor significance. Chapter 16 then returns to a collection, travel, coworkers, and greetings. Even the letter’s strongest theological passage leads back to the practical life of a community.",
+        "Read First Corinthians as a sustained exercise in asking what love requires from people who belong to the same Lord. Some questions arise from social arrangements far from our own, and careful interpretation is needed. The central concerns remain searchingly familiar: pride, the misuse of freedom, neglect of the vulnerable, and the possibility of gifts becoming instruments of care."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Divisions and the wisdom of the cross",
+      "startChapter": 1,
+      "endChapter": 4,
+      "description": "Paul addresses rival loyalties and the character of apostolic service."
+    },
+    {
+      "label": "Conduct, relationships, and freedom",
+      "startChapter": 5,
+      "endChapter": 10,
+      "description": "Ethics, marriage, food, conscience, and care for others."
+    },
+    {
+      "label": "The gathered body",
+      "startChapter": 11,
+      "endChapter": 14,
+      "description": "The Lord’s Supper, spiritual gifts, love, and intelligible worship."
+    },
+    {
+      "label": "Resurrection hope",
+      "startChapter": 15,
+      "endChapter": 15,
+      "description": "Christ’s resurrection and the future transformation of believers."
+    },
+    {
+      "label": "Shared work and final counsel",
+      "startChapter": 16,
+      "endChapter": 16,
+      "description": "The collection, travel plans, coworkers, and greetings."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "The cross and status",
+      "description": "Christ’s self-giving challenges pride and competition."
+    },
+    {
+      "name": "One body, many gifts",
+      "description": "Difference serves mutual care and the community’s growth."
+    },
+    {
+      "name": "Love and resurrection",
+      "description": "Present faithfulness is shaped by love and God’s promised future."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "AD 50s",
+    "context": "Paul addresses an established early Christian community while ministering from Ephesus. The letter responds to a particular stage in an ongoing relationship.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 16,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "AD 50s",
+      "note": "Paul addresses an established early Christian community while ministering from Ephesus. The letter responds to a particular stage in an ongoing relationship."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Corinthians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "1 Corinthians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/1-corinthians/lessons/summary-of-1-corinthians/"
+    }
+  ]
+}

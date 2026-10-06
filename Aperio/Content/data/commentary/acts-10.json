@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 10: Breaking Down the Walls We Build",
+      "overview": [
+        "The spiritual heart of this passage is the radical expansion of God's grace across ethnic and cultural boundaries—a pivotal moment where the gospel breaks free from the constraints of human prejudice and reaches those deemed culturally \"unclean.\"",
+        "Peter's vision of unclean animals and the divine command to eat reveals how deeply ingrained religious separation had become. The vision isn't primarily about dietary laws; it's about God dismantling the very categories that divided his people. When Peter protests—\"Surely not, Lord\"—we hear the voice of someone clinging to inherited certainties, to the comfortable boundaries that had defined righteousness for centuries. Yet the Spirit's gentle persistence (\"Do not call anything impure that God has made clean\") challenges not just Peter's obedience, but his theology itself.",
+        "What makes this account profoundly human is how the gospel arrives through genuine friendship rather than confrontation. Cornelius wasn't seeking conflict; he was seeking God through prayer and generosity. Peter comes not as a conqueror but as a guest, and only through relationship does his mind expand. The Spirit falls on Gentiles while Peter is still speaking, preventing any possibility of creating a hierarchical conversion process. God's acceptance precedes human permission.",
+        "This passage speaks directly to our modern exclusions and tribal instincts. Every church wrestles with unspoken boundaries—assumptions about who belongs, what kind of people we expect in God's kingdom, the ways we subtly communicate that some are more acceptable than others. Peter's shock, his hesitation, his eventual obedience mirrors our own journey toward genuine inclusion.",
+        "The invitation here isn't merely to integrate our congregations, though it includes that. It's to examine our inner vision, where God repeatedly shows us that we've drawn lines he never drew. Where in your own faith life might the Spirit be asking you to reconsider whom you've deemed \"unclean\" or outside God's family?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 10: Scholarly study",
+      "overview": [
+        "Acts 10 stands as one of the most theologically consequential narratives in Luke's second volume, marking the decisive breakthrough of the gospel to the Gentile world through the conversion of Cornelius, a Roman centurion stationed at Caesarea Maritima. Luke devotes unusual space to this account, repeating its essential elements three times across chapters 10-11, signaling its programmatic importance for understanding the church's universal mission. The historical setting places this event approximately a decade after Pentecost, when the early church remained predominantly Jewish in composition and self-understanding, still operating within the theological framework that associated table fellowship and covenant membership with Jewish identity markers.",
+        "The narrative pivots on the Greek term *koinos* (common, unclean), which Peter employs when protesting the divine command to \"kill and eat\" animals presented in his rooftop vision at Joppa. This terminology carried profound social and religious weight, as Jewish purity regulations functioned not merely as dietary preferences but as boundary markers distinguishing Israel from the nations. The heavenly voice's response—\"What God has cleansed (*katharizō*), do not call common\"—redefines cleanness as a divine prerogative rather than an ethnic inheritance. Equally significant is Luke's description of Cornelius as *phobomenos ton theon* (God-fearer), a technical designation for Gentiles who worshiped Israel's God and observed ethical commandments without undergoing full proselyte conversion.",
+        "The passage's literary architecture demonstrates careful parallelism between Cornelius's vision in Caesarea and Peter's in Joppa, with the Spirit orchestrating both recipients toward their convergence. Peter's climactic declaration that \"God shows no partiality\" (*prosōpolēmptēs*) echoes Deuteronomic theology while radically extending its application. The unprecedented descent of the Holy Spirit upon uncircumcised hearers before baptism presented the Jerusalem church with an irreversible fait accompli, forcing theological reflection on soteriological fundamentals.",
+        "Interpreters debate whether Luke presents this as the Gentile Pentecost or simply its extension. What remains clear is that Acts 10 establishes the theological and narrative foundation for the Jerusalem Council's later deliberations, demonstrating through divine intervention what apostolic reasoning would subsequently affirm: membership in the eschatological people of God requires faith in Christ alone."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 10: Prophetic perspective",
+      "overview": [
+        "Acts 10 unfolds approximately ten years after Pentecost, around AD 40, when the gospel had spread throughout Judea and Samaria but remained largely confined to Jewish believers. This chapter marks one of the most pivotal turning points in redemptive history—the formal inclusion of Gentiles into the covenant community without requiring circumcision or full conversion to Judaism. We stand here at the hinge between the old covenant's ethnic particularity and the new covenant's universal scope, witnessing the fulfillment of what prophets had long foretold.",
+        "The timing is no accident. God orchestrates a divine convergence between Cornelius in Caesarea and Peter in Joppa, two men separated by the ancient wall of Jewish-Gentile hostility. Cornelius represents the God-fearing Gentiles who had long stood at the threshold of Israel's faith, welcomed as sympathizers but never fully embraced as covenant members. His prayers and alms ascend as a memorial before God—language echoing the sacrificial system—revealing that the Father had been preparing Gentile hearts even before the door swung open.",
+        "Peter's rooftop vision of unclean animals carries profound typological weight. The sheet descending from heaven pictures the new creation breaking into the old order. What God declared clean, no man could call common. This pronouncement abolishes not merely dietary restrictions but the entire ceremonial system that separated Jew from Gentile. The thrice-repeated vision echoes Peter's thrice-repeated denial and restoration, as if the Lord was again redirecting His apostle toward his true calling: feeding all Christ's sheep.",
+        "When the Spirit falls upon Cornelius's household while Peter is still preaching, heaven confirms what prophecy had promised. Joel had declared that God would pour out His Spirit on all flesh. Isaiah had announced that the Servant would be a light to the nations. The blessing of Abraham, promised to extend to all families of the earth, now cascades upon Roman soldiers in a coastal garrison town. The circumcised believers stand astonished—their categories shattered by sovereign grace.",
+        "This chapter reveals that Pentecost was not complete until the Gentiles received their portion. The one new humanity Paul would later describe in Ephesians was being formed before the apostles' eyes. For the church today, Acts 10 stands as permanent testimony that no ethnic, cultural, or social barrier can obstruct the gospel's advance. We who were once far off have been brought near, grafted into promises we did not earn, awaiting the day when every tribe and tongue will together worship the Lamb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.685937+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

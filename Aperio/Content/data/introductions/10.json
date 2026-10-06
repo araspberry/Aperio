@@ -1,0 +1,136 @@
+{
+  "book": "1 Kings",
+  "bookIndex": 10,
+  "status": "Editorial draft",
+  "title": "A Kingdom’s Splendor and Its Divided Heart",
+  "subtitle": "Solomon’s temple, fractured loyalties, and the prophetic voice that will not be silenced",
+  "atAGlance": {
+    "genre": "Theological history, court narrative, prophetic stories, and royal evaluations",
+    "setting": "From David’s final years through Solomon and the divided kingdoms",
+    "composition": "Anonymous, using earlier royal and prophetic traditions; its final horizon includes the exile",
+    "audience": "Israel and Judah reflecting on kingship, worship, and the causes of national disaster"
+  },
+  "sections": [
+    {
+      "title": "The promise enters another generation",
+      "paragraphs": [
+        "First Kings opens with a succession struggle around an aging David. Solomon receives the throne, but the process is marked by competing claims and the use of force. The book asks readers to look beneath royal stability to the decisions through which it is secured. A kingdom can appear established while questions about justice remain.",
+        "Solomon’s request for wisdom is one of the early high points. He recognizes that governing God’s people requires discernment beyond personal ambition. The judgment involving two women and a child makes that need concrete: wisdom must protect life, particularly where people lack the means to make themselves heard. The king’s gift is measured by its use in service."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The temple and the limits of magnificence",
+      "paragraphs": [
+        "The temple receives extended attention because worship stands at the center of the book’s assessment of Israel. Materials, labor, furnishings, dedication, and prayer all contribute to the account. Solomon acknowledges that no building can contain God, even as he asks God to hear prayers directed toward this place. His prayer includes the foreigner and anticipates the possibility of defeat, exile, and return.",
+        "Yet the royal program also brings increasing wealth, administrative demands, and forced labor. By chapter 11, Solomon’s divided allegiance exposes a failure that magnificence could not prevent. The wise king’s story becomes a warning about gifts that are not joined to continuing faithfulness. Achievement does not make a life immune to gradual moral change."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Two kingdoms, one searching standard",
+      "paragraphs": [
+        "Rehoboam’s refusal to ease the people’s burden helps bring the kingdom to division. Jeroboam then establishes alternative sanctuaries because he fears what pilgrimage to Jerusalem might do to his political position. Anxiety about retaining power shapes worship. The narrative’s evaluation of kings repeatedly returns to such questions of allegiance.",
+        "From this point, readers must keep Israel, the northern kingdom, distinct from Judah in the south. Kings moves between their rulers, sometimes covering overlapping periods. A brief reign can receive sharp attention, while political achievements may receive little space. The writer’s interests are selective and theological: how did a ruler respond to God, and what habits did that response encourage among the people?"
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Elijah and the courage to speak",
+      "paragraphs": [
+        "Elijah’s entrance interrupts the succession of royal notices. Drought, food, a widow’s household, and the contest at Carmel become settings in which the LORD’s claim is made known. The prophet’s work reaches beyond the court, showing concern for lives that royal histories might otherwise overlook.",
+        "Elijah is also exhausted and afraid. The narrative gives room to food, rest, renewed encounter, and the continuation of his calling. Prophetic faithfulness is not a performance of permanent invulnerability. Later, the seizure of Naboth’s vineyard exposes the alliance of royal desire, false testimony, and violence. Elijah confronts Ahab because worship and justice cannot be separated. A king’s treatment of a neighbor’s inheritance belongs within the same moral account as his public religious allegiance."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Reading the history from its ending",
+      "paragraphs": [
+        "First and Second Kings form a continuous work that eventually reaches the destruction of both kingdoms and life in exile. Their anonymous writer or editors use earlier sources, including royal records mentioned within the narrative. Scholars debate the stages of composition, but the work’s final perspective knows catastrophe. This helps explain its sustained question: how could a people with temple, promise, and kings arrive at such an end?",
+        "The setting of First Kings runs broadly from the tenth into the ninth century BC. Its chapter timeline distinguishes the united kingdom from the divided kingdoms rather than supplying artificial dates for every scene. Read slowly where a prophet challenges a ruler or where ordinary people bear the cost of royal ambition. The book’s concern is not simply whether a nation becomes powerful, but what kind of life its power makes possible."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Solomon’s establishment and reign",
+      "startChapter": 1,
+      "endChapter": 11,
+      "description": "Succession, wisdom, building, wealth, and divided allegiance shape the account of Solomon."
+    },
+    {
+      "label": "The kingdom divides",
+      "startChapter": 12,
+      "endChapter": 16,
+      "description": "Rival loyalties and alternating royal notices establish the histories of Israel and Judah."
+    },
+    {
+      "label": "Elijah and the court of Ahab",
+      "startChapter": 17,
+      "endChapter": 22,
+      "description": "Prophetic confrontation joins the questions of worship, justice, truth, and royal responsibility."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Wisdom and allegiance",
+      "description": "A remarkable gift does not replace continuing obedience."
+    },
+    {
+      "name": "Worship and power",
+      "description": "Political fear repeatedly distorts the community’s relationship with God."
+    },
+    {
+      "name": "Prophetic accountability",
+      "description": "God’s word confronts both public idolatry and violence against ordinary people."
+    }
+  ],
+  "timeline": {
+    "era": "divided-kingdom",
+    "dateLabel": "Tenth–ninth centuries BC",
+    "context": "Solomon’s united kingdom gives way to Israel and Judah.",
+    "note": "The book moves between overlapping reigns; composition occurred later than many narrated events."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 11,
+      "era": "united-kingdom",
+      "label": "Solomon and the united kingdom",
+      "dateLabel": "Broadly the tenth century BC",
+      "note": "The opening includes David’s final days and the transition to Solomon."
+    },
+    {
+      "start": 12,
+      "end": 22,
+      "era": "divided-kingdom",
+      "label": "Israel and Judah",
+      "dateLabel": "Late tenth–ninth centuries BC",
+      "note": "The narrative alternates between northern and southern rulers."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Kings · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · 1 Kings",
+      "url": "https://bible.usccb.org/bible/1kings/0"
+    }
+  ]
+}

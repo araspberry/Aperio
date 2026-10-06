@@ -1,0 +1,55 @@
+{
+  "book": "Amos",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 3: The Courage to Speak Truth",
+      "overview": [
+        "The prophet Amos speaks to a comfortable nation that has forgotten God's covenant, calling God's people back to accountability through an unsettling question: how can two walk together unless they agree? This chapter reveals that true friendship with God demands alignment with His justice, and silence in the face of injustice is itself a form of betrayal.",
+        "Amos begins with a striking image—a lion roaring only after catching prey. Similarly, God's prophet speaks only when called by divine commission. This establishes the prophet's authority: Amos is not free-lancing his opinions but compelled by God's own voice. What follows is a series of cause-and-effect statements that strip away pretense. A trap springs because it was set. A city trembles because judgment comes. The people of Israel had grown accustomed to false security, mistaking prosperity for God's approval. But Amos announces that their wealth and stability mask spiritual decay that cannot be hidden from God forever.",
+        "The deeper issue is relationship. God had chosen Israel uniquely among the nations, and this distinction carried responsibility, not exemption. \"You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.\" This is the painful logic of covenant: love without accountability would be cruelty, not kindness. Because God loved Israel, He would not allow them to continue unchecked toward destruction.",
+        "For believers today, Amos's message challenges comfortable Christianity. Do our lives reflect genuine agreement with God's character? Do we align ourselves with His concern for the vulnerable and His intolerance of injustice? The prophet reminds us that knowing God is never merely a private spiritual experience—it calls us to live differently in a world that contradicts His values.",
+        "What does it mean for you to \"walk together\" with God today? Where might He be calling you toward greater alignment with His heart for justice and mercy?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 3: Scholarly study",
+      "overview": [
+        "The third chapter of Amos marks a pivotal transition in the prophetic collection, moving from the oracles against the nations and the three indictments against Israel in chapters one and two into a sustained theological argument justifying the prophet's message of judgment. Amos, a sheep breeder from Tekoa in Judah who prophesied during the reign of Jeroboam II (circa 760-750 BCE), addresses the northern kingdom during a period of remarkable economic prosperity and territorial expansion, conditions that masked deep social corruption and religious complacency.",
+        "The chapter opens with the significant phrase \"Hear this word\" (*shim'u et-hadavar hazeh*), a formula that appears three times in the book to introduce major discourse units. The declaration that Israel alone has been \"known\" (*yada'ti*) among all families of the earth employs covenantal language; the Hebrew verb *yada'* connotes not mere intellectual awareness but intimate relational knowledge, often used of covenant election. This theological foundation makes the subsequent announcement devastating: election brings not immunity but heightened accountability. The rhetorical question \"Therefore I will punish you for all your iniquities\" inverts popular assumptions about divine favor, challenging what scholars have termed \"Zion theology\" or presumptive covenantal security.",
+        "The series of seven rhetorical questions in verses three through eight employs a sophisticated argument from cause and effect, culminating in the climactic assertion that the Lord Yahweh has spoken and the prophet must prophesy. The term \"secret\" or \"counsel\" (*sod*) in verse seven carries significant weight, referring to the divine council where prophets receive their commission, thus legitimating Amos's authority against potential challengers.",
+        "Verses nine through fifteen shift to judgment oracles against Samaria, with the striking summons to Ashdod and Egypt—traditional enemies—to witness Israel's corruption. The Hebrew *mehumot* (tumults, disorders) describes the social chaos resulting from oppression. The chapter concludes with judgment against the altars of Bethel and the luxurious houses with ivory inlays, archaeological evidence of which has been discovered at Samaria. Throughout, Amos demonstrates that covenant privilege divorced from covenant faithfulness becomes grounds for more severe judgment, a theological principle reverberating throughout canonical prophecy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 3: Prophetic perspective",
+      "overview": [
+        "Amos chapter three thunders forth from approximately 760 years before the birth of Christ, during the reign of Jeroboam II over the northern kingdom of Israel. This was an era of deceptive prosperity, when military victories and economic expansion masked a rotting spiritual core. The prophet Amos, a shepherd from Tekoa in Judah, was summoned by God to cross into the northern territory and pronounce judgment upon a people who had grown fat on injustice while maintaining the external forms of worship. This passage stands within the Kingdom era of redemptive history, after the glorious united monarchy of David and Solomon had fractured, and before the Assyrian exile that would scatter the ten tribes in 722 BC—a catastrophe Amos here foretells.",
+        "The chapter opens with a devastating statement of covenant accountability. \"You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.\" This \"knowing\" echoes the intimate election language of Genesis, where God chose Abraham's seed as His own possession. Yet election unto privilege demands election unto responsibility. Israel had presumed upon grace, imagining that covenant status guaranteed immunity from judgment. Amos shatters this presumption with a series of cause-and-effect questions: Does a lion roar without prey? Does a bird fall without a snare? The rhetorical force builds toward an inescapable conclusion—calamity comes to a city because the Lord has acted.",
+        "Here emerges a prophetic principle that spans both Testaments: God does nothing without revealing His purposes through His servants the prophets. This declaration establishes the prophetic office as essential to God's governance of history, a pattern fulfilled supremely in Christ, the Prophet greater than Moses, who declared all that the Father showed Him.",
+        "The judgment pronounced against Samaria's palaces, where violence and robbery were stored like treasure, typologically foreshadows every system of power that exploits the vulnerable while offering religious observance as cover. The altars of Bethel would be cast down; the winter house and summer house of the wealthy would perish. This was literally fulfilled when Assyria devastated the northern kingdom, yet its echoes reverberate toward the final Day when every kingdom built on oppression shall crumble before the returning King.",
+        "For the church dwelling between the advents, Amos three issues a sobering reminder that intimacy with God intensifies rather than diminishes accountability, and that the Lion of Judah still roars before He acts."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.299696+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

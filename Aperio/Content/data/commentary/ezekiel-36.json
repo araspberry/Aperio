@@ -1,0 +1,55 @@
+{
+  "book": "Ezekiel",
+  "chapter": 36,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 36 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 36: The Heart of Restoration",
+      "overview": [
+        "God's deepest purpose is not to shame us with our failure, but to restore us completely—renewing both our circumstances and our hearts so that His name is honored among the nations.",
+        "Ezekiel 36 opens with a prophetic word about the mountains of Israel, which had endured devastation and mockery. The surrounding nations looked at God's people in exile and concluded that their God was weak, unable to protect or preserve His own. But God speaks directly into this pain: the restoration He promises is not primarily about restoring land and prosperity, though those will follow. His consuming concern is His own reputation. He will act \"for the sake of my holy name\" (36:22), reclaiming what was lost so that the watching world might know that He alone is God.",
+        "What makes this passage extraordinary is that God goes beyond physical restoration to promise something far more radical: transformed hearts. He will remove the heart of stone and give a heart of flesh. He will place His Spirit within His people and cause them to walk in His ways. This is the deepest kind of renewal—not imposed from outside, but worked from within by the Holy Spirit. The exile itself becomes the furnace in which God purifies His people, teaching them that their identity depends not on geography or strength, but on belonging to Him.",
+        "This speaks to our own experience of spiritual restoration. When we've failed, fallen away, or found ourselves in seasons of desolation, God's first instinct is not punishment but renewal. He cares about His glory in our restoration—not to magnify our shame, but so that others might see His faithfulness and be drawn to trust Him. More intimately still, He offers us His Spirit to transform us from the inside out, making us willing and able to obey what we could never obey through mere effort.",
+        "What area of your life needs not just external repair, but a renewal of your deepest desires and affections through the Holy Spirit?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 36: Scholarly study",
+      "overview": [
+        "Ezekiel 36 stands as one of the most theologically significant chapters in the prophetic corpus, composed during the Babylonian exile following the destruction of Jerusalem in 586 BCE. Ezekiel, a priest-prophet addressing the displaced community, here transitions from oracles of judgment against foreign nations to a sustained message of restoration for Israel. The chapter divides naturally into two major sections: verses 1–15 address the mountains of Israel personified, promising their restoration against the mockery of surrounding nations, while verses 16–38 articulate the divine rationale for Israel's exile and the comprehensive nature of their future renewal.",
+        "The theological heart of this chapter resides in the term *lēb* (heart), which appears prominently in verse 26 where Yahweh promises to remove the \"heart of stone\" and replace it with a \"heart of flesh.\" This anthropological metaphor signifies not merely emotional transformation but a fundamental reorientation of the will and cognitive-volitional center of human existence. Equally significant is the phrase *rûaḥ ḥădāšâ* (new spirit), indicating that this internal renewal derives from divine initiative rather than human effort. The verb *nātan* (to give) emphasizes the gracious character of this transformation—God gives what humanity cannot achieve independently.",
+        "Particularly noteworthy is the repeated assertion that Yahweh acts \"not for your sake\" but \"for the sake of my holy name\" (verses 22, 32). This theocentric grounding distinguishes Ezekiel's restoration theology from any notion of earned redemption. The divine name (*šēm*) represents Yahweh's reputation among the nations, which Israel's behavior had profaned. Restoration thus serves a revelatory purpose: the nations \"shall know that I am the LORD.\"",
+        "Scholars debate whether verses 16–38 anticipate a purely future eschatological fulfillment or found partial realization in the post-exilic return. New Testament writers, particularly in 2 Corinthians 3 and Hebrews 8–10, interpreted this passage as finding ultimate fulfillment in the new covenant inaugurated through Christ. The sprinkling of clean water (verse 25) has generated discussion regarding its relationship to baptismal theology, though Ezekiel's primary reference appears to be ritual purification. This chapter thus functions as a pivotal text connecting exilic hope with later Christian appropriation of prophetic restoration promises."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 36: Prophetic perspective",
+      "overview": [
+        "Ezekiel chapter thirty-six was written during the Babylonian exile, approximately 586 years before the birth of Christ, in the darkest hour of Israel's national existence. Jerusalem had fallen, the temple lay in ruins, and God's covenant people were scattered among the nations. This chapter stands at the hinge point between exile and restoration on the biblical timeline, looking backward to the judgment that covenant unfaithfulness demanded and forward to a redemption so radical it would require nothing less than a new creation of the human heart.",
+        "The prophecy opens with the mountains of Israel themselves receiving divine address, a dramatic reversal of chapter six where those same mountains heard only curses. The land that enemies mocked as forsaken and devoured would become fruitful again, teeming with returning exiles. Yet the physical restoration of territory was never the ultimate aim. The prophet penetrates to the scandal at the center of Israel's exile: God's holy name had been profaned among the nations because His people bore that name while living in open rebellion. Their dispersion was not merely punishment but public disgrace for Yahweh Himself.",
+        "Here the prophetic vision ascends to heights that transcend anything Israel had yet experienced. God declares He will act not for Israel's sake but for His own holy name's sake, a statement of terrifying grace. The restoration would vindicate divine holiness, not reward human merit. What follows is the most comprehensive prophecy of new covenant transformation in the Hebrew Scriptures: sprinkling with clean water, a new heart replacing the heart of stone, and the Spirit placed within to enable obedience from the inside out. This passage stands as the prophetic foundation upon which Jeremiah's new covenant promise and Joel's Spirit-outpouring find their fullest expression.",
+        "Typologically, this cleansing and heart-transformation shadows the baptismal realities of the new covenant and the Pentecostal gift of the indwelling Spirit. What Ezekiel saw in visionary promise, the church received in historical reality when the crucified and risen Christ ascended and poured out the Spirit upon all flesh. The stony hearts of Jew and Gentile alike have been made flesh through regenerating grace.",
+        "Yet the prophecy retains an eschatological horizon not fully realized. The nations have not yet universally recognized Yahweh's holiness through a restored Israel. The church lives in the tension of already possessing the new heart while awaiting the consummation when every knee shall bow and God's name will be hallowed throughout all creation, the prayer Christ taught His disciples finally and fully answered."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_036",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.17767+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

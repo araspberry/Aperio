@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 36,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 36 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 36: When God's Word Refuses to Be Silenced",
+      "overview": [
+        "The deepest truth of this passage is that God's Word possesses an irrepressible power that no human resistance can ultimately destroy. Even when every earthly authority works to suppress it, the gospel cannot be contained or nullified by the will of rulers.",
+        "Jeremiah's secretary Baruch writes the prophet's words onto a scroll—a painstaking, deliberate act of preservation. These were dangerous words of judgment and exile, the kind that make kings uncomfortable and nobles defensive. When King Jehoiakim hears them read, his response is telling: he cuts the scroll into pieces with a scribe's knife and burns it in the fire. His action reveals a human truth we all recognize—the desperate impulse to silence what makes us guilty or afraid. If the scroll burns, perhaps the prophecy dies with it. If the words are destroyed, the king imagines his judgment will disappear.",
+        "But God's response to this destruction is not anger; it is renewal. He instructs Jeremiah to write the words again, and additionally to pronounce judgment on the king himself for his defiance. The message persists. The warning endures. The king's attempt to erase God's word only multiplies it.",
+        "This speaks deeply to our modern anxiety about the viability of faith. We watch secularism advance, Christianity mocked, the Bible dismissed as outdated. We fear the erosion of biblical truth in our culture. Yet Jeremiah 36 whispers assurance: human hostility cannot fundamentally weaken what God has spoken. The same King Jehoiakim who burned the scroll could not burn the truth it carried. That truth survived him, his kingdom, and twenty-five centuries of opposition.",
+        "Our responsibility is simply to write, to speak, to testify—faithfully and repeatedly if necessary—trusting that God's Word will accomplish what He purposes. The message will get through, not because we are clever or powerful, but because God preserves His own.",
+        "What word from Scripture has God put on your heart to speak or live out, despite resistance or fear?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 36: Scholarly study",
+      "overview": [
+        "Jeremiah 36 stands as one of the most significant chapters in prophetic literature for understanding the composition and transmission of biblical texts, offering a rare glimpse into the material production of scripture in ancient Israel. Set during the reign of Jehoiakim son of Josiah (609–598 BCE), this narrative unfolds against the backdrop of Judah's precarious geopolitical position following Josiah's death at Megiddo and the rising threat of Babylonian hegemony under Nebuchadnezzar.",
+        "The chapter opens with Yahweh commanding Jeremiah to inscribe his oracles onto a scroll (*megillah*), a term denoting a rolled document typically made of papyrus or leather. This act of textualization represents a pivotal moment in prophetic ministry, transforming oral proclamation into written deposit. The prophet employs Baruch ben Neriah as his scribe (*sopher*), a figure whose family connections to the royal administration—his brother Seraiah served as quartermaster—lend credibility to the narrative's historical setting. The dictation encompasses \"all the words\" spoken from Josiah's reign through the present, suggesting a comprehensive prophetic anthology spanning approximately two decades.",
+        "The threefold reading of the scroll—to the people in the temple, to officials in the scribal chamber, and finally to King Jehoiakim—creates escalating dramatic tension. Jehoiakim's response of cutting and burning the scroll section by section with a scribe's knife (*ta'ar hassopher*) constitutes a deliberate act of royal defiance against divine authority, standing in stark contrast to his father Josiah's repentance upon hearing the discovered law book. The king's contemptuous destruction represents not merely political resistance but theological rejection of prophetic mediation.",
+        "The chapter's conclusion introduces a crucial hermeneutical element: the second scroll contains not only the original words but \"many similar words\" added to them. This editorial expansion demonstrates that prophetic texts underwent development and supplementation, a process scholars recognize throughout the Jeremianic corpus. The Septuagint's shorter version of Jeremiah compared to the Masoretic Text may reflect different stages of this scribal activity. Jeremiah 36 thus functions as both historical narrative and metatextual commentary, legitimizing the written prophetic tradition while illustrating the dynamic relationship between divine word, prophetic voice, and scribal transmission in ancient Israelite religion."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 36: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 605-604 BC, during the fourth year of King Jehoiakim's reign over Judah, roughly six centuries before the incarnation of Christ. The Babylonian threat looms on the horizon as Nebuchadnezzar has just defeated Egypt at Carchemish, signaling the imminent transfer of imperial power. We stand here in the final generation before the catastrophic exile, at that critical juncture in redemptive history between the divided kingdom era and the Babylonian captivity—the very precipice of covenantal judgment that Moses had warned about in Deuteronomy.",
+        "The narrative presents a dramatic confrontation between the word of God and the authority of man. Jeremiah dictates divine oracles to his scribe Baruch, who then reads them in the temple courts. When the scroll reaches King Jehoiakim, he systematically cuts it with a scribe's knife and feeds it section by section into the winter fire. This act of royal contempt stands as the supreme Old Testament image of humanity's rejection of prophetic revelation. Yet the chapter does not end in ashes—God commands the writing of a second scroll, now expanded with additional words of judgment.",
+        "Here emerges a profound typological pattern. The rejected word, destroyed by hostile authority yet rising again with greater power, prefigures Christ Himself—the living Word whom earthly powers would crucify yet who rose with all authority in heaven and earth. Jehoiakim's knife and fire could not silence the prophetic testimony, just as death and the sealed tomb could not contain the incarnate Word. The preservation of Scripture despite human opposition reveals the indestructible nature of divine revelation, pointing toward that Word made flesh who declared that heaven and earth would pass away before His words would fail.",
+        "The scroll's journey from prophet to scribe to temple to palace demonstrates how God's word penetrates every sphere of human existence, demanding response from commoner and king alike. No one stands outside its claims. The king's burning of the scroll fulfilled no purpose except to heap greater judgment upon himself; the word remained, the warning intensified, and Babylon came precisely as foretold.",
+        "For the church awaiting Christ's return, this chapter establishes an unshakeable confidence: every word God has spoken will accomplish its purpose. The powers of this age may rage against prophetic truth concerning Christ's coming kingdom, yet that testimony cannot be consumed. We hold in our hands a completed canon that has survived every furnace of opposition, and we await the final vindication when the Word Himself appears in glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_036",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.000563+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

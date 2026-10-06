@@ -1,0 +1,55 @@
+{
+  "book": "Judges",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Judges 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Judges 2: When We Forget What God Has Done",
+      "overview": [
+        "The tragedy of Judges 2 reveals a heartbreaking spiritual pattern: the generation that witnessed God's mighty deliverance forgets Him, and their children never know His power at all. This passage captures the moment when Israel's covenant faithfulness crumbles into spiritual amnesia, teaching us that remembering God's work is not optional for faith—it is the foundation of it.",
+        "After Joshua's death, a new generation rises up \"who did not know the Lord or the work that he had done for Israel.\" These words cut deeply because they expose how quickly spiritual inheritance can be lost when it is merely assumed rather than actively transmitted. The people had been given the land, yet they failed to remain faithful to the God who gave it. Instead of demolishing pagan shrines and driving out the Canaanites as commanded, they made peace with idolatry and intermarried with surrounding nations. Comfort and convenience replaced conviction.",
+        "God's response is neither arbitrary nor cruel; it is the inevitable consequence of broken covenant. The enemies Israel failed to defeat became thorns in their sides, instruments of God's discipline meant to awaken them to their need for Him. This cycle—faithlessness, judgment, temporary repentance through judges, then forgetting again—becomes the pattern of the entire book.",
+        "The spiritually urgent lesson here applies directly to our lives. We too face the temptation to forget what God has done in our past, losing the vivid awareness of His faithfulness that should anchor our present obedience. Our spiritual inheritance is not automatic; it must be passed down intentionally through testimony, teaching, and training the next generation in God's ways. When we fail to remember and rehearse God's work, we drift toward spiritual compromise and idolatry in forms unique to our own culture.",
+        "What spiritual victories or acts of God's faithfulness have you forgotten or failed to remind yourself of regularly? How might remembering them reshape your obedience today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Judges 2: Scholarly study",
+      "overview": [
+        "Judges 2 functions as a critical theological prologue that establishes the interpretive framework for the entire book, transitioning from the incomplete conquest narratives of chapter 1 to the cyclical pattern of apostasy, oppression, deliverance, and relapse that characterizes the subsequent judge narratives. The chapter divides into two major movements: the divine indictment delivered by the messenger of Yahweh at Bochim (vv. 1–5) and the programmatic summary of Israel's apostasy following Joshua's death (vv. 6–23).",
+        "The chapter opens with the appearance of the *malʾak YHWH* (messenger of Yahweh), who ascends from Gilgal—the site of Israel's initial encampment after crossing the Jordan—to Bochim, a location whose name derives from the Hebrew root *bakah* (to weep), etiologically explained by Israel's response to the divine rebuke. The messenger's speech recapitulates covenant history, emphasizing Yahweh's faithfulness in bringing Israel from Egypt while indicting the people for failing to dismantle Canaanite altars and for forming prohibited covenants with the land's inhabitants, direct violations of Deuteronomic stipulations found in Exodus 23:32–33 and 34:12–16.",
+        "The second section presents a compressed account of Joshua's death and burial (vv. 6–9), material largely paralleled in Joshua 24:28–31, though the arrangement here serves a distinct rhetorical purpose. The phrase describing the generation that \"knew not Yahweh nor the work which he had done for Israel\" (v. 10) employs *yadaʿ* (to know) in its covenantal sense, indicating not mere cognitive awareness but relational fidelity and experiential acknowledgment. This generational rupture precipitates the theological crisis animating the book.",
+        "The chapter's latter half introduces the Baals and Ashtaroth—the Canaanite fertility deities whose worship proved persistently seductive throughout Israel's settlement period. Scholarly debate continues regarding whether these terms designate specific deities or function as generic appellations for the broader Canaanite pantheon. The cyclical pattern articulated in verses 11–19 establishes the structural template repeated throughout Judges 3–16, though notably the text emphasizes that each successive generation descended deeper into corruption than its predecessors, suggesting not mere repetition but progressive deterioration—a theological trajectory culminating in the moral chaos of chapters 17–21."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Judges 2: Prophetic perspective",
+      "overview": [
+        "Judges chapter two unfolds approximately 1380 years before the incarnation of Christ, situated in the turbulent period following Joshua's death when Israel first entered Canaan but failed to complete the conquest. This passage stands at a critical juncture in redemptive history—after the Exodus deliverance, after Sinai's covenant, after the Jordan crossing, but before the establishment of the monarchy. Israel has received her inheritance yet stands on the precipice of catastrophic spiritual failure, and this chapter serves as both historical diagnosis and prophetic template for the cycles of apostasy that will define the entire era of the judges.",
+        "The Angel of the Lord who ascends from Gilgal to Bochim is no ordinary messenger but the pre-incarnate Christ Himself, the covenant-keeping God who brought Israel out of Egypt and swore faithfulness to the patriarchs. His appearance here carries profound typological weight—just as He confronted Israel's unfaithfulness in the wilderness wanderings, so He now indicts the new generation that has made treaties with Canaanites and left pagan altars standing. The weeping at Bochim foreshadows Israel's perpetual pattern: temporary remorse without lasting repentance, tears without transformation.",
+        "The death of Joshua introduces a theme that echoes through Scripture until the true and greater Joshua arrives. Every human deliverer dies, and with him dies the faithfulness of the generation he led. Verse ten pronounces the devastating verdict: a generation arose that knew not the Lord nor the works He had done. This spiritual amnesia becomes the recurring disease of God's people, a failure of covenant memory that only the indwelling Spirit under the new covenant will ultimately cure.",
+        "The cyclical pattern revealed here—sin, servitude, supplication, salvation, and silence—prophetically anticipates humanity's desperate need for a permanent Deliverer. Each judge who arises typologically points forward to Christ: they save Israel from enemies, yet they die and the people return to corruption worse than before. The judges are shadows; Christ is the substance. They delivered temporarily; He delivers eternally. They arose and fell; He rose never to die again.",
+        "The chapter's declaration that the Lord raised up judges who saved Israel finds its ultimate fulfillment in the One whom God raised from the dead. For the church dwelling between the advents, this passage warns against spiritual complacency while pointing to the only Judge whose salvation endures forever, who even now intercedes for His people until He comes again to complete what no earthly deliverer could accomplish."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "07_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.32865+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

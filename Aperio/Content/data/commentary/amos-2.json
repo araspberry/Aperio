@@ -1,0 +1,57 @@
+{
+  "book": "Amos",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Amos 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Amos 2: God's Unwavering Standards",
+      "overview": [
+        "The prophet Amos invites us into a courtroom scene where God brings serious charges against the nations—not out of caprice, but because justice matters eternally. What unfolds is a stunning reminder that God's moral standards apply universally and that spiritual privilege brings heightened responsibility.",
+        "The chapter opens with God's judgment against neighboring nations for their brutalities: Damascus for cruelty, Gaza for slave trading, Tyre for broken covenants, Edom for vengeful hatred, Ammon for savagery, and Moab for desecration. Each oracle follows a pattern—\"for three transgressions... and for four\"—suggesting a cup that overflows, a patience exhausted. What's remarkable is that God holds gentile nations accountable for basic moral laws, indicating that conscience and justice transcend borders and religious affiliation.",
+        "Then the focus shifts to Judah, condemned for rejecting God's law and pursuing idols. But the real weight falls on Israel. Having received the covenant, witnessed miracles, been given prophets to guide them—Israel faces the severest indictment. They oppress the poor, trample vulnerable people into dust, and pervert justice for personal gain. What stings is that their sins weren't primarily doctrinal; they were relational. They exploited their own neighbors while maintaining religious appearances.",
+        "This pattern echoes through history and into our own hearts. We live in a culture that often measures spirituality by enthusiasm or belief statements, yet God consistently emphasizes justice, mercy, and right treatment of others—especially the vulnerable. Our faith means nothing if it doesn't reshape how we use power, spend money, and speak truth.",
+        "The challenging beauty of Amos is that it strips away comfortable religion. God doesn't want our festivals or offerings while injustice flourishes among us. He wants lives aligned with His character: compassion toward the poor, honesty in dealings, protection of the vulnerable.",
+        "Where in your life might comfortable faith be masking injustice or indifference toward those who are suffering?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Amos 2: Scholarly study",
+      "overview": [
+        "Amos 2 continues the prophet's masterful rhetorical strategy of pronouncing judgment against Israel's neighbors before turning with devastating effect toward Israel itself. The Judean shepherd-prophet, active during the prosperous reign of Jeroboam II (ca. 760-750 BCE), delivers these oracles during a period of relative political stability and economic expansion that masked profound social inequities. The literary structure of chapters 1-2 employs a repeated formula—\"For three transgressions... and for four\"—a numerical device common in wisdom literature indicating completeness of guilt rather than literal enumeration.",
+        "The chapter opens with oracles against Moab (vv. 1-3), then Judah (vv. 4-5), before culminating in the extended indictment of Israel (vv. 6-16). The accusation against Moab for burning the bones of Edom's king \"to lime\" (*lasid*) represents a violation of ancient Near Eastern burial customs and demonstrates that Yahweh's moral sovereignty extends even to crimes committed between pagan nations. The Judah oracle, sometimes considered a later Deuteronomistic addition due to its more generalized language about rejecting Torah, nonetheless serves the rhetorical function of ensuring no audience member escapes scrutiny.",
+        "The Israel oracle constitutes the literary and theological climax. The term *tsaddiq* (righteous one) in verse 6 denotes the legally innocent party, sold into debt slavery over trivial amounts—the price of sandals. The expression \"pant after the dust of the earth on the head of the poor\" employs the verb *sha'aph*, suggesting either trampling the poor into the dust or coveting even the ashes of mourning upon their heads. Sexual violations at cultic sites (v. 7) compound economic exploitation with religious profanation.",
+        "Verses 9-12 function as a historical retrospective (*Heilsgeschichte*), recounting Yahweh's gracious acts—defeating the Amorites, delivering Israel from Egypt, raising prophets and Nazirites—which render Israel's covenant violations inexcusable. The chapter concludes with theophanic imagery of inescapable judgment where military prowess provides no refuge. The verb *ya'ameṣ* (v. 16, \"stands firm\") ironically inverts its usual connotations of courage, suggesting that even the stoutest warriors will flee naked. This oracle establishes the theological foundation for Amos's entire message: election entails heightened accountability, not guaranteed protection."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Amos 2: Prophetic perspective",
+      "overview": [
+        "Amos chapter two stands as a thunderous oracle delivered approximately 760 years before Christ's birth, during the prosperous reign of Jeroboam II over the northern kingdom of Israel. The prophet Amos, a shepherd from Tekoa in Judah, speaks during a season of material abundance that masks profound spiritual decay. This passage occupies the period of the divided monarchy, generations after Solomon's kingdom fractured, and roughly forty years before Assyria would sweep away the northern tribes in devastating judgment. Within redemptive history, we stand in the era of prophetic warning, where God sends messengers to call His covenant people back from apostasy before the hammer of exile falls.",
+        "The chapter continues the oratorio of divine judgment that began in chapter one, completing the indictments against surrounding nations before turning the sword toward Judah and Israel themselves. Moab faces condemnation for desecrating the bones of Edom's king, revealing that even pagan nations stand accountable to moral law written into creation's fabric. This universal accountability foreshadows the final judgment when all nations shall stand before Christ's tribunal.",
+        "When the prophetic gaze shifts to Judah and Israel, the intensity sharpens. Judah stands guilty of rejecting Torah, the very revelation that distinguished them among nations. Israel's catalog of sins exposes systemic injustice: the righteous sold for silver, the poor trampled, the afflicted denied access to justice, and father and son profaning God's name through shared immorality at pagan shrines. The garments taken in pledge, meant to be returned by sunset according to Mosaic law, become cushions for idolatrous feasting. Here we witness covenant betrayal in its most grievous form.",
+        "The divine reminder of Israel's salvation history pierces through: the Amorites destroyed, the exodus accomplished, forty years of wilderness sustenance, prophets and Nazirites raised up as gifts to the nation. Yet Israel silenced the prophets and corrupted the consecrated ones. This pattern of rejecting God's messengers constitutes the tragic throughline culminating in Jerusalem killing the prophets and ultimately crucifying the Prophet greater than Moses.",
+        "The chapter closes with inescapable judgment imagery. Neither speed nor strength nor military might will provide refuge. The swift cannot flee, the strong cannot rally their power, the warrior cannot save himself. This foreshadows the Day of the Lord that Amos will further unveil, pointing both to historical judgments accomplished through Assyria and to the ultimate reckoning at Christ's return.",
+        "For the church awaiting her Lord's appearing, Amos two warns against presuming upon covenant privilege while practicing injustice. Social righteousness and authentic worship remain inseparable in God's economy."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "30_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.29718+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

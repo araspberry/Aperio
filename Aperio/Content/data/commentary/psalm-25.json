@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 25,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 25 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 25: The Posture of Waiting Trust",
+      "overview": [
+        "Psalm 25 captures the raw vulnerability of a soul learning to wait—and in that waiting, learning whom to worship. The psalmist stands at a crossroads, surrounded by enemies and confusion, yet consciously chooses to lift his whole being toward God in a posture of surrender and expectation.",
+        "What makes this psalm so alive is its honest mixture of urgency and patience. The writer cries out for God's guidance while simultaneously confessing \"to you, O LORD, I lift up my soul.\" There's no pretense here, no forced certainty. Instead, there's a deep knowing that the path forward belongs entirely to God's hands, and that trust itself becomes an act of courage. When the psalmist asks God to \"show me your ways\" and \"teach me your paths,\" we hear the voice of someone willing to be remade, to have their understanding corrected and their direction reoriented.",
+        "The psalm also weaves together themes of shame, sin, and fresh starts with remarkable honesty. The writer acknowledges past failures—\"Remember not the sins of my youth\"—while also declaring the fundamental character of God: merciful, kind, and faithful to those who covenant with Him. This is profoundly pastoral because it speaks to every heart that has stumbled, doubted, or wandered. God's guidance isn't reserved for the spiritually elite; it flows toward the humble, the teachable, and those willing to admit their need.",
+        "Living out Psalm 25 today means resisting the culture's demand for instant clarity and self-assured direction. It means training our hearts to whisper, \"Guide me\" in moments of decision, and to trust that God's instruction often comes through waiting, through Scripture, through wise counsel, and through the patient unfolding of His providence.",
+        "As you face an uncertain season, what would it look like to genuinely lift your whole soul to the Lord? Where might God be inviting you to trust rather than to grasp?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 25: Scholarly study",
+      "overview": [
+        "Psalm 25 stands as a carefully crafted acrostic poem attributed to David, wherein each verse begins with a successive letter of the Hebrew alphabet, though notably the letter *waw* is absent and *pe* appears twice at the conclusion. This literary structure, while imposing certain constraints upon composition, serves a mnemonic function and reflects the wisdom tradition's emphasis on ordered instruction. The psalm itself defies simple genre classification, weaving together elements of individual lament, petition, and wisdom teaching into a unified meditation on divine guidance and the forgiveness of sins.",
+        "The opening declaration \"To you, O LORD, I lift up my soul\" employs the Hebrew term *nephesh*, signifying not merely the immaterial soul in later philosophical categories but the entire living self—one's vitality, desires, and vulnerability brought before God in complete dependence. This gesture of lifting up represents covenant trust, standing in deliberate contrast to those who place confidence in worthless idols. The psalmist's repeated concern with shame (*bosh*) reflects the honor-shame dynamics pervasive in ancient Near Eastern culture, where public disgrace before enemies carried devastating social and theological implications.",
+        "Central to the psalm's theology is the term *derek* (way/path), appearing seven times and establishing the dominant metaphor of life as a journey requiring divine direction. The LORD's paths are characterized as *chesed* and *emeth*—covenant faithfulness and reliability—forming a hendiadys that describes God's consistent, loyal commitment to those who keep covenant stipulations. This conditional element introduces interpretive tension: while the psalmist grounds hope entirely in divine mercy rather than personal merit, verse 10 nonetheless limits these blessings to covenant keepers, suggesting a dialectic between grace and obedience that resists simplistic resolution.",
+        "The confession of sin in verses 7 and 11 interrupts the wisdom instruction, revealing that the acrostic form contains genuine pastoral urgency. The appeal to God's name (*shem*) as the basis for forgiveness reflects ancient understanding that divine reputation and human redemption are mysteriously intertwined. The psalm concludes by expanding from individual to communal concern, with the final verse breaking the acrostic pattern to petition for Israel's redemption—perhaps a later liturgical addition or an intentional move from personal piety toward corporate hope, situating individual spirituality within the broader narrative of God's covenant people."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 25: Prophetic perspective",
+      "overview": [
+        "This psalm flows from the pen of David, Israel's shepherd-king, composed approximately one thousand years before the incarnation of Christ. While we cannot pinpoint its exact occasion, the internal evidence of enemies surrounding, sins weighing heavy, and loneliness pressing in suggests it arose during one of David's seasons of distress—perhaps during Absalom's rebellion or Saul's pursuit. This places the psalm squarely within the Kingdom era of redemptive history, after God established His covenant throne through David's line yet centuries before that throne would find its eternal occupant in Jesus of Nazareth.",
+        "David's acrostic prayer unfolds as a tapestry woven with threads that stretch backward to Sinai and forward to Calvary. When he pleads for God to remember His mercy and covenant love, he anchors himself in the Abrahamic promise and the Exodus deliverance—that foundational pattern wherein Yahweh redeems a helpless people not because of their merit but because of His name and His oath. David stands as a type of every believer caught between election and consummation, crying out from the wilderness of present affliction while trusting in promises not yet fully realized.",
+        "The psalm's repeated cry for teaching, leading, and guidance in God's paths anticipates the prophetic hope of Jeremiah's new covenant, when the law would be written on hearts rather than stone. David's confession that God instructs sinners in the way and leads the humble in justice finds its ultimate fulfillment in Christ, who declared Himself the Way and sent His Spirit to guide believers into all truth. The intimacy David describes—\"the secret counsel of the Lord is for those who fear Him\"—becomes the birthright of every new covenant believer through union with Christ.",
+        "Eschatologically, David's closing cry for the redemption of Israel from all her troubles stretches beyond his own historical moment toward the final gathering of God's covenant people. This remains partially fulfilled in the church's present experience of forgiveness and partially awaits the consummation when every enemy is subdued, every tear wiped away, and the redeemed lifted from all affliction.",
+        "For the church living between the advents, Psalm 25 stands as a model of dependent faith. Believers today lift their souls to the same covenant-keeping God, trusting that He who did not spare His own Son will surely teach, forgive, guard, and finally deliver all who take refuge in Him. The loneliness and affliction David knew remain the church's portion until Christ returns, yet so does the unshakeable promise that none who wait upon the Lord will be put to shame."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_025",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.192162+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

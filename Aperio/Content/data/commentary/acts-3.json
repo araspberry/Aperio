@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 3: The Gospel of Second Chances",
+      "overview": [
+        "Peter and John encounter a man who has never walked in his entire life, and in that holy moment, they offer him something far greater than physical healing—they offer him access to Jesus, who alone can restore what sin has broken. This chapter pulses with the reality that the risen Christ works through ordinary believers to accomplish extraordinary healing, not as spectacle, but as demonstration of his kingdom's power to transform.",
+        "The beggar sits at the temple gate each day, hoping for coins. Instead, he encounters Peter's words: \"Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk\" (3:6). What strikes us is Peter's honesty about his own poverty paired with absolute confidence in Christ's richness. He doesn't pretend to have resources he lacks; he simply directs the man toward the One who has everything that truly matters. The healing that follows is so dramatic—the man leaping, walking, praising God—that it becomes a gateway for Peter's powerful proclamation to the astonished crowd.",
+        "Peter's sermon reveals the apostolic heart: even in confronting those responsible for Jesus' death, he calls them toward repentance and restoration. \"You disowned the Holy and Righteous One,\" he says, yet his very next words invite them to turn around and receive forgiveness. This is not condemnation masquerading as gospel; it is genuine hope extended to the very people who rejected Christ.",
+        "For us, this passage teaches that we need not have perfect circumstances or abundant resources to be instruments of God's healing work. We simply need to know Jesus and direct others toward him. Our poverty becomes a platform for his sufficiency. The lame beggar's healing reminds us that no one is beyond restoration, and that transformation comes not through human cleverness but through the name and power of the risen Christ.",
+        "What area of spiritual paralysis in your life is Christ inviting you to bring to him?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 3: Scholarly study",
+      "overview": [
+        "The third chapter of Acts presents the first recorded miracle performed by the apostles following Pentecost, serving as both a catalyst for the early church's expansion and a template for understanding the relationship between miraculous signs and apostolic proclamation. Luke, writing likely in the early 60s CE, constructs this narrative with deliberate attention to Jewish religious practice, situating the healing at the Beautiful Gate—probably the Nicanor Gate separating the Court of the Gentiles from the Court of Women—during the ninth hour, the traditional time of the afternoon tamid sacrifice and prayer.",
+        "The account centers on a man lame from birth (*chōlos ek koilias mētros autou*), a detail emphasizing the magnitude of the healing while echoing similar specifications in the Hebrew prophets regarding messianic restoration. Peter's declaration \"Silver and gold I do not have\" (*argurion kai chrusion ouch huparchei moi*) establishes a deliberate contrast between material expectations and spiritual power, redirecting the beggar's anticipation toward something far greater. The command to rise \"in the name of Jesus Christ of Nazareth\" (*en tō onomati Iēsou Christou tou Nazōraiou*) demonstrates that apostolic authority derives entirely from the exalted Christ, a theological point Luke reinforces throughout Acts.",
+        "Peter's subsequent sermon in Solomon's Colonnade represents sophisticated Jewish-Christian apologetics, employing traditional titles—the God of Abraham, Isaac, and Jacob—while introducing distinctly christological categories. Jesus is identified as God's \"servant\" (*pais*), likely invoking the Isaianic Servant Songs, and as the \"Holy and Righteous One\" (*ton hagion kai dikaion*), titles resonant with messianic expectation. The sermon's call to repentance (*metanoēsate*) anticipates the \"times of refreshing\" (*kairoi anapsyxeōs*) and the ultimate restoration (*apokatastasis*) of all things, situating individual conversion within cosmic eschatological hope.",
+        "Interpreters debate whether Peter's statement that the Jewish leaders acted \"in ignorance\" (*kata agnoian*) constitutes genuine exculpation or rhetorical strategy designed to leave room for repentance. The passage functions canonically as a bridge between the Spirit's empowerment at Pentecost and the inevitable conflict with Jewish authorities that dominates subsequent chapters, demonstrating that the apostolic mission both continues and transcends the temple-centered worship of Israel."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 3: Prophetic perspective",
+      "overview": [
+        "This passage unfolds in the earliest days of the church age, mere weeks after the resurrection and ten days following Christ's ascension to the Father's right hand. The events at the temple gate called Beautiful occur during the afternoon hour of prayer, placing us in approximately 30 AD, when the church numbered perhaps five thousand souls and the apostolic witness blazed with Pentecostal fire through Jerusalem's streets. We stand at the dawn of the \"last days\" spoken by Joel, that extended period between the Spirit's outpouring and Christ's return.",
+        "The healing of the lame beggar at the temple gate operates on multiple typological registers. This man, lame from his mother's womb and over forty years old, embodies Israel herself—crippled from birth by the law's inability to grant what it commanded, positioned at the threshold of worship yet never fully entering in. Peter's declaration, \"Silver and gold have I none, but such as I have give I thee,\" announces the radical newness of the messianic age. The currency of the kingdom is not monetary wealth but resurrection power flowing through the name of Jesus Christ of Nazareth. When the man rises, leaping and praising God, he fulfills Isaiah's prophecy that the lame shall leap like a deer when salvation comes to Zion.",
+        "Peter's sermon in Solomon's Porch constitutes one of the earliest apostolic interpretations of redemptive history. He traces the covenant line through Abraham, Isaac, and Jacob, declaring that the blessing promised to all nations now flows through the glorified Servant whom Israel delivered up and denied. The titles Peter employs—the Holy One, the Just, the Prince of Life—form a Christological confession of extraordinary density. The One killed by human hands was raised by divine power, and this resurrection explains the lame man's restoration.",
+        "The eschatological framework Peter announces deserves careful attention. He speaks of \"times of refreshing\" available now through repentance and of \"times of restoration of all things\" awaiting Christ's return from heaven. The prophets from Samuel onward, Peter insists, all foretold these days. Heaven must receive Jesus until that appointed hour of cosmic renewal.",
+        "For the church dwelling between Pentecost and Parousia, this passage declares that the healing power of Christ's name remains operative wherever faith meets apostolic proclamation. The same Jesus who made the lame walk continues to restore broken humanity, giving foretastes of that final restoration when every knee shall bow and every tongue confess His lordship."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.668686+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

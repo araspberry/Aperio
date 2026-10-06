@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 13: The Wisdom of Small Obediences",
+      "overview": [
+        "The thirteenth chapter of Proverbs teaches us that the shape of our lives—our peace, prosperity, and character—flows from the daily decisions we make in response to wise counsel. These verses form a sustained meditation on how wisdom operates in the real world: not through grand gestures, but through the quiet accumulation of faithful choices.",
+        "Notice how often Proverbs 13 returns to consequences. Verse 2 tells us the soul feasts on good from the fruit of one's lips, while verse 3 warns that careless speech brings ruin. This isn't divine punishment imposed arbitrarily; it's the natural harvest of what we've sown. A lie spoken in anger today becomes tomorrow's broken trust. A word of encouragement offered freely becomes a relationship's foundation. We live in a moral universe where choices genuinely matter.",
+        "The chapter also holds together a beautiful tension between human effort and divine provision. Verse 4 observes that the sluggard craves but has nothing, while the diligent are richly supplied. Yet verses 11 and 15 remind us that honest gain takes time and that the way of the unfaithful is hard—suggesting that life resists shortcuts. God does not reward laziness, but neither does He reward the frantic striving that ignores His guidance. Wisdom calls us to steady, prayerful persistence.",
+        "Perhaps most comforting is verse 12: \"Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.\" This validates the deep human need for encouragement and forward movement, while warning us against the paralysis of perpetual disappointment. We need goals, dreams, and the patience to pursue them alongside others who believe in us.",
+        "As you read Proverbs 13, notice where your own life aligns with these principles and where you're resisting them. Where might God be inviting you to greater faithfulness in small matters? What wisdom are you refusing to hear, and what new habit might reshape your future?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 13: Scholarly study",
+      "overview": [
+        "Proverbs 13 continues the major collection of Solomonic wisdom that spans chapters 10–22:16, comprising primarily antithetical parallelisms that contrast the righteous and the wicked, the wise and the foolish. This chapter, like its surrounding context, reflects the didactic tradition of ancient Israelite sages who functioned as moral instructors within family, court, and temple settings. The individual proverbs, though appearing disconnected, share thematic threads concerning speech, wealth, discipline, and the divergent destinies of the wise and foolish.",
+        "The chapter opens with a proverb on receptivity to parental instruction, employing the term *mûsār* (discipline, correction), a concept central to wisdom literature that encompasses both verbal teaching and corrective training. The wise son receives *mûsār*, while the scoffer (*lēṣ*) refuses reproof, establishing the fundamental disposition that determines one's trajectory throughout the chapter. This emphasis on teachability recurs in verse 18, where the one who heeds correction (*tôkaḥat*) receives honor, and in verse 24, where withholding discipline is paradoxically equated with hatred toward one's child.",
+        "The theme of speech pervades the chapter, with verses 2–3 contrasting the fruit of one's mouth with the violence that consumes the treacherous. The Hebrew *nepeš* in verse 2 (often translated \"soul\" but encompassing appetite, desire, and life itself) captures the idea that one's words produce consequences that one must then consume. This anthropology of consequential speech reflects the broader ancient Near Eastern understanding that words possess creative and destructive power.",
+        "Verses 7–8 and 11 address wealth with characteristic wisdom nuance, acknowledging that riches can serve as ransom while poverty leaves one untroubled by such threats. The distinction between wealth gained *mēhebel* (from vapor, vanity, or possibly haste in some textual traditions) versus wealth gathered gradually introduces an ethical dimension to economic activity often overlooked in prosperity-oriented readings.",
+        "The chapter concludes with an inclusio-like return to consequences: the righteous leave inheritance to grandchildren while the sinner's wealth transfers to the righteous, reinforcing the deed-consequence nexus that, while sometimes challenged in Job and Ecclesiastes, remains foundational to Proverbs' moral pedagogy."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 13: Prophetic perspective",
+      "overview": [
+        "Proverbs 13 emerges from the golden age of Israel's united monarchy, penned during the reign of Solomon approximately 950 years before Christ's incarnation. This places the text squarely within the Kingdom phase of redemptive history, after God had established David's throne with messianic promises but before the tragic division of the kingdom under Rehoboam. Solomon writes as the wisest man who ever lived, yet he himself would fail to heed these very words, demonstrating that even divinely gifted wisdom cannot save apart from the grace of a coming Redeemer.",
+        "Within the grand narrative of Scripture, Proverbs occupies a crucial moment when Israel possessed the land, the temple, and the throne—all shadows of greater realities to come. The wisdom literature reveals that possessing covenant blessings externally means nothing without internal transformation. Solomon's proverbs expose the human heart's desperate need, preparing Israel to recognize that true wisdom would one day take on flesh and dwell among them.",
+        "The typological threads woven through this chapter shimmer with christological significance. The \"wise son\" who receives instruction perfectly images Christ, the true Son who learned obedience and in whom are hidden all treasures of wisdom and knowledge. The contrast between the righteous and wicked throughout the chapter anticipates the ultimate separation Christ will accomplish—He who became sin that the unrighteous might become the righteousness of God. The teaching that \"the righteous has enough to satisfy his appetite, but the belly of the wicked suffers want\" foreshadows Jesus declaring Himself the bread of life who alone satisfies the soul's deepest hunger.",
+        "Verse 12 carries particular eschatological weight: \"Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.\" Israel's hope was perpetually deferred through centuries of waiting, through exile and return, through four hundred silent years. Yet the tree of life—barred since Eden—reappears here as promise, pointing forward to Christ who is our life and ultimately to the tree standing in the New Jerusalem whose leaves bring healing to the nations.",
+        "The wealth that passes to the righteous, the inheritance laid up for children's children, the light of the righteous that rejoices—these are not merely temporal blessings but prophetic whispers of the inheritance incorruptible reserved in heaven. For the church living between advents, Proverbs 13 calls believers to walk as children of light, storing up treasure where moth and rust cannot destroy, knowing that the wisdom from above has been given freely in Christ, who has become for us wisdom from God."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.600464+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

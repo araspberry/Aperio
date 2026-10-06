@@ -1,0 +1,55 @@
+{
+  "book": "Judges",
+  "chapter": 13,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Judges 13 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Judges 13: The God Who Interrupts Our Ordinary Lives",
+      "overview": [
+        "At the heart of Judges 13 lies a profound truth: God sovereignly breaks into the mundane moments of faithful people to accomplish His redemptive purposes. When the angel of the Lord appears to Manoah's barren wife, we encounter not just the announcement of a future deliverer, but the revelation that God sees, remembers, and acts on behalf of His covenant people—even when their faith has grown thin.",
+        "The chapter opens in spiritual darkness. Israel has drifted into idolatry, and the Philistines oppress them. Yet into this neglected moment comes an angel bearing news of Samson's conception. What's striking is that this woman—unnamed, childless, overlooked—becomes the vessel of God's deliverance. She is told to observe specific disciplines: no wine, no fermented drink, and keep her hair uncut. These aren't arbitrary rules but invitations into sanctification, ways of saying yes to God's plan before the child even draws breath.",
+        "Manoah's response reveals something equally tender. When his wife reports the encounter, he doesn't dismiss her but prays earnestly: \"Lord, please let the man of God come again\" (13:8). His hunger to encounter the divine himself demonstrates how genuine faith responds to God's movement—with humility, longing, and reverence. When the angel returns and speaks of the child who will \"begin the deliverance of Israel from the hands of the Philistines,\" we're reminded that God uses unexpected people for His kingdom work.",
+        "This passage speaks directly to those who feel invisible, barren, or outside the action of God's plan. Perhaps you've waited long for His intervention. Perhaps you've wondered whether He notices your faithfulness in small things. Judges 13 whispers that God not only notices but has already been weaving your story into His larger redemptive narrative.",
+        "What area of your life feels barren or forgotten? How might God be inviting you into a deeper trust in His sovereign timing and His intentions toward you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Judges 13: Scholarly study",
+      "overview": [
+        "Judges 13 marks a significant transitional moment in the deuteronomistic history, introducing the Samson cycle (chapters 13–16) with an annunciation narrative that draws upon established biblical type-scenes while anticipating themes that will dominate this final major judge's story. The chapter opens with the formulaic notice of Israel's continued apostasy, resulting in forty years of Philistine oppression—the longest period of foreign domination recorded in Judges. This extended timeframe signals the severity of Israel's spiritual condition as the judges period draws toward its chaotic conclusion.",
+        "The narrative centers on an unnamed woman from the tribe of Dan, whose barrenness places her within a significant biblical pattern alongside Sarah, Rebekah, Rachel, and Hannah. The angel of Yahweh (*malʾak YHWH*) appears to her with an announcement structured similarly to other birth narratives, yet with distinctive Nazirite stipulations. The term *nazir* derives from the Hebrew root *nzr*, meaning \"to separate\" or \"to consecrate,\" establishing Samson's identity as one set apart from the womb. Notably, the dietary restrictions—avoiding wine, strong drink (*shēkār*), and unclean food—are imposed first upon the mother, extending the consecration to the prenatal period.",
+        "Manoah's subsequent request to see the messenger himself has generated scholarly discussion regarding the passage's portrayal of gender and spiritual perception. The woman demonstrates theological discernment throughout, correctly identifying their visitor as a divine being and reassuring her husband after the theophanic fire consumes their offering. Her observation that Yahweh would not have accepted their sacrifice if intending their death reflects sophisticated covenantal reasoning.",
+        "The chapter's literary function extends beyond mere introduction. The elaborate divine commissioning heightens the tragedy that unfolds in subsequent chapters, as Samson repeatedly violates his Nazirite obligations. The Spirit of Yahweh (*rûaḥ YHWH*) beginning to stir the young man at Mahaneh-dan anticipates his charismatic empowerment while also foreshadowing the Spirit's eventual departure. Within the broader Judges framework, this carefully constructed birth narrative stands in deliberate tension with Israel's deteriorating spiritual state, presenting a deliverer whose own moral compromises will mirror those of the nation he judges."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Judges 13: Prophetic perspective",
+      "overview": [
+        "The events of Judges 13 unfold approximately 1100 years before Christ's advent, during the darkest period of Israel's cyclical rebellion recorded in the book of Judges. The Philistine oppression mentioned here would last forty years, the longest domination recorded in this era of \"everyone doing what was right in his own eyes.\" Within the grand sweep of redemptive history, this chapter stands in the Kingdom period's prehistory—after the Exodus deliverance and wilderness wandering, but before the monarchy that would produce David's throne and ultimately David's greater Son.",
+        "The annunciation to Manoah's barren wife pulses with typological significance that reverberates across the centuries. Here is the angel of the LORD—that mysterious pre-incarnate manifestation of the Second Person—appearing to announce a miraculous birth to a barren woman. This pattern of divine visitation and promised conception threads through Sarah, Rebekah, Rachel, and Hannah, reaching its ultimate fulfillment when Gabriel stands before Mary in Nazareth. The barren womb made fruitful by divine intervention declares that salvation comes not through human capability but through God's sovereign grace breaking into impossibility.",
+        "Samson's Nazirite consecration from the womb establishes him as a living prophecy. Set apart before birth, forbidden wine and strong drink, his uncut hair signifying total dedication to Yahweh—here is a man whose very existence proclaims separation unto God for the deliverance of His people. Yet Samson will prove a deeply flawed deliverer, breaking every aspect of his vow while somehow remaining the instrument of divine judgment against the Philistines. In this tension lives the shadow of One who would fulfill perfect consecration, the true Nazirite who was holy from conception, who would drink the cup of God's wrath only at Calvary, and whose strength would never fail because His dedication knew no compromise.",
+        "The Spirit of the LORD beginning to stir Samson points forward to Pentecost, when that same Spirit would fall not upon isolated judges but upon the entire covenant community. What was episodic and empowering for specific tasks would become permanent and indwelling.",
+        "For the church living between the advents, Judges 13 whispers that God works through weakness, announces deliverance before it arrives, and never abandons His redemptive purposes even when His people have abandoned Him. The greater Deliverer has come; the final deliverance still awaits."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "07_013",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.358529+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

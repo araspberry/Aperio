@@ -1,0 +1,56 @@
+{
+  "book": "Ezekiel",
+  "chapter": 19,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ezekiel 19 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ezekiel 19: The Lament Over Failed Leadership",
+      "overview": [
+        "God's broken heart over His people's lost potential rings through this chapter as a profound lamentation. Ezekiel is called to sing a dirge over the princes of Israel—a funeral song not for the dead, but for the dying, a mournful acknowledgment that those entrusted with shepherd's care have become instruments of destruction instead.",
+        "The chapter opens with two vivid images. First, Israel is pictured as a lioness whose cubs grew into mighty lions, only to be trapped and carried away into exile. Then the vision shifts to a vine, once planted in a fertile vineyard, that became proud and was uprooted, withered by an east wind. These are not songs of judgment alone, but of sorrow. There is tenderness in this lament. God is not coldly condemning; He is grieving what His people could have been.",
+        "This hits close to home for anyone in any position of influence. Leaders in churches, families, and communities receive tremendous responsibility—the care and formation of others' souls. The tragedy Ezekiel describes unfolds whenever those with power abuse it, when shepherds become predators, when stewards become thieves of the flock's flourishing. The repetition of exile and uprooting underscores the repeated failures of successive leaders who learned nothing from their predecessors' downfall.",
+        "Yet there is profound pastoral wisdom here too. The lament itself assumes that failure was not inevitable. Ezekiel grieves precisely because these princes had capacity for something better. They were given good soil, royal lineage, divine calling. Their tragedy was not that they were weak, but that they chose wrongly with whatever strength they possessed.",
+        "For those of us with any measure of influence—whether as parents, mentors, pastors, or colleagues—this chapter asks us to examine our hearts honestly. Are we building others up or pulling them down? Are we growing deeper roots in faithfulness, or becoming brittle and vulnerable to the winds of temptation?",
+        "What kind of spiritual legacy are you planting through your choices and influence today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ezekiel 19: Scholarly study",
+      "overview": [
+        "Ezekiel 19 stands as one of the most poignant compositions in the prophetic corpus, a lamentation (qînâ) composed during the final turbulent years of Judah's monarchy, likely between 597 and 586 BCE. The prophet employs the distinctive 3+2 meter characteristic of Hebrew funeral dirges, creating a somber elegiac tone that mourns the downfall of Judah's royal house while those events were still unfolding. This rhetorical strategy of composing a lament for a kingdom not yet fully destroyed serves as both prophetic judgment and anticipatory grief.",
+        "The chapter divides into two extended metaphors unified by the theme of royal demise. The first section (vv. 1-9) depicts Judah as a lioness (lĕbî'â) who raises successive cubs to become young lions (kĕpîrîm). The lion imagery draws upon ancient Near Eastern royal iconography where lions symbolized monarchic power and legitimacy. Most scholars identify the first cub as Jehoahaz, deported to Egypt by Pharaoh Necho in 609 BCE, while the second likely represents either Jehoiachin or Zedekiah—the identification remains contested given that both suffered Babylonian exile. The mother lioness probably symbolizes either the Davidic dynasty personified or the nation itself.",
+        "The second metaphor (vv. 10-14) shifts to viticulture, portraying the royal house as a vine (gepen) once flourishing with abundant water, producing strong branches (maṭṭôt) suitable for rulers' scepters. The vine's transplantation to the wilderness and subsequent burning represents the catastrophic end of Judahite independence. The term \"maṭṭôt\" carries deliberate ambiguity, meaning both \"branches\" and \"tribes\" or \"scepters,\" reinforcing the connection between botanical imagery and political authority.",
+        "The canonical placement following chapters 17-18 creates a thematic progression from individual responsibility to national consequence. Whereas chapter 17 employed allegory to indict Zedekiah's treaty violations, chapter 19 offers no accusation—only lament. This absence of explicit condemnation heightens the tragic dimension; judgment has already been pronounced, leaving only mourning. The concluding formula identifying this as \"a lamentation and shall be for a lamentation\" (v. 14) emphasizes the enduring nature of this grief, suggesting the poem was intended for liturgical use in commemorating Judah's fallen monarchy during the exilic period."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ezekiel 19: Prophetic perspective",
+      "overview": [
+        "Ezekiel 19 emerges from the dark days of Judah's final collapse, composed around 592-586 BC during the Babylonian exile, approximately six centuries before Christ's incarnation. The prophet writes as a captive in Babylon while Jerusalem still stands but totters toward its inevitable destruction. This lamentation occupies a pivotal moment in redemptive history—the kingdom of David, once glorious under Solomon, now gasps its final breaths as God's covenant curses fall upon a rebellious nation. We stand at the nadir of the monarchy, witnessing the death throes of the Davidic line as a ruling power, though not the death of God's promises concerning that line.",
+        "The passage takes the form of a funeral dirge, a qinah, mourning what has not yet fully died—a prophetic eulogy spoken before the corpse is cold. The lioness represents the nation or the royal house of Judah, recalling Jacob's ancient blessing that Judah would be a lion's whelp from whom the scepter would not depart until Shiloh comes. Yet these lion cubs—likely Jehoahaz and Jehoiachin (or Zedekiah)—proved to be devouring predators rather than righteous shepherds. One was carried to Egypt in hooks, another dragged to Babylon in chains. The imagery of capture and caging speaks to the humiliation of princes who learned violence rather than justice.",
+        "The second image shifts to a vine planted by waters, flourishing with strong branches fit for rulers' scepters. This vine once towered magnificently, visible above the thick foliage—a picture of Davidic grandeur. Yet now it is plucked up in fury, cast down, withered by the east wind of Babylon's scorching invasion. Transplanted to the wilderness, to a dry and thirsty land of exile, the vine's fire of self-destruction consumes its own fruit-bearing branches. No strong stem remains for a ruler's scepter.",
+        "Here typology groans with anticipation. The failed lions point forward to the true Lion of Judah who would conquer not by devouring but by being devoured, slain yet triumphant. The withered vine awaits the True Vine who would be cut off, planted in death's dry ground, yet spring forth in resurrection life. What human kings squandered through violence and pride, Christ would restore through sacrifice and obedience.",
+        "This lamentation teaches the church that earthly kingdoms—even those bearing God's name—rise and fall according to divine sovereignty. Our hope rests not in political restoration but in the returning King whose scepter shall never be uprooted."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "26_019",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.130709+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

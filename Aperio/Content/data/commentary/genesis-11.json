@@ -1,0 +1,57 @@
+{
+  "book": "Genesis",
+  "chapter": 11,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 11 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 11: The Tower and God's Gracious Scatter",
+      "overview": [
+        "The Tower of Babel reveals humanity's persistent temptation to build kingdoms that eclipse God's, and shows us how divine judgment can paradoxically become the pathway toward God's redemptive purposes for the nations.",
+        "In this passage, humanity speaks with one language and shares one ambition: to build a tower reaching heaven, to make a name for themselves, and to prevent being scattered across the earth. What sounds like impressive coordination and architectural achievement actually exposes a deeper rebellion—the ancient echo of the serpent's promise that we can become like God, that we need not depend on his direction or trust his design. The people reject God's command to fill the earth and instead concentrate their power in one city, one project, one name.",
+        "God's response is neither impulsive nor harsh; it is surgical and wise. He confuses their language so they cannot communicate, and in their confusion, they scatter. What was meant as human judgment becomes God's mercy in disguise. The confusion of tongues prevents humanity from fully realizing their autonomous ambition. More beautifully, this scattering across the earth actually fulfills God's original command—\"fill the earth\"—which the people resisted.",
+        "This ancient narrative speaks powerfully to our modern moment. We still build towers of our own making: career monuments, social media empires, financial kingdoms, reputations carefully curated. We still dream of names that will endure, of legacies untethered from God's kingdom. And God, in his patient wisdom, often allows our confusion and dispersion to redirect us toward his true purposes.",
+        "The passage invites us to examine what towers we're constructing and what name we're truly building. Are we cooperating with God's design for our lives, or resisting it under the guise of ambition? Sometimes the humbling experiences that scatter our carefully laid plans are actually God's gracious interruption, calling us back to simpler, truer obedience.",
+        "What tower am I building that might need God's interruption?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 11: Scholarly study",
+      "overview": [
+        "Genesis 11 presents a pivotal transitional chapter that concludes the primeval history (Genesis 1–11) while establishing the genealogical bridge to the patriarchal narratives. The chapter divides into two distinct literary units: the Tower of Babel account (vv. 1–9) and the Shemite genealogy extending to Abram (vv. 10–32). This structural arrangement is theologically purposeful, as the dispersion of nations gives way to the divine election of one family through whom blessing will ultimately extend to all peoples.",
+        "The Babel narrative opens with humanity possessing \"one language and one vocabulary\" (*śāpâ ʾeḥāt ûdəḇārîm ʾăḥādîm*), emphasizing unified speech that facilitates collective rebellion. The people's desire to build a tower with its top \"in the heavens\" (*baššāmayim*) employs cosmic language suggesting human ambition to breach the divine realm. The expressed motivation—\"lest we be scattered\" (v. 4)—stands in direct tension with the creation mandate to fill the earth (1:28; 9:1), revealing the theological heart of the transgression as resistance to divine purposes rather than merely architectural hubris.",
+        "The divine response employs ironic wordplay central to Hebrew narrative art. Yahweh must \"come down\" (*yēreḏ*) to see what humans consider a heaven-reaching achievement, subtly mocking their pretensions. The verb *bālal* (\"to confuse\") provides the folk etymology for Babel (*Bāḇel*), though Akkadian *bāb-ili* (\"gate of god\") represents the actual Mesopotamian understanding. This linguistic subversion transforms Babylon's self-understanding as a sacred center into a monument of divine judgment.",
+        "The genealogy of Shem (vv. 10–26) follows the tôlədôt formula characteristic of Genesis, though notably the lifespans progressively decrease from the antediluvian figures. Scholarly debate surrounds whether these genealogies represent complete lineages or selective records highlighting theologically significant ancestors. The chapter concludes by introducing Terah's family, including the critical notice of Sarai's barrenness (v. 30)—a narrative tension that drives subsequent chapters.",
+        "The movement from Ur of the Chaldeans toward Canaan, though halted at Haran, establishes geographical and theological momentum. Genesis 11 thus functions as both ending and beginning, connecting universal human history to Israel's particular story of election and promise."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 11: Prophetic perspective",
+      "overview": [
+        "Genesis 11 unfolds approximately 2200 years before Christ, in the generations following the great flood, during that shadowy era between Noah's covenant and Abraham's call. This chapter stands at a crucial hinge point in redemptive history—the final act of primeval history before God narrows His redemptive focus to one man, one family, one nation through whom all nations would ultimately be blessed.",
+        "The Tower of Babel narrative reveals humanity's persistent rebellion against the divine mandate to fill the earth. Rather than scattering as image-bearers across creation, the descendants of Noah gathered on the plain of Shinar, seeking to make a name for themselves and build a tower reaching into the heavens. This was no mere architectural project but a theological revolt—an attempt to storm heaven on human terms, to achieve unity and significance apart from the Creator. The ziggurats of ancient Mesopotamia served as stairways for gods to descend; here humanity sought to ascend on their own power.",
+        "The Lord's response carries both judgment and mercy. The confusion of languages scattered what pride had gathered, yet this scattering preserved humanity from the totalizing evil that unified rebellion produces. Here stands a type awaiting its antitype: what Babel confused, Pentecost would restore. When the Spirit descended in Acts 2, the curse of linguistic division was not erased but transcended—every nation heard the gospel in their own tongue. The church becomes the true city, the genuine dwelling place of God, built not by human hands but by the Spirit upon the cornerstone of Christ.",
+        "The genealogy following Babel traces the narrowing stream from Shem to Terah to Abram. Watch the lifespans decrease—the flood's aftermath still rippling through human mortality. Yet in this diminishment, God is preparing His great particular through which the universal blessing will flow. Terah begins the journey toward Canaan but stops in Haran; his son will complete what he could not.",
+        "The eternal significance resounds clearly: human schemes for self-salvation through unified effort apart from God always collapse into confusion and scattering. Yet God's response to Babel is not merely judgment but redemption—through Abraham's seed, through Christ, through the Spirit-formed church that speaks the one gospel in a thousand tongues. The church now lives as pilgrims, building no earthly towers but awaiting the city whose architect and builder is God, descending from heaven as the New Jerusalem where every tribe and tongue will worship in perfect unity before the Lamb."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_011",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.663578+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

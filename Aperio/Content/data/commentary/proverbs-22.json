@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 22,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 22 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 22: The Timeless Architecture of a Well-Built Life",
+      "overview": [
+        "Solomon invites us into wisdom's workshop in this chapter, where the foundations of character are carefully laid and the blueprints of flourishing are revealed. These verses remind us that how we live today shapes not only our present but echoes into the future—our own and others'.",
+        "The opening lines establish a profound truth: \"A good name is to be chosen rather than great riches, and favor is better than silver or gold.\" Our reputation, built stone by stone through honesty and integrity, becomes more valuable than any bank account. In a world obsessed with accumulation, Solomon redirects our gaze toward something far more durable—the respect earned through faithfulness. This isn't naive idealism; it's economic wisdom for the soul. A person of integrity opens doors that wealth cannot unlock.",
+        "What strikes the heart throughout this chapter is Solomon's repeated concern for the vulnerable. He warns against oppressing the poor and moving ancient boundary stones—both violations that reveal a person's true character. Real wisdom, he suggests, isn't measured by what we acquire but by how we treat those who have nothing to offer us in return. This is radical. It cuts against every instinct of self-advancement.",
+        "The chapter also addresses parenting with beautiful realism: training a child in the way they should go, understanding that discipline rooted in love protects rather than harms. There's tenderness here—not harshness, but the loving firmness that says, \"I see your potential, and I won't let you waste it.\"",
+        "As you walk through your day, consider where you're building your reputation. Are you accumulating at the expense of character? How do you treat people with nothing to offer you? These questions aren't accusations but invitations to align your life with wisdom's ancient architecture.",
+        "What aspect of your character would you most want to be remembered for, and what small choice could you make today to strengthen that reputation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 22: Scholarly study",
+      "overview": [
+        "Proverbs 22 occupies a pivotal position within the book's overall structure, marking the conclusion of the \"Proverbs of Solomon\" collection (10:1–22:16) while also introducing the \"Words of the Wise\" section (22:17–24:22), which bears striking resemblance to the Egyptian Instruction of Amenemope. This dual function makes the chapter particularly significant for understanding both Israelite wisdom traditions and their relationship to broader ancient Near Eastern instructional literature. The Solomonic attribution reflects the tradition of royal patronage of wisdom, though the collection likely underwent centuries of editorial development before reaching its final form.",
+        "The chapter opens with one of the most memorable aphorisms in wisdom literature: \"A good name is to be chosen rather than great riches\" (22:1). The Hebrew term *shem* (name) encompasses far more than mere reputation; it denotes one's entire social identity and legacy within the covenant community. This preference for honor over wealth reflects a consistent wisdom theme that material prosperity remains subordinate to moral character. Verse 2 profoundly declares that \"the rich and the poor meet together; the LORD is the maker of them all,\" employing the verb *pagash* (to meet, encounter) to suggest an equalizing encounter before the Creator that relativizes socioeconomic distinctions.",
+        "The much-debated verse 6, \"Train up a child in the way he should go,\" employs *chanakh* (to dedicate, initiate), a term also used for dedicating the temple. The phrase *al-pi darko* (according to his way) has generated considerable scholarly discussion—some interpreting it as accommodation to the child's individual nature, others understanding it as instruction in the proper moral path. The verse functions less as an absolute guarantee than as a general principle consistent with wisdom's observational method.",
+        "The transition at verse 17 introduces material paralleling Amenemope so closely that direct literary dependence seems probable, though the direction of influence remains contested. The Hebrew adapts Egyptian concepts to Yahwistic theology, demonstrating how Israelite sages appropriated international wisdom while subordinating it to covenantal faith. This intertextual relationship illuminates how biblical wisdom participated in a broader intellectual culture while maintaining its distinctive theological commitments centered on the fear of the LORD as wisdom's foundation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 22: Prophetic perspective",
+      "overview": [
+        "Proverbs 22 emerges from the golden age of Israel's united monarchy, penned approximately 950 years before Christ's incarnation during the reign of Solomon, when the kingdom reached its zenith of wisdom, wealth, and international influence. This chapter stands within the epoch of the Davidic Kingdom, that pivotal era when God established the royal throne that would ultimately find its eternal fulfillment in great David's greater Son. Here wisdom literature reaches full flower, yet even in these practical maxims for daily living, prophetic threads weave toward realities far beyond Solomon's courts.",
+        "The opening declaration that a good name surpasses great riches echoes forward to the One whose name would be above every name, before whom every knee shall bow. Solomon unknowingly prophesied of Christ, whose reputation of perfect righteousness would become the inheritance of all who trust Him. The profound statement that rich and poor meet together because the Lord is maker of them all anticipates the great leveling that occurs at Calvary, where distinctions dissolve before the cross and all humanity stands equally dependent upon divine mercy.",
+        "The recurring theme of training children in the way they should go carries forward Israel's covenant responsibility to transmit faith across generations, a pattern fulfilled in the church's commission to make disciples of all nations. The warnings against removing ancient boundary stones typologically picture the preservation of apostolic doctrine, those theological landmarks the church must guard until Christ returns.",
+        "Particularly striking is verse 16, declaring that whoever oppresses the poor to increase wealth will come to poverty. This principle of divine reversal finds ultimate expression in Mary's Magnificat and Christ's kingdom proclamations, where the proud are scattered and the humble exalted. The thorns and snares in the path of the perverse foreshadow the curse that Christ would bear, crowned with thorns to redeem those ensnared by sin.",
+        "The chapter's conclusion presents the skilled worker standing before kings, a vision fulfilled supremely in Jesus, the carpenter from Nazareth who stood before Pilate and Herod, the ultimate craftsman of salvation appearing before earthly powers He Himself created. For the church dwelling between the advents, Proverbs 22 calls us to embody wisdom that reflects our coming King, knowing that every practical choice carries eternal weight. We guard our testimony, train the next generation, defend the vulnerable, and labor skillfully—all as witnesses to the kingdom that is coming when Wisdom Himself returns to reign forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_022",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.630629+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

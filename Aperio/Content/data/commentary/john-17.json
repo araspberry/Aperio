@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "John 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "John 17: The Prayer That Changes Everything",
+      "overview": [
+        "Jesus enters His final hours not with anxiety but with prayer—and what He prays reveals the deepest longings of His heart. In this intimate conversation with His Father, Jesus lays bare what truly matters: the glory of God, the security of His followers, and the unity of His church. This is not a prayer about escaping suffering but about sanctifying His people through truth and sending them into a broken world with purpose.",
+        "The heart of this prayer beats with an astounding reality: Jesus asks not for comfort but for His disciples to be fully alive in God's truth. He knows what lies ahead—betrayal, death, abandonment—yet His concern is entirely for those He leaves behind. He prays that they would know the Father as He knows the Father, that they would experience the same intimate communion that sustains Him. In doing so, Jesus establishes that spiritual life is relational, not transactional. We don't follow Christ by checking boxes; we follow by being drawn into the very relationship Christ has with God.",
+        "What strikes the pastoral heart is how Jesus connects truth with love and unity. He doesn't pray for His followers to be protected from the world but to be protected *in* the world through sanctification—being set apart and made holy by God's Word. He then prays for future believers, for you and me, asking that we be unified not by organizational structure or doctrinal perfection but by genuine love rooted in the Father's love for the Son.",
+        "This prayer invites us into an understanding of discipleship that's far larger than personal spiritual experience. We are sanctified for mission, unified for witness, and loved as a gift from the Father to the Son. The world will know Jesus not primarily through our arguments but through our love for one another.",
+        "What would change in your life if you truly grasped that Jesus Himself prayed for you by name?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "John 17: Scholarly study",
+      "overview": [
+        "John 17 constitutes what has traditionally been designated the \"High Priestly Prayer,\" a designation originating with Lutheran theologian David Chytraeus in the sixteenth century, though the appropriateness of this title has generated ongoing scholarly discussion. Positioned at the conclusion of the Farewell Discourse (John 13–17), this prayer functions as the theological apex of Jesus's final instructions before his arrest, forming a literary bridge between his private teaching and the impending passion narrative. The Fourth Gospel's author, writing likely in the late first century from an Ephesian or Syrian context, presents here a distinctly Johannine portrait of Jesus in intimate communion with the Father.",
+        "The prayer's opening petition centers on the concept of glorification, employing the verb *doxazō* (δοξάζω), which appears five times in the first five verses alone. This term carries resonances both of Hebrew *kabod* (כָּבוֹד), signifying weighty divine presence, and of the Johannine theological framework wherein Jesus's crucifixion paradoxically constitutes his exaltation. The mutual glorification between Father and Son establishes the reciprocal relationship that undergirds the entire discourse.",
+        "Central to the passage is Jesus's definition of eternal life (*zōē aiōnios*, ζωὴ αἰώνιος) in verse 3 as knowing the Father and the Son—a formulation emphasizing relational knowledge rather than mere temporal duration. This epistemological dimension of salvation reflects Johannine emphasis on intimate, experiential communion with God.",
+        "The prayer's structure moves concentrically from Jesus himself (verses 1–5), to the immediate disciples (verses 6–19), to future believers (verses 20–26), with the recurring theme of unity (*hen*, ἕν) binding these sections together. Scholarly debate persists regarding whether this unity is primarily ontological, reflecting the divine nature, or functional and missional in character. The phrase \"that they may be one as we are one\" has generated centuries of ecclesiological reflection, particularly in ecumenical discussions.",
+        "The transmission of the divine name (verses 6, 11, 12, 26) represents another significant motif, connecting Jesus's revelatory mission to Old Testament theophanic traditions while establishing continuity between Mosaic and messianic revelation. This prayer thus encapsulates Johannine Christology at its most developed expression."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "John 17: Prophetic perspective",
+      "overview": [
+        "John 17 stands as the most intimate window into the heart of the Son's communion with the Father, spoken on the night of Christ's betrayal, mere hours before Gethsemane and the cross. This high priestly prayer was offered approximately AD 30, at the climactic hinge point of all redemptive history—the moment when the eternal plan conceived before creation was about to be accomplished through the sacrificial death of the Lamb.",
+        "Within the grand arc of salvation history, this passage stands at the threshold between the Incarnation and the Cross, the moment of ultimate transition when the Son declares His earthly work complete and prepares to accomplish the work of atonement. Everything prior in Scripture—every patriarchal promise, every Levitical sacrifice, every prophetic oracle—converges upon this hour. The glory the Son shared with the Father before the world existed is about to be manifested through apparent defeat, through the scandal of crucifixion that will become the wisdom and power of God.",
+        "The typological richness here is profound. Christ stands as the true High Priest, of whom Aaron was merely a shadow, making intercession not with the blood of bulls and goats but preparing to offer Himself. Unlike earthly priests who prayed in the outer courts, this Priest speaks directly to the Father with a intimacy that reveals their eternal union. The prayer itself echoes and surpasses Moses' intercession for Israel, yet Christ prays not merely for deliverance from judgment but for the complete sanctification and glorification of His people.",
+        "The eschatological dimensions span from eternity past to eternity future. Christ speaks of glory possessed before the foundation of the world, of names written and given before time began. He declares that eternal life consists in knowing the only true God and Jesus Christ whom He sent—a present possession with future consummation. The unity for which Christ prays, that believers would be one as the Father and Son are one, began at Pentecost, continues through the church age, and will find perfect expression when the redeemed from every nation stand complete before the throne.",
+        "For the church living between the advents, this prayer is simultaneously accomplished and ongoing. Christ's intercession did not cease at the Amen—He ever lives to make intercession for His own. The sanctification He requested continues through the Spirit and the Word. The protection He sought shields believers still. And the glory He promised to share awaits its full revelation when He returns for those the Father gave Him, that where He is, they may be also."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "43_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.650511+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Psalm",
+  "chapter": 92,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 92 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 92: The Song of a Grateful Heart",
+      "overview": [
+        "The deepest work of worship happens when we step back from life's struggles long enough to remember that God is still good, still reigning, and still worthy of our praise. Psalm 92 invites us into that sacred space of remembrance and thanksgiving.",
+        "This psalm, set for the Sabbath day, opens with a declaration that it is good to give thanks to the Lord and sing praises to his name. What strikes us immediately is the psalmist's conviction that gratitude itself is a form of spiritual rest. In a world that constantly demands productivity and striving, the psalmist suggests that simply pausing to acknowledge God's goodness is not only permitted—it is essential. There is radical peace in recognizing that God's work was finished at creation, that his faithfulness endures whether or not we achieve anything on a given day.",
+        "The psalm then contrasts two visions of reality. The wicked and foolish may flourish like grass, but they lack something the righteous possess: a deep, unshakeable knowledge of God's eternal nature. While the ungodly are ultimately destined to perish, those rooted in God grow and flourish like cedar trees, bearing fruit even in old age. This is not prosperity theology but something deeper—a promise that a life lived in covenant with God contains a vitality that transcends circumstances.",
+        "The imagery of oil and strength speaks to daily renewal. Just as oil sustained the temple lamp and nourished the body, God's presence refreshes our spirits with each dawn. Our enemies may plot against us, our circumstances may confuse us, but the one who knows the heart of God drinks from a well that never runs dry.",
+        "What would it mean for you to truly rest this week, not by doing less, but by pausing regularly to remember God's goodness? Where in your life do you need to be reminded that faithfulness to God is not measured by success, but by the deeper flourishing that comes from being rooted in his love?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 92: Scholarly study",
+      "overview": [
+        "Psalm 92 bears the unique distinction of being the only psalm in the Hebrew Psalter explicitly designated for Sabbath use, as indicated by its superscription \"A Song for the Sabbath Day\" (שִׁיר לְיוֹם הַשַּׁבָּת). This liturgical notation suggests its employment in Second Temple worship, though the composition itself likely predates this formal assignment. The psalm functions as a wisdom-infused hymn of thanksgiving, celebrating divine faithfulness while contrasting the fate of the righteous with that of the wicked.",
+        "The opening verses establish the central theme through the Hebrew term *ṭôb* (טוֹב), rendered \"good\" or \"fitting,\" declaring that thanksgiving to YHWH constitutes an intrinsically appropriate response to divine character. The psalmist emphasizes proclamation of covenant loyalty (*ḥesed*) in the morning and faithfulness (*ʾĕmûnâ*) at night, suggesting a comprehensive temporal framework for praise that encompasses the full cycle of daily existence. This morning-evening structure may have contributed to the psalm's Sabbath association, as the day itself moves from evening to evening.",
+        "Central to the psalm's theology is the term *śāgab* (שָׂגַב), meaning \"to be exalted\" or \"set on high,\" applied to YHWH's eternal nature in verse 8. This elevation stands in deliberate contrast to the flourishing of the wicked described with botanical imagery—they sprout like grass and blossom only to face perpetual destruction. The agricultural metaphor extends to the righteous in verses 12-14, where they are likened to the date palm (*tāmār*) and cedar of Lebanon, trees renowned for longevity, fruitfulness, and structural integrity.",
+        "The psalm's placement within Book IV of the Psalter, which addresses themes of divine kingship following the apparent failure of Davidic monarchy reflected in Psalm 89, contributes to its theological function. Here YHWH's eternal reign provides stability that human institutions cannot guarantee. Interpretive discussion has centered on whether verses 10-11 reflect an individual thanksgiving for deliverance from specific enemies or employ conventional language for corporate worship. The reference to being anointed with \"fresh oil\" (*šemen raʿănān*) likely signifies divine favor and renewed vitality rather than literal royal anointing, though some scholars detect royal undertones throughout the composition."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 92: Prophetic perspective",
+      "overview": [
+        "This psalm of worship, designated for the Sabbath day, emerges from the liturgical life of Israel during the period of the monarchy, likely composed sometime between 1000 and 500 BC. Within the grand narrative of redemption, it stands in the era of the kingdom, when Israel dwelt in the promised land under the Davidic dynasty, maintaining temple worship as the visible expression of covenant faithfulness. The Sabbath itself reaches back to creation's seventh day, making this hymn a weekly rehearsal of both primordial rest and anticipated consummation.",
+        "The psalm opens with declaration rather than petition, establishing that thanksgiving and praise constitute the fitting response of those who know the covenant name of the Most High. Morning and evening worship frame the rhythm of faithful existence, pointing toward that unceasing adoration which characterizes heavenly reality. The works and thoughts of the Lord—His deeds in history and His eternal counsels—become the twin fountains of holy joy. Here is embedded a prophetic truth: God's works in time reveal His thoughts from eternity, and both find their fullest expression in the person and mission of Christ.",
+        "The contrast between the wicked and the righteous carries profound eschatological weight. The flourishing of evildoers is compared to grass—verdant today, withered tomorrow—while their apparent prosperity masks their appointment for destruction. This pattern of temporary ascendancy followed by permanent ruin typifies the entire course of rebellion against God, from the serpent's momentary triumph in Eden to the beast's brief reign before the final judgment. The psalmist's confidence that God's enemies will perish and evildoers will be scattered anticipates the ultimate vindication that Christ secures through His conquest of sin, death, and demonic powers.",
+        "Against this backdrop of judgment, the righteous flourish like the palm tree and grow like the cedar of Lebanon. These botanical images carry typological resonance: the palm speaks of victory and the righteous entering God's presence, while the cedar evokes the temple itself, where God's glory dwelt. Those planted in the house of the Lord prefigure the living stones built into Christ's spiritual temple, the church that spans the ages. The promise that they bear fruit in old age, remaining fresh and green, finds its new covenant fulfillment in believers who abide in Christ the true vine.",
+        "For the church awaiting her Lord's return, this psalm declares that present faithfulness, rooted in the sanctuary of divine presence, yields eternal fruitfulness—a Sabbath rest that the seventh day always signified but never fully bestowed."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_092",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.375872+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

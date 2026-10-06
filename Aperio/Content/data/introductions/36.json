@@ -1,0 +1,132 @@
+{
+  "book": "Haggai",
+  "bookIndex": 36,
+  "status": "Editorial draft",
+  "title": "Rebuilding a shared center of life",
+  "subtitle": "A discouraged community is called to act, and the smallness of its beginning is met with a promise of presence.",
+  "atAGlance": {
+    "genre": "Dated prophetic addresses and brief accounts of communal response",
+    "setting": "Persian-period Judah during the rebuilding of the temple",
+    "composition": "The recorded addresses fall in 520 BC; the final collection’s precise formation is not specified",
+    "audience": "Governor Zerubbabel, high priest Joshua, and the people of Judah"
+  },
+  "sections": [
+    {
+      "title": "An unusually well-dated prophetic book",
+      "paragraphs": [
+        "Haggai’s two chapters locate their addresses in the second year of Darius I of Persia, in 520 BC. The community lives after Babylonian conquest and return, but it has not recovered independent kingship. Judah is a province within an empire. Zerubbabel serves as governor, Joshua as high priest, and the damaged sanctuary stands at the center of the prophet’s concern.",
+        "These are dates of the speeches and actions reported in the book, not proof that every stage of its final written arrangement occurred in the same months. Unlike many prophetic works, however, Haggai gives unusually precise historical orientation. Its account concentrates on the resumption of temple work and the difficulties of continuing that work amid scarcity, disappointment, and diminished expectations."
+      ],
+      "sourceIds": [
+        "bsb",
+        "intro"
+      ]
+    },
+    {
+      "title": "Consider what your present pattern produces",
+      "paragraphs": [
+        "The opening address confronts the claim that the time has not come to rebuild. Haggai places the people’s attention to their own houses alongside the neglected house of God. The issue is expressed through priorities, but the audience is also living with real economic strain. Sowing, eating, drinking, clothing, and earning all fail to yield the security the people seek.",
+        "The repeated summons to consider their ways asks the community to examine the relationship between its choices and its frustrated life. The prophet interprets scarcity within the covenant setting of this particular audience. That interpretation should not be converted into a universal rule that every hardship proves insufficient giving or that every building campaign carries a divine guarantee. The book’s claim belongs to its stated historical and theological situation."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "A message that receives a response",
+      "paragraphs": [
+        "Haggai is unusual among prophetic books in showing a clear and prompt response to the summons. Zerubbabel, Joshua, and the people listen, and work begins. Leadership and communal participation are both named. The project is not presented as the achievement of a charismatic individual acting while everyone else watches.",
+        "The promise of God’s presence accompanies that response. The text speaks of God stirring the spirits of leaders and people, bringing divine initiative and human action together. The workers still have to obtain materials and rebuild. Encouragement does not replace labor; it makes renewed labor possible. The movement of chapter 1 is from postponed responsibility through attentive hearing to shared action."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "The burden of comparison with the past",
+      "paragraphs": [
+        "Chapter 2 addresses people who remember the former temple and find the present work unimpressive. Their disappointment is taken seriously. Rebuilding after devastation is not the same as returning to a remembered golden age, and the visible result may seem too small to bear the weight of the community’s hopes.",
+        "The response calls the governor, priest, and people to courage and work, grounding that call again in divine presence. The promise reaches back to the exodus and forward to a shaking of nations and a greater glory. Readers should notice how the book counters paralysis: the worth of the present task cannot be measured only by comparison with what has been lost or by the resources currently visible."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Sacred work requires more than contact with sacred things",
+      "paragraphs": [
+        "The exchange with the priests about holiness and impurity can initially seem separate from the building project. It asks whether sacredness or defilement is communicated through contact and then applies the lesson to the people and the work of their hands. The passage challenges the idea that proximity to religious activity automatically makes a community’s life acceptable.",
+        "Haggai again asks the audience to consider its experience of inadequate harvests and then announces blessing from this turning point. The agricultural references keep the temple project connected with the life of the land. The text does not divide worship from material survival. Its concern is a restored relationship expressed through common priorities, conduct, and labor, not the magical effect of constructing a religious object."
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    },
+    {
+      "title": "Zerubbabel and a hope beyond the project",
+      "paragraphs": [
+        "The final oracle addresses Zerubbabel and uses the image of a signet ring, an object associated with authorization and identity. The governor’s Davidic connection gives the promise a wider historical resonance, even though the text does not report that he becomes an independent king. The imagery of overturned thrones and military power reaches beyond the immediate work site.",
+        "The book ends with promise rather than a narrated completion of every expectation. That distinction matters: later readers should not fill the silence with invented outcomes or a modern political timetable. Read Haggai as a record of a community called to rebuild amid imperial rule and reduced means. Its central questions remain concrete: what deserves shared effort, how can discouragement be faced truthfully, and what kind of relationship gives ordinary work a future?"
+      ],
+      "sourceIds": [
+        "bsb"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The call to rebuild and the people’s response",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "Haggai confronts postponed priorities, and temple work resumes."
+    },
+    {
+      "label": "Courage, cleansing, and future hope",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "The prophet addresses disappointment, priestly instruction, harvests, and Zerubbabel’s calling."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Shared priorities",
+      "description": "The community is asked to reconsider the allocation of its attention and labor."
+    },
+    {
+      "name": "Presence and courage",
+      "description": "God’s promised nearness sustains work amid discouragement."
+    },
+    {
+      "name": "Hope beyond appearances",
+      "description": "A modest beginning need not exhaust what the future can become."
+    }
+  ],
+  "timeline": {
+    "era": "return",
+    "dateLabel": "520 BC",
+    "context": "Judah rebuilding under Persian rule",
+    "note": "The precise dates belong to the recorded addresses; the future promises are not dates for fulfilled political events."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 2,
+      "era": "return",
+      "label": "Judah rebuilding under Persian rule",
+      "dateLabel": "520 BC",
+      "note": "The precise dates belong to the recorded addresses; the future promises are not dates for fulfilled political events."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bsb",
+      "label": "Berean Standard Bible: Haggai, publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "USCCB scholarly introduction to Haggai",
+      "url": "https://bible.usccb.org/bible/haggai/0?bk=Haggai&ch="
+    }
+  ]
+}

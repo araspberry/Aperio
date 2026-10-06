@@ -1,0 +1,129 @@
+{
+  "book": "2 Corinthians",
+  "bookIndex": 46,
+  "status": "Editorial draft",
+  "title": "2 Corinthians: Strength Made Visible in Weakness",
+  "subtitle": "A strained relationship becomes the setting for Paul’s account of comfort, reconciliation, and generous service.",
+  "atAGlance": {
+    "genre": "Apostolic letter combining personal appeal and theological reflection",
+    "setting": "Paul’s difficult relationship with the church in Corinth and a collection for believers in Jerusalem.",
+    "composition": "Pauline authorship is widely accepted; material belongs to the mid-AD 50s. Scholars debate whether the present book combines more than one letter.",
+    "audience": "The Corinthian congregation and believers throughout Achaia."
+  },
+  "sections": [
+    {
+      "title": "A relationship worth repairing",
+      "paragraphs": [
+        "Second Corinthians opens with comfort received in affliction. Paul gives thanks for the God who enables people to comfort others, then speaks candidly of severe trouble and his dependence on help. That beginning sets the tone for a letter in which ministry is described through lived vulnerability. The apostle’s authority and affection are both being questioned, and he wants the Corinthians to understand what has guided him.",
+        "Changed travel plans, a painful encounter, and a tearful letter belong to the background. Paul explains himself while urging forgiveness for someone whose conduct has caused distress. The details cannot all be reconstructed, but the pastoral aim is clear: correction should lead toward restoration. A community’s response can become so severe that a wounded person is overwhelmed instead of helped back into fellowship."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The letter’s shape and historical setting",
+      "paragraphs": [
+        "The letter names Paul and Timothy in its greeting and belongs to Paul’s ongoing correspondence with Corinth in the AD 50s. His authorship is broadly accepted. The sharp change of tone between chapters 1–9 and 10–13, together with other transitions, has led some scholars to regard the book as a collection of Pauline letters. Others explain the changes within a single carefully shaped communication. Neither view permits a completely certain reconstruction of the sequence.",
+        "What survives gives us access to Paul’s argument, not a neutral transcript of every disagreement. Competing claims to authority must be heard through that limitation. Paul appeals to his conduct, suffering, and concern for the congregation, while also exposing the standards by which the Corinthians have judged him. The dispute becomes an inquiry into what faithful leadership actually looks like."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Treasure carried in fragile lives",
+      "paragraphs": [
+        "Paul describes the ministry of the new covenant through images of fragrance, letters, light, and fragile containers. The gospel’s value does not depend on the messenger appearing invulnerable. The image of treasure in jars of clay makes the distinction vivid: the power belongs to God, while those who serve remain exposed to pressure and loss.",
+        "Chapters 4–5 hold suffering together with resurrection hope. Paul’s attention moves from present affliction toward what God will bring to completion. Reconciliation stands at the center of this hope. God acts in Christ to reconcile, and those entrusted with the message become its ambassadors. The language reaches beyond a private feeling of relief toward a transformed relationship with God and a new way of seeing other people."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Generosity as participation in grace",
+      "paragraphs": [
+        "Chapters 8–9 ask the Corinthians to complete a promised collection for Jerusalem. Paul points to the generosity of Macedonian believers, but he also emphasizes willingness, proportion, and care. The gift is to come from what people have. The collection serves equality and fellowship across distance, allowing one community’s resources to address another’s need.",
+        "Paul describes practical arrangements for handling the money, including trusted companions who will accompany the work. Generosity and accountability belong together. The theological language of grace never makes responsible administration unnecessary. These chapters offer a rich account of giving as participation in Christ’s generosity, while resisting the use of their promises as a mechanical formula for acquiring personal wealth. The desired harvest includes thanksgiving to God and strengthened relationships among His people."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The marks of trustworthy ministry",
+      "paragraphs": [
+        "In the final chapters Paul confronts rival claims more sharply. His ironic boasting lists hardships that ordinary measures of success might conceal. He then speaks of an extraordinary experience and a persistent affliction whose precise identity he does not disclose. The answer he receives directs attention to sufficient grace and power expressed through weakness.",
+        "That testimony should not be turned into an instruction to ignore suffering or to protect an abusive leader from accountability. Paul’s argument concerns the character of his service: he seeks the Corinthians themselves, spends himself for them, and wants their restoration. His final counsel calls them to examine themselves, pursue peace, and receive the blessing of God’s grace, love, and fellowship.",
+        "Read the letter with room for its changing emotional register. Its tenderness, grief, defense, and urgency belong to a relationship that matters. The question running through it is whether people can recognize the work of Christ in a form that carries wounds. The answer reshapes how a church understands strength, gives help, and repairs trust."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Comfort and the work of reconciliation",
+      "startChapter": 1,
+      "endChapter": 7,
+      "description": "Paul explains his conduct and reflects on ministry, weakness, and restored fellowship."
+    },
+    {
+      "label": "The grace of generous giving",
+      "startChapter": 8,
+      "endChapter": 9,
+      "description": "The collection for Jerusalem, willingness, fairness, and accountability."
+    },
+    {
+      "label": "Authority, weakness, and restoration",
+      "startChapter": 10,
+      "endChapter": 13,
+      "description": "Paul challenges rival claims and appeals for a renewed community."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Reconciliation",
+      "description": "God’s action in Christ creates a ministry of restored relationship."
+    },
+    {
+      "name": "Power in weakness",
+      "description": "Faithful service can reveal God’s strength through human vulnerability."
+    },
+    {
+      "name": "Accountable generosity",
+      "description": "Shared resources express grace and require trustworthy care."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Mid-AD 50s",
+    "context": "A stage in Paul’s continuing relationship with Corinth. The exact sequence of visits and letters remains partly uncertain.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 13,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Mid-AD 50s",
+      "note": "A stage in Paul’s continuing relationship with Corinth. The exact sequence of visits and letters remains partly uncertain."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Corinthians · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "2 Corinthians · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-corinthians/lessons/summary-of-2-corinthians/"
+    }
+  ]
+}

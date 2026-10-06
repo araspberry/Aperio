@@ -1,0 +1,56 @@
+{
+  "book": "Jeremiah",
+  "chapter": 34,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 34 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 34: The Price of Breaking Covenant",
+      "overview": [
+        "The spiritual heart of Jeremiah 34 concerns the terrible consequences of promised obedience abandoned—when God's people solemnly commit to justice and freedom, then reverse course for self-interest. This is a sobering portrait of covenant-breaking and the judgment it invites.",
+        "King Zedekiah and Jerusalem's leaders had made a covenant before the Lord to free their Hebrew slaves, releasing them from servitude in the seventh year as the law required. It was a righteous decision, reflecting God's heart for the vulnerable and oppressed. Yet when the Babylonian siege temporarily lifted—creating a false sense of security—the people reversed themselves and enslaved those they had freed. They chose convenience over conscience, comfort over covenant.",
+        "Jeremiah's message is devastating: such betrayal does not go unnoticed by God. The Lord promises to proclaim liberty against them—the very word they broke—in the form of the sword, famine, and plague. Those they enslaved again would witness their downfall. There is a haunting irony: they reclaimed their slaves only to lose their own freedom.",
+        "This passage confronts us with an uncomfortable truth about our own hearts. We, too, make promises in moments of spiritual clarity—commitments to generosity, integrity, reconciliation, or sacrifice. Yet circumstances shift. The cost becomes clear. Pressure mounts. And we quietly reverse course, telling ourselves extenuating circumstances justify the breach. We become skilled at rationalizing our unfaithfulness.",
+        "Yet God takes our commitments seriously. Not because He delights in punishment, but because covenant-keeping matters infinitely. When we bind ourselves to His justice, to His compassion, to His truth, our faithfulness reflects His character in the world. Breaking those vows doesn't merely disappoint God—it damages our own souls and witness.",
+        "The question before us is not whether we'll face temptation to abandon our promises, but whether we'll guard them fiercely when that temptation comes. What covenant commitment are you protecting today, even when the cost is real?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 34: Scholarly study",
+      "overview": [
+        "Jeremiah 34 presents a pivotal moment during the final siege of Jerusalem by Nebuchadnezzar II of Babylon, likely dating to 588–587 BCE. The chapter divides into two distinct oracles: verses 1–7 contain a prophecy directed to King Zedekiah regarding his fate, while verses 8–22 address the covenant violation concerning the release of Hebrew slaves. The prophet Jeremiah, active during Judah's final decades before the exile, delivers these words during a period of acute political crisis when Egyptian intervention temporarily lifted the Babylonian siege, prompting the events described in the second half of the chapter.",
+        "The term *dĕrôr* (דְּרוֹר), translated \"liberty\" or \"release\" in verse 8, carries significant covenantal weight, echoing the Jubilee legislation of Leviticus 25 and the sabbatical release laws of Exodus 21:2 and Deuteronomy 15:12. Zedekiah's proclamation of *dĕrôr* represents an attempt, perhaps born of desperation during siege conditions, to renew covenant faithfulness. The subsequent reversal—when slaveholders reclaimed (*kābaš*, כָּבַשׁ, meaning \"to subdue\" or \"bring into bondage\") their freed servants after the siege lifted—constitutes not merely social injustice but fundamental covenant treachery.",
+        "The covenant-making ceremony described in verses 18–19, involving the cutting of a calf and passing between its pieces, reflects ancient Near Eastern treaty rituals attested in texts from Mari and elsewhere. This self-maledictory rite, wherein participants symbolically invoke dismemberment upon themselves should they violate the agreement, renders the people's breach particularly egregious. Yahweh's response transforms their symbolic gesture into prophetic judgment: they shall become like the divided calf.",
+        "Scholars debate whether Zedekiah's proclamation was genuinely reformist or merely pragmatic—perhaps freeing slaves to bolster military ranks or reduce food consumption during siege. The canonical placement following chapter 33's hopeful restoration oracles creates a stark contrast, demonstrating why judgment became inevitable. The interplay between conditional and unconditional elements in Jeremiah's prophecy emerges clearly: Zedekiah receives personal assurance of a peaceful death, yet Jerusalem faces certain destruction. This chapter thus crystallizes the theological reality that covenant relationship demands sustained faithfulness, not merely crisis-driven piety."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 34: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 588-587 BC, in the final desperate months before Jerusalem's destruction, when Nebuchadnezzar's Babylonian army had surrounded the city and only Lachish and Azekah remained among Judah's fortified towns. We stand at the precipice of the exile, that great rupture in Israel's national life that would fulfill centuries of prophetic warning. Within the grand arc of redemption, this passage marks the death throes of the Davidic kingdom in its earthly manifestation, the covenant curses of Deuteronomy 28 reaching their terrible climax before the long night of exile would eventually give way to restoration and, ultimately, incarnation.",
+        "The central drama concerns a covenant made and broken. King Zedekiah, under siege and facing divine judgment, led the people in a solemn ceremony to release their Hebrew slaves according to the Sabbath-year provisions of Exodus 21 and Deuteronomy 15. For a brief moment, Judah enacted the liberty that God had always intended for His covenant people. Yet when Babylonian forces temporarily withdrew to meet an Egyptian threat, the masters seized their brothers and sisters again, dragging them back into bondage. This reversal exposed the rottenness at Judah's core—a people who would manipulate sacred covenant for temporal advantage, treating God's law as a negotiating tool rather than a revelation of His character.",
+        "The typological weight here is immense. The cutting of the calf in the covenant ceremony reaches back to Genesis 15, where God alone passed between the severed pieces, taking the covenant curse upon Himself. Now Judah's leaders walked that same path, invoking death upon themselves should they break faith—and break faith they did. They became, in their treachery, pictures of all humanity's covenant unfaithfulness, making promises to God we cannot keep, grasping for freedom when convenient and returning to bondage when expedient.",
+        "Yet what Israel could not do, Christ did. He passed between the pieces in His own flesh, torn on the cross, bearing the curse His people deserved. The liberty proclaimed and then revoked in Jerusalem would be proclaimed irrevocably at Calvary. Where Zedekiah's covenant brought judgment, the new covenant sealed in Christ's blood brings eternal redemption.",
+        "The church today reads this chapter as both warning and gospel. We who have been set free dare not return to slavery—whether to sin, to law-righteousness, or to the powers of this age. The God who judged Jerusalem for covenant-breaking has borne that judgment Himself, making us truly free."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_034",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.994978+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

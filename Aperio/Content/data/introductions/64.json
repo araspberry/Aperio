@@ -1,0 +1,117 @@
+{
+  "book": "Jude",
+  "bookIndex": 64,
+  "status": "Editorial draft",
+  "title": "Jude: Guarding Grace, Practicing Mercy",
+  "subtitle": "An urgent appeal calls the church to resist destructive teaching while remaining rooted in God’s keeping love.",
+  "atAGlance": {
+    "genre": "Pastoral warning letter with vivid scriptural and Jewish traditional examples",
+    "setting": "An unnamed Christian community threatened by leaders whose conduct contradicts their claims.",
+    "composition": "Names Jude, servant of Jesus Christ and brother of James. Traditionally connected with Jesus’ family; some scholars propose a later writer in Jude’s name. A first-century date is likely, but uncertain.",
+    "audience": "Believers called, loved, and kept by God; their location is not identified."
+  },
+  "sections": [
+    {
+      "title": "A warning held within a blessing",
+      "paragraphs": [
+        "Jude begins by addressing people who are called, loved by God, and kept for Jesus Christ. Mercy, peace, and love are his opening wish for them. Those assurances are essential to the letter’s severe language, because the warning serves a community whose life is precious. Jude wants the people entrusted to God’s care to recognize teaching that would damage them.",
+        "He explains that he intended to write about their shared salvation but found an urgent need to call them to contend for the faith. The problem is not an innocent difference of emphasis. Certain people have turned grace into permission for immoral conduct and denied the authority of Jesus. Jude’s response insists that a message called Christian must be examined in relation to the life it authorizes."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Jude’s identity and the letter’s setting",
+      "paragraphs": [
+        "The writer describes himself as a servant of Jesus Christ and brother of James. Early Christian tradition understood him as Jude from Jesus’ family. Some scholars accept that identification directly; others regard the letter as a later work written under his authority. The distinction affects proposed dates, which range across much of the first century. The brief text does not settle the matter through an identifiable event or location.",
+        "Its audience evidently knows Israel’s Scriptures and other Jewish traditions. Jude can allude to examples without explaining their entire stories. His opponents remain less clear. The letter supplies accusations about their conduct and teaching, but it does not name a fully developed religious movement. Assigning them an elaborate system reconstructed from later history would claim more than the evidence allows."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Remembering the danger of unfaithfulness",
+      "paragraphs": [
+        "Jude draws on the wilderness generation, rebellious heavenly beings, Sodom and Gomorrah, Cain, Balaam, and Korah. These examples bring several kinds of failure into view: unbelief, overreaching, corruption, greed, and rebellion. The accumulation is meant to awaken moral attention. A place within a sacred story does not make destructive choices harmless.",
+        "He also uses traditions concerning Michael’s dispute over Moses’ body and a judgment oracle attributed to Enoch. The latter has a close parallel in First Enoch, a Jewish work outside most Christian biblical canons. Recognizing those connections helps explain the intellectual world in which Jude writes. His use of a particular tradition does not by itself establish that he endorses every claim in the larger work from which it comes. The immediate argument should govern how the reference is used."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Images that expose empty promises",
+      "paragraphs": [
+        "The opponents are compared to clouds without rain, fruitless trees, restless waves, and wandering stars. Each image exposes a failure to provide what might reasonably be expected. People looking for nourishment or direction encounter absence, disorder, or danger. Jude’s concern is pastoral as well as doctrinal: a persuasive appearance can conceal a refusal to serve those who depend on it.",
+        "The description of shepherds who feed only themselves sharpens the issue. Leadership becomes destructive when people are treated as means to a leader’s appetite. Jude’s strong language should lead churches to examine greed, exploitation, and moral accountability. It should not become a ready-made vocabulary for humiliating everyone who asks a question. His call to contend for the faith does not authorize violence, coercion, or contempt toward people outside the community."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The constructive answer is a faithful community",
+      "paragraphs": [
+        "Jude’s final instructions are active and communal: build one another up in the faith, pray in the Holy Spirit, remain in God’s love, and await the mercy of Jesus. These actions give a positive shape to resistance. A church protects its life by deepening the practices that sustain it, rather than living permanently on alarm.",
+        "The treatment of those affected by false teaching requires discernment. Mercy is to be shown to people who waver, while others need urgent rescue from danger. The exact wording of these instructions varies among ancient manuscripts, but mercy and care remain central. Jude distinguishes the need to resist harmful conduct from the need to help people caught within its influence.",
+        "The concluding praise turns attention to God, who is able to keep His people and present them with joy. Read the whole letter within that movement from being kept to the One who keeps. Its confidence rests beyond the community’s ability to police itself perfectly. Vigilance belongs with dependence on God, and defense of the faith belongs with patient, practical mercy toward those who need restoration."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Remember, discern, build, and show mercy",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "An urgent appeal, examples of judgment, exposure of destructive leadership, communal instruction, and concluding praise."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Grace with integrity",
+      "description": "God’s generosity never makes exploitation or immorality harmless."
+    },
+    {
+      "name": "Discerning remembrance",
+      "description": "Scripture and inherited examples train the community to recognize danger."
+    },
+    {
+      "name": "Merciful perseverance",
+      "description": "The church resists destructive teaching while caring for vulnerable people."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "First-century Christian communities; exact date uncertain",
+    "context": "The letter addresses a present conflict and recalls much earlier examples. Those recollections are instruction, not consecutive periods in the letter’s own history.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 1,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "First-century Christian communities; exact date uncertain",
+      "note": "The letter addresses a present conflict and recalls much earlier examples. Those recollections are instruction, not consecutive periods in the letter’s own history."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Jude · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "Jude · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/jude/lessons/summary-of-jude/"
+    }
+  ]
+}

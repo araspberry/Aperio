@@ -1,0 +1,56 @@
+{
+  "book": "1 Peter",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Peter 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Peter 1: The Living Hope That Sustains",
+      "overview": [
+        "Peter's opening chapter carries a message as relevant to believers today as it was to scattered first-century Christians: God's grace secures us so completely that our faith can remain unshakable even when everything around us shakes. This is not abstract theology but pastoral comfort written to people suffering real persecution.",
+        "The apostle begins by grounding identity in God the Father's sovereignty and the Holy Spirit's sanctifying work, reminding us that our election is not an afterthought but part of an eternal plan. We are chosen—a stunning truth that transforms how we understand our place in God's story. Then Peter pivots to the resurrection of Christ and the living hope it generates. This is no dead religion of mere rules and memories. Jesus rose from death itself, opening a pathway to an inheritance that cannot decay, spoil, or fade. While our earthly circumstances may be temporary and painful, our ultimate possession is guaranteed and eternal.",
+        "Peter then addresses the present reality: believers genuinely rejoice, yet they also genuinely suffer. Both are real. The testing of faith, he says, develops perseverance and produces something valuable—precious as refined gold. Suffering is not punishment for believers but rather the furnace in which authentic faith is proven and strengthened. There is dignity in it because it shows our faith is genuine and glorifies Christ.",
+        "Throughout this passage, Peter weaves together the prophetic heritage of Israel and the present fulfillment in Christ. The ancient prophets longed to understand God's salvation plan; now we live in the era they glimpsed. That inheritance of blessing—the very thing saints yearned for across centuries—is now ours to receive and guard.",
+        "What would change in your life today if you truly believed that your inheritance is absolutely secure, regardless of current suffering or uncertainty?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Peter 1: Scholarly study",
+      "overview": [
+        "The first chapter of 1 Peter stands as a masterfully constructed theological prolegomenon to the entire epistle, establishing both the identity of the scattered Christian communities and the soteriological framework within which their suffering gains meaning. The letter's attribution to Peter the apostle, writing from \"Babylon\" (5:13), has generated substantial scholarly debate, with some maintaining Petrine authorship through an amanuensis such as Silvanus (5:12), while others propose pseudonymous composition in the late first century. The addressees, identified as \"elect exiles\" (ἐκλεκτοῖς παρεπιδήμοις, *eklektois parepidēmois*) scattered throughout five Roman provinces in Asia Minor, likely comprised both Jewish and Gentile converts whose marginal social status as resident aliens now carried profound theological resonance.",
+        "The opening benediction (vv. 3-12) employs the Jewish *berakah* form, blessing God for the regeneration believers have received through Christ's resurrection. The term ἀναγεννήσας (*anagennēsas*, \"having caused to be born again\") appears only here and in verse 23 within the New Testament, emphasizing divine initiative in salvation. This new birth yields a \"living hope\" directed toward an inheritance described through three alpha-privative adjectives—imperishable, undefiled, and unfading—contrasting the transient nature of earthly possessions with eschatological permanence.",
+        "Verses 10-12 present a striking hermeneutical claim regarding prophetic Scripture, suggesting the ancient prophets themselves searched their own oracles to understand the messianic sufferings they proclaimed. The passage articulates a christological reading of Israel's prophetic tradition that became foundational for early Christian biblical interpretation.",
+        "The ethical exhortation beginning at verse 13 pivots on the concept of holiness, grounding the imperative in Leviticus 19:2. The call to \"gird up the loins of your mind\" (ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας, *anazōsamenoi tas osphyas tēs dianoias*) employs exodus imagery, recalling Israel's preparation for departure from Egypt. The chapter culminates in verses 22-25 with emphasis on purification through obedience and the abiding quality of God's word, citing Isaiah 40:6-8 to contrast human mortality with divine permanence. Throughout, Peter weaves together eschatological expectation, christological reflection, and ethical demand into a cohesive vision of Christian existence amid social alienation."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Peter 1: Prophetic perspective",
+      "overview": [
+        "The apostle Peter penned this epistle approximately thirty years after the resurrection and ascension of Christ, likely around AD 62-64, during the reign of Emperor Nero and shortly before the great persecution that would claim Peter's own life. The recipients were Jewish and Gentile believers scattered throughout the Roman provinces of Asia Minor—exiles in a double sense, both dispersed from Jerusalem and strangers in a world that was not their true home. This letter stands firmly in the Church Age, that mysterious interval between Christ's first advent and His glorious return, when the Spirit has been poured out and the ingathering of the nations proceeds under the shadow of suffering.",
+        "Peter opens with a thunderous declaration of trinitarian grace: believers are elect according to the foreknowledge of the Father, sanctified by the Spirit, and sprinkled with the blood of Jesus Christ. This sprinkling echoes the covenant ratification at Sinai, when Moses sprinkled blood upon the people, binding them to God. Yet what Moses administered in shadow, Christ accomplishes in substance—a better covenant sealed by better blood, cleansing not merely the flesh but the conscience of the worshiper.",
+        "The apostle then unveils the inheritance kept in heaven for those who are kept by God's power through faith. Here the Exodus typology deepens: as Israel was brought through the Red Sea toward Canaan, so believers pass through the waters of baptism toward a land that cannot fade, cannot be defiled, cannot wither. The promised land of old was but a whisper of this eternal country.",
+        "Remarkably, Peter declares that the prophets who foretold these sufferings and subsequent glories were serving not themselves but future generations—specifically, those who now hear the gospel. Isaiah, Jeremiah, Daniel, and all the prophetic chorus strained forward to glimpse what believers now possess: the Spirit of Christ was within them, testifying beforehand of His passion and exaltation. Even angels, Peter marvels, long to peer into these mysteries now openly proclaimed.",
+        "The chapter's call to holiness—\"Be holy, for I am holy\"—reaches back to Leviticus yet forward to the new humanity being formed in Christ. Believers are redeemed not with corruptible silver or gold but with precious blood, as of a lamb without blemish—the Passover fulfilled, the ransom paid, the exodus accomplished.",
+        "The church now lives as sojourners, born again through imperishable seed, the living and abiding Word, awaiting the apocalypse of Jesus Christ when faith shall become sight and the inheritance shall be fully revealed."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "60_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.011268+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

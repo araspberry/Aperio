@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 78,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 78 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 78: The God Who Never Forgets",
+      "overview": [
+        "This great psalm is a meditation on covenant faithfulness—God's relentless refusal to abandon His people despite their chronic unfaithfulness, and a solemn call to pass that story forward to the next generation.",
+        "The psalmist begins by insisting that this is not merely old history to be archived and forgotten; it is living testimony meant to be told and retold. The repeated failures of Israel—their murmuring in the wilderness, their forgotten miraculous deliverances, their worship of idols—are recounted not to shame the past but to awaken present faithfulness. Each generation seems to arrive at the same crossroads where their ancestors stumbled, forgetting what God has done. Yet God, remarkably, does not forget. He bears with them through exodus, wilderness, conquest, and kingdom, sometimes in judgment but always with the intention of restoration.",
+        "What strikes us most deeply is that God's forgiveness is not forgetfulness. The Lord remembers that His people are \"flesh, a wind that passes and does not come again.\" This is not indifference but tenderness. God knows the weakness of His people and yet commits Himself to them anyway. He chooses a shepherd, David, and builds a house that will last forever. The pattern is unmistakable: human failure, divine patience, covenant renewal.",
+        "For us today, this psalm becomes a humbling mirror. We inherit the same tendency toward spiritual amnesia—forgetting yesterday's provision when today brings uncertainty, building idols out of comfort or success, wandering from the God who has proven faithful. Yet we also inherit the promise. The God who bore with ancient Israel remains the God who bears with us. He has not changed His nature; He does not grow weary of calling us back.",
+        "The real weight of this psalm lands in its implicit command: tell the next generation. Do not hide your failures or God's grace. Make known His deeds, His strength, His wondrous works. This is how faith lives.",
+        "What stories of God's faithfulness in your own life are you called to share with those coming after you?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 78: Scholarly study",
+      "overview": [
+        "Psalm 78 stands as one of the most extensive historical psalms in the Psalter, attributed to Asaph, the Levitical musician appointed by David to lead worship in the tabernacle. This magnificent composition of seventy-two verses functions as a didactic recitation of Israel's salvation history, employing the genre designation *maskil* in its superscription, indicating its instructional purpose for the covenant community. The psalm's setting likely reflects the early monarchic period, possibly composed to legitimate the Davidic dynasty and the choice of Zion following the rejection of the northern sanctuary at Shiloh.",
+        "The opening verses establish the pedagogical framework through the term *mashal* (מָשָׁל), traditionally rendered \"parable\" but more accurately understood as a wisdom teaching or instructive comparison drawn from ancestral tradition. This terminology connects the psalm to the broader wisdom tradition while emphasizing the intergenerational transmission of covenantal memory. The complementary term *chidot* (חִידוֹת), meaning \"riddles\" or \"dark sayings,\" suggests that the recounted history contains deeper theological significance requiring careful reflection—the events themselves constitute divine revelation demanding interpretation.",
+        "The psalm's literary architecture traces a cyclical pattern of divine grace, human rebellion, divine judgment, and renewed mercy, covering the span from the Egyptian exodus through the establishment of Davidic kingship. Particularly significant is the repeated use of *marah* (מָרָה), describing Israel's rebellion as bitter provocation, which occurs at critical junctures emphasizing the persistent unfaithfulness despite witnessed miracles. The theological tension between divine *chesed* (חֶסֶד), God's steadfast covenant loyalty, and human *shikchah*, the forgetfulness of God's mighty acts, drives the narrative forward.",
+        "Scholars debate whether the psalm's selective historical memory—emphasizing Ephraim's failure while exalting Judah—reflects northern-southern political tensions or serves purely theological purposes regarding divine election. The climactic movement from Shiloh's rejection to Zion's choice represents not merely geographical relocation but theological reconstitution of sacred space. Within canonical context, Psalm 78 occupies a central position in Book III of the Psalter, contributing to the collection's meditation on exile, covenant, and divine faithfulness despite national catastrophe, offering subsequent generations both warning and hope rooted in remembered redemption."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 78: Prophetic perspective",
+      "overview": [
+        "This magnificent historical psalm, composed by Asaph during the early monarchic period around 1000-950 BC, stands approximately one thousand years before Christ's incarnation. It surveys Israel's story from the Exodus through David's enthronement, placing it firmly within the Kingdom phase of redemption history—after God delivered His people from bondage and gave them the Law, but before the tragic division and eventual exile that would follow Solomon's reign.",
+        "Asaph opens with a solemn declaration of intent: to speak in parables and dark sayings from of old, a phrase the Holy Spirit later reveals as messianic when Matthew applies it to Christ's teaching ministry. Here the typological pattern emerges immediately—the psalmist who teaches Israel through veiled wisdom prefigures the greater Prophet who would open His mouth in parables, revealing things hidden since the foundation of the world. The wisdom teacher of old shadows the Wisdom of God incarnate.",
+        "The psalm rehearses Israel's stubborn rebellion despite God's magnificent deliverances: the plagues upon Egypt, the parting of the sea, the pillar of cloud and fire, water from the rock, and manna from heaven. Each of these mighty acts carries prophetic weight. The smitten rock from which living water flowed typifies Christ crucified, from whose side flowed blood and water—the true spiritual drink for God's pilgrim people. The bread from heaven, which the fathers ate yet died, anticipates the true Bread of Life who descended from the Father, of which whoever eats shall never perish.",
+        "Yet the recurring theme of Israel's faithlessness despite such wonders constitutes a sober eschatological warning. They tested God repeatedly in the wilderness; they forgot His works and demanded satisfaction for their cravings. Divine judgment followed divine patience. The generation that witnessed Sinai's fire perished in unbelief—a pattern the author of Hebrews would later invoke to warn the new covenant community against hardening their hearts.",
+        "The psalm culminates in God's sovereign election of Judah over Ephraim, Zion over Shiloh, and David as the shepherd-king over Israel. This is no mere political transition but prophetic preparation: from David's loins would come the eternal Shepherd-King who tends His flock with upright heart and skillful hands. The church now lives under that Davidic reign, warned by Israel's failures, nourished by heavenly bread, and awaiting the day when rebellion ceases and God dwells with His people forever."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_078",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.336093+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

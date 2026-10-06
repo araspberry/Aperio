@@ -1,0 +1,56 @@
+{
+  "book": "2 Kings",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Kings 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Kings 7: Hope When Everything Seems Hopeless",
+      "overview": [
+        "When the city is starving and the enemy surrounds the gates, God often works through the least likely people to bring deliverance no one can predict or deserve. This passage whispers a profound truth into our darkest moments: hope isn't determined by our circumstances, but by God's hidden purposes moving beneath the surface.",
+        "Samaria is under siege, and famine has reduced the people to unspeakable desperation. The king despairs, and even the prophet Elisha's word seems too good to be true. But then four forgotten lepers—social outcasts sitting at the city gate—decide to take a risk. They have nothing to lose and everything to gain by walking toward the empty Aramean camp. Their desperate gamble becomes the unlikely instrument of divine rescue.",
+        "What makes this story so powerful is that deliverance comes not through military might or royal decree, but through the courage of those society had already written off. The lepers discover that God has already worked while His people were sleeping—the enemy has fled, leaving provisions behind. The city's salvation arrives through people no one was watching, moving when everyone else felt paralyzed.",
+        "This speaks directly to our experiences of spiritual famine—those seasons when we're confined by circumstances, when solutions seem impossible, when we wonder if God has abandoned His purposes. The lepers teach us that desperation can become an opening for faith. They moved when standing still meant certain death. They risked not because they were confident in victory, but because remaining unchanged was worse.",
+        "Notice too how the deliverance spreads. The lepers report what they've found, and the city is saved. Our willingness to share what God has revealed to us, even from our places of weakness and outsider status, becomes part of His redemptive work in others' lives.",
+        "What circumstance in your life right now feels like a sealed gate? Where might God be inviting you to move toward hope, even in uncertainty?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Kings 7: Scholarly study",
+      "overview": [
+        "The narrative of 2 Kings 7 represents a dramatic resolution to the severe famine in Samaria depicted in the preceding chapter, where conditions had deteriorated to the point of cannibalism among the besieged inhabitants. This account, set during the reign of Joram (or Jehoram) of Israel in the mid-ninth century BCE, demonstrates the Deuteronomistic historian's theological conviction that divine intervention can reverse even the most desperate circumstances, particularly when prophetic word has been spoken.",
+        "The chapter opens with Elisha's audacious prophecy that within twenty-four hours, prices for fine flour and barley would return to normal levels at the gate of Samaria—a statement met with incredulity by the king's officer, whose skepticism earns him a prophetic sentence of witnessing but not participating in the deliverance. The Hebrew term *shalish* (שָׁלִישׁ), often rendered \"captain\" or \"officer,\" designates a high-ranking military official, possibly one who rode in the third position of a chariot, emphasizing the political significance of this exchange.",
+        "The narrative pivots remarkably to four leprous men stationed at the city gate, marginalized figures who become unlikely agents of discovery. Their condition, described by the term *metsora'im* (מְצֹרָעִים), rendered them ritually unclean and socially peripheral, yet the text subverts expectations by making them the first witnesses of divine deliverance. When they venture toward the Aramean camp at twilight, they discover it abandoned—the Lord having caused the enemy to hear sounds of approaching armies, prompting panicked flight.",
+        "The theological center of this passage lies in the interplay between prophetic authority and divine sovereignty. The Hebrew *shema'* (שָׁמַע), \"to hear,\" operates on multiple levels: the Arameans hear phantom armies, the king initially refuses to hear the good news as trustworthy, and ultimately Israel hears and believes. Some scholars debate whether the Aramean panic reflects naturalistic causes or purely miraculous intervention, though the Deuteronomistic framework clearly attributes the deliverance to Yahweh's direct action. The fulfillment of Elisha's prophecy—including the officer's death by trampling—reinforces the inviolability of prophetic speech while demonstrating that divine provision often operates through unexpected means and marginalized messengers."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Kings 7: Prophetic perspective",
+      "overview": [
+        "This remarkable chapter unfolds approximately 850 years before Christ's advent, during the reign of Jehoram over the northern kingdom of Israel. The nation stands under divine judgment, besieged by Ben-Hadad's Syrian army until Samaria's inhabitants resort to cannibalism. Within the grand redemptive narrative, we find ourselves in the fractured kingdom era—after David's golden age, after Solomon's apostasy tore the nation asunder, yet centuries before the Babylonian exile would complete judgment upon Judah. The prophetic office burns bright in this dark hour, with Elisha standing as God's voice amid covenant unfaithfulness.",
+        "Elisha's prophecy at the chapter's opening carries the unmistakable cadence of divine reversal: \"Tomorrow about this time a measure of fine flour shall be sold for a shekel.\" The skeptical captain's mockery—\"If the LORD would make windows in heaven, could this thing be?\"—earns him a prophetic sentence fulfilled with terrible precision. He witnesses salvation but never tastes it, trampled in the gate by the very people rushing toward deliverance. Here stands a solemn type of those who see the kingdom's blessings but perish in unbelief, like those who watched Christ's miracles yet demanded His crucifixion.",
+        "The four lepers at the gate emerge as the most unlikely heralds of redemption. Outcasts, ceremonially unclean, dwelling in the threshold between death within and death without, they reason: \"Why sit we here until we die?\" Their venture toward the enemy camp discovers what God had already accomplished—the Lord had caused the Syrians to hear the thunder of approaching armies, sending them fleeing in terror. The victory belonged entirely to Yahweh; Israel contributed nothing but desperate hunger.",
+        "These lepers prefigure the gospel's pattern with striking clarity. Those furthest from the covenant become first partakers and first proclaimers. Their conviction—\"We do not well: this day is a day of good tidings, and we hold our peace\"—anticipates the Great Commission's urgency. Abundance sits waiting while people perish in ignorance; silence becomes sin.",
+        "The chapter's eschatological dimension points toward that final Day when God's abundance will overflow, when every enemy will flee before His presence, and when some who witnessed the promise will be excluded through unbelief while unexpected souls feast at the Messianic table. For the church awaiting Christ's return, this narrative thunders: the impossible reversal has already begun at Calvary. Go, tell, do not hold your peace—this is a day of good tidings."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "12_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.618415+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

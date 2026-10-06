@@ -1,0 +1,57 @@
+{
+  "book": "Job",
+  "chapter": 17,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 17 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 17: When Hope Feels Like Dying",
+      "overview": [
+        "Job's words in this chapter strike us with raw honesty about despair—the spiritual reality that sometimes faith feels not like a mountain to climb but like a descent into darkness. This passage captures what happens when a believer's suffering stretches so long that even hope itself becomes exhausted.",
+        "Job speaks of his spirit being broken, his days extinguished, and the grave waiting for him. Yet within this lament lies something profoundly true about the human condition: sometimes acknowledging our deepest pain is actually an act of faith, not its opposite. Job refuses to pretend. He won't manufacture false cheerfulness or claim he's fine when he's dying. Instead, he brings his whole self—shattered and questioning—before God. This honesty is the beginning of real encounter with the divine.",
+        "What troubles Job most is not just physical suffering but the loss of witnesses to his integrity. He feels he's become a byword, despised in the eyes of those around him. In our modern world, we experience this too. Suffering isolates us. Prolonged illness, grief, financial devastation, or relational brokenness can make us feel like cautionary tales rather than beloved children of God. We wonder if anyone truly sees us, or if we've become invisible except as objects of pity or judgment.",
+        "Yet Job keeps returning to God, even in his questioning. He won't accept his friends' explanations. He won't curse God. He remains in conversation with the Almighty, insisting that God acknowledge him, that God see him as more than his circumstances. This is the posture of persevering faith—not happiness, but stubborn trust that God has not abandoned the righteous, even when every feeling screams otherwise.",
+        "What part of your inner pain have you been hesitant to bring honestly before God? Consider that your deepest doubts and sorrows are not obstacles to faith but invitations to encounter the God who sees you fully and loves you still."
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 17: Scholarly study",
+      "overview": [
+        "Job 17 continues the protagonist's response to Eliphaz's second speech, forming part of the second cycle of dialogues within this ancient wisdom text. The chapter represents one of Job's most despairing moments, where physical deterioration, social alienation, and theological crisis converge. Composed likely during the exilic or post-exilic period, though drawing on older traditional materials, this passage reflects the sophisticated poetic artistry characteristic of the Joban poet, employing parallelism and vivid imagery to articulate profound existential anguish.",
+        "The chapter opens with Job's declaration that his spirit is broken and his days extinguished, using the Hebrew term *ruaḥ* (spirit/breath), which carries connotations of vital life force. This term connects Job's condition to the broader biblical understanding of human existence as dependent upon divine breath. The imagery of the grave (*qeber*) awaiting him appears repeatedly, establishing death as the dominant motif throughout the chapter.",
+        "Particularly significant is Job's appeal for God to provide a pledge or surety (*ʿārab*) for himself in verse 3, a legal-commercial term indicating someone who guarantees another's obligations. This remarkable request—asking God to serve as guarantor against God's own apparent hostility—demonstrates the theological complexity of Job's position. He simultaneously accuses God of injustice while recognizing no other possible source of vindication.",
+        "The social dimension of Job's suffering emerges in verses 6-10, where he describes becoming a *māšāl* (byword/proverb), a term denoting someone whose misfortune becomes proverbial. His friends, rather than providing comfort, have become moral failures in his estimation. The chapter concludes with Job's stark rejection of hope, directly contradicting the friends' theological framework that promised restoration for the righteous.",
+        "Interpreters have long debated whether verses 13-16 reflect genuine despair or rhetorical irony challenging the friends' simplistic theodicy. The descent imagery—making one's bed in darkness, calling corruption \"father\" and the worm \"mother\"—inverts normal familial relationships, suggesting complete alienation from life itself. Within the book's canonical structure, this nadir of despair prepares readers for the dramatic shift in chapter 19, where Job will paradoxically affirm his redeemer lives."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 17: Prophetic perspective",
+      "overview": [
+        "Job chapter seventeen emerges from the depths of the patriarchal age, likely around the time of Abraham or shortly thereafter, approximately two thousand years before Christ's incarnation. This places the text in the earliest stratum of biblical revelation, before the Mosaic covenant, before the temple, before the prophets articulated the hope of resurrection with clarity. Job speaks from a time when humanity possessed only the faintest glimmers of what God would accomplish through the seed of the woman, yet remarkably, even in this primordial darkness, prophetic light breaks through.",
+        "Within the grand redemptive arc, Job stands in the period between the Abrahamic promises and their unfolding through Israel. The patriarch wrestles with questions that would not receive full answers until Calvary: Why do the righteous suffer? Where is justice? What hope exists beyond the grave? Job's anguished cry that his \"spirit is broken\" and \"the grave is ready\" for him resonates across the centuries as the universal human lament under the curse of the fall.",
+        "The typological richness here is profound. Job functions as a suffering righteous one, a type of Christ who would be despised and rejected, whose friends would become mockers rather than comforters. When Job declares that God has made him \"a byword of the peoples\" and one in whose face men spit, we hear foreshadowings of Isaiah's Servant upon whom contempt would be heaped. The imagery of being surrounded by mockers while holding fast to righteousness points unmistakably toward Golgotha, where the truly Innocent One would endure scorn while maintaining His integrity.",
+        "Job's desperate cry for a \"pledge\" or \"surety\" in heaven anticipates the mediatorial work of Christ. He asks who will give security for him before God—a question that hangs unanswered in his generation but finds its glorious response in Jesus, who became the guarantee of a better covenant. The writer of Hebrews would later reveal what Job could only grope toward in darkness.",
+        "The eschatological tension is palpable as Job confronts death without clear resurrection hope, yet refuses to abandon his confidence in ultimate vindication. His friends offer false eschatology, insisting that justice comes in this life. Job knows better, even if he cannot yet see the full picture.",
+        "For the church living between the advents, Job seventeen reminds us that faithful suffering often precedes vindication, that our Surety in heaven has already pledged Himself for us, and that the darkness before resurrection morning is not the final word."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_017",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.00995+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

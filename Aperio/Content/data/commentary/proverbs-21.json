@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 21,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 21 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 21: The King's Heart in God's Hands",
+      "overview": [
+        "Proverbs 21 unveils a profound paradox at the heart of God's governance: the most powerful human authorities remain utterly subject to divine direction, and true success flows not from self-assertion but from alignment with God's wisdom.",
+        "The chapter opens with the startling image of the king's heart as a water channel in the Lord's hand, directed wherever He chooses. This isn't meant to diminish human responsibility; rather, it repositions where our confidence should rest. We live in a world where power matters, where decisions at high levels shape countless lives, yet the sovereignty that truly governs history belongs entirely to God. This should humble us and steady us. When we feel anxious about leaders or systems spiraling beyond control, we're invited to remember that God's purposes cannot be thwarted.",
+        "Throughout these verses, wisdom repeatedly proves superior to strength. Better a little with righteousness than great wealth gained through injustice. Better patience than a hasty spirit. Better humility than pride. Proverbs 21 repeatedly contrasts the way of the righteous—marked by careful attention, deliberate choice, and moral integrity—with the way of the wicked, which always appears efficient in the moment but collapses under its own contradictions. The sluggard desires without working; the wicked person schemes without conscience; but the righteous person builds steadily on a foundation that holds.",
+        "This wisdom applies everywhere we live: in families where gentleness disarms anger, in workplaces where integrity builds trust, in personal choices where delayed gratification creates abundance. God's way doesn't promise ease, but it promises alignment with reality itself—the reality that the universe bends toward justice, generosity, and truth.",
+        "What area of your life might be calling you to exchange self-reliance for trust in God's governance? Where are you tempted to pursue success through compromises that contradict the righteousness Proverbs 21 celebrates?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 21: Scholarly study",
+      "overview": [
+        "Proverbs 21 continues the second Solomonic collection (Proverbs 10:1–22:16), presenting a series of antithetical and synthetic parallelisms that address matters of governance, justice, human motivation, and divine sovereignty. The chapter demonstrates the characteristic wisdom genre of ancient Israel, reflecting both court wisdom traditions and broader Near Eastern sapiential literature, while maintaining Yahwistic theological commitments that distinguish Israelite wisdom from its Egyptian and Mesopotamian counterparts.",
+        "The chapter opens with a striking assertion of divine sovereignty over royal authority, declaring that the king's heart is \"streams of water\" (*palgê-mayim*) in Yahweh's hand, turned wherever He wills. The term *palgê* refers to irrigation channels, evoking agricultural imagery where water is deliberately directed for productive purposes. This metaphor subverts ancient Near Eastern royal ideology by subordinating even the most powerful human authority to divine direction, a theological claim with profound implications for understanding providence and political theology in Israelite thought.",
+        "Verse 3 presents a wisdom teaching with prophetic resonance, asserting that righteousness and justice (*ṣĕdāqâ ûmišpāṭ*) are preferable to sacrifice. This pairing of ethical conduct over cultic performance echoes similar sentiments in prophetic literature, suggesting shared theological convictions across Israelite literary traditions regarding Yahweh's priorities. The verse has generated interpretive discussion concerning whether it establishes an absolute hierarchy or addresses situations where sacrifice becomes divorced from covenant fidelity.",
+        "The term *tôʿăbat* (abomination) appears multiple times throughout the chapter, designating actions fundamentally incompatible with Yahweh's character, including proud looks, lying lips, and sacrifices offered with wicked intent. This vocabulary connects Proverbs to Deuteronomic and priestly traditions, demonstrating wisdom literature's integration within broader Torah theology.",
+        "The chapter's conclusion emphasizes that human planning and military preparation cannot guarantee success apart from Yahweh, with verse 31 famously declaring that the horse is prepared for battle, but victory belongs to the Lord. This theological affirmation maintains tension between human responsibility in preparation and divine sovereignty over outcomes, a dialectic characteristic of biblical wisdom that resists both fatalism and autonomous self-reliance."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 21: Prophetic perspective",
+      "overview": [
+        "Proverbs 21 emerges from the golden age of Israel's united monarchy, penned during Solomon's reign approximately 950 years before Christ's incarnation. This collection of wisdom sayings belongs to the Kingdom era of redemptive history—that brief, luminous period when Israel dwelt under a king whose wisdom drew nations to Jerusalem, foreshadowing the day when a greater than Solomon would come teaching in parables and manifesting divine wisdom in human flesh.",
+        "The chapter opens with a declaration that thunders across all ages: \"The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.\" Here stands a profound truth that anchors both the immediate context of Davidic monarchy and the cosmic scope of God's sovereign rule over history. Every Pharaoh who hardened his heart, every Cyrus who unknowingly served as God's shepherd, every Caesar whose decree sent Mary to Bethlehem—all moved within the current of divine providence. This verse establishes that human authority, however exalted, remains subordinate to the throne above all thrones.",
+        "Throughout these sayings, the contrast between the righteous and the wicked traces the ancient pattern established at the Fall—two seeds, two ways, two destinies. The sluggard, the mocker, the proud, the violent—these represent humanity in Adam, curved inward upon itself, storing up wrath for the day of judgment. Yet interwoven are glimpses of the righteous one who considers the poor, whose ways are pure, who guards mouth and tongue. Here the wisdom tradition points beyond mere moral instruction toward the One who would perfectly embody every righteous standard, who would become wisdom incarnate.",
+        "Verse 3 carries particular prophetic weight: \"To do righteousness and justice is more acceptable to the LORD than sacrifice.\" This anticipates the prophetic critique that would thunder through Amos, Hosea, and Micah, and finds its ultimate expression in Christ's teaching that mercy triumphs over sacrifice. The entire sacrificial system, still functioning in Solomon's magnificent temple, was already being relativized by divine wisdom—pointing forward to the one offering that would render all bulls and goats obsolete.",
+        "The closing declaration that \"no wisdom, no understanding, no counsel can avail against the LORD\" and that \"victory belongs to the LORD\" speaks directly to the church living between the advents. Though powers rage and schemes multiply, the Lamb has already conquered, and His people await only the visible manifestation of a victory already secured at Calvary."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_021",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.627702+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

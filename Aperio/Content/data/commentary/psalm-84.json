@@ -1,0 +1,57 @@
+{
+  "book": "Psalm",
+  "chapter": 84,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 84 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 84: The Longing for God's House",
+      "overview": [
+        "This psalm captures the ache of the human heart for intimacy with God—a yearning so profound that even the thought of dwelling in His presence outweighs all earthly comfort and security.",
+        "The psalmist begins with an almost desperate cry: \"How lovely is your dwelling place, Lord Almighty!\" (v. 1). There's something beautiful about this emotional honesty. The writer isn't content with distant theology or occasional worship. The heart wants to be *there*, in the very courts of the Lord, experiencing His immediate presence. Even the sparrows and swallows have found their nests in the temple, and the psalmist envies them—they belong to this sacred place in a way the writer longs to belong (v. 3).",
+        "What strikes us is the progression of blessing in verses 4–7. Those who dwell in God's house praise Him continually. Those who find strength in Him, who have highways to Zion mapped in their hearts, experience the valley of weeping transformed into a place of springs—their weakness becomes the very conduit through which God's refreshment flows. This isn't escapism; it's the profound truth that spiritual longing, when directed toward God, doesn't deplete us but awakens us to His sufficiency.",
+        "The closing declaration is audacious: \"Better is one day in your courts than a thousand elsewhere\" (v. 10). A single day in authentic communion with God—in worship, repentance, encounter, and service—holds more weight, more beauty, more nourishment than countless days spent elsewhere, no matter how comfortable.",
+        "Modern life can erode this hunger. We settle into routines without margin for seeking God's presence. We forget that we're made for communion, not just convenience.",
+        "What would change in your life this week if you genuinely believed that one honest hour in God's presence is worth more than a thousand hours of distraction? Where is your heart's true home?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 84: Scholarly study",
+      "overview": [
+        "Psalm 84 stands among the most beloved pilgrimage songs in the Psalter, attributed in its superscription to the Sons of Korah, a guild of temple musicians whose collection includes Psalms 42–49 and 84–88. The psalm expresses profound longing for the sanctuary and the blessedness of those who dwell in God's presence, likely composed for or during one of Israel's three annual pilgrimage festivals when worshippers journeyed to Jerusalem.",
+        "The opening verses employ the term \"lovely\" or \"beloved\" (*yedidot*), conveying not mere aesthetic appreciation but deep emotional attachment to the divine dwelling places (*mishkenot*), a term echoing the tabernacle traditions and emphasizing God's condescension to dwell among his people. The psalmist's soul \"longs\" and \"faints\" (*niksepha* and *kalah*), verbs expressing physical exhaustion from intense desire, while the heart and flesh \"cry out\" (*yeranenu*) to the living God—a striking contrast to lifeless idols.",
+        "The imagery of sparrows and swallows finding nests at the altar presents interpretive challenges. Some scholars read this literally as birds nesting in temple precincts, while others understand it metaphorically, expressing the psalmist's envy of any creature enjoying perpetual proximity to sacred space. The designation \"LORD of hosts\" (*YHWH tsevaot*) appears repeatedly, emphasizing divine sovereignty over heavenly armies and earthly powers alike.",
+        "The central section introduces the \"Valley of Baca\" (*emeq habaka*), a term of uncertain meaning—possibly \"valley of weeping\" or \"valley of balsam trees\"—representing the arduous pilgrimage route transformed into springs by autumnal rains and the pilgrims' faith. This transformation motif suggests that communion with God transfigures hardship into blessing.",
+        "The psalm's theological climax declares that a single day in God's courts surpasses a thousand elsewhere, and standing at the threshold (*histopheph*) of the temple exceeds dwelling in tents of wickedness. The metaphors of sun and shield attribute to YHWH both life-giving illumination and protective care, while the promise of grace and glory (*chen* and *kavod*) encompasses both present favor and eschatological hope. The concluding beatitude frames human flourishing not in material abundance but in unwavering trust in Israel's covenant God."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 84: Prophetic perspective",
+      "overview": [
+        "This psalm flows from the heart of a pilgrim during the period of Israel's united or early divided monarchy, roughly 1000–900 years before Christ's advent. The sons of Korah, descendants of the Levitical gatekeeper who perished in rebellion yet whose line was spared by grace, composed this song for those journeying to Jerusalem's temple for one of the three annual feasts. Within redemptive history, this passage stands firmly in the Kingdom era, after God established His dwelling among His people through tabernacle and temple, yet centuries before exile would strip Israel of that sacred presence and millennia before the true Temple would take on human flesh.",
+        "The psalmist's soul-consuming longing for \"the courts of the LORD\" points beyond Zion's stone sanctuary to something the ancient pilgrim could not fully comprehend. When he declares \"my heart and my flesh cry out for the living God,\" he expresses humanity's deepest ache—the homesickness of exiles east of Eden yearning for restored communion with their Creator. The sparrow and swallow finding nest and home at God's altar typify what every wandering soul seeks: permanent dwelling in divine presence. These humble birds become prophetic pictures of Gentile sinners who would one day find refuge in Christ, the true Altar upon whom sacrifice and sanctuary converge.",
+        "The \"Valley of Baca\"—that weeping, arid passage every pilgrim must traverse—prefigures the present age through which the church journeys. Yet those whose strength is in God transform barren wilderness into springs. This anticipates Isaiah's later vision of desert streams and the Spirit's outpouring at Pentecost, when living water would flow from within Christ's followers regardless of external circumstance.",
+        "The declaration \"a day in your courts is better than a thousand elsewhere\" and the choice to be \"a doorkeeper in the house of my God\" find their ultimate fulfillment in the new covenant reality. The LORD as \"sun and shield\" bestowing \"grace and glory\" prophetically compresses the two advents: grace poured out at Christ's first coming, glory to be revealed at His return. The promise that God withholds \"no good thing from those who walk uprightly\" awaits its consummation when the Blessed One returns and His people inherit all things.",
+        "The church today remains a pilgrim people, traveling through Baca's valley toward the heavenly Jerusalem. The longing this psalm awakens will only find its complete satisfaction when we see Him face to face and dwell eternally in the sanctuary not made with hands."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_084",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.35161+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

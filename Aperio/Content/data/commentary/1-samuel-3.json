@@ -1,0 +1,55 @@
+{
+  "book": "1 Samuel",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 3: When God Calls Through the Darkness",
+      "overview": [
+        "The deepest longing of God is to speak into the lives of His people, and this passage shows us how He pursues us even when we're too young or inexperienced to recognize His voice. Samuel's story teaches that God doesn't wait for us to be ready or accomplished before He calls—He speaks into the vulnerability and openness of a willing heart.",
+        "The setting is significant: darkness covers the temple where Samuel sleeps, the lamp of God is about to go out, and the word of the Lord is rare in those days. Israel has lost its way spiritually, yet God hasn't abandoned His people. He calls out to a boy—young, untrained, uncertain. Samuel doesn't immediately recognize God's voice because he's never heard it before. He runs to Eli thinking the priest has summoned him, and Eli's gentle patience becomes the bridge that helps Samuel understand what's happening. This is how God often works: through community, through mentors, through people who help us recognize the divine voice when it comes.",
+        "The beauty lies in Samuel's simple obedience. After Eli instructs him, Samuel lies down and opens himself to hear again. \"Speak, for your servant is listening.\" What a posture—not demanding or questioning, but receptive and ready. God's message to Samuel is difficult; it involves judgment on Eli's household. Yet Samuel doesn't shy away from delivering it, despite knowing it will pain the man who has cared for him.",
+        "This passage invites us into a crucial question about our own lives: Are we listening? In seasons of spiritual darkness and cultural noise, are we developing the sensitivity to recognize God's voice? Are we cultivating mentors like Eli who help us interpret what we're hearing? Are we prepared to obey even when God's direction is costly or uncomfortable?",
+        "What area of your life right now requires you to slow down, listen, and say, \"Speak, Lord, your servant is listening\"?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 3: Scholarly study",
+      "overview": [
+        "The third chapter of First Samuel narrates the pivotal moment when the young Samuel receives his prophetic calling, marking a transition in Israel's spiritual leadership from the declining house of Eli to a new era of prophetic guidance. This account emerges from a period characterized by spiritual malaise, as the narrator emphasizes that \"the word of the LORD was rare in those days; there was no frequent vision\" (v. 1). The historical setting places Samuel in the sanctuary at Shiloh, likely during the latter half of the eleventh century BCE, serving under the aging priest Eli whose sons had thoroughly corrupted the priesthood.",
+        "The narrative employs the significant term *davar* (דָּבָר), meaning \"word\" or \"matter,\" which appears throughout the chapter to underscore the restoration of divine communication to Israel. The observation that Samuel \"did not yet know the LORD\" (v. 7) uses *yada'* (יָדַע), indicating not mere intellectual awareness but experiential, relational knowledge—Samuel had not yet encountered Yahweh in prophetic revelation. The threefold repetition of God's call before Samuel's recognition creates deliberate narrative tension, highlighting both the unfamiliarity of prophetic experience in that era and Samuel's need for Eli's guidance to discern the divine voice.",
+        "The chapter's literary structure moves from setting (vv. 1-3) through the call sequence (vv. 4-14) to its aftermath and authentication (vv. 15-21). The detail that \"the lamp of God had not yet gone out\" (v. 3) carries symbolic weight, suggesting both the temporal setting before dawn and perhaps the flickering but not yet extinguished state of Israel's spiritual life. The message Samuel receives—judgment against Eli's house—creates profound dramatic irony, as the elderly priest who facilitated Samuel's calling must hear through this child the confirmation of his family's doom.",
+        "Scholars have debated whether this account represents a call narrative comparable to those of Moses or Isaiah, or constitutes a distinct genre of prophetic commissioning. The chapter concludes by establishing Samuel's credentials: none of his words \"fell to the ground\" (v. 19), employing *naphal* (נָפַל) to indicate unfulfilled prophecy, thus authenticating Samuel as Yahweh's trustworthy spokesman throughout Israel from Dan to Beersheba."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 3: Prophetic perspective",
+      "overview": [
+        "The events of 1 Samuel 3 unfold approximately 1100 years before the incarnation of Christ, during the turbulent period of the judges when Israel had no king and \"everyone did what was right in his own eyes.\" This chapter stands at a pivotal hinge in redemptive history—the transition from the era of judges toward the establishment of the monarchy that would eventually produce David's throne, the very throne upon which Messiah would eternally reign.",
+        "The opening declaration that \"the word of the LORD was rare in those days\" and \"there was no frequent vision\" describes a spiritual famine that typologically anticipates every age when God's voice grows silent before a fresh redemptive movement. Just as the four hundred years of silence between Malachi and Matthew preceded the coming of Christ, so this prophetic drought preceded the raising up of Samuel, the greatest prophet since Moses until John the Baptist. The lamp of God had \"not yet gone out\" in the tabernacle—a detail laden with meaning, for God was about to rekindle prophetic fire through an unlikely vessel: a young boy sleeping in the holy precincts.",
+        "Samuel's threefold calling and his gradual recognition of the divine voice presents a pattern repeated throughout Scripture whenever God raises up covenant servants. The boy who \"did not yet know the LORD\" becomes the man through whom the LORD would establish His word in Israel. Here is a type of every believer's awakening—hearing the voice of the Good Shepherd who calls His sheep by name, learning to respond with Samuel's paradigmatic surrender: \"Speak, LORD, for your servant hears.\"",
+        "The prophetic word given to Samuel concerning Eli's house demonstrates a principle that echoes into eternity: judgment begins at the house of God. The sins of Eli's sons, which he failed to restrain, would bring irreversible consequences. This oracle of doom anticipates the pattern whereby corrupt priesthoods must fall before God establishes something greater—ultimately the eternal priesthood of Christ, who offered not bulls and goats but Himself.",
+        "Samuel's emergence as a prophet \"from Dan to Beersheba\" established the office that would persist until the Prophet like Moses appeared. The church now lives as those who possess what Samuel anticipated: the word of God fully revealed in Christ, the Spirit poured out so that sons and daughters prophesy, and the certain hope that He who spoke through the prophets will speak once more at the final trumpet."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.397077+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

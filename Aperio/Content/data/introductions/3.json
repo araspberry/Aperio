@@ -1,0 +1,134 @@
+{
+  "book": "Numbers",
+  "bookIndex": 3,
+  "status": "Editorial draft",
+  "title": "The Difficult Road Between Promise and Possession",
+  "subtitle": "A wilderness generation, a new beginning, and God’s persistent faithfulness",
+  "atAGlance": {
+    "genre": "Wilderness narrative, census lists, laws, and poetry",
+    "setting": "From Sinai through the wilderness to the plains of Moab",
+    "composition": "Part of the traditionally Mosaic Torah; the formation of its narrative and priestly materials is debated",
+    "audience": "Israel considering its failures, its responsibilities, and its future in the land"
+  },
+  "sections": [
+    {
+      "title": "A community preparing to move",
+      "paragraphs": [
+        "Numbers begins with a people being counted and arranged for travel. The lists can feel distant until we see their purpose: households have places, duties must be shared, and the tabernacle stands at the center of the camp. This is the organization of a community learning to move together. The priestly blessing in chapter 6 gives a different kind of summary of what that community needs: God’s protection, favor, and peace.",
+        "The first part of the book devotes considerable attention to preparation. Offerings, service, purity, and the cloud’s movements show that travel is more than a change of location. Israel’s daily life is to take its bearings from God’s presence. Yet the careful beginning also prepares us for the contrast that follows, when a well-ordered camp proves unable to manufacture trust."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Fear at the edge of the future",
+      "paragraphs": [
+        "Complaints break out soon after departure. Weariness, appetite, envy, and anxiety become matters of communal consequence. Moses himself reaches a point of deep exhaustion. These scenes recognize that leadership and shared life can be costly, while also exposing the damage caused when hardship becomes a reason to reject the God who brought Israel out of Egypt.",
+        "The scouts’ report in chapters 13–14 brings the conflict to a turning point. The land’s goodness is acknowledged, but fear of its inhabitants controls the people’s response. Joshua and Caleb urge trust; the community chooses retreat in its imagination. A generation that has witnessed deliverance will not enter the promised land. The wilderness years reveal how one generation’s decisions can shape the lives of those who come after it."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Judgment does not cancel the journey",
+      "paragraphs": [
+        "Numbers includes rebellions against leadership, disputes about priestly responsibility, deaths, and failures involving Moses and Aaron themselves. It gives no easy exemption to its central figures. God’s holiness applies to leaders as well as to the people they serve. At the same time, instructions about future offerings and life in the land continue to appear. The placement of those laws keeps a future before the community even after its grave failures.",
+        "Balaam’s story shifts the viewpoint outside Israel’s camp. A foreign ruler tries to secure a curse, but the intended curse becomes blessing. The contrast is striking: Israel’s insecurity is real, yet another scene reveals a promise beyond the people’s control. The subsequent disaster at Peor prevents readers from turning that protection into a guarantee that choices no longer matter."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "A new generation must learn to inherit",
+      "paragraphs": [
+        "The second census marks a changed community. Questions of land, succession, worship, and justice now prepare the next generation for responsibilities its parents did not fulfill. The daughters of Zelophehad bring an inheritance concern before Moses, and their case becomes part of the community’s instruction. Joshua is commissioned publicly, reminding Israel that God’s work will continue through a change of leadership.",
+        "The book closes across the Jordan from Canaan. Its story is still incomplete. Lists of journeys and boundaries invite memory, while laws concerning refuge and bloodshed insist that receiving land carries moral obligations. Read these concluding chapters as preparation for a society, not as an administrative appendix with no spiritual significance."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "How the timeline helps",
+      "paragraphs": [
+        "Numbers covers the wilderness generation between Sinai and the approach to Canaan. Its two censuses frame a long interval, but assigning modern calendar years to each chapter would obscure both the uncertainties of exodus dating and the book’s arrangement of narrative and law. Its final literary form belongs to the wider discussion of how the Torah was preserved and composed.",
+        "As you read, trace what changes and what continues. Leaders age and die; a new generation is counted; fear repeatedly threatens the journey. God’s purpose nevertheless remains before Israel. The book invites sober attention to the habits a community passes on, and to the possibility that those who inherit a troubled history can learn to walk differently."
+      ],
+      "sourceIds": [
+        "text",
+        "intro"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Preparation at Sinai",
+      "startChapter": 1,
+      "endChapter": 10,
+      "description": "The camp is counted, ordered, blessed, and prepared; the departure begins in chapter 10."
+    },
+    {
+      "label": "Rebellion and wilderness years",
+      "startChapter": 11,
+      "endChapter": 21,
+      "description": "Complaint, fear, judgment, and new encounters shape the journey toward Canaan."
+    },
+    {
+      "label": "Balaam and the crisis at Peor",
+      "startChapter": 22,
+      "endChapter": 25,
+      "description": "Attempted curses become blessing, followed by a grave failure within Israel."
+    },
+    {
+      "label": "The next generation",
+      "startChapter": 26,
+      "endChapter": 36,
+      "description": "A new census, succession, inheritance, worship, and land instructions prepare Israel’s future."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Trust under pressure",
+      "description": "Fear can reshape a community’s response to a genuinely good promise."
+    },
+    {
+      "name": "Shared responsibility",
+      "description": "Leadership, inheritance, and worship involve the whole people."
+    },
+    {
+      "name": "Continuing promise",
+      "description": "Judgment changes the journey without erasing God’s purpose for its future."
+    }
+  ],
+  "timeline": {
+    "era": "exodus",
+    "dateLabel": "The wilderness generation",
+    "context": "Israel travels from Sinai to the eastern approach to Canaan.",
+    "note": "Dates describe the narrative era; the book does not supply a secure modern date for every episode."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 36,
+      "era": "exodus",
+      "label": "Wilderness journey",
+      "dateLabel": "Between Sinai and entry into Canaan",
+      "note": "The two censuses frame the passing of one generation and the preparation of another."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "Numbers · Berean Standard Bible",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "intro",
+      "label": "Scholarly introduction · Numbers",
+      "url": "https://bible.usccb.org/bible/numbers/0"
+    }
+  ]
+}

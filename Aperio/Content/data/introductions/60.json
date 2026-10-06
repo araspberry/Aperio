@@ -1,0 +1,129 @@
+{
+  "book": "2 Peter",
+  "bookIndex": 60,
+  "status": "Editorial draft",
+  "title": "2 Peter: Remember, Grow, and Remain Steady",
+  "subtitle": "A final apostolic charge confronts destructive teaching and anchors patient hope in God’s promise.",
+  "atAGlance": {
+    "genre": "Letter with farewell-testament features",
+    "setting": "Communities facing false teaching, moral corruption, and skepticism about Christ’s promised return.",
+    "composition": "Names Simeon Peter. Traditional authorship places it before Peter’s death; many scholars favor a later first- or early second-century composition in his name.",
+    "audience": "Believers called to preserve apostolic teaching and grow in the knowledge of Christ."
+  },
+  "sections": [
+    {
+      "title": "Remembering in order to grow",
+      "paragraphs": [
+        "Second Peter begins with a generous account of what God has given: the knowledge of Christ, precious promises, and the resources for a godly life. The response is active growth. Faith is to be accompanied by goodness, understanding, self-control, perseverance, devotion, mutual affection, and love. The letter’s concern with doctrine is therefore inseparable from the character it produces.",
+        "The author presents his counsel as a reminder offered before his approaching death. What the community already knows must become something it can continue to live from when its teachers are gone. Remembering is a form of preparation. The letter asks whether the church can remain faithful through generational change, disturbing claims, and the disappointment that arises when hope seems slow to be fulfilled."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Peter’s name and the work’s formation",
+      "paragraphs": [
+        "The opening names Simeon Peter and claims apostolic standing. The first chapter recalls the transfiguration as an eyewitness experience. Traditional interpretation receives the letter as Peter’s own farewell instruction. Many modern scholars regard its style, relationship to Jude, and developed concerns as evidence of a later work written in his name. Suggested dates commonly extend from the later first century into the early second century.",
+        "The difference from First Peter is substantial, and the exact relationship between the two remains discussed. The reference to Paul’s letters near the end also matters for understanding the work’s place within early Christian reflection. None of these questions should be concealed, but neither should they prevent close attention to the letter’s stated purpose: preserving trustworthy witness and encouraging a life consistent with the promised future of Christ."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Witness and the responsibility of interpretation",
+      "paragraphs": [
+        "The transfiguration account supports the proclamation of Jesus’ majesty and the promise of His coming. The prophetic word is compared to a lamp shining in a dark place. Its function is to guide attention until fuller light arrives. Scripture is presented as arising through people moved by the Holy Spirit, giving the community reason to attend to it carefully.",
+        "The final chapter acknowledges that some things in Paul’s letters are difficult to understand and can be distorted. That admission is itself a useful discipline for Bible study. Difficulty should prompt patient interpretation rather than a performance of certainty. The letter’s appeal to reliable testimony is joined to a warning that sacred language can be manipulated. A claim to spiritual insight must be tested by its handling of truth and its effect on conduct."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The danger of freedom without integrity",
+      "paragraphs": [
+        "Chapter 2 describes teachers whose promises of freedom conceal their own captivity to destructive desires. Greed, exploitation, arrogant speech, and sexual wrongdoing appear among the charges. The rhetoric is severe because the community’s vulnerability is real: appealing words may draw people toward harm while presenting that harm as liberation.",
+        "Examples from earlier Scripture recall both judgment and rescue. The point is that God is able to distinguish the faithful from those who exploit others. These warnings should lead toward discernment and accountable conduct, rather than suspicion of every disagreement. The letter opposes a particular combination of corrupt teaching and destructive practice. Its opening call to goodness, self-control, and love supplies a positive measure against which leadership can be examined."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Patience and the promise of a renewed world",
+      "paragraphs": [
+        "Chapter 3 answers scoffers who question the promised coming of the Lord. The delay is interpreted through God’s patience and desire for repentance. The comparison of a day with a thousand years emphasizes that God’s relation to time exceeds human impatience; it does not provide a formula for calculating a date.",
+        "The description of judgment leads to a question about present holiness. The expected new heavens and new earth are characterized by righteousness. That future asks something of the community now: diligence, peace, and growth in grace and the knowledge of Jesus. The letter ends with that constructive invitation.",
+        "Read Second Peter by keeping its first and final appeals together. Its warnings are framed by gifts received and growth still possible. Hope is neither an excuse for moral carelessness nor a schedule available to human control. It is a reason to live responsibly while trusting God’s patience and justice. The community is called to become more discerning, more faithful, and more deeply formed by the Lord whose coming it awaits."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "Growth and remembered witness",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "God’s gifts, mature character, the farewell charge, and prophetic testimony."
+    },
+    {
+      "label": "Destructive teachers and divine judgment",
+      "startChapter": 2,
+      "endChapter": 2,
+      "description": "Warnings against exploitation, corruption, and false freedom."
+    },
+    {
+      "label": "Patient hope and holy conduct",
+      "startChapter": 3,
+      "endChapter": 3,
+      "description": "The promised coming, God’s patience, new creation, and growth in grace."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Growth in grace",
+      "description": "True knowledge of Christ develops a mature and loving character."
+    },
+    {
+      "name": "Responsible interpretation",
+      "description": "Apostolic and prophetic testimony must be handled faithfully."
+    },
+    {
+      "name": "Patient expectation",
+      "description": "God’s promise forms present conduct without yielding a timetable."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Early church; first- or early second-century composition debated",
+    "context": "The letter speaks in Peter’s farewell setting while addressing ongoing questions about Christ’s return. Its visions of judgment and renewal are not calendar dates.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 3,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Early church; first- or early second-century composition debated",
+      "note": "The letter speaks in Peter’s farewell setting while addressing ongoing questions about Christ’s return. Its visions of judgment and renewal are not calendar dates."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "2 Peter · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "2 Peter · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/2-peter/lessons/summary-of-2-peter/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Luke",
+  "chapter": 10,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Luke 10 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Luke 10: The Heart of Loving Service",
+      "overview": [
+        "Luke 10 reveals Jesus' vision of what authentic discipleship looks like—a radical simplicity that prioritizes the Kingdom's advancement over personal comfort, and genuine presence over performance. Through the sending of the seventy, Jesus shows us that Kingdom work happens through ordinary people responding to His call with open hearts and willing feet.",
+        "The passage opens with Jesus sending out seventy disciples in pairs, instructing them to travel light, greet houses earnestly, and proclaim that God's Kingdom has come near. There's something profoundly liberating here. Jesus doesn't send them with elaborate strategies or impressive credentials. He sends them with nothing but His authority and a message. This invites us to ask: What am I clinging to that keeps me from wholehearted availability to God's work? What possessions or plans become barriers to being sent?",
+        "The disciples return rejoicing that even demons submit to Jesus' name, yet Jesus redirects their attention from external victories to something far deeper—their names being written in heaven. This reorientation matters enormously for our spiritual lives. We often measure success by results we can see and celebrate. Jesus gently reminds us that what truly counts is our relationship with Him, our security in His love, not the applause of the world or even the thrilling experiences of answered prayer.",
+        "Then comes the beautiful interchange with Mary and Martha. Martha busies herself with hospitality while Mary sits at Jesus' feet, listening. Martha wasn't wrong to serve, but she missed the more important thing—the presence of Jesus Himself. How often do we serve God while neglecting our relationship with Him? How easily our good intentions become frantic works that distance us from the very One we claim to serve?",
+        "Luke 10 invites us into a deeper discipleship where simplicity, presence, and relationship with Jesus take priority over productivity and performance.",
+        "What area of your life might Jesus be inviting you to simplify so you can sit more fully at His feet?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Luke 10: Scholarly study",
+      "overview": [
+        "Luke 10 represents a significant expansion of Jesus's mission beyond the Twelve, as the Third Evangelist uniquely records the commissioning of seventy (or seventy-two, depending on textual tradition) additional disciples. This chapter, situated within Luke's extensive travel narrative (9:51–19:27), demonstrates the author's particular interest in the universal scope of the gospel and the democratization of discipleship. The textual variant between \"seventy\" and \"seventy-two\" (ἑβδομήκοντα versus ἑβδομήκοντα δύο) likely reflects symbolic associations—seventy recalling the nations of Genesis 10 or the elders of Israel, while seventy-two may allude to the Septuagint's rendering of the nations or the translators of that Greek version.",
+        "The harvest imagery opening this commissioning (θερισμός, *therismos*) draws upon prophetic eschatological traditions where harvest signifies divine judgment and ingathering. Jesus's instructions regarding travel provisions and greeting protocols reflect first-century Palestinian hospitality customs while simultaneously emphasizing eschatological urgency. The pronouncement of \"peace\" (εἰρήνη, *eirēnē*) upon households carries covenantal weight beyond mere salutation, representing the Hebrew concept of *shalom* as comprehensive well-being and right relationship with God.",
+        "The woe oracles against Chorazin, Bethsaida, and Capernaum employ the rhetorical device of comparison with Gentile cities—Tyre, Sidon, and even Sodom—to heighten the culpability of those who witnessed Jesus's mighty works yet remained unrepentant. This inversion of expected categories anticipates Luke's broader theme of Gentile receptivity contrasted with Jewish rejection.",
+        "The chapter's theological apex occurs in verses 21–22, where Jesus's prayer reveals an intimate Father-Son relationship expressed through the term of endearment \"Father\" (πάτερ, *pater*) and mutual knowledge language reminiscent of Johannine theology. Scholars have long debated whether this passage represents an early Johannine tradition preserved in the Synoptic tradition or reflects common early Christian theological reflection.",
+        "The parable of the Good Samaritan, unique to Luke, subverts contemporary ethnic and religious boundaries by making the despised Samaritan the moral exemplar. The concluding Mary and Martha pericope further advances Lukan themes by validating women as disciples who sit at Jesus's feet—the posture of rabbinic students—prioritizing contemplative reception of Jesus's word alongside active service."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Luke 10: Prophetic perspective",
+      "overview": [
+        "Luke chapter ten unfolds during the final year of Christ's earthly ministry, approximately AD 32, as Jesus steadfastly sets His face toward Jerusalem and the cross that awaits Him there. This places the passage at the climactic hinge point of redemptive history—the long-promised Seed of Abraham, the true Son of David, now walks among His people, and the kingdom of God has drawn near in His very person. We stand here between the promises given to the patriarchs and the fulfillment about to be accomplished at Calvary, watching as the Incarnate Word trains His servants for the harvest that will follow Pentecost.",
+        "The sending of the seventy disciples carries rich typological weight, echoing the seventy elders appointed under Moses to share in the Spirit's anointing for leadership over Israel. Yet here the number suggests something greater—the seventy nations of Genesis ten, a prophetic foreshadowing that this gospel will break beyond Israel's borders to encompass all peoples. Jesus sends them as lambs among wolves, a deliberate inversion of worldly power, for the kingdom advances not through political might but through the weakness of proclamation and the authority of the Name.",
+        "When the seventy return rejoicing that demons submit to them, Jesus unveils a staggering vision: \"I saw Satan fall like lightning from heaven.\" This is prophetic declaration compressed into a single image. The ministry of these humble messengers participates in the cosmic defeat of the serpent promised in Eden. What began as a whispered curse in Genesis three now thunders toward fulfillment—the ancient dragon's dominion is being dismantled through the advancing kingdom. Yet Christ redirects their joy from power over spirits to the deeper reality: their names written in heaven, pointing forward to the Lamb's book of life.",
+        "The parable of the Good Samaritan shatters ethnic and religious boundaries, typologically presenting Christ Himself as the true Neighbor who finds humanity stripped, wounded, and left for dead by sin. Neither priest nor Levite—neither temple sacrifice nor ceremonial law—can heal the dying traveler. Only the despised One, rejected by the religious establishment, pours out oil and wine, binds wounds, and pays the full price for restoration. The inn becomes the church, where the wounded are cared for until the Samaritan returns—a portrait of Christ's provision during His absence and His promised second coming.",
+        "Martha and Mary present the church's perpetual tension: distracted service versus seated worship. Mary chooses the \"one thing needful,\" modeling the posture of all believers who await their Lord's return—listening at His feet, treasuring His word, knowing that kingdom work flows from kingdom communion."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "42_010",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.570453+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

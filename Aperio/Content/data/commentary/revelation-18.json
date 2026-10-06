@@ -1,0 +1,55 @@
+{
+  "book": "Revelation",
+  "chapter": 18,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Revelation 18 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Revelation 18: The Fall of Babylon and the Lure of Earthly Empire",
+      "overview": [
+        "When the world's greatest power falls, God's people discover that nothing built apart from Christ's kingdom ultimately stands. Revelation 18 confronts us with the stunning collapse of Babylon—that great city representing human achievement, commerce, and glory divorced from God—and invites us to reconsider what we're truly building our lives upon.",
+        "The chapter unfolds the interconnectedness of false prosperity. Kings grew rich through Babylon's luxury, merchants profited enormously from her insatiable appetites, and the whole economic system became intoxicated with the illusion of permanence. Yet in a single hour, judgment comes. The imagery is devastatingly complete: what brought such pleasure becomes source of weeping; the very merchants who rejoiced now stand at distance, mourning their lost fortunes. There's a profound warning here about systems of injustice—Babylon's fall reveals that prosperity built on exploitation and idolatry cannot endure.",
+        "But notice what's striking about the chapter's emotional arc. Heaven rejoices while earth weeps. The saints, apostles, and prophets are vindicated, their patience rewarded, their suffering acknowledged. This suggests something crucial: when we witness injustice thriving in our world, when corrupt systems seem invincible, the call is not to despair but to remember that God sees, God judges, and God's kingdom will ultimately triumph. The merchants' wealth means nothing; the martyrs' faithfulness means everything.",
+        "For those of us living in prosperous societies, this passage cuts close. We benefit from systems we don't fully examine. We're tempted by comforts that whisper permanence. Yet we're invited to hold everything loosely, to build our lives on the rock of Christ rather than the sand of earthly empire. Our true citizenship lies elsewhere.",
+        "What aspects of worldly success am I most reluctant to release? What would it mean to truly invest my life in Christ's kingdom rather than Babylon's?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Revelation 18: Scholarly study",
+      "overview": [
+        "Revelation 18 presents one of the most vivid prophetic oracles in the New Testament canon, depicting the catastrophic fall of \"Babylon the Great\" through a carefully constructed literary tapestry that draws extensively from Old Testament prophetic traditions, particularly the oracles against Tyre in Ezekiel 26-27 and against historical Babylon in Isaiah 13, 21, and Jeremiah 50-51. The chapter functions as an extended theodicy, demonstrating divine judgment against systemic evil while simultaneously calling God's people to moral separation from corrupt systems.",
+        "The identification of Babylon has generated considerable scholarly debate. While some interpreters maintain a futurist reading pointing toward a literal rebuilt Babylon or end-time world system, the majority of scholars recognize Rome as the immediate referent, given the first-century context and the clear parallels with contemporary critiques of Roman imperial power. The term \"Babylon\" (Βαβυλών, *Babylōn*) itself became a coded designation for Rome in both Jewish and Christian apocalyptic literature, as evidenced in 1 Peter 5:13 and various Second Temple texts.",
+        "The chapter's structure alternates between angelic proclamations and responsive laments from three groups—kings, merchants, and mariners—each mourning their lost economic relationships with the fallen city. The repeated cry \"ouai, ouai\" (οὐαί, οὐαί, \"woe, woe\") punctuates these dirges with liturgical intensity. Particularly significant is the catalog of trade goods in verses 12-13, which climaxes shockingly with \"bodies and souls of human beings\" (σωμάτων, καὶ ψυχὰς ἀνθρώπων), exposing the slave trade that undergirded Roman prosperity and rendering explicit judgment against economic systems built upon human exploitation.",
+        "The command to \"come out of her, my people\" (ἐξέλθατε, *exelthate*, verse 4) echoes Isaiah 48:20 and Jeremiah 51:45, presenting a recurring biblical motif of separationist ethics. This imperative raises interpretive questions about whether John envisions physical withdrawal or moral-spiritual distinction from imperial values. The theological weight falls upon the latter, as complete physical separation from Roman society was practically impossible for Asian Christians. The chapter ultimately affirms divine sovereignty over human economic and political systems, declaring that no empire built upon injustice and idolatry can ultimately endure before the righteous judgment of God."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Revelation 18: Prophetic perspective",
+      "overview": [
+        "Revelation 18 stands at the threshold of consummation, written through the apostle John near the close of the first century, approximately sixty years after Christ's ascension. This prophetic vision reaches forward to events that remain largely unfulfilled, depicting the final collapse of humanity's organized rebellion against God just before the return of Christ and the establishment of His eternal kingdom. Within the grand redemptive arc, this chapter occupies the climactic moment between the church age and the Second Coming, echoing and completing the judgment oracles against Babylon, Tyre, and Nineveh that thundered through Isaiah, Jeremiah, and Ezekiel centuries before.",
+        "The great city called Babylon functions as the consummate antitype of everything opposed to the City of God. Just as ancient Babel represented humanity's first collective rebellion, gathering in pride to build a name apart from the Lord, and just as historical Babylon carried Judah into exile, destroying Solomon's temple and seemingly extinguishing the lamp of David's throne, so this final Babylon represents the ultimate concentration of human autonomy, economic idolatry, and spiritual adultery. She is the harlot counterpart to the Bride of Christ—where the Church adorns herself with righteous deeds, Babylon decks herself with the blood of saints and the luxuries extracted through exploitation.",
+        "The merchants weeping over her fall reveal the nature of her sorcery: she seduced the nations through commerce disconnected from covenant, through wealth that numbed the conscience, through systems that traded even in \"bodies and souls of men.\" Here the prophetic word unmasks every empire that has promised security and pleasure while demanding ultimate allegiance. Rome, with her seven hills and imperial cult, stood as the immediate referent for John's first readers, yet the vision transcends any single historical manifestation. Babylon is a recurring pattern throughout history and a final reality yet to be destroyed.",
+        "The call to \"come out of her, my people\" echoes the exodus pattern woven throughout Scripture—from Lot fleeing Sodom, to Israel departing Egypt, to the remnant returning from Mesopotamian captivity. God perpetually summons His people to separation before judgment falls, offering rescue to all who will heed.",
+        "For the Church dwelling between the advents, this chapter serves as both warning and comfort. The warning: do not become intoxicated with the systems of this age, for their collapse is certain. The comfort: heaven rejoices at her fall because God has judged her for the blood of apostles and prophets. Justice delayed is not justice denied. The Lamb who was slain will vindicate His own."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "66_018",
+    "sourceGeneratedAt": "2026-05-07 18:34:38.096184+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

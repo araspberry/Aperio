@@ -1,0 +1,55 @@
+{
+  "book": "Jeremiah",
+  "chapter": 37,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Jeremiah 37 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Jeremiah 37: Faith When Everything Falls Apart",
+      "overview": [
+        "The spiritual heart of this chapter rests in a profound paradox: the man of God finds himself imprisoned not because he has failed, but because he has faithfully spoken what God commanded, even when it cost him everything. Jeremiah's imprisonment during Jerusalem's final siege is a portrait of what it means to stand firm in truth when the world crumbles around you.",
+        "King Zedekiah, caught between fear and political pressure, asks Jeremiah to pray for deliverance from the Babylonian armies. There is something both pitiful and instructive in this scene. The king recognizes that Jeremiah speaks for God, yet refuses to obey the word Jeremiah brings. He wants the benefits of the prophet's intercession without accepting the prophet's message—a temptation that runs through every generation. We too often ask God to bless our plans rather than transform our hearts toward His will.",
+        "What unfolds is a test of Jeremiah's own faith. Though the prophet warned of Judah's fall, he himself faced execution for treason. His fellow citizens mocked him as a traitor. The dungeon held him captive. Yet Jeremiah's integrity remained uncompromised. He did not soften his message to earn comfort. He did not recant to escape suffering. This reveals a deeper truth about discipleship: our faith is not validated by circumstances improving, but by our willingness to follow Christ regardless of the cost.",
+        "The chapter shows us that sometimes obedience leads to the dungeon, not deliverance. Sometimes God's prophets suffer. Yet Jeremiah's story assures us that God sees His faithful ones in darkness, and their words—though rejected in their time—carry eternal weight. The word of the Lord cannot be imprisoned, even when His messengers are.",
+        "What truth has God called you to speak or live, even when it brings discomfort? How might your faithfulness today plant seeds for generations who will not yet see the fruit?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Jeremiah 37: Scholarly study",
+      "overview": [
+        "Jeremiah 37 presents a critical historical moment during the final years of Judah's monarchy, set against the backdrop of Nebuchadnezzar's siege of Jerusalem in 588–586 BCE. The chapter opens by introducing Zedekiah son of Josiah, whom Nebuchadnezzar had installed as a puppet king following the deportation of Jehoiachin (called Coniah here). This political arrangement fundamentally shaped the theological crisis at hand: Zedekiah's legitimacy derived from Babylonian power, yet he repeatedly entertained hopes of Egyptian deliverance—a tension that pervades this narrative.",
+        "The temporary lifting of the Babylonian siege due to the approach of Pharaoh Hophra's army (verse 5) created a moment of false hope that exposed the theological fault lines in Jerusalem. Zedekiah's inquiry of Jeremiah through messengers demonstrates the king's ambivalent relationship with prophetic authority—he sought divine guidance while simultaneously refusing to heed it. The Hebrew term *dāvār* (word/matter) appears repeatedly, underscoring that authentic prophetic speech remained available even as the nation rejected it. Jeremiah's response employs striking imagery: the Chaldean army will return, and even if reduced to wounded men (*ʾănāšîm mĕduqqārîm*), these pierced survivors would still burn Jerusalem—a rhetorical hyperbole emphasizing divine inevitability.",
+        "The latter portion recounts Jeremiah's arrest at the Benjamin Gate on charges of desertion (*nōpēl*, \"falling away\" to the Chaldeans). This accusation carried particular weight given Jeremiah's consistent counsel to surrender. His imprisonment in the house of Jonathan the scribe, described using the term *bêt habbôr* (house of the pit/cistern), foreshadows the cistern episode in chapter 38. Zedekiah's secret consultation with the imprisoned prophet reveals the king's tragic paralysis—privately seeking truth while publicly capitulating to courtly pressure.",
+        "Interpreters debate whether Zedekiah's modest mercy in transferring Jeremiah to the court of the guard reflects genuine sympathy or mere political calculation. The chapter functions literarily as a hinge between the oracle collections and the extended siege narrative, establishing patterns of royal consultation, prophetic persistence, and institutional opposition that intensify through chapter 38. Theologically, the passage illustrates how authentic prophetic witness continues despite persecution, embodying the Deuteronomic principle that divine warning precedes judgment."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Jeremiah 37: Prophetic perspective",
+      "overview": [
+        "Jeremiah 37 unfolds approximately 587 BC, mere months before Babylon's final conquest of Jerusalem, during the brief reign of Zedekiah—Judah's last king, a puppet monarch installed by Nebuchadnezzar himself. This chapter captures the death throes of the Davidic kingdom's earthly expression, occurring roughly six centuries before Christ's birth and representing the lowest point of the Kingdom-to-Exile transition in redemptive history. The promises to David seemed to hang by a thread as the covenant people faced the consequences of centuries of unfaithfulness.",
+        "The scene opens with a temporary Egyptian intervention that causes Babylon's siege to lift, filling Jerusalem with false hope. Zedekiah secretly sends messengers to Jeremiah, desperately seeking a favorable word from the Lord—yet this same king refuses to heed the prophet's consistent warnings. Here emerges a devastating portrait of spiritual blindness: a man who wants God's deliverance without God's terms, who craves prophetic comfort while rejecting prophetic correction. Zedekiah typologically represents all who approach God seeking benefits while spurning His lordship, those who inquire of heaven while their hearts remain earthbound.",
+        "Jeremiah's imprisonment in the cistern-dungeon carries profound typological weight. The faithful prophet suffers at the hands of those he came to save, accused of treachery while speaking truth, abandoned to darkness and mire for proclaiming God's word. In this suffering servant, we glimpse shadows of the Greater Prophet who would come—rejected by His own, delivered to authorities by fearful leaders, condemned though innocent. The prophet descends into the pit; Christ would descend into death itself.",
+        "The Babylonian threat represents more than military invasion; it embodies God's covenant lawsuit against His people. The exile now certain would become the great valley of shadow through which Israel must pass before restoration. Yet hidden within this judgment lies mercy—those who submit to Babylon's yoke will live. This paradox of life-through-surrender foreshadows the gospel's deeper mystery: those who lose their lives find them.",
+        "For the church dwelling between Christ's advents, Jeremiah 37 speaks with piercing relevance. Zedekiah's fatal compromise warns against seeking God's blessing while resisting His reign. Jeremiah's faithfulness amid rejection encourages perseverance when truth proves costly. Most profoundly, this chapter reminds believers that God's purposes advance precisely through what appears to be their destruction—exile prepares for return, the cross precedes resurrection, and present suffering yields eternal glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "24_037",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.002998+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

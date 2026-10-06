@@ -1,0 +1,55 @@
+{
+  "book": "Job",
+  "chapter": 31,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Job 31 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Job 31: The Integrity That Sustains a Soul",
+      "overview": [
+        "In this remarkable chapter, Job stakes his entire reputation and standing before God on the rock-solid foundation of his moral integrity—and in doing so, he reveals what it truly means to walk with God when everything else has been stripped away.",
+        "Job's declaration is not arrogance but desperate honesty. He has lost his children, his wealth, his health, and the comfort of his wife's support. His friends have accused him of hidden sin, suggesting his suffering is divine punishment for moral failure. In response, Job essentially says: \"Let me lay bare my life before the Almighty. Examine every corner of my heart.\" This is the cry of someone who knows that if his integrity is compromised, he has nothing left—no accomplishment, no possession, no relationship can compensate for a corrupted soul.",
+        "What strikes us most powerfully is the range and depth of Job's self-examination. He speaks not merely of avoiding gross sins like adultery or theft, but of guarding his eyes, his thoughts, his treatment of the vulnerable, and his relationship with his workers. He reveals a man whose conscience runs deep, whose righteousness flows from reverence for God rather than fear of consequences. Notice that Job appeals to the judgment of his own heart even before appealing to God's judgment. This suggests that true integrity isn't merely external compliance—it's an internal alignment where your deepest convictions match your daily choices.",
+        "The passage speaks directly to our modern temptation to compartmentalize our lives. We live in an age of carefully curated online personas, public performances, and private indulgences. Job reminds us that spiritual wholeness demands integration—that the person we are in secret must match the person we claim to be in public.",
+        "In your quiet moments this week, where might you be divided between your public witness and your private choices? What would it mean to offer your authentic, unadorned self before the God who sees all?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Job 31: Scholarly study",
+      "overview": [
+        "Job 31 represents the culmination of Job's extended defense, functioning as a formal oath of innocence that scholars widely recognize as one of the most remarkable ethical documents in ancient Near Eastern literature. This chapter concludes the third cycle of dialogues and Job's final speech before the divine theophany, serving as his ultimate legal challenge to God. The patriarch employs the conditional self-imprecation formula repeatedly, essentially invoking curses upon himself should any of the enumerated sins prove true—a juridical mechanism that in the ancient world carried tremendous weight as testimony.",
+        "The chapter opens with Job's declaration concerning his covenant with his eyes regarding the virgin, using the Hebrew term *berith* (בְּרִית), the same covenantal language employed for divine-human agreements. This self-imposed restraint demonstrates the internalization of ethics that distinguishes Job's moral framework. The term *betulah* (בְּתוּלָה), typically rendered \"virgin\" or \"young woman,\" indicates Job's commitment to sexual purity not merely in action but in thought—a remarkably progressive ethical stance anticipating later wisdom traditions.",
+        "Throughout the chapter, Job employs the oath formula \"if... then let\" (*'im*... structure), creating a systematic catalogue of potential transgressions including adultery, economic injustice, abuse of servants, neglect of the poor, idolatry, and secret sins. Particularly noteworthy is verse 13–15, where Job acknowledges the shared humanity of master and servant, grounding this recognition in their common creation by God in the womb—an extraordinary statement of human dignity that transcends ancient social hierarchies.",
+        "The term *mispat* (מִשְׁפָּט), meaning \"justice\" or \"legal right,\" appears prominently, underscoring Job's understanding of ethics within a forensic framework. His treatment of widows, orphans, and the poor reflects covenant obligations articulated throughout the Pentateuch and prophetic literature. The chapter concludes with Job's signature (*taw*) and demand for a legal indictment, effectively subpoenaing the Almighty. This audacious conclusion transforms the chapter from mere protestation into formal litigation, setting the stage for Elihu's intervention and ultimately God's response from the whirlwind, where divine justice operates beyond the retributive calculus Job's friends had presumed."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Job 31: Prophetic perspective",
+      "overview": [
+        "Job chapter thirty-one stands at the dramatic climax of Job's extended defense, composed during the patriarchal era approximately two thousand years before Christ, in the time between Babel and Abraham when God's people lived without written Torah yet possessed genuine moral knowledge through conscience and divine revelation. This remarkable chapter predates the Mosaic covenant by perhaps five centuries, yet articulates an ethical vision so penetrating that it anticipates the heart-righteousness Jesus would later expound on the Sermon Mount. Within redemptive history, this text emerges from the shadowy period after the Fall when humanity groaned under the curse, before Abraham's call initiated the covenant line through which blessing would flow to all nations.",
+        "Here Job utters a series of self-imprecatory oaths, invoking divine judgment upon himself if he has committed various sins. What emerges is nothing less than a comprehensive portrait of covenant righteousness before Sinai existed—a man who understood that God weighs hearts, not merely external conformity. Job's covenant with his eyes against lustful gazing, his care for servants as fellow image-bearers, his concern for widows and orphans, his refusal to trust in wealth or rejoice in enemies' misfortune—these reveal a soul shaped by the law written on the human heart that Paul would later describe in Romans.",
+        "The typological significance runs deep. Job stands as a type of Christ in his suffering, yet here we glimpse another dimension: Job as the righteous man who can find no accuser because his life genuinely reflects God's character. Yet unlike the Greater Job who would come, this righteous sufferer still awaits vindication and cannot ultimately save himself or others. Job's protestation of innocence, however sincere, will give way to humble repentance when God appears—reminding us that even the most righteous human requires grace.",
+        "The eschatological thread here concerns final judgment. Job repeatedly invokes the tribunal of heaven, appealing to the God who sees all hidden things. This anticipates the day when every secret will be disclosed and God's justice will be publicly vindicated. Job's confidence that he could present his case before the Almighty foreshadows the believer's boldness before the judgment seat, clothed not in self-achieved righteousness but in Christ's perfect obedience.",
+        "For the church awaiting Christ's return, Job thirty-one calls us to integrity that extends to thought, motivation, and private conduct—knowing that our Redeemer lives and will have the final word."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "18_031",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.048459+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Chronicles 24 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Chronicles 24: The Tragedy of Forgotten Mercy",
+      "overview": [
+        "When a leader's faith fails and the people follow, spiritual decline becomes inevitable. This chapter traces Joash's arc from faithful reform to tragic apostasy, teaching us that sustained obedience flows from sustained gratitude.",
+        "Joash began well. As a young king guided by the faithful priest Jehoiada, he restored the temple and renewed the people's covenant with God. The work was funded through a temple tax collected with joy, and the people responded generously. Under Jehoiada's steady influence, Joash prioritized God's house and found both blessing and stability. His early years demonstrate what happens when leaders surround themselves with godly counsel and keep their gaze fixed on the Lord.",
+        "But notice what happened when Jehoiada died. The text states that Joash was gathered to his ancestors, and immediately the officials of Judah came to the king and bowed down to him. Without his mentor's anchor, Joash became susceptible to flattery and idolatry. The people abandoned God's temple for Asherah poles, and the king—the very man who had championed restoration—allowed this spiritual collapse without resistance. Worse, when Zechariah, Jehoiada's son, confronted the nation's sin, Joash orchestrated his murder. The king who had learned reform at a righteous man's knee now silenced the prophetic voice.",
+        "This tragic reversal teaches us something vital: spiritual momentum cannot coast on yesterday's obedience. Joash forgot the grace shown through Jehoiada's guidance, abandoned the disciplines that sustained him, and surrounded himself with people who enabled his decline rather than challenged it. His story warns us that every day requires a fresh choice to remember God's mercy and to build our lives on His truth.",
+        "The tragedy is not that Joash fell completely—it's that he fell *backward*, undoing good work and betraying the legacy of those who poured their faith into him. Where do you find yourself today: pressing forward in faith, or drifting from commitments you once held dear?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Chronicles 24: Scholarly study",
+      "overview": [
+        "Second Chronicles 24 presents the reign of Joash (also rendered Jehoash), the sole surviving heir of David's line following Athaliah's murderous purge, whose forty-year reign the Chronicler structures around a pivotal theological turning point that transforms a model of covenant faithfulness into a cautionary tale of apostasy. The chapter divides naturally into two contrasting sections: the temple restoration under Jehoiada's guidance and the spiritual collapse following the priest's death, a structure that emphasizes the Chronicler's persistent concern with proper worship and its correlation to royal prosperity or judgment.",
+        "The temple repair narrative centers on Joash's initiative to restore the house of Yahweh, employing the term *ḥaddēš* (to renew or restore), which carries theological freight beyond mere physical renovation, suggesting covenant renewal and liturgical restoration. The Chronicler expands significantly upon the parallel account in 2 Kings 12, adding details about Levitical involvement and the collection mechanism—a chest (*ʾărôn*) placed at the temple gate—which resonates with the ark (*ʾărôn*) of the covenant, subtly linking administrative reform to sacred tradition. The financial transparency and the people's joyful giving until completion (*kālâ*) present an idealized portrait of communal worship that serves the Chronicler's post-exilic audience as paradigmatic for their own temple community.",
+        "The narrative pivot following Jehoiada's death—notably, the priest receives a royal burial while Joash ultimately does not—exposes the king's dependent faith. The officials' (*śārîm*) seduction of Joash toward Asherim and idols demonstrates the Chronicler's theology of individual responsibility and the danger of influential counselors. Zechariah's prophetic indictment and subsequent martyrdom in the temple court itself represents a profound desecration, his dying words invoking divine adjudication (*yērēʾ wĕyidrōš*, \"may Yahweh see and avenge\"). The Aramean invasion, Joash's humiliating illness, and assassination by his own servants constitute the theodicy of retribution central to Chronicles' interpretive framework. Interpreters debate whether the Chronicler's additions represent independent historical tradition or theological elaboration, though the narrative's coherence suggests purposeful composition emphasizing that external religious observance divorced from genuine covenant loyalty inevitably collapses when external supports—here, Jehoiada—are removed."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Chronicles 24: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 835 years before the incarnation of Christ, during the divided kingdom period when Judah stood as the surviving Davidic remnant while Israel in the north careened toward Assyrian judgment. The boy-king Joash, rescued from Athaliah's murderous purge and hidden in the temple for six years, now reigns under the spiritual guardianship of Jehoiada the priest. This moment in redemptive history stands within the prolonged tension between God's covenant faithfulness to David's line and Israel's persistent rebellion—a tension that would ultimately be resolved only through the coming of David's greater Son.",
+        "Joash's reign presents a sobering study in derivative faith. As long as Jehoiada lived, the king walked righteously and restored the temple that generations of neglect and Baal worship had defiled. The collection chest placed beside the altar and the systematic repair of God's house foreshadow the principle that true worship requires both right hearts and physical stewardship of sacred space. Yet this restoration, though genuine, depended entirely upon borrowed conviction. When Jehoiada died at the remarkable age of one hundred and thirty—receiving burial honors among kings, a dignity the actual king would forfeit—Joash's spiritual collapse revealed the shallow roots of his devotion.",
+        "The prophetic climax arrives through Zechariah, Jehoiada's son, who stood clothed with the Spirit to pronounce covenant lawsuit against the apostate nation. His blood, shed in the very temple courts his father had labored to restore, cries out with the voice of all righteous martyrs. Christ Himself identified this murder as bookending the testament of innocent blood from Abel onward, marking Zechariah's death as representative of all prophetic rejection. The dying priest's words—\"May the LORD see and avenge\"—echo through the centuries until the true Priest stands in another temple court, declaring that this generation would bear responsibility for all such blood.",
+        "The chapter closes with divine judgment executed through foreign invasion, disease, and finally assassination by Joash's own servants. The temple he once repaired becomes the treasury from which he pays tribute to enemies. This pattern—restoration followed by apostasy, prophetic warning followed by rejection, then judgment—repeats throughout the monarchy until exile becomes inevitable.",
+        "For the church between the advents, Joash stands as perpetual warning against secondhand faith. The question presses upon every generation: will devotion outlast our Jehoiadas?"
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "14_024",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.828792+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

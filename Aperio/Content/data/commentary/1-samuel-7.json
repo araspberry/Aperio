@@ -1,0 +1,56 @@
+{
+  "book": "1 Samuel",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "1 Samuel 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "1 Samuel 7: The God Who Remembers and Restores",
+      "overview": [
+        "This chapter shows us a God who moves decisively into our brokenness when we turn toward Him with sincere repentance, transforming defeat into deliverance and shame into strength.",
+        "Israel stands at a crossroads. The ark of the covenant has been returned from Philistine captivity, yet the people remain spiritually fractured and militarily vulnerable. Samuel calls them to authentic repentance—not merely sorrow for consequences, but genuine renunciation of idolatry. They gather at Mizpah, and in a powerful act of corporate confession, they pour water before the Lord, a symbolic emptying of themselves before Him. This moment matters enormously. Repentance is never private sentiment alone; it involves the community, honest acknowledgment of sin, and the willingness to be vulnerable before God and one another.",
+        "What follows illustrates a profound spiritual principle: when God's people genuinely return to Him, He acts. The Philistines, seeing Israel assembled, attack—and in that moment of vulnerability, Samuel intercedes. His prayer and sacrifice become the pivot point. God thunders from heaven, and the enemy scatters in confusion. The deliverance is entirely God's work, yet it flows through Israel's humility and faithfulness.",
+        "Samuel establishes a standing stone called Ebenezer—\"stone of help\"—with the declaration, \"Thus far the Lord has helped us.\" This is not triumphalism but remembrance. He knows that future battles will come, that Israel will face new temptations and failures. The stone stands as a testimony, a place to return mentally and spiritually when doubt creeps in.",
+        "Samuel then establishes a circuit of judging and building altars throughout the land, literally and spiritually reconstructing Israel's relationship with God. The chapter ends not with boasting but with the simple fact of restored peace.",
+        "This speaks directly to our experience. We too know seasons of spiritual drift, defeat, and the need for genuine turning. The invitation stands: will you pour out your idols before the Lord? What stone of remembrance might you establish today, marking where God has already proven His faithfulness?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "1 Samuel 7: Scholarly study",
+      "overview": [
+        "The seventh chapter of 1 Samuel marks a pivotal transition in Israel's religious and political history, depicting the conclusion of Philistine dominance and Samuel's emergence as the nation's preeminent judge-prophet. Following the devastating capture of the ark in chapters 4–6 and its subsequent return, this passage narrates twenty years of apparent spiritual dormancy before a dramatic national revival occurs under Samuel's leadership. The text functions as a hinge between the anarchic period of the judges and the nascent monarchy, establishing Samuel's credentials as covenant mediator before the people's fateful request for a king in chapter 8.",
+        "The chapter opens with the ark's placement at Kiriath-jearim in the house of Abinadab, whose son Eleazar is consecrated to guard it. The Hebrew verb *qādash* (to consecrate, set apart) indicates formal dedication to sacred duty, though notably the ark never returns to Shiloh, suggesting that sanctuary's permanent decommissioning after its implied destruction. The twenty-year interval represents a period of collective mourning (*nāhāh*), literally a lamenting or groaning after Yahweh, indicating deep spiritual longing rather than mere passive waiting.",
+        "Samuel's call to repentance demands exclusive Yahwistic devotion through removal of the Baals and Ashtaroth—the standard Deuteronomistic pairing representing Canaanite fertility religion. The people's response at Mizpah includes water-pouring and fasting, rituals scholars debate as either penitential acts, covenant renewal ceremonies, or both. The water libation finds few parallels in Hebrew scripture, possibly symbolizing the outpouring of hearts or life itself before Yahweh. Samuel's intercessory role proves decisive; he functions simultaneously as priest (offering sacrifice), prophet (speaking Yahweh's word), and judge (administering justice throughout the circuit of Bethel, Gilgal, Mizpah, and his home at Ramah).",
+        "The Philistine defeat through divine thundering (*rā'am*) echoes theophanic traditions from Sinai and anticipates David's victory hymn in 2 Samuel 22. The memorial stone named Ebenezer (\"stone of help\") deliberately recalls the earlier Ebenezer disaster of chapter 4, transforming a site of humiliation into one of deliverance. This literary inclusio demonstrates that Israel's military success depends entirely upon covenant fidelity rather than cultic manipulation of divine presence."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "1 Samuel 7: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 1100 years before the birth of Christ, during the turbulent period of the judges when Israel had no king and each person did what was right in their own eyes. The ark has returned from Philistine captivity, resting now at Kiriath-jearim, and twenty years of spiritual lethargy have passed. We stand at a pivotal hinge point in redemptive history—between the chaos of the judges and the dawn of the monarchy—where God raises up Samuel as the last judge and first of the classical prophets, a transitional figure bridging two eras in the unfolding drama of salvation.",
+        "Samuel's call to Israel rings with covenant clarity: \"If you return to the LORD with all your heart, put away the foreign gods and the Ashtaroth from among you, and direct your heart to the LORD and serve him only, he will deliver you.\" Here the ancient pattern of Deuteronomic blessing emerges—repentance preceding restoration, turning before triumph. Israel's response at Mizpah, with fasting, water-pouring, and confession, constitutes a corporate renewal of covenant loyalty, a national return to Yahweh as sole sovereign. The water poured out symbolizes lives emptied before God, hearts laid bare in contrition—a ritual that whispers forward to the Spirit being poured out at Pentecost when hearts would be circumcised not by human resolve but by divine power.",
+        "Samuel stands as a magnificent type of Christ: prophet, priest, and judge united in one person. He intercedes for the people, offers the whole burnt offering, and cries out to the LORD on Israel's behalf. When thunder from heaven routes the Philistines, we witness divine warrior imagery that will find its ultimate expression when Christ returns to defeat His enemies with the breath of His mouth. The Ebenezer stone—\"Thus far the LORD has helped us\"—becomes a memorial of grace, acknowledging that every victory belongs to God alone.",
+        "The Philistine oppression lifted, cities restored, and peace with the Amorites all prefigure the greater deliverance Christ accomplishes. Yet this chapter also reveals the insufficiency of human judges; Samuel will grow old, his sons will fail, and Israel will demand a king. The very success of Mizpah points beyond itself to the need for an eternal King-Priest who never ages, never fails, and intercedes perpetually.",
+        "The church today raises her own Ebenezer, testifying to mercies received while awaiting the final thunder when every enemy will be subdued beneath the feet of the risen Christ."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "09_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.406881+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

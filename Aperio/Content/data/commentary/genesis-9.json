@@ -1,0 +1,58 @@
+{
+  "book": "Genesis",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Genesis 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Genesis 9: The Covenant That Sustains All Things",
+      "overview": [
+        "After the floodwaters recede, God makes an eternal promise to Noah and all creation—a covenant of grace that establishes the rhythms of life and the dignity of human existence in a restored world.",
+        "The heart of Genesis 9 pulses with divine generosity and remarkable restraint. God blesses Noah and his sons with the same mandate given to Adam: multiply and fill the earth. Yet everything has changed. Now, animals fear humans. Now, meat becomes food. Now, bloodshed carries consequence. God is granting humanity permission to sustain life through creation, but with a solemn accountability. The image of God dwells in human beings, and to shed human blood is to assault that image. This is not arbitrary law but a reflection of how much we matter to God.",
+        "What makes this covenant revolutionary is its universality. God's promise—sealed by the rainbow—is not for the righteous only but for every living creature. The bow in the clouds becomes God's pledge to never again destroy the earth through flood, regardless of human faithfulness or failure. This teaches us something profound about grace: God's commitment to sustain creation precedes and exceeds our obedience. We live under a covenant of mercy, not merely judgment.",
+        "Yet the chapter ends with human failure. Noah becomes drunk, and his son Ham's disrespect reveals that even after the flood, the human heart remains bent toward sin. God's grace does not erase our capacity to stumble, nor does it exempt us from consequences. Rather, it holds us and the creation together despite our stumbling.",
+        "This passage invites us to live with gratitude and humility. We dwell in a world upheld by divine promise, where God has bounded the consequences of evil and offered renewal. We are beings of immense dignity, made in God's image, yet prone to falling. Our calling is to steward this gracious gift wisely.",
+        "What does it mean for you today to live under a covenant of grace rather than judgment? How might that reality reshape how you treat others bearing God's image?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Genesis 9: Scholarly study",
+      "overview": [
+        "Genesis 9 marks a pivotal moment in the primeval narrative, functioning as both denouement to the flood account and foundation for the post-diluvian world order. The chapter divides naturally into three major sections: the divine blessing and covenant with Noah (vv. 1–17), the episode involving Noah's vineyard and his sons (vv. 18–27), and a brief genealogical summary (vv. 28–29). Composed within the complex literary tradition of the Pentateuch, this chapter exhibits characteristics typically associated with the Priestly source in its covenant formulation while the Ham narrative bears marks of the Yahwist tradition.",
+        "The opening divine speech deliberately echoes Genesis 1:28, with the blessing formula \"be fruitful and multiply\" (*peru urevu*) signaling a new beginning for humanity. However, the post-flood order differs significantly from the Edenic ideal; the term *morah* (\"fear, terror\") now characterizes the relationship between humans and animals, reflecting a fractured creation. The permission to consume animal flesh (v. 3) introduces a new dispensation, though the prohibition against consuming blood—identified with *nephesh* (\"life, soul\")—establishes an important limitation that reverberates through later Levitical legislation.",
+        "The Noahic covenant represents the first explicit use of *berit* (\"covenant\") in Scripture, establishing an unconditional divine commitment to preserve creation. The rainbow (*qeshet*), notably the same term used for a weapon of war, serves as a sign (*'ot*) reminding God himself of this promise—a remarkable anthropomorphic expression.",
+        "The enigmatic episode of Noah's drunkenness and Ham's transgression has generated considerable interpretive debate. The phrase \"saw the nakedness of his father\" may indicate a more serious violation than mere observation, with some scholars suggesting sexual impropriety based on similar euphemistic usage in Leviticus 18. The resulting curse falls not on Ham but on Canaan, likely reflecting later Israelite-Canaanite tensions and providing etiological explanation for Canaan's subjugation.",
+        "The chapter's conclusion, noting Noah's 950-year lifespan, maintains continuity with the antediluvian genealogies while transitioning toward the Table of Nations in chapter 10. Genesis 9 thus establishes the theological and anthropological framework—divine forbearance, human moral responsibility, and ethnic differentiation—that shapes the remainder of biblical history."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Genesis 9: Prophetic perspective",
+      "overview": [
+        "The events of Genesis 9 unfold approximately 1,600 years after creation, in the immediate aftermath of the great flood that swept away the antediluvian world. This passage stands at a pivotal hinge in redemptive history, marking the inauguration of a new epoch—what theologians often call the Noahic covenant—the second of the major covenants that structure God's progressive revelation. On the grand arc of redemption, we have moved from Creation through the Fall, witnessed the catastrophic spread of sin reaching its apex in Genesis 6, and now observe God beginning afresh with a remnant family preserved through judgment waters.",
+        "Noah emerges from the ark as a second Adam, receiving a renewed commission to be fruitful and multiply, to fill the earth and exercise dominion over creation. This Adamic echo is intentional and profound. Yet this is no simple return to Eden; the world has been irreversibly altered by the curse. Now animals will fear humanity, flesh may be consumed, and human government receives divine sanction to execute capital punishment for the shedding of innocent blood—a recognition that sin's violence requires restraint by the sword.",
+        "The Noahic covenant bears remarkable typological significance. The ark itself, that wooden vessel of salvation through which eight souls were brought safely through the waters of divine wrath, prefigures both baptism and the church—the vessel through which God preserves His people while judgment falls upon the world. Peter explicitly draws this connection, seeing in those flood waters a type of the salvation that comes through Christ's resurrection.",
+        "The rainbow set in the clouds serves as a perpetual sign of God's covenant faithfulness. This unilateral, unconditional promise that God will never again destroy all flesh by flood reveals something essential about the divine character—He is a covenant-keeping God who binds Himself by His own word. The bow, an instrument of war, now hangs in the heavens aimed not at earth but toward heaven itself, as though God absorbs His own arrows of judgment.",
+        "Yet the chapter concludes with sobering tragedy. Noah, the righteous man who walked with God, falls into drunkenness and nakedness, and the curse pronounced upon Canaan through Ham's dishonor demonstrates that the flood cleansed the earth but could not cleanse the human heart. Sin survives the deluge, proving that ultimate salvation requires something greater than water—it requires blood.",
+        "The church lives under this rainbow sign, assured that God's patience endures until the final judgment, which will come not by water but by fire, when Christ returns to make all things new."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "01_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:34.658349+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

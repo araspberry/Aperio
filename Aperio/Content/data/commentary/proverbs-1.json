@@ -1,0 +1,56 @@
+{
+  "book": "Proverbs",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Proverbs 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Proverbs 1: The Beginning of Wisdom",
+      "overview": [
+        "The opening of Proverbs stands as an invitation to a transformed life—one that begins when we stop pretending we have all the answers and humbly receive instruction from those wiser than ourselves. This ancient book reveals that true wisdom is not the possession of the brilliant few but a gift available to anyone willing to listen, learn, and adjust their course.",
+        "Notice how Solomon frames wisdom not as abstract knowledge but as practical discernment for living well. The passage names four audiences: the simple, the young, the wise, and the understanding. This suggests that wisdom's pursuit belongs to everyone at every stage of maturity. Even the already-wise grow wiser; even the seasoned gain new understanding. There is no graduation from the school of practical living.",
+        "The emphasis on fearing the Lord cannot be skipped over. This fear is not cowering dread but profound reverence—the kind that makes you reorganize your entire life around what truly matters. When we genuinely fear God, we stop fearing the approval of people who would lead us astray. We become free to obey rather than impress.",
+        "What strikes many readers is how Proverbs refuses to offer religious platitudes without real content. It acknowledges that the simple lack sense, that fools despise wisdom, that mockers scoff at correction. This is not optimistic about human nature, yet it remains hopeful about human change. The invitation remains open. The door to wisdom has not closed.",
+        "In our contemporary moment, when information is abundant but discernment is rare, when voices clamor for our attention constantly, Proverbs whispers something countercultural: the foundation of a life well-lived begins with admitting we need guidance, blessing the voices of experience around us, and organizing our hearts around reverence for God.",
+        "What aspect of your life is currently calling you to grow in wisdom? Where are you being invited to listen more humbly?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Proverbs 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Proverbs serves as a programmatic introduction to the entire collection, establishing both the purpose and theological foundation for the wisdom instruction that follows. The superscription attributes the work to Solomon son of David, king of Israel, connecting this wisdom literature to the Davidic court tradition and the golden age of Israelite learning. While the final form of Proverbs reflects centuries of editorial development, the Solomonic association grounds the collection in Israel's most celebrated patron of wisdom, whose legendary discernment is recounted in 1 Kings 3–4.",
+        "The prologue (verses 2–7) articulates the pedagogical aims of the collection through a carefully constructed series of infinitives: to know wisdom (*ḥokmâ*), to understand words of insight, to receive instruction in wise dealing. The Hebrew term *ḥokmâ* carries connotations extending beyond mere intellectual knowledge to encompass practical skill, moral discernment, and the art of successful living. Complementing this is *mûsār* (discipline or instruction), which implies both the content of teaching and the corrective formation of character, sometimes including physical chastisement. The programmatic declaration of verse 7—\"The fear of the LORD is the beginning of knowledge\"—establishes the theological axiom undergirding all Israelite wisdom. The term *rēʾšît* (beginning) denotes not merely a chronological starting point but the essential foundation and governing principle of the entire enterprise.",
+        "The chapter proceeds to its first sustained instruction (verses 8–19), employing the characteristic father-to-son address form borrowed from Egyptian and Mesopotamian didactic literature but transformed by Israelite theology. The warning against enticement by sinners vividly portrays the seductive rhetoric of violent gain-seekers, whose invitation to \"throw in your lot among us\" represents the antithesis of wisdom's way.",
+        "The chapter culminates in the remarkable personification of Wisdom as a woman crying aloud in the public square (verses 20–33). This figure, developed further in chapters 8–9, raises significant interpretive questions regarding her ontological status—whether she represents a literary device, a divine attribute, or a hypostatic entity. Her prophetic-style speech, complete with judgment oracles against the foolish, establishes wisdom's pursuit as nothing less than a matter of life and death."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Proverbs 1: Prophetic perspective",
+      "overview": [
+        "Proverbs chapter one emerges from the golden age of Israel's united monarchy, composed primarily during Solomon's reign approximately 950 years before Christ's incarnation. This places the text squarely within the Kingdom era of redemptive history—after God established David's throne with covenant promises of an eternal dynasty, yet centuries before exile would scatter the nation. Solomon writes as the son of promise, the temple-builder, the king granted supernatural wisdom at Gibeon, standing as a living demonstration that God keeps His word to His people.",
+        "The chapter opens with a father summoning his son to receive wisdom, establishing a pattern that reverberates through Scripture until it finds ultimate expression in the relationship between the eternal Father and the incarnate Son. Solomon speaks as David's heir, yet his words carry forward an older tradition reaching back to Moses and the patriarchs—the sacred duty of transmitting covenant knowledge from generation to generation. Here wisdom is personified as a woman crying aloud in the public square, pleading with the simple to turn from folly. This feminine figure anticipates the fuller revelation in chapter eight, where Wisdom stands beside Yahweh at creation itself, and points unmistakably toward Christ, whom Paul declares to be \"the wisdom of God.\"",
+        "The prophetic weight of this chapter lies in its stark division of humanity into two paths: those who fear the Lord and receive instruction, and those who despise wisdom and are consumed by their own devices. This binary pattern runs throughout Scripture, from Cain and Abel to the sheep and goats of final judgment. The \"fear of the Lord\" announced here as wisdom's beginning finds its consummation when Christ teaches that true wisdom means hearing His words and building upon the rock.",
+        "Wisdom's warning voice in the streets—ignored, mocked, rejected—foreshadows prophets yet to come, and ultimately the Prophet who would stand in Jerusalem's gates and weep over a city that refused His shelter. The turning away described here anticipates Israel's eventual exile and, more devastatingly, the rejection of Messiah by His own people.",
+        "For the church awaiting Christ's return, this chapter establishes an urgent summons. Wisdom still calls in the marketplace of human affairs. The invitation remains open, but not indefinitely. Those who find Christ find life; those who miss Him wrong their own souls. Between the advents, the church carries wisdom's voice into every street, knowing that the day approaches when the door will close and the scoffers will seek wisdom but not find her."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "20_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.563995+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

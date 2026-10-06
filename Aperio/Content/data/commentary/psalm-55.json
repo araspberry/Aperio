@@ -1,0 +1,56 @@
+{
+  "book": "Psalm",
+  "chapter": 55,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Psalm 55 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Psalm 55: When Betrayal Breaks the Heart",
+      "overview": [
+        "This psalm captures the raw anguish of betrayal by someone deeply trusted, revealing a heart that finds its ultimate refuge not in the loyalty of friends, but in the faithfulness of God alone.",
+        "David pours out his distress with unflinching honesty. The opening lines throb with desperation—he wants God to listen, to hear his complaint, to not hide His face. But what makes this psalm particularly piercing is the source of his pain. This isn't suffering from distant enemies; it's the wound of intimate betrayal. David cries out about a trusted companion, someone with whom he walked to the house of God in gladness. The Hebrew word for \"friend\" here carries the weight of closeness, familiarity, and shared spiritual communion. When such a person turns treacherous, the pain cuts deeper than any external attack.",
+        "Many of us know this particular sting. Perhaps a mentor who guided us spiritually betrayed our confidence. Maybe a church leader fell into hypocrisy. Or a friend we confided in became our adversary. These experiences shake us more profoundly than straightforward opposition, because they wound our sense of safety within community itself.",
+        "Yet notice David's trajectory through the psalm. He doesn't remain trapped in despair. He moves toward decisive action—casting his burden on the Lord, who sustains him. He recognizes that his enemy cannot ultimately harm him because God holds his life secure. David resolves to trust God not because his circumstances change, but because he redirects his confidence toward the One who is perfectly faithful and cannot be shaken.",
+        "The beauty here is permission combined with promise. David models that we can name our pain fully and honestly before God, can acknowledge how much betrayal wounds us—and simultaneously, can transfer our ultimate dependence to the One whose love never falters. In our broken relationships, God remains unbroken in His covenant.",
+        "How might trusting God more fully free you from the weight of human betrayal?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Psalm 55: Scholarly study",
+      "overview": [
+        "Psalm 55 stands as one of the most emotionally intense individual laments in the Psalter, traditionally attributed to David through its superscription, which designates it as a *maskil* (מַשְׂכִּיל), a term suggesting a didactic or contemplative composition. While the precise historical setting remains debated, the psalm's vivid depiction of urban turmoil and personal betrayal has led some scholars to associate it with Absalom's rebellion and Ahithophel's treachery, though this identification cannot be established with certainty. The composition divides roughly into three movements: an opening cry for deliverance amid terror (vv. 1–8), a denunciation of enemies including a former intimate companion (vv. 9–15, 20–21), and expressions of confident trust in divine intervention (vv. 16–19, 22–23).",
+        "The psalmist's anguish finds poignant expression in the term *māwet* (מָוֶת, \"death\") and the related imagery of Sheol swallowing enemies alive, invoking the fate of Korah's company in Numbers 16. Particularly significant is the vocabulary of betrayal: the former friend is described as a man of the psalmist's own rank, his *'allûp* (אַלּוּף), a term denoting an intimate companion or close counselor with whom he shared *sôd* (סוֹד), meaning confidential counsel or intimate fellowship. This language of violated covenant relationship intensifies the emotional weight of the treachery.",
+        "The central metaphor of desired escape—\"Oh, that I had wings like a dove!\"—represents a remarkable theological tension, as the psalmist momentarily contemplates fleeing from God's appointed sphere of service into the wilderness. Yet this fantasy of escape yields ultimately to resolute trust, expressed in the imperative of verse 22: \"Cast your burden upon the LORD\" (*hashlek*, הַשְׁלֵךְ), employing a verb suggesting forceful throwing rather than gentle releasing.",
+        "The psalm's structure exhibits sophisticated literary artistry through its alternation between complaint and confidence, a pattern characteristic of the lament genre. The canonical placement within Book II of the Psalter, among psalms exploring themes of persecution and divine justice, invites readers to understand individual suffering within the broader context of covenant community. The New Testament's appropriation of betrayal language, particularly in relation to Judas, demonstrates the psalm's enduring theological significance for understanding faithfulness violated and divine vindication anticipated."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Psalm 55: Prophetic perspective",
+      "overview": [
+        "This psalm of David emerges from the turbulent middle period of Israel's kingdom era, likely composed around 1000-970 BC during the united monarchy—placing it roughly a millennium before Christ's incarnation and squarely within that pivotal epoch when God was establishing His throne through David's line as a foreshadowing of the eternal King to come. Within redemptive history, we stand here after the Exodus deliverance, within the Kingdom phase, watching David—the anointed one—experience betrayals that would find their ultimate echo in David's greater Son.",
+        "The anguish poured forth in this psalm carries prophetic weight far beyond David's immediate circumstances. When David cries out against the intimate companion who turned traitor—\"it was you, a man my equal, my companion, my close friend; we took sweet counsel together\"—we hear across the centuries the heartbreak of Gethsemane. Our Lord quoted from this psalm's companion passages, and the apostolic witness recognized in Judas Iscariot the antitype of this treacherous friend. What David suffered in shadow, Christ endured in fullness: the kiss of betrayal from one who shared His table, the conspiracy of religious leaders, the violence of those who should have received Him as King.",
+        "The imagery of the wicked dwelling within the city walls while oppression and mischief parade through its streets prophetically anticipates Jerusalem's spiritual condition when she rejected her Messiah. David longed for dove's wings to escape to the wilderness; Christ Himself often withdrew to desolate places under the crushing weight of ministry among those who plotted His death. Yet unlike David, who called down judgment upon his enemies, the greater David prayed from the cross, \"Father, forgive them.\"",
+        "The threefold appeal to morning, noon, and evening prayer establishes a pattern of persistent communion that the church has inherited—the ceaseless intercession that sustains God's people between the advents. David's declaration, \"Cast your burden upon the LORD, and He will sustain you,\" becomes an eschatological promise: the God who delivered David, who raised Christ from the grave, will not permit the righteous to be moved eternally.",
+        "For the church awaiting Christ's return, this psalm teaches that betrayal, conspiracy, and the failure of human friendship cannot sever us from covenant faithfulness. The same God who redeemed David from his distress has purchased our final vindication through the blood of the Betrayed One, who transforms all our sorrows into pathways toward resurrection glory."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "19_055",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.274775+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

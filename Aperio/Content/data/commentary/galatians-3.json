@@ -1,0 +1,56 @@
+{
+  "book": "Galatians",
+  "chapter": 3,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Galatians 3 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Galatians 3: Freedom Found in Faith",
+      "overview": [
+        "The heart of Galatians 3 beats with Paul's passionate defense of salvation by faith alone—a freedom that had been obscured by false teachers insisting that believers must earn God's favor through law-keeping. This chapter stands as Christianity's charter of liberation, declaring that justification flows not from human effort but from trusting Jesus Christ.",
+        "Paul opens by reminding the Galatians of their own experience: they received the Spirit through faith, not through works of the law. It's a powerful appeal to what they already know in their bones. They felt God's presence; they experienced His transforming power. How could they imagine that the very thing that saved them was somehow insufficient to keep them safe? The question cuts through all pretense. We too know this in our deepest moments—God's grace got us, and God's grace sustains us.",
+        "The apostle then sweeps through Scripture, showing that Abraham himself was justified by faith, not by keeping commandments that wouldn't even be given for four hundred years. The law, Paul explains, was never meant to be a ladder to heaven but a mirror showing us our need. It revealed sin; it could not remove it. That's not the law's failure but its proper function. We cannot improve ourselves into God's favor; we can only receive what Christ has already accomplished.",
+        "This passage speaks directly to our modern tendency to mix grace with achievement, to add our works as though faith weren't quite enough. Quietly, subtly, we slip back into earning. We pray harder, serve more, clean up our lives—as if Jesus needs our help closing the gap.",
+        "The liberating news is that believers are no longer under a tutor. We're mature children in God's household, claimed by Christ and clothed in His righteousness. Freedom isn't permission to sin; it's the power to serve joyfully from a heart at rest.",
+        "What areas of your discipleship are still shadowed by the burden of trying to earn what Christ has freely given?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Galatians 3: Scholarly study",
+      "overview": [
+        "Galatians 3 represents a pivotal moment in Paul's letter to the churches of Galatia, written approximately 48–55 CE to communities struggling with the influence of teachers who insisted that Gentile converts must observe Torah, particularly circumcision, to be fully incorporated into the covenant people. This chapter marks Paul's transition from autobiographical defense to sustained theological argumentation, employing both experiential appeal and scriptural exegesis to establish that justification comes through faith rather than works of the law.",
+        "Paul opens with a striking rhetorical question, addressing his readers as \"foolish Galatians\" who have been \"bewitched\" (*baskainō*), a term suggesting malevolent enchantment that has clouded their spiritual perception. His appeal to their reception of the Spirit—whether it came through \"works of the law\" (*ergōn nomou*) or \"hearing with faith\" (*akoēs pisteōs*)—grounds his argument in their own conversion experience. The latter phrase carries rich ambiguity, potentially meaning either the message that evokes faith or the faithful response to hearing, though most interpreters favor the former rendering.",
+        "The chapter's theological center lies in Paul's exposition of Abraham as the paradigmatic figure of justification by faith, citing Genesis 15:6. This move was strategically significant, as Paul's opponents likely invoked Abraham as the father of circumcision. Paul counters by demonstrating that Abraham's reckoning as righteous preceded his circumcision by fourteen years according to the Genesis narrative, making faith chronologically and theologically prior to law-observance.",
+        "Paul introduces a complex argument regarding the law's temporary and preparatory function, describing it as a *paidagōgos*—not \"schoolmaster\" as older translations render it, but rather the household slave who supervised children and escorted them to their teacher. This metaphor emphasizes the law's custodial role until Christ's coming, not its pedagogical content. The chapter culminates in the baptismal declaration of 3:28, where distinctions of ethnicity, social status, and gender are transcended \"in Christ Jesus.\" Scholars debate whether this represents social program or soteriological equality, though the immediate context emphasizes covenant membership. Paul's argument fundamentally redefines the boundaries of Abraham's family around faith in Christ rather than ethnic lineage or Torah observance, a theological revolution with profound implications for early Christian self-understanding."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Galatians 3: Prophetic perspective",
+      "overview": [
+        "Galatians 3 stands firmly in the apostolic era, penned by Paul approximately twenty years after the resurrection and ascension of Christ, likely around AD 48-49, making it among the earliest documents of the New Testament. This letter addresses Gentile believers in the Roman province of Galatia who were being pressured by Judaizers to submit to Mosaic law as a requirement for full covenant membership. Within the grand redemptive arc, this chapter serves as a divinely inspired interpretive key, showing how the promises made to Abraham two thousand years earlier find their ultimate fulfillment in Christ and how the Mosaic covenant, given four hundred thirty years after Abraham, served a temporary, preparatory function now completed.",
+        "Paul's argument reaches back to the patriarch himself, anchoring Gentile salvation not in the Sinai covenant but in the Abrahamic promise. Abraham believed God and was credited righteousness—this forensic declaration apart from works establishes the pattern for all who would follow. The promise that \"in you shall all the nations be blessed\" reveals that God's salvific intention was never ethnically restricted. Abraham thus stands as a type of faith-righteousness, and his seed—singular, Paul insists—points prophetically to Christ himself. Every blessing promised to Abraham flows through this one Seed to all who are united to him by faith.",
+        "The law, Paul declares, functioned as a guardian or pedagogue, a temporary custodian appointed until the Seed should come to whom the promise referred. This reveals the Mosaic economy as a parenthetical administration within God's larger purposes, never intended to impart life or righteousness but to expose sin's dominion and drive Israel toward the promised Deliverer. The curse pronounced upon lawbreakers found its exhaustive satisfaction when Christ became a curse for us, hung upon the tree in accordance with Deuteronomy's ancient verdict. What the law could never accomplish—liberation from its own condemnation—Christ accomplished through substitutionary death.",
+        "The eschatological breakthrough announced here is staggering: in Christ Jesus, the dividing walls crumble. Neither Jew nor Greek, slave nor free, male nor female can claim privileged access, for all are one in him. Baptism into Christ clothes believers with Christ himself, making them Abraham's offspring and heirs according to promise.",
+        "For the church awaiting the Lord's return, Galatians 3 declares that our standing before God rests entirely on Christ's finished work. The inheritance remains secure, guaranteed not by human performance but by divine promise, awaiting its consummate expression when the sons of Abraham inherit the new creation."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "48_003",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.852949+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Matthew",
+  "chapter": 9,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Matthew 9 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Matthew 9: The Compassionate Authority of Jesus",
+      "overview": [
+        "Matthew 9 unveils a profound truth: Jesus wielded divine power not to dominate, but to serve with tender compassion. Throughout this chapter, we witness the King of heaven moving among broken people—the paralyzed, the hemorrhaging, the grieving, the blind, the mute—and responding to each with power wedded to mercy. This is the character of our Savior: authority exercised in love.",
+        "The chapter opens with Jesus forgiving the paralyzed man's sins before healing his body, demonstrating that spiritual restoration takes priority over physical ailment. When the woman with the bleeding disorder touches his garment, Jesus doesn't rebuke her desperation; he celebrates her faith. When Jairus's daughter dies and mourners mock his promise to raise her, Jesus neither argues nor delays. He simply says, \"The girl is not dead but asleep,\" then takes her hand and calls her back to life. Each encounter radiates the same truth: Jesus meets us where we are, honors the faith we can muster, and acts with power we cannot generate ourselves.",
+        "The chapter culminates with Jesus calling Matthew the tax collector—a man despised by his community—to follow him. Over dinner with \"tax collectors and sinners,\" Jesus redefines righteousness not as separation from the broken, but as presence within their midst. His famous words, \"I have not come to call the righteous, but sinners,\" invite us into a completely different understanding of spiritual community. The kingdom isn't built by excluding the unworthy; it's advanced by gathering the desperate, the doubting, the desperate.",
+        "For followers today, Matthew 9 poses a searching question: Do we believe Jesus has the same tender authority over our brokenness? His power is never cold or distant. It moves toward our need, honors our smallest faith, and welcomes us before we're worthy. The King of heaven is not waiting for us to improve; he comes to us in our paralysis, our hemorrhage, our grief, our blindness—and calls us to new life.",
+        "What broken place in your heart invites Christ's healing touch today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Matthew 9: Scholarly study",
+      "overview": [
+        "Matthew 9 represents a pivotal chapter in the First Gospel's carefully constructed narrative, continuing the demonstration of Jesus' messianic authority that began in chapters 8-9, a section scholars often identify as the \"cycle of miracles\" that validates the teaching authority established in the Sermon on the Mount (chapters 5-7). Writing primarily for a Jewish-Christian audience likely in Antioch during the 80s CE, the evangelist arranges these accounts not merely chronologically but theologically, presenting Jesus as the authoritative interpreter of Torah and the embodiment of divine compassion.",
+        "The chapter opens with the healing of the paralytic, where Jesus' declaration \"your sins are forgiven\" (*aphientai sou hai hamartiai*) provokes immediate controversy. The passive voice here suggests divine action, and Jesus' subsequent question about whether it is easier to pronounce forgiveness or healing strikes at the heart of Second Temple debates about the interconnection of sin and suffering. The designation \"Son of Man\" (*ho huios tou anthrōpou*), drawn from Daniel 7:13-14, carries both humble and exalted connotations that Matthew exploits throughout his Gospel to present Jesus' authority as simultaneously human and transcendent.",
+        "The call of Matthew the tax collector and the subsequent banquet scene introduces the crucial theme of table fellowship that would prove contentious in early Christian-Jewish relations. Jesus' quotation of Hosea 6:6—\"I desire mercy (*eleos*), not sacrifice\"—appears uniquely twice in Matthew's Gospel, signaling its programmatic importance for understanding authentic covenant faithfulness. The term *eleos* translates the Hebrew *hesed*, denoting covenantal loyalty and compassion, reframing righteousness away from ritual purity toward relational fidelity.",
+        "The chapter's middle section addresses fasting practices and introduces the parables of new cloth and new wineskins, employing the adjective *kainos* (new in quality) to suggest the incompatibility of Jesus' ministry with certain traditional forms. The chapter concludes with three interconnected healings—the ruler's daughter, the hemorrhaging woman, and two blind men—each emphasizing faith (*pistis*) as the essential human response to divine power. Matthew's observation that Jesus saw the crowds as \"harassed and helpless, like sheep without a shepherd\" echoes Numbers 27:17 and Ezekiel 34, positioning Jesus as the anticipated Davidic shepherd-king while preparing for the missionary discourse that follows in chapter 10."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Matthew 9: Prophetic perspective",
+      "overview": [
+        "Matthew chapter nine unfolds during the early Galilean ministry of Jesus, approximately AD 28-29, some three decades into the incarnation of the eternal Son. This places us firmly in the hinge point of redemptive history—the long-awaited Kingdom has drawn near in the person of Israel's Messiah, yet the cross and resurrection still lie ahead. The prophetic silence of four hundred years has been shattered, and God now speaks not through prophets but through His Son. We stand at the climax of the ages, where all the shadows of the Old Testament begin finding their substance.",
+        "The chapter opens with Jesus pronouncing forgiveness to a paralytic, and in doing so He claims the divine prerogative that belongs to Yahweh alone. Here the typological threads converge brilliantly—where the Levitical priests could only mediate ceremonial cleansing, and where the Day of Atonement could only cover sin temporarily, Jesus speaks absolution with immediate authority. He is the true High Priest entering not an earthly sanctuary but exercising heaven's jurisdiction on earth. When He heals the man's body to prove His authority over the man's soul, He demonstrates that the Kingdom arrives as comprehensive restoration—the very healing of creation that Isaiah foretold when he prophesied that the lame would leap like deer.",
+        "The calling of Matthew from the tax booth echoes the pattern established with Abraham—God choosing the ungodly and declaring them righteous. Jesus dining with sinners fulfills the prophetic vision of the messianic banquet, yet scandalizes those who expected Messiah to vindicate the righteous rather than justify the wicked. His word about new wine requiring new wineskins prophetically announces that the old covenant structures cannot contain what God is now doing; the age of fulfillment demands new forms.",
+        "The raising of Jairus's daughter unveils Jesus as the one who will ultimately swallow up death forever. She becomes a type of Israel herself—dead yet destined for resurrection when Messiah speaks the word. The woman with the issue of blood, unclean for twelve years, reaches through the barrier of the law's ceremonial separation and finds that in Christ, power flows outward to heal rather than defilement flowing inward to contaminate.",
+        "The chapter closes with harvest imagery pointing toward Pentecost and the church's mission. The laborers Jesus calls for would come—first twelve, then seventy, then thousands at Pentecost, and the harvest continues until He returns. We who live between the advents are those workers, sent into fields already white, proclaiming the same Kingdom that walked the hills of Galilee."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "40_009",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.453486+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

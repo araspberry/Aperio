@@ -1,0 +1,657 @@
+{
+  "book": "John",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "title": "The Word Comes Near",
+  "sources": [
+    {
+      "id": "john1",
+      "label": "John 1 · BSB text and translation notes",
+      "url": "https://biblehub.com/bsb/john/1.htm"
+    },
+    {
+      "id": "greek1",
+      "label": "John 1:1 · Greek wording and grammar",
+      "url": "https://biblehub.com/text/john/1-1.htm"
+    },
+    {
+      "id": "greek13",
+      "label": "John 1:13 · Birth from God in the Greek text",
+      "url": "https://biblehub.com/text/john/1-13.htm"
+    },
+    {
+      "id": "greek14",
+      "label": "John 1:14 · The Word’s dwelling in the Greek text",
+      "url": "https://biblehub.com/text/john/1-14.htm"
+    },
+    {
+      "id": "greek18",
+      "label": "John 1:18 · Greek text and textual readings",
+      "url": "https://biblehub.com/text/john/1-18.htm"
+    },
+    {
+      "id": "greek39",
+      "label": "John 1:39 · Staying with Jesus in the Greek text",
+      "url": "https://biblehub.com/text/john/1-39.htm"
+    },
+    {
+      "id": "greek51",
+      "label": "John 1:51 · The plural promise to the disciples",
+      "url": "https://biblehub.com/text/john/1-51.htm"
+    },
+    {
+      "id": "net",
+      "label": "John 1 · NET Bible notes, especially the grammar of verse 1",
+      "url": "https://bible.org/sites/bible.org/resources/netbible/joh1_notes.htm"
+    },
+    {
+      "id": "nab",
+      "label": "John 1 · NABRE translator notes on the Lamb and Jacob’s vision",
+      "url": "https://bible.usccb.org/bible/john/1"
+    },
+    {
+      "id": "logos",
+      "label": "Logos · Thayer’s Greek lexicon entry",
+      "url": "https://biblehub.com/greek/3056.htm"
+    },
+    {
+      "id": "grasp",
+      "label": "Katalambano · Thayer’s Greek lexicon entry",
+      "url": "https://biblehub.com/greek/2638.htm"
+    },
+    {
+      "id": "dwell",
+      "label": "Skenoo · Thayer’s Greek lexicon entry",
+      "url": "https://biblehub.com/greek/4637.htm"
+    },
+    {
+      "id": "unique",
+      "label": "Monogenes · Thayer’s lexical entry and usage examples",
+      "url": "https://biblehub.com/greek/3439.htm"
+    },
+    {
+      "id": "remain",
+      "label": "Meno · Thayer’s Greek lexicon entry",
+      "url": "https://biblehub.com/greek/3306.htm"
+    },
+    {
+      "id": "gen1",
+      "label": "Genesis 1 · Creation, speech, and light",
+      "url": "https://biblehub.com/bsb/genesis/1.htm"
+    },
+    {
+      "id": "gen28",
+      "label": "Genesis 28:10–17 · Jacob’s vision at Bethel",
+      "url": "https://biblehub.com/bsb/genesis/28.htm"
+    },
+    {
+      "id": "ex33",
+      "label": "Exodus 33:18–23 · Moses asks to see God’s glory",
+      "url": "https://biblehub.com/bsb/exodus/33.htm"
+    },
+    {
+      "id": "ex34",
+      "label": "Exodus 34:5–9 · God’s gracious and faithful character",
+      "url": "https://biblehub.com/bsb/exodus/34.htm"
+    },
+    {
+      "id": "ex40",
+      "label": "Exodus 40:34–38 · Glory fills the tabernacle",
+      "url": "https://biblehub.com/bsb/exodus/40.htm"
+    },
+    {
+      "id": "ex12",
+      "label": "Exodus 12 · Passover deliverance and the lamb",
+      "url": "https://biblehub.com/bsb/exodus/12.htm"
+    },
+    {
+      "id": "isa40",
+      "label": "Isaiah 40:1–5 · The voice preparing the LORD’s way",
+      "url": "https://biblehub.com/bsb/isaiah/40.htm"
+    },
+    {
+      "id": "isa49",
+      "label": "Isaiah 49:5–6 · The servant as light to the nations",
+      "url": "https://biblehub.com/bsb/isaiah/49.htm"
+    },
+    {
+      "id": "isa53",
+      "label": "Isaiah 53:4–12 · The servant, the lamb, and the bearing of sins",
+      "url": "https://biblehub.com/bsb/isaiah/53.htm"
+    },
+    {
+      "id": "ps2",
+      "label": "Psalm 2 · The LORD’s anointed king and Son",
+      "url": "https://biblehub.com/bsb/psalms/2.htm"
+    },
+    {
+      "id": "john3",
+      "label": "John 3:3–8 · Jesus teaches about birth from God",
+      "url": "https://biblehub.com/bsb/john/3.htm"
+    },
+    {
+      "id": "john15",
+      "label": "John 15:4–9 · Remaining in Jesus and His love",
+      "url": "https://biblehub.com/bsb/john/15.htm"
+    },
+    {
+      "id": "john19",
+      "label": "John 19:31–37 · Jesus’ death and the unbroken bones",
+      "url": "https://biblehub.com/bsb/john/19.htm"
+    },
+    {
+      "id": "john20",
+      "label": "John 20:30–31 · The Gospel’s stated purpose",
+      "url": "https://biblehub.com/bsb/john/20.htm"
+    },
+    {
+      "id": "cor4",
+      "label": "2 Corinthians 4:5–6 · Creation’s light and the knowledge of Christ",
+      "url": "https://biblehub.com/bsb/2_corinthians/4.htm"
+    },
+    {
+      "id": "rev21",
+      "label": "Revelation 21:1–4 · God’s dwelling with humanity",
+      "url": "https://biblehub.com/bsb/revelation/21.htm"
+    },
+    {
+      "id": "john11",
+      "label": "John 11:18 · Bethany near Jerusalem",
+      "url": "https://biblehub.com/bsb/john/11.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Known, Welcomed, and Invited to Follow",
+      "overview": [
+        "John’s Gospel begins before anyone walks beside the Jordan or asks Jesus a question. The Word is already with God, sharing the divine life through which the world comes into being. Then this immense horizon opens into human encounters: John the Baptist gives testimony, two disciples spend a day with Jesus, Andrew finds his brother, and Philip answers a friend’s skepticism. The chapter brings the eternal close enough to be heard and followed. Its invitation is to receive Jesus with the trust of someone who is learning both who He is and what life with Him can become."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "The light has not gone out",
+          "paragraphs": [
+            "The opening places our lives within a world that owes its existence to the Word. Jesus, whom the chapter will name, comes toward people who already live by His gift. The Gospel’s first assurance concerns His identity before it concerns our response: He is with God, He is God, and life is in Him. Faith begins by looking toward the One who can sustain it.",
+            "Darkness enters the opening, but it does not control the sentence. The light shines. The BSB’s “has not overcome” gives this image the force of a continuing hope. Opposition, confusion, and suffering will become painfully visible as the Gospel unfolds, yet they cannot finally master the life Jesus brings. We can bring Him what feels dark without pretending it is small. Prayer may begin with the simple confession that His light remains present even when our own understanding is incomplete."
+          ],
+          "sourceIds": [
+            "john1",
+            "grasp"
+          ]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "A witness points toward a welcome",
+          "paragraphs": [
+            "John the Baptist is introduced with a task: he has been sent to bear witness. His importance lies in helping people recognize the Light. That is a liberating shape for service. He does not need to become the source of another person’s life; he needs to point faithfully toward the One who is.",
+            "The welcome Jesus offers is met with refusal as well as belief. The Gospel allows the pain of that rejection to stand, then speaks of those who receive Him becoming children of God. Their new belonging comes from God’s action. Family background and human resolve cannot manufacture it. We receive Jesus through trust, and the life we receive is a gift.",
+            "This gives both the confident and the uncertain a reason for humility. A respected religious history does not remove the need to welcome Christ personally, and a troubled history need not keep someone outside His invitation."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek13"
+          ]
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "title": "God’s fullness takes a human life",
+          "paragraphs": [
+            "The Word becomes flesh and lives among us. The language is wonderfully concrete: the One through whom life came into being enters the life people actually live. The Greek verb eskenosen carries the image of dwelling or pitching a tent. God’s presence is now made known through Jesus’ human life, within reach of those who hear Him and watch Him act.",
+            "The Gospel describes this presence as full of grace and truth. Those words belong together. We do not have to choose between a mercy that welcomes us and a truth that takes us seriously. In Jesus, knowing God means encountering both. From His fullness comes grace upon grace, a generosity whose source is larger than our capacity to supply ourselves.",
+            "John the Baptist places himself after and beneath Jesus, while the prologue turns our attention to the Son at the Father’s side. To learn what God is like, we are invited to attend closely to Him."
+          ],
+          "sourceIds": [
+            "john1",
+            "dwell",
+            "greek14"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "title": "John knows whose place is his",
+          "paragraphs": [
+            "The delegation from Jerusalem asks John the Baptist who he is. His answers refuse the grand identities being offered: he is not the Christ, Elijah, or the Prophet. He describes his calling through Isaiah’s image of a voice preparing the Lord’s way. His work matters because someone greater is coming.",
+            "John’s humility does not make him vague or timid. He answers clearly, continues his work, and directs attention toward the One already among them. There is a strength in knowing both the value and the limits of one’s responsibility. We can serve with conviction while allowing Jesus to remain the center.",
+            "For a teacher, parent, pastor, or friend, the question becomes practical: does my influence help people become attentive to Christ, or increasingly dependent on my approval? John’s witness gives us a way to work faithfully without needing to occupy the place that belongs to the Lord."
+          ],
+          "sourceIds": [
+            "john1",
+            "isa40"
+          ]
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "title": "The Lamb who deals with the world’s sin",
+          "paragraphs": [
+            "When Jesus approaches, John the Baptist names Him as the Lamb of God who takes away the sin of the world. The title brings the seriousness of sin together with the hope of deliverance. Jesus is presented as the One who can act where human willingness alone cannot repair what is wrong.",
+            "John’s testimony rests on what God has enabled him to recognize: the Spirit descends and remains on Jesus. His earlier lack of recognition has given way to a clear confession. The man he identifies will baptize with the Holy Spirit. John can prepare and point; Jesus gives what John cannot.",
+            "These verses invite a more honest prayer than either self-excuse or despair. We may acknowledge sin without making it the final definition of our lives. The chapter asks us to look toward Jesus, trusting both His willingness to address what harms us and His power to give new life."
+          ],
+          "sourceIds": [
+            "john1"
+          ]
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "title": "An afternoon that opens a relationship",
+          "paragraphs": [
+            "Two of John the Baptist’s disciples follow Jesus after hearing his testimony. Jesus turns toward them and asks what they want. Their answer is modest: where is He staying? He welcomes them to come and see. They spend the day with Him. The chapter’s great declarations about God have brought us to the simplicity of time shared.",
+            "Andrew then finds Simon and brings him to Jesus. He offers the conviction he has begun to receive, and Jesus addresses Simon personally, giving him the name Cephas, translated Peter. Discovery becomes invitation; invitation becomes an encounter that Andrew cannot conduct on his brother’s behalf.",
+            "We can make room for that same unhurried beginning. Not every question needs to be answered before someone starts listening to Jesus. Reading a passage carefully, remaining with a difficult word, and inviting a friend into that conversation can become real steps of discipleship."
+          ],
+          "sourceIds": [
+            "john1"
+          ]
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "title": "Jesus sees more than a first impression",
+          "paragraphs": [
+            "Jesus calls Philip, and Philip finds Nathanael. Nathanael’s dismissive question about Nazareth does not end the conversation. Philip offers the invitation Jesus has already used: come and see. He makes space for his friend to encounter the person his first impression has overlooked.",
+            "Jesus recognizes Nathanael before Nathanael understands Him. The reference to the fig tree is enough to move him toward confession, though the text does not tell us what he was doing there. Jesus then promises more than this first surprising moment. Nathanael’s discovery belongs within a greater revelation of the Son of Man.",
+            "The chapter ends with heaven open and angels ascending and descending on Jesus. The One who was with God in the beginning is the One through whom God is made known here. We are invited to keep following, allowing Him to enlarge an understanding that has only begun."
+          ],
+          "sourceIds": [
+            "john1",
+            "gen28"
+          ]
+        }
+      ],
+      "reflection": "Which invitation in this chapter asks for your response now: receive Christ’s welcome, point someone toward Him, or stay long enough to know Him more deeply?"
+    },
+    "scholarly": {
+      "title": "The Word, the Witness, and the First Disciples",
+      "overview": [
+        "John 1 moves from the prologue in verses 1–18 to testimony and encounters in verses 19–51. The prologue gives the theological horizon through which the following story is to be read; the encounters show recognition taking shape gradually. The John named within these scenes is John the Baptist. His reported words should be distinguished from the Gospel’s narrative voice. Attention to that structure, the Greek wording, and the chapter’s scriptural echoes helps preserve both the grandeur of its claims and the particularity of its people."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "What the opening says about the Word",
+          "paragraphs": [
+            "Λόγος, logos, ordinarily means word, speech, or message. Here its significance comes from what the Gospel says about the Word: He already exists “in the beginning,” is with God, and is the One through whom everything comes into being. The echo of Genesis 1 places Him in relation to creation’s origin. Verse 3 distinguishes the Word from the things made through Him.",
+            "The final clause of verse 1 is θεὸς ἦν ὁ λόγος, theos en ho logos. The article identifies “the Word” as the subject; “God,” placed before the verb, describes what the Word is. This construction is widely understood to emphasize His divine nature. The absence of an article before theos does not by itself mean “a god.” Grammar is read with both neighboring claims: the Word is with God and all things come into being through Him. His deity and His relation to God are held together.",
+            "In verse 5, καταλαμβάνω, katalambano, can concern taking hold by force or grasping with understanding. The BSB prints “overcome” and notes “comprehended.” The range explains the translation difference. The first rendering foregrounds darkness’s inability to defeat the light; the second foregrounds its failure to understand it."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek1",
+            "logos",
+            "grasp",
+            "net",
+            "gen1"
+          ]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "Witness, reception, and birth from God",
+          "paragraphs": [
+            "John the Baptist is a man sent by God whose testimony serves belief. The repeated distinction between the witness and the Light prevents his role from being confused with Jesus’ identity. Verses 9–13 then describe the Light’s coming, the world’s failure to recognize Him, and the contrasting reception of those who believe.",
+            "Receiving Him and believing in His name explain the same response from two angles. The gift is the right to become God’s children. Verse 13’s plural “were born” refers to these people and locates their birth in God rather than human descent or procreation. The passage joins a real response of trust with God’s initiative in giving life.",
+            "“His own” in verse 11 evokes the tragedy of rejection within the sphere where He should have been welcomed. The Jewish witnesses and disciples who receive Him are also central to this chapter. Rejection and reception are both visible within Israel as the story begins."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek13"
+          ]
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "title": "Dwelling, uniqueness, and making God known",
+          "paragraphs": [
+            "“Became flesh” affirms the Word’s real humanity. The verb ἐσκήνωσεν, eskenosen, means He dwelt or pitched His tent among us. Alongside the mention of glory, it recalls Israel’s tabernacle, where God’s glory filled the dwelling in Exodus 40. The echo concerns God’s presence among His people, now disclosed in the human life of Jesus.",
+            "Μονογενής, monogenes, rendered “one and only,” describes uniqueness, often that of an only child. Here it marks the Son’s distinctive relation to the Father. The Gospel has already placed the Word before creation; the adjective describes His unique relation to the Father within that account.",
+            "Verse 18 has a genuine manuscript variation: witnesses read forms meaning “the one and only God” or “the one and only Son.” The BSB follows the God reading while expressing the relationship as “the one and only Son, who is Himself God.” Its note records the alternative. Both readings identify the unique One at the Father’s side as the revealer of God.",
+            "The law given through Moses belongs within this movement of revelation. The prologue distinguishes that gift from the grace and truth arriving through Jesus Christ, then ends with the Son making God known. These are the Gospel’s climactic claims, following its brief quotation of the Baptist in verse 15."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek14",
+            "greek18",
+            "dwell",
+            "unique",
+            "ex40"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "title": "The witness under questioning",
+          "paragraphs": [
+            "The narrative now presents John the Baptist’s testimony through a delegation of priests and Levites sent from Jerusalem, with Pharisees identified in the inquiry. Their questions concern his identity and authority to baptize. John denies the proposed titles and quotes Isaiah 40:3 to describe his task: he is a voice preparing the Lord’s way.",
+            "The movement from “Who are you?” to the One standing among them is deliberate. John answers the inquiry by directing it beyond himself. His water baptism serves a mission whose greater center is still unrecognized. The sandal statement expresses his subordinate place with striking force.",
+            "The location is Bethany beyond the Jordan, as the BSB reads. This scene should not be moved into the better-known Bethany near Jerusalem simply because the names match. The chapter supplies its own geographic qualification and keeps attention on John’s activity at the river."
+          ],
+          "sourceIds": [
+            "john1",
+            "isa40",
+            "john11"
+          ]
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "title": "The Lamb and the abiding Spirit",
+          "paragraphs": [
+            "“Lamb of God” is not followed by an identified Old Testament quotation. Passover deliverance and Isaiah’s servant led like a lamb are important possible backgrounds, but the title should not be confined confidently to one exclusive source. Its immediate explanation is Jesus’ action toward “the sin of the world.” The chapter gives the title its scope before the later narrative shows Jesus’ death.",
+            "John the Baptist twice says he did not know Him. Within his testimony, the decisive issue is recognizing Jesus as the One he was sent to reveal to Israel. The promised sign is the Spirit descending and remaining on Him; the text does not require a reconstruction of every earlier personal acquaintance.",
+            "The Spirit’s remaining is emphasized, and Jesus is identified as the giver of the Spirit. The BSB prints the Baptist’s confession as “the Son of God,” while noting the ancient alternative “the Chosen One of God.” The testimony establishes Jesus’ identity and authority through the sign John was given."
+          ],
+          "sourceIds": [
+            "john1",
+            "nab",
+            "isa53",
+            "ex12"
+          ]
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "title": "Staying, finding, and bringing",
+          "paragraphs": [
+            "The Baptist’s repeated testimony leads two disciples to follow Jesus. Andrew is named; the other disciple is not. Jesus’ question opens a conversation, and the invitation to come and see results in their spending the day with Him. This sequence gives testimony an observable outcome rather than leaving belief as an abstract theme.",
+            "The language of staying uses μένω, meno, meaning remain, stay, or abide. It describes ordinary presence here, while the same verb will carry deeper relational force in Jesus’ teaching about remaining in Him in chapter 15. As the Gospel unfolds, remaining with Jesus takes on the fuller significance of a lasting relationship.",
+            "Andrew finds Simon, announces the Messiah, and brings him to Jesus. The Gospel supplies translations for Rabbi, Messiah, and Cephas, helping its audience follow the encounter across languages. Jesus’ naming of Simon introduces a future identity within the story; the text has not yet narrated all that Peter will become."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek39",
+            "remain",
+            "john15"
+          ]
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "title": "Nathanael and an opened heaven",
+          "paragraphs": [
+            "Philip’s announcement connects Jesus with Moses and the prophets. Nathanael questions Nazareth’s significance, then responds to Jesus’ knowledge of him with the titles Son of God and King of Israel. Nothing in the scene specifies what Nathanael was doing beneath the fig tree. A proposed prayer, reading, or private crisis should remain a proposal rather than be inserted as biography.",
+            "The final saying unmistakably recalls Genesis 28:12: angels ascend and descend, now on the Son of Man. Jesus places Himself at the center of the encounter between heaven and earth. In Greek, the words for “to you” and “you will see” are plural, widening the promise beyond Nathanael alone; the BSB conveys this with “you will all see.”",
+            "The chapter ends with a promise of greater disclosure rather than a completed account of the disciples’ understanding. Their many titles are genuine beginnings. The Gospel ahead will show what they mean through Jesus’ actions, teaching, death, and resurrection. The stated purpose in John 20:30–31 returns to those same themes: belief in Jesus’ identity and life in His name."
+          ],
+          "sourceIds": [
+            "john1",
+            "greek51",
+            "gen28",
+            "john20"
+          ]
+        }
+      ],
+      "reflection": "How do the titles given to Jesus develop across the chapter, and how does the opening prologue deepen what the first disciples have begun to recognize?"
+    },
+    "prophetic": {
+      "title": "Israel’s Scriptures Open Toward Christ",
+      "overview": [
+        "Creation, tabernacle, wilderness promise, sacrificial imagery, royal expectation, and Jacob’s vision all help shape John 1. The connections take different forms. John the Baptist explicitly quotes Isaiah, Jesus unmistakably recalls Genesis, and other scenes draw together biblical images whose full force emerges as the Gospel continues. Reading these passages alongside their earlier settings shows how the chapter presents Jesus within Israel’s story and invites people into the life He brings."
+      ],
+      "sections": [
+        {
+          "start": 1,
+          "end": 5,
+          "title": "Creation’s light and the life of Christ",
+          "paragraphs": [
+            "“In the beginning” takes us back to Genesis 1, where God speaks and light appears. John’s opening draws on that remembered scene while naming the Word through whom all things were made. The world Jesus enters belongs to Him from its beginning. His coming is therefore an act of divine involvement in the creation He has already given life.",
+            "Paul offers a closely related Christian connection in 2 Corinthians 4:5–6. He recalls God’s command for light to shine from darkness and applies the image to knowing God’s glory in Jesus Christ. Paul makes a related use of creation’s language. Together the passages make illumination relational: people come to know God through Christ.",
+            "The present response includes allowing that light to expose as well as comfort. Hope in Christ can give us courage to face what is wrong, because the life offered to us has a source deeper than our failure."
+          ],
+          "sourceIds": [
+            "john1",
+            "gen1",
+            "cor4"
+          ]
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "title": "A witness for a gift that reaches outward",
+          "paragraphs": [
+            "John the Baptist’s witness is directed toward belief, and the Light’s significance reaches everyone. Isaiah 49:5–6 supplies a rich earlier comparison: God’s servant is to restore Israel and also become light for the nations. John 1 does not formally quote that passage here, but its movement from Israel’s setting toward the world belongs within a related biblical horizon.",
+            "The promise of becoming God’s children must be read with the words that follow it. This life comes from God. Jesus will develop the subject when He speaks to Nicodemus in John 3:3–8 about birth through the Spirit. The opening therefore prepares for an encounter in which even an established religious teacher must consider how life from God is received.",
+            "A community shaped by this gift has little room for boasting about pedigree. Its witness should reach outward with humility, welcoming people to trust Christ without treating social background, education, or inherited standing as measures of their worth."
+          ],
+          "sourceIds": [
+            "john1",
+            "isa49",
+            "john3"
+          ]
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "title": "The dwelling and the glory",
+          "paragraphs": [
+            "Moses asks to see God’s glory in Exodus 33. In Exodus 34, the LORD proclaims His gracious and faithful character; in Exodus 40, divine glory fills the tabernacle. John’s language of the Word dwelling among us, full of grace and truth, gathers those concerns around Jesus. The Greek eskenosen, with its sense of dwelling in a tent, makes the tabernacle resonance especially vivid.",
+            "The prologue’s conclusion explains the movement: the Son at the Father’s side makes God known. Israel’s history of divine presence becomes essential background for understanding what the Gospel is claiming about Jesus. God’s revelation reaches people through His human life.",
+            "Revelation 21:1–4 extends the theme toward the promised renewal of creation, where God dwells with humanity and wipes away tears. This later vision gives a future horizon to a biblical theme already present in John. For the church now, the incarnation gives weight to bodily care, patient presence, and truth spoken with the grace of Christ."
+          ],
+          "sourceIds": [
+            "john1",
+            "dwell",
+            "ex33",
+            "ex34",
+            "ex40",
+            "rev21"
+          ]
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "title": "Isaiah’s voice and John’s calling",
+          "paragraphs": [
+            "Here the connection to prophecy is explicit. John the Baptist identifies his work through Isaiah 40:3, the voice calling for a way to be prepared for the LORD. In Isaiah, the words stand within an announcement of comfort to Jerusalem and the revealing of God’s glory. They belong to the hope of God coming to His people.",
+            "By speaking those words in relation to the One coming after him, John gives his ministry a place within that promised visitation. The Gospel is asking its audience to recognize the significance of the person whose way he prepares. John’s refusal to claim the highest place strengthens this testimony: the attention belongs to the Lord.",
+            "That pattern continues to test Christian ministry. Preparing the way involves making Christ easier to hear and encounter. It may require relinquishing the prestige, rivalry, or self-protection that causes a messenger’s importance to obscure the message entrusted to him."
+          ],
+          "sourceIds": [
+            "john1",
+            "isa40"
+          ]
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "title": "Deliverance, sacrifice, and the Spirit",
+          "paragraphs": [
+            "The Lamb of God gathers a wide scriptural field around Jesus. Exodus 12 describes deliverance through the Passover and the lamb’s blood. Isaiah 53 portrays the servant as a lamb led to slaughter and speaks of his bearing the sins of others. These are complementary connections to consider, while the exact background intended by the title remains debated.",
+            "The Gospel’s later account of Jesus’ death makes the Passover comparison especially significant. John 19:36 cites the Scripture about unbroken bones, a feature also commanded for the Passover lamb in Exodus 12:46. Isaiah’s servant language helps explain why the title can concern sin as well as deliverance. The two earlier passages have their own settings; John’s story brings their themes into focus around Jesus.",
+            "The Spirit who rests on Jesus also identifies Him as the One who gives the Spirit. The chapter presents salvation as more than an inspiring example. Christ addresses the world’s sin and gives the life people cannot generate for themselves."
+          ],
+          "sourceIds": [
+            "john1",
+            "nab",
+            "ex12",
+            "isa53",
+            "john19"
+          ]
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "title": "The Messiah is encountered personally",
+          "paragraphs": [
+            "Andrew’s declaration that he has found the Messiah places his encounter within Israel’s expectation of God’s anointed one. Psalm 2 connects the LORD’s anointed with kingship and sonship, themes that will appear together again in Nathanael’s confession. These royal words carry a history larger than Andrew’s first day with Jesus.",
+            "The way Andrew shares his discovery is strikingly personal. He finds Simon and brings him to Jesus, who addresses Simon by name and calls him Cephas, Peter. The promised Messiah is becoming known through relationships that will change under His direction. The disciples have begun a journey whose meaning the Gospel will continue to disclose.",
+            "For present-day witness, this scene offers a helpful scale. We can tell what we have found, invite another person to consider Jesus, and make space for that person’s own response. The confession is substantial, but the encounter is not controlled by the messenger. Christ remains the One whom each person must come to know."
+          ],
+          "sourceIds": [
+            "john1",
+            "ps2"
+          ]
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "title": "The Son of Man and Jacob’s open heaven",
+          "paragraphs": [
+            "Philip says that Moses and the prophets have written of the One he has found. Jesus then gives the chapter’s final scriptural image: the angels ascending and descending on the Son of Man. Genesis 28:10–17 is the clear background. Jacob sees the stairway between earth and heaven, receives God’s promise of presence, and recognizes the place as God’s house and heaven’s gate.",
+            "In John, the vision is centered on a person. Jesus presents Himself as the meeting place through whom the disciples will encounter God. The plural promise draws them into something greater than Nathanael’s private astonishment. The Gospel’s account of Jesus will give substance to that opened horizon.",
+            "The vision invites the disciples to trust Jesus as the One who makes God known. The chapter has moved from the Word with God to people being summoned to follow Him. Its prophetic force is concentrated in that disclosure: Israel’s remembered hopes direct attention to Jesus, and the appropriate response is to keep coming, seeing, and learning His way."
+          ],
+          "sourceIds": [
+            "john1",
+            "gen28",
+            "greek51"
+          ]
+        }
+      ],
+      "reflection": "Which connection most deepens your understanding of Jesus: creation’s light, God’s dwelling, the Lamb, or Jacob’s open heaven—and how might it shape your trust and care for others?"
+    }
+  },
+  "crossReferences": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "start": 1,
+      "end": 5,
+      "label": "Genesis 1:1–5",
+      "relationship": "Foundational literary echo: creation and light",
+      "note": "John’s opening wording, creation claim, and light imagery deliberately recall the beginning of Genesis."
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "start": 5,
+      "end": 6,
+      "label": "2 Corinthians 4:5–6",
+      "relationship": "Apostolic thematic connection: light and Christ",
+      "note": "Paul also uses creation’s light to explain coming to know God’s glory through Jesus, offering a related apostolic use of Genesis."
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 49,
+      "start": 5,
+      "end": 6,
+      "label": "Isaiah 49:5–6",
+      "relationship": "Thematic background: light beyond Israel",
+      "note": "The servant’s calling includes restoration of Israel and light to the nations, illuminating the wide horizon of John 1 without functioning as an explicit quotation there."
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "start": 3,
+      "end": 8,
+      "label": "John 3:3–8",
+      "relationship": "Development within the Gospel: birth through the Spirit",
+      "note": "Jesus’ conversation with Nicodemus develops the opening theme of life born from God."
+    },
+    {
+      "book": "Exodus",
+      "chapter": 33,
+      "start": 18,
+      "end": 23,
+      "label": "Exodus 33:18–23",
+      "relationship": "Background: the desire to see God’s glory",
+      "note": "Moses’ request helps illuminate the prologue’s themes of glory, seeing God, and revelation."
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "start": 5,
+      "end": 9,
+      "label": "Exodus 34:5–9",
+      "relationship": "Background: God’s gracious and faithful character",
+      "note": "God’s self-proclamation provides a scriptural setting for the grace and truth made known through Jesus."
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "start": 34,
+      "end": 38,
+      "label": "Exodus 40:34–38",
+      "relationship": "Tabernacle resonance: glory among God’s people",
+      "note": "Glory fills Israel’s dwelling; John’s language of the Word dwelling among us brings this imagery into the account of Jesus."
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "start": 1,
+      "end": 5,
+      "label": "Isaiah 40:1–5",
+      "relationship": "Explicit quotation and its prophetic context",
+      "note": "John the Baptist quotes the wilderness voice of Isaiah 40:3 to identify his task of preparing the Lord’s way."
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "start": 1,
+      "end": 14,
+      "label": "Exodus 12:1–14",
+      "relationship": "Possible title background: Passover deliverance",
+      "note": "Passover is a major biblical connection for the Lamb of God; it need not be treated as the title’s only background."
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "start": 43,
+      "end": 46,
+      "label": "Exodus 12:43–46",
+      "relationship": "Passover detail used in the later death narrative",
+      "note": "The command not to break the Passover lamb’s bones helps connect the Lamb language with John 19:36."
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 53,
+      "start": 4,
+      "end": 12,
+      "label": "Isaiah 53:4–12",
+      "relationship": "Possible title background: the suffering servant",
+      "note": "The servant’s lamb imagery and bearing of sins form another important connection to John 1:29."
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "start": 31,
+      "end": 37,
+      "label": "John 19:31–37",
+      "relationship": "Later Gospel development: death and scriptural fulfillment",
+      "note": "The unbroken bones and the testimony surrounding Jesus’ death deepen the earlier presentation of Him as the Lamb."
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "start": 4,
+      "end": 9,
+      "label": "John 15:4–9",
+      "relationship": "Later development of remaining with Jesus",
+      "note": "The verb used for staying with Jesus in John 1 also appears in His later teaching about enduring relationship and fruitfulness."
+    },
+    {
+      "book": "Psalm",
+      "chapter": 2,
+      "start": 1,
+      "end": 8,
+      "label": "Psalm 2:1–8",
+      "relationship": "Royal background: anointed king and Son",
+      "note": "The psalm supplies scriptural language related to the chapter’s confessions of Messiah, Son of God, and King of Israel."
+    },
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "start": 10,
+      "end": 17,
+      "label": "Genesis 28:10–17",
+      "relationship": "Direct allusion: Jacob’s vision",
+      "note": "Jesus reuses the angels’ ascending and descending from Jacob’s dream, centering the vision on the Son of Man."
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "start": 1,
+      "end": 4,
+      "label": "Revelation 21:1–4",
+      "relationship": "Later canonical horizon: God dwelling with humanity",
+      "note": "The promised new creation extends the biblical theme of divine presence with people toward a future of restored life."
+    }
+  ],
+  "revision": "Fresh Aperio Greek benchmark draft; complete chapter coverage, inspected lexical and translation evidence, and explicitly distinguished scriptural connections."
+}

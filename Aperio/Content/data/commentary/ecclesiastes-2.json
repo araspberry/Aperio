@@ -1,0 +1,55 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 2,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Ecclesiastes 2 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Ecclesiastes 2: The Vanity of Human Striving",
+      "overview": [
+        "The spiritual heart of Ecclesiastes 2 is a radical invitation to question what we are truly building our lives around—and to recognize that achievement, pleasure, and accumulation cannot satisfy the deepest longings of the soul.",
+        "The Preacher in this passage embarks on an exhaustive experiment in self-gratification and accomplishment. He pursues wisdom, pleasure, wine, building projects, gardens, possessions, and accolades with relentless energy. By worldly standards, he achieves everything: success, wealth, recognition, and respect. Yet after cataloging all his accomplishments, he reaches the same devastating conclusion that threads through Ecclesiastes: it is all vanity, a chasing after the wind. What makes this so powerful is not the inventory of his pursuits, but the honest reckoning that follows. He admits that despite all his striving, death comes for him as it comes for the fool who gains nothing. The advantage of wisdom, he realizes, is temporary. Everything is left behind.",
+        "This passage speaks directly to the modern condition. We live in an age that endlessly promises fulfillment through achievement, consumption, and self-improvement. We are coached to climb higher, earn more, and optimize every aspect of our lives. Yet many who have climbed these ladders report an unexpected emptiness at the top. The Preacher's honesty opens space for us to pause and ask what we are actually chasing—and whether it is worth our one short life.",
+        "The beauty of Ecclesiastes is that its emptiness is not nihilistic despair but prophetic correction. It clears away false gods so we might worship the true God. When we stop believing that human achievement can satisfy us, we become available for something deeper: the fear of God, receiving life as His gift, and finding joy in His presence rather than in our productions.",
+        "What would change in your daily priorities if you genuinely believed that your accomplishments cannot ultimately satisfy? Where might God be inviting you to relinquish control and rest in His care?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Ecclesiastes 2: Scholarly study",
+      "overview": [
+        "Ecclesiastes 2 continues the Teacher's (Qoheleth's) rigorous philosophical investigation into the nature of meaning and lasting value under the sun, employing first-person royal autobiography as a literary vehicle for exploring the limits of human achievement. The chapter divides naturally into two major sections: an extended experiment with pleasure and accomplishment (vv. 1-11) and a subsequent meditation on the relationship between wisdom, folly, and death (vv. 12-26). Scholarly consensus generally dates the book to the post-exilic period, likely the third century BCE, when Hellenistic philosophical currents intersected with traditional Hebrew wisdom, creating space for this unprecedented examination of life's apparent futility.",
+        "The Teacher's experiment begins with an invitation to pleasure, using the Hebrew term *simḥah* (שִׂמְחָה), which encompasses not merely hedonistic indulgence but the fuller sense of joy and festive celebration that wisdom literature typically associates with divine blessing. Yet even this proves to be *hevel* (הֶבֶל)—the book's thematic keyword meaning \"breath,\" \"vapor,\" or \"vanity\"—suggesting transience and insubstantiality rather than mere moral emptiness. The Teacher's subsequent catalog of achievements—building houses, planting vineyards, acquiring servants and livestock, amassing wealth—mirrors the accomplishments attributed to Solomon in 1 Kings, establishing the royal fiction that legitimizes the experiment's comprehensiveness.",
+        "The turning point arrives in verse 11 with the devastating assessment that all labor constitutes \"chasing after wind\" (*re'ut ruaḥ*), a phrase unique to Ecclesiastes that captures the futility of grasping what cannot be held. The subsequent meditation on wisdom and folly introduces a critical tension: wisdom demonstrably surpasses folly as light surpasses darkness, yet both the wise and foolish share identical fates in death. This observation has generated substantial interpretive debate, with some scholars detecting cynicism while others perceive a sophisticated theology of limitation that ultimately redirects human attention toward divine sovereignty.",
+        "The chapter concludes with what appears paradoxical: enjoyment of labor is itself God's gift. This represents not contradiction but rather the emergence of Qoheleth's qualified commendation of present joy as the appropriate human response within divinely established boundaries. The Teacher thus subverts expectations, transforming apparent nihilism into theological realism that acknowledges both human limitation and divine generosity."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Ecclesiastes 2: Prophetic perspective",
+      "overview": [
+        "Written approximately 950 years before Christ's birth, during the united monarchy's zenith under Solomon, this chapter emerges from Israel's golden age—a period of unprecedented peace, wealth, and architectural achievement following David's wars and preceding the kingdom's division. Within redemptive history, this stands in the Kingdom era, after the Exodus and before the Exile, when Israel possessed the land, the temple, and a Davidic king, yet even these covenant blessings could not satisfy the deepest longings of the human soul.",
+        "Solomon's exhaustive experiment recounted here constitutes one of Scripture's most penetrating analyses of life \"under the sun\"—that is, life evaluated purely on the horizontal plane, apart from eternal perspective. The wisest and wealthiest man in the ancient world systematically pursued pleasure, laughter, wine, building projects, gardens, servants, silver, gold, and every conceivable achievement. His conclusion reverberates across millennia: all proved to be vapor and striving after wind. This royal autobiography functions typologically as an anticipatory negation—demonstrating that even the pinnacle of earthly kingship, wisdom, and prosperity cannot deliver what humanity truly needs. Where Solomon's kingdom, for all its glory, ended in disillusionment, Another would come whose kingdom brings inexhaustible joy.",
+        "The passage's lament over leaving one's inheritance to an unknown successor who may prove foolish carries prophetic weight. Solomon's own son Rehoboam would indeed act foolishly, shattering the kingdom within days of assuming power. Yet this thread points beyond immediate history to the contrast between Adam's failed stewardship, passed to fallen heirs, and Christ's eternal inheritance shared with those He has made joint-heirs. The despair over labor's futility anticipates Paul's declaration that labor \"in the Lord\" is never in vain, precisely because resurrection transforms all faithful work into eternal significance.",
+        "The chapter's darkest verses—questioning whether any difference exists between human and animal death—represent not theological error but honest wrestling that prepares humanity for resurrection hope. Solomon groped in shadows for what would only become clear when Christ emerged from the tomb, proving that human destiny differs absolutely from the beasts.",
+        "For the church dwelling between the advents, Ecclesiastes 2 serves as divine inoculation against the prosperity gospel's lies and secularism's empty promises. Every idol this generation chases—success, pleasure, legacy, accumulated wealth—stands already exposed as insufficient by Solomon's ancient testimony. Only the One greater than Solomon satisfies, and only His coming kingdom transforms vapor into everlasting substance."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "21_002",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.663759+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

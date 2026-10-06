@@ -1,0 +1,57 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "2 Corinthians 1 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "2 Corinthians 1",
+      "overview": [
+        "When suffering comes—whether through illness, relational loss, or spiritual darkness—we desperately need to know that God's comfort is not abstract theology but tangible and real. Paul opens this letter with a profound truth: God meets us precisely in our afflictions, not to explain them away, but to transform us through them.",
+        "Paul had endured severe trials in Asia—so severe that he despaired of life itself. Yet in that darkness, he discovered something revolutionary. The comfort God gave him was not escape from suffering but the presence of God within it. This is not the comfort of false optimism or spiritual bypassing. Rather, it is the deep assurance that we are not abandoned, that our pain is witnessed by a God who has also suffered, and that our afflictions are not meaningless.",
+        "What makes this opening so pastoral is Paul's immediate pivot: he does not keep this comfort to himself. Instead, he invites the Corinthians into a circle of mercy. \"Blessed be the God and Father of our Lord Jesus Christ,\" he writes, \"the Father of compassions and God of all comfort, who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God.\" Our pain becomes permission and training to comfort others.",
+        "This reframes suffering from something merely to endure into something generative. When we receive God's comfort in our trials, we gain capacity to minister to others. Our broken places become bridges to others' healing. The local church thrives when wounded people welcome other wounded people, when those who have been comforted become comforters.",
+        "Perhaps you are in trial right now, or perhaps someone you love is. The invitation here is not to deny the difficulty but to look for the hidden grace of God's presence within it.",
+        "What comfort have you received from God during difficulty, and how might God want to use that to comfort someone else?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "2 Corinthians 1: Scholarly study",
+      "overview": [
+        "The opening chapter of Paul's second canonical letter to the Corinthian church stands as one of the most theologically rich and pastorally sensitive introductions in the Pauline corpus. Composed likely from Macedonia around 55–56 CE, this letter emerges from a tumultuous relationship between the apostle and the community he founded during his eighteen-month stay in Corinth (Acts 18:1–11). The epistle addresses a congregation that had questioned Paul's apostolic authority, his travel plans, and his personal integrity, making the careful theological framing of this opening chapter strategically significant.",
+        "Paul's extended blessing (1:3–7) employs the term *paraklēsis* (παράκλησις), which appears ten times in verses 3–7 alone, creating a dense theological meditation on divine comfort. This term, variously translated as \"comfort,\" \"consolation,\" or \"encouragement,\" carries connotations of strengthening presence rather than mere emotional solace. The cognate verb *parakaleō* shares its root with *paraklētos*, the term John's Gospel applies to the Holy Spirit, suggesting that divine comfort operates through active, advocating presence amid affliction.",
+        "The nature of Paul's *thlipsis* (θλῖψις), rendered \"affliction\" or \"tribulation,\" mentioned in verses 4–8, remains debated among scholars. The reference to affliction \"in Asia\" (1:8) may allude to the Ephesian riot (Acts 19), imprisonment, severe illness, or other unrecorded persecution. Paul's dramatic language—being \"utterly burdened beyond our strength\" and receiving \"the sentence of death\"—indicates a near-fatal crisis that fundamentally shaped his understanding of resurrection dependence.",
+        "Theologically, Paul establishes a participatory framework wherein believers share in both Christ's sufferings and his comfort (1:5). This *koinōnia* of affliction serves not as mere endurance but as the mechanism through which comfort multiplies for others' benefit. The chapter thus introduces a pastoral theology of redemptive suffering that permeates the entire letter.",
+        "The chapter concludes with Paul defending his travel plans and introducing the theme of divine faithfulness through the affirmation that God's promises find their \"Yes\" in Christ (1:20). The unusual trinitarian structure of verses 21–22, mentioning God, Christ, and the Spirit as seal and guarantee (*arrabōn*), provides early evidence of developing Christian theological grammar concerning divine identity and salvific action."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "2 Corinthians 1: Prophetic perspective",
+      "overview": [
+        "This epistle emerges from the apostolic era, written approximately twenty-five years after the resurrection of Christ, around AD 55–56, during Paul's third missionary journey. The church at Corinth had been established only a few years prior, and this letter represents Paul's most personal and emotionally vulnerable correspondence, penned in the midst of severe affliction he experienced in the province of Asia. Within the grand arc of redemptive history, this chapter stands firmly in the Church Age—that pregnant interval between Pentecost and the Parousia when the Spirit indwells believers, the gospel advances through suffering servants, and the new covenant community lives as firstfruits of the coming kingdom.",
+        "The opening benediction unveils the Father as \"the God of all comfort,\" a title that echoes Israel's prophetic hope. Isaiah proclaimed that God would comfort His people, that warfare was ended and iniquity pardoned. What the prophets announced, the church now experiences in the ministry of the Spirit, the Comforter whom Christ promised would come. Paul's theology of suffering here is profoundly typological: as Christ's sufferings overflow to the apostles, so does Christ's comfort. The pattern of death working life, of affliction producing consolation, recapitulates the paschal mystery itself. What was accomplished definitively at Golgotha now operates dynamically in those united to the Crucified One.",
+        "The affliction Paul suffered in Asia—so severe he despaired of life itself—becomes a redemptive paradigm. God delivered him from deadly peril not merely for Paul's benefit but to establish a pattern: those who trust the God who raises the dead discover resurrection power even before the final resurrection. Here the eschatological future breaks into the present. The same power that will summon bodies from graves already operates in sustaining persecuted saints.",
+        "Paul's reference to the Holy Spirit as \"the guarantee\" of what is to come carries immense prophetic weight. The Spirit is the arrabon—the down payment, the earnest money—of our inheritance. Believers presently possess the firstfruits of the age to come while groaning for its consummation. The \"Yes\" and \"Amen\" in Christ to all God's promises declares that every prophetic word—from Eden's protoevangelium to Revelation's new creation—finds its certain fulfillment in Him.",
+        "For the church living between the advents, this chapter anchors hope: present sufferings are not meaningless but participatory, comfort is not escapism but Christological, and the Spirit's presence guarantees that what God began He will gloriously complete."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "47_001",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.815498+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

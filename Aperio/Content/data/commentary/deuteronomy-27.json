@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 27 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 27: Standing Before God with Open Eyes",
+      "overview": [
+        "The spiritual heart of Deuteronomy 27 is the solemn moment when Israel must publicly declare their commitment to God's covenant—and publicly acknowledge the curses that come with breaking it. Moses is not merely listing rules; he is inviting the people to stand consciously at the threshold between blessing and curse, fully aware of the consequences of their choices.",
+        "This chapter opens with a striking instruction: the people are to erect stone monuments and write the law upon them so that \"all Israel\" can see and read them. There is something profoundly honest about this visibility. The law is not hidden in a sanctuary, reserved for priests alone. It is public, permanent, written in stone. God's expectations are meant to be known by everyone, not obscured or mysterious. This reflects God's desire that his people live with clear eyes, understanding what covenant with him actually means.",
+        "The ceremony itself unfolds dramatically. Half the tribes stand on Mount Gerizim to pronounce blessings; half stand on Mount Ebal to pronounce curses. The people are not passive observers but active participants, shouting their agreement to these terms. This is covenant renewal as visceral, embodied commitment. When we hear the curses—pronounced against idolatry, disrespect of parents, theft, injustice, and sexual sin—we encounter a God who takes his covenant seriously and expects his people to do the same.",
+        "In our contemporary context, we often shy away from consequences and accountability. But Deuteronomy 27 reminds us that genuine love requires clear boundaries. God's curses are not arbitrary punishment but the natural consequence of turning from the one who sustains life itself. The blessing comes not from blind obedience but from freely chosen alignment with God's character and design.",
+        "What would it mean for you to consciously renew your covenant with God this week—not just mentally, but with the full awareness of both what following Christ offers and what walking away would cost?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 27: Scholarly study",
+      "overview": [
+        "Deuteronomy 27 marks a significant transition in the Mosaic covenant, moving from proclamation to ritual enactment as Israel prepares to cross the Jordan into Canaan. This chapter presents a composite literary unit combining instructions from Moses with directives involving the Levitical priests, reflecting the book's characteristic blend of legal, liturgical, and hortatory material. The setting presupposes the imminent death of Moses and Israel's covenant renewal on the plains of Moab, making these instructions prospective—commands to be fulfilled upon entry into the promised land.",
+        "The chapter opens with Moses commanding Israel to erect large stones coated with plaster (*sid*) upon which the words of \"this law\" (*hattorah hazzot*) would be inscribed. This practice finds parallels in ancient Near Eastern monumental inscriptions, particularly Egyptian and Mesopotamian royal stelae, though here the writing serves covenantal rather than propagandistic purposes. The location designated—Mount Ebal—presents an interpretive difficulty, as the Samaritan Pentateuch reads \"Mount Gerizim,\" reflecting ongoing tensions between Judean and Samaritan cultic traditions. The choice of Ebal, the mountain associated with curses in the subsequent ceremony, has puzzled commentators, though some suggest the altar's presence there signifies grace amid judgment.",
+        "The twelve curses pronounced from Mount Ebal in verses 15–26 constitute an apodictic series employing the Hebrew term *arur* (\"cursed\"), a performative declaration invoking divine sanction. These curses address primarily secret sins—idolatry committed covertly, injustice against vulnerable persons, and sexual transgressions—sins that human courts could not easily adjudicate. The congregation's responsive \"*amen*\" (*ʾamen*), derived from the root meaning firmness or reliability, represents communal self-imprecation, binding the people to covenant fidelity under divine witness.",
+        "Structurally, this chapter anticipates the blessings and curses of chapter 28, forming part of the covenant formulary that scholars have compared to Hittite suzerainty treaties. The Levites' central role in pronouncing curses underscores their function as covenant mediators between Yahweh and Israel. The chapter thus establishes a liturgical framework for covenant maintenance, transforming abstract legal obligations into embodied communal commitment through ritual performance and verbal assent."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 27: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 27 stands at a pivotal threshold in redemptive history, approximately 1400 years before the incarnation of Christ, as Israel prepares to cross the Jordan into the land promised to Abraham six centuries earlier. Moses speaks these words on the plains of Moab during the final days before his death, instructing a new generation that had not witnessed Sinai but must now carry covenant faithfulness into Canaan. This chapter sits within the movement from Exodus to Kingdom, as the redeemed people transition from wilderness wandering to territorial inheritance—a shadow of the greater rest that would come through Joshua's greater namesake, Jesus.",
+        "The command to erect plastered stones inscribed with the law upon Mount Ebal carries profound typological weight. These stones, whitewashed and written upon, stand as witnesses against the people—the law made visible, public, and inescapable. That the altar must be built of uncut stones, untouched by human tools, points forward to a salvation that cannot be shaped by human effort. The burnt offerings and peace offerings commanded here whisper of the final sacrifice that would render all others obsolete, when Christ would become both altar and offering on a hill outside Jerusalem.",
+        "The ceremony of blessing and cursing, divided between Mount Gerizim and Mount Ebal, dramatizes the two ways set before humanity since Eden: obedience unto life or rebellion unto death. The twelve curses pronounced by the Levites expose sins both hidden and public—idolatry, dishonor of parents, injustice to the vulnerable, sexual perversion, violence, and bribery. Each curse met with the congregation's \"Amen\" bound the people in corporate acknowledgment of God's righteous standard. Yet herein lies the prophetic tension: no fallen human could escape these curses. The law inscribed on stone would condemn rather than save, a ministry of death that Paul would later contrast with the glory of the Spirit.",
+        "What Israel enacted in shadow, Christ fulfilled in substance. He stood under every curse pronounced on Ebal, becoming a curse for His people by hanging on a tree. The stones of witness that testified against Israel find their answer in the Living Stone rejected by builders but chosen by God. The blessings that Gerizim could only promise, Christ secures eternally for all who are united to Him by faith.",
+        "The church now lives as a people transferred from curse to blessing, awaiting the day when the law will be written not on plastered stones but on resurrected hearts in the New Jerusalem, where blessing reigns unchallenged forevermore."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_027",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.16348+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

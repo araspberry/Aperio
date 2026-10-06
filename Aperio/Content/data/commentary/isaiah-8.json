@@ -1,0 +1,64 @@
+{
+  "book": "Isaiah",
+  "chapter": 8,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Isaiah 8 — Aperio commentary",
+  "sources": [
+    {
+      "id": "correction-1",
+      "label": "Isaiah 8 · Scripture",
+      "url": "https://biblehub.com/bsb/isaiah/8.htm"
+    }
+  ],
+  "modes": {
+    "devotional": {
+      "title": "Isaiah 8: The Way Forward When Darkness Threatens",
+      "overview": [
+        "The spiritual heart of Isaiah 8 is this: when fear threatens to overwhelm us, we find solid ground not in circumstances, but in the person and promises of God. In a time of political upheaval and national dread, Isaiah calls God's people to anchor their lives in the Immanuel—God with us—rather than in the trembling voices of anxious leaders and false prophets.",
+        "Isaiah confronts a people paralyzed by what they see coming: the armies of Assyria, the collapse of their alliances, the sense that God has abandoned them. In response, the prophet doesn't minimize their fear or offer cheap reassurance. Instead, he invites them into a radical reorientation. The nations may conspire, but their plans will be thwarted because \"God is with us\" (8:10). This isn't optimistic denial; it's the deep conviction that the sovereign God who walks with His people cannot be overcome by human schemes, no matter how formidable they appear.",
+        "What strikes the heart in this passage is how personal Isaiah makes it. He writes of his own children as signs and wonders (8:18), and he speaks directly to believers: \"To the law and to the testimony! If they do not speak according to this word, they have no light of dawn\" (8:19). He's essentially saying that when anxiety whispers in your ear and false comforts beckon, return to God's established word. This is the anchor. This is the light.",
+        "The closing verses capture the essence: when people are bound in darkness and despair, they need something to stabilize them—testimony, instruction, and the reassurance that even in confusion, God's presence and purpose remain. This is the invitation Isaiah extends then and now: stop consulting your fears as though they were prophets. Turn instead to the God whose word stands forever.",
+        "What area of your life right now is tempting you to consult fear rather than faith? How might you return to God's established promises today?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Isaiah 8: Scholarly study",
+      "overview": [
+        "Isaiah 8 constitutes a pivotal chapter within the so-called \"Isaiah Memoir\" (chapters 6–8), a collection of prophetic material dating to the Syro-Ephraimite crisis of 735–732 BCE, when the coalition of Rezin of Aram and Pekah of Israel threatened Judah under King Ahaz. The chapter divides into three interconnected units: the sign of Maher-shalal-hash-baz (vv. 1–4), warnings against misplaced trust (vv. 5–15), and the prophet's resolve to preserve his testimony (vv. 16–22). This material demonstrates Isaiah's characteristic interweaving of judgment and hope, political commentary, and theological instruction.",
+        "The chapter opens with YHWH commanding Isaiah to inscribe the ominous name \"Maher-shalal-hash-baz\" (מַהֵר שָׁלָל חָשׁ בַּז), meaning \"swift is the plunder, speedy is the prey,\" on a large tablet before credible witnesses. This act of prophetic symbolism, reinforced when the prophetess bears a son given this name, serves as a temporal marker: before the child can speak, Assyria will devastate both Damascus and Samaria. The prophecy proved accurate with Tiglath-pileser III's campaigns of 732 BCE.",
+        "Central to the chapter is the contrast between the \"gently flowing waters of Shiloah\" (מֵי הַשִּׁלֹחַ, v. 6)—symbolizing quiet trust in YHWH and the Davidic monarchy—and the overwhelming \"River\" (נָהָר, nahar), representing Assyrian military might that Judah's rejection of faith will unleash. The flood imagery depicting Assyria reaching \"up to the neck\" suggests devastation stopping just short of complete destruction, a theme developed in subsequent chapters.",
+        "The difficult verses 11–15 introduce the concept of YHWH as both \"sanctuary\" (מִקְדָּשׁ, miqdash) and \"stone of stumbling\" (אֶבֶן נֶגֶף), a paradox later employed by New Testament authors (Romans 9:33; 1 Peter 2:8). This dual role—salvation for the faithful, judgment for the faithless—encapsulates Isaiah's theological vision.",
+        "The chapter concludes with Isaiah sealing his testimony among disciples, withdrawing from public ministry while awaiting YHWH's vindication. The warnings against consulting mediums and spiritists direct the people instead toward God’s instruction and testimony (vv. 19–20)."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Isaiah 8: Prophetic perspective",
+      "overview": [
+        "Isaiah chapter eight unfolds approximately 735 years before the birth of Christ, during the terrifying days of the Syro-Ephraimite crisis when the northern kingdom of Israel allied with Syria to crush Judah and dethrone the house of David. This passage sits at a critical juncture in redemptive history—the Davidic kingdom stands divided, the northern tribes race toward their destruction by Assyria just thirteen years hence, and the southern kingdom trembles between faith and unbelief. Within the grand arc of salvation history, we stand in the era of the divided monarchy, watching the covenant promises to David face their severest test as foreign powers threaten to extinguish the royal line through whom Messiah must come.",
+        "The prophet receives divine instruction to inscribe \"Maher-Shalal-Hash-Baz\" upon a great tablet—a name meaning \"swift is the plunder, speedy is the prey\"—and this prophetic sign-child joins Immanuel from chapter seven as living testimony to God's sovereign control over the nations. Before this infant could speak his first words, Damascus and Samaria would fall to Assyrian fury. This prophecy found literal fulfillment within three years when Tiglath-Pileser III devastated Syria in 732 BC and within thirteen years when Samaria collapsed in 722 BC.",
+        "The waters of Shiloah that flow gently represent Yahweh's quiet, sustaining presence with the Davidic house—rejected by faithless Judah in favor of Assyrian alliance. Yet the very flood they summoned would rise to engulf them, reaching even to the neck of Jerusalem. Here emerges stunning typology: these gentle waters prefigure Christ Himself, rejected by His own, who told a blind man to wash in the Pool of Siloam—meaning \"sent\"—revealing Himself as the true Sent One whom Israel refused.",
+        "The declaration \"God is with us\" echoes through the terror as both warning and promise. When conspiracy theories multiply and fear grips hearts, the faithful remnant must sanctify the Lord alone as their dread and their sanctuary. Christ becomes either foundation stone or stumbling block—a reality Peter explicitly applies to Jesus in the New Testament. The binding up of testimony among disciples anticipates the preservation of God's Word through the faithful community across all ages.",
+        "For the church awaiting Christ's return, this chapter speaks with penetrating relevance: in seasons of political upheaval and spiritual darkness, believers must refuse to seek guidance from the dead on behalf of the living, anchoring instead to the law and testimony, waiting upon the Lord who hides His face yet remains Israel's only hope."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "23_008",
+    "sourceGeneratedAt": "2026-05-07 18:34:36.736433+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [
+      "patch-050"
+    ],
+    "humanTheologicalReview": "pending"
+  }
+}

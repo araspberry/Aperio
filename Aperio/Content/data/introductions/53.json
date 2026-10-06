@@ -1,0 +1,135 @@
+{
+  "book": "1 Timothy",
+  "bookIndex": 53,
+  "status": "Editorial draft",
+  "title": "1 Timothy: Caring for the Household of God",
+  "subtitle": "Teaching, leadership, prayer, and generosity are tested by the life they produce in a community.",
+  "atAGlance": {
+    "genre": "Pastoral letter concerning teaching and church order",
+    "setting": "Timothy is addressed in Ephesus with responsibility for teaching, leadership, and the care of vulnerable members.",
+    "composition": "Presented as Paul’s instruction to Timothy. Traditional dating falls in the AD 60s; many scholars favor a later author in Paul’s tradition, in the late first or early second century.",
+    "audience": "Timothy and, through him, the Christian community entrusted to his care."
+  },
+  "sections": [
+    {
+      "title": "A community entrusted to careful care",
+      "paragraphs": [
+        "First Timothy begins with a charge to address teaching that has become distracted by speculation. The stated goal is love arising from a pure heart, a good conscience, and sincere faith. That opening provides a measure for everything that follows. Teaching is to form people whose lives display the truth they confess.",
+        "The letter portrays Paul entrusting Timothy with responsibility while he is absent. Questions about prayer, leaders, households, widows, money, and public reputation all belong to that responsibility. The church is described as God’s household, which brings care and accountability into the same picture. Its life should make the goodness of its message visible. Order matters because real people can be helped or harmed by the habits and decisions of a community."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "The Pastoral Letters and their setting",
+      "paragraphs": [
+        "First Timothy, Second Timothy, and Titus are commonly called the Pastoral Epistles because they address coworkers charged with teaching and leadership. Each speaks in Paul’s name. Traditional interpretation places them near the end of his ministry, sometimes within a period after the events narrated in Acts. Many modern scholars instead locate their composition after Paul’s death, noting distinctive vocabulary, concerns, and social arrangements. Pauline authorship continues to be defended.",
+        "The proposed dates consequently range from the AD 60s into the late first or early second century. The setting presented here is Ephesus, where Timothy must confront damaging teaching. Distinguishing the letter’s stated situation from debated questions of composition allows both to be considered fairly. The book’s direct concern is the trustworthiness of the community’s teaching and life."
+      ],
+      "sourceIds": [
+        "text",
+        "background"
+      ]
+    },
+    {
+      "title": "Leadership measured by character",
+      "paragraphs": [
+        "The qualifications for overseers and deacons emphasize habits that make responsibility safe: self-control, hospitality, faithfulness, moderation, and freedom from greed or violence. Ability to teach matters, but it sits among these qualities. A person’s conduct in familiar relationships is relevant to how that person will care for a wider household.",
+        "The letter also gives Timothy instructions about his own example, public reading, exhortation, and teaching. His relative youth is not to become a reason for neglecting the work entrusted to him. Attention to both life and doctrine prevents spiritual authority from becoming merely a claim to position. The question is whether the person’s visible conduct makes the instruction credible and contributes to the good of those receiving it."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Prayer, contested instructions, and practical support",
+      "paragraphs": [
+        "The call to prayer extends widely, including rulers, with the desire for a life marked by peace and godliness. The discussion of men and women in chapter 2 has generated substantial disagreement among Christians. Some understand its restrictions as enduring rules for church leadership; others relate them more closely to the local teaching crisis and the wider evidence for women’s ministry in the New Testament. The difficult wording should be studied carefully without pretending the interpretive debate is simple.",
+        "Chapter 5 gives detailed attention to widows, family obligations, and community support. Its arrangements reflect an ancient social world, yet its concern is recognizable: vulnerable people need reliable care, and shared resources need responsible stewardship. Instructions concerning accusations against elders and public accountability likewise show that leadership requires both fairness and scrutiny."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    },
+    {
+      "title": "Creation, contentment, and the use of wealth",
+      "paragraphs": [
+        "The letter rejects teaching that treats marriage or certain foods as inherently defiling. God’s creation is to be received with thanksgiving. Godliness therefore belongs within ordinary bodily life. The language of gratitude challenges forms of religion that seek prestige through unnecessary restrictions.",
+        "The final chapter addresses wealth with equal seriousness. The love of money is dangerous, while those who possess resources are urged to be generous and ready to share. Their hope must rest in God, who provides richly for enjoyment, rather than in unstable riches. Contentment and generosity reinforce each other: enough can be received gratefully, and abundance can serve others.",
+        "Read First Timothy by tracing the relationship between healthy teaching and the household it forms. Its historical arrangements need contextual interpretation, including its instructions within a world of slavery. No appeal to order should protect coercion or abuse. The letter’s opening goal of love, its insistence on accountable character, and its concern for vulnerable people provide essential guides for considering how a church can become worthy of trust."
+      ],
+      "sourceIds": [
+        "text"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "label": "The charge and the purpose of teaching",
+      "startChapter": 1,
+      "endChapter": 1,
+      "description": "The warning against speculation and the goal of love."
+    },
+    {
+      "label": "Prayer and trustworthy leadership",
+      "startChapter": 2,
+      "endChapter": 3,
+      "description": "Community worship, disputed instructions, and qualifications for responsibility."
+    },
+    {
+      "label": "Care, example, and household obligations",
+      "startChapter": 4,
+      "endChapter": 5,
+      "description": "Good teaching, Timothy’s conduct, widows, and elders."
+    },
+    {
+      "label": "Contentment and fidelity",
+      "startChapter": 6,
+      "endChapter": 6,
+      "description": "Relationships, money, generosity, and guarding the entrusted message."
+    }
+  ],
+  "keyThemes": [
+    {
+      "name": "Healthy teaching",
+      "description": "Instruction is tested by love, conscience, and faithful conduct."
+    },
+    {
+      "name": "Trustworthy leadership",
+      "description": "Character and accountability matter more than outward status."
+    },
+    {
+      "name": "Care and generosity",
+      "description": "The community’s resources should serve its vulnerable members."
+    }
+  ],
+  "timeline": {
+    "era": "early-church",
+    "dateLabel": "Early Christian communities; dating disputed",
+    "context": "The narrated address places Timothy in Ephesus during Paul’s ministry. Composition may belong to that setting or to a later generation preserving his instruction.",
+    "note": "This placement describes the book’s setting or address; composition is identified separately above."
+  },
+  "chapterPeriods": [
+    {
+      "start": 1,
+      "end": 6,
+      "era": "early-church",
+      "label": "The early Christian communities",
+      "dateLabel": "Early Christian communities; dating disputed",
+      "note": "The narrated address places Timothy in Ephesus during Paul’s ministry. Composition may belong to that setting or to a later generation preserving his instruction."
+    }
+  ],
+  "sources": [
+    {
+      "id": "text",
+      "label": "1 Timothy · Berean Standard Bible, complete publisher text",
+      "url": "https://bereanbible.com/bsb.txt"
+    },
+    {
+      "id": "background",
+      "label": "1 Timothy · scholarly introduction, Enter the Bible / Luther Seminary",
+      "url": "https://enterthebible.org/courses/1-timothy/lessons/summary-of-1-timothy/"
+    }
+  ]
+}

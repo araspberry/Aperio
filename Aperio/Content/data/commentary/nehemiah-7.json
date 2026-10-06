@@ -1,0 +1,56 @@
+{
+  "book": "Nehemiah",
+  "chapter": 7,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Nehemiah 7 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Nehemiah 7: A Census of Grace and Belonging",
+      "overview": [
+        "The spiritual heart of this chapter is beautifully simple: God cares about His people by name and number. In a passage that seems to be merely a genealogical record, we discover that every person matters to the heart of our Father.",
+        "Nehemiah 7 catalogs the names and families who returned from exile to rebuild Jerusalem. At first glance, this chapter appears dry—list upon list of names, numbers, descendants. Yet this is actually a profound act of covenant faithfulness. God's people, scattered and broken, are being gathered and counted. Each name represents a story of redemption, a family restored, a life returned from exile. The repetition of names is not tedious record-keeping; it is a loving inventory of those whom God would not forget.",
+        "The census itself serves a spiritual purpose. It establishes identity and belonging. After exile, after loss, after shame, these people needed to know they were still God's people—registered, recorded, remembered. The genealogies connect present generations to their ancestors and to the promises made to Abraham. No one slipped through the cracks. The widows, the poor, the servants—all were listed alongside nobles and leaders.",
+        "This speaks profoundly to our modern experience of displacement and disconnection. We live in an age where many feel nameless, anonymous, lost in the crowd. Yet Nehemiah's census reminds us that in God's kingdom, we are known. Jesus taught that the Father knows how many hairs are on our heads. We are not merely statistics in God's great plan; we are beloved individuals whose names He calls.",
+        "The careful attention to who belongs—and the joy evident in that belonging—models how the church should welcome and value one another. Every person in God's household matters infinitely. We are written in the Lamb's book of life, inscribed on the palms of Jesus' hands.",
+        "Do you know yourself as named and known by God? How might this truth reshape the way you see yourself and those around you in your local congregation?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Nehemiah 7: Scholarly study",
+      "overview": [
+        "Nehemiah 7 represents a pivotal transition in the book's narrative architecture, marking the completion of Jerusalem's wall reconstruction and shifting attention to the repopulation and reconstitution of the holy city. The chapter functions as both conclusion to the building narrative (chapters 1–6) and preparation for the spiritual renewal that follows (chapters 8–13). Composed during or shortly after Nehemiah's governorship in the mid-fifth century BCE, this material reflects the Persian period's administrative concerns with genealogical legitimacy and proper community boundaries.",
+        "The chapter opens with Nehemiah's appointment of guardians over Jerusalem's gates, including his brother Hanani and Hananiah the citadel commander, whom he describes as a faithful man who \"feared God\" (*yārēʾ ʾet-hāʾĕlōhîm*) more than many others. This phrase echoes wisdom literature's characterization of piety as the foundation of proper governance. The Hebrew term *bîrâ* (citadel or fortress) indicates the fortified area adjacent to the temple, a strategically crucial position requiring utmost trustworthiness.",
+        "The extensive genealogical list occupying most of the chapter parallels Ezra 2 almost verbatim, raising significant text-critical questions. Scholars debate whether Nehemiah copied from Ezra, both drew from a common archival source, or one passage was later harmonized with the other. Minor numerical discrepancies between the lists suggest independent transmission histories rather than direct literary dependence. The Hebrew term *hittəyaḥēś* (to be enrolled by genealogy) underscores the theological significance of documented lineage for establishing legitimate membership in the restored community.",
+        "Particularly noteworthy is the treatment of priests who could not locate their genealogical records and were consequently excluded from sacred duties as \"defiled\" (*gōʾălîm*) until a priest could consult Urim and Thummim. This provision demonstrates both the stringency of purity requirements and an eschatological openness—the community awaited divine resolution of ambiguous cases. The total assembly of 42,360, plus servants and singers, indicates a substantial returning population, though this figure's relationship to the itemized subtotals presents mathematical difficulties that ancient scribal transmission may have introduced. The chapter concludes with voluntary contributions toward reconstruction, establishing precedent for communal financial responsibility in maintaining sacred institutions."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Nehemiah 7: Prophetic perspective",
+      "overview": [
+        "This chapter unfolds approximately 445 years before the birth of Christ, during the Persian period when God's people lived as a restored remnant in their ancestral land under Gentile dominion. The exile to Babylon had ended nearly a century earlier, yet Israel remained without full sovereignty—a sobering reminder that the deeper captivity to sin still awaited its ultimate Deliverer. Within the grand arc of redemptive history, Nehemiah 7 stands in the Restoration era, that bittersweet season when the temple had been rebuilt and now the walls of Jerusalem stood complete, yet the glory of Solomon's kingdom remained a fading memory and the promises to David's throne seemed suspended in divine silence.",
+        "The careful registry of names in this chapter carries profound typological weight. Just as Nehemiah counted and recorded every family returning to Zion, so the Lord Jesus declared that He knows His sheep by name and calls them out. This census echoes forward to the Lamb's Book of Life, where every citizen of the heavenly Jerusalem stands eternally enrolled. The meticulous attention to genealogy—who could prove their lineage and who could not—foreshadows the ultimate question of spiritual ancestry: who belongs to the seed of Abraham by faith, who can claim citizenship in the commonwealth of Israel through union with Christ.",
+        "The exclusion of certain priests who could not verify their descent until a priest arose with Urim and Thummim points prophetically to Christ, the final High Priest who would settle all questions of covenant membership. No longer would genealogical records determine standing before God; the Great High Priest would inscribe His people's names not on parchment but on His heart, and His perfect discernment would replace the ancient oracular stones.",
+        "Nehemiah's placement of faithful gatekeepers, singers, and Levites establishes a pattern of ordered worship that finds its fulfillment in the church, where Christ has appointed apostles, prophets, evangelists, pastors, and teachers to guard the gates of doctrine and lead the redeemed in endless praise. The walls that protected the earthly Jerusalem prefigure the eternal city whose walls bear the names of the twelve tribes and twelve apostles, where no enemy shall ever breach the gates.",
+        "For the church dwelling between the advents, this ancient registry declares that God loses none of His own. Every name matters; every returning exile is counted. The One who rebuilt Jerusalem's walls is even now preparing a city with foundations, gathering His scattered people from every nation into an eternal dwelling where the census of the redeemed shall never be forgotten."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "16_007",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.912432+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

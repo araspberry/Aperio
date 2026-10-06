@@ -1,0 +1,55 @@
+{
+  "book": "Acts",
+  "chapter": 12,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Acts 12 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Acts 12: The Triumph of Prayer Over Fear",
+      "overview": [
+        "In this chapter, the church discovers that its greatest power is not in human protection or political maneuvering, but in the intercession of believers who trust God in impossible circumstances. When Herod strikes down James and arrests Peter, the early church learns a radical lesson about faith: that earnest prayer moves heaven.",
+        "The scene is saturated with darkness. James is executed, and Peter sits in prison awaiting his own trial and likely death. Herod has posted soldiers to guard him, with chains binding him to two guards. Everything appears lost. Yet the church's response is telling—they pray. Not in panic or despair, but with focused, persistent intercession. This is where the real battle takes place, not in strategy or escape plans, but on the knees of ordinary believers gathering in Mary's home.",
+        "What follows is one of Scripture's most extraordinary moments: an angel appears, chains fall away, guards sleep through it all, and Peter walks free through an iron gate that opens of its own accord. But notice what makes this miracle remarkable—it answers prayer precisely as the church is praying. God's deliverance is not separate from their intercession; it fulfills it. Their prayers are not merely words into empty space but invitations for God to act.",
+        "This passage confronts our instinctive reliance on human solutions. We strategize, network, and problem-solve—all legitimate activities—yet often our prayers become afterthoughts rather than our primary recourse. Peter's miraculous escape teaches us that God takes our prayers seriously. They matter. They change things. When we face situations that grip us with fear, our first and most powerful action is to call upon the God who transcends all earthly authorities and circumstances.",
+        "What impossible situation in your life or community needs the church's earnest, unified prayer rather than merely human effort? How might your perspective shift if you viewed intercession not as a backup plan but as your primary power?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Acts 12: Scholarly study",
+      "overview": [
+        "Acts 12 occupies a pivotal position within Luke's second volume, marking the conclusion of the Jerusalem-centered narrative before the text shifts decisively toward Pauline missionary expansion in chapter 13. The chapter recounts Herod Agrippa I's persecution of the early church, the miraculous deliverance of Peter from prison, and Herod's subsequent death—events datable to approximately 44 CE based on Josephus's corroborating account in Antiquities 19.343–352. Agrippa I, grandson of Herod the Great, had received the territories of Judea and Samaria from Emperor Claudius in 41 CE, making him the last Jewish king to rule the full extent of his grandfather's domain.",
+        "The Greek term *rhomphaia* does not appear here, but the violent imagery nonetheless pervades the opening verses. James the son of Zebedee becomes the first apostolic martyr, dispatched *machaira* (μάχαιρα, \"sword\"), signifying execution rather than battlefield death. Luke's terse narration of James's death contrasts starkly with the elaborate rescue account that follows, raising questions about divine providence that the text does not explicitly resolve. Peter's imprisonment during the Feast of Unleavened Bread creates deliberate Passover-exodus typology, reinforced by the angel's command to bind sandals and follow—echoing Israel's hasty departure from Egypt.",
+        "The term *phulakē* (φυλακή, \"prison\" or \"guard\") appears repeatedly, emphasizing the impossibility of natural escape from four quaternions of soldiers. Peter's liberation, occurring while the church prays *ektenōs* (ἐκτενῶς, \"earnestly\" or \"fervently\"), demonstrates Luke's characteristic interest in prayer as the context for divine intervention. The scene at Mary's house, where the servant Rhoda recognizes Peter's voice but leaves him standing outside, provides narrative humor while illustrating the community's incredulity regarding answered prayer.",
+        "Herod's death by divine judgment—being \"eaten by worms\" (*skōlēkobrōtos*)—exemplifies the Hellenistic literary motif of the persecutor's demise, paralleling accounts of Antiochus IV Epiphanes. The chapter concludes with the Word of God increasing and multiplying, employing agricultural metaphors for gospel proclamation that contrast human opposition with divine advancement. Barnabas and Saul's return to Antioch with John Mark anticipates the mission that will dominate Luke's remaining narrative."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Acts 12: Prophetic perspective",
+      "overview": [
+        "Acts 12 unfolds approximately fourteen years after the resurrection of Christ, around AD 44, during the reign of Herod Agrippa I over Judea. The church has been established in Jerusalem and is now spreading throughout the Roman world, yet this chapter reminds us that the people of God remain pilgrims in hostile territory, caught between the already of Christ's victory and the not yet of His return. We stand here in the early church age, that extended season between Pentecost and the Second Coming when the kingdom advances not through political power but through prayer, suffering, and supernatural deliverance.",
+        "The martyrdom of James and the intended execution of Peter reveal a pattern woven throughout redemptive history. Just as Pharaoh sought to destroy the male children of Israel, just as Haman plotted the annihilation of the Jews, so now Herod stretches out his hand against the church. The serpent's seed perpetually wars against the woman's seed, yet God's purposes cannot be thwarted. James dies and receives his crown; Peter is delivered, not because one was more faithful than the other, but because the sovereign Lord dispenses both martyrdom and deliverance according to His inscrutable wisdom.",
+        "Peter's imprisonment and rescue echo with typological resonance. Bound in chains, sleeping between soldiers on the very night before his execution, Peter embodies Israel in Egypt—enslaved, awaiting death, yet resting in the promise of God. The angel who strikes his side, the chains that fall, the gates that open of their own accord—these are exodus imagery transposed into the new covenant key. Peter passes through his own Red Sea, emerging from the prison-tomb into the praying community, much as Christ emerged from the sealed grave into the gathered disciples. The church prays, yet scarcely believes when the answer stands knocking at the gate, a picture of how we often underestimate the God to whom we pray.",
+        "Herod's gruesome death stands as prophetic warning to all who receive worship belonging to God alone. The worms that consumed him declare what awaits every proud kingdom that exalts itself against the Lord's anointed. Babylon falls; Rome falls; every Herod falls.",
+        "Yet the chapter's final word is not death but life: \"The word of God increased and multiplied.\" Here is the church's confidence until Christ returns—no chain can bind the gospel, no tyrant can silence the testimony, no grave can hold those who belong to the risen King."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "44_012",
+    "sourceGeneratedAt": "2026-05-07 18:34:37.690812+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}

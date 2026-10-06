@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "status": "Editorial draft",
+  "format": "chapter-essay",
+  "title": "Deuteronomy 34 — Aperio commentary",
+  "sources": [],
+  "modes": {
+    "devotional": {
+      "title": "Deuteronomy 34: The Weight of Vision Without Arrival",
+      "overview": [
+        "Moses stands at the edge of everything he has lived for, seeing the promise fulfilled while knowing he will never enter it—a haunting image of faith that reaches beyond our own completion. This final chapter captures something profoundly human about discipleship: the call to faithfulness may ask us to serve a vision we do not live to see.",
+        "From Mount Nebo, Moses surveys the land God promised Abraham centuries before. He sees Gilead, Judah, the Negev, the plains of Jericho, and Palm City from Zoar. Every geography confirms what God swore to keep. Yet Moses dies in the land of Moab at 120 years old, his strength undiminished but his journey concluded—and he dies alone, buried by God's hand in a place no one would ever know. There is both honor and mystery in this ending.",
+        "What strikes us most is that Moses was not allowed to enter because he failed to trust God's word at the waters of Meribah. He struck the rock twice instead of speaking to it, taking glory that belonged to the Lord. This is the sorrow of consequence: faithfulness over a lifetime does not erase moments when we grasp for control rather than surrender to grace. God is not cruel in this denial, but neither does God overlook our rebellion. There remains a line between God's nature and ours, and crossing it carries real weight.",
+        "Yet the text honors Moses. He raised up Joshua; he brought Israel to the threshold; his body never weakened. The people mourned him for thirty days. His work was not wasted simply because he did not finish it. We live in a long story of redemption that precedes us and continues after us. Our calling is not to complete God's kingdom work but to serve it faithfully in our season, trusting the God who sees to the horizon we cannot.",
+        "What vision has the Lord given you that may extend beyond your lifetime? How might you surrender the need to see its completion?"
+      ],
+      "sections": []
+    },
+    "scholarly": {
+      "title": "Deuteronomy 34: Scholarly study",
+      "overview": [
+        "Deuteronomy 34 stands as one of the most poignant and theologically significant passages in the Pentateuch, narrating the death of Moses and thereby bringing the Torah to its solemn conclusion. The chapter presents an immediate literary puzzle: if Moses authored the preceding material, as Jewish and Christian tradition long maintained, who composed this account of his death? Ancient interpreters proposed various solutions, with some rabbinic sources attributing it to Joshua, while others suggested Moses wrote it prophetically with tears. Modern scholarship generally views this chapter as an editorial addition, possibly connected to the Deuteronomistic school that shaped Israel's historical traditions during the late monarchic and exilic periods.",
+        "The passage opens with Moses ascending Mount Nebo to the summit of Pisgah, where YHWH shows him the entire promised land. The Hebrew verb *ra'ah* (to see) carries profound weight here, as Moses is granted vision without possession—a bittersweet culmination of his forty-year journey. The geographic panorama stretching from Gilead to Dan, through Naphtali, Ephraim, Manasseh, and Judah to the Western Sea encompasses the totality of what Israel would inherit, yet Moses himself remains outside this inheritance due to the events at Meribah.",
+        "The description of Moses' burial contains the remarkable statement that \"no one knows his burial place to this day,\" employing the Hebrew *qevurah* (burial site). This deliberate obscurity likely served to prevent the veneration of Moses' tomb, a concern consistent with Deuteronomy's broader polemic against improper worship. The notation that Moses died at 120 years with undiminished vigor—his eye *lo kahatah* (was not dim)—emphasizes his unique prophetic status.",
+        "The chapter concludes with a theological assessment unprecedented in scripture: Moses was a prophet whom YHWH knew *panim el-panim* (face to face). This intimate divine-human encounter, marked by signs, wonders, and mighty deeds, establishes Moses as the incomparable prophetic standard against which all subsequent Israelite prophecy would be measured. The canonical placement of this eulogy at the Torah's conclusion enshrines Mosaic authority as foundational, even as it anticipates the prophetic succession through Joshua that the following biblical books will narrate."
+      ],
+      "sections": []
+    },
+    "prophetic": {
+      "title": "Deuteronomy 34: Prophetic perspective",
+      "overview": [
+        "Deuteronomy 34 stands at a pivotal threshold in redemptive history, approximately 1400 years before the birth of Christ, marking the conclusion of the wilderness wandering and the death of Moses on the eastern edge of the Promised Land. This chapter closes the Pentateuch—the Torah of Moses—and positions Israel on the brink of conquest under Joshua's leadership. Within the grand redemptive arc, this passage bridges the Exodus era and the Kingdom era, as the covenant people prepare to inherit what God promised to Abraham six centuries earlier.",
+        "Moses ascends Mount Nebo, and the Lord grants him a panoramic vision of Canaan—from Gilead to Dan, from Naphtali to the Negev, from Jericho to the western sea. This divine showing carries profound typological weight: Moses, the mediator of the old covenant, sees the inheritance but cannot enter it. His exclusion at Meribah, where he struck the rock in unbelief, demonstrates that the law, however glorious, cannot bring God's people into their ultimate rest. The law exposes sin and points forward, but it cannot complete what it begins. Moses dies \"according to the word of the Lord,\" buried by God Himself in an unmarked grave—a burial so mysterious that Jude later reveals Michael the archangel contended with Satan over his body, hinting at realities beyond the historical moment.",
+        "Joshua son of Nun, filled with the spirit of wisdom through Moses' laying on of hands, rises as successor. His very name—Yehoshua, \"The Lord saves\"—anticipates the greater Joshua who would come. Where Moses could only see the land, Joshua leads the people in. This transition foreshadows the movement from old covenant to new: what the law could not accomplish because of the weakness of the flesh, God accomplished by sending His own Son. Christ, the true Prophet like Moses whom this chapter promises, brings His people not to earthly Canaan but to the heavenly inheritance, the eternal rest that remains for the people of God.",
+        "The statement that \"no prophet has risen in Israel like Moses, whom the Lord knew face to face\" establishes an expectation that reverberates through the centuries. Israel would wait for this Prophet—and He came, not merely speaking God's words but being the Word made flesh, showing forth the Father's glory with unveiled face.",
+        "For the church dwelling between Christ's advents, Deuteronomy 34 reminds us that we too stand at the threshold, having received promises we see by faith but have not yet fully inherited. The One greater than Moses has come, and He will lead us home."
+      ],
+      "sections": []
+    }
+  },
+  "crossReferences": [],
+  "provenance": {
+    "kind": "aperio-repository",
+    "repository": "araspberry/Aperio",
+    "sourcePath": "data/aperio_commentary.csv",
+    "sourceCommit": "d9e5c80ded9e378174c88d6fb83788fb4da1d10c",
+    "sourceBlob": "224ffdbd045ca6e681d8868d59b82566ec59e4e8",
+    "sourceRow": "05_034",
+    "sourceGeneratedAt": "2026-05-07 18:34:35.179979+00",
+    "importedAt": "2026-09-30",
+    "correctionIds": [],
+    "humanTheologicalReview": "pending"
+  }
+}
