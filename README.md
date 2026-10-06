@@ -11,7 +11,7 @@ DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer swift test
 DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer xcodebuild -project Aperio.xcodeproj -scheme Aperio -sdk iphonesimulator -derivedDataPath build CODE_SIGNING_ALLOWED=NO build
 ```
 
-The checked-in project has no third-party runtime packages. `scripts/create_project.py` regenerates the project after adding Swift files. The app icon is a rendering of the website's lettermark; its generator uses Apple's Core Graphics and Core Text.
+The checked-in project has no third-party runtime packages. `scripts/create_project.py` regenerates the project after adding Swift files. The app icon reuses the owner's original leather-book/flame-A design with graphite and olive colors and its red ribbon. The edited master and provenance are in `design/`; `scripts/render-icon.swift` packages it as an opaque 1024-pixel sRGB icon.
 
 ## Included
 

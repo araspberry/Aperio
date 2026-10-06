@@ -1,8 +1,10 @@
-# Aperio 2.0.0 (26) — private native preview
+# Aperio 2.0.0 (27) — private native preview
 
 This is the fresh SwiftUI rebuild of Aperio, using the current website's graphite, pearl and olive design and saved study content.
 
-Build 26: Study Center now slides up from the bottom and its solid graphite background covers the home-indicator area. Covered Scripture is hidden from VoiceOver and touch; the floating + menu stays available. Reduce Motion is respected.
+Build 27: The original book-cover app icon now matches Aperio’s graphite and olive theme, retaining the red ribbon.
+
+Also included from build 26: Study Center now slides up from the bottom and its solid graphite background covers the home-indicator area. Covered Scripture is hidden from VoiceOver and touch; the floating + menu stays available. Reduce Motion is respected.
 
 Please try:
 

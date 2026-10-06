@@ -24,7 +24,7 @@ sources=obj('sources','PBXSourcesBuildPhase',f'buildActionMask = 2147483647; fil
 resources=obj('resources','PBXResourcesBuildPhase',f'buildActionMask = 2147483647; files = ({resourceBuild},{assetBuild},{privacyBuild},); runOnlyForDeploymentPostprocessing = 0;')
 frameworks=obj('frameworks','PBXFrameworksBuildPhase','buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0;')
 base='CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; ENABLE_USER_SCRIPT_SANDBOXING = YES;'
-app='PRODUCT_NAME = Aperio; PRODUCT_BUNDLE_IDENTIFIER = com.aperio.bible; INFOPLIST_FILE = Aperio/Info.plist; GENERATE_INFOPLIST_FILE = NO; CODE_SIGN_STYLE = Automatic; TARGETED_DEVICE_FAMILY = "1,2"; MARKETING_VERSION = 2.0.0; CURRENT_PROJECT_VERSION = 26; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; OTHER_LDFLAGS = "-lsqlite3"; SWIFT_EMIT_LOC_STRINGS = YES;'
+app='PRODUCT_NAME = Aperio; PRODUCT_BUNDLE_IDENTIFIER = com.aperio.bible; INFOPLIST_FILE = Aperio/Info.plist; GENERATE_INFOPLIST_FILE = NO; CODE_SIGN_STYLE = Automatic; TARGETED_DEVICE_FAMILY = "1,2"; MARKETING_VERSION = 2.0.0; CURRENT_PROJECT_VERSION = 27; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; OTHER_LDFLAGS = "-lsqlite3"; SWIFT_EMIT_LOC_STRINGS = YES;'
 configlists={}
 for target,extra in [('project',base),('app',app)]:
  cs=[]
