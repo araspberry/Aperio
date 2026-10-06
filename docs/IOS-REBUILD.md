@@ -26,7 +26,7 @@ No version was submitted or released by this change. No legacy app record/build 
 
 ## Required before public replacement
 
-1. Confirm TestFlight processing and on-device installation (upload accepted, agreement acceptance and distribution export are verified).
+1. Complete on-device testing of the processed TestFlight build (upload, processing, internal group assignment and distribution signing are verified).
 2. Complete native website-account integration or explicitly approve an on-device-only release; avoid claiming cloud sync that isn't implemented.
 3. Test migration on an actual prior app installation, including existing cloud-only data and authentication transition.
 4. Review the native giving approach against the actual rejection. No payment controls in this preview.
@@ -53,4 +53,6 @@ Five automated suites passed: all 66 introductions/1,189 chapter datasets and pe
 - Source: `56dbba67` on `ios-rebuild`.
 - Version: 2.0.0 (25), uploaded to the existing Aperio Bible record.
 - October 6, 2026 at 10:58 EDT: Xcode reported “Uploaded package is processing”, “Upload succeeded” and “EXPORT SUCCEEDED”.
-- Apple-side TestFlight processing and tester availability are pending confirmation. No App Review submission or public release.
+- Apple-side processing completed: 2.0.0 (25) is listed with 90 days remaining, automatically assigned to Team (Expo), with one existing tester (the owner). Group settings confirm Automatic for Xcode Builds.
+- Build-specific What to Test notes were saved and the confirmation screenshot is in local artifacts/testflight-build-25.jpg.
+- No App Review submission or public release. Actual phone installation/testing remains the owner’s next step.
