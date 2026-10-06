@@ -27,10 +27,10 @@ This is a native preview, not yet an App Store release. Saves are on-device. Web
 
 The previous App Store version was rejected for its payment mechanism. This build contains no giving/payment flow. Stripe continues to work on the existing website. A native giving flow requires a separate StoreKit/storefront decision before distribution.
 
-App Store record: Aperio Bible, Apple ID `6763618868`, bundle identifier `com.aperio.bible`, Apple team `JYTDLQ3GAT`. Both identity values were confirmed in App Store Connect / the existing development certificate on October 6, 2026. The current released version is 1.1.0; 1.2.0 build 24 was rejected. This rebuild is prepared as 2.0.0 build 25, subject to confirming the latest uploaded build before upload.
+App Store record: Aperio Bible, Apple ID `6763618868`, bundle identifier `com.aperio.bible`, Apple team `JYTDLQ3GAT`. Both identity values were confirmed in App Store Connect / the existing development certificate on October 6, 2026. The current released version is 1.1.0; 1.2.0 build 24 was rejected. This rebuild was uploaded as 2.0.0 build 25 on October 6, 2026.
 
 See `docs/IOS-REBUILD.md` for reference and release notes. Content attribution is included under `Aperio/Content/`.
 
 ## Verified preview
 
-The native iPhone simulator build launches, the signed device archive builds, all five core/data tests pass, and the native UI regression passes (Study Center, Lexicon return, floating navigation and Study Center pill, direct verse note/highlight, prayer, restart persistence and Genesis introduction). The user refreshed Xcode sign-in and accepted Apple's updated Developer Agreement; App Store export then succeeded. The final floating-navigation build is being prepared for TestFlight. The build has not been submitted to App Review.
+The native iPhone simulator build launches, the signed device archive builds, all five core/data tests pass, and the native UI regression passes (Study Center, Lexicon return, floating navigation and Study Center pill, direct verse note/highlight, prayer, restart persistence and Genesis introduction). The user refreshed Xcode sign-in and accepted Apple's updated Developer Agreement; App Store export then succeeded. The final floating-navigation build was accepted by App Store Connect on October 6 at 10:58 EDT and is awaiting TestFlight processing. The build has not been submitted to App Review.

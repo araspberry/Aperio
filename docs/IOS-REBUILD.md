@@ -26,7 +26,7 @@ No version was submitted or released by this change. No legacy app record/build 
 
 ## Required before public replacement
 
-1. Complete final build upload and confirm TestFlight processing (agreement acceptance and distribution export are verified).
+1. Confirm TestFlight processing and on-device installation (upload accepted, agreement acceptance and distribution export are verified).
 2. Complete native website-account integration or explicitly approve an on-device-only release; avoid claiming cloud sync that isn't implemented.
 3. Test migration on an actual prior app installation, including existing cloud-only data and authentication transition.
 4. Review the native giving approach against the actual rejection. No payment controls in this preview.
@@ -47,3 +47,10 @@ Five automated suites passed: all 66 introductions/1,189 chapter datasets and pe
 - Initial TestFlight export failed because Xcode's account session had expired. User signed back in and the developer team appeared. The next export reached Apple successfully but failed with `PLA Update available`; the user then confirmed agreement acceptance and the subsequent App Store export succeeded.
 - The updated floating-navigation UI regression passed on October 6, 2026, with screenshots of the reader pill, expanded menu, Hebrew lexicon, prayer journal and book introduction. Direct highlighting is exercised with Study Center closed.
 - Website account syncing and native giving remain unimplemented preview boundaries. No claim of a public/App Store replacement is made.
+
+### Upload record
+
+- Source: `56dbba67` on `ios-rebuild`.
+- Version: 2.0.0 (25), uploaded to the existing Aperio Bible record.
+- October 6, 2026 at 10:58 EDT: Xcode reported “Uploaded package is processing”, “Upload succeeded” and “EXPORT SUCCEEDED”.
+- Apple-side TestFlight processing and tester availability are pending confirmation. No App Review submission or public release.
