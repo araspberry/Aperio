@@ -4,6 +4,7 @@ struct ReaderView: View {
     let library: ContentLibrary
     @EnvironmentObject var personal: PersonalStore
     @EnvironmentObject var navigation: NavigationState
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @State private var picker = false
     @State private var editPassage: Passage?
     @State private var focus = false
@@ -59,7 +60,7 @@ struct ReaderView: View {
                             }
                         }.padding(.horizontal,23).padding(.bottom,journey == nil ? 120 : 220)
                     }.onChange(of:passage) { _,new in proxy.scrollTo(new.chapter == 0 ? 0 : new.verse,anchor:.top) }.onAppear { proxy.scrollTo(passage.chapter == 0 ? 0 : passage.verse,anchor:.top) }
-                }
+                }.allowsHitTesting(!navigation.study).accessibilityHidden(navigation.study)
                 if passage.chapter > 0 && !focus && !navigation.study {
                     Button { navigation.study = true } label: {
                         HStack(spacing:12) {
@@ -77,9 +78,9 @@ struct ReaderView: View {
                 if let journey, !navigation.study, passage.chapter > 0 {
                     journeyControl(journey).padding(14).background(Theme.graphite,in:RoundedRectangle(cornerRadius:16)).foregroundStyle(Theme.paper).padding(.horizontal,20).padding(.bottom,88)
                 }
-                if navigation.study { StudyCenter(library:library).transition(.move(edge:.trailing)).zIndex(2) }
+                if navigation.study { StudyCenter(library:library).transition(.move(edge:.bottom)).zIndex(2) }
             }
-        }.animation(.easeInOut(duration:0.2),value:navigation.study)
+        }.animation(reduceMotion ? nil : .easeInOut(duration:0.32),value:navigation.study)
             .sheet(isPresented:$picker) { PassagePicker(library:library).environmentObject(navigation) }
             .sheet(item:$editPassage) { p in AnnotationEditor(passage:p,library:library).environmentObject(navigation) }
     }

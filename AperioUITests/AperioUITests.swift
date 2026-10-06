@@ -1,4 +1,5 @@
 import XCTest
+import UIKit
 
 final class AperioUITests: XCTestCase {
     func testNativeReadingStudyAndPersonalData() {
@@ -19,6 +20,11 @@ final class AperioUITests: XCTestCase {
         app.buttons["reader.study"].tap()
         XCTAssertTrue(app.buttons["study.Lexicon"].waitForExistence(timeout:5))
         XCTAssertTrue(app.buttons["navigation.menu"].isHittable,"Floating navigation must remain usable in Study Center")
+        XCTAssertFalse(app.buttons["verse.5"].exists,"Covered Scripture must not remain exposed to VoiceOver")
+        assertStudyCoversBottom(app.screenshot())
+        app.buttons["navigation.menu"].tap()
+        XCTAssertTrue(app.buttons["tab.home"].isHittable)
+        app.buttons["navigation.menu"].tap()
         app.buttons["study.Lexicon"].tap()
         XCTAssertTrue(app.staticTexts["The words behind the Word."].exists)
         let firstPhrase = app.buttons.containing(.staticText,identifier:"A Psalm").firstMatch
@@ -26,6 +32,7 @@ final class AperioUITests: XCTestCase {
         firstPhrase.tap()
         XCTAssertTrue(app.buttons["Back to Lexicon"].waitForExistence(timeout:5))
         let study = XCTAttachment(screenshot:app.screenshot()); study.name = "Hebrew word study"; study.lifetime = .keepAlways; add(study)
+        assertStudyCoversBottom(app.screenshot())
         app.buttons["Back to Lexicon"].tap()
         app.buttons["Close Study Center"].tap()
         app.buttons["verse.1"].tap()
@@ -53,5 +60,22 @@ final class AperioUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["A Beginning Larger Than One Family"].waitForExistence(timeout:5))
         XCTAssertTrue(app.buttons["navigation.menu"].isHittable)
         let intro = XCTAttachment(screenshot:app.screenshot()); intro.name = "Book introduction"; intro.lifetime = .keepAlways; add(intro)
+    }
+
+    private func assertStudyCoversBottom(_ screenshot:XCUIScreenshot,file:StaticString = #filePath,line:UInt = #line) {
+        guard let image = screenshot.image.cgImage else { return XCTFail("Missing screenshot",file:file,line:line) }
+        // Sample the bottom safe area away from the home indicator. The reported
+        // regression left a white strip with Scripture visible in this band.
+        for fraction in [0.08,0.25,0.75,0.92] {
+            let rect = CGRect(x:Int(Double(image.width)*fraction),y:image.height-8,width:1,height:1)
+            guard let pixel = image.cropping(to:rect) else { return XCTFail("Missing bottom pixel",file:file,line:line) }
+            var rgba = [UInt8](repeating:0,count:4)
+            let rendered = rgba.withUnsafeMutableBytes { bytes -> Bool in
+                guard let context = CGContext(data:bytes.baseAddress,width:1,height:1,bitsPerComponent:8,bytesPerRow:4,space:CGColorSpaceCreateDeviceRGB(),bitmapInfo:CGImageAlphaInfo.premultipliedLast.rawValue | CGBitmapInfo.byteOrder32Big.rawValue) else { return false }
+                context.draw(pixel,in:CGRect(x:0,y:0,width:1,height:1)); return true
+            }
+            XCTAssertTrue(rendered,file:file,line:line)
+            XCTAssertTrue(rgba.prefix(3).allSatisfy { (40...68).contains(Int($0)) },"Study Center must cover the screen's bottom edge with graphite; found \(rgba)",file:file,line:line)
+        }
     }
 }

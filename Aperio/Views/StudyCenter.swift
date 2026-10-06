@@ -37,7 +37,14 @@ struct StudyCenter: View {
                     }
                 }.padding(22).padding(.bottom,80).frame(maxWidth:.infinity,alignment:.leading)
             }
-        }.foregroundStyle(Theme.paper).background(Theme.graphite).clipShape(UnevenRoundedRectangle(topLeadingRadius:24,bottomLeadingRadius:0,bottomTrailingRadius:0,topTrailingRadius:24))
+        }.frame(maxWidth:.infinity,maxHeight:.infinity,alignment:.top)
+            .foregroundStyle(Theme.paper)
+            .background {
+                // Extend only the opaque surface through the home-indicator area;
+                // study controls and the floating menu stay inside the safe area.
+                UnevenRoundedRectangle(topLeadingRadius:24,bottomLeadingRadius:0,bottomTrailingRadius:0,topTrailingRadius:24)
+                    .fill(Theme.graphite).ignoresSafeArea(.container,edges:.bottom)
+            }
             .overlay(alignment:.top) { Capsule().fill(Theme.sage.opacity(0.6)).frame(width:34,height:3).padding(.top,7) }
             .onAppear(perform:load).onChange(of:passage) { _,_ in load() }
     }
