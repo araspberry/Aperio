@@ -34,6 +34,7 @@ struct AppShell: View {
     @StateObject private var navigation = NavigationState()
     @State private var search = false
     @State private var settings = false
+    @State private var menuOpen = false
     var body: some View {
         VStack(spacing:0) {
             HStack {
@@ -52,10 +53,13 @@ struct AppShell: View {
                 default: AccountView()
                 }
             }.frame(maxWidth:.infinity,maxHeight:.infinity)
-            HStack(spacing:0) {
-                tab("Home","house",0); tab("Bible","book",1); tab("Prayer","hands.sparkles",2); tab("Saved","bookmark",3); tab("Account","person.crop.circle",4)
-            }.padding(.horizontal,10).padding(.top,9).padding(.bottom,3).background(Theme.paper).overlay(alignment:.top) { Theme.line.frame(height:1) }
         }.background(Theme.graphite.ignoresSafeArea(edges:.top)).background(Theme.paper.ignoresSafeArea(edges:.bottom)).foregroundStyle(Theme.ink).tint(Theme.olive)
+            .overlay {
+                if menuOpen { Color.black.opacity(0.22).ignoresSafeArea().onTapGesture { menuOpen = false }.accessibilityLabel("Dismiss menu").accessibilityAddTraits(.isButton) }
+            }
+            .overlay(alignment:.bottomTrailing) {
+                FloatingNavigationMenu(open:$menuOpen,onSearch:{ search = true },onSettings:{ settings = true }).environmentObject(navigation).padding(.trailing,20).padding(.bottom,12)
+            }
             .environmentObject(navigation)
             .onAppear { if library.valid(personal.data.passage) { navigation.passage = personal.data.passage } }
             .onChange(of:navigation.passage) { _,new in personal.update { $0.passage = new } }
@@ -67,11 +71,5 @@ struct AppShell: View {
                 if pieces.first == "home" { navigation.tab = 0 }
                 else if pieces.count >= 2, let chapter = Int(pieces[1]), let p = library.passage(book:pieces[0].removingPercentEncoding ?? pieces[0],chapter:chapter,verse:pieces.count>2 ? Int(pieces[2]) ?? 1 : 1) { navigation.read(p) }
             }
-    }
-    func tab(_ label: String,_ icon: String,_ index: Int) -> some View {
-        Button { navigation.tab = index; navigation.study = false } label: {
-            VStack(spacing:5) { Image(systemName:navigation.tab == index && index != 2 ? icon + ".fill" : icon).font(.system(size:22)); Text(label).font(.caption2.weight(navigation.tab == index ? .bold : .regular)) }
-                .foregroundStyle(navigation.tab == index ? Theme.olive : Theme.muted).frame(maxWidth:.infinity).frame(minHeight:52).background(navigation.tab == index ? Theme.sage.opacity(0.35) : .clear,in:RoundedRectangle(cornerRadius:15))
-        }.accessibilityIdentifier("tab.\(label.lowercased())").accessibilityAddTraits(navigation.tab == index ? .isSelected : [])
     }
 }

@@ -23,7 +23,7 @@ struct ReaderView: View {
                 ScrollViewReader { proxy in
                     ScrollView {
                         VStack(alignment:.leading,spacing:22) {
-                            if passage.chapter == 0 { introduction }
+                            if passage.chapter == 0 { introduction.id(0) }
                             else {
                                 HStack { Eyebrow(text:"Berean Standard Bible"); Spacer(); Button { focus.toggle() } label:{ Image(systemName:focus ? "arrow.down.right.and.arrow.up.left" : "arrow.up.left.and.arrow.down.right").frame(width:44,height:44) }.accessibilityLabel("Toggle focus") }
                                 Text(library.books[passage.book].name).font(Theme.serif(39)).tracking(-1)
@@ -57,22 +57,27 @@ struct ReaderView: View {
                                 }
                                 Text("Berean Standard Bible · Public domain").font(.caption2).foregroundStyle(Theme.muted).padding(.top,16)
                             }
-                        }.padding(.horizontal,23).padding(.bottom,110)
-                    }.onChange(of:passage) { _,new in proxy.scrollTo(new.verse,anchor:.top) }.onAppear { proxy.scrollTo(passage.verse,anchor:.top) }
+                        }.padding(.horizontal,23).padding(.bottom,journey == nil ? 120 : 220)
+                    }.onChange(of:passage) { _,new in proxy.scrollTo(new.chapter == 0 ? 0 : new.verse,anchor:.top) }.onAppear { proxy.scrollTo(passage.chapter == 0 ? 0 : passage.verse,anchor:.top) }
                 }
-                if passage.chapter > 0 && !focus {
-                    Button { navigation.study.toggle() } label: {
-                        ZStack {
-                            Circle().fill(Theme.graphite).frame(width:65,height:65).overlay { Circle().stroke(Theme.sage.opacity(0.9),lineWidth:1.5).padding(3) }
-                            Image(systemName:"book.pages.fill").font(.system(size:28,weight:.light)).foregroundStyle(Theme.sage)
-                            Rectangle().fill(Color(hex:0xC94141)).frame(width:4,height:12).offset(x:7,y:17)
-                        }.shadow(color:.black.opacity(0.15),radius:12,y:4)
-                    }.padding(20).accessibilityLabel("Open Study Center").accessibilityIdentifier("reader.study")
+                if passage.chapter > 0 && !focus && !navigation.study {
+                    Button { navigation.study = true } label: {
+                        HStack(spacing:12) {
+                            ZStack {
+                                Image(systemName:"book.pages.fill").font(.system(size:25,weight:.light)).foregroundStyle(Theme.sage)
+                                Rectangle().fill(Color(hex:0xC94141)).frame(width:3,height:10).offset(x:6,y:15)
+                            }.frame(width:32,height:38)
+                            Text("Study Center").font(.subheadline.weight(.semibold)).foregroundStyle(Theme.paper)
+                        }.padding(.horizontal,20).frame(height:58).background(Theme.graphite,in:Capsule())
+                            .overlay { Capsule().strokeBorder(Theme.sage.opacity(0.65),lineWidth:1.5).padding(3) }
+                            .shadow(color:.black.opacity(0.17),radius:12,y:5)
+                    }.buttonStyle(.plain).frame(maxWidth:.infinity,alignment:.center).padding(.trailing,64).padding(.bottom,13)
+                        .accessibilityLabel("Open Study Center").accessibilityIdentifier("reader.study")
+                }
+                if let journey, !navigation.study, passage.chapter > 0 {
+                    journeyControl(journey).padding(14).background(Theme.graphite,in:RoundedRectangle(cornerRadius:16)).foregroundStyle(Theme.paper).padding(.horizontal,20).padding(.bottom,88)
                 }
                 if navigation.study { StudyCenter(library:library).transition(.move(edge:.trailing)).zIndex(2) }
-            }
-            if let journey, !navigation.study, passage.chapter > 0 {
-                journeyControl(journey).padding(.horizontal,20).padding(.vertical,10).background(Theme.graphite).foregroundStyle(Theme.paper)
             }
         }.animation(.easeInOut(duration:0.2),value:navigation.study)
             .sheet(isPresented:$picker) { PassagePicker(library:library).environmentObject(navigation) }

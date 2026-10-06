@@ -73,7 +73,7 @@ struct HomeView: View {
                     Text(daily.prayerPrompt).font(Theme.serif(20)).lineSpacing(5)
                     Button("Open your prayer journal") { navigation.tab = 2 }.font(.subheadline.weight(.semibold)).padding(.vertical,8)
                 }.padding(.vertical,12)
-            }.padding(.horizontal,23).padding(.bottom,28)
+            }.padding(.horizontal,23).padding(.bottom,100)
         }.sheet(isPresented:$quiz) { QuizView(daily:daily,library:library).environmentObject(navigation) }
     }
     private func start(_ journey: Journey) {

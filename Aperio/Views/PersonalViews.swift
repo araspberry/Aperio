@@ -53,7 +53,7 @@ struct SavedView: View {
                     }.padding(20).frame(maxWidth:.infinity,alignment:.leading).background(entry.color == nil ? .white : highlight(entry.color),in:RoundedRectangle(cornerRadius:16))
                 }.buttonStyle(.plain)
             }
-        }.padding(24) }
+        }.padding(24).padding(.bottom,90) }
     }
 }
 struct PrayerView: View {
@@ -76,7 +76,7 @@ struct PrayerView: View {
                     Text(prayer.updated,format:.dateTime.month().day().year()).font(.caption).foregroundStyle(Theme.olive)
                 }.padding(22).frame(maxWidth:.infinity,alignment:.leading).background(.white,in:RoundedRectangle(cornerRadius:18)) }.buttonStyle(.plain)
             }
-        }.padding(24) }.sheet(item:$editor) { prayer in PrayerEditor(prayer:prayer) }
+        }.padding(24).padding(.bottom,90) }.sheet(item:$editor) { prayer in PrayerEditor(prayer:prayer) }
     }
 }
 struct PrayerEditor: View {
@@ -124,7 +124,7 @@ struct AccountView: View {
             Text("Read. Understand. Live.\nBerean Standard Bible (public domain). Original-language data from the Berean translation tables and Open Scriptures Strong’s dictionaries. Commentary and introductions are saved editorial content.").font(.subheadline).lineSpacing(5).foregroundStyle(Theme.muted)
             Link("Privacy policy",destination:URL(string:"https://aperiobible.com/#privacy")!)
             Text("iOS preview · 2.0.0").font(.caption).foregroundStyle(Theme.muted)
-        }.padding(24) }.onAppear { name = personal.data.name }
+        }.padding(24).padding(.bottom,90) }.onAppear { name = personal.data.name }
             .fileImporter(isPresented:$importing,allowedContentTypes:[.json]) { result in
                 do { try personal.importBackup(result.get()); message = "Your backup was merged. Existing entries were preserved." } catch { message = "This file couldn’t be restored. Please select an Aperio personal backup." }
             }.alert("Backup",isPresented:Binding(get:{message != nil},set:{if !$0 { message = nil }})) { Button("OK",role:.cancel) {} } message:{Text(message ?? "")}

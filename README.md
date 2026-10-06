@@ -15,10 +15,10 @@ The checked-in project has no third-party runtime packages. `scripts/create_proj
 
 ## Included
 
-- Native Home, Bible, Prayer, Saved and Account navigation, visible while studying.
+- Floating + navigation for Home, Bible, Prayer, Saved and Account, available while studying; a separate floating Study Center pill on the Bible screen.
 - Offline BSB text for 66 books / 1,189 chapters, 66 introductions, saved three-perspective commentary, Hebrew/Greek phrase study, lexicons, available passage cross-references and chapter timeline context.
 - Current graphite/pearl/olive visual direction, all nine motion covers, daily Scripture, quizzes, themed reading threads with persistent progress and continuation controls.
-- Verse highlights, notes and bookmarks; prayer creation/editing/answered status; text-size preferences; Scripture search; backup export and merge restore.
+- Direct verse-tap highlights, notes and bookmarks, without opening Study Center; prayer creation/editing/answered status; text-size preferences; Scripture search; backup export and merge restore.
 - Read-only migration of the previous app's local SQLite notes, highlights, bookmarks, prayers and reading position. The original database remains untouched.
 
 ## Preview boundaries
@@ -33,4 +33,4 @@ See `docs/IOS-REBUILD.md` for reference and release notes. Content attribution i
 
 ## Verified preview
 
-The native iPhone simulator build launches, the signed device archive builds, all five core/data tests pass, and the native UI regression passes (Study Center, Lexicon return, bottom navigation, note/highlight, prayer, restart persistence and Genesis introduction). TestFlight export currently awaits Apple's updated Developer Agreement acceptance. The build has not been submitted to App Review.
+The native iPhone simulator build launches, the signed device archive builds, all five core/data tests pass, and the native UI regression passes (Study Center, Lexicon return, floating navigation and Study Center pill, direct verse note/highlight, prayer, restart persistence and Genesis introduction). The user refreshed Xcode sign-in and accepted Apple's updated Developer Agreement; App Store export then succeeded. The final floating-navigation build is being prepared for TestFlight. The build has not been submitted to App Review.

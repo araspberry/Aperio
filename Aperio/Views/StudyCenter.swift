@@ -35,7 +35,7 @@ struct StudyCenter: View {
                     case "Cross refs": crossReferences
                     default: timelineBody
                     }
-                }.padding(22).frame(maxWidth:.infinity,alignment:.leading)
+                }.padding(22).padding(.bottom,80).frame(maxWidth:.infinity,alignment:.leading)
             }
         }.foregroundStyle(Theme.paper).background(Theme.graphite).clipShape(UnevenRoundedRectangle(topLeadingRadius:24,bottomLeadingRadius:0,bottomTrailingRadius:0,topTrailingRadius:24))
             .overlay(alignment:.top) { Capsule().fill(Theme.sage.opacity(0.6)).frame(width:34,height:3).padding(.top,7) }
