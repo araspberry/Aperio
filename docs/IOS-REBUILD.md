@@ -56,3 +56,10 @@ Five automated suites passed: all 66 introductions/1,189 chapter datasets and pe
 - Apple-side processing completed: 2.0.0 (25) is listed with 90 days remaining, automatically assigned to Team (Expo), with one existing tester (the owner). Group settings confirm Automatic for Xcode Builds.
 - Build-specific What to Test notes were saved and the confirmation screenshot is in local artifacts/testflight-build-25.jpg.
 - No App Review submission or public release. Actual phone installation/testing remains the owner’s next step.
+
+### Build 26 — Study Center presentation
+
+- User reported Scripture showing below the Study Center in the bottom safe area. The panel now slides from the bottom, fills the available reader area, and extends its opaque background through the home-indicator area without extending its controls.
+- The underlying reader is excluded from touch and accessibility while the panel is open. Reduce Motion disables the slide animation.
+- The native UI regression passed, including screenshot pixel checks at the bottom edge in Commentary and Lexicon, floating-menu operation during study, direct highlighting after closing study, note persistence, prayer entry and book introduction navigation. Visual inspection confirmed the reported white/Scripture strip is gone.
+- App source commit: c032367d. Distribution status will be recorded after upload.
