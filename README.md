@@ -27,7 +27,7 @@ This is a native preview, not yet an App Store release. Saves are on-device. Web
 
 The previous App Store version was rejected for its payment mechanism. This build contains no giving/payment flow. Stripe continues to work on the existing website. A native giving flow requires a separate StoreKit/storefront decision before distribution.
 
-App Store record: Aperio Bible, Apple ID `6763618868`, bundle identifier `com.aperio.bible`, Apple team `JYTDLQ3GAT`. Both identity values were confirmed in App Store Connect / the existing development certificate on October 6, 2026. The current released version is 1.1.0; 1.2.0 build 24 was rejected. This rebuild was uploaded as 2.0.0 build 25 on October 6, 2026.
+App Store record: Aperio Bible, Apple ID `6763618868`, bundle identifier `com.aperio.bible`, Apple team `JYTDLQ3GAT`. Both identity values were confirmed in App Store Connect / the existing development certificate on October 6, 2026. The current released version is 1.1.0; 1.2.0 build 24 was rejected. This rebuild first reached TestFlight as 2.0.0 build 25 on October 6, 2026. Build 26 with the bottom-covering Study Center has also processed. Build 27 adds the recolored original app icon and uploaded successfully at 11:30 EDT; Apple processing is pending.
 
 See `docs/IOS-REBUILD.md` for reference and release notes. Content attribution is included under `Aperio/Content/`.
 

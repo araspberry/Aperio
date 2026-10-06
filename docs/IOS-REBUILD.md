@@ -62,11 +62,11 @@ Five automated suites passed: all 66 introductions/1,189 chapter datasets and pe
 - User reported Scripture showing below the Study Center in the bottom safe area. The panel now slides from the bottom, fills the available reader area, and extends its opaque background through the home-indicator area without extending its controls.
 - The underlying reader is excluded from touch and accessibility while the panel is open. Reduce Motion disables the slide animation.
 - The native UI regression passed, including screenshot pixel checks at the bottom edge in Commentary and Lexicon, floating-menu operation during study, direct highlighting after closing study, note persistence, prayer entry and book introduction navigation. Visual inspection confirmed the reported white/Scripture strip is gone.
-- App source commit: c032367d. Version 2.0.0 (26) upload succeeded on October 6, 2026 at 11:15 EDT; Apple processing is pending confirmation.
+- App source commit: c032367d. Version 2.0.0 (26) upload succeeded on October 6, 2026 at 11:15 EDT; Apple processing completed; the build is listed in TestFlight with 90 days remaining and assigned to the existing Team (Expo) internal group.
 
 ### Build 27 — theme-colored original icon
 
 - User requested the existing app icon in the current theme, retaining its red ribbon. Inspected the exact original `assets/images/icon.png` selected in the prior app manifest, then recolored the artwork with the built-in image editing tool.
 - Graphite leather, olive/sage embossed flame-A and trim, pearl pages, red ribbon. The saved master and full edit prompt are in `design/`; the packaging script now derives the native icon from that master instead of generating the temporary lettermark.
 - The packaged asset is 1024 × 1024, opaque RGB. No navigation or study behavior changed from the verified build 26.
-- Version 2.0.0 (27); archive/upload verification follows.
+- Version 2.0.0 (27), app source `4de89ddc`: signed device archive succeeded. Archive metadata confirms the existing bundle identifier and build 27. The compiled 120-pixel icon was visually checked. Xcode confirmed upload success at 11:30 EDT on October 6, 2026. Apple processing remains pending; no App Review submission or public release was performed.
