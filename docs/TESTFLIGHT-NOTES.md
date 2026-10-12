@@ -1,26 +1,15 @@
-# Aperio 2.0.0 (27) — private native preview
+# Aperio 2.0.1 (28)
 
-This is the fresh SwiftUI rebuild of Aperio, using the current website's graphite, pearl and olive design and saved study content.
-
-Build 27: The original book-cover app icon now matches Aperio’s graphite and olive theme, retaining the red ribbon.
-
-Also included from build 26: Study Center now slides up from the bottom and its solid graphite background covers the home-indicator area. Covered Scripture is hidden from VoiceOver and touch; the floating + menu stays available. Reduce Motion is respected.
+This update improves finding Scripture and makes the reading tools more flexible.
 
 Please try:
 
-- Open the floating + menu to move among Home, Bible, Prayer, Saved and Account.
-- In Bible, tap any verse to choose a highlight, add a note or bookmark it. Tap Save. Study Center does not need to be open.
-- Open Study Center from the floating book-and-ribbon pill. Explore Commentary, Verses, Lexicon, Cross refs and Timeline. The + menu remains available.
-- Choose a Bible book to open its introduction, then choose a chapter.
-- Follow a reading thread from Home and use its continuation control to reach the next passage.
-- Write a prayer, save a verse note, close the app and reopen it to check persistence.
-- If updating the previous installed app, check whether local notes, highlights, prayers and reading position were imported. Existing legacy database files are preserved.
+- Search “Works tested by fire” or “Works tested in fire.” 1 Corinthians 3:13 should appear first. Open it to read the surrounding chapter. Try “sheperd” with the missing letter or “1 Cor 3:12–15.” Search works offline.
+- Tap Chapter in Bible. It now shows chapters for your current book; book selection is separate.
+- Open Study Center. It starts halfway up the screen. Drag the handle freely, double-tap to expand/return, and close/reopen. Swipe inside the panel to reach the start and end of every section at any height. Its solid background covers the bottom edge; the + menu stays available.
+- Check the smaller Aperio wordmark and italic Bible App subtitle beside the logo, with a slow left-to-right letter shimmer and no pill border. Reduce Motion disables the animation.
+- Tap the envelope and choose “Just Verse of the Day” or “Verse of the Day, updates & more.” A valid email and explicit consent are required. This build saves pending requests; daily email delivery is still being prepared. The form explains this and allows removing your request.
+- On the US App Store storefront, Give in the + menu lets you select $5, $10, $25, $50, $100, or a custom amount and one-time/monthly frequency. Continue to payment carries those exact choices into the existing Stripe website checkout in your browser, including through website sign-in. Giving is optional and unlocks no benefits. Other storefronts do not show Give.
+- Check that the + menu scrolls on short screens and in landscape, keeping Settings reachable.
 
-Preview limitations:
-
-- Notes, prayers, highlights and progress save on this device. Website sign-in and cross-device syncing are not connected yet.
-- Existing cloud-only records are not imported.
-- Native giving is not included in this build.
-- App Store listing and public release review are still pending.
-
-Account includes personal backup export and merge restore. Scripture and commentary are bundled for offline reading; opening a passage never requests new AI commentary.
+Notes, prayers, highlights and reading progress remain on your device. Cloud account syncing is not included. Scripture and commentary are saved content; reading and searching never call an AI service.

@@ -2,6 +2,8 @@ import SwiftUI
 
 struct FloatingNavigationMenu: View {
     @Binding var open: Bool
+    var showGiving = false
+    var maximumHeight: CGFloat = 520
     let onSearch: () -> Void
     let onSettings: () -> Void
     @EnvironmentObject var navigation: NavigationState
@@ -9,17 +11,20 @@ struct FloatingNavigationMenu: View {
     var body: some View {
         VStack(alignment:.trailing,spacing:14) {
             if open {
+                ScrollView {
                 VStack(alignment:.leading,spacing:4) {
                     Eyebrow(text:"Where to?").padding(.horizontal,16).padding(.top,10).padding(.bottom,6)
                     item("Home","house",0)
                     item("Bible","book",1)
                     item("Prayer","hands.sparkles",2)
                     item("Saved","bookmark",3)
+                    if showGiving { item("Give","heart",5) }
                     item("Account","person.crop.circle",4)
                     Divider().padding(.horizontal,14).padding(.vertical,4)
                     action("Search Scripture","magnifyingglass",onSearch)
                     action("Settings","slider.horizontal.3",onSettings)
-                }.padding(8).frame(width:230).background(Theme.paper,in:RoundedRectangle(cornerRadius:25))
+                }.padding(8)
+                }.scrollBounceBehavior(.basedOnSize).frame(width:230,height:min(showGiving ? 505 : 454,maximumHeight)).background(Theme.paper,in:RoundedRectangle(cornerRadius:25))
                     .overlay { RoundedRectangle(cornerRadius:25).strokeBorder(Theme.line,lineWidth:1) }
                     .shadow(color:.black.opacity(0.16),radius:24,y:8)
                     .transition(.scale(scale:0.92,anchor:.bottomTrailing).combined(with:.opacity))

@@ -2,6 +2,154 @@ import XCTest
 import UIKit
 
 final class AperioUITests: XCTestCase {
+    func testGivingChoicesSubscriptionOptionsAndStudyScrolling() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launchEnvironment["APERIO_TEST_STOREFRONT"] = "USA"
+        app.launch()
+        XCTAssertTrue(app.buttons["header.subscribe"].waitForExistence(timeout:20))
+        app.buttons["header.subscribe"].tap()
+        XCTAssertTrue(app.buttons["subscribe.verse_only"].waitForExistence(timeout:5))
+        app.buttons["subscribe.verse_and_updates"].tap()
+        XCTAssertTrue(app.buttons["subscribe.verse_and_updates"].isSelected)
+        app.buttons["subscribe.verse_only"].tap()
+        XCTAssertTrue(app.buttons["subscribe.verse_only"].isSelected)
+        let emailShot = XCTAttachment(screenshot:app.screenshot()); emailShot.name = "Email preferences"; emailShot.lifetime = .keepAlways; add(emailShot)
+        app.buttons["Done"].tap()
+        app.buttons["navigation.menu"].tap(); app.buttons["tab.give"].tap()
+        XCTAssertTrue(app.buttons["giving.amount.25"].waitForExistence(timeout:5))
+        app.swipeUp()
+        app.segmentedControls["giving.frequency"].buttons["Monthly"].tap()
+        app.buttons["giving.amount.50"].tap()
+        XCTAssertEqual(app.staticTexts["giving.summary"].label,"$50.00")
+        app.buttons["giving.amount.Other"].tap()
+        app.textFields["giving.custom"].typeText("17.75")
+        app.buttons["Done"].tap()
+        XCTAssertEqual(app.staticTexts["giving.summary"].label,"$17.75")
+        XCTAssertTrue(app.buttons["giving.continue"].isEnabled)
+        let give = XCTAttachment(screenshot:app.screenshot()); give.name = "Selected monthly gift"; give.lifetime = .keepAlways; add(give)
+        // Never launch a live payment during UI tests.
+        app.buttons["navigation.menu"].tap(); app.buttons["tab.bible"].tap()
+        app.buttons["reader.study"].tap()
+        let handle = app.otherElements["study.resize"]
+        XCTAssertTrue(handle.waitForExistence(timeout:5))
+        let scroll = app.scrollViews["study.content"]
+        func reachLastSection() {
+            scroll.swipeUp(velocity:.fast) // Also lets a preceding resize animation settle.
+            let y = handle.frame.midY
+            let sources = app.buttons["study.sources"]
+            for _ in 0..<25 {
+                if sources.isHittable { break }
+                scroll.swipeUp(velocity:.fast)
+            }
+            XCTAssertTrue(sources.isHittable,"The final study section must remain reachable at this height")
+            XCTAssertEqual(handle.frame.midY,y,accuracy:4,"Scrolling study content must not resize the panel")
+            for _ in 0..<25 {
+                if app.buttons["Devotional"].isHittable { break }
+                scroll.swipeDown(velocity:.fast)
+            }
+            XCTAssertTrue(app.buttons["Devotional"].isHittable,"The start of the study must remain reachable")
+        }
+        reachLastSection()
+        let start = handle.coordinate(withNormalizedOffset:CGVector(dx:0.5,dy:0.5))
+        start.press(forDuration:0.1,thenDragTo:start.withOffset(CGVector(dx:0,dy:155)))
+        reachLastSection()
+        handle.doubleTap()
+        reachLastSection()
+        assertStudyCoversBottom(app.screenshot())
+    }
+
+    func testRememberedScriptureSearch() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launch()
+        XCTAssertTrue(app.buttons["Search Scripture"].waitForExistence(timeout:20))
+        app.buttons["Search Scripture"].tap()
+        let field = app.searchFields.firstMatch
+        XCTAssertTrue(field.waitForExistence(timeout:5)); field.tap(); field.typeText("Works tested in fire")
+        let result = app.buttons["search.result.45:3:13"]
+        XCTAssertTrue(result.waitForExistence(timeout:10))
+        let shot = XCTAttachment(screenshot:app.screenshot()); shot.name = "Remembered wording search"; shot.lifetime = .keepAlways; add(shot)
+        result.tap()
+        XCTAssertTrue(app.buttons["reader.bookPicker"].waitForExistence(timeout:5))
+        XCTAssertTrue(app.buttons["reader.bookPicker"].label.contains("1 Corinthians"))
+        XCTAssertTrue(app.buttons["verse.13"].isHittable)
+    }
+
+    func testMobileUpdatesAndResizableStudy() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launchEnvironment["APERIO_TEST_STOREFRONT"] = "USA"
+        app.launch()
+        XCTAssertTrue(app.buttons["header.subscribe"].waitForExistence(timeout:20))
+        let home = XCTAttachment(screenshot:app.screenshot()); home.name = "Refined header"; home.lifetime = .keepAlways; add(home)
+        app.buttons["header.subscribe"].tap()
+        XCTAssertTrue(app.textFields["subscribe.email"].waitForExistence(timeout:5))
+        XCTAssertFalse(app.buttons["subscribe.submit"].isEnabled)
+        app.textFields["subscribe.email"].tap(); app.textFields["subscribe.email"].typeText("reader@example.test")
+        app.swipeUp()
+        XCTAssertFalse(app.buttons["subscribe.submit"].isEnabled)
+        app.switches["subscribe.consent"].tap()
+        XCTAssertTrue(app.buttons["subscribe.submit"].isEnabled)
+        // No automated signup is sent to the public database.
+        app.buttons["Done"].tap()
+        app.buttons["navigation.menu"].tap(); app.buttons["tab.give"].tap()
+        XCTAssertTrue(app.buttons["giving.continue"].waitForExistence(timeout:5))
+        let give = XCTAttachment(screenshot:app.screenshot()); give.name = "US giving"; give.lifetime = .keepAlways; add(give)
+        app.buttons["navigation.menu"].tap(); app.buttons["tab.bible"].tap()
+        app.buttons["reader.chapterPicker"].tap()
+        XCTAssertTrue(app.buttons["picker.chapter.24"].waitForExistence(timeout:5))
+        XCTAssertFalse(app.textFields["picker.bookSearch"].exists)
+        app.buttons["picker.chapter.24"].tap()
+        XCTAssertTrue(app.buttons["reader.chapterPicker"].label.contains("24"))
+        app.buttons["reader.chapterPicker"].tap(); app.buttons["picker.chapter.23"].tap()
+        app.buttons["reader.bookPicker"].tap()
+        XCTAssertTrue(app.textFields["picker.bookSearch"].waitForExistence(timeout:5))
+        app.buttons["Done"].tap()
+        app.buttons["reader.study"].tap()
+        let handle = app.otherElements["study.resize"]
+        XCTAssertTrue(handle.waitForExistence(timeout:5))
+        let initialY = handle.frame.midY
+        XCTAssertGreaterThan(initialY,app.frame.height*0.4)
+        XCTAssertLessThan(initialY,app.frame.height*0.78)
+        assertStudyCoversBottom(app.screenshot())
+        let half = XCTAttachment(screenshot:app.screenshot()); half.name = "Half-height Study Center"; half.lifetime = .keepAlways; add(half)
+        let start = handle.coordinate(withNormalizedOffset:CGVector(dx:0.5,dy:0.5))
+        start.press(forDuration:0.1,thenDragTo:start.withOffset(CGVector(dx:0,dy:-180)))
+        XCTAssertLessThan(handle.frame.midY,initialY-100)
+        let raisedY = handle.frame.midY
+        let raised = handle.coordinate(withNormalizedOffset:CGVector(dx:0.5,dy:0.5))
+        raised.press(forDuration:0.1,thenDragTo:raised.withOffset(CGVector(dx:0,dy:140)))
+        XCTAssertGreaterThan(handle.frame.midY,raisedY+80)
+        assertStudyCoversBottom(app.screenshot())
+        app.buttons["Close Study Center"].tap()
+        XCTAssertTrue(handle.waitForNonExistence(timeout:3))
+        app.buttons["reader.study"].tap()
+        XCTAssertTrue(handle.waitForExistence(timeout:5))
+        XCTAssertEqual(handle.frame.midY,initialY,accuracy:5)
+        handle.doubleTap()
+        XCTAssertTrue(app.buttons["navigation.menu"].isHittable)
+        assertStudyCoversBottom(app.screenshot())
+        app.terminate()
+        app.launchEnvironment["APERIO_TEST_STOREFRONT"] = "GBR"
+        app.launch()
+        XCTAssertTrue(app.buttons["navigation.menu"].waitForExistence(timeout:20))
+        app.buttons["navigation.menu"].tap()
+        XCTAssertFalse(app.buttons["tab.give"].exists,"External giving must not appear outside the US storefront")
+        XCUIDevice.shared.orientation = .landscapeLeft
+        defer { XCUIDevice.shared.orientation = .portrait }
+        XCTAssertTrue(app.buttons["tab.home"].waitForExistence(timeout:5))
+        XCTAssertTrue(app.buttons["tab.home"].isHittable)
+        app.scrollViews.containing(.button,identifier:"tab.home").firstMatch.swipeUp()
+        XCTAssertTrue(app.buttons["Settings"].isHittable,"The expanded menu must scroll on short screens")
+    }
+
     func testAppStoreScreenshots() {
         continueAfterFailure = false
         let app = XCUIApplication()
@@ -19,6 +167,7 @@ final class AperioUITests: XCTestCase {
         capture("02-bible")
         app.buttons["reader.study"].tap()
         XCTAssertTrue(app.buttons["study.Lexicon"].waitForExistence(timeout:5))
+        app.otherElements["study.resize"].doubleTap()
         capture("03-commentary")
         app.buttons["study.Lexicon"].tap()
         let phrase = app.buttons.containing(.staticText,identifier:"A Psalm").firstMatch
@@ -44,6 +193,7 @@ final class AperioUITests: XCTestCase {
         app.buttons["navigation.menu"].tap()
         app.buttons["reader.study"].tap()
         XCTAssertTrue(app.buttons["study.Lexicon"].waitForExistence(timeout:5))
+        app.otherElements["study.resize"].doubleTap()
         XCTAssertTrue(app.buttons["navigation.menu"].isHittable,"Floating navigation must remain usable in Study Center")
         XCTAssertFalse(app.buttons["verse.5"].exists,"Covered Scripture must not remain exposed to VoiceOver")
         assertStudyCoversBottom(app.screenshot())

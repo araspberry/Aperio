@@ -1,5 +1,43 @@
 import SwiftUI
 
+struct ResizableStudyCenter: View {
+    let library: ContentLibrary
+    let availableHeight: CGFloat
+    let halfFraction: CGFloat
+    @Binding var fraction: CGFloat
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @GestureState private var dragOffset: CGFloat = 0
+    private var minimumHeight: CGFloat { min(210,availableHeight) }
+    private var height: CGFloat { bounded(availableHeight*fraction-dragOffset) }
+    private func bounded(_ value:CGFloat) -> CGFloat { min(availableHeight,max(minimumHeight,value)) }
+    var body: some View {
+        VStack(spacing:0) {
+            Capsule().fill(Theme.sage.opacity(0.75)).frame(width:48,height:5)
+                .frame(maxWidth:.infinity).frame(height:44).contentShape(Rectangle())
+                .gesture(DragGesture(minimumDistance:2,coordinateSpace:.global)
+                    .updating($dragOffset) { value,state,_ in state = value.translation.height }
+                    .onEnded { value in fraction = bounded(availableHeight*fraction-value.translation.height)/max(1,availableHeight) })
+                .onTapGesture(count:2) { resize(to:fraction > (1+halfFraction)/2 ? halfFraction : 1) }
+                .accessibilityElement(children:.ignore).accessibilityLabel("Resize Study Center")
+                .accessibilityValue("\(Int(height/max(1,availableHeight)*100)) percent expanded")
+                .accessibilityHint("Drag up or down. Double-tap to switch between half height and full height.")
+                .accessibilityAdjustableAction { direction in resize(to:fraction+(direction == .increment ? 0.15 : -0.15)) }
+                .accessibilityAction(named:"Expand fully") { resize(to:1) }
+                .accessibilityAction(named:"Half height") { resize(to:halfFraction) }
+                .accessibilityIdentifier("study.resize")
+            StudyCenter(library:library).frame(height:max(0,height-44)).clipped()
+        }.frame(maxWidth:.infinity).frame(height:height)
+            .background {
+                UnevenRoundedRectangle(topLeadingRadius:24,bottomLeadingRadius:0,bottomTrailingRadius:0,topTrailingRadius:24)
+                    .fill(Theme.graphite).ignoresSafeArea(.container,edges:.bottom)
+            }
+            .shadow(color:.black.opacity(0.14),radius:15,y:-5)
+    }
+    private func resize(to value:CGFloat) {
+        withAnimation(reduceMotion ? nil : .easeInOut(duration:0.25)) { fraction = bounded(availableHeight*value)/max(1,availableHeight) }
+    }
+}
+
 struct StudyCenter: View {
     let library: ContentLibrary
     @EnvironmentObject var navigation: NavigationState
@@ -21,12 +59,13 @@ struct StudyCenter: View {
                 VStack(alignment:.leading,spacing:5) { Eyebrow(text:"Study Center",light:true); Text(library.name(passage)).font(.caption).foregroundStyle(Theme.paper.opacity(0.7)) }
                 Spacer()
                 Button { navigation.study = false } label:{ Image(systemName:"xmark").frame(width:44,height:44) }.accessibilityLabel("Close Study Center")
-            }.padding(.horizontal,20).padding(.top,15)
+            }.padding(.horizontal,20).fixedSize(horizontal:false,vertical:true)
             ScrollView(.horizontal,showsIndicators:false) { HStack(spacing:20) { ForEach(tabs,id:\.self) { name in
                 Button { tab = name; selected = nil } label:{ Text(name).font(.subheadline.weight(.semibold)).padding(.vertical,14).foregroundStyle(tab == name ? Theme.sage : Theme.paper.opacity(0.6)).overlay(alignment:.bottom) { if tab == name { Theme.sage.frame(height:2) } } }.accessibilityIdentifier("study.\(name)")
-            } }.padding(.horizontal,20) }
+            } }.padding(.horizontal,20) }.fixedSize(horizontal:false,vertical:true)
             Divider().overlay(.white.opacity(0.12))
-            ScrollView {
+            GeometryReader { viewport in
+              ScrollView {
                 VStack(alignment:.leading,spacing:22) {
                     switch tab {
                     case "Commentary": commentaryBody
@@ -36,16 +75,13 @@ struct StudyCenter: View {
                     default: timelineBody
                     }
                 }.padding(22).padding(.bottom,80).frame(maxWidth:.infinity,alignment:.leading)
+              }.frame(width:viewport.size.width,height:viewport.size.height)
+                .accessibilityIdentifier("study.content")
+                .scrollBounceBehavior(.basedOnSize)
+                .id(tab)
             }
         }.frame(maxWidth:.infinity,maxHeight:.infinity,alignment:.top)
             .foregroundStyle(Theme.paper)
-            .background {
-                // Extend only the opaque surface through the home-indicator area;
-                // study controls and the floating menu stay inside the safe area.
-                UnevenRoundedRectangle(topLeadingRadius:24,bottomLeadingRadius:0,bottomTrailingRadius:0,topTrailingRadius:24)
-                    .fill(Theme.graphite).ignoresSafeArea(.container,edges:.bottom)
-            }
-            .overlay(alignment:.top) { Capsule().fill(Theme.sage.opacity(0.6)).frame(width:34,height:3).padding(.top,7) }
             .onAppear(perform:load).onChange(of:passage) { _,_ in load() }
     }
     func load() {
@@ -74,7 +110,7 @@ struct StudyCenter: View {
                         Text("\(commentary.status). Saved commentary; no AI is called while you read.").font(.caption).foregroundStyle(Theme.paper.opacity(0.65))
                         ForEach(commentary.sources) { source in if let url = URL(string:source.url) { Link(source.label,destination:url).font(.caption).foregroundStyle(Theme.sage) } }
                     }.padding(.top,12)
-                }.tint(Theme.sage).font(.subheadline)
+                }.tint(Theme.sage).font(.subheadline).accessibilityIdentifier("study.sources")
             }
         } else { Text(error ?? "Commentary isn’t available for this chapter.") }
     }

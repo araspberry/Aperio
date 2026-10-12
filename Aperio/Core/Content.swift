@@ -42,13 +42,15 @@ struct Journey: Codable, Identifiable {
     let id: String; let title: String; let description: String; let tag: String; let poster: String; let video: String; let steps: [Step]
 }
 struct HomeContent: Codable { let days: [DailyReading]; let journeys: [Journey] }
-struct SearchResult: Identifiable, Sendable { let passage: Passage; let text: String; let reference: String; var id: String { passage.id } }
+struct SearchResult: Identifiable, Sendable { let passage: Passage; let text: String; let reference: String; var match: String = "Reference"; var id: String { passage.id } }
 
 final class ContentLibrary: @unchecked Sendable {
     let root: URL
     let books: [BibleBook]
     let home: HomeContent
     private let commentaryPaths: [String:String]
+    private let searchLock = NSLock()
+    private var searchIndex: ScriptureSearchIndex?
     init(root: URL = Bundle.main.resourceURL!.appendingPathComponent("Content")) throws {
         self.root = root
         func read<T:Decodable>(_ file: String) throws -> T { try JSONDecoder().decode(T.self, from: Data(contentsOf: root.appendingPathComponent(file))) }
@@ -86,20 +88,11 @@ final class ContentLibrary: @unchecked Sendable {
         return home.days[((day % home.days.count) + home.days.count) % home.days.count]
     }
     func search(_ query: String) -> [SearchResult] {
-        let q = query.trimmingCharacters(in: .whitespacesAndNewlines)
-        guard q.count >= 2 else { return [] }
-        var results = [SearchResult]()
-        for (b,book) in books.enumerated() {
-            for (c,verses) in book.chapters.enumerated() {
-                for verse in verses {
-                    let p = Passage(book:b,chapter:c+1,verse:verse.v), ref = name(p,verse:true)
-                    if verse.t.localizedCaseInsensitiveContains(q) || ref.localizedCaseInsensitiveContains(q) {
-                        results.append(SearchResult(passage:p,text:verse.t,reference:ref))
-                        if results.count >= 100 { return results }
-                    }
-                }
-            }
-        }
-        return results
+        guard query.trimmingCharacters(in:.whitespacesAndNewlines).count >= 2 else { return [] }
+        searchLock.lock()
+        if searchIndex == nil { searchIndex = ScriptureSearchIndex(books:books) }
+        let index = searchIndex!
+        searchLock.unlock()
+        return index.search(query)
     }
 }

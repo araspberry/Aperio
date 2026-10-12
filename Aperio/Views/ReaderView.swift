@@ -5,21 +5,28 @@ struct ReaderView: View {
     @EnvironmentObject var personal: PersonalStore
     @EnvironmentObject var navigation: NavigationState
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
-    @State private var picker = false
+    private enum PickerDestination: String, Identifiable {
+        case books, chapters
+        var id: String { rawValue }
+    }
+    @State private var picker: PickerDestination?
     @State private var editPassage: Passage?
     @State private var focus = false
+    @State private var studyFraction: CGFloat?
     private var passage: Passage { navigation.passage }
     private var journey: Journey? { library.home.journeys.first { $0.id == personal.data.activeJourney } }
     var body: some View {
         VStack(spacing:0) {
             HStack(spacing:12) {
-                Button { picker = true } label: {
+                Button { picker = .books } label: {
                     HStack(spacing:8) { Text(library.books[passage.book].name).lineLimit(1).minimumScaleFactor(0.7); Image(systemName:"chevron.down").font(.caption) }.frame(maxWidth:.infinity).frame(height:45)
                 }.accessibilityIdentifier("reader.bookPicker")
-                Button { picker = true } label: {
+                Button { picker = .chapters } label: {
                     HStack(spacing:8) { Text(passage.chapter == 0 ? "Introduction" : "Chapter \(passage.chapter)").lineLimit(1).minimumScaleFactor(0.7); Image(systemName:"chevron.down").font(.caption) }.frame(maxWidth:.infinity).frame(height:45)
-                }
+                }.accessibilityIdentifier("reader.chapterPicker")
             }.font(.subheadline.weight(.semibold)).buttonStyle(PickerButton()).padding(.horizontal,20).padding(.vertical,14)
+            GeometryReader { geometry in
+            let halfFraction = min(1,(geometry.frame(in:.global).maxY + geometry.safeAreaInsets.bottom)/2/max(1,geometry.size.height))
             ZStack(alignment:.bottomTrailing) {
                 ScrollViewReader { proxy in
                     ScrollView {
@@ -60,13 +67,13 @@ struct ReaderView: View {
                             }
                         }.padding(.horizontal,23).padding(.bottom,journey == nil ? 120 : 220)
                     }.onChange(of:passage) { _,new in proxy.scrollTo(new.chapter == 0 ? 0 : new.verse,anchor:.top) }.onAppear { proxy.scrollTo(passage.chapter == 0 ? 0 : passage.verse,anchor:.top) }
-                }.allowsHitTesting(!navigation.study).accessibilityHidden(navigation.study)
+                }.allowsHitTesting(!navigation.study || (studyFraction ?? halfFraction) < 0.98).accessibilityHidden(navigation.study && (studyFraction ?? halfFraction) >= 0.98)
                 if passage.chapter > 0 && !focus && !navigation.study {
                     Button { navigation.study = true } label: {
                         HStack(spacing:12) {
                             ZStack {
                                 Image(systemName:"book.pages.fill").font(.system(size:25,weight:.light)).foregroundStyle(Theme.sage)
-                                Rectangle().fill(Color(hex:0xC94141)).frame(width:3,height:10).offset(x:6,y:15)
+                                Rectangle().fill(Theme.ribbon).frame(width:3,height:10).offset(x:6,y:15)
                             }.frame(width:32,height:38)
                             Text("Study Center").font(.subheadline.weight(.semibold)).foregroundStyle(Theme.paper)
                         }.padding(.horizontal,20).frame(height:58).background(Theme.graphite,in:Capsule())
@@ -78,10 +85,17 @@ struct ReaderView: View {
                 if let journey, !navigation.study, passage.chapter > 0 {
                     journeyControl(journey).padding(14).background(Theme.graphite,in:RoundedRectangle(cornerRadius:16)).foregroundStyle(Theme.paper).padding(.horizontal,20).padding(.bottom,88)
                 }
-                if navigation.study { StudyCenter(library:library).transition(.move(edge:.bottom)).zIndex(2) }
+                if navigation.study {
+                    ResizableStudyCenter(library:library,availableHeight:geometry.size.height,halfFraction:halfFraction,fraction:Binding(get:{ studyFraction ?? halfFraction },set:{ studyFraction = $0 }))
+                        .transition(.move(edge:.bottom)).zIndex(2)
+                }
+            }.frame(width:geometry.size.width,height:geometry.size.height)
             }
         }.animation(reduceMotion ? nil : .easeInOut(duration:0.32),value:navigation.study)
-            .sheet(isPresented:$picker) { PassagePicker(library:library).environmentObject(navigation) }
+            .onChange(of:navigation.study) { _,open in if !open { studyFraction = nil } }
+            .sheet(item:$picker) { destination in
+                PassagePicker(library:library,initialBook:destination == .chapters ? passage.book : nil).environmentObject(navigation)
+            }
             .sheet(item:$editPassage) { p in AnnotationEditor(passage:p,library:library).environmentObject(navigation) }
     }
     @ViewBuilder private var introduction: some View {
@@ -127,6 +141,10 @@ struct PassagePicker: View {
     @Environment(\.dismiss) var dismiss
     @State private var query = ""
     @State private var chosen: Int?
+    init(library:ContentLibrary,initialBook:Int? = nil) {
+        self.library = library
+        _chosen = State(initialValue:initialBook)
+    }
     var body: some View {
         NavigationStack {
             ScrollView {
@@ -135,10 +153,19 @@ struct PassagePicker: View {
                         Text(library.books[chosen].name).font(Theme.serif(36))
                         Button("Introduction to \(library.books[chosen].name)") { open(chosen,0) }.buttonStyle(AperioButton())
                         LazyVGrid(columns:[GridItem(.adaptive(minimum:56))],spacing:12) {
-                            ForEach(1...library.books[chosen].chapters.count,id:\.self) { ch in Button("\(ch)") { open(chosen,ch) }.font(.headline).frame(maxWidth:.infinity).frame(height:50).background(Theme.sage.opacity(0.32),in:RoundedRectangle(cornerRadius:10)) }
+                            ForEach(1...library.books[chosen].chapters.count,id:\.self) { ch in
+                                let current = chosen == navigation.passage.book && ch == navigation.passage.chapter
+                                Button("\(ch)") { open(chosen,ch) }
+                                    .font(.headline).frame(maxWidth:.infinity).frame(height:50)
+                                    .foregroundStyle(current ? Theme.paper : Theme.olive)
+                                    .background(current ? Theme.graphite : Theme.sage.opacity(0.32),in:RoundedRectangle(cornerRadius:10))
+                                    .accessibilityLabel("Chapter \(ch)")
+                                    .accessibilityIdentifier("picker.chapter.\(ch)")
+                                    .accessibilityAddTraits(current ? .isSelected : [])
+                            }
                         }
                     } else {
-                        TextField("Find a book",text:$query).padding(14).background(.white,in:RoundedRectangle(cornerRadius:12)).autocorrectionDisabled()
+                        TextField("Find a book",text:$query).padding(14).background(.white,in:RoundedRectangle(cornerRadius:12)).autocorrectionDisabled().accessibilityIdentifier("picker.bookSearch")
                         ForEach([0,39],id:\.self) { start in
                             Eyebrow(text:start == 0 ? "Old Testament" : "New Testament")
                             ForEach(start..<(start == 0 ? 39 : 66),id:\.self) { b in
@@ -149,7 +176,7 @@ struct PassagePicker: View {
                         }
                     }
                 }.padding(24)
-            }.background(Theme.paper).navigationTitle("Open Scripture").navigationBarTitleDisplayMode(.inline).toolbar {
+            }.background(Theme.paper).navigationTitle(chosen == nil ? "Choose a book" : "Choose a chapter").navigationBarTitleDisplayMode(.inline).toolbar {
                 if chosen != nil { ToolbarItem(placement:.cancellationAction) { Button("Books") { chosen = nil } } }
                 ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } }
             }

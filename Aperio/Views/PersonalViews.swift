@@ -152,21 +152,34 @@ struct SearchView: View {
     @Environment(\.dismiss) var dismiss
     @State private var query = ""
     @State private var results = [SearchResult]()
+    @State private var searching = false
     var body: some View {
         NavigationStack {
             List {
-                if query.count < 2 { Text("Search a phrase or reference, such as ‘Psalm 23’ or ‘be still’.").foregroundStyle(Theme.muted) }
-                else if results.isEmpty { Text("No passages found. Try a shorter phrase.").foregroundStyle(Theme.muted) }
+                if query.count < 2 {
+                    Section {
+                        Text("Start with the words you remember, a topic, or a passage reference. You don’t need the exact wording.").foregroundStyle(Theme.muted)
+                        ForEach(["Works tested by fire","Peace when anxious","Love is patient","Psalm 23"],id:\.self) { example in
+                            Button { query = example } label: { Label(example,systemImage:"magnifyingglass").foregroundStyle(Theme.olive) }
+                        }
+                    } header: { Text("Find your way into Scripture") }
+                } else if searching { ProgressView("Finding passages…") }
+                else if results.isEmpty { Text("No close matches yet. Try the main words you remember, like ‘work fire’, or enter a reference such as ‘1 Cor 3:13’.").foregroundStyle(Theme.muted) }
                 ForEach(results) { result in
-                    Button { personal.update { $0.activeJourney = nil }; navigation.read(result.passage); dismiss() } label:{ VStack(alignment:.leading,spacing:8) { Text(result.reference).font(.caption.weight(.semibold)).foregroundStyle(Theme.olive); Text(result.text).font(Theme.serif(19)).lineSpacing(4).foregroundStyle(Theme.ink) }.padding(.vertical,8) }
+                    Button { personal.update { $0.activeJourney = nil }; navigation.read(result.passage); dismiss() } label:{ VStack(alignment:.leading,spacing:8) {
+                        HStack { Text(result.reference).font(.caption.weight(.semibold)).foregroundStyle(Theme.olive); Spacer(); Text(result.match).font(.caption2).foregroundStyle(Theme.muted) }
+                        Text(result.text).font(Theme.serif(19)).lineSpacing(4).foregroundStyle(Theme.ink)
+                        Label("Read in context",systemImage:"arrow.right").font(.caption).foregroundStyle(Theme.olive)
+                    }.padding(.vertical,8) }.accessibilityIdentifier("search.result.\(result.passage.id)")
                 }
-                if results.count == 100 { Text("Showing the first 100 matches. Refine your search for more specific results.").font(.caption) }
-            }.searchable(text:$query,prompt:"Passage or phrase").navigationTitle("Search Scripture").navigationBarTitleDisplayMode(.inline).toolbar { ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } } }
+                if results.count == 100 { Text("Showing the 100 closest matches. Add another word to narrow your search.").font(.caption) }
+            }.searchable(text:$query,prompt:"Remembered words, topic, or reference").navigationTitle("Search Scripture").navigationBarTitleDisplayMode(.inline).toolbar { ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } } }
                 .task(id:query) {
                     let current = query
+                    searching = current.count >= 2; results = []
                     do { try await Task.sleep(for:.milliseconds(200)) } catch { return }
                     let found = await Task.detached { library.search(current) }.value
-                    guard !Task.isCancelled else { return }; results = found
+                    guard !Task.isCancelled else { return }; results = found; searching = false
                 }
         }.tint(Theme.olive)
     }

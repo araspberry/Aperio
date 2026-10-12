@@ -3,6 +3,7 @@ import SwiftUI
 enum Theme {
     static let paper = Color(hex:0xFAF9F6), ink = Color(hex:0x252826), graphite = Color(hex:0x303536)
     static let olive = Color(hex:0x536143), sage = Color(hex:0xCDD6B8), muted = Color(hex:0x676B63), line = Color(hex:0xDFDFD5)
+    static let ribbon = Color(hex:0xC94141)
     static func serif(_ size: CGFloat) -> Font { .custom("Georgia",size:size,relativeTo:.body) }
 }
 extension Color {
@@ -11,6 +12,45 @@ extension Color {
 struct Eyebrow: View {
     let text: String; var light = false
     var body: some View { Text(text.uppercased()).font(.system(.caption,design:.rounded).weight(.bold)).tracking(2).foregroundStyle(light ? Theme.sage : Theme.olive) }
+}
+struct AperioWordmark: View {
+    var body: some View {
+        HStack(alignment:.firstTextBaseline,spacing:8) {
+            (Text("aperio").foregroundStyle(Theme.paper) + Text(".").foregroundStyle(Theme.ribbon))
+                .font(Theme.serif(29)).tracking(-1.5)
+            BibleAppSubtitle()
+        }.fixedSize().accessibilityElement(children:.ignore)
+    }
+}
+struct BibleAppSubtitle: View {
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    private let letters = Array("Bible App")
+    private let base = Color(hex:0x98A188)
+    var body: some View {
+        if reduceMotion {
+            Text("Bible App").font(.system(size:11,weight:.medium,design:.serif).italic()).tracking(1.2).foregroundStyle(Theme.sage)
+        } else {
+            TimelineView(.animation(minimumInterval:1.0/24)) { timeline in
+                HStack(alignment:.firstTextBaseline,spacing:1.2) {
+                    ForEach(letters.indices,id:\.self) { index in
+                        let light = brightness(at:timeline.date,index:index)
+                        Text(String(letters[index])).font(.system(size:11,weight:.medium,design:.serif).italic())
+                            .foregroundStyle(base)
+                            .overlay { Text(String(letters[index])).font(.system(size:11,weight:.medium,design:.serif).italic()).foregroundStyle(Theme.sage).opacity(light) }
+                            .shadow(color:Theme.sage.opacity(light*0.6),radius:light*4)
+                    }
+                }
+            }
+        }
+    }
+    private func brightness(at date:Date,index:Int) -> Double {
+        // A slow, soft two-crest shimmer passes each letter, then rests.
+        // There are no hard on/off flashes or changes to the text's position.
+        let cycle = date.timeIntervalSinceReferenceDate.truncatingRemainder(dividingBy:7.2)
+        let progress = (cycle-0.4-Double(index)*0.34)/1.35
+        guard (0...1).contains(progress) else { return 0 }
+        return pow(sin(.pi*progress),2)*(0.86+0.14*cos(progress*4 * .pi))
+    }
 }
 struct AperioButton: ButtonStyle {
     var light = false

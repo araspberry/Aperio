@@ -34,14 +34,27 @@ struct AppShell: View {
     @StateObject private var navigation = NavigationState()
     @State private var search = false
     @State private var settings = false
+    @State private var subscribe = false
+    @StateObject private var newsletter: VerseSubscriptionStore
+    @StateObject private var giving = GivingAvailability()
+    @Environment(\.scenePhase) private var scenePhase
     @State private var menuOpen = false
+    init(library:ContentLibrary) {
+        self.library = library
+        #if DEBUG
+        let directory = ProcessInfo.processInfo.environment["APERIO_UI_TEST"] == "1" ? FileManager.default.temporaryDirectory.appendingPathComponent("AperioUITest") : nil
+        _newsletter = StateObject(wrappedValue:VerseSubscriptionStore(directory:directory))
+        #else
+        _newsletter = StateObject(wrappedValue:VerseSubscriptionStore())
+        #endif
+    }
     var body: some View {
         VStack(spacing:0) {
             HStack {
-                Button { navigation.tab = 0 } label: { (Text("aperio").foregroundStyle(Theme.paper) + Text(".").foregroundStyle(Theme.sage)).font(Theme.serif(35)).tracking(-2) }.accessibilityLabel("Aperio Home")
+                Button { navigation.tab = 0 } label: { AperioWordmark() }.buttonStyle(.plain).accessibilityLabel("Aperio Bible App, Home")
                 Spacer()
                 Button { search = true } label: { Image(systemName:"magnifyingglass").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Search Scripture")
-                Button { settings = true } label: { Image(systemName:"slider.horizontal.3").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Reading settings")
+                Button { subscribe = true } label: { Image(systemName:"envelope").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Subscribe to Verse of the Day").accessibilityIdentifier("header.subscribe")
             }.foregroundStyle(Theme.paper).padding(.horizontal,22).padding(.bottom,10).background(Theme.graphite)
             ZStack {
                 Theme.paper
@@ -50,6 +63,9 @@ struct AppShell: View {
                 case 1: ReaderView(library:library)
                 case 2: PrayerView()
                 case 3: SavedView(library:library)
+                case 5:
+                    if giving.available { GivingView(availability:giving) }
+                    else { HomeView(library:library) }
                 default: AccountView()
                 }
             }.frame(maxWidth:.infinity,maxHeight:.infinity)
@@ -58,13 +74,21 @@ struct AppShell: View {
                 if menuOpen { Color.black.opacity(0.22).ignoresSafeArea().onTapGesture { menuOpen = false }.accessibilityLabel("Dismiss menu").accessibilityAddTraits(.isButton) }
             }
             .overlay(alignment:.bottomTrailing) {
-                FloatingNavigationMenu(open:$menuOpen,onSearch:{ search = true },onSettings:{ settings = true }).environmentObject(navigation).padding(.trailing,20).padding(.bottom,12)
+                GeometryReader { geometry in
+                    FloatingNavigationMenu(open:$menuOpen,showGiving:giving.available,maximumHeight:max(100,geometry.size.height-90),onSearch:{ search = true },onSettings:{ settings = true }).environmentObject(navigation)
+                        .padding(.trailing,20).padding(.bottom,12).frame(maxWidth:.infinity,maxHeight:.infinity,alignment:.bottomTrailing)
+                }
             }
             .environmentObject(navigation)
+            .task { await giving.observe() }
+            .onChange(of:scenePhase) { _,phase in if phase == .active { Task { await giving.refresh() } } }
+            .onChange(of:menuOpen) { _,open in if open { Task { await giving.refresh() } } }
+            .onChange(of:giving.available) { _,available in if !available,navigation.tab == 5 { navigation.tab = 0 } }
             .onAppear { if library.valid(personal.data.passage) { navigation.passage = personal.data.passage } }
             .onChange(of:navigation.passage) { _,new in personal.update { $0.passage = new } }
             .sheet(isPresented:$search) { SearchView(library:library).environmentObject(navigation) }
             .sheet(isPresented:$settings) { SettingsView() }
+            .sheet(isPresented:$subscribe) { VerseSubscriptionView(store:newsletter) }
             .alert("Couldn’t save",isPresented:Binding(get:{personal.error != nil},set:{if !$0 { personal.error = nil }})) { Button("OK",role:.cancel) {} } message:{ Text(personal.error ?? "") }
             .onOpenURL { url in
                 let pieces = (url.fragment ?? url.path).split(separator:"/").map(String.init)
