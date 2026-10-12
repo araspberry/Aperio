@@ -36,6 +36,8 @@ While build 30 was uploading, the owner asked whether activating Resend would re
 
 All 19 Swift tests pass, including paused/ready/disabled/malformed/offline email configuration and unchanged consent behavior. The existing native email/reader/giving regression passes in `artifacts/email-readiness-31-ui.xcresult`. Live GET https://aperiobible.com/api/verse-email/config returned HTTP 200 with signupEnabled true and deliveryReady false. Build 31 archive/upload results follow after completion.
 
+Final build 31 source is `cc67eb58e25b1e4cb92f8b7dff3446f9d7e79940`, pushed to `ios-rebuild`. Its signed archive is `artifacts/Aperio-2.0.1-31.xcarchive`; the bundle/version/build and privacy manifest were verified against source. Upload succeeded at 13:18:39 EDT on October 12 (`artifacts/upload-31.log`, EXPORT SUCCEEDED). Apple reported the package is processing. Processing completion, final listing/privacy edits, and an App Review submission have not been confirmed. Use build 31 rather than 28–30 for this update.
+
 Resend is a separate setup for email delivery. The user can create the Resend account with their regular login email; an Aperio sender address will be configured after verifying the sending domain. No API key, DNS verification, confirmation email flow, unsubscribe sender flow, or delivery schedule has been configured in this notification task.
 
 Apple references:
