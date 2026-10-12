@@ -55,6 +55,8 @@ Latest subtitle direction: horizontal beside the title; muted gray-olive letters
 
 App Store privacy update must declare optional email/name/request ID and email preferences as linked, for app functionality and first-party marketing when the broader option is selected. Short-lived security counters are not associated with subscribers. No third-party advertising or tracking.
 
-The period after aperio now shares Theme.ribbon (#C94141) with the Study button’s red ribbon. The final release archive must include this refinement; earlier local build-28 archives are superseded and must not be uploaded.
+The period after aperio and the Study button’s ribbon now share Theme.ribbon, bright scarlet #F52E24. The subtitle is uppercase BIBLE APP. The iPhone simulator preview is saved at artifacts/aperio-final-wordmark-29.png.
 
 Build 28 upload had already begun when the owner requested uppercase BIBLE APP and a brighter icon-ribbon red period. Build 29 includes those final typography/color changes; all functional changes remain the same. Use build 29 for the final listing.
+
+Build 28 (source add58907) uploaded successfully at 12:31 EDT on October 12; Apple reported processing. Final build 29 source is 4477c51b2e95089946d840e858833baba87f10e7. Its verified signed archive is artifacts/Aperio-2.0.1-29-final.xcarchive, including the maintained privacy manifest. The project generator now preserves the optional updates/privacy declarations. The earlier archive without -final is superseded and must not be uploaded. Final build 29 upload succeeded at 12:37:50 EDT on October 12 (artifacts/upload-29.log: Upload succeeded, EXPORT SUCCEEDED); Apple reported the uploaded package is processing. TestFlight processing completion has not yet been verified. Chrome App Store Connect is still at its sign-in screen; listing and privacy questionnaire updates remain pending, and no App Review submission was made.
