@@ -131,6 +131,7 @@ struct AccountView: View {
     }
 }
 struct SettingsView: View {
+    @ObservedObject var notifications: DailyNotificationStore
     @EnvironmentObject var personal: PersonalStore
     @Environment(\.dismiss) var dismiss
     var body: some View {
@@ -139,6 +140,13 @@ struct SettingsView: View {
                 Section("Scripture type size") {
                     Slider(value:Binding(get:{personal.data.fontSize},set:{ value in personal.update { $0.fontSize = value } }),in:18...32,step:1).accessibilityLabel("Scripture text size")
                     Text("The LORD is my shepherd; I shall not want.").font(Theme.serif(personal.data.fontSize)).lineSpacing(7).padding(.vertical,14)
+                }
+                Section("Daily Scripture") {
+                    NavigationLink {
+                        DailyNotificationPreferencesView(store:notifications).navigationTitle("Verse notifications").navigationBarTitleDisplayMode(.inline)
+                    } label: {
+                        Label("Verse of the Day notifications",systemImage:"bell").accessibilityIdentifier("settings.notifications")
+                    }
                 }
                 Section("Accessibility") { Text("Aperio follows your iPhone’s text-size settings and Reduce Motion preference. VoiceOver labels are included for reading and study controls.").font(.subheadline) }
             }.navigationTitle("Reading settings").navigationBarTitleDisplayMode(.inline).toolbar { ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } } }

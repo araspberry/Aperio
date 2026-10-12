@@ -80,8 +80,7 @@ final class ContentLibrary: @unchecked Sendable {
         let p = Passage(book: b, chapter: chapter, verse: verse)
         return valid(p) ? p : nil
     }
-    func daily(on date: Date = Date()) -> DailyReading {
-        let cal = Calendar(identifier: .gregorian)
+    func daily(on date: Date = Date(), calendar cal: Calendar = Calendar(identifier: .gregorian)) -> DailyReading {
         let components = cal.dateComponents([.year,.month,.day], from: date)
         var utc = Calendar(identifier: .gregorian); utc.timeZone = TimeZone(secondsFromGMT: 0)!
         let day = Int(utc.date(from: components)!.timeIntervalSince1970 / 86400)

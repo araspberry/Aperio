@@ -2,6 +2,8 @@ import SwiftUI
 
 struct VerseSubscriptionView: View {
     @ObservedObject var store: VerseSubscriptionStore
+    @ObservedObject var notifications: DailyNotificationStore
+    @State private var delivery = "phone"
     @EnvironmentObject private var personal: PersonalStore
     @Environment(\.dismiss) private var dismiss
     @State private var email = ""
@@ -12,6 +14,21 @@ struct VerseSubscriptionView: View {
     private var saved: Bool { store.receipt != nil && store.receipt?.status != "draft" }
     var body: some View {
         NavigationStack {
+            VStack(spacing:0) {
+                Picker("Delivery",selection:$delivery) {
+                    Text("On my phone").tag("phone")
+                    Text("By email").tag("email")
+                }.pickerStyle(.segmented).padding(.horizontal,24).padding(.vertical,14).accessibilityIdentifier("subscribe.delivery")
+                if delivery == "phone" { DailyNotificationPreferencesView(store:notifications) }
+                else { emailContent }
+            }.background(Theme.paper).navigationTitle("Verse of the Day").navigationBarTitleDisplayMode(.inline)
+                .toolbar { ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } } }
+                .confirmationDialog("Remove your Verse of the Day signup?",isPresented:$confirmRemoval,titleVisibility:.visible) {
+                    Button("Remove signup",role:.destructive) { Task { await store.cancel() } }
+                }
+        }.tint(Theme.olive).onAppear { email = store.receipt?.email ?? ""; name = store.receipt?.name ?? personal.data.name; preference = store.receipt?.preference ?? .verseOnly }
+    }
+    private var emailContent: some View {
             ScrollView {
                 VStack(alignment:.leading,spacing:23) {
                     Image(systemName:"envelope.open").font(.system(size:30,weight:.light)).foregroundStyle(Theme.olive)
@@ -65,11 +82,6 @@ struct VerseSubscriptionView: View {
                     Text("This optional signup saves your email, any name you provide, your email choices, and your consent with Aperio. It does not create a reading account or upload your prayers, notes, or highlights.").font(.footnote).lineSpacing(4).foregroundStyle(Theme.muted)
                     Link("Privacy policy",destination:URL(string:"https://aperiobible.com/#privacy")!).font(.footnote.weight(.semibold))
                 }.padding(26).padding(.bottom,24)
-            }.background(Theme.paper).navigationTitle("Verse of the Day").navigationBarTitleDisplayMode(.inline)
-                .toolbar { ToolbarItem(placement:.confirmationAction) { Button("Done") { dismiss() } } }
-                .confirmationDialog("Remove your Verse of the Day signup?",isPresented:$confirmRemoval,titleVisibility:.visible) {
-                    Button("Remove signup",role:.destructive) { Task { await store.cancel() } }
-                }
-        }.tint(Theme.olive).onAppear { email = store.receipt?.email ?? ""; name = store.receipt?.name ?? personal.data.name; preference = store.receipt?.preference ?? .verseOnly }
+            }.background(Theme.paper)
     }
 }

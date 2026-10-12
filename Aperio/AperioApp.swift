@@ -1,6 +1,7 @@
 import SwiftUI
 
 @main struct AperioApp: App {
+    @UIApplicationDelegateAdaptor(AperioNotificationDelegate.self) private var notificationDelegate
     @StateObject private var personal: PersonalStore
     init() {
         #if DEBUG
@@ -36,6 +37,9 @@ struct AppShell: View {
     @State private var settings = false
     @State private var subscribe = false
     @StateObject private var newsletter: VerseSubscriptionStore
+    @StateObject private var notifications: DailyNotificationStore
+    @StateObject private var notificationRouter = DailyNotificationRouter.shared
+    @State private var navigationReady = false
     @StateObject private var giving = GivingAvailability()
     @Environment(\.scenePhase) private var scenePhase
     @State private var menuOpen = false
@@ -44,8 +48,10 @@ struct AppShell: View {
         #if DEBUG
         let directory = ProcessInfo.processInfo.environment["APERIO_UI_TEST"] == "1" ? FileManager.default.temporaryDirectory.appendingPathComponent("AperioUITest") : nil
         _newsletter = StateObject(wrappedValue:VerseSubscriptionStore(directory:directory))
+        _notifications = StateObject(wrappedValue:DailyNotificationStore(library:library,client:IPhoneDailyNotificationClient(),directory:directory))
         #else
         _newsletter = StateObject(wrappedValue:VerseSubscriptionStore())
+        _notifications = StateObject(wrappedValue:DailyNotificationStore(library:library,client:IPhoneDailyNotificationClient()))
         #endif
     }
     var body: some View {
@@ -54,7 +60,7 @@ struct AppShell: View {
                 Button { navigation.tab = 0 } label: { AperioWordmark() }.buttonStyle(.plain).accessibilityLabel("Aperio Bible App, Home")
                 Spacer()
                 Button { search = true } label: { Image(systemName:"magnifyingglass").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Search Scripture")
-                Button { subscribe = true } label: { Image(systemName:"envelope").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Subscribe to Verse of the Day").accessibilityIdentifier("header.subscribe")
+                Button { subscribe = true } label: { Image(systemName:"envelope").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Verse of the Day options").accessibilityIdentifier("header.subscribe")
             }.foregroundStyle(Theme.paper).padding(.horizontal,22).padding(.bottom,10).background(Theme.graphite)
             ZStack {
                 Theme.paper
@@ -81,19 +87,36 @@ struct AppShell: View {
             }
             .environmentObject(navigation)
             .task { await giving.observe() }
-            .onChange(of:scenePhase) { _,phase in if phase == .active { Task { await giving.refresh() } } }
+            .task { await notifications.refresh() }
+            .onChange(of:scenePhase) { _,phase in if phase == .active { Task { await giving.refresh(); await notifications.refresh() } } }
             .onChange(of:menuOpen) { _,open in if open { Task { await giving.refresh() } } }
             .onChange(of:giving.available) { _,available in if !available,navigation.tab == 5 { navigation.tab = 0 } }
-            .onAppear { if library.valid(personal.data.passage) { navigation.passage = personal.data.passage } }
+            .onAppear {
+                if !navigationReady {
+                    if library.valid(personal.data.passage) { navigation.passage = personal.data.passage }
+                    navigationReady = true
+                }
+                openNotification()
+            }
+            .onChange(of:notificationRouter.destination?.id) { _,_ in openNotification() }
             .onChange(of:navigation.passage) { _,new in personal.update { $0.passage = new } }
             .sheet(isPresented:$search) { SearchView(library:library).environmentObject(navigation) }
-            .sheet(isPresented:$settings) { SettingsView() }
-            .sheet(isPresented:$subscribe) { VerseSubscriptionView(store:newsletter) }
+            .sheet(isPresented:$settings) { SettingsView(notifications:notifications) }
+            .sheet(isPresented:$subscribe) { VerseSubscriptionView(store:newsletter,notifications:notifications) }
             .alert("Couldn’t save",isPresented:Binding(get:{personal.error != nil},set:{if !$0 { personal.error = nil }})) { Button("OK",role:.cancel) {} } message:{ Text(personal.error ?? "") }
             .onOpenURL { url in
                 let pieces = (url.fragment ?? url.path).split(separator:"/").map(String.init)
                 if pieces.first == "home" { navigation.tab = 0 }
                 else if pieces.count >= 2, let chapter = Int(pieces[1]), let p = library.passage(book:pieces[0].removingPercentEncoding ?? pieces[0],chapter:chapter,verse:pieces.count>2 ? Int(pieces[2]) ?? 1 : 1) { navigation.read(p) }
             }
+    }
+    private func openNotification() {
+        guard navigationReady,let destination = notificationRouter.destination else { return }
+        notificationRouter.destination = nil
+        let passage = destination.passage
+        guard library.verses(passage).contains(where: { $0.v == passage.verse }) else { return }
+        search = false; settings = false; subscribe = false; menuOpen = false
+        personal.update { $0.activeJourney = nil }
+        navigation.read(passage)
     }
 }

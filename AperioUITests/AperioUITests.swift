@@ -2,6 +2,58 @@ import XCTest
 import UIKit
 
 final class AperioUITests: XCTestCase {
+    func testDailyVerseNotificationPermissionDeliveryAndTap() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launch()
+        XCTAssertTrue(app.buttons["header.subscribe"].waitForExistence(timeout:20))
+        app.buttons["header.subscribe"].tap()
+        XCTAssertTrue(app.segmentedControls["subscribe.delivery"].buttons["On my phone"].isSelected)
+        let toggle = app.switches["notifications.enabled"]
+        XCTAssertTrue(toggle.waitForExistence(timeout:5))
+        XCTAssertEqual(toggle.value as? String,"0")
+        toggle.tap()
+        let springboard = XCUIApplication(bundleIdentifier:"com.apple.springboard")
+        let allow = springboard.buttons["Allow"]
+        if allow.waitForExistence(timeout:3) { allow.tap() }
+        XCTAssertTrue(app.staticTexts["notifications.active"].waitForExistence(timeout:8))
+        let preview = app.buttons["notifications.preview"]
+        for _ in 0..<4 { if preview.isHittable { break }; app.swipeUp() }
+        XCTAssertTrue(preview.isHittable)
+        let preferences = XCTAttachment(screenshot:app.screenshot()); preferences.name = "Phone notification preferences"; preferences.lifetime = .keepAlways; add(preferences)
+        preview.tap()
+        XCUIDevice.shared.press(.home)
+        let verse = springboard.staticTexts["Verse of the Day"].firstMatch
+        XCTAssertTrue(verse.waitForExistence(timeout:15),springboard.debugDescription)
+        let delivered = XCTAttachment(screenshot:springboard.screenshot()); delivered.name = "Delivered Verse of the Day notification"; delivered.lifetime = .keepAlways; add(delivered)
+        verse.tap()
+        XCTAssertTrue(app.buttons["reader.bookPicker"].waitForExistence(timeout:10),app.debugDescription)
+        let expectedBook = app.buttons["reader.bookPicker"].label
+        let expectedChapter = app.buttons["reader.chapterPicker"].label
+        let destination = XCTAttachment(screenshot:app.screenshot()); destination.name = "Notification opens Scripture"; destination.lifetime = .keepAlways; add(destination)
+        app.buttons["header.subscribe"].tap()
+        XCTAssertEqual(app.switches["notifications.enabled"].value as? String,"1")
+        for _ in 0..<4 { if preview.isHittable { break }; app.swipeUp() }
+        preview.tap()
+        XCUIDevice.shared.press(.home)
+        XCTAssertTrue(verse.waitForExistence(timeout:15))
+        app.terminate()
+        verse.tap()
+        XCTAssertTrue(app.buttons["reader.bookPicker"].waitForExistence(timeout:15),app.debugDescription)
+        XCTAssertEqual(app.buttons["reader.bookPicker"].label,expectedBook)
+        XCTAssertEqual(app.buttons["reader.chapterPicker"].label,expectedChapter)
+        let cold = XCTAttachment(screenshot:app.screenshot()); cold.name = "Notification opens Scripture after termination"; cold.lifetime = .keepAlways; add(cold)
+        app.buttons["header.subscribe"].tap()
+        if app.switches["notifications.enabled"].value as? String == "1" { app.switches["notifications.enabled"].tap() }
+        XCTAssertEqual(app.switches["notifications.enabled"].value as? String,"0")
+        app.segmentedControls["subscribe.delivery"].buttons["By email"].tap()
+        XCTAssertTrue(app.buttons["subscribe.verse_only"].waitForExistence(timeout:5))
+        XCTAssertFalse(app.buttons["subscribe.submit"].isEnabled)
+        app.buttons["Done"].tap()
+    }
+
     func testGivingChoicesSubscriptionOptionsAndStudyScrolling() {
         continueAfterFailure = false
         let app = XCUIApplication()
@@ -11,6 +63,7 @@ final class AperioUITests: XCTestCase {
         app.launch()
         XCTAssertTrue(app.buttons["header.subscribe"].waitForExistence(timeout:20))
         app.buttons["header.subscribe"].tap()
+        app.segmentedControls["subscribe.delivery"].buttons["By email"].tap()
         XCTAssertTrue(app.buttons["subscribe.verse_only"].waitForExistence(timeout:5))
         app.buttons["subscribe.verse_and_updates"].tap()
         XCTAssertTrue(app.buttons["subscribe.verse_and_updates"].isSelected)
@@ -90,6 +143,7 @@ final class AperioUITests: XCTestCase {
         XCTAssertTrue(app.buttons["header.subscribe"].waitForExistence(timeout:20))
         let home = XCTAttachment(screenshot:app.screenshot()); home.name = "Refined header"; home.lifetime = .keepAlways; add(home)
         app.buttons["header.subscribe"].tap()
+        app.segmentedControls["subscribe.delivery"].buttons["By email"].tap()
         XCTAssertTrue(app.textFields["subscribe.email"].waitForExistence(timeout:5))
         XCTAssertFalse(app.buttons["subscribe.submit"].isEnabled)
         app.textFields["subscribe.email"].tap(); app.textFields["subscribe.email"].typeText("reader@example.test")
