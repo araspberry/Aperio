@@ -27,7 +27,7 @@ This is a native preview, not yet an App Store release. Saves are on-device. Web
 
 Version 2.0.1 adds the user-approved US App Store giving route, opening the existing Stripe website in an external browser after a current StoreKit storefront check. Non-US or unavailable storefronts do not show Give; no app benefits are sold or unlocked. Optional Verse of the Day signup saves email, optional name and explicit consent in the hosted database. Daily email delivery is still being prepared; the screen says so. Personal reading data remains on this device.
 
-## Current update — 2.0.1 (28)
+## Current update — 2.0.1 (29)
 
 Ranked offline search finds remembered wording, selected related words, typos, references and common passage phrases. Both “Works tested in fire” and “Works tested by fire” rank 1 Corinthians 3:13 first. Chapter selection is independent of the book picker. Study Center opens halfway up the screen, drags continuously, and remains opaque to the bottom. The smaller wordmark has a subtle Bible App subtitle; the envelope opens signup, while Settings remains in the scrollable + menu.
 

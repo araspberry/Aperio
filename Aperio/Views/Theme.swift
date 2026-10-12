@@ -3,7 +3,7 @@ import SwiftUI
 enum Theme {
     static let paper = Color(hex:0xFAF9F6), ink = Color(hex:0x252826), graphite = Color(hex:0x303536)
     static let olive = Color(hex:0x536143), sage = Color(hex:0xCDD6B8), muted = Color(hex:0x676B63), line = Color(hex:0xDFDFD5)
-    static let ribbon = Color(hex:0xC94141)
+    static let ribbon = Color(hex:0xF52E24)
     static func serif(_ size: CGFloat) -> Font { .custom("Georgia",size:size,relativeTo:.body) }
 }
 extension Color {
@@ -24,11 +24,11 @@ struct AperioWordmark: View {
 }
 struct BibleAppSubtitle: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
-    private let letters = Array("Bible App")
+    private let letters = Array("BIBLE APP")
     private let base = Color(hex:0x98A188)
     var body: some View {
         if reduceMotion {
-            Text("Bible App").font(.system(size:11,weight:.medium,design:.serif).italic()).tracking(1.2).foregroundStyle(Theme.sage)
+            Text("BIBLE APP").font(.system(size:11,weight:.medium,design:.serif).italic()).tracking(1.2).foregroundStyle(Theme.sage)
         } else {
             TimelineView(.animation(minimumInterval:1.0/24)) { timeline in
                 HStack(alignment:.firstTextBaseline,spacing:1.2) {

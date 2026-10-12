@@ -56,3 +56,5 @@ Latest subtitle direction: horizontal beside the title; muted gray-olive letters
 App Store privacy update must declare optional email/name/request ID and email preferences as linked, for app functionality and first-party marketing when the broader option is selected. Short-lived security counters are not associated with subscribers. No third-party advertising or tracking.
 
 The period after aperio now shares Theme.ribbon (#C94141) with the Study button’s red ribbon. The final release archive must include this refinement; earlier local build-28 archives are superseded and must not be uploaded.
+
+Build 28 upload had already begun when the owner requested uppercase BIBLE APP and a brighter icon-ribbon red period. Build 29 includes those final typography/color changes; all functional changes remain the same. Use build 29 for the final listing.
