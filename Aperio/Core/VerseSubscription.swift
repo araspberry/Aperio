@@ -16,6 +16,11 @@ struct VerseSubscriptionResponse: Decodable {
     var error: String?
 }
 
+struct VerseEmailConfiguration: Decodable, Equatable {
+    let signupEnabled: Bool
+    let deliveryReady: Bool
+}
+
 enum VerseEmailPreference: String, Codable, CaseIterable {
     case verseOnly = "verse_only", verseAndUpdates = "verse_and_updates"
     var title: String { self == .verseOnly ? "Just Verse of the Day" : "Verse of the Day, updates & more" }
@@ -35,10 +40,24 @@ enum VerseEmail {
     @Published private(set) var busy = false
     @Published var message: String?
     @Published var error: String?
+    @Published private(set) var configuration: VerseEmailConfiguration?
+    @Published private(set) var configurationLoading = false
+    @Published private(set) var configurationError: String?
     private let file: URL
     private let baseURL: URL
     private let session: URLSession
     private var writable = true
+    var signupAvailable: Bool { configuration?.signupEnabled != false }
+    var deliveryDescription: String {
+        if configuration?.signupEnabled == false { return "Email signup is temporarily paused. Please check back soon." }
+        if configuration?.deliveryReady == false { return "Email delivery is being prepared. Join the list now; we’ll ask you to confirm your email before daily verses begin." }
+        return "Choose your emails, then confirm your address using the email we send. You can unsubscribe anytime."
+    }
+    var savedDescription: String {
+        if configuration?.deliveryReady == false { return "Email delivery is being prepared. Your preferences are saved; we’ll ask you to confirm your email before delivery begins." }
+        if receipt?.status == "active" { return "Your email preferences are saved. You can unsubscribe anytime." }
+        return "Your email preferences are saved. Email delivery begins after you confirm your address."
+    }
 
     init(directory:URL? = nil,baseURL:URL = URL(string:"https://aperiobible.com")!,session:URLSession = .shared) {
         let root = directory ?? FileManager.default.urls(for:.applicationSupportDirectory,in:.userDomainMask)[0].appendingPathComponent("Aperio")
@@ -51,8 +70,26 @@ enum VerseEmail {
         } catch { writable = false; self.error = "Your saved email preference couldn’t be opened. Contact support before making changes." }
     }
 
+    func refreshConfiguration() async {
+        guard !configurationLoading else { return }
+        configurationLoading = true; configurationError = nil
+        defer { configurationLoading = false }
+        do {
+            var request = URLRequest(url:baseURL.appendingPathComponent("api/verse-email/config"),cachePolicy:.reloadIgnoringLocalCacheData,timeoutInterval:15)
+            request.httpMethod = "GET"
+            let (data,response) = try await session.data(for:request)
+            guard let http = response as? HTTPURLResponse,(200..<300).contains(http.statusCode) else { throw URLError(.badServerResponse) }
+            configuration = try JSONDecoder().decode(VerseEmailConfiguration.self,from:data)
+            if !busy { message = nil }
+        } catch {
+            configuration = nil
+            configurationError = "We couldn’t check the current email delivery status. Please try again when you’re online."
+        }
+    }
+
     func subscribe(email:String,name:String,consent:Bool,preference:VerseEmailPreference = .verseOnly) async {
         guard !busy,writable else { return }
+        guard signupAvailable else { error = "Email signup is temporarily paused. Please check back soon."; return }
         guard consent,VerseEmail.isValid(email) else { error = "Enter a valid email and agree to receive Verse of the Day."; return }
         busy = true; error = nil; message = nil
         defer { busy = false }

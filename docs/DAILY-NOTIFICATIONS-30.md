@@ -28,6 +28,14 @@ Notification payloads accept only the known verse route schema. Actual bundled v
 
 Build 30 supersedes build 29 for this update. Archive/upload results will be recorded after verification. App Store Connect listing/privacy updates remain pending from the earlier email-signup work; this change adds no server-collected notification data. Do not claim an App Store release solely from a successful upload.
 
+Build 30 source `3cb74a099a2a26ad1fbbd321b79918b315b653d5` was archived successfully and uploaded to App Store Connect at 13:12:33 EDT on October 12 (`artifacts/upload-30.log`: Upload succeeded, EXPORT SUCCEEDED). Apple reported processing; processing completion has not been verified. The signed archive's identity is com.aperio.bible 2.0.1 (30), and its privacy manifest matches the checked source.
+
+### Email readiness follow-up — build 31
+
+While build 30 was uploading, the owner asked whether activating Resend would require another native update. Email delivery itself is server-side, but build 30 contained static preparation wording. Build 31 supersedes it with a read-only GET to `/api/verse-email/config` when the email view opens. The existing `signupEnabled` and `deliveryReady` flags control availability and preparation copy. A failed or malformed response shows a retry option and neutral wording, without falsely declaring delivery active or still being prepared. No email address, consent, or receipt credential is included in this config request. Existing subscribe/cancel contracts remain unchanged. Connecting Resend, confirmation, unsubscribe, and dispatch remain backend work; this build does not send email or flip deliveryReady to true.
+
+All 19 Swift tests pass, including paused/ready/disabled/malformed/offline email configuration and unchanged consent behavior. The existing native email/reader/giving regression passes in `artifacts/email-readiness-31-ui.xcresult`. Live GET https://aperiobible.com/api/verse-email/config returned HTTP 200 with signupEnabled true and deliveryReady false. Build 31 archive/upload results follow after completion.
+
 Resend is a separate setup for email delivery. The user can create the Resend account with their regular login email; an Aperio sender address will be configured after verifying the sending domain. No API key, DNS verification, confirmation email flow, unsubscribe sender flow, or delivery schedule has been configured in this notification task.
 
 Apple references:

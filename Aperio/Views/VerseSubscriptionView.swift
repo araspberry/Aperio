@@ -40,7 +40,7 @@ struct VerseSubscriptionView: View {
                         Label(store.receipt?.status == "active" ? "You’re subscribed" : "Your request is saved",systemImage:"checkmark.circle.fill").font(.headline).foregroundStyle(Theme.olive)
                         Text(store.receipt?.email ?? "").font(.subheadline).textSelection(.enabled)
                         Text((store.receipt?.preference ?? .verseOnly).title).font(.subheadline.weight(.semibold))
-                        Text(store.message ?? "Email delivery is being prepared. We’ll send a confirmation before daily emails begin.").font(.subheadline).lineSpacing(4).foregroundStyle(Theme.muted)
+                        Text(store.message ?? store.savedDescription).font(.subheadline).lineSpacing(4).foregroundStyle(Theme.muted)
                         Button("Remove my signup request",role:.destructive) { confirmRemoval = true }.disabled(store.busy)
                     } else {
                         VStack(alignment:.leading,spacing:10) {
@@ -67,21 +67,25 @@ struct VerseSubscriptionView: View {
                             Text("Email address").font(.subheadline.weight(.semibold)).padding(.top,10)
                             TextField("you@example.com",text:$email).keyboardType(.emailAddress).textContentType(.emailAddress).textInputAutocapitalization(.never).autocorrectionDisabled().accessibilityIdentifier("subscribe.email").padding(15).background(.white,in:RoundedRectangle(cornerRadius:12))
                         }
-                        Text("Email delivery is being prepared. Join the list now; we’ll ask you to confirm your email before daily verses begin.").font(.footnote).lineSpacing(4).foregroundStyle(Theme.muted)
+                        Text(store.deliveryDescription).font(.footnote).lineSpacing(4).foregroundStyle(Theme.muted).accessibilityIdentifier("subscribe.deliveryStatus")
                         Toggle(isOn:$consent) {
                             Text(preference == .verseOnly ? "I’m 13 or older and agree to receive only Verse of the Day emails. I can unsubscribe anytime." : "I’m 13 or older and agree to receive Verse of the Day, product updates, and occasional Aperio news. I can unsubscribe anytime.").font(.footnote).lineSpacing(3)
                         }.accessibilityIdentifier("subscribe.consent")
                         Button { Task { await store.subscribe(email:email,name:name,consent:consent,preference:preference) } } label: {
                             HStack { if store.busy { ProgressView().tint(Theme.paper) }; Text(store.busy ? "Saving…" : "Subscribe") }.frame(maxWidth:.infinity)
-                        }.buttonStyle(AperioButton()).disabled(store.busy || !consent || !VerseEmail.isValid(email)).accessibilityIdentifier("subscribe.submit")
+                        }.buttonStyle(AperioButton()).disabled(store.busy || !store.signupAvailable || !consent || !VerseEmail.isValid(email)).accessibilityIdentifier("subscribe.submit")
                         if store.receipt != nil { Button("Remove pending request",role:.destructive) { confirmRemoval = true }.disabled(store.busy) }
                     }
                     if let error = store.error { Text(error).font(.subheadline).foregroundStyle(Color(hex:0x9B3434)).accessibilityIdentifier("subscribe.error") }
+                    if let statusError = store.configurationError {
+                        Text(statusError).font(.footnote).foregroundStyle(Theme.muted)
+                        Button("Check delivery status again") { Task { await store.refreshConfiguration() } }.disabled(store.configurationLoading)
+                    }
                     if !saved,let message = store.message { Text(message).font(.subheadline).foregroundStyle(Theme.olive) }
                     Divider()
                     Text("This optional signup saves your email, any name you provide, your email choices, and your consent with Aperio. It does not create a reading account or upload your prayers, notes, or highlights.").font(.footnote).lineSpacing(4).foregroundStyle(Theme.muted)
                     Link("Privacy policy",destination:URL(string:"https://aperiobible.com/#privacy")!).font(.footnote.weight(.semibold))
                 }.padding(26).padding(.bottom,24)
-            }.background(Theme.paper)
+            }.background(Theme.paper).task { await store.refreshConfiguration() }
     }
 }

@@ -16,6 +16,43 @@ private final class SignupProtocol: URLProtocol {
 }
 
 final class VerseSubscriptionTests: XCTestCase {
+    @MainActor func testDeliveryStatusFollowsServerWithoutChangingEmailConsent() async throws {
+        let directory = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString)
+        defer { try? FileManager.default.removeItem(at:directory); SignupProtocol.handler = nil }
+        let config = URLSessionConfiguration.ephemeral; config.protocolClasses = [SignupProtocol.self]
+        let store = VerseSubscriptionStore(directory:directory,baseURL:URL(string:"https://signup.example.test")!,session:URLSession(configuration:config))
+        SignupProtocol.handler = { request in
+            XCTAssertEqual(request.httpMethod,"GET")
+            XCTAssertEqual(request.url?.path,"/api/verse-email/config")
+            XCTAssertNil(request.httpBody); XCTAssertNil(request.url?.query)
+            return (200,Data(#"{"signupEnabled":true,"deliveryReady":false}"#.utf8))
+        }
+        await store.refreshConfiguration()
+        XCTAssertTrue(store.signupAvailable)
+        XCTAssertTrue(store.deliveryDescription.contains("being prepared"))
+        XCTAssertTrue(store.savedDescription.contains("being prepared"))
+        XCTAssertNil(store.receipt)
+        SignupProtocol.handler = { _ in (200,Data(#"{"signupEnabled":true,"deliveryReady":true}"#.utf8)) }
+        await store.refreshConfiguration()
+        XCTAssertTrue(store.signupAvailable)
+        XCTAssertFalse(store.deliveryDescription.contains("being prepared"))
+        XCTAssertFalse(store.savedDescription.contains("being prepared"))
+        XCTAssertNil(store.receipt,"Checking delivery status does not create or alter consent")
+        SignupProtocol.handler = { _ in (200,Data(#"{"signupEnabled":false,"deliveryReady":true}"#.utf8)) }
+        await store.refreshConfiguration()
+        XCTAssertFalse(store.signupAvailable)
+        var posts = 0
+        SignupProtocol.handler = { _ in posts += 1; throw URLError(.notConnectedToInternet) }
+        await store.subscribe(email:"reader@example.test",name:"Reader",consent:true)
+        XCTAssertEqual(posts,0); XCTAssertNil(store.receipt)
+        await store.refreshConfiguration()
+        XCTAssertNil(store.configuration); XCTAssertNotNil(store.configurationError)
+        XCTAssertFalse(store.deliveryDescription.contains("being prepared"),"An unavailable status must not claim delivery is still in preparation")
+        SignupProtocol.handler = { _ in (200,Data(#"{"signupEnabled":true}"#.utf8)) }
+        await store.refreshConfiguration()
+        XCTAssertNil(store.configuration); XCTAssertNotNil(store.configurationError)
+    }
+
     func testEmailValidation() {
         for value in ["reader@example.test"," NAME+verse@example.com ","name.last@example.co.uk"] { XCTAssertTrue(VerseEmail.isValid(value),value) }
         for value in ["", "reader", "a@", "a@b", "a @b.com", "a@b..com", "a\nb@c.com"] { XCTAssertFalse(VerseEmail.isValid(value),value) }
