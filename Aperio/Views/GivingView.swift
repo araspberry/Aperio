@@ -80,7 +80,7 @@ struct GivingView: View {
                     } label: {
                         HStack { Text(opening ? "Opening…" : "Continue to payment"); Spacer(); Image(systemName:"arrow.up.right") }
                     }.buttonStyle(AperioButton()).disabled(opening || !availability.available || selection == nil).accessibilityIdentifier("giving.continue")
-                    Text("Your chosen amount and frequency carry into Aperio’s secure website checkout in your browser. Review your gift before paying with Stripe.").font(.footnote).lineSpacing(3).foregroundStyle(Theme.muted)
+                    Text("Continue straight to Aperio’s secure checkout in your browser. Your amount and frequency are already selected. No account sign-in is needed, and you can return to the app after paying.").font(.footnote).lineSpacing(3).foregroundStyle(Theme.muted)
                     Text("Giving is optional and does not unlock or change any app features.").font(.footnote).foregroundStyle(Theme.muted)
                 }.padding(23).background(.white,in:RoundedRectangle(cornerRadius:20))
                 Text("Support goes to Aperio’s development and operation. It is not presented as a tax-deductible charitable donation.").font(.footnote).lineSpacing(4).foregroundStyle(Theme.muted)

@@ -9,7 +9,7 @@ final class GivingSelectionTests: XCTestCase {
                 let choice = try XCTUnwrap(GivingSelection(dollars:input,frequency:frequency,attemptID:attempt))
                 XCTAssertEqual(choice.amount,cents)
                 let url = try XCTUnwrap(URLComponents(url:choice.checkoutURL,resolvingAgainstBaseURL:false))
-                XCTAssertEqual(url.scheme,"https"); XCTAssertEqual(url.host,"aperiobible.com"); XCTAssertEqual(url.fragment,"give")
+                XCTAssertEqual(url.scheme,"https"); XCTAssertEqual(url.host,"aperiobible.com"); XCTAssertEqual(url.path,"/checkout"); XCTAssertNil(url.fragment)
                 let values = Dictionary(uniqueKeysWithValues:url.queryItems!.map { ($0.name,$0.value!) })
                 XCTAssertEqual(values["gift_amount"],String(cents)); XCTAssertEqual(values["gift_frequency"],frequency.rawValue)
                 XCTAssertEqual(values["gift_attempt"],attempt.uuidString.lowercased())
@@ -20,6 +20,14 @@ final class GivingSelectionTests: XCTestCase {
     func testInvalidAmountsCannotOpenCheckout() {
         for input in ["", "0", "0.99", "10000.01", "-5", "17.755", "1e3", "NaN", "$25", "25,00", "25&redirect=https://other.test"] {
             XCTAssertNil(GivingSelection(dollars:input,frequency:.once),input)
+        }
+    }
+    func testGivingReturnIsNavigationOnlyAndRejectsUnexpectedLinks() {
+        XCTAssertEqual(GivingAppReturn(url:URL(string:"aperio://giving/return")!),.reading)
+        XCTAssertEqual(GivingAppReturn(url:URL(string:"aperio://giving/edit")!),.edit)
+        XCTAssertEqual(GivingAppReturn(url:URL(string:"aperio://giving/return?attempt=12345678-1234-4234-8234-123456789abc")!),.reading)
+        for value in ["https://giving/return","aperio://evil/return","aperio://giving/pay","aperio://giving/return?paid=true","aperio://giving/return?attempt=bad","aperio://giving/return?redirect=https://evil.test","aperio://giving/return#paid","aperio://user@giving/return"] {
+            XCTAssertNil(GivingAppReturn(url:URL(string:value)!),value)
         }
     }
 }

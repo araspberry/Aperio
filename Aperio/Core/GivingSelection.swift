@@ -17,9 +17,23 @@ struct GivingSelection: Equatable {
     }
     var formattedAmount: String { (Double(amount)/100).formatted(.currency(code:"USD")) }
     var checkoutURL: URL {
-        var url = URLComponents(string:"https://aperiobible.com/")!
+        var url = URLComponents(string:"https://aperiobible.com/checkout")!
         url.queryItems = [URLQueryItem(name:"gift_source",value:"ios"),URLQueryItem(name:"gift_amount",value:String(amount)),URLQueryItem(name:"gift_frequency",value:frequency.rawValue),URLQueryItem(name:"gift_attempt",value:attemptID.uuidString.lowercased())]
-        url.fragment = "give"
         return url.url!
+    }
+}
+
+enum GivingAppReturn: Equatable {
+    case reading, edit
+    init?(url:URL) {
+        guard url.scheme == "aperio",url.host == "giving",url.user == nil,url.password == nil,url.port == nil,url.fragment == nil,
+              let components = URLComponents(url:url,resolvingAgainstBaseURL:false) else { return nil }
+        let items = components.queryItems ?? []
+        guard items.count <= 1,items.allSatisfy({ $0.name == "attempt" && UUID(uuidString:$0.value ?? "") != nil }) else { return nil }
+        switch url.path {
+        case "/return": self = .reading
+        case "/edit": self = .edit
+        default: return nil
+        }
     }
 }

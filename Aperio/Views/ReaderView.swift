@@ -13,6 +13,7 @@ struct ReaderView: View {
     @State private var editPassage: Passage?
     @State private var focus = false
     @State private var studyFraction: CGFloat?
+    @ScaledMetric(relativeTo:.caption) private var verseNumberWidth: CGFloat = 28
     private var passage: Passage { navigation.passage }
     private var journey: Journey? { library.home.journeys.first { $0.id == personal.data.activeJourney } }
     var body: some View {
@@ -44,7 +45,9 @@ struct ReaderView: View {
                                         else { editPassage = p }
                                     } label: {
                                         HStack(alignment:.firstTextBaseline,spacing:12) {
-                                            Text("\(verse.v)").font(.caption).foregroundStyle(Theme.olive).frame(width:20,alignment:.trailing)
+                                            Text("\(verse.v)").font(.caption).monospacedDigit().foregroundStyle(Theme.olive)
+                                                .lineLimit(1).fixedSize(horizontal:true,vertical:false).frame(minWidth:verseNumberWidth,alignment:.trailing).layoutPriority(1)
+                                                .accessibilityIdentifier("verse.number.\(verse.v)")
                                             Text(verse.t).font(Theme.serif(personal.data.fontSize)).lineSpacing(9).frame(maxWidth:.infinity,alignment:.leading)
                                             if !annotation.note.isEmpty { Image(systemName:"note.text").font(.caption).foregroundStyle(Theme.olive) }
                                         }.padding(.vertical,8).padding(.horizontal,6).background(highlight(annotation.color),in:RoundedRectangle(cornerRadius:8))

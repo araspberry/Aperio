@@ -2,6 +2,41 @@ import XCTest
 import UIKit
 
 final class AperioUITests: XCTestCase {
+    func testCheckoutReturnOpensReaderAndEditOpensGiving() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launchEnvironment["APERIO_TEST_STOREFRONT"] = "USA"
+        app.launch()
+        app.open(URL(string:"aperio://giving/return?attempt=12345678-1234-4234-8234-123456789abc")!)
+        XCTAssertTrue(app.buttons["reader.bookPicker"].waitForExistence(timeout:20))
+        app.open(URL(string:"aperio://giving/edit")!)
+        XCTAssertTrue(app.buttons["giving.amount.25"].waitForExistence(timeout:10))
+        XCTAssertFalse(app.staticTexts["Payment received"].exists)
+    }
+
+    func testTwoAndThreeDigitVerseNumbersStayOnOneLine() {
+        continueAfterFailure = false
+        let app = XCUIApplication()
+        app.launchEnvironment["APERIO_UI_TEST"] = "1"
+        app.launchEnvironment["APERIO_UI_TEST_RESET"] = "1"
+        app.launch()
+        for (query,resultID,verse) in [("Matthew 7:24","39:7:24",24),("Psalm 119:176","18:119:176",176)] {
+            XCTAssertTrue(app.buttons["Search Scripture"].waitForExistence(timeout:20))
+            app.buttons["Search Scripture"].tap()
+            let field = app.searchFields.firstMatch
+            XCTAssertTrue(field.waitForExistence(timeout:5)); field.tap(); field.typeText(query)
+            let result = app.buttons["search.result."+resultID]
+            XCTAssertTrue(result.waitForExistence(timeout:10)); result.tap()
+            let number = app.staticTexts["verse.number.\(verse)"]
+            XCTAssertTrue(number.waitForExistence(timeout:5))
+            XCTAssertEqual(number.label,String(verse))
+            XCTAssertLessThan(number.frame.height,25,"Verse digits must share a single baseline")
+            let shot = XCTAttachment(screenshot:app.screenshot()); shot.name = query+" verse number"; shot.lifetime = .keepAlways; add(shot)
+        }
+    }
+
     func testDailyVerseNotificationPermissionDeliveryAndTap() {
         continueAfterFailure = false
         let app = XCUIApplication()

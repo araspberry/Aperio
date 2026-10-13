@@ -43,6 +43,7 @@ struct AppShell: View {
     @StateObject private var giving = GivingAvailability()
     @Environment(\.scenePhase) private var scenePhase
     @State private var menuOpen = false
+    @State private var givingVisit = UUID()
     init(library:ContentLibrary) {
         self.library = library
         #if DEBUG
@@ -70,7 +71,7 @@ struct AppShell: View {
                 case 2: PrayerView()
                 case 3: SavedView(library:library)
                 case 5:
-                    if giving.available { GivingView(availability:giving) }
+                    if giving.available { GivingView(availability:giving).id(givingVisit) }
                     else { HomeView(library:library) }
                 default: AccountView()
                 }
@@ -105,6 +106,15 @@ struct AppShell: View {
             .sheet(isPresented:$subscribe) { VerseSubscriptionView(store:newsletter,notifications:notifications) }
             .alert("Couldn’t save",isPresented:Binding(get:{personal.error != nil},set:{if !$0 { personal.error = nil }})) { Button("OK",role:.cancel) {} } message:{ Text(personal.error ?? "") }
             .onOpenURL { url in
+                if let destination = GivingAppReturn(url:url) {
+                    // A return link is navigation only, never proof of payment.
+                    // Stripe and the server remain the source of payment status.
+                    search = false; settings = false; subscribe = false; menuOpen = false
+                    givingVisit = UUID()
+                    if destination == .reading { navigation.read(navigation.passage) }
+                    else { Task { await giving.refresh(); if giving.available { navigation.tab = 5 } } }
+                    return
+                }
                 let pieces = (url.fragment ?? url.path).split(separator:"/").map(String.init)
                 if pieces.first == "home" { navigation.tab = 0 }
                 else if pieces.count >= 2, let chapter = Int(pieces[1]), let p = library.passage(book:pieces[0].removingPercentEncoding ?? pieces[0],chapter:chapter,verse:pieces.count>2 ? Int(pieces[2]) ?? 1 : 1) { navigation.read(p) }
