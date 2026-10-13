@@ -1,3 +1,16 @@
+October 13, 2026 — resumed after the user restarted the Mac.
+
+CURRENT STATUS
+- Keychain read-only checks now succeed; the existing Apple Development identity is valid. No certificate creation, revocation, keychain reset, or permission weakening was needed.
+- Build 2.0.2 (32) archived successfully for com.aperio.bible, team JYTDLQ3GAT.
+- App Store Connect upload succeeded; Apple currently shows Version 2.0.2, Build (32) as Processing.
+- Native commits through 2ee57d3b were pushed to origin/ios-rebuild successfully after the restart.
+- App Store Connect 2.0.2 draft retains the saved release and review notes; build selection is pending Apple processing. No review submission has been made for 2.0.2.
+- Website checkout v45 is already live. No live payment was submitted.
+
+Evidence: artifacts/archive-32-after-restart.log, artifacts/upload-32.log, artifacts/Aperio-2.0.2-32.xcarchive/Info.plist; App Store Connect TestFlight upload row checked in Chrome.
+
+PREVIOUS BLOCKER HISTORY (RESOLVED BY RESTART)
 October 13, 2026: code and all core/UI checks complete for 2.0.2 (32).
 Native changes committed locally as 8638632b on ios-rebuild.
 No build 32 archive or upload has succeeded yet.
