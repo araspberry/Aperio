@@ -1,1 +1,10 @@
-October 13, 2026: source and tests complete. Native return and edit links verified in simulator. Signed archive currently blocked: existing Apple Development identity is listed as valid, but macOS codesign reports CSSMERR_CSP_OPERATION_AUTH_DENIED / errSecInternalComponent. The same failure occurs in Xcode GUI. No certificates were deleted/revoked or keychain protections changed. User was asked to create a fresh Apple Development certificate through Xcode's Manage Certificates UI; this UI is open for the user. No build 32 upload has occurred yet.
+October 13, 2026: code and all core/UI checks complete for 2.0.2 (32).
+Native changes committed locally as 8638632b on ios-rebuild.
+No build 32 archive or upload has succeeded yet.
+
+Blocker: macOS Keychain denies existing signing-key access (-25293 / errSecAuthFailed); Xcode archive reports errSecInternalComponent. User attempted a new Apple Development certificate, but Xcode shows the October 13 certificate as Missing Private Key. No certificates were revoked or removed. User reports an incorrect username/passphrase error; asked them to leave its exact prompt visible for diagnosis. Do not reset the keychain or weaken its protections.
+GitHub push also failed with Keychain -25293, so the native commit is not pushed.
+
+App Store Connect 2.0.2 draft created and saved with new What's New and accurate review notes. No build selected and no review submission made. Version 2.0.1 (31) remains Ready for Distribution.
+
+Native UI checks include successful return/edit URL navigation and two-/three-digit verse-number layout. No live payment submitted.
