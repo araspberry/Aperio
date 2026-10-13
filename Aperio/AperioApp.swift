@@ -58,7 +58,7 @@ struct AppShell: View {
     var body: some View {
         VStack(spacing:0) {
             HStack {
-                Button { navigation.tab = 0 } label: { AperioWordmark() }.buttonStyle(.plain).accessibilityLabel("Aperio Bible App, Home")
+                Button { navigation.tab = 0 } label: { AperioWordmark() }.buttonStyle(.plain).accessibilityLabel("Aperio Study Bible, Home")
                 Spacer()
                 Button { search = true } label: { Image(systemName:"magnifyingglass").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Search Scripture")
                 Button { subscribe = true } label: { Image(systemName:"envelope").font(.title3).frame(width:44,height:44) }.accessibilityLabel("Verse of the Day options").accessibilityIdentifier("header.subscribe")

@@ -18,17 +18,17 @@ struct AperioWordmark: View {
         HStack(alignment:.firstTextBaseline,spacing:8) {
             (Text("aperio").foregroundStyle(Theme.paper) + Text(".").foregroundStyle(Theme.ribbon))
                 .font(Theme.serif(29)).tracking(-1.5)
-            BibleAppSubtitle()
+            StudyBibleSubtitle()
         }.fixedSize().accessibilityElement(children:.ignore)
     }
 }
-struct BibleAppSubtitle: View {
+struct StudyBibleSubtitle: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
-    private let letters = Array("BIBLE APP")
+    private let letters = Array("STUDY BIBLE")
     private let base = Color(hex:0x98A188)
     var body: some View {
         if reduceMotion {
-            Text("BIBLE APP").font(.system(size:11,weight:.medium,design:.serif).italic()).tracking(1.2).foregroundStyle(Theme.sage)
+            Text("STUDY BIBLE").font(.system(size:11,weight:.medium,design:.serif).italic()).tracking(1.2).foregroundStyle(Theme.sage)
         } else {
             TimelineView(.animation(minimumInterval:1.0/24)) { timeline in
                 HStack(alignment:.firstTextBaseline,spacing:1.2) {

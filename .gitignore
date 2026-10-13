@@ -14,3 +14,4 @@ artifacts/
 .swiftpm/
 .build/
 build-device/
+build-simulator/

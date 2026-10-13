@@ -1,0 +1,10 @@
+October 13, 2026 — Study Bible branding update
+
+- User reports submitting version 2.0.2 build 32. Its App Review submission was not changed.
+- Build 33 updates the subtitle beside Aperio to STUDY BIBLE, retaining the baseline layout, subtle italic letter glow, and bright red period.
+- VoiceOver label now says Aperio Study Bible, Home.
+- Debug build succeeded; the iPhone 16e simulator header was visually checked with both action buttons visible.
+- Release device archive succeeded; upload to App Store Connect succeeded and the package began processing.
+- No App Review submission or build replacement was performed for build 33.
+
+Evidence: artifacts/build-33-simulator.log, artifacts/study-bible-33-iphone.png, artifacts/archive-33.log, artifacts/upload-33.log.
